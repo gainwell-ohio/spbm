@@ -20,8 +20,8 @@ theme:
         name: Switch to light mode
   features:
     - navigation.instant
-    #- navigation.sections
-    - navigation.tabs
+    # - navigation.sections
+    # - navigation.tabs
     - navigation.prune
     - search.highlighting
 #extra_css:
