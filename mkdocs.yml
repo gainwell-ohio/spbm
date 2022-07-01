@@ -1,5 +1,5 @@
-site_name: "Gainwell Template"
-site_url: http://localhost/
+site_name: "Ohio SPBM Demo"
+site_url: http://spbm.ohio.gainwelltechnologies.com/
 theme: 
   name: material
   logo: img/favicon.ico
