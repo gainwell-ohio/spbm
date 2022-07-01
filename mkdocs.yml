@@ -1,0 +1,18 @@
+site_name: "Gainwell Template"
+site_url: http://localhost/
+theme: 
+  name: material
+  logo: img/favicon.ico
+  palette:
+    - media: "(prefers-color-scheme: light)" 
+      scheme: gainwell
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+#extra_css:
+  #- stylesheets/extra.css
