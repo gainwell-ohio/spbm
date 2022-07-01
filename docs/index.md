@@ -1,10 +1,10 @@
-# Welcome to State Pharmacy Benefits Management
+# Welcome
 
-This is a digital documentation example for Gainwell Technologies, in support of the Ohio activities.
+This is a digital documentation example for Gainwell Technologies, in support of the Ohio State Pharmacy Benefit Management activity.
 
 ## Technologies Incorporated
 
-* [MkDocs](mkdocs.org)
+* [MkDocs](https://mkdocs.org)
 * [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
 ## Project layout

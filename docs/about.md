@@ -1,8 +1,10 @@
-# Delivery Enablement
+# About
+
+## Delivery Enablement
 
 Gainwell Technologies COO, Steve Hilton, has commissioned Delivery Enablement, led by Tim Henderson, to aggressively drive operational improvement and efficiency into the delivery organizations and to partner with the product and account organizations.
 
-## Digital Workforce
+### Digital Workforce
 
 Digital Workforce is an organization under Delivery Enablement, led by Ron DeMena, whose mission is to 
 
