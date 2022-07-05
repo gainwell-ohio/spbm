@@ -1,8 +1,10 @@
 # Respiratory Agents: Cystic Fibrosis
 
-**LENGTH OF AUTHORIZATIONS:** Initial authorization 90 days
+**LENGTH OF AUTHORIZATIONS:**
 
-**Subsequent authorization:** 365 days
+Initial authorization 90 days
+
+Subsequent authorization 365 days
 
 **PRIOR AUTHORIZATION CRITERIA:**
 
@@ -18,10 +20,11 @@ Acceptable reasons include:
 
 **INITIAL AUTHORIZATION CRITERIA FOR BRONCHITOL, KALYDECO, ORKAMBI, SYMDEKO AND TRIKAFTA:**
 
-Patient must meet all the following criteria:
+1. Patient must meet all the following criteria:
 
-- Diagnosis of cystic fibrosis
-- The prescriber is, or has consulted with a pulmonologist or infectious disease specialist o Patient meets the FDA-approved age minimum for the requested medication
+    - Diagnosis of cystic fibrosis
+    - The prescriber is, or has consulted with a pulmonologist or infectious disease specialist
+    - Patient meets the FDA-approved age minimum for the requested medication
 
 **ADDITIONAL CRITERIA FOR BRONCHITOL:**
 

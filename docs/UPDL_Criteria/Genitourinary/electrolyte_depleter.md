@@ -16,8 +16,8 @@ Acceptable reasons include:
 
 **NON-PREFERRED AGENT:**
 
-For a non-preferred agent, there must have been an inadequate clinical response during a trial of no less than 7 days of at least two preferred medications
+For a non-preferred agent, there must have been an inadequate clinical response during a trial of no less than **7 days** of at least **two** preferred medications
 
-**CLINICAL INFORMATION**
+**CLINICAL INFORMATION:**
 
 Calcium acetate products may lead to hypercalcemia. This agent is recommended in patients with normal serum calcium levels.

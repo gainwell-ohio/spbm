@@ -12,14 +12,14 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 
 Acceptable reasons include:
 
-1.  Allergy to medications not requiring prior approval
-2.  Contraindication to recommended regimens not requiring prior approval
-3.  History of unacceptable/toxic side effects to medications not requiring prior approval
-4.  Has the patient had a therapeutic trial of at least 30 days with at least one medication not requiring prior approval? If applicable, the request must address the inability to use the individual components.
+1. Allergy to medications not requiring prior approval
+2. Contraindication to recommended regimens not requiring prior approval
+3. History of unacceptable/toxic side effects to medications not requiring prior approval
+4. Has the patient had a therapeutic trial of at least **30 days** with at least **one** medication not requiring prior approval? If applicable, the request must address the inability to use the individual components.
 
-**ADDITIONAL CRITERIA FOR RUKOBIA ER**
+**ADDITIONAL CRITERIA FOR RUKOBIA ER:**
 
-1\. Patient has been diagnosed with multidrug-resistant HIV-1 infection
+1. Patient has been diagnosed with multidrug-resistant HIV-1 infection
 
 Symtuza request must document clinical justification for patient inability to use the individual components (Prezcobix and Descovy)
 

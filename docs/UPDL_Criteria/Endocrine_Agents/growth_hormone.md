@@ -12,7 +12,9 @@ Acceptable reasons include:
 
 - Contraindication to or drug-to-drug interaction with medications not requiring prior approval.
 
-- History of unacceptable/toxic side effects to medications not requiring prior approval **NOTE:**
+- History of unacceptable/toxic side effects to medications not requiring prior approval
+
+**NOTE:**
 
 - All products in this class require clinical prior authorization
 
@@ -22,96 +24,108 @@ Acceptable reasons include:
 
 - The requested medication may be approved if the following is true:
 
-• If there has been a therapeutic failure to no less than a 90-day trial of at least one preferred medication
+  - If there has been a therapeutic failure to no less than a **90-day** trial of at least **one** preferred medication
 
-**CLINICAL CRITERIA**
+**CLINICAL CRITERIA:**
 
 Children - initial approval for the following diagnoses:
 
-1.  Growth Hormone Deficiency (GHD) – 180-day approval:
+1. Growth Hormone Deficiency (GHD) – **180-day approval:**
 
-    1) Standard deviation of 2.0 or more below mean height for chronological age; AND 2) No expanding intracranial lesion or tumor diagnosed; AND 3) Growth rate is:
+    1. Standard deviation of 2.0 or more below mean height for chronological age; AND
+    2. No expanding intracranial lesion or tumor diagnosed; AND
+    3. Growth rate is:
 
-    1.  Below five (5) centimeters per year; OR
-        1.  Below ten (10) centimeters per year in children under 3 years of age; OR
-            1.  Below ten (10) centimeters per year during puberty AND
+        1. Below five (5) centimeters per year; OR
+        2. Below ten (10) centimeters per year in children under 3 years of age; OR
+        3. Below ten (10) centimeters per year during puberty AND
 
-                4) Failure of any two stimuli test to raise the serum growth hormone level above 10 nanograms/milliliter; AND 5) Epiphyses must be open; AND
+    4. Failure of any two stimuli test to raise the serum growth hormone level above 10 nanograms/milliliter; AND
+    5. Epiphyses must be open; AND
+    6. Bone age 15-16 years or less in females and 16-17 years or less in males
+    7. Females with bone age \>16 and males with bone age \>17 may be approved for maintenance therapy (approval for 365 days) upon request by an endocrinologist.  (Maintenance dose is typically 50% of dose used to improve height)
 
-            2.  Bone age 15-16 years or less in females and 16-17 years or less in males
-            3.  Females with bone age \>16 and males with bone age \>17 may be approved for maintenance therapy (approval for 365 days) upon request by an endocrinologist.
+2. Growth Retardation of Chronic Kidney Disease – **365-day approval:**
 
-                (Maintenance dose is typically 50% of dose used to improve height)
+    1. Standard deviation of 2.0 or more below mean height for chronological age; AND
+    2. No expanding intracranial lesion or tumor diagnosed; AND
+    3. Growth rate below five (5) centimeters per year; AND
+    4. Irreversible renal insufficiency with a glomerular filtration rate less than 75 ml/min per 1.73m2 but pre-renal transplant; AND
+    5. Bone age 14-15 years or less in females and 15-16 years or less in males; AND
+    6. Epiphyses open.
 
-2.  Growth Retardation of Chronic Kidney Disease – 365-day approval:
-    1.  Standard deviation of 2.0 or more below mean height for chronological age; AND
-    2.  No expanding intracranial lesion or tumor diagnosed; AND
-    3.  Growth rate below five (5) centimeters per year; AND
-    4.  Irreversible renal insufficiency with a glomerular filtration rate less than 75 ml/min per 1.73m2 but pre-renal transplant; AND
-    5.  Bone age 14-15 years or less in females and 15-16 years or less in males; AND
-    6.  Epiphyses open.
-3.  Genetic diagnosis – 365-day approval: 1) One of the following:
-    1.  Krause-Kivlin Syndrome; or
-        1.  Turner Syndrome; or
-            1.  Prader-Willi Syndrome; or
-            2.  Noonan Syndrome
-        2.  Bone age between 14-15 years; **AND**
-        3.  Epiphyses open; **AND**
-        4.  Growth rate below five (5) centimeters per year
-4.  Neurosecretory Growth Retardation – 180-day approval
-    1.  Standard deviation of 2.0 or more below mean height for chronological age; AND
-        1.  No expanding intracranial lesion or tumor diagnosed; AND
-        2.  Growth rate below five (5) centimeters per year; AND
-        3.  Bone age 14-15 years or less in females and 15-16 years or less in males; AND 5) Epiphyses open; AND
+3. Genetic diagnosis – **365-day approval:**
 
-            6) Mixed or normal response to any two (2) stimuli test in raising serum growth hormone above 10 nanograms/milliliter.
+    1. One of the following:
 
-5.  Idiopathic Short Stature – 180-day approval
-    1.  A standard deviation of 2.25 or more below mean height for chronological age; AND
-        1.  No expanding intracranial lesion or tumor diagnosed; AND
-        2.  Growth rate is below five (5) centimeters per year; AND
-        3.  Bone age is 14-15 years or less in females and 15-16 years or less in males and epiphyses are open; AND
-        4.  A mixed or normal response to any two stimuli tests in raising serum growth hormone above 10 nanograms/milliliter; AND
-        5.  The child is proportionally shorter than the predicted rate of growth from the parent’s height; AND
-        6.  Requests must come from a pediatric endocrinologist.
-6.  Small for Gestational Age (SGA) – 365-day approval
-    1.  Request must come from a pediatric endocrinologist; AND
-        1.  Documentation to support diagnosis defined as birth weight or length 2 or more standard deviations below the mean for gestational age.
-        2.  Child fails to manifest catch up growth before 2 years of age, defined as height 2 or more standard deviations below the mean for age and gender.
-        3.  Note: Review must include evaluation of growth curves from birth
+        1. Krause-Kivlin Syndrome; or
+        2. Turner Syndrome; or
+        3. Prader-Willi Syndrome; or
+        4. Noonan Syndrome
+
+    2. Bone age between 14-15 years; **AND**
+    3. Epiphyses open; **AND**
+    4. Growth rate below five (5) centimeters per year
+
+4. Neurosecretory Growth Retardation – **180-day approval**
+
+    1. Standard deviation of 2.0 or more below mean height for chronological age; AND
+    2. No expanding intracranial lesion or tumor diagnosed; AND
+    3. Growth rate below five (5) centimeters per year; AND
+    4. Bone age 14-15 years or less in females and 15-16 years or less in males; AND
+    5. Epiphyses open; AND
+    6. Mixed or normal response to any two (2) stimuli test in raising serum growth hormone above 10 nanograms/milliliter.
+
+5. Idiopathic Short Stature – **180-day approval**
+
+    1. A standard deviation of 2.25 or more below mean height for chronological age; AND
+    2. No expanding intracranial lesion or tumor diagnosed; AND
+    3. Growth rate is below five (5) centimeters per year; AND
+    4. Bone age is 14-15 years or less in females and 15-16 years or less in males and epiphyses are open; AND
+    5. A mixed or normal response to any two stimuli tests in raising serum growth hormone above 10 nanograms/milliliter; AND
+    6. The child is proportionally shorter than the predicted rate of growth from the parent’s height; AND
+    7. Requests must come from a pediatric endocrinologist.
+
+6. Small for Gestational Age (SGA) – **365-day approval**
+
+    1. Request must come from a pediatric endocrinologist; AND
+    2. Documentation to support diagnosis defined as birth weight or length 2 or more standard deviations below the mean for gestational age.
+    3. Child fails to manifest catch up growth before 2 years of age, defined as height 2 or more standard deviations below the mean for age and gender.
+    4. Note: Review must include evaluation of growth curves from birth
 
 Reauthorization: The patient health status has improved since last approval (weight gain, improved body composition) 1-year approval
 
-Adults - initial approval for 180 days:
+**Adults - initial approval for 180 days:**
 
-Adult patients with growth hormone deficiency may be approved for replacement of endogenous growth hormone upon documentation of medical necessity from an endocrinologist. Requests will be
+Adult patients with growth hormone deficiency may be approved for replacement of endogenous growth hormone upon documentation of medical necessity from an endocrinologist. Requests will be reviewed and approved based upon the following conditions:
 
-reviewed and approved based upon the following conditions:
+1. Childhood Onset - Patients who were growth hormone deficient during childhood and who have a continued deficiency which is confirmed by provocative testing.
 
-1.  Childhood Onset - Patients who were growth hormone deficient during childhood and who have a continued deficiency which is confirmed by provocative testing.
-    1.  Adult Onset - Patients who have growth hormone deficiency, either alone or with multiple pituitary hormone deficiencies, such as hypopituitarism, as a result of pituitary disease, surgery, hypothalamic disease, radiation therapy, or trauma.
+2. Adult Onset - Patients who have growth hormone deficiency, either alone or with multiple pituitary hormone deficiencies, such as hypopituitarism, as a result of pituitary disease, surgery, hypothalamic disease, radiation therapy, or trauma.
 
-        Criteria for Approval for both conditions listed above:
+    Criteria for Approval for both conditions listed above:
 
-        1.  Biochemical diagnosis of growth hormone deficiency by means of a negative response to an appropriate stimulation test ordered by the endocrinologist
+    1. Biochemical diagnosis of growth hormone deficiency by means of a negative response to an appropriate stimulation test ordered by the endocrinologist   (Clonidine test is not acceptable for adults.); AND
+    2. No evidence of malignancy or other contraindication; AND
+    3. Other hormonal deficiencies addressed with adequate replacement therapy; AND
+    4. Base-line evaluation of the following clinical indicators
 
-            (Clonidine test is not acceptable for adults.); AND
+        a. Insulin-like growth factor-1 (IGF-1)-also required following dosage change
 
-        2.  No evidence of malignancy or other contraindication; AND
-        3.  Other hormonal deficiencies addressed with adequate replacement therapy; AND
-        4.  Base-line evaluation of the following clinical indicators
+        b. Fasting lipid profile
 
-            a. Insulin-like growth factor-1 (IGF-1)-also required following dosage change b. Fasting lipid profile
+        c. BUN
 
-            1.  BUN
-                1.  Fasting glucose
-                2.  Electrolyte levels
-                3.  Evaluation of any new osteoarthritis and joint pain
-                4.  Bone density test
+        d. Fasting glucose
 
-                    Maximum dose – less than or equal to 0.025mg/kg daily (up 35 years of age)
+        e. Electrolyte levels
 
-                    Maximum dose – less than or equal to 0.0125mg/kg daily (35 years of age or older) Reauthorization: documentation by endocrinologist that for the indication,
+        f. Evaluation of any new osteoarthritis and joint pain
 
-                    discontinuing GH would have a detrimental effect on body composition or other metabolic parameters 1-year approval
-                    
+        g. Bone density test
+
+     Maximum dose – less than or equal to 0.025mg/kg daily (up 35 years of age)
+
+    Maximum dose – less than or equal to 0.0125mg/kg daily (35 years of age or older)
+
+Reauthorization: documentation by endocrinologist that for the indication, discontinuing GH would have a detrimental effect on body composition or other metabolic parameters **1-year approval**

@@ -12,7 +12,7 @@
 
     - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-2. If there have been therapeutic failures after courses of treatment (e.g., 30 days for allergic rhinitis) with medication not requiring prior approval, then may approve the requested medication.
+2. If there have been therapeutic failures after **courses of treatment** (e.g., 30 days for allergic rhinitis) with medication not requiring prior approval, then may approve the requested medication.
 
 **ADDITIONAL INFORMATION:**
 

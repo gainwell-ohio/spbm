@@ -4,30 +4,32 @@
 
 **PRIOR AUTHORIZATION CRITERIA:**
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
-- Allergy to at least two medications in different classes (see below) not requiring prior approval
+    Acceptable reasons include:
 
-- Contraindication to all medications not requiring prior approval
+    - Allergy to at least **two** medications in different classes (see below) not requiring prior approval
 
-- History of unacceptable/toxic side effects to at least two medications in different classes (see below) not requiring prior approval
+    - Contraindication to all medications not requiring prior approval
 
-1.  Non-preferred medications will be approved for fibromyalgia after trial of agents from no less than two of the following drug classes for at least 14 days each in the past 90 days (guidelines suggest use of multiple agents concurrently to manage the signs of fibromyalgia):
+    - History of unacceptable/toxic side effects to at least **two** medications in different classes (see below) not requiring prior approval
 
-- Gabapentin
+2. Non-preferred medications will be approved for fibromyalgia after trial of agents from no less than two of the following drug classes for at least 14 days each in the past 90 days (guidelines suggest use of multiple agents concurrently to manage the signs of fibromyalgia):
 
-- Pregabalin
+    - Gabapentin
 
-- Short- and/or long-acting opioids\*\*
+    - Pregabalin
 
-- Skeletal muscle relaxants
+    - Short- and/or long-acting opioids\*\*
 
-- SNRIs
+    - Skeletal muscle relaxants
 
-- SSRIs
+    - SNRIs
 
-- Trazodone
+    - SSRIs
 
-- Tricyclic antidepressants
+    - Trazodone
 
-**\*\* The P&T Committee does not recommend the use of opioids for treatment of fibromyalgia**
+    - Tricyclic antidepressants
+
+\*\* The P&T Committee does not recommend the use of opioids for treatment of fibromyalgia

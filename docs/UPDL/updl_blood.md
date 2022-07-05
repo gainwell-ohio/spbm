@@ -32,7 +32,7 @@
 ## Hemophilia Factor
 
 | Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factor\*  |                     |
-|---------------------------------------------------------------------------|------------------- -|
+|---------------------------------------------------------------------------|--------------------|
 | PREFERRED                                                                 | NON-PREFERRED       |
 | Advate PA                                                                 | Jivi                |
 | Adynovate PA                                                              | Kovaltry            |

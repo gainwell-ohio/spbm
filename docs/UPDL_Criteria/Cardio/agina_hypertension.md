@@ -62,7 +62,7 @@ Aliskiren and Tekturna HCT may be approved if all the following are met:
 
 1. The requested medication may be approved if both of the following are true:
 
-    - If there has been a therapeutic failure to no less than a 30-day trial of at least two medications within the same class not requiring prior approval
+    - If there has been a therapeutic failure to no less than a **30-day** trial of at least **two** medications **within the same class** not requiring prior approval
 
     - The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated
 

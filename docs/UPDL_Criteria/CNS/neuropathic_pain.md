@@ -14,6 +14,6 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**ADDITIONAL INFORMATION**
+**ADDITIONAL INFORMATION:**
 
-- The requested medication may be approved if there has been a therapeutic failure to no less than a 30-day trial of at least two medications in separate pharmacologic classes not requiring prior authorization
+- The requested medication may be approved if there has been a therapeutic failure to no less than a **30-day** trial of at least **two** medications in separate pharmacologic classes not requiring prior authorization

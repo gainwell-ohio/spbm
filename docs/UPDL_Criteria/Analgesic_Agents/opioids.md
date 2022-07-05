@@ -8,7 +8,7 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 
 Acceptable reasons include:
 
-- Allergy to at least two unrelated medications not requiring prior approval
+- Allergy to at least **two unrelated** medications not requiring prior approval
 - Contraindication to or drug-to-drug interaction with medications not requiring prior approval
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
@@ -16,7 +16,7 @@ Acceptable reasons include:
 
 **ADDITIONAL AUTHORIZATION CRITERIA:**
 
-- There must have been an inadequate clinical response to preferred alternatives, including a trial of no less than 7 days of one preferred product.
+- There must have been an inadequate clinical response to preferred alternatives, including a trial of no less than **7 days** of **one** preferred product.
 
 **ADDITIONAL CRITERIA FOR EXCEEDING SHORT-ACTING OPIOID NEW START CRITERIA:**
 
@@ -40,7 +40,7 @@ Acceptable reasons include:
   
   - Prescriber has checked OARRS (attestation documented on prior authorization form)
 
-- Length of authorization: Up to 90 days, depending on the indication, previous patient utilization, and requested length of therapy (could be more restrictive)
+Length of authorization: Up to 90 days, depending on the indication, previous patient utilization, and requested length of therapy (could be more restrictive)
 
 **ADDITIONAL CRITERIA FOR TRANSMUCOSAL FENTANYL:**
 
@@ -71,7 +71,8 @@ Initial request (90-day approval)
   - Documentation of pain and function scores at each visit
   - Baseline urine drug test submitted and treatment plan includes requirements for random urine screens
   - Opioid contract required to be in place and should be submitted with prior authorization form
-  - Documented failure of both non-opioid pharmacologic and non-pharmacologic treatments ▪ History of short-acting opioids for \>/= 60 days
+  - Documented failure of both non-opioid pharmacologic and non-pharmacologic treatments 
+  - History of short-acting opioids for \>/= 60 days
   - Daily Dose \</= 80 MED
 
 - Renewal requests (after initial 90 days then every 180 days)

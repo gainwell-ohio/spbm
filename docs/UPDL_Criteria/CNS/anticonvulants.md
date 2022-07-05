@@ -8,7 +8,7 @@ Patients who have a claim for a non-preferred drug in the previous 120 days will
 
 **STEP THERAPY:**  all agents listed
 
-1. For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than 30 days of at least one preferred product.
+1. For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than 30 days of at least **one preferred** product.
 
 **PRIOR AUTHORIZATION CRITERIA:**
 
@@ -16,17 +16,19 @@ Patients who have a claim for a non-preferred drug in the previous 120 days will
 
     Acceptable reasons include:
 
-    - Allergy to two preferred medications
+    - Allergy to **two preferred** medications
 
-    - Contraindication to or drug interaction with two preferred medications
+    - Contraindication to or drug interaction with **two preferred** medications
 
-    - History of unacceptable/toxic side effects to two preferred medications
+    - History of unacceptable/toxic side effects to **two preferred** medications
 
-2. If there has been a therapeutic failure to no less than two preferred products for a 30-day trial each. Prescriptions submitted with the prescriber NPI of a physician who has registered a neurology specialty with Ohio Medicaid, for products that are used only for seizures, require a trial of one preferred product for 30 days. This provision applies only to the standard tablet/capsule dosage form and does not apply to brand products with available generic alternatives.
+2. If there has been a therapeutic failure to no less than **two preferred** products for a **30-day** trial each. Prescriptions submitted with the prescriber NPI of a physician who has registered a neurology specialty with Ohio Medicaid, for products that are used only for seizures, require a trial of **one preferred** product for **30 days**. This provision applies only to the standard tablet/capsule dosage form and does not apply to brand products with available generic alternatives.
 
 **ADDITIONAL CRITERIA FOR EPIDIOLEX:**
 
-**LENGTH OF AUTHORIZATIONS:**  Initial Authorization 180 days
+**LENGTH OF AUTHORIZATIONS:**  
+
+Initial Authorization 180 days
 
 Subsequent Authorizations 365 days
 
@@ -44,7 +46,9 @@ Epidiolex excluded from Grandfathering. Re-authorization requires documented red
 
 **ADDITIONAL CRITERIA FOR DIACOMIT:**
 
-**LENGTH OF AUTHORIZATIONS:**  Initial Authorization 180 days
+**LENGTH OF AUTHORIZATIONS:**  
+
+Initial Authorization 180 days
 
 Subsequent Authorizations 365 days
 

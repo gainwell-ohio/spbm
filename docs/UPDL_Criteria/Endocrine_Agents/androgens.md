@@ -16,8 +16,8 @@ Acceptable reasons include:
 
 All products within this category require submission of lab work to support the need for testosterone supplementation
 
-The requested medication may be approved if there has been a therapeutic failure to no less than a 90day trial of all medications not requiring prior approval.
+The requested medication may be approved if there has been a therapeutic failure to no less than a **90-day** trial of **all** medications not requiring prior approval.
 
-**ADDITIONAL INFORMATION**
+**ADDITIONAL INFORMATION:**
 
 Use limited to FDA approved indications in those 18 years and older.

@@ -14,8 +14,8 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**ADDITIONAL INFORMATION**
+**ADDITIONAL INFORMATION:**
 
 The requested medication may be approved if the following is true:
 
-- If there has been a therapeutic failure to no less than a 14-day trial of at least one medication not requiring prior approval
+- If there has been a therapeutic failure to no less than a **14-day** trial of at least **one medication** not requiring prior approval

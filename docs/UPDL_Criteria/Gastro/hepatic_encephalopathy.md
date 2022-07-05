@@ -4,7 +4,9 @@
 
 **PRIOR AUTHORIZATION CRITERIA:**
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+Is there any reason the patient cannot be changed to a medication not requiring prior approval?
+
+Acceptable reasons include:
 
 - Allergy to medication not requiring prior approval
 
@@ -14,5 +16,5 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 
 **STEP THERAPY:**  all agents listed
 
-1.  For a drug requiring step therapy, there must have been inadequate clinical response to a preferred alternative
-2.  XIFAXAN requires a diagnosis of hepatic encephalopathy and may be approved for monotherapy or add on therapy if there has been a therapeutic failure (defined as a recurrent episode) while on lactulose
+1. For a drug requiring step therapy, there must have been inadequate clinical response to a preferred alternative
+2. XIFAXAN requires a diagnosis of hepatic encephalopathy and may be approved for monotherapy or add on therapy if there has been a therapeutic failure (defined as a recurrent episode) while on lactulose

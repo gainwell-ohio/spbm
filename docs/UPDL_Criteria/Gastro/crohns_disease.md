@@ -1,6 +1,6 @@
 # Gastrointestinal Agents: Crohn’s Disease
 
-**OF**   365 Days
+**LENGTH OF AUTHORIZATIONS:**   365 Days
 
 **PRIOR AUTHORIZATION CRITERIA:**
 
@@ -14,4 +14,4 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-For a non-preferred agent, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than 30 days each of at least two preferred products.
+For a non-preferred agent, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days each** of at least **two** preferred products.

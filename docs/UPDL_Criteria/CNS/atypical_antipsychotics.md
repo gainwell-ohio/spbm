@@ -28,8 +28,8 @@ Acceptable reasons include:
 
 **STEP THERAPY:**
 
-1.  For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than 30 days of at least one preferred product
-2.  For a non-preferred drug, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than 30 days each of at least two preferred or step therapy products
+1. For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days** of at least **one preferred** product
+2. For a non-preferred drug, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days each** of at least **two preferred** or step therapy products
 
 **ADDITIONAL CRITERIA FOR INVEGA HAFYERA ER:**
 
@@ -37,22 +37,24 @@ Acceptable reasons include:
 
 **ADDITIONAL CRITERIA FOR LYBALVI:**
 
-1.  Patient must not be using opioids.
-2.  Patient must not be undergoing acute opioid withdrawal.
+1. Patient must not be using opioids.
+2. Patient must not be undergoing acute opioid withdrawal.
 
-    **ADDITIONAL CRITERIA FOR AGENTS FOR PARKINSON’ S DISEASE PSYCHOSIS (NUPLAZID):**
+**ADDITIONAL CRITERIA FOR AGENTS FOR PARKINSON’ S DISEASE PSYCHOSIS (NUPLAZID):**
 
-    Pimavanserin (Nuplazid) may be approved if all the following are met:
+Pimavanserin (Nuplazid) may be approved if all the following are met:
 
-    1.  Patient is diagnosed with Parkinson’s disease and has psychotic symptoms (hallucinations and/or delusions) that started after Parkinson’s diagnosis
-    2.  These psychotic symptoms are severe and frequent enough to warrant treatment with an antipsychotic AND are not related to dementia or delirium
-    3.  The patient’s other medications for Parkinson’s Disease have been reduce or adjusted and psychotic symptoms remain OR patient is unable to tolerate adjustment of these other medications
-    4.  There has been inadequate clinical response to a trial of no less than 30 days of either quetiapine or clozapine OR these therapies cannot be utilized
-    5.  An exemption to the criteria will be granted for prescribing doctors with a neurology specialty to a patient with a history of an anti-Parkinson’s agent
+1. Patient is diagnosed with Parkinson’s disease and has psychotic symptoms (hallucinations and/or delusions) that started after Parkinson’s diagnosis
+2. These psychotic symptoms are severe and frequent enough to warrant treatment with an antipsychotic AND are not related to dementia or delirium
+3. The patient’s other medications for Parkinson’s Disease have been reduce or adjusted and psychotic symptoms remain OR patient is unable to tolerate adjustment of these other medications
+4. There has been inadequate clinical response to a trial of no less than **30 days** of either quetiapine or clozapine OR these therapies cannot be utilized
+5. An exemption to the criteria will be granted for prescribing doctors with a neurology specialty to a patient with a history of an anti-Parkinson’s agent
 
 **OTHER APPROVAL CRITERIA:**
 
-Is there any reason the patient cannot be changed to a preferred medication? Acceptable reasons include:
+Is there any reason the patient cannot be changed to a preferred medication?
+
+Acceptable reasons include:
 
 - Allergy to preferred medications
 
@@ -68,7 +70,7 @@ Is there any reason the patient cannot be changed to a preferred medication? Acc
 
 - Abilify Mycite will be restricted to prescribing by a psychiatrist following an aripiprazole serum blood level draw indicating need for further investigation of adherence.
 
-**ANTIPSYCHOTICS, SECOND GENERATION and SSRI COMBINATION**
+**ANTIPSYCHOTICS, SECOND GENERATION and SSRI COMBINATION:**
 
 | **NO PA REQUIRED “PREFERRED”**  | **STEP THERAPY REQUIRED** **“PREFERRED”**                                                                                       | **PA REQUIRED “NON-PREFERRED”**              |
 |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|

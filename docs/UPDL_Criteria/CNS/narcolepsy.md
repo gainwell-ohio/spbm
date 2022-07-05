@@ -22,25 +22,25 @@ Acceptable reasons include:
 
 - Sunosi (soriamfetol)
 
--   Diagnosis of narcolepsy with excessive daytime sleepiness or obstructive sleep apnea with excessive daytime sleepiness **AND**
--   An inadequate response to or inability to tolerate a 30-day course of treatment with modafinil or armodafinil **AND**
--   An inadequate response to or inability to tolerate a 30-day course of treatment with a preferred methylphenidate or amphetamine product
+  - Diagnosis of narcolepsy with excessive daytime sleepiness or obstructive sleep apnea with excessive daytime sleepiness **AND**
+  - An inadequate response to or inability to tolerate a 30-day course of treatment with modafinil or armodafinil **AND**
+  - An inadequate response to or inability to tolerate a 30-day course of treatment with a preferred methylphenidate or amphetamine product
 
-    - Wakix (pitolisant), Xyrem (sodium oxybate)
+- Wakix (pitolisant), Xyrem (sodium oxybate)
 
--   Diagnosis of narcolepsy with excessive daytime sleepiness **AND**
--   An inadequate response to or inability to tolerate a 30‐day course of treatment with modafinil or armodafinil **AND**
--   An inadequate response to or inability to tolerate a 30‐day course of treatment with a preferred methylphenidate or amphetamine product **OR**
--   Diagnosis of narcolepsy with cataplexy
+  - Diagnosis of narcolepsy with excessive daytime sleepiness **AND**
+  - An inadequate response to or inability to tolerate a 30‐day course of treatment with modafinil or armodafinil **AND**
+  - An inadequate response to or inability to tolerate a 30‐day course of treatment with a preferred methylphenidate or amphetamine product **OR**
+  - Diagnosis of narcolepsy with cataplexy
 
-    - Xywav (calcium, magnesium, potassium & sodium oxybates)
+- Xywav (calcium, magnesium, potassium & sodium oxybates)
 
--   Diagnosis of narcolepsy with excessive daytime sleepiness **AND**
--   An inadequate response to or inability to tolerate a 30‐day course of treatment with modafinil or armodafinil **AND**
--   An inadequate response to or inability to tolerate a 30‐day course of treatment with a preferred methylphenidate or amphetamine product **AND**
--   Sodium restriction with documented adherence to sodium restricted diet **OR**
--   Diagnosis of narcolepsy with cataplexy **AND**
--   Sodium restriction with documented adherence to sodium restricted diet
+  - Diagnosis of narcolepsy with excessive daytime sleepiness **AND**
+  - An inadequate response to or inability to tolerate a 30‐day course of treatment with modafinil or armodafinil **AND**
+  - An inadequate response to or inability to tolerate a 30‐day course of treatment with a preferred methylphenidate or amphetamine product **AND**
+  - Sodium restriction with documented adherence to sodium restricted diet **OR**
+  - Diagnosis of narcolepsy with cataplexy **AND**
+  - Sodium restriction with documented adherence to sodium restricted diet
 
 **REAUTHORIZATION CRITERIA:**
 

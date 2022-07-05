@@ -22,24 +22,28 @@ Acceptable reasons include:
 
 - “Pulse” dosing cycles of 28 days on drug, followed by 28 days off drug
 
-**ADDITIONAL INFORMATION**
+**ADDITIONAL INFORMATION:**
 
 The requested medication may be approved if the following is true:
 
-- If there has been no less than a 28-day trial of at least one preferred medication
+- If there has been no less than a **28-day** trial of at least **one preferred** medication
 
-**ADDITIONAL CRITERIA FOR AMIKACIN**
+**ADDITIONAL CRITERIA FOR AMIKACIN:**
 
-**LENGTH OF AUTHORIZATIONS**: Initial authorization 180 days Subsequent authorizations 365 days
+**LENGTH OF AUTHORIZATIONS**:
 
-1.  Clinical criteria for initial authorization:
+Initial authorization 180 days
 
-- Diagnosis of *Mycobacterium avium* complex (MAC) lung disease; and
+Subsequent authorizations 365 days
 
-- Patient has not achieved negative sputum cultures after a minimum of 180 consecutive days of a multidrug background regimen therapy (e.g. macrolide, rifampin, & ethambutol)
+1. Clinical criteria for initial authorization:
 
-1.  Criteria for subsequent authorizations
+    - Diagnosis of *Mycobacterium avium* complex (MAC) lung disease; and
 
-- Evidence of culture conversion (negative sputum culture)
+    - Patient has not achieved negative sputum cultures after a minimum of 180 consecutive days of a multidrug background regimen therapy (e.g. macrolide, rifampin, & ethambutol)
 
-1.  Dose will be limited to 1 dose per day
+2. Criteria for subsequent authorizations
+
+    - Evidence of culture conversion (negative sputum culture)
+
+3. Dose will be limited to 1 dose per day

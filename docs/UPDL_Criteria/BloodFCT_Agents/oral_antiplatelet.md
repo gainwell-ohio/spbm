@@ -16,4 +16,4 @@ Requested medication must be used for an approved FDA indication and duration
 
     - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-2. Has the patient failed a 14-day trial with two medications not requiring prior approval?
+2. Has the patient failed a 14-day trial with **two medications** not requiring prior approval?

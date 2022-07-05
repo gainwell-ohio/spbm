@@ -4,7 +4,9 @@
 
 **PRIOR AUTHORIZATION CRITERIA:**
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+Is there any reason the patient cannot be changed to a medication not requiring prior approval? 
+
+Acceptable reasons include:
 
 - Allergy to medications not requiring prior approval
 
@@ -12,9 +14,9 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**ADDITIONAL INFORMATION**
+**ADDITIONAL INFORMATION:**
 
 The requested medication may be approved if both of the following are true:
 
-1.  If there has been a therapeutic failure to no less than a 3-day trial of at least one medication not requiring prior approval
-2.  The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated.
+1. If there has been a therapeutic failure to no less than a **3-day** trial of at least **one** medication not requiring prior approval
+2. The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated.

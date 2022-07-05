@@ -14,4 +14,4 @@
 
     - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-2. Has the patient failed a 30-day trial with one medication not requiring prior approval?
+2. Has the patient failed a **30-day** trial with **one** medication not requiring prior approval?

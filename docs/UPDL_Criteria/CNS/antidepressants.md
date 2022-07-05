@@ -16,7 +16,7 @@ Providers (as identified below) are exempt from prior authorization of any non-p
 
 **PRIOR AUTHORIZATION CRITERIA:**
 
-1.  Is there any reason the patient cannot be changed to a preferred medication? Acceptable reasons include:
+1. Is there any reason the patient cannot be changed to a preferred medication? Acceptable reasons include:
 
     - Allergy to preferred medications
 
@@ -28,4 +28,4 @@ Providers (as identified below) are exempt from prior authorization of any non-p
 
     - The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated.
 
-2.  If there has been a therapeutic failure to no less than two preferred products for a 30-day trial each.
+2. If there has been a therapeutic failure to no less than **two preferred** products for a **30-day** trial each.

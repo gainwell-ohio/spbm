@@ -4,4 +4,4 @@
 
 **PRIOR AUTHORIZATION CRITERIA:**
 
-1\. Daliresp must be used with a long-acting beta agonist or long-acting muscarinic antagonists
+1. Daliresp must be used with a long-acting beta agonist or long-acting muscarinic antagonists

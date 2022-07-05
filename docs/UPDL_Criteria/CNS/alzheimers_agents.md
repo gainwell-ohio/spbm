@@ -18,4 +18,4 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-Has the patient failed a therapeutic trial of at least 30 days with at least two medications not requiring prior approval?
+Has the patient failed a therapeutic trial of at least **30 days** with at least **two medications** not requiring prior approval?

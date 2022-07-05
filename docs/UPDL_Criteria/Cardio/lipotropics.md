@@ -13,12 +13,12 @@
     Acceptable reasons include:
 
   - Allergy to medications not requiring prior approval
-  - Contraindication to or drug-to-drug interaction with medications not requiring prior approval (pravastatin is the only HMG-CoA not metabolized by the cytochrome P450 liver enzyme system)
+  - Contraindication to or drug-to-drug interaction with medications not requiring prior approval (pravastatin is the **only** HMG-CoA not metabolized by the cytochrome P450 liver enzyme system)
   - History of unacceptable/toxic side effects to medications not requiring prior approval
 
 **ADDITIONAL PRIOR AUTHORIZATION CRITERIA:**
 
-- If there has been a 30-day trial with no less than two of preferred HMG-CoA products, then a nonpreferred HMG-CoA agent can be approved.
+- If there has been a 30-day trial with no less than **two** of preferred HMG-CoA products, then a nonpreferred HMG-CoA agent can be approved.
 
 **ADDITIONAL CRITERIA FOR COLESEVELAM (WELCHOL):**
 

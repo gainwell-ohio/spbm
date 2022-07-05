@@ -13,8 +13,8 @@ Initial Authorization 180 days
     Acceptable reasons include:
 
   - Allergy to preferred medications
-  - Contraindication to three preferred medications
-  - History of unacceptable/toxic side effects/intolerance to at least three preferred medications
+  - Contraindication to **three** preferred medications
+  - History of unacceptable/toxic side effects/intolerance to at least **three** preferred medications
 
 **STEP THERAPY REQUIRED PREFERRED MEDICATION:**
 
@@ -27,10 +27,13 @@ Initial Authorization 180 days
 **ADDITIONAL CRITERIA FOR MIGRAINE PROPHYLAXIS:**
 
 1. Patient must have one of the following diagnoses:
-   1. **Episodic** migraine with the following frequencies of migraine:
+
+   a. **Episodic** migraine with the following frequencies of migraine:
         - 4-15 headaches per 30 days measured over 90 consecutive days and headache duration of longer than 4 hours per day or longer during an attack on average.
-   2. **Chronic** migraine with the following frequencies of migraine:
+
+   b. **Chronic** migraine with the following frequencies of migraine:
         - 15 or more headaches per 30 days measured over 90 consecutive days and headache duration of longer than 4 hours per day or longer during an attack on average
+
 2. Prior Authorization may be approved if the patient has failed a trial of at least 30 days each to at least 3 controller migraine medications or has experienced contraindications or intolerance to them (i.e., beta-blockers, anticonvulsants, tricyclic antidepressants, and/or serotonin-norepinephrine reuptake inhibitors).
 3. Initial authorization will be limited to 180 days. Re-authorization for 365 days will be allowed based upon evidence of improved headache control (such as headache diary or attestation of ongoing efficacy from provider).
 
