@@ -1,15 +1,11 @@
-# Welcome to MkDocs
+# Welcome
 
-This is a template example for Gainwell Technologies.
+This is a digital documentation example for Gainwell Technologies, in support of the Ohio State Pharmacy Benefit Management activity.
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+## Technologies Incorporated
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* [MkDocs](https://mkdocs.org)
+* [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
 ## Project layout
 

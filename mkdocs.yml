@@ -1,8 +1,13 @@
 site_name: "Ohio SPBM Demo"
 site_url: http://spbm.ohio.gainwelltechnologies.com/
+repo_url: https://dev.azure.com/Gainwell-RPA/RPA/_git/Documentation
+repo_name: Ohio SPBM Docs
+edit_uri: "?path=/docs"
 theme: 
   name: material
   logo: img/favicon.ico
+  icon:
+    repo: material/microsoft-azure-devops
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: gainwell
@@ -14,5 +19,11 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+  features:
+    - navigation.instant
+    # - navigation.sections
+    # - navigation.tabs
+    - navigation.prune
+    - search.highlighting
 #extra_css:
   #- stylesheets/extra.css
