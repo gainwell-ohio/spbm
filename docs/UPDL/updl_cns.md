@@ -161,30 +161,30 @@
 
 ## Attention Deficit Hyperactivity Disorder Agents
 
-| Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents  |                                                       |
-|---------------------------------------------------------------------------------------|-------------------------------------------------------|
-| PREFERRED                                                                             | NON-PREFERRED                                         |
-| Amphetamine/Dextroamphetamine ER                                                      | Adhansia XR                                           |
-| Amphetamine/Dextroamphetamine IR                                                      | Adzenys ER                                            |
-| Atomoxetine Cap                                                                       | Adzenys XR ODT                                        |
-| Clonidine ER                                                                          | Amphetamine Tab                                       |
-| Concerta                                                                              | Azstarys                                              |
-| Dexmethylphenidate Tab                                                                | Cotempla XR ODT                                       |
-| Dexmethylphenidate ER (generic of Focalin XR)                                         | Daytrana                                              |
-| Dextroamphetamine ER Cap                                                              | Dyanavel XR                                           |
-| Dextroamphetamine Sol AR                                                              | Evekeo ODT                                            |
-| Dextroamphetamine Tab                                                                 | Jornay PM                                             |
-| Focalin XR                                                                            | Methamphetamine                                       |
-| Guanfacine ER                                                                         | Methylphenidate Chewable Tab                          |
+| Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents  |                |
+|---------------------------------------------------------------------------------------|----------------|
+| PREFERRED                                                                             | NON-PREFERRED  |
+| Amphetamine/Dextroamphetamine ER                                                      | Adhansia XR    |
+| Amphetamine/Dextroamphetamine IR                                                      | Adzenys ER     |
+| Atomoxetine Cap                                                                       | Adzenys XR ODT |
+| Clonidine ER                                                                          | Amphetamine Tab|
+| Concerta                                                                              | Azstarys       |
+| Dexmethylphenidate Tab                                                                | Cotempla XR ODT|
+| Dexmethylphenidate ER (generic of Focalin XR)                                         | Daytrana       |
+| Dextroamphetamine ER Cap                                                              | Dyanavel XR    |
+| Dextroamphetamine Sol AR                                                              | Evekeo ODT     |
+| Dextroamphetamine Tab                                                                 | Jornay PM      |
+| Focalin XR                                                                            | Methamphetamine|
+| Guanfacine ER                                                                         | Methylphenidate Chewable Tab |
 | Methylphenidate ER Cap (generic of Metadate CD,  Ritalin LA)                          | Methylphenidate ER (generic of Aptensio XR, Relexxii) |
-| Methylphenidate ER Tab (generic of Concerta,  Methylin ER, Ritalin SR)                | Mydayis                                               |
-| Methylphenidate Sol AR                                                                | Vyvanse Chewable Tab                                  |
-| Methylphenidate Tab                                                                   | Zenzedi                                               |
-| Qelbree ST                                                                            |                                                       |
-| Quillichew ER                                                                         |                                                       |
-| Quillivant XR                                                                         |                                                       |
-| Ritalin LA                                                                            |                                                       |
-| Vyvanse Cap                                                                           |                                                       |
+| Methylphenidate ER Tab (generic of Concerta,  Methylin ER, Ritalin SR)                | Mydayis        |
+| Methylphenidate Sol AR                                                                | Vyvanse Chewable Tab         |
+| Methylphenidate Tab                                                                   | Zenzedi        |
+| Qelbree ST                                                                            |                |
+| Quillichew ER                                                                         |                |
+| Quillivant XR                                                                         |                |
+| Ritalin LA                                                                            |                |
+| Vyvanse Cap                                                                           |                |
 
 **Link to Criteria:** [Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=32)
 

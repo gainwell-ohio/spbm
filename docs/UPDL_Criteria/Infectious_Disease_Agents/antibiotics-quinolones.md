@@ -26,3 +26,15 @@
 2. If the prescriber expresses concern over safety issues of a preferred agent, a non-preferred agent may be approved.
 
 AR - Ciprofloxacin Suspension: a PA is required for patients over 12 years old
+
+## Antibiotics - Quinolones
+
+| Infectious Disease Agents: Antibiotics – Quinolones  |                         |
+|------------------------------------------------------|-------------------------|
+| PREFERRED                                            | NON-PREFERRED           |
+| Ciprofloxacin                                        | Baxdela                 |
+| Ciprofloxacin Susp AR                                | Ciprofloxacin ER        |
+| Levofloxacin                                         | Moxifloxacin            |
+|                                                      | Ofloxacin               |
+
+**Link to Criteria:** [Infectious Disease Agents: Antibiotics - Quinolones](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=73)

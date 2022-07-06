@@ -25,3 +25,14 @@ Acceptable reasons include:
 - The patient must have a failure to respond to maximally tolerated dose of tetrabenazine
 
 Austedo quantity limit of 4 tablets per day
+
+## Movement Disorders
+
+| Central Nervous System (CNS) Agents: Movement Disorders   |                        |
+|-----------------------------------------------------------|------------------------|
+| PREFERRED                                                 | NON-PREFERRED          |
+| Austedo PA QL                                             |                        |
+| Ingrezza PA                                               |                        |
+| Tetrabenazine PA                                          |                        |
+
+**Link to Criteria:** [Central Nervous System (CNS) Agents: Movement Disorders](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=36)

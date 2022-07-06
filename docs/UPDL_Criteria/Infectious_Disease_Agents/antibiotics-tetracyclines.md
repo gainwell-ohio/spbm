@@ -53,3 +53,16 @@ AR - Vibramycin Suspension: a PA is required for patients over 12 years old
 **ADDITIONAL INFORMATION TO AID IN THE FINAL DECISION:**
 
 If the patient is completing a course of therapy with a medication requiring prior approval, which was initiated in the hospital, then may approve the requested medication to complete the course of therapy.
+
+## Antibiotics - Tetracyclines
+
+| Infectious Disease Agents: Antibiotics – Tetracyclines  |                                |
+|---------------------------------------------------------|--------------------------------|
+| PREFERRED                                               | NON-PREFERRED                  |
+| Doxycycline 50, 100mg                                   | Doxycycline 20, 40, 75, 150mg  |
+| Doxycycline Syr                                         | Doxycycline DR                 |
+| Minocycline Cap                                         | Minocycline ER                 |
+| Tetracycline                                            | Minocycline Tab                |
+| Vibramycin Susp AR                                      | Nuzyra                         |
+
+**Link to Criteria:** [Infectious Disease Agents: Antibiotics - Tetracyclines](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=75)

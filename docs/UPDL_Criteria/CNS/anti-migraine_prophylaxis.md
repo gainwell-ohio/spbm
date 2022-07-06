@@ -40,3 +40,17 @@ Initial Authorization 180 days
 \*Aimovig Initial Dose is limited to 70mg once per 30 days; may request dose increase if 70mg fails to provide adequate relief over 60 consecutive days.
 
 \* Ajovy 675mg doses (quarterly administration) will not be authorized until patient has demonstrated efficacy of medication for at least 90 days.
+
+## Anti-Migraine Agents, Prophylaxis
+
+| Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis    |                |
+|---------------------------------------------------------------------------|----------------|
+| PREFERRED                                                                 | NON-PREFERRED  |
+| Aimovig QL ST                                                             | Emgality       |
+| Ajovy ST                                                                  | Nurtec ODT     |
+| Cardiovascular Agents: Beta-Blockers                                      | Qulipta        |
+| CNS Agents: Anticonvulsants                                               |                |
+| CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors                  |                |
+| CNS Agents: Tricyclic Antidepressants                                     |                |
+
+**Link to Criteria:** [Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=24)

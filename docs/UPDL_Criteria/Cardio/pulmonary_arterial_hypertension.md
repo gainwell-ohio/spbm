@@ -23,3 +23,20 @@ Patients who have a claim for a non-preferred drug in the previous 120 days will
 4. Has the patient failed a therapeutic trial of at least **30 days** with at least two medications, one of which is a Phosphodiesterase-5 Inhibitor, not requiring prior approval?
 
 AR - Sildenafil oral solution: a PA is required for patients over 6 years old
+
+## Pulmonary Arterial Hypertension
+
+| Cardiovascular Agents: Pulmonary Arterial Hypertension\* |                            |
+|----------------------------------------------------------|----------------------------|
+| PREFERRED                                                | NON-PREFERRED              |
+| Ambrisentan PA                                           | Adempas                    |
+| Sildenafil PA                                            | Bosentan                   |
+| Sildenafil Susp AR PA                                    | Epoprostenol               |
+| Tadalafil PA                                             | Opsumit                    |
+| Tracleer BvG PA                                          | Tracleer Susp              |
+|                                                          | Treprostinil               |
+|                                                          | Tyvaso                     |
+|                                                          | Uptravi                    |
+|                                                          | Ventavis                   |
+
+**Link to Criteria:** [Cardiovascular Agents: Pulmonary Arterial Hypertension](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=20)

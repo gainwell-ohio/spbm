@@ -2,8 +2,8 @@
 
 **LENGTH OF AUTHORIZATIONS:**
 
- No PA required for short-acting, buprenorphine containing, oral agents 30 days for initial authorization of injectable not to exceed 180 days for subsequent authorizations of injectable; length depending upon patient status and compliance to treatment plan 14-day authorization for Lucemyra@ (lofexidine) 
- 
+ No PA required for short-acting, buprenorphine containing, oral agents 30 days for initial authorization of injectable not to exceed 180 days for subsequent authorizations of injectable; length depending upon patient status and compliance to treatment plan 14-day authorization for Lucemyra@ (lofexidine)
+
  **PRIOR AUTHORIZATION CRITERIA:**
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
@@ -48,3 +48,17 @@ Vivitrol may be billed by the pharmacy if it is not dispensed directly to the pa
 **Additional Sublocade Information:**
 
 Sublocade may be billed by the pharmacy if it is not dispensed directly to the patient. If not administered at the pharmacy, the drug must be released only to the administering provider or administering provider's staff, following all applicable regulations.
+
+## Medication Assisted Treatment of Opioid Addiction
+
+| Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction  |                      |
+|-----------------------------------------------------------------------------------------|----------------------|
+| PREFERRED                                                                               | NON-PREFERRED        |
+| Buprenorphine/Naloxone                                                                  | Buprenorphine        |
+| Clonidine                                                                               | Lucemyra QL          |
+| Sublocade QL                                                                            |                      |
+| Suboxone                                                                                |                      |
+| Vivitrol                                                                                |                      |
+| Zubsolv                                                                                 |                      |
+
+**Link to Criteria:** [Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=34)

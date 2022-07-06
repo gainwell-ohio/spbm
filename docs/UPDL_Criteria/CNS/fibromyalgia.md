@@ -33,3 +33,12 @@
     - Tricyclic antidepressants
 
 \*\* The P&T Committee does not recommend the use of opioids for treatment of fibromyalgia
+
+## Fibromyalgia Agents
+
+| Central Nervous System (CNS) Agents: Fibromyalgia Agents      |                    |
+|---------------------------------------------------------------|--------------------|
+| PREFERRED                                                     | NON-PREFERRED      |
+| Pregabalin                                                    | Savella            |
+
+**Link to Criteria:** [Central Nervous System (CNS) Agents: Fibromyalgia Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL.pdf#page=33)

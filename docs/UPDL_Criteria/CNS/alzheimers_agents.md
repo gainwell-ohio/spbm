@@ -19,3 +19,18 @@ Acceptable reasons include:
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
 Has the patient failed a therapeutic trial of at least **30 days** with at least **two medications** not requiring prior approval?
+
+## Alzheimer's Agents
+
+| Central Nervous System (CNS) Agents: Alzheimer’s Agents\*  |                       |
+|------------------------------------------------------------|-----------------------|
+| PREFERRED                                                  | NON-PREFERRED         |
+| Donepezil 5mg, 10mg Tab                                    | Donepezil 23mg Tab    |
+| Donepezil ODT                                              | Galantamine Sol       |
+| Exelon Patch BvG                                           | Memantine ER          |
+| Galantamine Tab                                            | Memantine Sol         |
+| Galantamine ER Cap                                         | Namzaric              |
+| Memantine Tab                                              | Rivastigmine Patch    |
+| Rivastigmine Cap                                           |                       |
+
+**Link to Criteria:** [Central Nervous System (CNS) Agents: Alzheimer’s Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=21)

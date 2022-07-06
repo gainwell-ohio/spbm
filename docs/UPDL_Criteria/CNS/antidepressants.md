@@ -29,3 +29,32 @@ Providers (as identified below) are exempt from prior authorization of any non-p
     - The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated.
 
 2. If there has been a therapeutic failure to no less than **two preferred** products for a **30-day** trial each.
+
+## Antidepressants
+
+| Central Nervous System (CNS) Agents: Antidepressants\*  |                                      |
+|---------------------------------------------------------|--------------------------------------|
+| PREFERRED                                               | NON-PREFERRED                        |
+| Bupropion                                               | Aplenzin                             |
+| Bupropion SR (generic of Wellbutrin SR)                 | Brisdelle                            |
+| Bupropion XL (generic of Wellbutrin XL)                 | Bupropion XL (generic of Forfivo XL) |
+| Citalopram                                              | Clomipramine                         |
+| Duloxetine 20, 30, 60mg                                 | Desvenlafaxine                       |
+| Escitalopram                                            | Drizalma Sprinkle                    |
+| Fluoxetine                                              | Duloxetine 40mg                      |
+| Fluvoxamine                                             | Emsam                                |
+| Mirtazapine                                             | Fetzima                              |
+| Nefazodone                                              | Fluoxetine 60mg                      |
+| Paroxetine                                              | Fluoxetine DR                        |
+| Sertraline                                              | Fluvoxamine ER                       |
+| Tranylcypromine                                         | Marplan                              |
+| Trazodone 50mg, 100mg, 150mg                            | Paroxetine 7.5mg                     |
+| Venlafaxine ER Cap                                      | Paroxetine ER                        |
+| Venlafaxine Tab                                         | Pexeva                               |
+|                                                         | Phenelzine                           |
+|                                                         | Trazodone 300mg                      |
+|                                                         | Trintellix                           |
+|                                                         | Venlafaxine ER Tab                   |
+|                                                         | Viibryd                              |
+
+**Link to Criteria:** [Central Nervous System (CNS) Agents: Antidepressants](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=29)

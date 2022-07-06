@@ -46,3 +46,24 @@ Acceptable reasons include:
     - Xifaxan (rifaximin)
 
     c. Approval duration is 3 days
+
+## Unspecified GI
+
+| Gastrointestinal Agents: Unspecified GI                 |                  |
+|---------------------------------------------------------|------------------|
+| PREFERRED                                               | NON-PREFERRED    |
+| Amitiza BvG ST                                          | Aemcolo          |
+| Bisacodyl                                               | Gattex           |
+| Casanthranol/Docusate Sodium                            | Linzess 72mcg    |
+| Dicyclomine                                             | Lubiprostone     |
+| Diphenoxylate/Atropine                                  | Motegrity        |
+| Lactulose                                               | Mytesi           |
+| Linzess ST 145, 290mcg                                  | Relistor         |
+| Loperamide                                              | Symproic         |
+| Movantik ST                                             | Trulance         |
+| Polyethylene Glycol                                     | Zorbitive        |
+| Psyllium Fiber                                          |                  |
+| Senna                                                   |                  |
+| Xifaxan ST                                              |                  |
+
+**Link to Criteria:** [Gastrointestinal Agents: Unspecified GI](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=65)

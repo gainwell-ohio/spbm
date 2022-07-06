@@ -27,3 +27,13 @@ Is there any reason the patient cannot be changed to oral warfarin? Acceptable r
 - Pregnant women (approved up to 280 days), or
 
 - Patients unable to take warfarin (approved up to 180 days).
+
+## Heparin-Related Preparations
+
+| Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations |              |
+|-----------------------------------------------------------------------------------|--------------|
+| PREFERRED                                                                         | NONPREFERRED |
+| Enoxaparin                                                                        | Fondaparinux |
+|                                                                                   | Fragmin      |
+
+**Link to Criteria:** [Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=12)

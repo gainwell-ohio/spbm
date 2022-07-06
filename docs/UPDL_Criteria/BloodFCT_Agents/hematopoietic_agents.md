@@ -33,3 +33,14 @@
      - History of unacceptable/toxic side effects to medications not requiring prior approval
 
 2. Has the patient failed a therapeutic trial of **14 days** with one preferred medication?
+
+## Hematopoietic
+
+| Blood Agents: Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents  |                |
+|------------------------------------------------------------------------------------------|----------------|
+| PREFERRED                                                                                | NON-PREFERRED  |
+| Epogen PA                                                                                | Aranesp        |
+| Mircera PA                                                                               | Procrit        |
+| Retacrit PA                                                                              |                |
+
+**Link to Criteria:** [Blood Agents: Blood Formation, Coagulation, And Thrombosis Agents: Hematopoietic Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=9)

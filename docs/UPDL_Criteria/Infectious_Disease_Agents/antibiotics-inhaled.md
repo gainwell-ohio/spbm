@@ -47,3 +47,15 @@ Subsequent authorizations 365 days
     - Evidence of culture conversion (negative sputum culture)
 
 3. Dose will be limited to 1 dose per day
+
+## Antibiotics - Inhaled
+
+| Infectious Disease Agents: Antibiotics – Inhaled  |                    |
+|---------------------------------------------------|--------------------|
+| PREFERRED                                         | NON-PREFERRED      |
+| Arikayce PA QL                                    | Bethkis AR         |
+| Tobramycin AR PA                                  | Cayston AR         |
+|                                                   | Kitabis Pak AR     |
+|                                                   | Tobi Podhaler AR   |
+
+**Link to Criteria:** [Infectious Disease Agents: Antibiotics - Inhaled](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=74)

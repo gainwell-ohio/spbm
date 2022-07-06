@@ -84,3 +84,36 @@ Initial request (90-day approval)
   - Daily Dose \>100 MED requires pain specialist or anesthesiologist consultation
 
 Effective July 1, 2018, patients with short acting opioid therapy will be limited to 30 MED per prescription and a maximum of 7 days per prescription. Prior authorization will be required to exceed these limits
+
+## Opioids
+
+| Analgesic Agents: Opioids                     |                                                             |
+|-----------------------------------------------|-------------------------------------------------------------|
+| PREFERRED                                     | NON-PREFERRED                                               |
+| Acetaminophen/Codeine QL                      | Acetaminophen/Caffeine/Dihydrocodeine QL                    |
+| Butalbital/Acetaminophen/Caffeine/Codeine QL  | Belbuca QL                                                  |
+| Butalbital/Aspirin/Caffeine/Codeine QL        | Benzhydrocodone/Acetaminophen QL                            |
+| Butorphanol QL                                | Buprenorphine TD Patch Weekly QL                            |
+| Butrans BvG PA QL                             | Butalbital/Acetaminophen/Caffeine/Codeine 50-300-40-30mgQL  |
+| Codeine QL                                    | Dsuvia QL                                                   |
+| Hydrocodone/Acetaminophen QL                  | Fentanyl QL                                                 |
+| Hydromorphone IR QL                           | Hydrocodone Bitartrate ER 12HR CapQL                        |
+| Morphine ER Tab PA QL                         | Hydrocodone Bitartrate ER 24HR TabQL                        |
+| Morphine Sol QL                               | Hydrocodone/Acetaminophen 5-300, 7.5-300, 10-300mg QL       |
+| Morphine Tab QL                               | Hydrocodone/Ibuprofen QL                                    |
+| Oxycodone Cap QL                              | Hydromorphone ER QL                                         |
+| Oxycodone Sol QL                              | Levorphanol QL                                              |
+| Oxycodone Tab QL                              | Meperidine QL                                               |
+| Oxycodone/Acetaminophen QL                    | Methadone QL                                                |
+| Tramadol QL                                   | Morphine ER 24HR Cap QL                                     |
+| Tramadol/Acetaminophen QL                     | Nucynta, ER QL                                              |
+|                                               | Oxaydo QL                                                   |
+|                                               | Oxycodone ER QL                                             |
+|                                               | Oxycodone/Ibuprofen QL                                      |
+|                                               | Oxymorphone, ER QL                                          |
+|                                               | Pentazocine/Naloxone QL                                     |
+|                                               | Tramadol ER QL                                              |
+|                                               | Tramadol Sol QL                                             |
+|                                               | Xtampza ER QL                                               |
+
+**Link to Criteria:** [Analgesic Agents: Opioids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=7)

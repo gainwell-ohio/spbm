@@ -21,3 +21,17 @@ For a drug requiring step therapy, there must have been a therapeutic failure of
 **NON-PREFERRED:**
 
 There must have been a therapeutic failure of at least a 30-day trial with both a NSAID and an oral contraceptive and a trial and a therapeutic failure of no less than 90 days on at least one step therapy required “preferred”
+
+## Endometriosis
+
+| Endocrine Agents: Endometriosis |                    |
+|---------------------------------|--------------------|
+| PREFERRED                       | NON-PREFERRED      |
+| Danazol ST                      | Synarel            |
+| Depo-Subq Provera 104 ST        |                    |
+| Lupaneta Pack ST                |                    |
+| Lupron Depot ST 3.75, 11.25mg   |                    |
+| Orilissa ST                     |                    |
+| Zoladex ST                      |                    |
+
+**Link to Criteria:** [Endocrine Agents: Endometriosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=50)

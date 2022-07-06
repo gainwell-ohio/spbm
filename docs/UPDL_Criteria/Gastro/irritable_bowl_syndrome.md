@@ -18,3 +18,14 @@ Acceptable reasons include:
 
 1. For a drug requiring step therapy, there must have been inadequate clinical response to a preferred alternative
 2. For a non-preferred drug, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **14-days** of at least **one** step therapy product
+
+## Irritable Bowel Syndrom (IBS) with Diarrhea
+
+| Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea  |               |
+|------------------------------------------------------------------------|---------------|
+| PREFERRED                                                              | NON-PREFERRED |
+| Diphenoxylate/Atropine                                                 | Alosetron     |
+| Loperamide                                                             | Viberzi       |
+| Xifaxan ST                                                             |               |
+
+**Link to Criteria:** [Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=61)

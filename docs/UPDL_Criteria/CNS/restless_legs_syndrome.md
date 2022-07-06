@@ -17,3 +17,13 @@ Acceptable reasons include:
 **ADDITIONAL INFORMATION:**
 
 The requested medication may be approved if there has been a therapeutic failure to no less than a **30-day** trial of at least **one** medication not requiring prior approval
+
+## Restless Legs Syndrome
+
+| Central Nervous System (CNS) Agents: Restless Legs Syndrome  |                         |
+|--------------------------------------------------------------|-------------------------|
+| PREFERRED                                                    | NON-PREFERRED           |
+| Pramipexole                                                  | Horizant                |
+| Ropinirole                                                   | Neupro                  |
+
+**Link to Criteria:** [Central Nervous System (CNS) Agents: Restless Legs Syndrome](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=41)

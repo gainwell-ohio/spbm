@@ -19,3 +19,19 @@
 **ADDITIONAL CRITERIA FOR APPROVAL OF TADALAFIL (CIALIS):**
 
 Patient must have diagnosis of benign prostatic hyperplasia and have a therapeutic failure to no less than a 30-day trial on at least one alpha-1 adrenergic blocker and a 90-day trial of finasteride.
+
+## Benign Prostatic Hyperplasia
+
+| Genitourinary Agents: Benign Prostatic Hyperplasia  |                         |
+|-----------------------------------------------------|-------------------------|
+| PREFERRED                                           | NON-PREFERRED           |
+| Alfuzosin                                           | Cardura XL              |
+| Doxazosin                                           | Dutasteride/Tamsulosin  |
+| Dutasteride                                         | Silodosin               |
+| Finasteride                                         |                         |
+| Prazosin                                            |                         |
+| Tadalafil PA 2.5, 5mg                               |                         |
+| Tamsulosin                                          |                         |
+| Terazosin                                           |                         |
+
+**Link to Criteria:** [Genitourinary Agents: Benign Prostatic Hyperplasia](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=66)

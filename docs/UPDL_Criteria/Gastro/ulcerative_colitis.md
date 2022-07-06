@@ -22,3 +22,19 @@ Acceptable reasons include:
 For a non-preferred agent, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days each** of at least **two** preferred products.
 
 Budesonide ER 9mg tablet quantity limit of 56 tablets per 90 days
+
+## Ulcerative Colitis
+
+| Gastrointestinal Agents: Ulcerative Colitis              |                    |
+|----------------------------------------------------------|--------------------|
+| PREFERRED                                                | NON-PREFERRED      |
+| Balsalazide Disodium                                     | Dipentum           |
+| Budesonide ER Tab QL                                     | Mesalamine DR Tab  |
+| Lialda BvG                                               | Mesalamine Supp    |
+| Mesalamine DR Cap                                        | Uceris Foam        |
+| Mesalamine Enema                                         | Zeposia            |
+| Mesalamine ER                                            |                    |
+| Pentasa                                                  |                    |
+| Sulfasalazine                                            |                    |
+
+**Link to Criteria:** [Gastrointestinal Agents: Ulcerative Colitis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=64)

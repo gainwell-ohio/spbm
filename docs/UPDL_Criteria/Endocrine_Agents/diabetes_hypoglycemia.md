@@ -17,3 +17,17 @@
 A non-preferred medication will be approved after a trial with a preferred medication not requiring prior approval or the inability of the member and/or caregiver to administer a preferred glucagon product in a timely fashion.
 
 Quantity limit of 2 per 34 days
+
+## Diabetes - Hypoglycemia Treatments
+
+| Endocrine Agents: Diabetes – Hypoglycemia Treatments  |                                               |
+|-------------------------------------------------------|-----------------------------------------------|
+| PREFERRED                                             | NON-PREFERRED                                 |
+| Baqsimi QL                                            | Glucagon Emerg Kit [Labeler 00548 & 63323] QL |
+| Glucagen Hypokit QL                                   |                                               |
+| Glucagon Emerg Kit [Labeler 00002] QL                 |                                               |
+| Gvoke Hypopen QL                                      |                                               |
+| Gvoke PFS QL                                          |                                               |
+| Zegalogue QL                                          |                                               |
+
+**Link to Criteria:** [Endocrine Agents: Diabetes - Hypoglycemia Treatments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=47)

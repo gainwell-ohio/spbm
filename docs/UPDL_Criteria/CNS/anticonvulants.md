@@ -71,3 +71,34 @@ Subsequent Authorizations 365 days
 Diacomit excluded from Grandfathering. Re-authorization requires documented reduction in average number of seizure days per 30 days (measured monthly or quarterly).
 
 AR - Vigabatrin Powder: a PA is required for patients over 2 years old
+
+## Anticonvulsants
+
+| Central Nervous System (CNS) Agents: Anticonvulsants\*  |                             |
+|---------------------------------------------------------|-----------------------------|
+| PREFERRED                                               | NON-PREFERRED               |
+| Banzel BvG                                              | Aptiom                      |
+| Carbamazepine                                           | Briviact                    |
+| Clobazam                                                | Celontin                    |
+| Clonazepam                                              | Clonazepam ODT              |
+| Diacomit PA QL                                          | Elepsia XR                  |
+| Divalproex                                              | Felbamate                   |
+| Divalproex ER                                           | Fintepla                    |
+| Epidiolex PA QL                                         | Lamotrigine ER              |
+| Ethosuximide                                            | Lamotrigine ODT             |
+| Fycompa ST                                              | Levetiracetam ER Tab        |
+| Gabapentin                                              | Oxtellar XR                 |
+| Lamotrigine                                             | Peganone                    |
+| Levetiracetam IR Tab                                    | Rufinamide                  |
+| Levetiracetam Sol                                       | Spritam                     |
+| Oxcarbazepine                                           | Sympazan                    |
+| Phenobarbital                                           | Tiagabine                   |
+| Phenytoin                                               | Topiramate ER Sprinkle Cap  |
+| Pregabalin                                              | Topiramate Sprinkle Cap     |
+| Primidone                                               | Trokendi XR                 |
+| Topiramate                                              | Vigabatrin                  |
+| Valproic Acid                                           | Vigabatrin Powder AR        |
+| Vimpat BvG ST                                           | Xcopri                      |
+| Zonisamide                                              |                             |
+
+**Link to Criteria:** [Central Nervous System (CNS) Agents: Anticonvulsants](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=26)

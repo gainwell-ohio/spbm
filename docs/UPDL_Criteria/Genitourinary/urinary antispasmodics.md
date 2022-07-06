@@ -18,3 +18,17 @@ Acceptable reasons include:
 AR – Vesicare LS: PA is not required for patients 2-5 years of age.
 
 AR – Myrbetriq Sol: PA is not required for patients that are 3-5 years of age.
+
+## Urinary Antispasmodics
+
+| Genitourinary Agents: Urinary Antispasmodics  |                       |
+|-----------------------------------------------|-----------------------|
+| PREFERRED                                     | NON-PREFERRED         |
+| Gelnique                                      | Darifenacin           |
+| Myrbetriq Tab                                 | Gemtesa               |
+| Oxybutynin                                    | Myrbetriq Granules AR |
+| Oxytrol For Women                             | Tolterodine           |
+| Solifenacin                                   | Trospium              |
+| Toviaz                                        | Vesicare LS AR        |
+
+**Link to Criteria:** [Genitourinary Agents: Urinary Antispasmodics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=68)

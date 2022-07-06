@@ -55,7 +55,7 @@ Choose an item.
 | Probenecid                            | Uloric BvG              |
 |Probenecid/Colchicine PA               |                         |
 
-**Link to Criteria: Analgesic Agents: Gout** [https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=6] <https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=6>
+**Link to Criteria:** [Analgesic Agents: Gout](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=6)
 
 ## Opioids
 
@@ -88,4 +88,4 @@ Choose an item.
 |                                               | Tramadol Sol QL                                             |
 |                                               | Xtampza ER QL                                               |
 
-**Link to Criteria:** Analgesic Agents: Opioids <https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=7>
+**Link to Criteria:** [Analgesic Agents: Opioids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=7)

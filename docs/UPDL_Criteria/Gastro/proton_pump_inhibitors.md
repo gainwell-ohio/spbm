@@ -39,3 +39,22 @@
 AR - Protonix Pak: a PA is required for patients over 6 years old
 
 AR - Protonix Suspension: a PA is required for patients over 6 years old
+
+## Proton Pump Inhibitors
+
+| Gastrointestinal Agents: Proton Pump Inhibitors  |                                  |
+|--------------------------------------------------|----------------------------------|
+| PREFERRED                                        | NON-PREFERRED                    |
+| Lansoprazole Cap                                 | Aciphex                          |
+| Nexium Granules BvG                              | Dexilant BvG                     |
+| Omeprazole Cap                                   | Esomeprazole                     |
+| Pantoprazole Tab                                 | Esomeprazole Granules            |
+| Protonix Pak AR BvG                              | Lansoprazole ODT                 |
+|                                                  | Omeprazole Tab                   |
+|                                                  | Omeprazole/Sodium Bicarbonate    |
+|                                                  | Pantoprazole Packet              |
+|                                                  | Prilosec Susp                    |
+|                                                  | Protonix Susp AR                 |
+|                                                  | Rabeprazole                      |
+
+**Link to Criteria:** [Gastrointestinal Agents: Proton Pump Inhibitors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=63)

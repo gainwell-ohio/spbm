@@ -45,3 +45,15 @@ The requested medication may be approved if the following is true:
 \* Colchicine quantity limit 6/claim for acute gout, 60/30 days for chronic gout after trial on xanthine oxidase inhibitor, 120/30 days for FMF
 
 \* Gloperba quantity limit is 1.2 mg per day
+
+## Gout
+
+|Analgesic Agents: Gout                 |                         |
+|---------------------------------------|-------------------------|
+| PREFERRED                             | NON-PREFERRED           |
+| Allopurinol                           | Colchicine Cap QL       |
+| Colchicine Tab PA QL                  | Gloperba Susp QL        |
+| Probenecid                            | Uloric BvG              |
+|Probenecid/Colchicine PA               |                         |
+
+**Link to Criteria:** [Analgesic Agents: Gout](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=6)

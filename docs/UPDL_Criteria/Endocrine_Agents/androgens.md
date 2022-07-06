@@ -21,3 +21,20 @@ The requested medication may be approved if there has been a therapeutic failure
 **ADDITIONAL INFORMATION:**
 
 Use limited to FDA approved indications in those 18 years and older.
+
+## Androgens
+
+| Endocrine Agents: Androgens            |                           |
+|----------------------------------------|---------------------------|
+| PREFERRED                              | NON-PREFERRED             |
+| Androderm PA                           | Jatenzo                   |
+| Testosterone Gel 1% PA                 | Methyltestosterone        |
+| Testosterone Gel 1% Pump PA            | Natesto                   |
+|                                        | Testopel                  |
+|                                        | Testosterone Cypionate    |
+|                                        | Testosterone Gel 1.62%    |
+|                                        | Testosterone Gel 2%       |
+|                                        | Testosterone Sol 30mg/ACT |
+|                                        | Xyosted                   |
+
+**Link to Criteria:** [Endocrine Agents: Androgens](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=46)

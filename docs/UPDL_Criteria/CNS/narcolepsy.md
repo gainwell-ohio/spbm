@@ -45,3 +45,17 @@ Acceptable reasons include:
 **REAUTHORIZATION CRITERIA:**
 
 Attestation that the patient’s condition has improved while taking the requested medication
+
+## Narcolepsy
+
+| Central Nervous System (CNS) Agents: Narcolepsy    |                           |
+|----------------------------------------------------|---------------------------|
+| PREFERRED                                          | NON-PREFERRED             |
+| Amphetamine/Dextroamphetamine                      | Sunosi                    |
+| Armodafinil                                        | Wakix                     |
+| Dextroamphetamine ER                               | Xyrem                     |
+| Methylphenidate ER                                 | Xywav                     |
+| Methylphenidate Tab                                |                           |
+| Modafinil                                          |                           |
+
+**Link to Criteria:** [Central Nervous System (CNS) Agents: Narcolepsy](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=38)

@@ -60,3 +60,27 @@ All products in this class require clinical prior authorization:
   - Documented adherence to prescribed lipid lowering medications for previous 90 days
   - Baseline lab results are required, and approvals will belimited to 84 days initially and then annually thereafter. Subsequent approvals will require additional levels being done to assess changes
   - Lipid profile required at 56 days for HeFH or ASCVD
+
+## Lipotropics
+
+| Cardiovascular Agents: Lipotropics  |                                                         |
+|-------------------------------------|---------------------------------------------------------|
+| PREFERRED                           | NON-PREFERRED                                           |
+| Atorvastatin                        | Altoprev                                                |
+| Cholestyramine, Light               | Amlodipine/Atorvastatin                                 |
+| Colestipol Tab                      | Colesevelam                                             |
+| Ezetimibe                           | Colestipol Granules                                     |
+| Fenofibrate 48 and 145mg Tab        | Ezetimibe/Simvastatin                                   |
+| Gemfibrozil                         | Ezallor                                                 |
+| Lovastatin                          | Fenofibrate 30, 43, 50, 67, 90, 130, 134 and 150mg Cap  |
+| Omega-3-Acid Ethyl Esters           | Fenofibrate 40, 54, 120 and 160mg Tab                   |
+| Niacin OTC                          | Fenofibric Acid                                         |
+| Niacin ER OTC                       | Fluvastatin                                             |
+| Praluent PA                         | Livalo                                                  |
+| Pravastatin                         | Nexletol                                                |
+| Prevalite                           | Nexlizet                                                |
+| Repatha PA                          | Niacin ER Tab                                           |
+| Rosuvastatin                        | Vascepa                                                 |
+| Simvastatin                         | Zypitamag                                               |
+
+**Link to Criteria:** [Cardiovascular Agents: Lipotropics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=18)

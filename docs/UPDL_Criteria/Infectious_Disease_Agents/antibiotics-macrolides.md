@@ -21,3 +21,14 @@
 **ADDITIONAL INFORMATION TO AID IN THE FINAL DECISION:**
 
 If the patient is completing a course of therapy with a medication requiring prior approval, which was initiated in the hospital, then may approve the requested medication to complete the course of therapy.
+
+## Antibiotics - Macrolides
+
+| Infectious Disease Agents: Antibiotics – Macrolides  |                                   |
+|------------------------------------------------------|-----------------------------------|
+| PREFERRED                                            | NON-PREFERRED                     |
+| Azithromycin                                         | Eryped                            |
+| Clarithromycin                                       | Erythrocin Stearate               |
+|                                                      | Erythromycin                      |
+
+**Link to Criteria:** [Infectious Disease Agents: Antibiotics - Macrolides](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=72)

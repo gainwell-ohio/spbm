@@ -27,3 +27,16 @@ Please see the [Hepatitis C Direct Acting Antiviral Prior Authorization Form](ht
 - Pegylated Interferons have a Black Box Warning which indicates that a patient should be monitored closely with periodic clinical and laboratory evaluations.
 
 - Ribavirins are contraindicated in women who are pregnant and in their male partner(s). At least two reliable forms of contraception must be used during therapy.
+
+## Antivirals - Hepatitis C Agents
+
+| Infectious Disease Agents: Antivirals – Hepatitis C Agents  |                                      |
+|-------------------------------------------------------------|--------------------------------------|
+| PREFERRED                                                   | NON-PREFERRED                        |
+| Mavyret PA                                                  | Harvoni 33.75-150, 45-200, 90-400mg  |
+| Pegasys PA                                                  | Ledipasvir/Sofosbuvir                |
+| Ribavirin PA                                                | Sovaldi                              |
+| Sofosbuvir/Velpatasvir PA                                   | Vosevi                               |
+|                                                             | Zepatier                             |
+
+**Link to Criteria:** [Infectious Disease Agents: Antivirals - Hepatitis C Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=77)

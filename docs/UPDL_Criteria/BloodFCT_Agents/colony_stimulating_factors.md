@@ -23,3 +23,19 @@
 
 2. Has the patient failed a therapeutic trial of **14 days** with one preferred medication?
 3. Will the medication be used for an approved FDA indication and duration?
+
+## Colony Stimulating Factors
+
+| Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors  |                  |
+|----------------------------------------------------------------------------------|------------------|
+| PREFERRED                                                                        | NON-PREFERRED    |
+| Neupogen PA                                                                      | Fulphila         |
+| Ziextenzo PA                                                                     | Granix           |
+|                                                                                  | Leukine          |
+|                                                                                  | Neulasta         |
+|                                                                                  | Nivestym         |
+|                                                                                  | Nyvepria         |
+|                                                                                  | Udenyca          |
+|                                                                                  | Zarxio           |
+
+**Link to Criteria:** [Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=10)

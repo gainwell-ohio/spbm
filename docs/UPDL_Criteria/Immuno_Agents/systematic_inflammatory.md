@@ -59,3 +59,24 @@ The requested non-preferred medication may be approved if the following is true:
 - If there has been a therapeutic failure to no less than a 90-day trial of at least two preferred medications
 
 - For patients with a diagnosis of moderate to severe plaque psoriasis receiving phototherapy, initial authorization for Humira or Enbrel will only be approved if there is inadequate clinical response to at least 90 days of phototherapy.
+
+| Immunomodulator Agents for Systemic Inflammatory Disease  |                |
+|-----------------------------------------------------------|----------------|
+| PREFERRED                                                 | NON-PREFERRED  |
+| Enbrel PA                                                 | Actemra        |
+| Humira PA QL                                              | Cimzia         |
+| Kineret PA                                                | Cosentyx       |
+| Otezla PA                                                 | Ilumya         |
+| Taltz PA ST                                               | Kevzara        |
+| Xeljanz IR PA QL                                          | Olumiant       |
+|                                                           | Orencia        |
+|                                                           | Rinvoq         |
+|                                                           | Siliq          |
+|                                                           | Simponi QL     |
+|                                                           | Skyrizi        |
+|                                                           | Stelara        |
+|                                                           | Tremfya        |
+|                                                           | Xeljanz Sol    |
+|                                                           | Xeljanz XR     |
+
+**Link to Criteria:** [Immunomodulator Agents for Systemic Inflammatory Disease](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=69)

@@ -70,3 +70,88 @@ Aliskiren and Tekturna HCT may be approved if all the following are met:
 3. Nimodipine only approvable for 21 days after subarachnoid hemorrhage
 
 AR - Hemangeol oral solution: a PA is required for patients over 2 years old
+
+## Angina, Hypertension and Heart Failure
+
+| Cardiovascular Agents: Angina, Hypertension and Heart Failure  |                                   |
+|----------------------------------------------------------------|-----------------------------------|
+| PREFERRED                                                      | NON-PREFERRED                     |
+| Acebutolol                                                     | Aliskiren                         |
+| Amlodipine                                                     | Candesartan                       |
+| Amlodipine Valsartan                                           | Candesartan/Hydrochlorothiazide   |
+| Amlodipine/Benazepril                                          | Carospir                          |
+| Amlodipine/Olmesartan                                          | Carvedilol ER                     |
+| Amlodipine/Valsartan/Hydrochlorothiazide                       | Corlanor                          |
+| Atenolol                                                       | Edarbi                            |
+| Atenolol/Chlorthalidone                                        | Diltiazem 24HR ER Tabs            |
+| Benazepril                                                     | Edarbyclor                        |
+| Benazepril/Hydrochlorothiazide                                 | Enalapril Sol                     |
+| Betaxolol                                                      | Hydralazine/Hydrochlorothiazide   |
+| Bisoprolol                                                     | Innopran XL                       |
+| Bisoprolol/Hydrochlorothiazide                                 | Isradipine                        |
+| Bystolic BvG                                                   | Kapspargo                         |
+| Captopril                                                      | Katerzia                          |
+| Captopril/Hydrochlorothiazide                                  | Kerendia                          |
+| Cartia XT                                                      | Nebivolol                         |
+| Carvedilol                                                     | Nimodipine                        |
+| Clonidine                                                      | Nisoldipine                       |
+| Diltiazem                                                      | Nymalize                          |
+| Diltiazem 12HR ER Cap                                          | Qbrelis                           |
+| Diltiazem 24HR ER Cap                                          | Sotylize                          |
+| Doxazosin                                                      | Tekturna/HCT                      |
+| Dutoprol                                                       | Telmisartan                       |
+| Enalapril                                                      | Telmisartan/Hydrochlorothiazide   |
+| Enalapril/Hydrochlorothiazide                                  | Verapamil 200, 300mg ER 24HR      |
+| Entresto PA                                                    | Verquvo                           |
+| Epaned BvG                                                     |                                   |
+| Eplerenone                                                     |                                   |
+| Felodipine ER                                                  |                                   |
+| Fosinopril                                                     |                                   |
+| Fosinopril/Hydrochlorothiazide                                 |                                   |
+| Guanfacine                                                     |                                   |
+| Hemangeol AR                                                   |                                   |
+| Hydralazine                                                    |                                   |
+| Irbesartan                                                     |                                   |
+| Irbesartan/Hydrochlorothiazide                                 |                                   |
+| Labetalol                                                      |                                   |
+| Lisinopril                                                     |                                   |
+| Lisinopril/Hydrochlorothiazide                                 |                                   |
+| Losartan                                                       |                                   |
+| Losartan/Hydrochlorothiazide                                   |                                   |
+| Olmesartan                                                     |                                   |
+| Olmesartan/Amlodipine/Hydrochlorothiazide                      |                                   |
+| Olmesartan/Hydrochlorothiazide                                 |                                   |
+| Methyldopa                                                     |                                   |
+| Methyldopa/Hydrochlorothiazide                                 |                                   |
+| Metoprolol Succinate ER                                        |                                   |
+| Metoprolol Tartrate                                            |                                   |
+| Metoprolol/Hydrochlorothiazide                                 |                                   |
+| Minoxidil                                                      |                                   |
+| Moexipril                                                      |                                   |
+| Nadolol                                                        |                                   |
+| Nadolol/Bendroflumethiazide                                    |                                   |
+| Nicardipine                                                    |                                   |
+| Nifedipine                                                     |                                   |
+| Perindopril                                                    |                                   |
+| Pindolol                                                       |                                   |
+| Prazosin                                                       |                                   |
+| Propranolol                                                    |                                   |
+| Propranolol/Hydrochlorothiazide                                |                                   |
+| Quinapril                                                      |                                   |
+| Quinapril/Hydrochlorothiazide                                  |                                   |
+| Ramipril                                                       |                                   |
+| Ranolazine                                                     |                                   |
+| Sotalol                                                        |                                   |
+| Spironolactone                                                 |                                   |
+| Spironolactone/Hydrochlorothiazide                             |                                   |
+| Telmisartan/Amlodipine                                         |                                   |
+| Terazosin                                                      |                                   |
+| Timolol                                                        |                                   |
+| Trandolapril                                                   |                                   |
+| Trandolapril/Verapamil                                         |                                   |
+| Valsartan                                                      |                                   |
+| Valsartan/HCTZ                                                 |                                   |
+| Verapamil                                                      |                                   |
+| Verapamil SR                                                   |                                   |
+
+**Link to Criteria:** [Cardiovascular Agents: Angina, Hypertension & Heart Failure](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=15)

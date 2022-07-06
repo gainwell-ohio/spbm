@@ -77,3 +77,32 @@ Acceptable reasons include:
 |                                 | A trial of no less than 30 days each of at least two preferred second- generation oral antipsychotics or step therapy products  | FLUOXETINE/OLANZAPINE (generic of Symbyax®)  |
 
 \+ Long-Acting Injectable Antipsychotics may be billed by the pharmacy if they are not dispensed directly to the patient. If not administered by the pharmacist, the drug must be released only to the administering provider or administering provider's staff, following all regulations for a Prescription Pick-Up Station as described by the Ohio Board of Pharmacy.
+
+## Atypical Antipsychotics
+
+| Central Nervous System (CNS) Agents: Atypical Antipsychotics\*   |                               |
+|------------------------------------------------------------------|-------------------------------|
+| PREFERRED                                                        | NON-PREFERRED                 |
+| Abilify Maintena                                                 | Abilify Mycite                |
+| Aripiprazole                                                     | Aripiprazole Sol              |
+| Aristada                                                         | Asenapine                     |
+| Aristada Initio                                                  | Caplyta                       |
+| Clozapine                                                        | Clozapine ODT Rapdis          |
+| Fanapt ST                                                        | Fluoxetine/Olanzapine         |
+| Geodon                                                           | Lybalvi                       |
+| Invega BvG                                                       | Nuplazid                      |
+| Invega Hafyera ER PA                                             | Olanzapine ODT                |
+| Invega Sustenna                                                  | Paliperidone                  |
+| Invega Trinza                                                    | Rexulti                       |
+| Latuda ST                                                        | Secuado                       |
+| Olanzapine                                                       | Versacloz                     |
+| Perseris                                                         | Vraylar                       |
+| Quetiapine                                                       | Zyprexa Relprevv              |
+| Quetiapine ER                                                    |                               |
+| Risperdal                                                        |                               |
+| Risperdal Consta                                                 |                               |
+| Risperidone                                                      |                               |
+| Saphris BvG ST                                                   |                               |
+| Ziprasidone                                                      |                               |
+
+**Link to Criteria:** [Central Nervous System (CNS) Agents: Atypical Antipsychotics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=30)

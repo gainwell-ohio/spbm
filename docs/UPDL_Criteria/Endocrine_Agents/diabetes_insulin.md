@@ -28,3 +28,26 @@
 - Spirometry shows FEV1 \> / = 70% predicted; and
 
 - Patient has not smoked for at least 180 days
+
+## Diabetes - Insulin
+
+| Endocrine Agents: Diabetes – Insulin              |                                       |
+|---------------------------------------------------|---------------------------------------|
+| PREFERRED                                         | NON-PREFERRED                         |
+| Apidra                                            | Admelog                               |
+| Humalog 50-50                                     | Afrezza                               |
+| Humalog 75-25                                     | Basaglar                              |
+| Humalog U-100                                     | Fiasp                                 |
+| Humulin 70-30                                     | Humalog U-200                         |
+| Humulin R U-500                                   | Humulin N U-100                       |
+| Insulin Aspart                                    | Humulin R U-100                       |
+| Insulin Aspart Protamine/Insulin Aspart           | Insulin glargine-yfgn                 |
+| Insulin Lispro                                    | Lyumjev                               |
+| Lantus                                            | Novolin 70-30                         |
+| Levemir                                           | Novolin N U-100                       |
+| Novolog 70-30                                     | Novolin R U-100                       |
+| Novolog U-100                                     |                                       |
+| Toujeo                                            |                                       |
+| Tresiba ST                                        |                                       |
+
+**Link to Criteria:** [Endocrine Agents: Diabetes - Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=48)

@@ -28,3 +28,39 @@ Acceptable reasons include:
 |                                  |  STEGLUJAN™ (ertugliflozin/sitagliptin)                                     |
 
 Soliqua and Xultophy Request must address inability to use the individual components.
+
+## Diabetes - Non-Insulin
+
+| Endocrine Agents: Diabetes – Non-Insulin  |                                     |
+|-------------------------------------------|-------------------------------------|
+| PREFERRED                                 | NON-PREFERRED                       |
+| Acarbose                                  | Adlyxin                             |
+| Actoplus Met XR                           | Alogliptin                          |
+| Byetta                                    | Alogliptin/Metformin                |
+| Farxiga                                   | Bydureon Bcise                      |
+| Glimepiride                               | Glimepiride/Pioglitazone            |
+| Glipizide                                 | Glucophage                          |
+| Glipizide/Metformin                       | Glyxambi                            |
+| Glyburide                                 | Invokamet XR                        |
+| Glyburide/Metformin                       | Jentadueto XR                       |
+| Invokamet                                 | Kombiglyze XR                       |
+| Invokana                                  | Metformin ER (Generic of Fortamet)  |
+| Janumet                                   | Metformin Sol                       |
+| Janumet XR                                | Onglyza                             |
+| Januvia                                   | Ozempic                             |
+| Jardiance                                 | Pioglitazone/Alogliptin             |
+| Jentadueto                                | Qtern                               |
+| Metformin                                 | Rybelsus                            |
+| Metformin ER (Generic of Glucophage XR)   | Segluromet                          |
+| Miglitol                                  | Soliqua                             |
+| Nateglinide                               | Steglatro                           |
+| Pioglitazone                              | Steglujan                           |
+| Pioglitazone/Metformin                    | Symlinpen                           |
+| Repaglinide                               | Synjardy XR                         |
+| Repaglinide/Metformin                     | Trijardy XR                         |
+| Synjardy                                  | Xigduo XR                           |
+| Tradjenta                                 | Xultophy                            |
+| Trulicity                                 |                                     |
+| Victoza                                   |                                     |
+
+**Link to Criteria:** [Endocrine Agents: Diabetes - Non-Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=49)

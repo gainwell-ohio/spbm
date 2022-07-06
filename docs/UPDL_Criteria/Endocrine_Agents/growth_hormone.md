@@ -1,4 +1,4 @@
-# Growth Hormone
+# Endocrine Agents - Growth Hormone
 
 **LENGTH OF AUTHORIZATIONS**: Varies as listed below.
 
@@ -129,3 +129,17 @@ Adult patients with growth hormone deficiency may be approved for replacement of
     Maximum dose – less than or equal to 0.0125mg/kg daily (35 years of age or older)
 
 Reauthorization: documentation by endocrinologist that for the indication, discontinuing GH would have a detrimental effect on body composition or other metabolic parameters **1-year approval**
+
+## Growth Hormone
+
+| Endocrine Agents: Growth Hormone  |                                                  |
+|-----------------------------------|--------------------------------------------------|
+| PREFERRED                         | NON-PREFERRED                                    |
+| Norditropin PA                    | Genotropin                                       |
+| Omnitrope PA                      | Humatrope                                        |
+|                                   | Nutropin                                         |
+|                                   | Saizen                                           |
+|                                   | Serostim                                         |
+|                                   | Zomacton                                         |
+
+**Link to Criteria:** [Endocrine Agents: Growth Hormone](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=53)

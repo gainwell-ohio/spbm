@@ -31,3 +31,20 @@ AR - Cefixime Suspension: a PA is required for patients over 12 years old
 AR - Cefprozil Suspension: a PA is required for patients over 12 years old
 
 AR - Suprax Chewable Tablet: a PA is required for patients over 12 years old
+
+## Antibiotics - Cephalosporins
+
+| Infectious Disease Agents: Antibiotics – Cephalosporins |                                 |
+|---------------------------------------------------------|---------------------------------|
+| PREFERRED                                               | NON-PREFERRED                   |
+| Cefadroxil                                              | Cephalexin 750mg                |
+| Cephalexin 250, 500mg                                   | Cefpodoxime                     |
+| Cefaclor                                                | Cefixime Cap                    |
+| Cefaclor ER                                             | Cefixime Susp AR                |
+| Cefaclor Susp AR                                        | Suprax Chewable Tab AR          |
+| Cefprozil                                               |                                 |
+| Cefprozil Susp AR                                       |                                 |
+| Cefuroxime                                              |                                 |
+| Cefdinir                                                |                                 |
+
+**Link to Criteria:** [Infectious Disease Agents: Antibiotics - Cephalosporins](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=71)
