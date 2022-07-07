@@ -31,3 +31,15 @@ Acceptable reasons include:
 - Opzelura is contraindicated for use in immunocompromised patients
 
 AR - pimecrolimus and tacrolimus: a PA is required for patients younger than 2 years old
+
+## Immunomodulators
+
+|Topical Agents: Immunomodulators  |                                   |
+|----------------------------------|-----------------------------------|
+| PREFERRD                         | NON-PREFERRED                     |
+| Elidel AR BvG ST                 | Eucrisa                           |
+| Protopic AR BvG ST               | Opzelura                          |
+|                                  | Pimecrolimus                      |
+|                                  | Tacrolimus                        |
+
+**Link to Criteria:** [Topical Agents: Immunomodulators](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=100)

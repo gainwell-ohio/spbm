@@ -21,3 +21,18 @@
 - Loratadine is indicated for patients 2 years of age and older
 
 - Cetirizine and desloratadine are indicated for patients 6 months of age and older
+
+## Antihistamines - Second Generation
+
+| Respiratory Agents: Antihistamines – Second Generation     |                      |
+|------------------------------------------------------------|----------------------|
+|PREFERRED                                                   | NON-PREFERRED        |
+| Cetirizine Syr                                             | Cetirizine Chewable  |
+| Cetirizine Tab                                             | Clarinex-D           |
+| Cetirizine/Pseudoephedrine                                 | Desloratadine        |
+| Loratadine Rapid Dissolve                                  | Fexofenadine         |
+| Loratadine Syr                                             | Levocetirizine       |
+| Loratadine Tab                                             |                      |
+| Loratadine/Pseudoephedrine                                 |                      |
+
+**Link to Criteria:** [Respiratory Agents: Antihistamines - Second Generation](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=87)

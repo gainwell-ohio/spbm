@@ -31,3 +31,15 @@ Acceptable reasons include:
 The requested medication may be approved if the following is true:
 
 - There has been one episode of angioedema during use of a preferred medication
+
+## Hereditary Angioedema
+
+| Respiratory Agents: Hereditary Angioedema  |                            |
+|--------------------------------------------|----------------------------|
+| PREFERRED                                  | NON-PREFERRED              |
+| Haegarda PA                                | Berinert                   |
+| Ruconest PA                                | Cinryze                    |
+| Takhzyro PA                                | Icatibant Acetate          |
+|                                            | Kalbitor                   |
+
+**Link to Criteria:** [Respiratory Agents: Hereditary Angioedema](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=90)

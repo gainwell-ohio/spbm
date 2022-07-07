@@ -33,3 +33,39 @@ Requested medication may be approved if the patient is:
 AR - Albuterol Nebulizer Solution 0.42mg/ml, 0.63mg/ml: a PA is required for patients over 12 years
 
 AR - Budesonide Nebulizer Solution: a PA is required for patients over 6 years
+
+## Inhaled Agents
+
+| Respiratory Agents: Inhaled Agents              |                            |
+|-------------------------------------------------|----------------------------|
+| PREFERRED                                       | NON-PREFERRED              |
+| Advair Diskus BvG                               | Aerospan HFA               |
+| Advair HFA                                      | Airduo Digihaler           |
+| Albuterol Nebulizer Sol 0.083%, 0.5% Conc       | Airduo Respiclick          |
+| Albuterol Nebulizer Sol 0.42mg/ml, 0.63mg/ml AR | Albuterol HFA              |
+| Anoro Ellipta                                   | Alvesco                    |
+| Asmanex Twisthaler                              | Armonair Digihaler         |
+| Atrovent HFA                                    | Armonair Respiclick        |
+| Budesonide Nebulizer Sol AR                     | Arnuity Ellipta            |
+| Combivent Respimat                              | Asmanex HFA                |
+| Cromolyn Neb Sol                                | Bevespi Aerosphere         |
+| Dulera                                          | Breo Ellipta               |
+| Flovent                                         | Breztri Aerosphere         |
+| Incruse Ellipta                                 | Brovana BvG                |
+| Ipratropium                                     | Budesonide/Formoterol      |
+| Ipratropium/Albuterol Nebulizer Sol             | Duaklir Pressair           |
+| ProAir HFA BvG                                  | Fluticasone/Salmeterol     |
+| Pulmicort Flexhaler                             | Levalbuterol Nebulizer Sol |
+| Serevent Diskus                                 | Lonhala Magnair            |
+| Spiriva                                         | Perforomist BvG            |
+| Stiolto                                         | Proair Digihaler           |
+| Striverdi Respimat                              | Proair Respiclick          |
+| Symbicort BvG                                   | Proventil                  |
+| Ventolin HFA BvG                                | Qvar                       |
+|                                                 | Trelegy Ellipta            |
+|                                                 | Tudorza                    |
+|                                                 | Wixela Inhub               |
+|                                                 | Xopenex HFA                |
+|                                                 | Yupelri                    |
+
+**Link to Criteria:** [Respiratory Agents: Inhaled Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=91)

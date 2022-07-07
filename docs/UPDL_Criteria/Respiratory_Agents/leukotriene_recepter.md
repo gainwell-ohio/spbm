@@ -16,3 +16,13 @@
 
 2. For a product requiring step therapy, there must have been therapeutic failure to a **90-day trial** of a preferred alternative.
 3. For a non-preferred product, there must have been a therapeutic failure to a **90-day trial** of **two** preferred agents
+
+## Leukotriene Receptor Modifiers & Inhibitors
+
+| Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors |               |
+|-----------------------------------------------------------------|---------------|
+| PREFERRED                                                       | NON-PREFERRED |
+| Montelukast                                                     | Zileuton      |
+| Zafirlukast                                                     | Zyflo         |
+
+**Link to Criteria:** [Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=92)

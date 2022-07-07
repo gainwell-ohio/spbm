@@ -43,3 +43,14 @@
   - Patient is 18 years of age or older
   - Patient had an inadequate response, intolerance or contraindication to one oral corticosteroid
   - Patient had a 30-day trial and experienced an inadequate response, intolerance or contraindication to one nasal corticosteroid spray
+
+## Monoclonal Antibodies-Anti-IL/Anti-IgE
+
+| Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE  |               |
+|-------------------------------------------------------------|---------------|
+| PREFERRED                                                   | NON-PREFERRED |
+| Fasenra PA                                                  | Dupixent      |
+| Nucala PA                                                   |               |
+| Xolair PA                                                   |               |
+
+**Link to Criteria:** [Respiratory Agents: Monoclonal Antibodies - Anti-IL/Anti-IgE](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=93)

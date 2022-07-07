@@ -15,3 +15,15 @@ Acceptable reasons include:
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
 All drugs in this class require step therapy: Patient must have a claim for an artificial tear or OTC dry eye drop in the previous 120 days.
+
+## Dry Eye Treatments
+
+| Ophthalmic Agents: Dry Eye Treatments  |                                              |
+|----------------------------------------|----------------------------------------------|
+| PREFERRED                              | NON-PREFERRED                                |
+| Restasis Trays BvG ST                  | Cequa                                        |
+|                                        | Eysuvis                                      |
+|                                        | Restasis Multi-Dose                          |
+|                                        | Xiidra                                       |
+
+**Link to Criteria:** [Ophthalmic Agents: Dry Eye Treatments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=83)

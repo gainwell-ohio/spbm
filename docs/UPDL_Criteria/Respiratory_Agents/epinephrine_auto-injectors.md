@@ -15,3 +15,13 @@ Acceptable reasons include:
 - History of unacceptable/toxic side effects to medication(s) not requiring prior approval
 
 The requested medication may be approved if there has been therapeutic failure using the product(s) not requiring prior approval.
+
+## Epinephrine Auto-Injectors
+
+| Respiratory Agents: Epinephrine Auto-Injectors    |               |
+|---------------------------------------------------|---------------|
+| PREFERRED                                         | NON-PREFERRED |
+| Epinephrine (labeler 49502)                       | Epipen        |
+| Symjepi                                           | Epipen JR     |
+
+**Link to Criteria:** [Respiratory Agents: Epinephrine Auto-Injectors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=89)

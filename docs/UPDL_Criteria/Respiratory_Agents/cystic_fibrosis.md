@@ -51,3 +51,15 @@ Patient may be approved for reauthorization if they meet all the following crite
   - Decrease in the number of hospitalizations
   - Increased Cystic Fibrosis Questionnaire-Revised (CFQ-R) respiratory domain score
   - Other documentation by the physician clearly explaining the ongoing benefit of continuing the drug based on stated and documented objective evidence of improvement or a clear stabilization in a previous decline in one of the above parameters
+
+## Cystic Fibrosis
+
+| Respiratory Agents: Cystic Fibrosis               |                |
+|---------------------------------------------------|----------------|
+| PREFERRED                                         | NON-PREFERRED  |
+| Kalydeco PA                                       | Bronchitol     |
+| Orkambi PA                                        |                |
+| Symdeko PA                                        |                |
+| Trikafta PA                                       |                |
+
+**Link to Criteria:** [Respiratory Agents: Cystic Fibrosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=88)

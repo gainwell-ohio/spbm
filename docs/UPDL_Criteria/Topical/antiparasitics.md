@@ -39,3 +39,15 @@ The requested medication may be approved if the following is true:
 - Spinosad is indicated for patients 6 months of age and older
 
 - Package labeling does not list age for permethrin or piperonyl butoxode-pyrethrins
+
+## Antiparasitics
+
+| Topical Agents: Antiparasitics   |                   |
+|----------------------------------|-------------------|
+| PREFERRED                        | NON-PREFERRED     |
+| Natroba BvG                      | Eurax             |
+| Permethrin                       | Malathion         |
+| Piperonyl Butoxide/Pyrethrins    | Sklice            |
+|                                  | Spinosad          |
+
+**Link to Criteria:** [Topical Agents: Antiparasitics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=98)

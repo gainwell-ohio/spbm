@@ -21,3 +21,16 @@ The requested medication may be approved if both of the following are true:
 - If there has been a therapeutic failure to no less than a **7-day** trial of at least **one** medication not requiring prior approval
 
 - The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated.
+
+## Antibacterial and Antibacterial/Steroid Combinations
+
+| Otic Agents: Antibacterial and Antibacterial/Steroid Combinations  |                                 |
+|--------------------------------------------------------------------|---------------------------------|
+| PREFERRED                                                          | NON-PREFERRED                   |
+| Cipro HC                                                           | Ciprofloxacin                   |
+| Ciprodex BvG                                                       | Ciprofloxacin/Dexamethasone     |
+| Cortisporin-TC                                                     | Ciprofloxacin/Fluocinolone      |
+| Neomycin/Polymyxin B/Hydrocortisone                                |                                 |
+| Ofloxacin                                                          |                                 |
+
+**Link to Criteria:** [Otic Agents: Antibacterial and Antibacterial/Steroid Combinations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=86)
