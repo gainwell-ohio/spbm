@@ -15,4 +15,6 @@ All products are covered without a PA
 | Progesterone                          |               |
 | Progesterone In Oil                   |               |
 
-**Link to Criteria:** [Endocrine Agents: Progestin Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=52)
+### Link to Criteria
+
+[Endocrine Agents: Progestin Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=52)

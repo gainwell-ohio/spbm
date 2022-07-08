@@ -1,8 +1,10 @@
 # Analgesic Agents: Gout
 
-**LENGTH OF AUTHORIZATIONS:**  365 Days
+## LENGTH OF AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 Is there any reason the patient cannot be changed to an agent not requiring prior approval?
 
@@ -14,7 +16,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**ADDITIONAL INFORMATION:**
+## ADDITIONAL INFORMATION
 
 The requested medication may be approved if the following is true:
 
@@ -56,4 +58,6 @@ The requested medication may be approved if the following is true:
 | Probenecid                            | Uloric BvG              |
 |Probenecid/Colchicine PA               |                         |
 
-**Link to Criteria:** [Analgesic Agents: Gout](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=6)
+### Link to Criteria
+
+ [Analgesic Agents: Gout](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=6)

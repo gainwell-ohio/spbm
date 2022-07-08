@@ -1,6 +1,10 @@
 # Central Nervous System (CNS) Agents: Anticonvulsants Rescue
 
-**LENGTH OF AUTHORIZATIONS**: 365 Days **PRIOR AUTHORIZATION CRITERIA:**
+## LENGTH OF AUTHORIZATIONS
+
+365 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 1\. Is there any reason the patient cannot be changed to a preferred medication? Acceptable reasons include:
 
@@ -23,4 +27,6 @@ AR - Nayzilam: a PA is required for patients who are younger than 12 years old
 | Nayzilam AR                                                  |                   |
 | Valtoco AR                                                   |                   |
 
-**Link to Criteria:** [Central Nervous System (CNS) Agents: Anticonvulsants Rescue](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=28)
+### Link to Criteria
+
+[Central Nervous System (CNS) Agents: Anticonvulsants Rescue](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=28)

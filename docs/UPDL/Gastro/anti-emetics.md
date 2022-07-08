@@ -1,8 +1,10 @@
 # Gastrointestinal Agents: Anti-Emetics
 
-**LENGTH OF AUTHORIZATIONS:**   365 Days
+## LENGTH OF AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -37,4 +39,6 @@
 | Scopolamine                              |                                  |
 | Trimethobenzamide                        |                                  |
 
-**Link to Criteria:** [Gastrointestinal Agents: Anti - Emetics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=58)
+### Link to Criteria
+
+[Gastrointestinal Agents: Anti - Emetics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=58)

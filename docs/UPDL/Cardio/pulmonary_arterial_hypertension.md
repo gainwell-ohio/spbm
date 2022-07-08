@@ -1,12 +1,12 @@
 # Cardiovascular Agents: Pulmonary Arterial Hypertension\*
 
-**LENGTH OF AUTHORIZATIONS:**  365 Days
+## LENGTH OF AUTHORIZATIONS
 
-**GRANDFATHERING:**
+## GRANDFATHERING
 
 Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug through the automated PA system. Patients who have taken the drug in the previous 120 days, but do not have claims history (e.g. new to Medicaid), will be approved for PA after prescriber contact.
 
-**PRIOR AUTHORIZATION CRITERIA:**
+## PRIOR AUTHORIZATION CRITERIA
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -39,4 +39,6 @@ AR - Sildenafil oral solution: a PA is required for patients over 6 years old
 |                                                          | Uptravi                    |
 |                                                          | Ventavis                   |
 
-**Link to Criteria:** [Cardiovascular Agents: Pulmonary Arterial Hypertension](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=20)
+### Link to Criteria
+
+[Cardiovascular Agents: Pulmonary Arterial Hypertension](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=20)

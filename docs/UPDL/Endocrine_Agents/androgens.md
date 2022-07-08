@@ -1,8 +1,10 @@
 # Endocrine Agents: Androgens
 
-**AUTHORIZATIONS:**  365 Days
+## AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -18,7 +20,7 @@ All products within this category require submission of lab work to support the 
 
 The requested medication may be approved if there has been a therapeutic failure to no less than a **90-day** trial of **all** medications not requiring prior approval.
 
-**ADDITIONAL INFORMATION:**
+## ADDITIONAL INFORMATION
 
 Use limited to FDA approved indications in those 18 years and older.
 
@@ -37,4 +39,6 @@ Use limited to FDA approved indications in those 18 years and older.
 |                                        | Testosterone Sol 30mg/ACT |
 |                                        | Xyosted                   |
 
-**Link to Criteria:** [Endocrine Agents: Androgens](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=46)
+### Link to Criteria
+
+[Endocrine Agents: Androgens](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=46)

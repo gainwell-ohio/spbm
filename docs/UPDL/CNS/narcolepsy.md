@@ -58,4 +58,6 @@ Attestation that the patient’s condition has improved while taking the request
 | Methylphenidate Tab                                |                           |
 | Modafinil                                          |                           |
 
-**Link to Criteria:** [Central Nervous System (CNS) Agents: Narcolepsy](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=38)
+### Link to Criteria
+
+[Central Nervous System (CNS) Agents: Narcolepsy](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=38)

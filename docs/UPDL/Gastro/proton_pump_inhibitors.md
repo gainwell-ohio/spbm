@@ -1,10 +1,12 @@
 # Gastrointestinal Agents: Proton Pump Inhibitors
 
-**LENGTH OF AUTHORIZATIONS**: 180 days, except as listed under clinical criteria
+## LENGTH OF AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+180 days, except as listed under clinical criteria
 
-1. Is there any reason the patient cannot be changed to a medication not requiring prior approval? 
+## PRIOR AUTHORIZATION CRITERIA
+
+1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
     Acceptable reasons include:
 
@@ -19,7 +21,7 @@
 2. If there has been a therapeutic failure to no less than a **30 days** trial of at least **two medications** not requiring prior approval, then may approve the requested medication.
 3. If a medication requiring prior approval was initiated in the hospital for the treatment of a condition such as a GI bleed, may approve the requested medication.
 
-**ADDITIONAL INFORMATION:**
+## ADDITIONAL INFORMATION
 
 - No PA needed for preferred PPI at once-daily dosing
 
@@ -27,7 +29,7 @@
 
 - Must have therapeutic failure on preferred agent before PA of non-preferred
 
-**CLINICAL CRITERIA FOR PPI DOSES GREATER THAN ONCE DAILY:**
+## CLINICAL CRITERIA FOR PPI DOSES GREATER THAN ONCE DAILY
 
 1. For diagnosis of H. Pylori, BID dosing may be authorized for 30 days
 2. For diagnosis of COPD, Dyspepsia, Gastritis, Gastroparesis, Symptomatic Uncomplicated Barrett’s Esophagus, Carcinoma of GI tract, Crest Syndrome, Esophageal Varices, Scleroderma, Systemic Mastocytosis, Zollinger Ellison Syndrome:
@@ -57,4 +59,6 @@ AR - Protonix Suspension: a PA is required for patients over 6 years old
 |                                                  | Protonix Susp AR                 |
 |                                                  | Rabeprazole                      |
 
-**Link to Criteria:** [Gastrointestinal Agents: Proton Pump Inhibitors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=63)
+### Link to Criteria
+
+[Gastrointestinal Agents: Proton Pump Inhibitors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=63)

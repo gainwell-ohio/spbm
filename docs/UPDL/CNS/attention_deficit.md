@@ -1,10 +1,12 @@
 # Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents
 
-**LENGTH OF AUTHORIZATIONS**: 365 Days
+## LENGTH OF AUTHORIZATIONS
+
+365 Days
 
 Short Acting products considered separately from Long-Acting products
 
-**PRIOR AUTHORIZATION CRITERIA:**
+## PRIOR AUTHORIZATION CRITERIA
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -18,7 +20,7 @@ Short Acting products considered separately from Long-Acting products
 
     - Has the patient failed a therapeutic trial of at least **14 days** with at least **two** medications not requiring prior approval?
 
-**STEP THERAPY:**
+## STEP THERAPY
 
 1. For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days** of at least 8*two preferred** products.
 
@@ -53,4 +55,6 @@ AR - Dextroamphetamine Solution: a PA is required for patients over 12 years old
 | Ritalin LA                                                                            |                |
 | Vyvanse Cap                                                                           |                |
 
-**Link to Criteria:** [Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=32)
+### Link to Criteria
+
+[Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=32)

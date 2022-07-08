@@ -1,8 +1,10 @@
 # Dermatological: Topical Acne Products
 
-**LENGTH OF AUTHORIZATIONS**: 365 Days
+## LENGTH OF AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -13,7 +15,7 @@ Acceptable reasons include:
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 - Inadequate response to no less than a **30-day** trial of at least **three (3)** medications not requiring prior approval
 
-**CLINICAL CRITERIA:**
+## CLINICAL CRITERIA
 
 AR- All topical retinoids require prior authorization for patients age 24 years and older:
 
@@ -50,4 +52,6 @@ AR- All topical retinoids require prior authorization for patients age 24 years 
 |                                        | Tazarotene Foam 0.1% AR         |
 |                                        | Winlevi                         |
 
-**Link to Criteria:** [Dermatological: Topical Acne Products](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=45)
+### Link to Criteria
+
+[Dermatological: Topical Acne Products](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=45)

@@ -1,8 +1,10 @@
 # GastrointestinalAgents: Unspecified GI
 
-**LENGTH OF AUTHORIZATIONS**: 365 Days
+## LENGTH OF AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -14,12 +16,14 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**STEP THERAPY:**  all agents listed
+## STEP THERAPY
+
+all agents listed
 
 1. For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including no less than a **14-day** trial of at least **two** medications not requiring prior approval
 2. For a non-preferred drug, there must have been inadequate clinical response to preferred alternatives, including no less than **14-day** trial of at least **three** preferred products including one step therapy product
 
-**ADDITIONAL INFORMATION:**
+## ADDITIONAL INFORMATION
 
 1. Patient must be 18 years or older
 2. ZORBTIVE and GATTEX require a diagnosis of short bowel syndrome (SBS) and evidence of specialize nutritional support
@@ -66,4 +70,6 @@ Acceptable reasons include:
 | Senna                                                   |                  |
 | Xifaxan ST                                              |                  |
 
-**Link to Criteria:** [Gastrointestinal Agents: Unspecified GI](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=65)
+### Link to Criteria
+
+[Gastrointestinal Agents: Unspecified GI](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=65)

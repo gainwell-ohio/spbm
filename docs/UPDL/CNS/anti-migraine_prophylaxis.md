@@ -1,12 +1,12 @@
 # Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis
 
-**LENGTH OF AUTHORIZATIONS:**
+## LENGTH OF AUTHORIZATIONS
 
 Initial Authorization 180 days
 
  Subsequent Authorizations 365 days
 
-**PRIOR AUTHORIZATION CRITERIA:**
+## PRIOR AUTHORIZATION CRITERIA
 
 - Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -16,15 +16,15 @@ Initial Authorization 180 days
   - Contraindication to **three** preferred medications
   - History of unacceptable/toxic side effects/intolerance to at least **three** preferred medications
 
-**STEP THERAPY REQUIRED PREFERRED MEDICATION:**
+## STEP THERAPY REQUIRED PREFERRED MEDICATION
 
 - For a drug requiring step therapy, there must have been inadequate clinical response to a trial of at least 30 days each to at least 3 controller migraine medications or has experienced contraindications or intolerance to them (i.e., beta-blockers, anticonvulsants, tricyclic antidepressants, and/or serotonin-norepinephrine reuptake inhibitors).
 
-**NON-PREFERRED MEDICATION:**
+## NON-PREFERRED MEDICATION
 
 - For a non-preferred medication drug there must have been inadequate clinical response to a trial of at least 30 days each to at least 3 controller migraine medications or has experienced contraindications or intolerance to them (i.e., beta-blockers, anticonvulsants, tricyclic antidepressants, and/or serotonin-norepinephrine reuptake inhibitors) AND an inadequate clinical response or intolerance to a trial of at least 30 days of one step therapy required preferred medication
 
-**ADDITIONAL CRITERIA FOR MIGRAINE PROPHYLAXIS:**
+## ADDITIONAL CRITERIA FOR MIGRAINE PROPHYLAXIS
 
 1. Patient must have one of the following diagnoses:
 
@@ -53,4 +53,6 @@ Initial Authorization 180 days
 | CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors                  |                |
 | CNS Agents: Tricyclic Antidepressants                                     |                |
 
-**Link to Criteria:** [Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=24)
+### Link to Criteria
+
+[Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=24)

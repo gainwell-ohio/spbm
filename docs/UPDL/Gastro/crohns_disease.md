@@ -1,8 +1,10 @@
 # Gastrointestinal Agents: Crohn’s Disease
 
-**LENGTH OF AUTHORIZATIONS:**   365 Days
+## LENGTH OF AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -27,4 +29,6 @@ For a non-preferred agent, there must have been inadequate clinical response to 
 | Methotrexate                                     |                     |
 | Sulfasalazine                                    |                     |
 
-Link to Criteria: [Gastrointestinal Agents: Crohn’s Disease](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=59)
+### Link to Criteria
+
+[Gastrointestinal Agents: Crohn’s Disease](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=59)

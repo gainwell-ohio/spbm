@@ -1,8 +1,10 @@
 # Analgesic Agents: Opioids
 
-**LENGTH OF AUTHORIZATIONS:**  For the course of therapy, up to 180 days
+## LENGTH OF AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+For the course of therapy, up to 180 days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -14,11 +16,11 @@ Acceptable reasons include:
 
 - Patient must have failed the generic product (if covered by the state) before brand is authorized, in addition to the above.
 
-**ADDITIONAL AUTHORIZATION CRITERIA:**
+## ADDITIONAL AUTHORIZATION CRITERIA
 
 - There must have been an inadequate clinical response to preferred alternatives, including a trial of no less than **7 days** of **one** preferred product.
 
-**ADDITIONAL CRITERIA FOR EXCEEDING SHORT-ACTING OPIOID NEW START CRITERIA:**
+## ADDITIONAL CRITERIA FOR EXCEEDING SHORT-ACTING OPIOID NEW START CRITERIA
 
 - System will define “new start” as having less than a 1-day supply of opioids in the previous 90 days
 
@@ -42,7 +44,7 @@ Acceptable reasons include:
 
 Length of authorization: Up to 90 days, depending on the indication, previous patient utilization, and requested length of therapy (could be more restrictive)
 
-**ADDITIONAL CRITERIA FOR TRANSMUCOSAL FENTANYL:**
+## ADDITIONAL CRITERIA FOR TRANSMUCOSAL FENTANYL
 
 - Diagnosis of cancer pain; and
 
@@ -59,7 +61,7 @@ Length of authorization: Up to 90 days, depending on the indication, previous pa
 
 - Dose is \</= 4 units per day
 
-**ALL LONG-ACTING OPIOIDS REQUIRE PRIOR AUTHORIZATION:**
+## ALL LONG-ACTING OPIOIDS REQUIRE PRIOR AUTHORIZATION
 
 Initial request (90-day approval)
 
@@ -71,7 +73,7 @@ Initial request (90-day approval)
   - Documentation of pain and function scores at each visit
   - Baseline urine drug test submitted and treatment plan includes requirements for random urine screens
   - Opioid contract required to be in place and should be submitted with prior authorization form
-  - Documented failure of both non-opioid pharmacologic and non-pharmacologic treatments 
+  - Documented failure of both non-opioid pharmacologic and non-pharmacologic treatments
   - History of short-acting opioids for \>/= 60 days
   - Daily Dose \</= 80 MED
 
@@ -116,4 +118,6 @@ Effective July 1, 2018, patients with short acting opioid therapy will be limite
 |                                               | Tramadol Sol QL                                             |
 |                                               | Xtampza ER QL                                               |
 
-**Link to Criteria:** [Analgesic Agents: Opioids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=7)
+### Link to Criteria
+
+[Analgesic Agents: Opioids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=7)

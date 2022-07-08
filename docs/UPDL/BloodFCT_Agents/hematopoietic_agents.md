@@ -1,8 +1,10 @@
 # Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents
 
-**LENGTH OF AUTHORIZATIONS**: Dependent upon diagnosis
+## LENGTH OF AUTHORIZATIONS
 
-**Approval of epoetin alfa or darbepoetin:**
+Dependent upon diagnosis
+
+## Approval of epoetin alfa or darbepoetin
 
 | Diagnosis                                                     | Hemoglobin Level  | Approval Length  |
 |---------------------------------------------------------------|-------------------|------------------|
@@ -11,7 +13,8 @@
 | Chemotherapy-induced anemia                                   | \<=10             | 90 days          |
 | Anemia in myelodysplastic syndrome                            | \<=11             | 180 days         |
 
-**Approval of epoetin alfa only (not darbepoetin):**
+## Approval of epoetin alfa only (not darbepoetin)
+
 | Diagnosis                                                                            | Hemoglobin  Level  | Approval Length  |
 |--------------------------------------------------------------------------------------|--------------------|------------------|
 | Autologous blood donation, patient will require blood transfusions                   | \>10, \<=13        | 30 days          |
@@ -20,7 +23,7 @@
 | Anemia associated with ribavirin combination therapy in hepatitis Cinfected patient  | \<=11              | 180 days         |
 | Anemia in zidovudine-treated HIV-infected patients                                   | \<=11              | 180 days         |
 
-**PRIOR AUTHORIZATION CRITERIA:**
+## PRIOR AUTHORIZATION CRITERIA
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -43,4 +46,6 @@
 | Mircera PA                                                                               | Procrit        |
 | Retacrit PA                                                                              |                |
 
-**Link to Criteria:** [Blood Agents: Blood Formation, Coagulation, And Thrombosis Agents: Hematopoietic Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=9)
+## Link to Criteria
+
+[Blood Agents: Blood Formation, Coagulation, And Thrombosis Agents: Hematopoietic Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=9)

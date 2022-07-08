@@ -1,8 +1,10 @@
 # Central Nervous System (CNS) Agents: Neuropathic Pain
 
-**LENGTH OF AUTHORIZATIONS**: 365 Days
+## LENGTH OF AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -14,7 +16,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**ADDITIONAL INFORMATION:**
+## ADDITIONAL INFORMATION
 
 - The requested medication may be approved if there has been a therapeutic failure to no less than a **30-day** trial of at least **two** medications in separate pharmacologic classes not requiring prior authorization
 
@@ -36,4 +38,6 @@ Acceptable reasons include:
 | Oxcarbazepine                                                |                         |
 | Pregabalin                                                   |                         |
 
-**Link to Criteria:** [Central Nervous System (CNS) Agents: Neuropathic Pain](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=39)
+### Link to Criteria
+
+[Central Nervous System (CNS) Agents: Neuropathic Pain](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=39)

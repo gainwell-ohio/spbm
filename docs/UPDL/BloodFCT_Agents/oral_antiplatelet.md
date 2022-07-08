@@ -4,7 +4,7 @@
 
 Requested medication must be used for an approved FDA indication and duration
 
-**PRIOR AUTHORIZATION CRITERIA:**
+## PRIOR AUTHORIZATION CRITERIA
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -29,4 +29,6 @@ Requested medication must be used for an approved FDA indication and duration
 | Clopidogrel                                                             |                  |
 | Prasugrel                                                               |                  |
 
-**Link to Criteria:** [Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=14)
+### Link to Criteria
+
+[Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=14)

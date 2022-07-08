@@ -1,8 +1,10 @@
 # Cardiovascular Agents: Angina, Hypertension & Heart Failure
 
-**LENGTH OF AUTHORIZATIONS:**  365 Days
+## LENGTH OF AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -14,7 +16,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**CORLANOR** **CRITERIA:**
+## CORLANOR CRITERIA
 
 Ivabradine (Corlanor) may be approved if all of the following are met:
 
@@ -24,20 +26,20 @@ Ivabradine (Corlanor) may be approved if all of the following are met:
 4. Patient in sinus rhythm, and
 5. Heart failure symptoms persisting with maximally tolerated doses of beta blockers, or patient has a contraindication to beta blocker therapy.
 
-**ENTRESTO CRITERIA:**
+## ENTRESTO CRITERIA
 
 Valsartan/sacubitril (Entresto) may be approved if all the following are met:
 
 1. Diagnosis of chronic heart failure (NYHA Class II-IV), and
 2. Reduced left ventricular ejection fraction
 
-**ALISKIREN AND TEKTURNA HCT CRITERIA:**
+## ALISKIREN AND TEKTURNA HCT CRITERIA
 
 Aliskiren and Tekturna HCT may be approved if all the following are met:
 
 1. A 30-day trial of any one preferred anti-hypertensive agent
 
-**VERQUVO CRITERIA:**
+## VERQUVO CRITERIA
 
 1. Patient must meet all the following criteria:
 
@@ -50,7 +52,7 @@ Aliskiren and Tekturna HCT may be approved if all the following are met:
         - Beta-blocker
         - Aldosterone antagonist and/or SGLT2 inhibitor as appropriate for renal function
 
-**KERENDIA CRITERIA:**
+## KERENDIA CRITERIA
 
 1. Patient must meet all the following criteria:
 
@@ -58,7 +60,7 @@ Aliskiren and Tekturna HCT may be approved if all the following are met:
     - Be on maximum tolerated dose of an angiotensin-converting enzyme inhibitor or angiotensin receptor blocker
     - Allergy, intolerance, or inadequate response to an SGLT2 Inhibitor
 
-**ADDITIONAL APPROVAL CRITERIA:**
+## ADDITIONAL APPROVAL CRITERIA
 
 1. The requested medication may be approved if both of the following are true:
 
@@ -154,4 +156,6 @@ AR - Hemangeol oral solution: a PA is required for patients over 2 years old
 | Verapamil                                                      |                                   |
 | Verapamil SR                                                   |                                   |
 
-**Link to Criteria:** [Cardiovascular Agents: Angina, Hypertension & Heart Failure](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=15)
+### Link to Criteria
+
+[Cardiovascular Agents: Angina, Hypertension & Heart Failure](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=15)

@@ -1,8 +1,10 @@
 # Endocrine Agents: Diabetes – Non-Insulin
 
-**AUTHORIZATIONS:**  365 Days
+## AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 Is there any reason the patient cannot be changed to a medication within the same class not requiring prior approval?
 
@@ -14,7 +16,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**NON-PREFERRED:**
+## NON-PREFERRED
 
 1. There must have been a therapeutic failure of at least 60-day trial and failure with three preferred products
 
@@ -63,4 +65,6 @@ Soliqua and Xultophy Request must address inability to use the individual compon
 | Trulicity                                 |                                     |
 | Victoza                                   |                                     |
 
-**Link to Criteria:** [Endocrine Agents: Diabetes - Non-Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=49)
+### Link to Criteria
+
+[Endocrine Agents: Diabetes - Non-Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=49)

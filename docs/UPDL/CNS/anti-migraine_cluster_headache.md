@@ -1,8 +1,10 @@
 # Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache
 
-**LENGTH OF AUTHORIZATIONS:**  180 Days
+## LENGTH OF AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+180 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 - Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -12,7 +14,7 @@
   - Contraindication to all preferred medications
   - History of unacceptable/toxic side effects to at least one preferred medication
 
-**ADDITIONAL CRITERIA FOR EPISODIC CLUSTER HEADACHE:**
+## ADDITIONAL CRITERIA FOR EPISODIC CLUSTER HEADACHE
 
 1. At least 5 attacks within 30 days
 2. Attacks characterized by severe or very severe unilateral orbital, supraorbital and/or temporal pain lasting 15 to 180 minutes when untreated; during part (but less than half) of the timecourse of cluster headache, attacks may be less severe and/or of shorter or longer duration
@@ -40,4 +42,6 @@
 | PREFERRED                                                                    |NON-PREFERRED |
 | Verapamil                                                                    | Emgality     |
 
-**Link to Criteria:** [Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=23)
+### Link to Criteria
+
+[Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=23)

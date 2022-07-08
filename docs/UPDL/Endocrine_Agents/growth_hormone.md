@@ -1,8 +1,10 @@
 # Endocrine Agents - Growth Hormone
 
-**LENGTH OF AUTHORIZATIONS**: Varies as listed below.
+## LENGTH OF AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+Varies as listed below.
+
+## PRIOR AUTHORIZATION CRITERIA
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -26,7 +28,7 @@ Acceptable reasons include:
 
   - If there has been a therapeutic failure to no less than a **90-day** trial of at least **one** preferred medication
 
-**CLINICAL CRITERIA:**
+## CLINICAL CRITERIA
 
 Children - initial approval for the following diagnoses:
 
@@ -142,4 +144,6 @@ Reauthorization: documentation by endocrinologist that for the indication, disco
 |                                   | Serostim                                         |
 |                                   | Zomacton                                         |
 
-**Link to Criteria:** [Endocrine Agents: Growth Hormone](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=53)
+### Link to Criteria
+
+[Endocrine Agents: Growth Hormone](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=53)

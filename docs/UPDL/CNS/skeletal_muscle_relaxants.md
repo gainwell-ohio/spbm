@@ -1,8 +1,10 @@
 # Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine
 
-**LENGTH OF AUTHORIZATIONS**: 365 Days
+## LENGTH OF AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -32,4 +34,6 @@ Clinical criteria must be met for Soma/Carisoprodol products– approvable only 
 |                                                                                     | Orphenadrine                              |
 |                                                                                     | Tizanidine Cap                            |
 
-**Link to Criteria:** [Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=43)
+### Link to Criteria
+
+[Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=43)

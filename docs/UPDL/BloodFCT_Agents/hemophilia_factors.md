@@ -1,12 +1,14 @@
 # Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factors\*
 
-**LENGTH OF AUTHORIZATIONS**: 365 Days
+## LENGTH OF AUTHORIZATIONS
 
-**GRANDFATHERING:**
+365 Days
+
+## GRANDFATHERING
 
 Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug through the automated PA system. Patients who have taken the drug previously, but do not have claims history (e.g. new to Medicaid), will be approved for PA after prescriber contact.
 
-**PRIOR AUTHORIZATION CRITERIA:**
+## PRIOR AUTHORIZATION CRITERIA
 
 1. Is there any reason the patient cannot use a medication not requiring prior approval?
 
@@ -55,4 +57,6 @@ Patients who have a claim for a non-preferred drug in the previous 120 days will
 | Wilate PA                                                                 |                     |
 | Xyntha PA                                                                 |                     |
 
-**Link to Criteria:** [Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=11)
+### Link to Criteria
+
+[Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=11)

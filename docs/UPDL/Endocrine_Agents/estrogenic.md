@@ -1,8 +1,10 @@
 # Endocrine Agents - Estrogenic Agents
 
-**AUTHORIZATIONS**: 365 Days
+## AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -32,4 +34,6 @@
 | Prempro                                  | Minivelle                        |
 |                                          | Prefest                          |
 
-**Link to Criteria:** [Endocrine Agents: Estrogenic Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=51)
+### Link to Criteria
+
+[Endocrine Agents: Estrogenic Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=51)

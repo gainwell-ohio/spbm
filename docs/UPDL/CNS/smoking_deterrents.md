@@ -12,4 +12,6 @@ All products are covered without a PA
 | Chantix                                                   |                                     |
 | Varenicline                                               |                                     |
 
-**Link to Criteria:** [Central Nervous System (CNS) Agents: Smoking Deterrents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=44)
+### Link to Criteria
+
+[Central Nervous System (CNS) Agents: Smoking Deterrents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=44)

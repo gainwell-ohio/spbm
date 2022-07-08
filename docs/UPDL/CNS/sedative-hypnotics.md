@@ -1,8 +1,10 @@
 # Central Nervous System (CNS) Agents: Sedative-Hypnotics, NonBarbiturate
 
-**LENGTH OF AUTHORIZATIONS**: 180 Days
+## LENGTH OF AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+180 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -32,4 +34,6 @@
 |                                                                           | Temazepam 7.5, 22mg  |
 |                                                                           | Zolpidem ER and SL   |
 
-**Link to Criteria:** [Central Nervous System (CNS) Agents: Sedative Hypnotics, Non Barbiturate](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=42)
+### Link to Criteria
+
+[Central Nervous System (CNS) Agents: Sedative Hypnotics, Non Barbiturate](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=42)

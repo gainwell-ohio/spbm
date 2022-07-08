@@ -1,8 +1,10 @@
 # Cardiovascular Agents: Antiarrhythmics
 
-**LENGTH OF AUTHORIZATIONS:**  365 Days
+## LENGTH OF AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -30,4 +32,6 @@
 | Propafenone, ER                               |                             |
 | Quinidine, ER                                 |                             |
 
-**Link to Criteria:** [Cardiovascular Agents: Antiarrhythmics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=17)
+### Link to Criteria
+
+[Cardiovascular Agents: Antiarrhythmics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=17)

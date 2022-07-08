@@ -1,6 +1,6 @@
 # Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors
 
-**LENGTH OF AUTHORIZATIONS**:
+## LENGTH OF AUTHORIZATIONS
 
  Approval based upon diagnosis:
 | Diagnosis                                              | Approval Length                              |
@@ -11,7 +11,7 @@
 | Severe, chronic neutropenia with absolute neutrophil count (ANC) of less than 500/mm3 and have symptoms associated with neutropenia (e.g. fever, infections, oropharyngeal ulcers).          | 30 days                                      |
 | Hematopoietic radiation injury syndrome                | 30 days                                      |
 
-**Prior Authorization Criteria:**
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -38,4 +38,6 @@
 |                                                                                  | Udenyca          |
 |                                                                                  | Zarxio           |
 
-**Link to Criteria:** [Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=10)
+### Link to Criteria
+
+[Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=10)

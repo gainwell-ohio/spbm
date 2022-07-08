@@ -1,8 +1,10 @@
 # Endocrine Agents: Diabetes – Insulin
 
-**AUTHORIZATIONS**: 365 Days
+## AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -19,7 +21,7 @@
 2. For a medication requiring step therapy, there must have been an inadequate clinical response to at least **one** preferred medication within the same class not requiring prior authorization. A therapeutic failure is the inability to reach A1C goal after at least 120 days of current regimen with documented adherence and appropriate dose escalation.
 3. The requested non-preferred medication may be approved if there has been a therapeutic failure to at least **two** medications within the same class not requiring prior authorization. A therapeutic failure is the inability to reach A1C goal after at least 120 days of current regimen with documented adherence and appropriate dose escalation.
 
-**ADDITIONAL CLINICAL CRITERIA FOR INHALED INSULIN:**
+## ADDITIONAL CLINICAL CRITERIA FOR INHALED INSULIN
 
 - Patient has a claim for a long-acting insulin in the previous 120 days, or patient has type 2 diabetes; and
 
@@ -50,4 +52,6 @@
 | Toujeo                                            |                                       |
 | Tresiba ST                                        |                                       |
 
-**Link to Criteria:** [Endocrine Agents: Diabetes - Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=48)
+### Link to Criteria
+
+[Endocrine Agents: Diabetes - Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=48)

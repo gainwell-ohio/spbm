@@ -1,8 +1,10 @@
 # Central Nervous System (CNS) Agents: Parkinson's Agents
 
-**LENGTH OF AUTHORIZATIONS**: 365 Days
+## LENGTH OF AUTHORIZATIONS
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## PRIOR AUTHORIZATION CRITERIA
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -14,7 +16,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**ADDITIONAL INFORMATION:**
+## ADDITIONAL INFORMATION
 
 The requested medication may be approved if both of the following are true:
 
@@ -46,4 +48,6 @@ The requested medication may be approved if both of the following are true:
 |                                                          | Xadago                              |
 |                                                          | Zelapar                             |
 
-**Link to Criteria:** [Central Nervous System (CNS) Agents: Parkinson's Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=40)
+### Link to Criteria
+
+[Central Nervous System (CNS) Agents: Parkinson's Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=40)

@@ -1,10 +1,10 @@
 # Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction
 
-**LENGTH OF AUTHORIZATIONS:**
+## LENGTH OF AUTHORIZATIONS
 
  No PA required for short-acting, buprenorphine containing, oral agents 30 days for initial authorization of injectable not to exceed 180 days for subsequent authorizations of injectable; length depending upon patient status and compliance to treatment plan 14-day authorization for Lucemyra@ (lofexidine)
 
- **PRIOR AUTHORIZATION CRITERIA:**
+## PRIOR AUTHORIZATION CRITERIA
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -16,7 +16,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**Criteria for Lucemyra (lofexidine):**
+## Criteria for Lucemyra (lofexidine)
 
 - Indicated for Opioid Withdrawal, must meet all the following criteria:
 
@@ -33,7 +33,7 @@ Acceptable reasons include:
 
 Prescribing for buprenorphine products must follow the requirements of Ohio Administrative Code rule 4731-33-03 *Office based treatment for opioid addiction*.
 
-**BUPRENORPHINE SAFETY EDITS AND DRUG UTILIZATION REVIEW CRITERIA:**
+## BUPRENORPHINE SAFETY EDITS AND DRUG UTILIZATION REVIEW CRITERIA
 
 In favor of eliminating prior authorization for all forms of oral short acting buprenorphine- containing products, ODM and the Managed Care Plans will implement safety edits and a retrospective drug utilization review process for all brand and generic forms of oral short acting buprenorphine-containing products.
 
@@ -41,11 +41,11 @@ Buprenorphine SL tablets (Generic of Subutex) use restricted to pregnancy or bre
 
 Vivitrol may be billed by the pharmacy if it is not dispensed directly to the patient. If not administered by the pharmacist, the drug must be released only to the administering provider or administering provider's staff, following all regulations for a Prescription Pick-Up Station as described by the Ohio Board of Pharmacy.
 
-**Sublocade Drug Utilization Review Criteria:**
+## Sublocade Drug Utilization Review Criteria
 
 - Dosing schedule will be limited to 300mg/30 days.
 
-**Additional Sublocade Information:**
+## Additional Sublocade Information
 
 Sublocade may be billed by the pharmacy if it is not dispensed directly to the patient. If not administered at the pharmacy, the drug must be released only to the administering provider or administering provider's staff, following all applicable regulations.
 
@@ -61,4 +61,6 @@ Sublocade may be billed by the pharmacy if it is not dispensed directly to the p
 | Vivitrol                                                                                |                      |
 | Zubsolv                                                                                 |                      |
 
-**Link to Criteria:** [Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=34)
+### Link to Criteria
+
+[Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=34)
