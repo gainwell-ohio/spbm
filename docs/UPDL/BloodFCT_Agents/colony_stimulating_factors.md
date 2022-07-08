@@ -27,10 +27,11 @@
 
 ## Colony Stimulating Factors
 
-| Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors  |                  |
-|----------------------------------------------------------------------------------|------------------|
-| PREFERRED                                                                        | NON-PREFERRED    |
-| Neupogen PA                                                                      | Fulphila         |
+Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors
+
+| PREFERRED | NON-PREFERRED |
+|---|---|
+| Neupogen PA  | Fulphila         |
 | Ziextenzo PA                                                                     | Granix           |
 |                                                                                  | Leukine          |
 |                                                                                  | Neulasta         |
