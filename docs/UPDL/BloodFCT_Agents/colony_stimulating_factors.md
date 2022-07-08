@@ -30,15 +30,15 @@
 Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors
 
 | PREFERRED | NON-PREFERRED |
-|---|---|
-| Neupogen PA  | Fulphila         |
-| Ziextenzo PA                                                                     | Granix           |
-|                                                                                  | Leukine          |
-|                                                                                  | Neulasta         |
-|                                                                                  | Nivestym         |
-|                                                                                  | Nyvepria         |
-|                                                                                  | Udenyca          |
-|                                                                                  | Zarxio           |
+| :--- | ---: |
+| Neupogen PA  | Fulphila |
+| Ziextenzo PA | Granix |
+|   | Leukine  |
+|   | Neulasta |
+|   | Nivestym |
+|   | Nyvepria |
+|   | Udenyca  |
+|   | Zarxio   |
 
 ### Link to Criteria
 
