@@ -28,9 +28,10 @@ AR – Naproxen Suspension: a PA is required for patients over 12 years old
 
 ## NSAIDs
 
-| Analgesic Agents: NSAIDS           |                                      |
-|------------------------------------|--------------------------------------|
+Analgesic Agents: NSAIDS
+
 | PREFERRED                          | NON-PREFERRED                        |
+|------------------------------------|--------------------------------------|
 | Celecoxib                          | Diclofenac/Misoprostol               |
 | Diclofenac                         | Diclofenac Patch 1.3%                |
 | Diclofenac DR                      | Diclotrex                            |
@@ -54,6 +55,12 @@ AR – Naproxen Suspension: a PA is required for patients over 12 years old
 | Piroxicam                          |                                      |
 | Sulindac                           |                                      |
 
+<<<<<<< HEAD
 ### Link to Criteria
 
  [Analgesic Agents: NSAIDS](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=5)
+=======
+## Link to Criteria
+
+[Analgesic Agents: NSAIDS](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=5)
+>>>>>>> 3b9cca1e328110f75db980224e97eb9da0188e03
