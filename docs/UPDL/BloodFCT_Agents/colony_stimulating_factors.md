@@ -3,13 +3,14 @@
 ## LENGTH OF AUTHORIZATIONS
 
  Approval based upon diagnosis:
-| Diagnosis                                              | Approval Length                              |
-|--------------------------------------------------------|----------------------------------------------|
-| Acute Myeloid Leukemia (AML)                           | 14 days or duration of chemotherapy regimen  |
-| Malignancy at risk for febrile neutropenia or undergoing  myeloablative chemotherapy prior to allogeneic or autologous bone marrow transplantation                                          | 14 days or duration of chemotherapy regimen  |
-| Myeloid Engraftment for bone marrow transplant (BMT)   | 30 days                                      |
-| Severe, chronic neutropenia with absolute neutrophil count (ANC) of less than 500/mm3 and have symptoms associated with neutropenia (e.g. fever, infections, oropharyngeal ulcers).          | 30 days                                      |
-| Hematopoietic radiation injury syndrome                | 30 days                                      |
+
+| Diagnosis | Approval Length |
+|---|---|
+| Acute Myeloid Leukemia (AML) | 14 days or duration of chemotherapy regimen |
+| Malignancy at risk for febrile neutropenia or undergoing myeloablative chemotherapy prior to allogeneic or autologous bone marrow transplantation | 14 days or duration of chemotherapy regimen |
+| Myeloid Engraftment for bone marrow transplant (BMT) | 30 days |
+| Severe, chronic neutropenia with absolute neutrophil count (ANC) of less than 500/mm3 and have symptoms associated with neutropenia (e.g. fever, infections, oropharyngeal ulcers). | 30 days |
+| Hematopoietic radiation injury syndrome | 30 days |
 
 ## Prior Authorization Criteria
 
