@@ -1,10 +1,10 @@
 # Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet
 
-**INDICATION AND LENGTH OF AUTHORIZATION:**
+## Indication And Length Of Authorization
 
 Requested medication must be used for an approved FDA indication and duration
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -20,14 +20,15 @@ Requested medication must be used for an approved FDA indication and duration
 
 ## Oral Antiplatelet
 
-| Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet  |                  |
-|-------------------------------------------------------------------------|------------------|
-| PREFERRED                                                               | NON-PREFERRED    |
-| Aspirin                                                                 | Yosprala         |
-| Aspirin/Dipyridamole ER                                                 | Zontivity        |
-| Brilinta                                                                |                  |
-| Clopidogrel                                                             |                  |
-| Prasugrel                                                               |                  |
+Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Aspirin                 | Yosprala  |
+| Aspirin/Dipyridamole ER | Zontivity |
+| Brilinta                |           |
+| Clopidogrel             |           |
+| Prasugrel               |           |
 
 ### Link to Criteria
 

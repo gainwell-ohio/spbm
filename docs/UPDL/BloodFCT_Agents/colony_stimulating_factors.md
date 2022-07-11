@@ -1,11 +1,11 @@
 # Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors
 
-## LENGTH OF AUTHORIZATIONS
+## Length Of Authorizations
 
  Approval based upon diagnosis:
 
 | Diagnosis | Approval Length |
-|---|---|
+| :--- | ---: |
 | Acute Myeloid Leukemia (AML) | 14 days or duration of chemotherapy regimen |
 | Malignancy at risk for febrile neutropenia or undergoing myeloablative chemotherapy prior to allogeneic or autologous bone marrow transplantation | 14 days or duration of chemotherapy regimen |
 | Myeloid Engraftment for bone marrow transplant (BMT) | 30 days |
@@ -32,7 +32,7 @@ Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors
 | PREFERRED | NON-PREFERRED |
 | :--- | ---: |
 | Neupogen PA  | Fulphila |
-| Ziextenzo PA | Granix |
+| Ziextenzo PA | Granix   |
 |   | Leukine  |
 |   | Neulasta |
 |   | Nivestym |

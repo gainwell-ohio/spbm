@@ -1,14 +1,14 @@
-# Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factors\*
+# Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factors*
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 365 Days
 
-## GRANDFATHERING
+## Grandfathering
 
 Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug through the automated PA system. Patients who have taken the drug previously, but do not have claims history (e.g. new to Medicaid), will be approved for PA after prescriber contact.
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot use a medication not requiring prior approval?
 
@@ -27,35 +27,36 @@ Patients who have a claim for a non-preferred drug in the previous 120 days will
 
 ## Hemophilia Factor
 
-| Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factor\*  |                     |
-|---------------------------------------------------------------------------|--------------------|
-| PREFERRED                                                                 | NON-PREFERRED       |
-| Advate PA                                                                 | Jivi                |
-| Adynovate PA                                                              | Kovaltry            |
-| Afstyla PA                                                                | Nuwiq               |
-| Alphanate PA                                                              | Obizur              |
-| Alphanine SD PA                                                           | Rebinyn             |
-| Alprolix PA                                                               | Sevenfact           |
-| Benefix PA                                                                | Vonvendi            |
-| Corifact PA                                                               |                     |
-| Eloctate PA                                                               |                     |
-| Esperoct PA                                                               |                     |
-| Feiba PA                                                                  |                     |
-| Hemlibra PA                                                               |                     |
-| Hemofil M PA                                                              |                     |
-| Humate-P PA                                                               |                     |
-| Idelvion PA                                                               |                     |
-| Ixinity PA                                                                |                     |
-| Koate PA                                                                  |                     |
-| Kogenate FS PA                                                            |                     |
-| Mononine PA                                                               |                     |
-| Novoeight PA                                                              |                     |
-| Novoseven RT PA                                                           |                     |
-| Profilnine PA                                                             |                     |
-| Recombinate PA                                                            |                     |
-| Rixubis PA                                                                |                     |
-| Wilate PA                                                                 |                     |
-| Xyntha PA                                                                 |                     |
+Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factor\*
+
+| PREFERRED       | NON-PREFERRED |
+| :--- | ---: |
+| Advate PA       | Jivi          |
+| Adynovate PA    | Kovaltry      |
+| Afstyla PA      | Nuwiq         |
+| Alphanate PA    | Obizur        |
+| Alphanine SD PA | Rebinyn       |
+| Alprolix PA     | Sevenfact     |
+| Benefix PA      | Vonvendi      |
+| Corifact PA     |               |
+| Eloctate PA     |               |
+| Esperoct PA     |               |
+| Feiba PA        |               |
+| Hemlibra PA     |               |
+| Hemofil M PA    |               |
+| Humate-P PA     |               |
+| Idelvion PA     |               |
+| Ixinity PA      |               |
+| Koate PA        |               |
+| Kogenate FS PA  |               |
+| Mononine PA     |               |
+| Novoeight PA    |               |
+| Novoseven RT PA |               |
+| Profilnine PA   |               |
+| Recombinate PA  |               |
+| Rixubis PA      |               |
+| Wilate PA       |               |
+| Xyntha PA       |               |
 
 ### Link to Criteria
 

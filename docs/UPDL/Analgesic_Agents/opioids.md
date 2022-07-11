@@ -1,10 +1,10 @@
 # Analgesic Agents: Opioids
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 For the course of therapy, up to 180 days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -16,11 +16,11 @@ Acceptable reasons include:
 
 - Patient must have failed the generic product (if covered by the state) before brand is authorized, in addition to the above.
 
-## ADDITIONAL AUTHORIZATION CRITERIA
+## Additional Authorization Criteria
 
 - There must have been an inadequate clinical response to preferred alternatives, including a trial of no less than **7 days** of **one** preferred product.
 
-## ADDITIONAL CRITERIA FOR EXCEEDING SHORT-ACTING OPIOID NEW START CRITERIA
+## Additional Criteria For Exceeding Short-Acting Opioid New Start Criteria
 
 - System will define “new start” as having less than a 1-day supply of opioids in the previous 90 days
 
@@ -44,7 +44,7 @@ Acceptable reasons include:
 
 Length of authorization: Up to 90 days, depending on the indication, previous patient utilization, and requested length of therapy (could be more restrictive)
 
-## ADDITIONAL CRITERIA FOR TRANSMUCOSAL FENTANYL
+## Additional Criteria For Transmucosal Fentanyl
 
 - Diagnosis of cancer pain; and
 
@@ -59,9 +59,9 @@ Length of authorization: Up to 90 days, depending on the indication, previous pa
   - ≥ 25 mg oral oxymorphone/day, or
   - Equianalgesic dose of another opioid; and
 
-- Dose is \</= 4 units per day
+- Dose is <*/*= 4 units per day
 
-## ALL LONG-ACTING OPIOIDS REQUIRE PRIOR AUTHORIZATION
+## All Long-Acting Opioids Require Prior Authorization
 
 Initial request (90-day approval)
 
@@ -75,7 +75,7 @@ Initial request (90-day approval)
   - Opioid contract required to be in place and should be submitted with prior authorization form
   - Documented failure of both non-opioid pharmacologic and non-pharmacologic treatments
   - History of short-acting opioids for \>/= 60 days
-  - Daily Dose \</= 80 MED
+  - Daily Dose <*/*= 80 MED
 
 - Renewal requests (after initial 90 days then every 180 days)
   - Current treatment plan
@@ -89,34 +89,35 @@ Effective July 1, 2018, patients with short acting opioid therapy will be limite
 
 ## Opioids
 
-| Analgesic Agents: Opioids                     |                                                             |
-|-----------------------------------------------|-------------------------------------------------------------|
-| PREFERRED                                     | NON-PREFERRED                                               |
-| Acetaminophen/Codeine QL                      | Acetaminophen/Caffeine/Dihydrocodeine QL                    |
-| Butalbital/Acetaminophen/Caffeine/Codeine QL  | Belbuca QL                                                  |
-| Butalbital/Aspirin/Caffeine/Codeine QL        | Benzhydrocodone/Acetaminophen QL                            |
-| Butorphanol QL                                | Buprenorphine TD Patch Weekly QL                            |
-| Butrans BvG PA QL                             | Butalbital/Acetaminophen/Caffeine/Codeine 50-300-40-30mgQL  |
-| Codeine QL                                    | Dsuvia QL                                                   |
-| Hydrocodone/Acetaminophen QL                  | Fentanyl QL                                                 |
-| Hydromorphone IR QL                           | Hydrocodone Bitartrate ER 12HR CapQL                        |
-| Morphine ER Tab PA QL                         | Hydrocodone Bitartrate ER 24HR TabQL                        |
-| Morphine Sol QL                               | Hydrocodone/Acetaminophen 5-300, 7.5-300, 10-300mg QL       |
-| Morphine Tab QL                               | Hydrocodone/Ibuprofen QL                                    |
-| Oxycodone Cap QL                              | Hydromorphone ER QL                                         |
-| Oxycodone Sol QL                              | Levorphanol QL                                              |
-| Oxycodone Tab QL                              | Meperidine QL                                               |
-| Oxycodone/Acetaminophen QL                    | Methadone QL                                                |
-| Tramadol QL                                   | Morphine ER 24HR Cap QL                                     |
-| Tramadol/Acetaminophen QL                     | Nucynta, ER QL                                              |
-|                                               | Oxaydo QL                                                   |
-|                                               | Oxycodone ER QL                                             |
-|                                               | Oxycodone/Ibuprofen QL                                      |
-|                                               | Oxymorphone, ER QL                                          |
-|                                               | Pentazocine/Naloxone QL                                     |
-|                                               | Tramadol ER QL                                              |
-|                                               | Tramadol Sol QL                                             |
-|                                               | Xtampza ER QL                                               |
+Analgesic Agents: Opioids
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Acetaminophen/Codeine QL                      | Acetaminophen/Caffeine/Dihydrocodeine QL |
+| Butalbital/Acetaminophen/Caffeine/Codeine QL  | Belbuca QL                               |
+| Butalbital/Aspirin/Caffeine/Codeine QL        | Benzhydrocodone/Acetaminophen QL         |
+| Butorphanol QL    | Buprenorphine TD Patch Weekly QL                            |
+| Butrans BvG PA QL | Butalbital/Acetaminophen/Caffeine/Codeine 50-300-40-30mgQL  |
+| Codeine QL                   | Dsuvia QL                |
+| Hydrocodone/Acetaminophen QL | Fentanyl QL              |
+| Hydromorphone IR QL          | Hydrocodone Bitartrate ER 12HR CapQL |
+| Morphine ER Tab PA QL        | Hydrocodone Bitartrate ER 24HR TabQL |
+| Morphine Sol QL              | Hydrocodone/Acetaminophen 5-300, 7.5-300, 10-300mg QL  |
+| Morphine Tab QL              | Hydrocodone/Ibuprofen QL |
+| Oxycodone Cap QL             | Hydromorphone ER QL      |
+| Oxycodone Sol QL             | Levorphanol QL           |
+| Oxycodone Tab QL             | Meperidine QL            |
+| Oxycodone/Acetaminophen QL   | Methadone QL             |
+| Tramadol QL                  | Morphine ER 24HR Cap QL  |
+| Tramadol/Acetaminophen QL    | Nucynta, ER QL           |
+| | Oxaydo QL                  |
+| | Oxycodone ER QL            |
+| | Oxycodone/Ibuprofen QL     |
+| | Oxymorphone, ER QL         |
+| | Pentazocine/Naloxone QL    |
+| | Tramadol ER QL             |
+| | Tramadol Sol QL            |
+| | Xtampza ER QL              |
 
 ### Link to Criteria
 

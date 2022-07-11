@@ -1,10 +1,10 @@
 # Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants
 
-## INDICATION AND LENGTH OF AUTHORIZATION
+## Indication And Length Of Authorization
 
 Requested medication must be used for an approved FDA indication and duration
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -20,13 +20,14 @@ Requested medication must be used for an approved FDA indication and duration
 
 ## Oral Anticoagulants
 
-| Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants  |                |
-|---------------------------------------------------------------------------|----------------|
-| PREFERRED                                                                 | NON-PREFERRED  |
-| Eliquis                                                                   | Savaysa        |
-| Pradaxa                                                                   |                |
-| Warfarin                                                                  |                |
-| Xarelto                                                                   |                |
+Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants
+
+| PREFERRED  | NON-PREFERRED  |
+| :---| ---: |
+| Eliquis    | Savaysa        |
+| Pradaxa    |                |
+| Warfarin   |                |
+| Xarelto    |                |
 
 ### Link to Criteria
 

@@ -1,10 +1,10 @@
 # Blood Formation, Coagulation, and Thrombosis Agents: HeparinRelated Preparations
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 Varies based upon criteria below
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -18,7 +18,7 @@ Varies based upon criteria below
 
 2. Has the patient failed a therapeutic trial of 14 days with a medication not requiring prior approval?
 
-## DURATION OF THERAPY LIMIT
+## Duration of Therapy Limit
 
 35 days
 
@@ -34,11 +34,12 @@ Is there any reason the patient cannot be changed to oral warfarin? Acceptable r
 
 ## Heparin-Related Preparations
 
-| Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations |              |
-|-----------------------------------------------------------------------------------|--------------|
-| PREFERRED                                                                         | NONPREFERRED |
-| Enoxaparin                                                                        | Fondaparinux |
-|                                                                                   | Fragmin      |
+Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations
+
+| PREFERRED   | NONPREFERRED |
+| :--- | ---: |
+| Enoxaparin  | Fondaparinux |
+|             | Fragmin      |
 
 ### Link to Criteria
 

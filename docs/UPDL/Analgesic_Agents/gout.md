@@ -1,10 +1,10 @@
 # Analgesic Agents: Gout
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 365 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to an agent not requiring prior approval?
 
@@ -16,7 +16,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## ADDITIONAL INFORMATION
+## Additional Information
 
 The requested medication may be approved if the following is true:
 
@@ -50,14 +50,15 @@ The requested medication may be approved if the following is true:
 
 ## Gout
 
-|Analgesic Agents: Gout                 |                         |
-|---------------------------------------|-------------------------|
-| PREFERRED                             | NON-PREFERRED           |
-| Allopurinol                           | Colchicine Cap QL       |
-| Colchicine Tab PA QL                  | Gloperba Susp QL        |
-| Probenecid                            | Uloric BvG              |
-|Probenecid/Colchicine PA               |                         |
+Analgesic Agents: Gout
+
+| PREFERRED                 | NON-PREFERRED       |
+| :--- | ---: |
+| Allopurinol               | Colchicine Cap QL   |
+| Colchicine Tab PA QL      | Gloperba Susp QL    |
+| Probenecid                | Uloric BvG          |
+|Probenecid/Colchicine PA   |                     |
 
 ### Link to Criteria
 
- [Analgesic Agents: Gout](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=6)
+[Analgesic Agents: Gout](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=6)

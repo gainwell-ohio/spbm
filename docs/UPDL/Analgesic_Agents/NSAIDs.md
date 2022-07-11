@@ -1,16 +1,16 @@
 # Analgesic Agents: NSAIDs
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 Dependent on medication request
 
 |                       | Approval Duration  |
-|-----------------------|--------------------|
+| :--- | ---: |
 | H. Pylori Treatment   | 30 days            |
 | Transdermal/Topical   | 90 days            |
 | All Other Treatments  | 365 days           |
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -30,37 +30,31 @@ AR – Naproxen Suspension: a PA is required for patients over 12 years old
 
 Analgesic Agents: NSAIDS
 
-| PREFERRED                          | NON-PREFERRED                        |
-|------------------------------------|--------------------------------------|
-| Celecoxib                          | Diclofenac/Misoprostol               |
-| Diclofenac                         | Diclofenac Patch 1.3%                |
-| Diclofenac DR                      | Diclotrex                            |
-| Diclofenac ER                      | Fenoprofen 400mg                     |
-| Diclofenac Gel 1%                  | Ibuprofen/Famotidine                 |
-| Etodolac                           | Ketorolac Tromethamine Nasal Spray   |
-| Fenoprofen 600mg                   | Ketoprofen                           |
-| Flurbiprofen                       | Licart Patch                         |
-| Ibuprofen                          | Meloxicam Cap                        |
-| Indocin                            | Naproxen CR                          |
-| Indomethacin                       | Naproxen DR                          |
-| Ketoprofen ER                      | Naproxen ER                          |
-| Ketorolac                          | Naproxen EC                          |
-| Meclofenamate                      | Naproxen/Esomeprazole                |
-| Mefenamic Acid                     | Pennsaid                             |
-| Meloxicam Tab                      | Qmiiz ODT                            |
-| Nabumetone                         | Relafen DS                           |
-| Naproxen IR                        | Zipsor BvG                           |
-| Naproxen Susp AR                   | Zorvolex                             |
-| Oxaprozin                          |                                      |
-| Piroxicam                          |                                      |
-| Sulindac                           |                                      |
+| PREFERRED            | NON-PREFERRED                      |
+| :--- | ---: |
+| Celecoxib            | Diclofenac/Misoprostol             |
+| Diclofenac           | Diclofenac Patch 1.3%              |
+| Diclofenac DR        | Diclotrex                          |
+| Diclofenac ER        | Fenoprofen 400mg                   |
+| Diclofenac Gel 1%    | Ibuprofen/Famotidine               |
+| Etodolac             | Ketorolac Tromethamine Nasal Spray |
+| Fenoprofen 600mg     | Ketoprofen                         |
+| Flurbiprofen         | Licart Patch                       |
+| Ibuprofen            | Meloxicam Cap                      |
+| Indocin              | Naproxen CR                        |
+| Indomethacin         | Naproxen DR                        |
+| Ketoprofen ER        | Naproxen ER                        |
+| Ketorolac            | Naproxen EC                        |
+| Meclofenamate        | Naproxen/Esomeprazole              |
+| Mefenamic Acid       | Pennsaid                           |
+| Meloxicam Tab        | Qmiiz ODT                          |
+| Nabumetone           | Relafen DS                         |
+| Naproxen IR          | Zipsor BvG                         |
+| Naproxen Susp AR     | Zorvolex                           |
+| Oxaprozin            |                                    |
+| Piroxicam            |                                    |
+| Sulindac             |                                    |
 
-<<<<<<< HEAD
 ### Link to Criteria
 
- [Analgesic Agents: NSAIDS](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=5)
-=======
-## Link to Criteria
-
 [Analgesic Agents: NSAIDS](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=5)
->>>>>>> 3b9cca1e328110f75db980224e97eb9da0188e03
