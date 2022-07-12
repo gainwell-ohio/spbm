@@ -1,8 +1,10 @@
 # Respiratory Agents: Epinephrine Auto-Injectors
 
-**LENGTH OF AUTHORIZATIONS:** 365 Days
+## Length Of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -18,10 +20,13 @@ The requested medication may be approved if there has been therapeutic failure u
 
 ## Epinephrine Auto-Injectors
 
-| Respiratory Agents: Epinephrine Auto-Injectors    |               |
-|---------------------------------------------------|---------------|
-| PREFERRED                                         | NON-PREFERRED |
-| Epinephrine (labeler 49502)                       | Epipen        |
-| Symjepi                                           | Epipen JR     |
+Respiratory Agents: Epinephrine Auto-Injectors
 
-**Link to Criteria:** [Respiratory Agents: Epinephrine Auto-Injectors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=89)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Epinephrine (labeler 49502) | Epipen    |
+| Symjepi                     | Epipen JR |
+
+### Link to Criteria
+
+[Respiratory Agents: Epinephrine Auto-Injectors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=89)

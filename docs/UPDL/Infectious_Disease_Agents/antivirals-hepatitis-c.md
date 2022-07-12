@@ -1,8 +1,10 @@
 # Infectious Disease Agents: Antivirals – Hepatitis C Agents
 
-**LENGTH OF AUTHORIZATIONS:**  365 days except simeprevir and direct acting antivirals (DAAs), see below
+## Length Of Authorizations
 
- **PRIOR AUTHORIZATION CRITERIA:**
+365 days except simeprevir and direct acting antivirals (DAAs), see below
+
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication within the same class that does not require prior approval?
 
@@ -16,13 +18,13 @@ Acceptable reasons include:
 
 - Patients established on current therapy with prior payer (i.e. Commercial, Fee-for- Service, Managed Care Plan, etc).
 
-**ADDITIONAL CRITERIA FOR DAAs:**
+## Additional Criteria For DAAs
 
 All HCV DAAs require clinical prior authorization. Only regimens recommended by the American Association for the Study of Liver Diseases (AASLD) will be approved.
 
 Please see the [Hepatitis C Direct Acting Antiviral Prior Authorization Form](https://pharmacy.medicaid.ohio.gov/sites/default/files/HepC_PA_Form_20211119.pdf#overlay-context=prior-authorization) for criteria and the most recent regimens recommended by the American Association for the Study of Liver Diseases (AASLD)
 
-**ADDITIONAL INFORMATION TO AID IN THE FINAL DECISION:**
+## Additional Information To Aid In The Final Decision
 
 - Pegylated Interferons have a Black Box Warning which indicates that a patient should be monitored closely with periodic clinical and laboratory evaluations.
 
@@ -30,13 +32,16 @@ Please see the [Hepatitis C Direct Acting Antiviral Prior Authorization Form](ht
 
 ## Antivirals - Hepatitis C Agents
 
-| Infectious Disease Agents: Antivirals – Hepatitis C Agents  |                                      |
-|-------------------------------------------------------------|--------------------------------------|
-| PREFERRED                                                   | NON-PREFERRED                        |
-| Mavyret PA                                                  | Harvoni 33.75-150, 45-200, 90-400mg  |
-| Pegasys PA                                                  | Ledipasvir/Sofosbuvir                |
-| Ribavirin PA                                                | Sovaldi                              |
-| Sofosbuvir/Velpatasvir PA                                   | Vosevi                               |
-|                                                             | Zepatier                             |
+Infectious Disease Agents: Antivirals – Hepatitis C Agents
 
-**Link to Criteria:** [Infectious Disease Agents: Antivirals - Hepatitis C Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=77)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Mavyret PA  | Harvoni 33.75-150, 45-200, 90-400mg |
+| Pegasys PA                | Ledipasvir/Sofosbuvir |
+| Ribavirin PA              | Sovaldi               |
+| Sofosbuvir/Velpatasvir PA | Vosevi                |
+|                           | Zepatier              |
+
+### Link to Criteria
+
+[Infectious Disease Agents: Antivirals - Hepatitis C Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=77)

@@ -1,10 +1,10 @@
 # Gastrointestinal Agents: Crohn’s Disease
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 365 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -20,14 +20,15 @@ For a non-preferred agent, there must have been inadequate clinical response to 
 
 ## Crohn's Disease
 
-| Gastrointestinal Agents: Crohn’s Disease         |                     |
-|--------------------------------------------------|---------------------|
-| PREFERRED                                        | NON-PREFERRED       |
-| Azathioprine                                     | Ortikos ER          |
-| Budesonide ER Cap                                |                     |
-| Mercaptopurine                                   |                     |
-| Methotrexate                                     |                     |
-| Sulfasalazine                                    |                     |
+Gastrointestinal Agents: Crohn’s Disease
+
+| PREFERRED | NON-PREFERRED |
+| :--- | --- |
+| Azathioprine      | Ortikos ER |
+| Budesonide ER Cap |            |
+| Mercaptopurine    |            |
+| Methotrexate      |            |
+| Sulfasalazine     |            |
 
 ### Link to Criteria
 

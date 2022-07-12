@@ -1,8 +1,10 @@
 # Otic Agents: Antibacterial and Antibacterial/Steroid Combinations
 
-**LENGTH OF AUTHORIZATIONS**: For the date of service only; no refills for acute infection.
+## Length Of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+For the date of service only; no refills for acute infection.
+
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
 
@@ -24,13 +26,16 @@ The requested medication may be approved if both of the following are true:
 
 ## Antibacterial and Antibacterial/Steroid Combinations
 
-| Otic Agents: Antibacterial and Antibacterial/Steroid Combinations  |                                 |
-|--------------------------------------------------------------------|---------------------------------|
-| PREFERRED                                                          | NON-PREFERRED                   |
-| Cipro HC                                                           | Ciprofloxacin                   |
-| Ciprodex BvG                                                       | Ciprofloxacin/Dexamethasone     |
-| Cortisporin-TC                                                     | Ciprofloxacin/Fluocinolone      |
-| Neomycin/Polymyxin B/Hydrocortisone                                |                                 |
-| Ofloxacin                                                          |                                 |
+Otic Agents: Antibacterial and Antibacterial/Steroid Combinations
 
-**Link to Criteria:** [Otic Agents: Antibacterial and Antibacterial/Steroid Combinations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=86)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Cipro HC       | Ciprofloxacin                   |
+| Ciprodex BvG   | Ciprofloxacin/Dexamethasone     |
+| Cortisporin-TC | Ciprofloxacin/Fluocinolone      |
+| Neomycin/Polymyxin B/Hydrocortisone | |
+| Ofloxacin                           | |
+
+### Link to Criteria
+
+[Otic Agents: Antibacterial and Antibacterial/Steroid Combinations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=86)

@@ -1,10 +1,10 @@
 # Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
  No PA required for short-acting, buprenorphine containing, oral agents 30 days for initial authorization of injectable not to exceed 180 days for subsequent authorizations of injectable; length depending upon patient status and compliance to treatment plan 14-day authorization for Lucemyra@ (lofexidine)
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -33,7 +33,7 @@ Acceptable reasons include:
 
 Prescribing for buprenorphine products must follow the requirements of Ohio Administrative Code rule 4731-33-03 *Office based treatment for opioid addiction*.
 
-## BUPRENORPHINE SAFETY EDITS AND DRUG UTILIZATION REVIEW CRITERIA
+## Buprenorphine Safety Edits And Drug Utilization Review Criteria
 
 In favor of eliminating prior authorization for all forms of oral short acting buprenorphine- containing products, ODM and the Managed Care Plans will implement safety edits and a retrospective drug utilization review process for all brand and generic forms of oral short acting buprenorphine-containing products.
 
@@ -51,15 +51,16 @@ Sublocade may be billed by the pharmacy if it is not dispensed directly to the p
 
 ## Medication Assisted Treatment of Opioid Addiction
 
-| Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction  |                      |
-|-----------------------------------------------------------------------------------------|----------------------|
-| PREFERRED                                                                               | NON-PREFERRED        |
-| Buprenorphine/Naloxone                                                                  | Buprenorphine        |
-| Clonidine                                                                               | Lucemyra QL          |
-| Sublocade QL                                                                            |                      |
-| Suboxone                                                                                |                      |
-| Vivitrol                                                                                |                      |
-| Zubsolv                                                                                 |                      |
+Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Buprenorphine/Naloxone | Buprenorphine |
+| Clonidine              | Lucemyra QL   |
+| Sublocade QL           |               |
+| Suboxone               |               |
+| Vivitrol               |               |
+| Zubsolv                |               |
 
 ### Link to Criteria
 

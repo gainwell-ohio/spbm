@@ -1,10 +1,10 @@
 # Endocrine Agents - Estrogenic Agents
 
-## AUTHORIZATIONS
+## Authorizations
 
 365 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -20,19 +20,20 @@
 
 ## Estrogenic Agents
 
-| Endocrine Agents: Estrogenic Agents      |                                  |
-|------------------------------------------|----------------------------------|
-| PREFERRED                                | NON-PREFERRED                    |
-| Climara Pro                              | Angeliq                          |
-| Combipatch                               | Divigel                          |
-| Estradiol                                | Duavee                           |
-| Estring                                  | Estradiol 10mcg Vag Tab          |
+Endocrine Agents: Estrogenic Agents
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Climara Pro | Angeliq                    |
+| Combipatch  | Divigel                    |
+| Estradiol   | Duavee                     |
+| Estring     | Estradiol 10mcg Vag Tab    |
 | Ethinyl Estradiol/Norethindrone Acetate  | Estradiol/Norethindrone Acetate  |
-| Menest                                   | Evamist                          |
-| Premarin                                 | Femring                          |
-| Premphase                                | Menostar                         |
-| Prempro                                  | Minivelle                        |
-|                                          | Prefest                          |
+| Menest      | Evamist                    |
+| Premarin    | Femring                    |
+| Premphase   | Menostar                   |
+| Prempro     | Minivelle                  |
+|             | Prefest                    |
 
 ### Link to Criteria
 

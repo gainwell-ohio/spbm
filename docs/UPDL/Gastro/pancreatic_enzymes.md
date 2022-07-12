@@ -1,10 +1,10 @@
 # Gastrointestinal Agents: Pancreatic Enzymes
 
-## LENGTH OF AUTHORIZATIONS
+## Length Of Authorizations
 
 365 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -16,7 +16,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## ADDITIONAL INFORMATION
+## Additional Information
 
 The requested medication may be approved if the following is true:
 
@@ -24,12 +24,13 @@ The requested medication may be approved if the following is true:
 
 ## Pancreatic Enzymes
 
-| Gastrointestinal Agents: Pancreatic Enzymes  |                  |
-|----------------------------------------------|------------------|
-| PREFERRED                                    | NON-PREFERRED    |
-| Creon                                        | Pancreaze        |
-| Zenpep                                       | Pertzye          |
-|                                              | Viokace          |
+Gastrointestinal Agents: Pancreatic Enzymes
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Creon  | Pancreaze |
+| Zenpep | Pertzye   |
+|        | Viokace   |
 
 ### Link to Criteria
 

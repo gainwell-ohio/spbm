@@ -1,10 +1,10 @@
 # Cardiovascular Agents: Antiarrhythmics
 
-## LENGTH OF AUTHORIZATIONS
+## Length Of Authorizations
 
 365 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -20,17 +20,18 @@
 
 ## Antiarrhythmics
 
-| Cardiovascular Agents: Antiarrhythmics        |                             |
-|-----------------------------------------------|-----------------------------|
-| PREFERRED                                     | NON-PREFERRED               |
-| Amiodarone 200mg                              | Amiodarone 100mg and 400mg  |
-| Disopyramide                                  | Multaq                      |
-| Dofetilide                                    |                             |
-| Flecainide                                    |                             |
-| Mexiletine                                    |                             |
-| Norpace CR                                    |                             |
-| Propafenone, ER                               |                             |
-| Quinidine, ER                                 |                             |
+Cardiovascular Agents: Antiarrhythmics
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Amiodarone 200mg  | Amiodarone 100mg and 400mg  |
+| Disopyramide      | Multaq                      |
+| Dofetilide        |                             |
+| Flecainide        |                             |
+| Mexiletine        |                             |
+| Norpace CR        |                             |
+| Propafenone, ER   |                             |
+| Quinidine, ER     |                             |
 
 ### Link to Criteria
 

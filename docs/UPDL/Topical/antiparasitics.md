@@ -1,8 +1,10 @@
 # Topical Agents: Antiparasitics
 
-**LENGTH OF AUTHORIZATIONS**: 14 Days
+## Length Of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+14 Days
+
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -14,7 +16,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**ADDITIONAL INFORMATION:**
+## Additional Information
 
 The requested medication may be approved if the following is true:
 
@@ -22,7 +24,7 @@ The requested medication may be approved if the following is true:
 
 - The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated.
 
-**INDICATIONS AS APPROVED BY FDA:**
+## Indications As Approved By FDA
 
 - Benzyl alcohol lotion is indicated for patients 6 months of age and older
 
@@ -42,12 +44,15 @@ The requested medication may be approved if the following is true:
 
 ## Antiparasitics
 
-| Topical Agents: Antiparasitics   |                   |
-|----------------------------------|-------------------|
-| PREFERRED                        | NON-PREFERRED     |
-| Natroba BvG                      | Eurax             |
-| Permethrin                       | Malathion         |
-| Piperonyl Butoxide/Pyrethrins    | Sklice            |
-|                                  | Spinosad          |
+Topical Agents: Antiparasitics
 
-**Link to Criteria:** [Topical Agents: Antiparasitics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=98)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Natroba BvG                   | Eurax     |
+| Permethrin                    | Malathion |
+| Piperonyl Butoxide/Pyrethrins | Sklice    |
+|                               | Spinosad  |
+
+### Link to Criteria
+
+[Topical Agents: Antiparasitics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=98)

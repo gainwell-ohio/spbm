@@ -1,12 +1,12 @@
 # Respiratory Agents: Cystic Fibrosis
 
-**LENGTH OF AUTHORIZATIONS:**
+## Length Of Authorizations
 
 Initial authorization 90 days
 
 Subsequent authorization 365 days
 
-**PRIOR AUTHORIZATION CRITERIA:**
+## Prior AUthorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -18,7 +18,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**INITIAL AUTHORIZATION CRITERIA FOR BRONCHITOL, KALYDECO, ORKAMBI, SYMDEKO AND TRIKAFTA:**
+## Initial Authorization Criteria For Bronchitol, Kalydeco, Orkambi, Symdeko And Trikafta
 
 1. Patient must meet all the following criteria:
 
@@ -26,17 +26,17 @@ Acceptable reasons include:
     - The prescriber is, or has consulted with a pulmonologist or infectious disease specialist
     - Patient meets the FDA-approved age minimum for the requested medication
 
-**ADDITIONAL CRITERIA FOR BRONCHITOL:**
+## Additional Criteria For Bronchitol
 
 - Bronchitol must be used as an add-on maintenance therapy
 
 - Patients must have passed the Bronchitol Tolerance Test
 
-**ADDITIONAL CRITERIA FOR KALYDECO, ORKAMBI, SYMDEKO AND TRIKAFTA:**
+## Additional Criteria For Kalydeco, Orkambi, Symdeko And Trikafta
 
 - Patient has documentation (must include with PA request) of the genetic mutation(s) that the FDA approved the requested medication to treat
 
-**Reauthorization Criteria:**
+## Reauthorization Criteria
 
 Patient may be approved for reauthorization if they meet all the following criteria:
 
@@ -54,12 +54,15 @@ Patient may be approved for reauthorization if they meet all the following crite
 
 ## Cystic Fibrosis
 
-| Respiratory Agents: Cystic Fibrosis               |                |
-|---------------------------------------------------|----------------|
-| PREFERRED                                         | NON-PREFERRED  |
-| Kalydeco PA                                       | Bronchitol     |
-| Orkambi PA                                        |                |
-| Symdeko PA                                        |                |
-| Trikafta PA                                       |                |
+Respiratory Agents: Cystic Fibrosis
 
-**Link to Criteria:** [Respiratory Agents: Cystic Fibrosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=88)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Kalydeco PA | Bronchitol |
+| Orkambi PA  |            |
+| Symdeko PA  |            |
+| Trikafta PA |            |
+
+### Link to Criteria
+
+[Respiratory Agents: Cystic Fibrosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=88)

@@ -1,8 +1,10 @@
 # Respiratory Agents: Antihistamines – Second Generation
 
-**LENGTH OF AUTHORIZATIONS:** 365 Days
+## Length Of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
 
@@ -14,7 +16,7 @@
 
 2. If there have been therapeutic failures after **courses of treatment** (e.g., 30 days for allergic rhinitis) with medication not requiring prior approval, then may approve the requested medication.
 
-**ADDITIONAL INFORMATION:**
+## Additional Information
 
 - Fexofenadine is indicated for patients 6 years of age and older
 
@@ -24,15 +26,18 @@
 
 ## Antihistamines - Second Generation
 
-| Respiratory Agents: Antihistamines – Second Generation     |                      |
-|------------------------------------------------------------|----------------------|
-|PREFERRED                                                   | NON-PREFERRED        |
-| Cetirizine Syr                                             | Cetirizine Chewable  |
-| Cetirizine Tab                                             | Clarinex-D           |
-| Cetirizine/Pseudoephedrine                                 | Desloratadine        |
-| Loratadine Rapid Dissolve                                  | Fexofenadine         |
-| Loratadine Syr                                             | Levocetirizine       |
-| Loratadine Tab                                             |                      |
-| Loratadine/Pseudoephedrine                                 |                      |
+Respiratory Agents: Antihistamines – Second Generation
 
-**Link to Criteria:** [Respiratory Agents: Antihistamines - Second Generation](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=87)
+|PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Cetirizine Syr             | Cetirizine Chewable |
+| Cetirizine Tab             | Clarinex-D          |
+| Cetirizine/Pseudoephedrine | Desloratadine       |
+| Loratadine Rapid Dissolve  | Fexofenadine        |
+| Loratadine Syr             | Levocetirizine      |
+| Loratadine Tab             |                     |
+| Loratadine/Pseudoephedrine |                     |
+
+### Link to Criteria
+
+[Respiratory Agents: Antihistamines - Second Generation](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=87)

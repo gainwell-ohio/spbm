@@ -1,8 +1,10 @@
 # Topical Agents: Antifungals
 
-**LENGTH OF AUTHORIZATIONS**: Duration of the prescription (up to 180 days)
+## Length Of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+Duration of the prescription (up to 180 days)
+
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -19,19 +21,22 @@
 
 ## Antifungals
 
-| Topical Agents: Antifungals  |                                             |
-|------------------------------|---------------------------------------------|
-| PREFERRED                    | NON-PREFERRED                               |
-| Alevazol                     | Butenafine                                  |
-| Ciclopirox                   | Ciclopirox Kit                              |
-| Clotrimazole                 | Ertaczo                                     |
-| Clotrimazole/Betamethasone   | Jublia                                      |
-| Econazole                    | Ketoconazole Foam                           |
-| Ketoconazole                 | Luliconazole                                |
-| Miconazole                   | Miconazole/Zinc Oxide/White Petrolatum Oint |
-| Nystatin                     | Naftifine                                   |
-| Nystatin/Triamcinolone       | Oxiconazole                                 |
-| Terbinafine                  | Tavaborole                                  |
-| Tolnaftate                   |                                             |
+Topical Agents: Antifungals
 
-**Link to Criteria:** [Topical Agents: Antifungals](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=97)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Alevazol     | Butenafine     |
+| Ciclopirox   | Ciclopirox Kit |
+| Clotrimazole | Ertaczo        |
+| Clotrimazole/Betamethasone | Jublia  |
+| Econazole              | Ketoconazole Foam |
+| Ketoconazole           | Luliconazole      |
+| Miconazole             | Miconazole/Zinc Oxide/White Petrolatum Oint |
+| Nystatin               | Naftifine   |
+| Nystatin/Triamcinolone | Oxiconazole |
+| Terbinafine            | Tavaborole  |
+| Tolnaftate             |             |
+
+### Link to Criteria
+
+[Topical Agents: Antifungals](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=97)

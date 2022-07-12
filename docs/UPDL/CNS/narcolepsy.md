@@ -1,8 +1,10 @@
 # Central Nervous System (CNS) Agents: Narcolepsy
 
-**LENGTH OF AUTHORIZATIONS**: 365 Days
+## Length of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -14,11 +16,11 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**NON-PREFERRED MEDICATION:**
+## Non-Preferred Medication
 
 - For non‐preferred drugs without medication specific criteria, there must have been an inadequate clinical response to preferred alternatives, including a trial of no less than 30 days each of at least two preferred products
 
-**PRIOR AUTHORIZATION CRITERIA:**
+## Prior Authorization Criteria
 
 - Sunosi (soriamfetol)
 
@@ -42,21 +44,22 @@ Acceptable reasons include:
   - Diagnosis of narcolepsy with cataplexy **AND**
   - Sodium restriction with documented adherence to sodium restricted diet
 
-**REAUTHORIZATION CRITERIA:**
+## Reauthorization Criteria
 
 Attestation that the patient’s condition has improved while taking the requested medication
 
 ## Narcolepsy
 
-| Central Nervous System (CNS) Agents: Narcolepsy    |                           |
-|----------------------------------------------------|---------------------------|
-| PREFERRED                                          | NON-PREFERRED             |
-| Amphetamine/Dextroamphetamine                      | Sunosi                    |
-| Armodafinil                                        | Wakix                     |
-| Dextroamphetamine ER                               | Xyrem                     |
-| Methylphenidate ER                                 | Xywav                     |
-| Methylphenidate Tab                                |                           |
-| Modafinil                                          |                           |
+Central Nervous System (CNS) Agents: Narcolepsy
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Amphetamine/Dextroamphetamine | Sunosi |
+| Armodafinil                   | Wakix  |
+| Dextroamphetamine ER          | Xyrem  |
+| Methylphenidate ER            | Xywav  |
+| Methylphenidate Tab           |        |
+| Modafinil                     |        |
 
 ### Link to Criteria
 

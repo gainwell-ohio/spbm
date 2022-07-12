@@ -1,8 +1,10 @@
 # Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers
 
-**LENGTH OF AUTHORIZATIONS**: 365 Days
+## Length Of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -18,13 +20,16 @@
 
 ## Antihistamines & Mast Cell Stabilizers
 
-| Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers  |                      |
-|------------------------------------------------------------|----------------------|
-| PREFERRED                                                  | NON-PREFERRED        |
-| Azelastine                                                 | Alocril              |
-| Cromolyn                                                   | Alomide              |
-| Ketotifen                                                  | Bepreve BvG          |
-| Olopatadine                                                | Epinastine           |
-|                                                            | Zerviate             |
+Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers
 
-**Link to Criteria:** [Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=82)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Azelastine  | Alocril     |
+| Cromolyn    | Alomide     |
+| Ketotifen   | Bepreve BvG |
+| Olopatadine | Epinastine  |
+|             | Zerviate    |
+
+### Link to Criteria
+
+[Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=82)

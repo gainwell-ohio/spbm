@@ -1,8 +1,10 @@
 # Infectious Disease Agents: Antibiotics – Cephalosporins
 
-**LENGTH OF AUTHORIZATIONS**: Date of service only; no refills
+## Length Of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+Date of service only; no refills
+
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -20,7 +22,7 @@
 
 3. If there have been therapeutic failures to no less than a **3-day** trial of at least **one** medication not requiring prior approval, then may approve the requested medication.
 
-**ADDITIONAL INFORMATION TO AID IN THE FINAL DECISION:**
+## Additional Information To Aid In The Final Decision
 
 If the patient is completing a course of therapy with a medication requiring prior approval, which was initiated in the hospital, then may approve the requested medication to complete the course of therapy.
 
@@ -34,17 +36,20 @@ AR - Suprax Chewable Tablet: a PA is required for patients over 12 years old
 
 ## Antibiotics - Cephalosporins
 
-| Infectious Disease Agents: Antibiotics – Cephalosporins |                                 |
-|---------------------------------------------------------|---------------------------------|
-| PREFERRED                                               | NON-PREFERRED                   |
-| Cefadroxil                                              | Cephalexin 750mg                |
-| Cephalexin 250, 500mg                                   | Cefpodoxime                     |
-| Cefaclor                                                | Cefixime Cap                    |
-| Cefaclor ER                                             | Cefixime Susp AR                |
-| Cefaclor Susp AR                                        | Suprax Chewable Tab AR          |
-| Cefprozil                                               |                                 |
-| Cefprozil Susp AR                                       |                                 |
-| Cefuroxime                                              |                                 |
-| Cefdinir                                                |                                 |
+Infectious Disease Agents: Antibiotics – Cephalosporins
 
-**Link to Criteria:** [Infectious Disease Agents: Antibiotics - Cephalosporins](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=71)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Cefadroxil            | Cephalexin 750mg       |
+| Cephalexin 250, 500mg | Cefpodoxime            |
+| Cefaclor              | Cefixime Cap           |
+| Cefaclor ER           | Cefixime Susp AR       |
+| Cefaclor Susp AR      | Suprax Chewable Tab AR |
+| Cefprozil             |                        |
+| Cefprozil Susp AR     |                        |
+| Cefuroxime            |                        |
+| Cefdinir              |                        |
+
+### Link to Criteria
+
+[Infectious Disease Agents: Antibiotics - Cephalosporins](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=71)

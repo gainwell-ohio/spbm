@@ -1,8 +1,10 @@
 # Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments
 
-**LENGTH OF AUTHORIZATIONS**: For the date of service only; no refills for acute infection. Refills for up to 14 days may be authorized for quinolones only for patients undergoing surgery.
+## Length Of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+For the date of service only; no refills for acute infection. Refills for up to 14 days may be authorized for quinolones only for patients undergoing surgery.
+
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
 
@@ -20,24 +22,27 @@
 
 ## Antibiotic and Antibiotic-Steroid Combination Drops and Ointments
 
-| Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments |                                    |
-|--------------------------------------------------------------------------------------|------------------------------------|
-| PREFERRED                                                                            | NON-PREFERRED                      |
-| Bacitracin-Polymyxin                                                                 | Azasite                            |
-| Ciloxan                                                                              | Bacitracin                         |
-| Ciprofloxacin                                                                        | Besivance                          |
-| Erythromycin                                                                         | Blephamide                         |
-| Gentamicin                                                                           | Gatifloxacin                       |
-| Moxifloxacin                                                                         | Levofloxacin                       |
-| Neomycin/Polymyxin/Bacitracin                                                        | Moxifloxacin (Generic of Moxeza)   |
-| Neomycin/Polymyxin/Bacitracin/Hydrocortisone                                         | Neomycin/Polymyxin/Hydrocortisone  |
-| Neomycin/Polymyxin/Dexamethasone                                                     | Pred-G                             |
-| Neomycin/Polymyxin/Gramicidin                                                        | Tobradex ST BvG                    |
-| Ofloxacin                                                                            | Tobramycin/Dexamethasone 0.3/0.1%  |
-| Polymyxin/Trimethoprim                                                               | Zylet                              |
-| Sulfacetamide Sodium Ophth Sol 10%                                                   |                                    |
-| Sulfacetamide/Prednisolone                                                           |                                    |
-| Tobradex BvG                                                                         |                                    |
-| Tobramycin                                                                           |                                    |
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments
 
-Link to Criteria: [Ophthalmic Agents: Antibiotic and Antibiotic - Steroid Combination Drops and Ointments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=81)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Bacitracin-Polymyxin | Azasite |
+| Ciloxan       | Bacitracin    |
+| Ciprofloxacin | Besivance     |
+| Erythromycin  | Blephamide    |
+| Gentamicin    | Gatifloxacin  |
+| Moxifloxacin  | Levofloxacin  |
+| Neomycin/Polymyxin/Bacitracin | Moxifloxacin (Generic of Moxeza)  |
+| Neomycin/Polymyxin/Bacitracin/Hydrocortisone | Neomycin/Polymyxin/Hydrocortisone |
+| Neomycin/Polymyxin/Dexamethasone   | Pred-G          |
+| Neomycin/Polymyxin/Gramicidin      | Tobradex ST BvG |
+| Ofloxacin | Tobramycin/Dexamethasone 0.3/0.1% |
+| Polymyxin/Trimethoprim             | Zylet |
+| Sulfacetamide Sodium Ophth Sol 10% | |
+| Sulfacetamide/Prednisolone         | |
+| Tobradex BvG                       | |
+| Tobramycin                         | |
+
+### Link to Criteria
+
+[Ophthalmic Agents: Antibiotic and Antibiotic - Steroid Combination Drops and Ointments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=81)

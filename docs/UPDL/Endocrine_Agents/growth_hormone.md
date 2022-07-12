@@ -1,10 +1,10 @@
 # Endocrine Agents - Growth Hormone
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 Varies as listed below.
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -16,7 +16,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**NOTE:**
+**Note:**
 
 - All products in this class require clinical prior authorization
 
@@ -28,7 +28,7 @@ Acceptable reasons include:
 
   - If there has been a therapeutic failure to no less than a **90-day** trial of at least **one** preferred medication
 
-## CLINICAL CRITERIA
+## Clinical Criteria
 
 Children - initial approval for the following diagnoses:
 
@@ -134,15 +134,16 @@ Reauthorization: documentation by endocrinologist that for the indication, disco
 
 ## Growth Hormone
 
-| Endocrine Agents: Growth Hormone  |                                                  |
-|-----------------------------------|--------------------------------------------------|
-| PREFERRED                         | NON-PREFERRED                                    |
-| Norditropin PA                    | Genotropin                                       |
-| Omnitrope PA                      | Humatrope                                        |
-|                                   | Nutropin                                         |
-|                                   | Saizen                                           |
-|                                   | Serostim                                         |
-|                                   | Zomacton                                         |
+Endocrine Agents: Growth Hormone
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Norditropin PA | Genotropin |
+| Omnitrope PA   | Humatrope  |
+|                | Nutropin   |
+|                | Saizen     |
+|                | Serostim   |
+|                | Zomacton   |
 
 ### Link to Criteria
 

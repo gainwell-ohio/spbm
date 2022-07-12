@@ -1,10 +1,10 @@
 # Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute
 
-## LENGTH OF AUTHORIZATIONS
+## Length Of Authorizations
 
 180 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 - Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -14,7 +14,7 @@
   - Contraindication to all preferred medications
   - History of unacceptable/toxic side effects to at least two preferred medications
 
-## STEP THERAPY APPROVAL CRITERIA
+## Step Therapy Approval Criteria
 
 - For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including a trial of at least 14 days with at least two medications not requiring prior approval
 - For a non-preferred drug, there must have been inadequate clinical response to preferred alternatives, including a trial of at least 14 days with at least one medication requiring step therapy
@@ -23,22 +23,23 @@ Nurtec ODT quantity limit is 8 per 30 days
 
 ## Anti-Migraine Agents, Acute
 
-| Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute  |                             |
-|-------------------------------------------------------------------|-----------------------------|
-| PREFERRED                                                         | NON-PREFERRED               |
-| Naratriptan QL                                                    | Almotriptan                 |
-| Nurtec ODT QL, ST                                                 | Dihydroergotamine           |
-| Rizatriptan QL                                                    | Eletriptan                  |
-| Sumatriptan QL                                                    | Ergomar                     |
-|                                                                   | Frovatriptan                |
-|                                                                   | Migergot                    |
-|                                                                   | Onzetra Xsail QL            |
-|                                                                   | Reyvow                      |
-|                                                                   | Sumatriptan/Naproxen        |
-|                                                                   | Tosymra QL                  |
-|                                                                   | Trudhesa                    |
-|                                                                   | Ubrelvy                     |
-|                                                                   | Zolmitriptan                |
+Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Naratriptan QL    | Almotriptan          |
+| Nurtec ODT QL, ST | Dihydroergotamine    |
+| Rizatriptan QL    | Eletriptan           |
+| Sumatriptan QL    | Ergomar              |
+|                   | Frovatriptan         |
+|                   | Migergot             |
+|                   | Onzetra Xsail QL     |
+|                   | Reyvow               |
+|                   | Sumatriptan/Naproxen |
+|                   | Tosymra QL           |
+|                   | Trudhesa             |
+|                   | Ubrelvy              |
+|                   | Zolmitriptan         |
 
 ### Link to Criteria
 

@@ -1,13 +1,15 @@
 # Topical Agents: Immunomodulators
 
-**LENGTH OF AUTHORIZATIONS**: 365 Days
+## Length Of Authorizations
 
-**STEP THERAPY:**
+365 Days
+
+## Step Therapy
 
 1. For a product requiring step therapy, there must have been an inadequate clinical response to no less than **two 30-day** trials of topical corticosteroids
 2. For a non-preferred medication, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days** of the preferred medication
 
-**OTHER APPROVAL CRITERIA:**
+## Other Approval Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -19,7 +21,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**CLINICAL INFORMATION:**
+## Clinical Information
 
 - Indicated for short-term and intermittent long-term treatment of atopic dermatitis if:
 
@@ -34,12 +36,15 @@ AR - pimecrolimus and tacrolimus: a PA is required for patients younger than 2 y
 
 ## Immunomodulators
 
-|Topical Agents: Immunomodulators  |                                   |
-|----------------------------------|-----------------------------------|
-| PREFERRD                         | NON-PREFERRED                     |
-| Elidel AR BvG ST                 | Eucrisa                           |
-| Protopic AR BvG ST               | Opzelura                          |
-|                                  | Pimecrolimus                      |
-|                                  | Tacrolimus                        |
+Topical Agents: Immunomodulators
 
-**Link to Criteria:** [Topical Agents: Immunomodulators](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=100)
+| PREFERRD | NON-PREFERRED |
+| :--- | ---: |
+| Elidel AR BvG ST   | Eucrisa      |
+| Protopic AR BvG ST | Opzelura     |
+|                    | Pimecrolimus |
+|                    | Tacrolimus   |
+
+### Link to Criteria
+
+[Topical Agents: Immunomodulators](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=100)

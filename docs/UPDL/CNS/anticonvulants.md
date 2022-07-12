@@ -1,20 +1,20 @@
-# Central Nervous System (CNS) Agents: Anticonvulsants\*
+# Central Nervous System (CNS) Agents: Anticonvulsants*
 
-## LENGTH OF AUTHORIZATIONS
+## Length Of Authorizations
 
 365 Days
 
-## GRANDFATHERING
+## Grandfathering
 
 Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug through the automated PA system. Patients who have taken the drug in the previous 120 days, but do not have claims history (e.g. new to Medicaid), will be approved for PA after prescriber contact.
 
-## STEP THERAPY
+## Step Therapy
 
 all agents listed
 
 1. For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than 30 days of at least **one preferred** product.
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a preferred medication?
 
@@ -28,9 +28,9 @@ all agents listed
 
 2. If there has been a therapeutic failure to no less than **two preferred** products for a **30-day** trial each. Prescriptions submitted with the prescriber NPI of a physician who has registered a neurology specialty with Ohio Medicaid, for products that are used only for seizures, require a trial of **one preferred** product for **30 days**. This provision applies only to the standard tablet/capsule dosage form and does not apply to brand products with available generic alternatives.
 
-## ADDITIONAL CRITERIA FOR EPIDIOLEX
+## Additional Criteria For Epidiolex
 
-## LENGTH OF AUTHORIZATIONS
+## Length Of Authorizations
 
 Initial Authorization 180 days
 
@@ -48,9 +48,9 @@ Subsequent Authorizations 365 days
 
 Epidiolex excluded from Grandfathering. Re-authorization requires documented reduction in average number of seizure days per month (measured monthly or quarterly).
 
-## ADDITIONAL CRITERIA FOR DIACOMIT
+## Additional Criteria For Diacomit
 
-## LENGTH OF AUTHORIZATIONS 
+## Length Of Authorizations
 
 Initial Authorization 180 days
 
@@ -78,32 +78,33 @@ AR - Vigabatrin Powder: a PA is required for patients over 2 years old
 
 ## Anticonvulsants
 
-| Central Nervous System (CNS) Agents: Anticonvulsants\*  |                             |
-|---------------------------------------------------------|-----------------------------|
-| PREFERRED                                               | NON-PREFERRED               |
-| Banzel BvG                                              | Aptiom                      |
-| Carbamazepine                                           | Briviact                    |
-| Clobazam                                                | Celontin                    |
-| Clonazepam                                              | Clonazepam ODT              |
-| Diacomit PA QL                                          | Elepsia XR                  |
-| Divalproex                                              | Felbamate                   |
-| Divalproex ER                                           | Fintepla                    |
-| Epidiolex PA QL                                         | Lamotrigine ER              |
-| Ethosuximide                                            | Lamotrigine ODT             |
-| Fycompa ST                                              | Levetiracetam ER Tab        |
-| Gabapentin                                              | Oxtellar XR                 |
-| Lamotrigine                                             | Peganone                    |
-| Levetiracetam IR Tab                                    | Rufinamide                  |
-| Levetiracetam Sol                                       | Spritam                     |
-| Oxcarbazepine                                           | Sympazan                    |
-| Phenobarbital                                           | Tiagabine                   |
-| Phenytoin                                               | Topiramate ER Sprinkle Cap  |
-| Pregabalin                                              | Topiramate Sprinkle Cap     |
-| Primidone                                               | Trokendi XR                 |
-| Topiramate                                              | Vigabatrin                  |
-| Valproic Acid                                           | Vigabatrin Powder AR        |
-| Vimpat BvG ST                                           | Xcopri                      |
-| Zonisamide                                              |                             |
+Central Nervous System (CNS) Agents: Anticonvulsants
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Banzel BvG           | Aptiom                     |
+| Carbamazepine        | Briviact                   |
+| Clobazam             | Celontin                   |
+| Clonazepam           | Clonazepam ODT             |
+| Diacomit PA QL       | Elepsia XR                 |
+| Divalproex           | Felbamate                  |
+| Divalproex ER        | Fintepla                   |
+| Epidiolex PA QL      | Lamotrigine ER             |
+| Ethosuximide         | Lamotrigine ODT            |
+| Fycompa ST           | Levetiracetam ER Tab       |
+| Gabapentin           | Oxtellar XR                |
+| Lamotrigine          | Peganone                   |
+| Levetiracetam IR Tab | Rufinamide                 |
+| Levetiracetam Sol    | Spritam                    |
+| Oxcarbazepine        | Sympazan                   |
+| Phenobarbital        | Tiagabine                  |
+| Phenytoin            | Topiramate ER Sprinkle Cap |
+| Pregabalin           | Topiramate Sprinkle Cap    |
+| Primidone            | Trokendi XR                |
+| Topiramate           | Vigabatrin                 |
+| Valproic Acid        | Vigabatrin Powder AR       |
+| Vimpat BvG ST        | Xcopri                     |
+| Zonisamide           |                            |
 
 ### Link to Criteria
 

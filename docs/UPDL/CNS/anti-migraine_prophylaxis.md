@@ -1,12 +1,12 @@
 # Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis
 
-## LENGTH OF AUTHORIZATIONS
+## Length Of Authorizations
 
 Initial Authorization 180 days
 
  Subsequent Authorizations 365 days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 - Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -16,22 +16,22 @@ Initial Authorization 180 days
   - Contraindication to **three** preferred medications
   - History of unacceptable/toxic side effects/intolerance to at least **three** preferred medications
 
-## STEP THERAPY REQUIRED PREFERRED MEDICATION
+## Step Therapy Required Preferred Medication
 
 - For a drug requiring step therapy, there must have been inadequate clinical response to a trial of at least 30 days each to at least 3 controller migraine medications or has experienced contraindications or intolerance to them (i.e., beta-blockers, anticonvulsants, tricyclic antidepressants, and/or serotonin-norepinephrine reuptake inhibitors).
 
-## NON-PREFERRED MEDICATION
+## Non-Preferred Medication
 
 - For a non-preferred medication drug there must have been inadequate clinical response to a trial of at least 30 days each to at least 3 controller migraine medications or has experienced contraindications or intolerance to them (i.e., beta-blockers, anticonvulsants, tricyclic antidepressants, and/or serotonin-norepinephrine reuptake inhibitors) AND an inadequate clinical response or intolerance to a trial of at least 30 days of one step therapy required preferred medication
 
-## ADDITIONAL CRITERIA FOR MIGRAINE PROPHYLAXIS
+## Additional Criteria For Migraine Prophylaxis
 
 1. Patient must have one of the following diagnoses:
 
-   a. **Episodic** migraine with the following frequencies of migraine:
+     a. **Episodic** migraine with the following frequencies of migraine:
         - 4-15 headaches per 30 days measured over 90 consecutive days and headache duration of longer than 4 hours per day or longer during an attack on average.
 
-   b. **Chronic** migraine with the following frequencies of migraine:
+      b. **Chronic** migraine with the following frequencies of migraine:
         - 15 or more headaches per 30 days measured over 90 consecutive days and headache duration of longer than 4 hours per day or longer during an attack on average
 
 2. Prior Authorization may be approved if the patient has failed a trial of at least 30 days each to at least 3 controller migraine medications or has experienced contraindications or intolerance to them (i.e., beta-blockers, anticonvulsants, tricyclic antidepressants, and/or serotonin-norepinephrine reuptake inhibitors).
@@ -43,15 +43,16 @@ Initial Authorization 180 days
 
 ## Anti-Migraine Agents, Prophylaxis
 
-| Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis    |                |
-|---------------------------------------------------------------------------|----------------|
-| PREFERRED                                                                 | NON-PREFERRED  |
-| Aimovig QL ST                                                             | Emgality       |
-| Ajovy ST                                                                  | Nurtec ODT     |
-| Cardiovascular Agents: Beta-Blockers                                      | Qulipta        |
-| CNS Agents: Anticonvulsants                                               |                |
-| CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors                  |                |
-| CNS Agents: Tricyclic Antidepressants                                     |                |
+Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Aimovig QL ST                         | Emgality   |
+| Ajovy ST                              | Nurtec ODT |
+| Cardiovascular Agents: Beta-Blockers  | Qulipta    |
+| CNS Agents: Anticonvulsants           |            |
+| CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors | |
+| CNS Agents: Tricyclic Antidepressants |            |
 
 ### Link to Criteria
 

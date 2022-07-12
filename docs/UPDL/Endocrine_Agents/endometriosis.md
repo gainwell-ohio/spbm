@@ -1,10 +1,10 @@
 # Endocrine Agents: Endometriosis
 
-## AUTHORIZATIONS
+## Authorizations
 
 365 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 1\. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -16,25 +16,26 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## STEP THERAPY
+## Step Therapy
 
 For a drug requiring step therapy, there must have been a therapeutic failure of at least a 30-day trial with both a NSAID and an oral contraceptive
 
-## NON-PREFERRED
+## Non-Preferred
 
 There must have been a therapeutic failure of at least a 30-day trial with both a NSAID and an oral contraceptive and a trial and a therapeutic failure of no less than 90 days on at least one step therapy required “preferred”
 
 ## Endometriosis
 
-| Endocrine Agents: Endometriosis |                    |
-|---------------------------------|--------------------|
-| PREFERRED                       | NON-PREFERRED      |
-| Danazol ST                      | Synarel            |
-| Depo-Subq Provera 104 ST        |                    |
-| Lupaneta Pack ST                |                    |
-| Lupron Depot ST 3.75, 11.25mg   |                    |
-| Orilissa ST                     |                    |
-| Zoladex ST                      |                    |
+Endocrine Agents: Endometriosis
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Danazol ST                    | Synarel |
+| Depo-Subq Provera 104 ST      |         |
+| Lupaneta Pack ST              |         |
+| Lupron Depot ST 3.75, 11.25mg |         |
+| Orilissa ST                   |         |
+| Zoladex ST                    |         |
 
 ### Link to Criteria
 

@@ -1,8 +1,10 @@
 # Genitourinary Agents: Benign Prostatic Hyperplasia
 
-**LENGTH OF AUTHORIZATIONS**: 365 Days
+## Length of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -16,22 +18,25 @@
 
 2. Patient must have a therapeutic failure to no less than a **30-day** trial on at least **two** medications that are preferred.
 
-**ADDITIONAL CRITERIA FOR APPROVAL OF TADALAFIL (CIALIS):**
+## Additional Criteria For Approval Of Tadalafil (CIALIS)
 
 Patient must have diagnosis of benign prostatic hyperplasia and have a therapeutic failure to no less than a 30-day trial on at least one alpha-1 adrenergic blocker and a 90-day trial of finasteride.
 
 ## Benign Prostatic Hyperplasia
 
-| Genitourinary Agents: Benign Prostatic Hyperplasia  |                         |
-|-----------------------------------------------------|-------------------------|
-| PREFERRED                                           | NON-PREFERRED           |
-| Alfuzosin                                           | Cardura XL              |
-| Doxazosin                                           | Dutasteride/Tamsulosin  |
-| Dutasteride                                         | Silodosin               |
-| Finasteride                                         |                         |
-| Prazosin                                            |                         |
-| Tadalafil PA 2.5, 5mg                               |                         |
-| Tamsulosin                                          |                         |
-| Terazosin                                           |                         |
+Genitourinary Agents: Benign Prostatic Hyperplasia
 
-**Link to Criteria:** [Genitourinary Agents: Benign Prostatic Hyperplasia](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=66)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Alfuzosin             | Cardura XL             |
+| Doxazosin             | Dutasteride/Tamsulosin |
+| Dutasteride           | Silodosin              |
+| Finasteride           |                        |
+| Prazosin              |                        |
+| Tadalafil PA 2.5, 5mg |                        |
+| Tamsulosin            |                        |
+| Terazosin             |                        |
+
+### Link to Criteria
+
+[Genitourinary Agents: Benign Prostatic Hyperplasia](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=66)

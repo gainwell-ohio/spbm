@@ -1,10 +1,10 @@
 # Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea
 
-## LENGTH OF AUTHORIZATIONS
+## Length Of Authorizations
 
 365 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -16,7 +16,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## STEP THERAPY
+## Step Therapy
 
 all agents listed
 
@@ -25,12 +25,13 @@ all agents listed
 
 ## Irritable Bowel Syndrom (IBS) with Diarrhea
 
-| Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea  |               |
-|------------------------------------------------------------------------|---------------|
-| PREFERRED                                                              | NON-PREFERRED |
-| Diphenoxylate/Atropine                                                 | Alosetron     |
-| Loperamide                                                             | Viberzi       |
-| Xifaxan ST                                                             |               |
+Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Diphenoxylate/Atropine | Alosetron |
+| Loperamide             | Viberzi   |
+| Xifaxan ST             |           |
 
 ### Link to Criteria
 

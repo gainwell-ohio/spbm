@@ -1,8 +1,10 @@
 # Ophthalmic Agents: Ophthalmic Steroids
 
-**LENGTH OF AUTHORIZATIONS**: 30 Days
+## Length Of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+30 Days
+
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -18,16 +20,19 @@
 
 ## Ophthalmic Steroids
 
-| Ophthalmic Agents: Ophthalmic Steroids  |                |
-|-----------------------------------------|----------------|
-| PREFERRED                               | NON-PREFFERED  |
-| Dexamethasone Sodium Phosphate          | Alrex BvG      |
-| Durezol BvG                             | Difluprednate  |
-| Fluorometholone                         | Flarex         |
-| Fml Forte                               | Inveltys       |
-| Fml S.O.P.                              | Lotemax BvG    |
-| Pred Mild                               | Lotemax SM     |
-| Prednisolone Acetate                    | Loteprednol    |
-| Prednisolone Sodium Phosphate           | Maxidex        |
+Ophthalmic Agents: Ophthalmic Steroids
 
-**Link to Criteria:** [Ophthalmic Agents: Ophthalmic Steroids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=80)
+| PREFERRED | NON-PREFFERED |
+| :--- | ---: |
+| Dexamethasone Sodium Phosphate | Alrex BvG     |
+| Durezol BvG                    | Difluprednate |
+| Fluorometholone                | Flarex        |
+| Fml Forte                      | Inveltys      |
+| Fml S.O.P.                     | Lotemax BvG   |
+| Pred Mild                      | Lotemax SM    |
+| Prednisolone Acetate           | Loteprednol   |
+| Prednisolone Sodium Phosphate  | Maxidex       |
+
+### Link to Criteria
+
+[Ophthalmic Agents: Ophthalmic Steroids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=80)

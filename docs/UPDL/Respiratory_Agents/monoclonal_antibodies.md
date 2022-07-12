@@ -1,8 +1,10 @@
 # Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE
 
-**LENGTH OF AUTHORIZATIONS:** 365 Days
+## Length Of Authorizations
 
-**Clinical Criteria for Asthma:**
+365 Days
+
+## Clinical Criteria For Asthma
 
 - Indicated for **moderate to severe asthma** if:
   
@@ -14,7 +16,7 @@
 
   - Non-preferred medications will be approved for patients with uncontrolled eosinophilic asthma symptoms and/or exacerbations despite at least 90 days adherence to therapy with a preferred agent
 
-**ADDITIONAL CRITERIA FOR DUPILUMAB (DUPIXENT):**
+## Additional Criteria For Dupilumab (Dupixent)
 
 - Indicated for **moderate to** **severe atopic dermatitis** if:
 
@@ -30,7 +32,7 @@
   - Patient had an inadequate response, intolerance or contraindication to one oral corticosteroid
   - Patient had a 30-day trial and experienced an inadequate response, intolerance or contraindication to one nasal corticosteroid spray
 
-**ADDITIONAL CRITERIA FOR OMALIZUMAB (XOLAIR):**
+## Additional Criteria For Omalizumab (Xolair)
 
 - Indicated for **chronic** **urticaria** if:
 
@@ -46,11 +48,14 @@
 
 ## Monoclonal Antibodies-Anti-IL/Anti-IgE
 
-| Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE  |               |
-|-------------------------------------------------------------|---------------|
-| PREFERRED                                                   | NON-PREFERRED |
-| Fasenra PA                                                  | Dupixent      |
-| Nucala PA                                                   |               |
-| Xolair PA                                                   |               |
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE
 
-**Link to Criteria:** [Respiratory Agents: Monoclonal Antibodies - Anti-IL/Anti-IgE](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=93)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Fasenra PA | Dupixent |
+| Nucala PA  |          |
+| Xolair PA  |          |
+
+### Link to Criteria
+
+[Respiratory Agents: Monoclonal Antibodies - Anti-IL/Anti-IgE](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=93)

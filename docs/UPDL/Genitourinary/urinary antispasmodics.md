@@ -1,8 +1,10 @@
 # Genitourinary Agents: Urinary Antispasmodics
 
-**LENGTH OF AUTHORIZATIONS**: 365 Days
+## Length Of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -21,14 +23,17 @@ AR – Myrbetriq Sol: PA is not required for patients that are 3-5 years of age.
 
 ## Urinary Antispasmodics
 
-| Genitourinary Agents: Urinary Antispasmodics  |                       |
-|-----------------------------------------------|-----------------------|
-| PREFERRED                                     | NON-PREFERRED         |
-| Gelnique                                      | Darifenacin           |
-| Myrbetriq Tab                                 | Gemtesa               |
-| Oxybutynin                                    | Myrbetriq Granules AR |
-| Oxytrol For Women                             | Tolterodine           |
-| Solifenacin                                   | Trospium              |
-| Toviaz                                        | Vesicare LS AR        |
+Genitourinary Agents: Urinary Antispasmodics
 
-**Link to Criteria:** [Genitourinary Agents: Urinary Antispasmodics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=68)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Gelnique          | Darifenacin           |
+| Myrbetriq Tab     | Gemtesa               |
+| Oxybutynin        | Myrbetriq Granules AR |
+| Oxytrol For Women | Tolterodine           |
+| Solifenacin       | Trospium              |
+| Toviaz            | Vesicare LS AR        |
+
+### Link to Criteria
+
+[Genitourinary Agents: Urinary Antispasmodics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=68)

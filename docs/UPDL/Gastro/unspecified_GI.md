@@ -1,10 +1,10 @@
-# GastrointestinalAgents: Unspecified GI
+# Gastrointestinal Agents: Unspecified GI
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 365 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -16,14 +16,14 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## STEP THERAPY
+## Step Therapy
 
 all agents listed
 
 1. For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including no less than a **14-day** trial of at least **two** medications not requiring prior approval
 2. For a non-preferred drug, there must have been inadequate clinical response to preferred alternatives, including no less than **14-day** trial of at least **three** preferred products including one step therapy product
 
-## ADDITIONAL INFORMATION
+## Additional Information
 
 1. Patient must be 18 years or older
 2. ZORBTIVE and GATTEX require a diagnosis of short bowel syndrome (SBS) and evidence of specialize nutritional support
@@ -53,22 +53,23 @@ all agents listed
 
 ## Unspecified GI
 
-| Gastrointestinal Agents: Unspecified GI                 |                  |
-|---------------------------------------------------------|------------------|
-| PREFERRED                                               | NON-PREFERRED    |
-| Amitiza BvG ST                                          | Aemcolo          |
-| Bisacodyl                                               | Gattex           |
-| Casanthranol/Docusate Sodium                            | Linzess 72mcg    |
-| Dicyclomine                                             | Lubiprostone     |
-| Diphenoxylate/Atropine                                  | Motegrity        |
-| Lactulose                                               | Mytesi           |
-| Linzess ST 145, 290mcg                                  | Relistor         |
-| Loperamide                                              | Symproic         |
-| Movantik ST                                             | Trulance         |
-| Polyethylene Glycol                                     | Zorbitive        |
-| Psyllium Fiber                                          |                  |
-| Senna                                                   |                  |
-| Xifaxan ST                                              |                  |
+Gastrointestinal Agents: Unspecified GI
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Amitiza BvG ST               | Aemcolo       |
+| Bisacodyl                    | Gattex        |
+| Casanthranol/Docusate Sodium | Linzess 72mcg |
+| Dicyclomine                  | Lubiprostone  |
+| Diphenoxylate/Atropine       | Motegrity     |
+| Lactulose                    | Mytesi        |
+| Linzess ST 145, 290mcg       | Relistor      |
+| Loperamide                   | Symproic      |
+| Movantik ST                  | Trulance      |
+| Polyethylene Glycol          | Zorbitive     |
+| Psyllium Fiber               |               |
+| Senna                        |               |
+| Xifaxan ST                   |               |
 
 ### Link to Criteria
 

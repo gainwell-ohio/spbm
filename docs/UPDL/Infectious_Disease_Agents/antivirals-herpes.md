@@ -1,8 +1,10 @@
 # Infectious Disease Agents: Antivirals – Herpes
 
-**LENGTH OF AUTHORIZATIONS**: For the duration of the prescription (up to 180 days)
+## Length of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+For the duration of the prescription (up to 180 days)
+
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
 
@@ -16,10 +18,13 @@
 
 ## Antivirals - Herpes
 
-| Infectious Disease Agents: Antivirals – Herpes  |              |
-|-------------------------------------------------|--------------|
-| PREFERRED                                       | NON-PREFERRED|
-| Acyclovir                                       | Famciclovir  |
-| Valacyclovir                                    | Sitavig      |
+Infectious Disease Agents: Antivirals – Herpes
 
-**Link to Criteria:** [Infectious Disease Agents: Antivirals - Herpes](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=78)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Acyclovir    | Famciclovir |
+| Valacyclovir | Sitavig     |
+
+### Link to Criteria
+
+[Infectious Disease Agents: Antivirals - Herpes](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=78)

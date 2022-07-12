@@ -1,8 +1,10 @@
 # Infectious Disease Agents: Antibiotics – Inhaled
 
-**LENGTH OF AUTHORIZATIONS:**  28 days
+## Length Of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+28 Days
+
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -22,15 +24,15 @@ Acceptable reasons include:
 
 - “Pulse” dosing cycles of 28 days on drug, followed by 28 days off drug
 
-**ADDITIONAL INFORMATION:**
+## Additional Information
 
 The requested medication may be approved if the following is true:
 
 - If there has been no less than a **28-day** trial of at least **one preferred** medication
 
-**ADDITIONAL CRITERIA FOR AMIKACIN:**
+## Additional Criteria For Amikacin
 
-**LENGTH OF AUTHORIZATIONS**:
+## Length Of Authorizations
 
 Initial authorization 180 days
 
@@ -50,12 +52,15 @@ Subsequent authorizations 365 days
 
 ## Antibiotics - Inhaled
 
-| Infectious Disease Agents: Antibiotics – Inhaled  |                    |
-|---------------------------------------------------|--------------------|
-| PREFERRED                                         | NON-PREFERRED      |
-| Arikayce PA QL                                    | Bethkis AR         |
-| Tobramycin AR PA                                  | Cayston AR         |
-|                                                   | Kitabis Pak AR     |
-|                                                   | Tobi Podhaler AR   |
+Infectious Disease Agents: Antibiotics – Inhaled
 
-**Link to Criteria:** [Infectious Disease Agents: Antibiotics - Inhaled](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=74)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Arikayce PA QL   | Bethkis AR       |
+| Tobramycin AR PA | Cayston AR       |
+|                  | Kitabis Pak AR   |
+|                  | Tobi Podhaler AR |
+
+### Link to Criteria
+
+[Infectious Disease Agents: Antibiotics - Inhaled](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=74)

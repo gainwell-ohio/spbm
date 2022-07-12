@@ -1,8 +1,10 @@
 # Infectious Disease Agents: Antibiotics – Quinolones
 
-**LENGTH OF AUTHORIZATIONS**: For the date of service only; no refills
+## Length Of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+For the date of service only; no refills
+
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -29,12 +31,15 @@ AR - Ciprofloxacin Suspension: a PA is required for patients over 12 years old
 
 ## Antibiotics - Quinolones
 
-| Infectious Disease Agents: Antibiotics – Quinolones  |                         |
-|------------------------------------------------------|-------------------------|
-| PREFERRED                                            | NON-PREFERRED           |
-| Ciprofloxacin                                        | Baxdela                 |
-| Ciprofloxacin Susp AR                                | Ciprofloxacin ER        |
-| Levofloxacin                                         | Moxifloxacin            |
-|                                                      | Ofloxacin               |
+Infectious Disease Agents: Antibiotics – Quinolones
 
-**Link to Criteria:** [Infectious Disease Agents: Antibiotics - Quinolones](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=73)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Ciprofloxacin         | Baxdela          |
+| Ciprofloxacin Susp AR | Ciprofloxacin ER |
+| Levofloxacin          | Moxifloxacin     |
+|                       | Ofloxacin        |
+
+### Link to Criteria
+
+[Infectious Disease Agents: Antibiotics - Quinolones](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=73)

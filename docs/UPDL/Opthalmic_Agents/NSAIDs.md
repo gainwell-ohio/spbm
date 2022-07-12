@@ -1,10 +1,12 @@
 # Ophthalmic Agents: NSAIDs
 
-**AUTHORIZATIONS**: For the date of service only; no refills for acute use. Refills for up to 14 days may be authorized for patients undergoing surgery.
+## Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+For the date of service only; no refills for acute use. Refills for up to 14 days may be authorized for patients undergoing surgery.
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval? 
+## Prior Authorization Criteria
+
+Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
 Acceptable reasons include:
 
@@ -14,7 +16,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**ADDITIONAL INFORMATION:**
+## Additional Information
 
 The requested medication may be approved if both of the following are true:
 
@@ -23,14 +25,17 @@ The requested medication may be approved if both of the following are true:
 
 ## NSAIDS
 
-| Ophthalmic Agents: NSAIDs  |                                      |
-|----------------------------|--------------------------------------|
-| PREFERRED                  | NON-PREFERRED                        |
-| Diclofenac                 | Acuvail                              |
-| Flurbiprofen               | Bromfenac                            |
-| Ketorolac                  | Bromsite                             |
-|                            | Ilevro                               |
-|                            | Nevanac                              |
-|                            | Prolensa                             |
+Ophthalmic Agents: NSAIDs
 
-**Link to Criteria:** [Ophthalmic Agents: NSAIDs](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=85)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Diclofenac   | Acuvail   |
+| Flurbiprofen | Bromfenac |
+| Ketorolac    | Bromsite  |
+|              | Ilevro    |
+|              | Nevanac   |
+|              | Prolensa  |
+
+### Link to Criteria
+
+[Ophthalmic Agents: NSAIDs](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=85)

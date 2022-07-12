@@ -1,10 +1,10 @@
 # Gastrointestinal Agents: Hepatic Encephalopathy
 
-## LENGTH OF AUTHORIZATIONS
+## Length Of Authorizations
 
 365 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -16,20 +16,21 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medication not requiring prior approval
 
-## STEP THERAPY
+## Step Therapy
 
-all agents listed
+All agents listed
 
 1. For a drug requiring step therapy, there must have been inadequate clinical response to a preferred alternative
 2. XIFAXAN requires a diagnosis of hepatic encephalopathy and may be approved for monotherapy or add on therapy if there has been a therapeutic failure (defined as a recurrent episode) while on lactulose
 
 ## Hepatic Encephalopathy
 
-| Gastrointestinal Agents: Hepatic Encephalopathy  |                |
-|--------------------------------------------------|----------------|
-| PREFERRED                                        | NON-PREFERRED  |
-| Lactulose                                        |                |
-| Xifaxan ST                                       |                |
+Gastrointestinal Agents: Hepatic Encephalopathy
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Lactulose  | |
+| Xifaxan ST | |
 
 ### Link to Criteria
 

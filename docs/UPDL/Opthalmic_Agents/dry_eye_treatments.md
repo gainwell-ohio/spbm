@@ -1,8 +1,10 @@
 # Ophthalmic Agents: Dry Eye Treatments
 
-**AUTHORIZATIONS**: 365 Days for Cequa, Restasis Trays, Restasis Multi-Dose and Xiidra 14 Days for Eysuvis
+## Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days for Cequa, Restasis Trays, Restasis Multi-Dose and Xiidra 14 Days for Eysuvis
+
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -18,12 +20,15 @@ All drugs in this class require step therapy: Patient must have a claim for an a
 
 ## Dry Eye Treatments
 
-| Ophthalmic Agents: Dry Eye Treatments  |                                              |
-|----------------------------------------|----------------------------------------------|
-| PREFERRED                              | NON-PREFERRED                                |
-| Restasis Trays BvG ST                  | Cequa                                        |
-|                                        | Eysuvis                                      |
-|                                        | Restasis Multi-Dose                          |
-|                                        | Xiidra                                       |
+Ophthalmic Agents: Dry Eye Treatments
 
-**Link to Criteria:** [Ophthalmic Agents: Dry Eye Treatments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=83)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Restasis Trays BvG ST | Cequa               |
+|                       | Eysuvis             |
+|                       | Restasis Multi-Dose |
+|                       | Xiidra              |
+
+### Link to Criteria
+
+[Ophthalmic Agents: Dry Eye Treatments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=83)

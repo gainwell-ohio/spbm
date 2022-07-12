@@ -1,10 +1,10 @@
 # Dermatological: Topical Acne Products
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 365 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -15,7 +15,7 @@ Acceptable reasons include:
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 - Inadequate response to no less than a **30-day** trial of at least **three (3)** medications not requiring prior approval
 
-## CLINICAL CRITERIA
+## Clinical Criteria
 
 AR- All topical retinoids require prior authorization for patients age 24 years and older:
 
@@ -25,32 +25,33 @@ AR- All topical retinoids require prior authorization for patients age 24 years 
 
 ## Topical Acne Products
 
-| Dermatological: Topical Acne Products  |                                 |
-|----------------------------------------|---------------------------------|
-| PREFERRED                              | NON-PREFERRED                   |
-| Adapalene Gel 0.1% AR                  | Adapalene Cream, Sol 0.1% AR    |
-| Azelex Cream                           | Adapalene Gel 0.3% AR           |
-| Benzoyl Peroxide                       | Adapalene/Benzoyl Peroxide AR   |
-| Clindamycin Gel                        | Aklief AR                       |
-| Clindamycin Lot                        | Altreno AR                      |
-| Clindamycin Sol                        | Amzeeq                          |
-| Clindamycin/Benzoyl Peroxide           | Arazlo AR                       |
-| Erythromycin                           | Azelaic Acid Gel                |
-| Erythromycin/Benzoyl Peroxide          | Benzoyl Peroxide Foam           |
-| Neuac                                  | Clindacin Kit                   |
-| Sodium Sulfacetamide                   | Clindamycin Foam                |
-| Sodium Sulfacetamide/Sulfur Cream      | Clindamycin Swabs               |
-| Sodium Sulfacetamide/Sulfur Wash Susp  | Clindamycin/Tretinoin AR        |
-| Tretinoin AR                           | Dapsone Gel                     |
-|                                        | Finacea Foam                    |
-|                                        | Onexton Gel                     |
-|                                        | Ovace Plus                      |
-|                                        | Plixda AR                       |
-|                                        | Sodium Sulfacetamide/Sulfur Gel |
-|                                        | Sodium Sulfaetamide Pads        |
-|                                        | Tazarotene Cream 0.1% AR        |
-|                                        | Tazarotene Foam 0.1% AR         |
-|                                        | Winlevi                         |
+Dermatological: Topical Acne Products
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Adapalene Gel 0.1% AR      | Adapalene Cream, Sol 0.1% AR |
+| Azelex Cream               | Adapalene Gel 0.3% AR        |
+| Benzoyl Peroxide          | Adapalene/Benzoyl Peroxide AR |
+| Clindamycin Gel            | Aklief AR                    |
+| Clindamycin Lot            | Altreno AR                   |
+| Clindamycin Sol            | Amzeeq                       |
+| Clindamycin/Benzoyl Peroxde | Arazlo AR                   |
+| Erythromycin               | Azelaic Acid Gel             |
+| Erythromycin/Benzoyl Peroxide | Benzoyl Peroxide Foam     |
+| Neuac                      | Clindacin Kit                |
+| Sodium Sulfacetamide       | Clindamycin Foam             |
+| Sodium Sulfacetamide/Sulfur Cream | Clindamycin Swabs     |
+| Sodium Sulfacetamide/Sulfur Wash Susp | Clindamycin/Tretinoin AR |
+| Tretinoin AR | Dapsone Gel                     |
+|              | Finacea Foam                    |
+|              | Onexton Gel                     |
+|              | Ovace Plus                      |
+|              | Plixda AR                       |
+|              | Sodium Sulfacetamide/Sulfur Gel |
+|              | Sodium Sulfaetamide Pads        |
+|              | Tazarotene Cream 0.1% AR        |
+|              | Tazarotene Foam 0.1% AR         |
+|              | Winlevi                         |
 
 ### Link to Criteria
 

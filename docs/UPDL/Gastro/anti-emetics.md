@@ -1,10 +1,10 @@
 # Gastrointestinal Agents: Anti-Emetics
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 365 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -20,24 +20,25 @@
 
 ## Anti-Emetics
 
-| Gastrointestinal Agents: Anti-Emetics    |                                  |
-|------------------------------------------|----------------------------------|
-| PREFERRED                                | NON-PREFERRED                    |
-| Aprepitant 40mg, 125mg                   | Aprepitant 80 mg                 |
-| Diclegis BvG                             | Aprepitant TriPac                |
-| Dimenhydrinate                           | Bonjesta                         |
-| Diphenhydramine                          | Doxylamine/Pyridoxine 10mg/10mg  |
-| Emend 125mg Susp                         | Metoclopramide ODT               |
-| Emend 80mg BvG                           | Sancuso                          |
-| Emend TriPac BvG                         | Zuplenz                          |
-| Meclizine                                |                                  |
-| Metoclopramide                           |                                  |
-| Ondansetron                              |                                  |
-| Phosphorated Carbohydrate                |                                  |
-| Prochlorperazine                         |                                  |
-| Promethazine                             |                                  |
-| Scopolamine                              |                                  |
-| Trimethobenzamide                        |                                  |
+Gastrointestinal Agents: Anti-Emetics
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Aprepitant 40mg, 125mg | Aprepitant 80 mg                |
+| Diclegis BvG           | Aprepitant TriPac               |
+| Dimenhydrinate         | Bonjesta                        |
+| Diphenhydramine        | Doxylamine/Pyridoxine 10mg/10mg |
+| Emend 125mg Susp       | Metoclopramide ODT              |
+| Emend 80mg BvG         | Sancuso                         |
+| Emend TriPac BvG       | Zuplenz                         |
+| Meclizine              |                                 |
+| Metoclopramide         |                                 |
+| Ondansetron            |                                 |
+| Phosphorated Carbohydrate |                              |
+| Prochlorperazine       |                                 |
+| Promethazine           |                                 |
+| Scopolamine            |                                 |
+| Trimethobenzamide      |                                 |
 
 ### Link to Criteria
 

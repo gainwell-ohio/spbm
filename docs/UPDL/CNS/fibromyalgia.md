@@ -1,10 +1,10 @@
 # Central Nervous System (CNS) Agents: Fibromyalgia Agents
 
-## LENGTH OF AUTHORIZATIONS
+## Length Of Authorizations
 
 365 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -38,10 +38,11 @@
 
 ## Fibromyalgia Agents
 
-| Central Nervous System (CNS) Agents: Fibromyalgia Agents      |                    |
-|---------------------------------------------------------------|--------------------|
-| PREFERRED                                                     | NON-PREFERRED      |
-| Pregabalin                                                    | Savella            |
+Central Nervous System (CNS) Agents: Fibromyalgia Agents
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Pregabalin | Savella |
 
 ### Link to Criteria
 

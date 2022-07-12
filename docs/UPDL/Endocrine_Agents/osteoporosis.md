@@ -1,10 +1,10 @@
 # Endocrine Agents: Osteoporosis – Bone Ossification Enhancers
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 365 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -18,11 +18,11 @@
 
 1. The requested medication may be approved if there has been a therapeutic failure to no less than a 90-day trial of at least one preferred medication within the same class of the requested medication
 
-## CRITICAL INFORMATION
+## Critical Information
 
 Patients should only be on ONE of the therapeutic classes (bisphosphonates, calcitonin-salmon).
 
-## ADDITIONAL CRITERIA FOR ABALOPARATIDE (TYMLOS™)
+## Additional Criteria For Abaloparatide (TYMLOS™)
 
 Abaloparatide is indicated in postmenopausal women with osteoporosis at high risk for fracture.
 
@@ -33,13 +33,14 @@ Abaloparatide is indicated in postmenopausal women with osteoporosis at high ris
 
 ## Bone Ossification Enhancers
 
-| Endocrine Agents: Osteoporosis – Bone Ossification Enhancers  |                   |
-|---------------------------------------------------------------|-------------------|
-| PREFERRED                                                     | NON-PREFERRED     |
-| Alendronate Tab                                               | Alendronate Susp  |
-| Calcitonin-Salmon                                             | Fosamax Plus D    |
-| Forteo                                                        | Risedronate       |
-| Ibandronate                                                   | Tymlos            |
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Alendronate Tab   | Alendronate Susp |
+| Calcitonin-Salmon | Fosamax Plus D   |
+| Forteo            | Risedronate      |
+| Ibandronate       | Tymlos           |
 
 ### Link to Criteria
 

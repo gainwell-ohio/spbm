@@ -1,6 +1,6 @@
 # Endocrine Agents: Uterine Fibroids
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 180 Days
 
@@ -8,7 +8,7 @@ Patients who have been treated with Oriahnn or Myfembree for 720 days or more ar
 
 Patients who have been treated with Lupron Depot for 180 days or more are not eligible for additional authorizations
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -24,11 +24,12 @@ Patients who have been treated with Lupron Depot for 180 days or more are not el
 
 ## Uterine Fibroids
 
-| Endocrine Agents: Uterine Fibroids        |               |
-|-------------------------------------------|---------------|
-| PREFERRED                                 | NON-PREFERRED |
-| Lupron Depot PA 3.75, 11.25mg             | Myfembree     |
-| Oriahnn PA                                |               |
+Endocrine Agents: Uterine Fibroids
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Lupron Depot PA 3.75, 11.25mg | Myfembree |
+| Oriahnn PA                    |           |
 
 ### Link to Criteria
 

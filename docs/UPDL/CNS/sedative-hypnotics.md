@@ -1,10 +1,10 @@
 # Central Nervous System (CNS) Agents: Sedative-Hypnotics, NonBarbiturate
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 180 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -22,17 +22,18 @@
 
 ## Sedative-Hypnotics, Non-Barbiturate
 
-| Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate  |                      |
-|---------------------------------------------------------------------------|----------------------|
-| PREFERRED                                                                 | NON-PREFERRED        |
-| Estazolam                                                                 | Belsomra             |
-| Temazepam 15, 30mg                                                        | Dayvigo              |
-| Zaleplon                                                                  | Doxepin 3, 6mg       |
-| Zolpidem                                                                  | Eszopiclone          |
-|                                                                           | Intermezzo           |
-|                                                                           | Ramelteon            |
-|                                                                           | Temazepam 7.5, 22mg  |
-|                                                                           | Zolpidem ER and SL   |
+Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Estazolam          | Belsomra            |
+| Temazepam 15, 30mg | Dayvigo             |
+| Zaleplon           | Doxepin 3, 6mg      |
+| Zolpidem           | Eszopiclone         |
+|                    | Intermezzo          |
+|                    | Ramelteon           |
+|                    | Temazepam 7.5, 22mg |
+|                    | Zolpidem ER and SL  |
 
 ### Link to Criteria
 

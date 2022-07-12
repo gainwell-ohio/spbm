@@ -1,12 +1,12 @@
 # Central Nervous System (CNS) Agents: Atypical Antipsychotics\*
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
-## GRANDFATHERING
+## Grandfathering
 
 Patients who have a claim for a non-preferred drug, or drug requiring step therapy, in the previous 120 days will be automatically approved to continue the drug through the automated PA system. Patients who have taken the drug in the previous 120 days, but do not have claims history (e.g. new to Medicaid), will be approved for PA after prescriber contact.
 
-## PSYCHIATRIST EXEMPTION
+## Psychiatrist Exemption
 
 Providers (as identified below) are exempt from prior authorization of any non-preferred secondgeneration antipsychotic, or step therapy of any preferred brand, in the standard tablet/capsule dosage forms. Other dosage forms may still require prior authorization. The exemption will be processed by the claims system when the pharmacy has submitted the prescriber on the claim using the individual national provider identifier (NPI) for the provider.
 
@@ -14,7 +14,7 @@ Providers (as identified below) are exempt from prior authorization of any non-p
 
 **MCOs**: Physicians with a specialty in psychiatry, nurse practitioners certified in psychiatric mental health, or clinical nurse specialists certified in psychiatric mental health, who are credentialed via the Medicaid managed care plan
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -26,21 +26,21 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## STEP THERAPY
+## Step Therapy
 
 1. For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days** of at least **one preferred** product
 2. For a non-preferred drug, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days each** of at least **two preferred** or step therapy products
 
-## ADDITIONAL CRITERIA FOR INVEGA HAFYERA ER
+## Additional Criteria For Invega Hafyera ER
 
-1\. Treatment with 4 months of Invega Sustenna or 3 months of Invega Trinza before starting Invega Hafyera.
+1. Treatment with 4 months of Invega Sustenna or 3 months of Invega Trinza before starting Invega Hafyera.
 
-## ADDITIONAL CRITERIA FOR LYBALVI
+## Additional Criteria For Lybalvi
 
 1. Patient must not be using opioids.
 2. Patient must not be undergoing acute opioid withdrawal.
 
-## ADDITIONAL CRITERIA FOR AGENTS FOR PARKINSON’ S DISEASE PSYCHOSIS (NUPLAZID)
+## Additional Criteria For Agents For Parkinson's Disease Psychosis (Nuplazid)
 
 Pimavanserin (Nuplazid) may be approved if all the following are met:
 
@@ -50,7 +50,7 @@ Pimavanserin (Nuplazid) may be approved if all the following are met:
 4. There has been inadequate clinical response to a trial of no less than **30 days** of either quetiapine or clozapine OR these therapies cannot be utilized
 5. An exemption to the criteria will be granted for prescribing doctors with a neurology specialty to a patient with a history of an anti-Parkinson’s agent
 
-## OTHER APPROVAL CRITERIA
+## Other Approval Criteria
 
 Is there any reason the patient cannot be changed to a preferred medication?
 
@@ -70,40 +70,41 @@ Acceptable reasons include:
 
 - Abilify Mycite will be restricted to prescribing by a psychiatrist following an aripiprazole serum blood level draw indicating need for further investigation of adherence.
 
-## ANTIPSYCHOTICS, SECOND GENERATION and SSRI COMBINATION
+## Antipsychotics, Second Generation And SSRI Combination
 
-| **NO PA REQUIRED “PREFERRED”**  | **STEP THERAPY REQUIRED** **“PREFERRED”** | **PA REQUIRED “NON-PREFERRED”**    |
-|---------------------------------|-------------------------------------------|------------------------------------|
-|                                 | A trial of no less than 30 days each of at least two preferred second- generation oral antipsychotics or step therapy products  | FLUOXETINE/OLANZAPINE (generic of Symbyax®)  |
+| **No PA Required "Preferred"**  | **Step Therapy Required "Preferred"** | **PA Required "Non-Preferred"**  |
+| :--- | :---: | ---: |
+| | A trial of no less than 30 days each of at least two preferred second- generation oral antipsychotics or step therapy products  | FLUOXETINE/OLANZAPINE (generic of Symbyax®)  |
 
 \+ Long-Acting Injectable Antipsychotics may be billed by the pharmacy if they are not dispensed directly to the patient. If not administered by the pharmacist, the drug must be released only to the administering provider or administering provider's staff, following all regulations for a Prescription Pick-Up Station as described by the Ohio Board of Pharmacy.
 
 ## Atypical Antipsychotics
 
-| Central Nervous System (CNS) Agents: Atypical Antipsychotics\*   |                               |
-|------------------------------------------------------------------|-------------------------------|
-| PREFERRED                                                        | NON-PREFERRED                 |
-| Abilify Maintena                                                 | Abilify Mycite                |
-| Aripiprazole                                                     | Aripiprazole Sol              |
-| Aristada                                                         | Asenapine                     |
-| Aristada Initio                                                  | Caplyta                       |
-| Clozapine                                                        | Clozapine ODT Rapdis          |
-| Fanapt ST                                                        | Fluoxetine/Olanzapine         |
-| Geodon                                                           | Lybalvi                       |
-| Invega BvG                                                       | Nuplazid                      |
-| Invega Hafyera ER PA                                             | Olanzapine ODT                |
-| Invega Sustenna                                                  | Paliperidone                  |
-| Invega Trinza                                                    | Rexulti                       |
-| Latuda ST                                                        | Secuado                       |
-| Olanzapine                                                       | Versacloz                     |
-| Perseris                                                         | Vraylar                       |
-| Quetiapine                                                       | Zyprexa Relprevv              |
-| Quetiapine ER                                                    |                               |
-| Risperdal                                                        |                               |
-| Risperdal Consta                                                 |                               |
-| Risperidone                                                      |                               |
-| Saphris BvG ST                                                   |                               |
-| Ziprasidone                                                      |                               |
+Central Nervous System (CNS) Agents: Atypical Antipsychotics
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Abilify Maintena     | Abilify Mycite        |
+| Aripiprazole         | Aripiprazole Sol      |
+| Aristada             | Asenapine             |
+| Aristada Initio      | Caplyta               |
+| Clozapine            | Clozapine ODT Rapdis  |
+| Fanapt ST            | Fluoxetine/Olanzapine |
+| Geodon               | Lybalvi               |
+| Invega BvG           | Nuplazid              |
+| Invega Hafyera ER PA | Olanzapine ODT        |
+| Invega Sustenna      | Paliperidone          |
+| Invega Trinza        | Rexulti               |
+| Latuda ST            | Secuado               |
+| Olanzapine           | Versacloz             |
+| Perseris             | Vraylar               |
+| Quetiapine           | Zyprexa Relprevv      |
+| Quetiapine ER        |                       |
+| Risperdal            |                       |
+| Risperdal Consta     |                       |
+| Risperidone          |                       |
+| Saphris BvG ST       |                       |
+| Ziprasidone          |                       |
 
 ### Link to Criteria
 

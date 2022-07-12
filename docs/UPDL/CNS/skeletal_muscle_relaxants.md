@@ -1,10 +1,10 @@
 # Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 365 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -22,17 +22,18 @@ Clinical criteria must be met for Soma/Carisoprodol products– approvable only 
 
 ## Skeletal Muscle Relaxants, Non-Benzodiazepine
 
-| Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine  |                                           |
-|-------------------------------------------------------------------------------------|-------------------------------------------|
-| PREFERRED                                                                           | NON-PREFERRED                             |
-| Baclofen                                                                            | Baclofen Solution                         |
-| Chlorzoxazone 250mg, 500mg                                                          | Carisoprodol                              |
-| Cyclobenzaprine 5, 10mg                                                             | Chlorzoxazone 375mg, 750mg                |
-| Dantrolene                                                                          | Cyclobenzaprine 7.5mg                     |
-| Methocarbamol                                                                       | Cyclobenzaprine ER                        |
-| Tizanidine Tab                                                                      | Metaxalone                                |
-|                                                                                     | Orphenadrine                              |
-|                                                                                     | Tizanidine Cap                            |
+Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Baclofen                   | Baclofen Solution          |
+| Chlorzoxazone 250mg, 500mg | Carisoprodol               |
+| Cyclobenzaprine 5, 10mg    | Chlorzoxazone 375mg, 750mg |
+| Dantrolene                 | Cyclobenzaprine 7.5mg      |
+| Methocarbamol              | Cyclobenzaprine ER         |
+| Tizanidine Tab             | Metaxalone                 |
+|                            | Orphenadrine               |
+|                            | Tizanidine Cap             |
 
 ### Link to Criteria
 

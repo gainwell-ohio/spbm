@@ -1,14 +1,14 @@
-# Central Nervous System (CNS) Agents: Antidepressants\*
+# Central Nervous System (CNS) Agents: Antidepressants*
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 365 Days
 
-## GRANDFATHERING
+## Grandfathering
 
 Patients who have a claim for a non-preferred drug, in the previous 120 days will be automatically approved to continue the drug through the automated PA system. Patients who have taken the drug in the previous 120 days, but do not have claims history (e.g. new to Medicaid), will be approved for PA after prescriber contact.
 
-## PSYCHIATRIST EXEMPTION
+## Psychiatrist Exemption
 
 Providers (as identified below) are exempt from prior authorization of any non-preferred antidepressant, or step therapy of any preferred brand, in the standard tablet/capsule dosage forms. Other dosage forms may still require prior authorization. The exemption will be processed by the claims system when the pharmacy has submitted the prescriber on the claim using the individual national provider identifier (NPI) for the provider.
 
@@ -16,9 +16,11 @@ Providers (as identified below) are exempt from prior authorization of any non-p
 
 **MCOs**: Physicians with a specialty in psychiatry, nurse practitioners certified in psychiatric mental health, or clinical nurse specialists certified in psychiatric mental health, who are credentialed via the Medicaid managed care plan
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
-1. Is there any reason the patient cannot be changed to a preferred medication? Acceptable reasons include:
+1. Is there any reason the patient cannot be changed to a preferred medication?
+
+    Acceptable reasons include:
 
     - Allergy to preferred medications
 
@@ -34,30 +36,31 @@ Providers (as identified below) are exempt from prior authorization of any non-p
 
 ## Antidepressants
 
-| Central Nervous System (CNS) Agents: Antidepressants\*  |                                      |
-|---------------------------------------------------------|--------------------------------------|
-| PREFERRED                                               | NON-PREFERRED                        |
-| Bupropion                                               | Aplenzin                             |
-| Bupropion SR (generic of Wellbutrin SR)                 | Brisdelle                            |
-| Bupropion XL (generic of Wellbutrin XL)                 | Bupropion XL (generic of Forfivo XL) |
-| Citalopram                                              | Clomipramine                         |
-| Duloxetine 20, 30, 60mg                                 | Desvenlafaxine                       |
-| Escitalopram                                            | Drizalma Sprinkle                    |
-| Fluoxetine                                              | Duloxetine 40mg                      |
-| Fluvoxamine                                             | Emsam                                |
-| Mirtazapine                                             | Fetzima                              |
-| Nefazodone                                              | Fluoxetine 60mg                      |
-| Paroxetine                                              | Fluoxetine DR                        |
-| Sertraline                                              | Fluvoxamine ER                       |
-| Tranylcypromine                                         | Marplan                              |
-| Trazodone 50mg, 100mg, 150mg                            | Paroxetine 7.5mg                     |
-| Venlafaxine ER Cap                                      | Paroxetine ER                        |
-| Venlafaxine Tab                                         | Pexeva                               |
-|                                                         | Phenelzine                           |
-|                                                         | Trazodone 300mg                      |
-|                                                         | Trintellix                           |
-|                                                         | Venlafaxine ER Tab                   |
-|                                                         | Viibryd                              |
+Central Nervous System (CNS) Agents: Antidepressants
+
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Bupropion                               | Aplenzin  |
+| Bupropion SR (generic of Wellbutrin SR) | Brisdelle |
+| Bupropion XL (generic of Wellbutrin XL) | Bupropion XL (generic of Forfivo XL) |
+| Citalopram                   | Clomipramine       |
+| Duloxetine 20, 30, 60mg      | Desvenlafaxine     |
+| Escitalopram                 | Drizalma Sprinkle  |
+| Fluoxetine                   | Duloxetine 40mg    |
+| Fluvoxamine                  | Emsam              |
+| Mirtazapine                  | Fetzima            |
+| Nefazodone                   | Fluoxetine 60mg    |
+| Paroxetine                   | Fluoxetine DR      |
+| Sertraline                   | Fluvoxamine ER     |
+| Tranylcypromine              | Marplan            |
+| Trazodone 50mg, 100mg, 150mg | Paroxetine 7.5mg   |
+| Venlafaxine ER Cap           | Paroxetine ER      |
+| Venlafaxine Tab              | Pexeva             |
+|                              | Phenelzine         |
+|                              | Trazodone 300mg    |
+|                              | Trintellix         |
+|                              | Venlafaxine ER Tab |
+|                              | Viibryd            |
 
 ### Link to Criteria
 

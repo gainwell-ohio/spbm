@@ -1,8 +1,10 @@
 # Immunomodulator Agents for Systemic Inflammatory Disease
 
-**LENGTH OF AUTHORIZATIONS**: Dependent on diagnosis
+## Length Of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+Dependent on Diagnosis
+
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -14,7 +16,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-**All products in this class require Clinical Prior Authorization**:
+**All products in this class require Clinical Prior Authorization:**
 
 - No current infection; and
 
@@ -48,11 +50,11 @@ Acceptable reasons include:
 
     Xeljanz – 60 pills per 30 days
 
-**STEP THERAPY:**
+## Step Therapy
 
 1\. For a drug requiring step therapy, there must have been inadequate clinical response to a preferred alternative, including a trial of no less than **30 days** of at least **one preferred** TNF inhibitor.
 
-**ADDITIONAL INFORMATION:**
+## Additional Information
 
 The requested non-preferred medication may be approved if the following is true:
 
@@ -60,23 +62,26 @@ The requested non-preferred medication may be approved if the following is true:
 
 - For patients with a diagnosis of moderate to severe plaque psoriasis receiving phototherapy, initial authorization for Humira or Enbrel will only be approved if there is inadequate clinical response to at least 90 days of phototherapy.
 
-| Immunomodulator Agents for Systemic Inflammatory Disease  |                |
-|-----------------------------------------------------------|----------------|
-| PREFERRED                                                 | NON-PREFERRED  |
-| Enbrel PA                                                 | Actemra        |
-| Humira PA QL                                              | Cimzia         |
-| Kineret PA                                                | Cosentyx       |
-| Otezla PA                                                 | Ilumya         |
-| Taltz PA ST                                               | Kevzara        |
-| Xeljanz IR PA QL                                          | Olumiant       |
-|                                                           | Orencia        |
-|                                                           | Rinvoq         |
-|                                                           | Siliq          |
-|                                                           | Simponi QL     |
-|                                                           | Skyrizi        |
-|                                                           | Stelara        |
-|                                                           | Tremfya        |
-|                                                           | Xeljanz Sol    |
-|                                                           | Xeljanz XR     |
+Immunomodulator Agents for Systemic Inflammatory Disease
 
-**Link to Criteria:** [Immunomodulator Agents for Systemic Inflammatory Disease](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=69)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Enbrel PA        | Actemra     |
+| Humira PA QL     | Cimzia      |
+| Kineret PA       | Cosentyx    |
+| Otezla PA        | Ilumya      |
+| Taltz PA ST      | Kevzara     |
+| Xeljanz IR PA QL | Olumiant    |
+|                  | Orencia     |
+|                  | Rinvoq      |
+|                  | Siliq       |
+|                  | Simponi QL  |
+|                  | Skyrizi     |
+|                  | Stelara     |
+|                  | Tremfya     |
+|                  | Xeljanz Sol |
+|                  | Xeljanz XR  |
+
+### Link to Criteria
+
+[Immunomodulator Agents for Systemic Inflammatory Disease](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=69)

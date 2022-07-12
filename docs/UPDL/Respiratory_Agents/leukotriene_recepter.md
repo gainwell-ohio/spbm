@@ -1,8 +1,10 @@
 # Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors
 
-**LENGTH OF AUTHORIZATIONS**: 365 Days
+## Length Of Authorizations
 
-**PRIOR AUTHORIZATION CRITERIA:**
+365 Days
+
+## Prior Authorization Criteria
 
 1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -19,10 +21,13 @@
 
 ## Leukotriene Receptor Modifiers & Inhibitors
 
-| Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors |               |
-|-----------------------------------------------------------------|---------------|
-| PREFERRED                                                       | NON-PREFERRED |
-| Montelukast                                                     | Zileuton      |
-| Zafirlukast                                                     | Zyflo         |
+Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors
 
-**Link to Criteria:** [Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=92)
+| PREFERRED | NON-PREFERRED |
+| :--- | ---: |
+| Montelukast | Zileuton |
+| Zafirlukast | Zyflo    |
+
+### Link to Criteria
+
+[Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=92)
