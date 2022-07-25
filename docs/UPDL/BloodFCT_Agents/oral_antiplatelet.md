@@ -1,4 +1,4 @@
-# Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet
+# Oral Antiplatelet
 
 ## Indication And Length Of Authorization
 
