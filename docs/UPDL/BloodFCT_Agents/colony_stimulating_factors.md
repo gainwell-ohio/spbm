@@ -1,4 +1,4 @@
-# Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors
+# Colony Stimulating Factors
 
 ## Length Of Authorizations
 
