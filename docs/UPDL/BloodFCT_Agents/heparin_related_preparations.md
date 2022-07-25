@@ -1,4 +1,4 @@
-# Blood Formation, Coagulation, and Thrombosis Agents: HeparinRelated Preparations
+# HeparinRelated Preparations
 
 ## Length of Authorizations
 
