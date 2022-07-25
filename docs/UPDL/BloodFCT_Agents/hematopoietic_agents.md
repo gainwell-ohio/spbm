@@ -1,4 +1,4 @@
-# Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents
+# Hematopoietic Agents
 
 ## Length of Authorizations
 
