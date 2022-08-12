@@ -1,4 +1,4 @@
-alternate idea for formatting the Additional Therapeutic Classes PDF
+alternate idea for formatting the Additional Therapeutic Classes PDF, may make for a more organized table of contents than a large table if formatted the other way. 
 
 # Additional Therapeutic Classes with Clinical Criteria
 
@@ -23,3 +23,12 @@ Clinical Criteria:
 - Must provide documentation that the patient has had ≥ 10% unintentional weight lost AND must be on a high protein diet
 - Initial authorizations will be for 30 days
 - Subsequent authorizations require documents of weight gain with therapy
+
+## Antimycobacterial
+
+Drug Name: Priftin® (rifapentine)
+
+Clinical Criteria:
+
+- Must be prescribed by or in consultation with an infectious disease specialist, tuberculosis clinic, CDC or state health department
+- Must provide documentation of molecular susceptibility testing prior to initiation for an active infection
