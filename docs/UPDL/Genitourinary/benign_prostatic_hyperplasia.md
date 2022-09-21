@@ -6,19 +6,13 @@
 
 ## Prior Authorization Criteria
 
-1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
+1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+    1.  Allergy to medications not requiring prior approval
+    2.  Contraindications to or drug interaction with medications not requiring prior approval
+    3.  History of unacceptable/toxic side effects to medications not requiring prior approval
+2.  Patient must have a therapeutic failure to no less than a **30-day** trial on at least **two** medications that are preferred.
 
-    Acceptable reasons include:
-
-    - Allergy to medications not requiring prior approval
-
-    - Contraindications to or drug interaction with medications not requiring prior approval
-
-    - History of unacceptable/toxic side effects to medications not requiring prior approval
-
-2. Patient must have a therapeutic failure to no less than a **30-day** trial on at least **two** medications that are preferred.
-
-## Additional Criteria For Approval Of Tadalafil (CIALIS)
+## Additional Criteria for Approval Of Tadalafil (CIALIS)
 
 Patient must have diagnosis of benign prostatic hyperplasia and have a therapeutic failure to no less than a 30-day trial on at least one alpha-1 adrenergic blocker and a 90-day trial of finasteride.
 
@@ -26,8 +20,8 @@ Patient must have diagnosis of benign prostatic hyperplasia and have a therapeut
 
 Genitourinary Agents: Benign Prostatic Hyperplasia
 
-| PREFERRED | NON-PREFERRED |
-| :--- | ---: |
+| PREFERRED             | NON-PREFERRED          |
+|-----------------------|------------------------|
 | Alfuzosin             | Cardura XL             |
 | Doxazosin             | Dutasteride/Tamsulosin |
 | Dutasteride           | Silodosin              |

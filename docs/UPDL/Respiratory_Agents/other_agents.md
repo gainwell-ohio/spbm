@@ -13,8 +13,8 @@
 Respiratory Agents: Other Agents
 
 | PREFERRED | NON-PREFERRED |
-| :--- | ---: |
-| | Daliresp |
+| :-------- | ------------: |
+|           | Daliresp      |
 
 ### Link to Criteria
 

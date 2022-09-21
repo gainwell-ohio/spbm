@@ -6,26 +6,22 @@
 
 ## Prior Authorization Criteria
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval?
+Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
 
-Acceptable reasons include:
-
-- Allergy to medications not requiring prior approval
-
-- Contraindication to or drug interaction with medications not requiring prior approval
-
-- History of unacceptable/toxic side effects to medications not requiring prior approval
+-   Allergy to medications not requiring prior approval
+-   Contraindication to or drug interaction with medications not requiring prior approval
+-   History of unacceptable/toxic side effects to medications not requiring prior approval
 
 ## Additional Information
 
-- The requested medication may be approved if there has been a therapeutic failure to no less than a **30-day** trial of at least **two** medications in separate pharmacologic classes not requiring prior authorization
+-   The requested medication may be approved if there has been a therapeutic failure to no less than a **30-day** trial of at least **two** medications in separate pharmacologic classes not requiring prior authorization
 
 ## Neuropathic Pain
 
 Central Nervous System (CNS) Agents: Neuropathic Pain
 
-| PREFERRED | NON-PREFERRED |
-| :--- | ---: |
+| PREFERRED                          | NON-PREFERRED |
+|------------------------------------|---------------|
 | Amitriptyline                      | Gralise       |
 | Carbamazepine                      | Horizant      |
 | Desipramine                        | Pregabalin ER |

@@ -24,14 +24,14 @@ Quantity limit of 2 per 34 days
 
 Endocrine Agents: Diabetes – Hypoglycemia Treatments
 
-| PREFERRED | NON-PREFERRED |
-| :--- | ---: |
-| Baqsimi QL | Glucagon Emerg Kit [Labeler 00548 & 63323] QL |
-| Glucagen Hypokit QL                   | |
-| Glucagon Emerg Kit [Labeler 00002] QL | |
-| Gvoke Hypopen QL                      | |
-| Gvoke PFS QL                          | |
-| Zegalogue QL                          | |
+| PREFERRED                             |                                 NON-PREFERRED |
+| :------------------------------------ | --------------------------------------------: |
+| Baqsimi QL                            | Glucagon Emerg Kit [Labeler 00548 & 63323] QL |
+| Glucagen Hypokit QL                   |                                               |
+| Glucagon Emerg Kit [Labeler 00002] QL |                                               |
+| Gvoke Hypopen QL                      |                                               |
+| Gvoke PFS QL                          |                                               |
+| Zegalogue QL                          |                                               |
 
 ### Link to Criteria
 

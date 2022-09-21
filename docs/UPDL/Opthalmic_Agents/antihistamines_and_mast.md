@@ -6,29 +6,23 @@
 
 ## Prior Authorization Criteria
 
-1. Is there any reason the patient cannot be changed to a medication not requiring prior approval?
-
-    Acceptable reasons include:
-
-    - Allergy to medications not requiring prior approval
-
-    - Contraindications to or drug interaction with medications not requiring prior approval
-
-    - History of unacceptable/toxic side effects to medications not requiring prior approval
-
-2. Patient must have a therapeutic failure to at least **14 days** of **one** of the preferred agents.
+1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+    -   Allergy to medications not requiring prior approval
+    -   Contraindications to or drug interaction with medications not requiring prior approval
+    -   History of unacceptable/toxic side effects to medications not requiring prior approval
+2.  Patient must have a therapeutic failure to at least **14 days** of **one** of the preferred agents.
 
 ## Antihistamines & Mast Cell Stabilizers
 
 Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers
 
-| PREFERRED | NON-PREFERRED |
-| :--- | ---: |
-| Azelastine  | Alocril     |
-| Cromolyn    | Alomide     |
-| Ketotifen   | Bepreve BvG |
-| Olopatadine | Epinastine  |
-|             | Zerviate    |
+| PREFERRED   | NON-PREFERRED |
+|-------------|---------------|
+| Azelastine  | Alocril       |
+| Cromolyn    | Alomide       |
+| Ketotifen   | Bepreve BvG   |
+| Olopatadine | Epinastine    |
+|             | Zerviate      |
 
 ### Link to Criteria
 

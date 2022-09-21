@@ -2,85 +2,69 @@
 
 ## Length Of Authorizations
 
-Dependent on Diagnosis
+Initial: 90 days; Subsequent: 365 days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval?
+Must be prescribed in accordance with FDA approved labeling
 
-Acceptable reasons include:
+## Clinical PA Criteria
 
-- Allergy to all medications not requiring prior approval
-
-- Contraindication to or drug-to-drug interaction with medications not requiring prior approval.
-
-- History of unacceptable/toxic side effects to medications not requiring prior approval
-
-**All products in this class require Clinical Prior Authorization:**
-
-- No current infection; and
-
-- Prior first-generation therapy appropriate for diagnosis; and
-
-- Diagnosis of one of the following: 365 days approval
-
-  - Rheumatoid Arthritis
-  - Plaque Psoriasis
-  - Psoriatic Arthritis
-  - Polyarticular Juvenile Idiopathic Arthritis
-  - Crohn's Disease
-  - Ankylosing Spondylitis
-  - Psoriasis
-  - Uveitis
-  - Cryopyrin-Associated Periodic Syndrome
-  - Giant Cell Arteritis
-  - Hidradenitis Suppurativa
-
-- Diagnosis of Moderate to Severe Ulcerative Colitis (UC) (Humira, Simponi, and Xeljanz only): initial approval 56 days, reapprovals 365 days
-
-    Humira may be approved if there is an inadequate clinical response to at least 90 days of therapy with both 5-ASA and immunosuppressants.
-
-    Initial approval for Humira will be for 56 days. If clinical response is not seen in 56 days, further therapy with TNF inhibitors will not be approved. If there is an initial clinical response to Humira after 56 days of therapy, but no improvement in the progression of ulcerative colitis symptoms after 180 days, Simponi or Xeljanz may be approved.
-
-  - Quantity limits for UC diagnosis:
-
-    Humira – 7 pens/syringes during the first 30 days, then 2 pens/syringes per 30 days
-
-    Simponi – 3 pens/syringes during the first 30 days, then 1 pen/syringe per 30 days
-
-    Xeljanz – 60 pills per 30 days
+-   Must have been an inadequate clinical response of at least **90 days** with at least **two applicable** first-line drugs indicated for diagnosis – provide documentation of the trialed drugs, dosages, dates, and durations
+-   Authorization of dosing regimens (loading/maintenance) will be based upon diagnosis. Document the requested loading and maintenance dosing on PA form, if applicable
+-   Must not have a current, active infection
+-   Must provide evidence of negative TB test prior to initiation of biologic therapy, if required by labeling
 
 ## Step Therapy
 
-1\. For a drug requiring step therapy, there must have been inadequate clinical response to a preferred alternative, including a trial of no less than **30 days** of at least **one preferred** TNF inhibitor.
+-   Must have had an inadequate clinical response of at least **90 days** with at least **one preferred** TNF inhibitor indicated for diagnosis.
 
-## Additional Information
+## Non-Preferred Criteria
 
-The requested non-preferred medication may be approved if the following is true:
+-   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+-   Must have had an inadequate clinical response of at least **90 days** with at least **two preferred** drugs, if indicated for diagnosis
+    -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-- If there has been a therapeutic failure to no less than a 90-day trial of at least two preferred medications
+## Additional Atopic Dermatitis Criteria
 
-- For patients with a diagnosis of moderate to severe plaque psoriasis receiving phototherapy, initial authorization for Humira or Enbrel will only be approved if there is inadequate clinical response to at least 90 days of phototherapy.
+-   Must be prescribed by or in consultation with a dermatologist or allergist/immunologist
+-   Must have at least 10% body surface area (BSA) involvement with **two** of the following: topical corticosteroids, topical calcineurin inhibitors [e.g. Elidel], or topical PDE-4 inhibitors [e.g. Eucrisa] OR atopic dermatitis severe and involves \>25% BSA
 
-Immunomodulator Agents for Systemic Inflammatory Disease
+## Additional Plaque Psoriasis Criteria
 
-| PREFERRED | NON-PREFERRED |
-| :--- | ---: |
-| Enbrel PA        | Actemra     |
-| Humira PA QL     | Cimzia      |
-| Kineret PA       | Cosentyx    |
-| Otezla PA        | Ilumya      |
-| Taltz PA ST      | Kevzara     |
-| Xeljanz IR PA QL | Olumiant    |
-|                  | Orencia     |
-|                  | Rinvoq      |
-|                  | Siliq       |
-|                  | Simponi QL  |
-|                  | Skyrizi     |
-|                  | Stelara     |
-|                  | Tremfya     |
-|                  | Xeljanz Sol |
-|                  | Xeljanz XR  |
+-   For patients currently receiving phototherapy, an inadequate clinical response of at least **90 days** must be shown prior to initial authorization for preferred drugs
+
+## Additional Ulcerative Colitis Criteria
+
+-   If an inadequate clinical response after **90 days** with one TNF inhibitor, further TNF inhibitors will not be authorized
+
+## Subsequent Authorization Criteria
+
+-   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
+
+## Immunomodulator Agents for Systemic Inflammatory Disease
+
+| PREFERRED     | NON-PREFERRED   |
+|---------------|-----------------|
+| Enbrel PA     | Actemra         |
+| Humira PA     | Adbry           |
+| Kineret PA    | Cibinqo         |
+| Otezla PA     | Cimzia          |
+| Taltz PA ST   | Cosentyx        |
+| Xeljanz IR PA | Dupixent        |
+|               | Ilumya          |
+|               | Kevzara         |
+|               | Olumiant        |
+|               | Orencia         |
+|               | Rinvoq          |
+|               | Siliq           |
+|               | Simponi         |
+|               | Skyrizi         |
+|               | Stelara         |
+|               | Tremfya         |
+|               | Xeljanz Sol, XR |
 
 ### Link to Criteria
 

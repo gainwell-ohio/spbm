@@ -6,15 +6,11 @@
 
 ## Prior Authorization Criteria
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval?
+Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
 
-Acceptable reasons include:
-
-- Allergy to all medications not requiring prior approval
-
-- Contraindication to or drug-to-drug interaction with medications not requiring prior approval.
-
-- History of unacceptable/toxic side effects to medications not requiring prior approval
+-   Allergy to all medications not requiring prior approval
+-   Contraindication to or drug-to-drug interaction with medications not requiring prior approval.
+-   History of unacceptable/toxic side effects to medications not requiring prior approval
 
 ## Non-Preferred Agent
 
@@ -28,11 +24,12 @@ Calcium acetate products may lead to hypercalcemia. This agent is recommended in
 
 Genitourinary Agents: Electrolyte Depleter Agents
 
-| PREFERRED | NON-PREFERRED |
-| :--- | ---: |
-| Calcium Acetate            | Auryxia             |
-| Calcium Carbonate Phoslyra | Lanthanum Carbonate |
-| Sevelamer                  | Velphoro            |
+| PREFERRED          | NON-PREFERRED       |
+|--------------------|---------------------|
+| Calcium Acetate    | Auryxia             |
+| Calcium Carbonate  | Lanthanum Carbonate |
+| Phoslyra           | Velphoro            |
+| Sevelamer          |                     |
 
 ### Link to Criteria
 

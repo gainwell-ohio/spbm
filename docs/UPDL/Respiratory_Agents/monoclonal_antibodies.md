@@ -2,59 +2,37 @@
 
 ## Length Of Authorizations
 
-365 Days
+Initial: 180 days; Subsequent: 365 days
 
-## Clinical Criteria For Asthma
+## All Authorizations
 
-- Indicated for **moderate to severe asthma** if:
-  
-  - Prescribed by or in consultation with an allergist/immunologist or pulmonologist
-  - Preferred medications will be approved for patients with uncontrolled eosinophilic asthma symptoms and/or exacerbations despite at least 30 days adherence to therapy with:
+Must be prescribed in accordance with FDA approved labeling
 
-    - Medium dose preferred ICS/LABA inhaler (patients 6-11 years old) – Nucala only
-    - Medium dose preferred ICS/LABA inhaler with tiotropium or high dose preferred ICS/LABA inhaler (patients 12 years and older) – Nucala or Fasenra
+## Clinical PA Criteria
 
-  - Non-preferred medications will be approved for patients with uncontrolled eosinophilic asthma symptoms and/or exacerbations despite at least 90 days adherence to therapy with a preferred agent
+-   Must be prescribed by or in consultation with an applicable specialist (i.e., allergist/immunologist, pulmonologist, or otolaryngologist)
+-   For **Asthma** – Must have had uncontrolled asthma symptoms and/or exacerbations despite at least **30 days** with:
+    -   Medium dose preferred ICS/LABA inhaler for 6 years and older **OR** medium dose preferred ICS/LABA inhaler with tiotropium or high dose ICS/LABA inhaler if 12 years and older
+-   For **Chronic Rhinosinusitis with Nasal Polyposis** – Must have had an inadequate clinical response of at least **30 days** to at least **one oral** corticosteroid AND **one nasal** corticosteroid spray
+-   For **Chronic Urticaria** – Must have had an inadequate clinical response to at least **14 days** with at least **two different** antihistamines
 
-## Additional Criteria For Dupilumab (Dupixent)
+## Non-Preferred Criteria
 
-- Indicated for **moderate to** **severe atopic dermatitis** if:
-
-  - Patient has minimum body surface area (BSA) involvement of at least 10%
-  - Prescribed by or in consultation with a dermatologist or allergist/immunologist
-  - Patient is 6 years of age or older
-  - Patient has had inadequate response or contraindication to two of the following: topical corticosteroids, topical calcineurin inhibitors [e.g. Elidel], or topical PDE-4 inhibitors [e.g. Eucrisa™] unless atopic dermatitis is severe and involves greater than 25% of BSA.
-  - Initial authorization is limited to 112 days with re-authorization of up to 365 days granted following demonstration of improvement in patient condition with therapy (e.g. reduced BSA affected).
-
-- Indicated for **chronic rhinosinusitis with nasal polyposis** if:
-
-  - Patient is 18 years of age or older
-  - Patient had an inadequate response, intolerance or contraindication to one oral corticosteroid
-  - Patient had a 30-day trial and experienced an inadequate response, intolerance or contraindication to one nasal corticosteroid spray
-
-## Additional Criteria For Omalizumab (Xolair)
-
-- Indicated for **chronic** **urticaria** if:
-
-  - Patient has tried and failed two 14-day trials with two different antihistamines
-  - Prescribed by or in consultation with a dermatologist or allergist/immunologist
-  - Prescribed in accordance with its FDA approved labeling
-
-- Indicated for **chronic rhinosinusitis with nasal polyposis** if:
-
-  - Patient is 18 years of age or older
-  - Patient had an inadequate response, intolerance or contraindication to one oral corticosteroid
-  - Patient had a 30-day trial and experienced an inadequate response, intolerance or contraindication to one nasal corticosteroid spray
+-   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+-   Must have had an inadequate clinical response of at least **90 days** with at least **one preferred** drug
+    -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    -   For non-preferred brand names that have preferred generics, requests must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
 ## Monoclonal Antibodies-Anti-IL/Anti-IgE
 
 Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE
 
-| PREFERRED | NON-PREFERRED |
-| :--- | ---: |
-| Fasenra PA | Dupixent |
-| Nucala PA  |          |
-| Xolair PA  |          |
+| PREFERRED  | NON-PREFERRED |
+|------------|---------------|
+| Fasenra PA | Dupixent      |
+| Nucala PA  | Tezspire      |
+| Xolair PA  |               |
 
 ### Link to Criteria
 
