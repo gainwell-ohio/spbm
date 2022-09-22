@@ -18,7 +18,7 @@ AR – Vesicare LS: PA is not required for patients 2-5 years of age.
 
 AR – Myrbetriq Sol: PA is not required for patients that are 3-5 years of age.
 
-## Urinary Antispasmodics
+## Formulary
 
 Genitourinary Agents: Urinary Antispasmodics
 

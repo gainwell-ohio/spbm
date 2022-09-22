@@ -19,7 +19,7 @@ all agents listed
 1.  For a drug requiring step therapy, there must have been inadequate clinical response to a preferred alternative
 2.  For a non-preferred drug, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **14-days** of at least **one** step therapy product
 
-## Irritable Bowel Syndrome (IBS) with Diarrhea
+## Formulary
 
 Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea
 

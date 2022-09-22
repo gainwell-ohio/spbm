@@ -28,7 +28,7 @@ Must be prescribed in accordance with FDA approved labeling
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
 
-## Colony Stimulating Factors
+## Formulary
 
 Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors
 

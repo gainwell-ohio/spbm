@@ -44,7 +44,7 @@ Must be prescribed in accordance with FDA approved labeling
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
 
-## Immunomodulator Agents for Systemic Inflammatory Disease
+## Formulary
 
 | PREFERRED     | NON-PREFERRED   |
 |---------------|-----------------|

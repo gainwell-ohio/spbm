@@ -18,7 +18,7 @@ Patients who have a claim for a non-preferred drug in the previous 120 days will
 
 Additional Mayzent Requirements**:** Must review liver function tests (LFTS) complete blood count (CBC), ophthalmic examination, varicella zoster virus antibodies, and electrocardiogram (ECG) prior to initiation. Must confirm patient is not CYP2C9\*3\*3 genotype. Dose limited to 2mg/day.
 
-## Multiple Sclerosis
+## Formulary
 
 Central Nervous System (CNS) Agents: Multiple Sclerosis
 

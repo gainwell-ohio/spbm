@@ -19,7 +19,7 @@ Patients who have a claim for a non-preferred drug in the previous 120 days will
 4.  If Rebinyn is requested, confirmation that it is not being used for routine prophylaxis
 5.  Approval based upon diagnosis and dosage appropriate to weight, patient pharmacokinetic factors, and presence of inhibitors.
 
-## Hemophilia Factor
+## Formulary
 
 Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factor\*
 

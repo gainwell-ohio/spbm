@@ -16,7 +16,7 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 
 -   The requested medication may be approved if there has been a therapeutic failure to no less than a **30-day** trial of at least **two** medications in separate pharmacologic classes not requiring prior authorization
 
-## Neuropathic Pain
+## Formulary
 
 Central Nervous System (CNS) Agents: Neuropathic Pain
 

@@ -70,7 +70,7 @@ Acceptable reasons include:
 
 \+ Long-Acting Injectable Antipsychotics may be billed by the pharmacy if they are not dispensed directly to the patient. If not administered by the pharmacist, the drug must be released only to the administering provider or administering provider's staff, following all regulations for a Prescription Pick-Up Station as described by the Ohio Board of Pharmacy.
 
-## Atypical Antipsychotics
+## Formulary
 
 Central Nervous System (CNS) Agents: Atypical Antipsychotics
 

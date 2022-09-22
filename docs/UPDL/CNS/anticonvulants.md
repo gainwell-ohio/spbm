@@ -68,7 +68,7 @@ AR - Vigabatrin Powder: a PA is required for patients over 2 years old
 
 AR – Eprontia Solution: a PA is required for patients 12 years and older
 
-## Anticonvulsants
+## Formulary
 
 Central Nervous System (CNS) Agents: Anticonvulsants
 

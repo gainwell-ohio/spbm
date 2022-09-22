@@ -35,7 +35,7 @@
 6. At least two cluster periods lasting from seven days to one year (when untreated) and separated by pain-free remission periods of 90 days or more
 7. Failure or intolerance to verapamil titrated at least to a dose of 480 mg daily (may need to be combined with glucocorticoids as adjunctive therapy for more rapid relief until verapamil is titrated)
 
-## Anti-Migraine Agents, Cluster Headache
+## Formulary
 
 Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache
 

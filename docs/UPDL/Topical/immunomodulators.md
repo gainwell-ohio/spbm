@@ -27,7 +27,7 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 
 AR - pimecrolimus and tacrolimus: a PA is required for patients younger than 2 years old
 
-## Immunomodulators
+## Formulary
 
 Topical Agents: Immunomodulators
 

@@ -24,7 +24,7 @@ Must be prescribed in accordance with FDA approved labeling
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring (i.e., testosterone and hematocrit)
 
-## Androgens
+## Formulary
 
 Endocrine Agents: Androgens
 

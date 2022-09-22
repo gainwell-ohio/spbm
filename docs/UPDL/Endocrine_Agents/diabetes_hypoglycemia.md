@@ -20,7 +20,7 @@ A non-preferred medication will be approved after a trial with a preferred medic
 
 Quantity limit of 2 per 34 days
 
-## Diabetes - Hypoglycemia Treatments
+## Formulary
 
 Endocrine Agents: Diabetes – Hypoglycemia Treatments
 

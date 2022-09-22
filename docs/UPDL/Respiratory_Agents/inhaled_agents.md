@@ -27,7 +27,7 @@ AR - Albuterol Nebulizer Solution 0.42mg/ml, 0.63mg/ml: a PA is required for pat
 
 AR - Budesonide Nebulizer Solution: a PA is required for patients over 6 years
 
-## Inhaled Agents
+## Formulary
 
 Respiratory Agents: Inhaled Agents
 

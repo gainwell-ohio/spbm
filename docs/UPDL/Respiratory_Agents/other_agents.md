@@ -8,7 +8,7 @@
 
 1. Daliresp must be used with a long-acting beta agonist or long-acting muscarinic antagonists
 
-## Other Agents
+## Formulary
 
 Respiratory Agents: Other Agents
 

@@ -24,7 +24,7 @@ AR - Dextroamphetamine Solution: a PA is required for patients over 12 years old
 
 AR - Methylphenidate Solution: a PA is required for patients over 12 years old
 
-## Attention Deficit Hyperactivity Disorder Agents
+## Formulary
 
 Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents
 

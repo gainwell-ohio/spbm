@@ -21,7 +21,7 @@
 
 Nurtec ODT quantity limit is 8 per 30 days
 
-## Anti-Migraine Agents, Acute
+## Formulary
 
 Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute
 

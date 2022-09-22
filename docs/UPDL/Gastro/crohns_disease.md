@@ -14,7 +14,7 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 
 For a non-preferred agent, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days each** of at least **two** preferred products.
 
-## Crohn's Disease
+## Formulary
 
 Gastrointestinal Agents: Crohn’s Disease
 

@@ -14,7 +14,7 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 
 All drugs in this class require step therapy: Patient must have a claim for an artificial tear or OTC dry eye drop in the previous 120 days.
 
-## Dry Eye Treatments
+## Formulary
 
 Ophthalmic Agents: Dry Eye Treatments
 

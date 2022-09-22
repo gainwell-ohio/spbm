@@ -26,7 +26,7 @@ AR - Cefprozil Suspension: a PA is required for patients over 12 years old
 
 AR - Suprax Chewable Tablet: a PA is required for patients over 12 years old
 
-## Antibiotics - Cephalosporins
+## Formulary
 
 Infectious Disease Agents: Antibiotics – Cephalosporins
 

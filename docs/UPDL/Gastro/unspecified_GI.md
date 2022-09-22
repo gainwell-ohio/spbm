@@ -20,7 +20,7 @@ Must be prescribed in accordance with FDA approved labeling
     -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Unspecified GI
+## Formulary
 
 Gastrointestinal Agents: Unspecified GI
 

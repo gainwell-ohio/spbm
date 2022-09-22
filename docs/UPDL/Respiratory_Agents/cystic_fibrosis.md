@@ -44,7 +44,7 @@ Is there any reason the patient cannot be changed to a medication not requiring 
         -   Increased Cystic Fibrosis Questionnaire-Revised (CFQ-R) respiratory domain score
         -   Other documentation by the physician clearly explaining the ongoing benefit of continuing the drug based on stated and documented objective evidence of improvement or a clear stabilization in a previous decline in one of the above parameters
 
-## Cystic Fibrosis
+## Formulary
 
 Respiratory Agents: Cystic Fibrosis
 

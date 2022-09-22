@@ -20,7 +20,7 @@ Patients who have a claim for a non-preferred drug in the previous 120 days will
 
 AR - Sildenafil oral solution: a PA is required for patients over 6 years old
 
-## Pulmonary Arterial Hypertension
+## Formulary
 
 Cardiovascular Agents: Pulmonary Arterial Hypertension
 

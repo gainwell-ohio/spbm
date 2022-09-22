@@ -38,7 +38,7 @@ Must be prescribed in accordance with FDA approved labeling
 
 **AR** – Isentress chewable tablet: a PA is required for patients 12 years and older
 
-## Antivirals - HIV
+## Formulary
 
 Infectious Disease Agents: Antivirals – HIV
 

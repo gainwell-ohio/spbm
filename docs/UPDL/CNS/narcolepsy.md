@@ -39,7 +39,7 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 
 Attestation that the patient’s condition has improved while taking the requested medication
 
-## Narcolepsy
+## Formulary
 
 Central Nervous System (CNS) Agents: Narcolepsy
 

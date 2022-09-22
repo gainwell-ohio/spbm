@@ -37,7 +37,7 @@ Subsequent authorizations 365 days
     -   Evidence of culture conversion (negative sputum culture)
 3.  Dose will be limited to 1 dose per day
 
-## Antibiotics - Inhaled
+## Formulary
 
 Infectious Disease Agents: Antibiotics – Inhaled
 

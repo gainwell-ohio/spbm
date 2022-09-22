@@ -66,7 +66,7 @@ Must be prescribed in accordance with FDA approved labeling
 
 Effective July 1, 2018, patients with short acting opioid therapy will be limited to 30 MED per prescription and a maximum of 7 days per prescription. Prior authorization will be required to exceed these limits
 
-## Opioids
+## Formulary
 
 Analgesic Agents: Opioids
 

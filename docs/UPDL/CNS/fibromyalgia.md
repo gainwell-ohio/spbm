@@ -22,7 +22,7 @@
 
 \*\* The P&T Committee does not recommend the use of opioids for treatment of fibromyalgia
 
-## Fibromyalgia Agents
+## Formulary
 
 Central Nervous System (CNS) Agents: Fibromyalgia Agents
 

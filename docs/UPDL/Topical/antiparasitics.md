@@ -30,7 +30,7 @@ The requested medication may be approved if the following is true:
 -   Spinosad is indicated for patients 6 months of age and older
 -   Package labeling does not list age for permethrin or piperonyl butoxode-pyrethrins
 
-## Antiparasitics
+## Formulary
 
 Topical Agents: Antiparasitics
 

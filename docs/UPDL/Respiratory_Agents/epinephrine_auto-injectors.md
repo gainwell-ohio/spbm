@@ -14,7 +14,7 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 
 The requested medication may be approved if there has been therapeutic failure using the product(s) not requiring prior approval.
 
-## Epinephrine Auto-Injectors
+## Formulary
 
 Respiratory Agents: Epinephrine Auto-Injectors
 

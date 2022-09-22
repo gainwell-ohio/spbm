@@ -13,7 +13,7 @@
 2.  For a product requiring step therapy, there must have been therapeutic failure to a **90-day trial** of a preferred alternative.
 3.  For a non-preferred product, there must have been a therapeutic failure to a **90-day trial** of **two** preferred agents
 
-## Leukotriene Receptor Modifiers & Inhibitors
+## Formulary
 
 Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors
 

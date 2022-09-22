@@ -24,7 +24,7 @@ Is there any reason the patient cannot be changed to oral warfarin? Acceptable r
 -   Pregnant women (approved up to 280 days), or
 -   Patients unable to take warfarin (approved up to 180 days).
 
-## Heparin-Related Preparations
+## Formulary
 
 Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations
 

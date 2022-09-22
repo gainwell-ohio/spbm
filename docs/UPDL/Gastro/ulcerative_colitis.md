@@ -21,7 +21,7 @@ For a non-preferred agent, there must have been inadequate clinical response to 
 
 Budesonide ER 9mg tablet quantity limit of 56 tablets per 90 days
 
-## Ulcerative Colitis
+## Formulary
 
 Gastrointestinal Agents: Ulcerative Colitis
 

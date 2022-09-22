@@ -14,7 +14,7 @@
     -   History of unacceptable/toxic side effects to at least **two** medications not requiring prior approval
 2.  Has the patient failed therapeutic trials of **14 days** with **two** medications not requiring prior approval in the same category?
 
-## Corticosteroids
+## Formulary
 
 Topical Agents: Corticosteroids
 

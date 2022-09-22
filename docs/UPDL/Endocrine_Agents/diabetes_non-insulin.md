@@ -28,7 +28,7 @@ Is there any reason the patient cannot be changed to a medication within the sam
 
 Soliqua and Xultophy Request must address inability to use the individual components.
 
-## Diabetes - Non-Insulin
+## Formulary
 
 Endocrine Agents: Diabetes – Non-Insulin
 

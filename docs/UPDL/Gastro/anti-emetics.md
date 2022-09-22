@@ -12,7 +12,7 @@
     3.  History of unacceptable/toxic side effects to medications not requiring prior approval
 2.  The requested medication may be approved if there has been a therapeutic failure to no less than a **7-day** trial on at least **one medication** not requiring prior approval.
 
-## Anti-Emetics
+## Formulary
 
 Gastrointestinal Agents: Anti-Emetics
 

@@ -41,7 +41,7 @@ Initial Authorization 180 days
 
 \* Ajovy 675mg doses (quarterly administration) will not be authorized until patient has demonstrated efficacy of medication for at least 90 days.
 
-## Anti-Migraine Agents, Prophylaxis
+## Formulary
 
 Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis
 

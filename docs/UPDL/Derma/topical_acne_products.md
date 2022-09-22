@@ -31,7 +31,7 @@ Must be prescribed in accordance with FDA approved labeling
 
 **AR**- All topical retinoids: a PA is required for patients 24 years and older
 
-## Topical Acne Products
+## Formulary
 
 Dermatological: Topical Acne Products
 

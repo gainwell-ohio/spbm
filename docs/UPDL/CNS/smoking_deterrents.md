@@ -2,7 +2,7 @@
 
 All products are covered without a PA
 
-## Smoking Deterrents
+## Formulary
 
 Central Nervous System (CNS) Agents: Smoking Deterrents
 

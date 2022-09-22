@@ -12,7 +12,7 @@
     -   History of unacceptable/toxic side effects to medications not requiring prior approval
 2.  Patient must have a therapeutic failure to at least **14 days** of **one** of the preferred agents.
 
-## Antihistamines & Mast Cell Stabilizers
+## Formulary
 
 Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers
 

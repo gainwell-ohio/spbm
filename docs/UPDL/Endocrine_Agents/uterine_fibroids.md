@@ -16,7 +16,7 @@ Patients who have been treated with Lupron Depot for 180 days or more are not el
     3.  History of unacceptable/toxic side effects to medications not requiring prior approval
 2.  The requested medication may be approved if the patient has a diagnosis of uterine leiomyomas (fibroids) and has failed a 90 day or more trial with an oral contraceptive
 
-## Uterine Fibroids
+## Formulary
 
 Endocrine Agents: Uterine Fibroids
 

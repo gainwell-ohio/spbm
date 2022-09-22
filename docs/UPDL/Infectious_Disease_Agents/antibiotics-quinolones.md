@@ -21,7 +21,7 @@ For the date of service only; no refills
 
 AR - Ciprofloxacin Suspension: a PA is required for patients over 12 years old
 
-## Antibiotics - Quinolones
+## Formulary
 
 Infectious Disease Agents: Antibiotics – Quinolones
 

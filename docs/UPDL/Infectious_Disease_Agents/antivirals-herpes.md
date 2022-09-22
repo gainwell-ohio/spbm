@@ -12,7 +12,7 @@ For the duration of the prescription (up to 180 days)
     -   History of unacceptable/toxic side effects to medications not requiring prior approval
 2.  If there has been a therapeutic failure to at least a 3-day trial of at least one medication not requiring prior approval, then may approve the requested medication.
 
-## Antivirals - Herpes
+## Formulary
 
 Infectious Disease Agents: Antivirals – Herpes
 

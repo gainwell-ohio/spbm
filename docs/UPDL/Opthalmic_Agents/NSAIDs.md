@@ -21,7 +21,7 @@ The requested medication may be approved if both of the following are true:
 1.  If there has been a therapeutic failure to no less than a **3-day** trial of at least **one** medication not requiring prior approval
 2.  The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated.
 
-## NSAIDS
+## Formulary
 
 Ophthalmic Agents: NSAIDs
 

@@ -12,7 +12,7 @@
     3.  History of unacceptable/toxic side effects to medications not requiring prior approval
 2.  The requested medication may be approved if there has been a therapeutic failure of at least **two trials** of **30 days each** with medications not requiring prior approval
 
-## Estrogenic Agents
+## Formulary
 
 Endocrine Agents: Estrogenic Agents
 

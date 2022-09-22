@@ -69,7 +69,7 @@ Patients must have ONE of the following diagnoses along with documentation of me
     2.  The patient does not have any FDA labeled contraindication(s) to therapy with the requested agent (i.e., closed epiphyses, no expanding intracranial lesion or tumor diagnosed, etc.)
     3.  Other hormonal deficiencies addressed with adequate replacement therapy
 
-## Growth Hormone
+## Formulary
 
 Endocrine Agents: Growth Hormone
 

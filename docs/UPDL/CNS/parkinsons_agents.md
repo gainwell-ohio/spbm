@@ -21,7 +21,7 @@ The requested medication may be approved if both of the following are true:
 3.  Neupro may be approved if the patient is unable to swallow.
 4.  Requests for Apokyn, Inbrija, Kynmobi and Nourianz must have documentation of a trial of at least one other medication for the treatment of “off episodes” (dopamine agonist, COMT inhibitor, or MAO-B inhibitor).
 
-## Parkinson's Agents
+## Formulary
 
 Central Nervous System (CNS) Agents: Parkinson's Agents
 

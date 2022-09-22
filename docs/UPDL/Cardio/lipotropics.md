@@ -69,7 +69,7 @@ Baseline lab results are required, and initial approval will be for 84 days.
 
 Subsequent approvals will require additional levels drawn to assess response to treatment from baseline and/or attestation of clinical stabilization and will be for 365 days.
 
-## Lipotropics
+## Formulary
 
 Cardiovascular Agents: Lipotropics
 

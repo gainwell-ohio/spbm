@@ -48,7 +48,7 @@ The requested medication may be approved if the following is true:
 
 \* Gloperba quantity limit is 1.2 mg per day
 
-## Gout
+## Formulary
 
 Analgesic Agents: Gout
 

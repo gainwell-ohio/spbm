@@ -31,7 +31,7 @@ Dependent upon diagnosis
 -   History of unacceptable/toxic side effects to medications not requiring prior approval
 1.  Has the patient failed a therapeutic trial of **14 days** with one preferred medication?
 
-## Hematopoietic
+## Formulary
 
 Blood Agents: Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents
 

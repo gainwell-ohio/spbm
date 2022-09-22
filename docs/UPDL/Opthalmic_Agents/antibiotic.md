@@ -14,7 +14,7 @@ For the date of service only; no refills for acute infection. Refills for up to 
     -   Note diagnosis and any culture and sensitivity reports
 3.  For a non-preferred agent, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **3 days each** of at least **two** preferred products
 
-## Antibiotic and Antibiotic-Steroid Combination Drops and Ointments
+## Formulary
 
 Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments
 

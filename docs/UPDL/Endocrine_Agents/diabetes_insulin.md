@@ -21,7 +21,7 @@
 -   Spirometry shows FEV1 \> / = 70% predicted; and
 -   Patient has not smoked for at least 180 days
 
-## Diabetes - Insulin
+## Formulary
 
 Endocrine Agents: Diabetes – Insulin
 

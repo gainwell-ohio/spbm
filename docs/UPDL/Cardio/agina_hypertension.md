@@ -63,7 +63,7 @@ Aliskiren and Tekturna HCT may be approved if all the following are met:
 
 AR - Hemangeol oral solution: a PA is required for patients over 2 years old
 
-## Angina, Hypertension and Heart Failure
+## Formulary
 
 Cardiovascular Agents: Angina, Hypertension and Heart Failure
 

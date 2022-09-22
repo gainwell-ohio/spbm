@@ -2,7 +2,7 @@
 
 All products are covered without a PA
 
-## Progestin Agents
+## Formulary
 
 Endocrine Agents: Progestin Agents
 

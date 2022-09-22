@@ -24,7 +24,7 @@ The requested medication may be approved if the member had a 30-day trial and fa
 
 AR – Naproxen Suspension: a PA is required for patients over 12 years old
 
-## NSAIDs
+## Formulary
 
 Analgesic Agents: NSAIDS
 

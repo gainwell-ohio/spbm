@@ -16,7 +16,7 @@
 
 Patient must have diagnosis of benign prostatic hyperplasia and have a therapeutic failure to no less than a 30-day trial on at least one alpha-1 adrenergic blocker and a 90-day trial of finasteride.
 
-## Benign Prostatic Hyperplasia
+## Formulary
 
 Genitourinary Agents: Benign Prostatic Hyperplasia
 

@@ -26,7 +26,7 @@ The requested medication may be approved if the following is true:
 
 -   There has been one episode of angioedema during use of a preferred medication
 
-## Hereditary Angioedema
+## Formulary
 
 Respiratory Agents: Hereditary Angioedema
 

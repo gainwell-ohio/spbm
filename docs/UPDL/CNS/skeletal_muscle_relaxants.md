@@ -28,7 +28,7 @@ Must be prescribed in accordance with FDA approved labeling
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
 
-## Skeletal Muscle Relaxants, Non-Benzodiazepine
+## Formulary
 
 Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine
 

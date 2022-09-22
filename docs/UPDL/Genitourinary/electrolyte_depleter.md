@@ -20,7 +20,7 @@ For a non-preferred agent, there must have been an inadequate clinical response 
 
 Calcium acetate products may lead to hypercalcemia. This agent is recommended in patients with normal serum calcium levels.
 
-## Electrolyte Depleter Agents
+## Formulary
 
 Genitourinary Agents: Electrolyte Depleter Agents
 

@@ -29,7 +29,7 @@ Providers (as identified below) are exempt from prior authorization of any non-p
     -   The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated.
 2.  If there has been a therapeutic failure to no less than **two preferred** products for a **30-day** trial each.
 
-## Antidepressants
+## Formulary
 
 Central Nervous System (CNS) Agents: Antidepressants
 

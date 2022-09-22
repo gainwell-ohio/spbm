@@ -18,7 +18,7 @@
 -   Loratadine is indicated for patients 2 years of age and older
 -   Cetirizine and desloratadine are indicated for patients 6 months of age and older
 
-## Antihistamines - Second Generation
+## Formulary
 
 Respiratory Agents: Antihistamines – Second Generation
 

@@ -20,7 +20,7 @@ For a drug requiring step therapy, there must have been a therapeutic failure of
 
 There must have been a therapeutic failure of at least a 30-day trial with both a NSAID and an oral contraceptive and a trial and a therapeutic failure of no less than 90 days on at least one step therapy required “preferred”
 
-## Endometriosis
+## Formulary
 
 Endocrine Agents: Endometriosis
 

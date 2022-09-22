@@ -28,7 +28,7 @@ Acceptable reasons include:
 
 Austedo quantity limit of 4 tablets per day
 
-## Movement Disorders
+## Formulary
 
 Central Nervous System (CNS) Agents: Movement Disorders
 

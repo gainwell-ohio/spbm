@@ -18,7 +18,7 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 
 Has the patient failed a therapeutic trial of at least **30 days** with at least **two medications** not requiring prior approval?
 
-## Alzheimer's Agents
+## Formulary
 
 Central Nervous System (CNS) Agents: Alzheimer’s Agents
 

@@ -13,7 +13,7 @@ Duration of the prescription (up to 180 days)
 2.  Is the infection caused or presumed to be caused by an organism resistant to medications not requiring prior approval?
 3.  Has the patient failed therapeutic trials of **14 days** with **two** medications not requiring prior approval?
 
-## Antifungals
+## Formulary
 
 Topical Agents: Antifungals
 

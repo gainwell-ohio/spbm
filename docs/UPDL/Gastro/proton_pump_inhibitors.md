@@ -31,7 +31,7 @@ AR - Protonix Pak: a PA is required for patients over 6 years old
 
 AR - Protonix Suspension: a PA is required for patients over 6 years old
 
-## Proton Pump Inhibitors
+## Formulary
 
 Gastrointestinal Agents: Proton Pump Inhibitors
 

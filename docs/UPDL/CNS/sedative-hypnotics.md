@@ -14,7 +14,7 @@
 3.  If the prescriber indicates the patient has a history of addiction, then may approve a requested noncontrolled medication.
 4.  The P&T Committee does not recommend use of flurazepam (Dalmane) or triazolam (Halcion)
 
-## Sedative-Hypnotics, Non-Barbiturate
+## Formulary
 
 Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate
 

@@ -18,7 +18,7 @@ The requested medication may be approved if both of the following are true:
 -   If there has been a therapeutic failure to no less than a **7-day** trial of at least **one** medication not requiring prior approval
 -   The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated.
 
-## Antibacterial and Antibacterial/Steroid Combinations
+## Formulary
 
 Otic Agents: Antibacterial and Antibacterial/Steroid Combinations
 

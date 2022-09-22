@@ -40,7 +40,7 @@ AR - Vibramycin Suspension: a PA is required for patients over 12 years old
 
 If the patient is completing a course of therapy with a medication requiring prior approval, which was initiated in the hospital, then may approve the requested medication to complete the course of therapy.
 
-## Antibiotics - Tetracyclines
+## Formulary
 
 Infectious Disease Agents: Antibiotics – Tetracyclines
 

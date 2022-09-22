@@ -48,7 +48,7 @@ Vivitrol may be billed by the pharmacy if it is not dispensed directly to the pa
 
 Sublocade may be billed by the pharmacy if it is not dispensed directly to the patient. If not administered at the pharmacy, the drug must be released only to the administering provider or administering provider's staff, following all applicable regulations.
 
-## Medication Assisted Treatment of Opioid Addiction
+## Formulary
 
 Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction
 

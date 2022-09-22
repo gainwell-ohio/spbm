@@ -24,7 +24,7 @@ Please see the [Hepatitis C Direct Acting Antiviral Prior Authorization Form](ht
 -   Pegylated Interferons have a Black Box Warning which indicates that a patient should be monitored closely with periodic clinical and laboratory evaluations.
 -   Ribavirins are contraindicated in women who are pregnant and in their male partner(s). At least two reliable forms of contraception must be used during therapy.
 
-## Antivirals - Hepatitis C Agents
+## Formulary
 
 Infectious Disease Agents: Antivirals – Hepatitis C Agents
 
