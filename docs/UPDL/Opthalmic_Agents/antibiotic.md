@@ -1,4 +1,4 @@
-# Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments
+# Antibiotic and Antibiotic-Steroid Combination Drops and Ointments
 
 ## Length Of Authorizations
 

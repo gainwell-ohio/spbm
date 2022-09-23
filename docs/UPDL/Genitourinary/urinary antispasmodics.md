@@ -1,4 +1,4 @@
-# Genitourinary Agents: Urinary Antispasmodics
+# Urinary Antispasmodics
 
 ## Length Of Authorizations
 

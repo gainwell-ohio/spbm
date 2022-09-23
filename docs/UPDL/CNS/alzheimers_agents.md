@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Alzheimer’s Agents\*
+# Alzheimer’s Agents\*
 
 ## Length Of Authorizations
 

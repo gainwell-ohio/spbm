@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Anticonvulsants\*
+# Anticonvulsants\*
 
 ## Length Of Authorizations
 

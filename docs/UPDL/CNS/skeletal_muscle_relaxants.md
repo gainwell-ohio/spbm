@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine
+# Skeletal Muscle Relaxants, Non-Benzodiazepine
 
 ## Length of Authorizations
 

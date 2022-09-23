@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute
+# Anti-Migraine Agents, Acute
 
 ## Length Of Authorizations
 

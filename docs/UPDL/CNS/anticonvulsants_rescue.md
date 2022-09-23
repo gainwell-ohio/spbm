@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Anticonvulsants Rescue
+# Anticonvulsants Rescue
 
 ## Length Of Authorizations
 

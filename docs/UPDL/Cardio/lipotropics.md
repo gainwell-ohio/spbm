@@ -1,4 +1,4 @@
-# Cardiovascular Agents: Lipotropics
+# Lipotropics
 
 ## Length of Authorizations
 

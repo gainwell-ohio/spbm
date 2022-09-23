@@ -1,4 +1,4 @@
-# Respiratory Agents: Hereditary Angioedema
+# Hereditary Angioedema
 
 ## Length Of Authorizations
 

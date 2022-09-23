@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Multiple Sclerosis\*
+# Multiple Sclerosis\*
 
 ## Length Of Authorizations
 

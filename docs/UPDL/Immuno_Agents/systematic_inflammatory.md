@@ -1,4 +1,4 @@
-# Immunomodulator Agents for Systemic Inflammatory Disease
+# Systemic Inflammatory Disease
 
 ## Length Of Authorizations
 

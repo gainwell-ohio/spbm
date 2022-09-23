@@ -1,4 +1,4 @@
-# Endocrine Agents: Uterine Fibroids
+# Uterine Fibroids
 
 ## Length of Authorizations
 

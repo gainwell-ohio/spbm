@@ -1,4 +1,4 @@
-# Infectious Disease Agents: Antivirals – HIV\*
+# Antivirals – HIV\*
 
 ## Length Of Authorizations
 

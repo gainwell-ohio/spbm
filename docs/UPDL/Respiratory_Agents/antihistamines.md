@@ -1,4 +1,4 @@
-# Respiratory Agents: Antihistamines – Second Generation
+# Antihistamines – Second Generation
 
 ## Length Of Authorizations
 

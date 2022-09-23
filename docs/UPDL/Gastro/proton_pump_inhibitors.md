@@ -1,4 +1,4 @@
-# Gastrointestinal Agents: Proton Pump Inhibitors
+# Proton Pump Inhibitors
 
 ## Length of Authorizations
 

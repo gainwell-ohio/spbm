@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Smoking Deterrents
+# Smoking Deterrents
 
 All products are covered without a PA
 

@@ -1,4 +1,4 @@
-# Respiratory Agents: Inhaled Agents
+# Inhaled Agents
 
 ## Length Of Authorizations
 

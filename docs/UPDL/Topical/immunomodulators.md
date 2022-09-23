@@ -1,4 +1,4 @@
-# Topical Agents: Immunomodulators
+# Immunomodulators
 
 ## Length Of Authorizations
 

@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Fibromyalgia Agents
+# Fibromyalgia Agents
 
 ## Length Of Authorizations
 

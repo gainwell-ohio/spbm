@@ -1,4 +1,4 @@
-# Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants
+# Oral Anticoagulants
 
 ## Indication And Length of Authorization
 

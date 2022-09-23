@@ -1,4 +1,4 @@
-# Endocrine Agents - Growth Hormone
+# Growth Hormone
 
 ## Length of Authorizations
 

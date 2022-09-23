@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction
+# Medication Assisted Treatment of Opioid Addiction
 
 ## Length of Authorizations
 

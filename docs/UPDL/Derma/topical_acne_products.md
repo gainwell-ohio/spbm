@@ -1,4 +1,4 @@
-# Dermatological: Topical Acne Products
+# Topical Acne Products
 
 ## Length of Authorizations
 

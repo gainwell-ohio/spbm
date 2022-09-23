@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate
+# Sedative-Hypnotics, Non-Barbiturate
 
 ## Length of Authorizations
 

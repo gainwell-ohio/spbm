@@ -1,4 +1,4 @@
-# Analgesic Agents: Opioids
+# Opioids
 
 **Ohio law requires prescribers to request and review an OARRS report before initially prescribing or personally furnishing any controlled substance, such as an opioid analgesic or a benzodiazepine, and gabapentin**
 
@@ -6,9 +6,7 @@
 
 For the course of therapy, up to 180 days
 
-## All Authorizations
-
-Must be prescribed in accordance with FDA approved labeling
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
 ## Non-Preferred Criteria
 
@@ -18,7 +16,8 @@ Must be prescribed in accordance with FDA approved labeling
     -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Additional SHORT-ACTING Opioids Criteria for New Starts
+## Additional Criteria
+### Additional SHORT-ACTING Opioids Criteria for New Starts
 
 -   The system defines a “new start” as having no opioid claims in the previous 90 days
 -   **Initial short-acting requests** can be authorized up to 90 days
@@ -30,7 +29,7 @@ Must be prescribed in accordance with FDA approved labeling
         -   Patients receiving short-acting opioids for active cancer treatment, palliative care, and end-of-life/hospice care, sickle cell, severe burn, traumatic crushing of tissue, amputation, major orthopedic surgery
         -   Prescriber attestation that patient is not opioid naïve (i.e., new to Medicaid or was on higher dose in hospital)
 
-## Additional LONG-ACTING Opioids Criteria
+### Additional LONG-ACTING Opioids Criteria
 
 -   **Initial long-acting requests** can be authorized up to 90 days
     -   Documentation of the following must be provided:
@@ -51,7 +50,7 @@ Must be prescribed in accordance with FDA approved labeling
         -   Prescriber attestation that dose escalation is likely to result in improved function and pain control
         -   Requests for a daily dose \>100 MED must be prescribed by pain specialist or anesthesiologist consultation
 
-## Additional Transmucosal Fentanyl Criteria
+### Additional Transmucosal Fentanyl Criteria
 
 -   Must be prescribed by an oncologist, pain specialist, or hospice/palliative prescriber
 -   Must be concurrently taking a long-acting opioid at a therapeutic dose of any of the following for at least **7 days** without adequate pain relief:

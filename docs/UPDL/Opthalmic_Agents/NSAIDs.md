@@ -1,4 +1,4 @@
-# Ophthalmic Agents: NSAIDs
+# NSAIDs
 
 ## Authorizations
 

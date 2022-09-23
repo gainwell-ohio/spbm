@@ -1,4 +1,4 @@
-# Respiratory Agents: Other Agents
+# Other Agents
 
 ## Length Of Authorizations
 

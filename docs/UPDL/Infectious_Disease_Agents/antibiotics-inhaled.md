@@ -1,4 +1,4 @@
-# Infectious Disease Agents: Antibiotics – Inhaled
+# Antibiotics – Inhaled
 
 ## Length Of Authorizations
 

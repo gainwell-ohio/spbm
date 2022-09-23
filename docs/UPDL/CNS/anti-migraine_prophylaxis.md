@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis
+# Anti-Migraine Agents, Prophylaxis
 
 ## Length Of Authorizations
 

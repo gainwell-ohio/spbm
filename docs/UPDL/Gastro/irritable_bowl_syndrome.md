@@ -1,4 +1,4 @@
-# Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea
+# Irritable Bowel Syndrome (IBS) with Diarrhea
 
 ## Length Of Authorizations
 

@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Parkinson's Agents
+# Parkinson's Agents
 
 ## Length of Authorizations
 

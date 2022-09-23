@@ -1,4 +1,4 @@
-# Endocrine Agents: Osteoporosis – Bone Ossification Enhancers
+# Osteoporosis – Bone Ossification Enhancers
 
 ## Length of Authorizations
 

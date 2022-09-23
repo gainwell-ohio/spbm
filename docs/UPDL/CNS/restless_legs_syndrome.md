@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Restless Legs Syndrome
+# Restless Legs Syndrome
 
 ## Length Of Authorizations
 

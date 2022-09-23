@@ -1,4 +1,4 @@
-# Respiratory Agents: Epinephrine Auto-Injectors
+# Epinephrine Auto-Injectors
 
 ## Length Of Authorizations
 

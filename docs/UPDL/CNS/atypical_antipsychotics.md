@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Atypical Antipsychotics\*
+# Atypical Antipsychotics\*
 
 ## Length of Authorizations
 

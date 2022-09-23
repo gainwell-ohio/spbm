@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Neuropathic Pain
+# Neuropathic Pain
 
 ## Length Of Authorizations
 

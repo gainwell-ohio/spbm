@@ -1,4 +1,4 @@
-# Cardiovascular Agents: Pulmonary Arterial Hypertension\*
+# Pulmonary Arterial Hypertension\*
 
 ## Length of Authorizations
 

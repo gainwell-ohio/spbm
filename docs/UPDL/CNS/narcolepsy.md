@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Narcolepsy
+# Narcolepsy
 
 ## Length of Authorizations
 

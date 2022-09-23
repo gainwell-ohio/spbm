@@ -1,4 +1,4 @@
-# Gastrointestinal Agents: Hepatic Encephalopathy
+# Hepatic Encephalopathy
 
 ## Length Of Authorizations
 

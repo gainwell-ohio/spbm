@@ -1,4 +1,4 @@
-# Cardiovascular Agents: Antiarrhythmics
+# Antiarrhythmics
 
 ## Length Of Authorizations
 

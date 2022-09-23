@@ -1,4 +1,4 @@
-# Ophthalmic Agents: Dry Eye Treatments
+# Dry Eye Treatments
 
 ## Authorizations
 

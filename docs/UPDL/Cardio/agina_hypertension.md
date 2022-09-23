@@ -1,4 +1,4 @@
-# Cardiovascular Agents: Angina, Hypertension & Heart Failure
+# Angina, Hypertension & Heart Failure
 
 ## Length of Authorizations
 

@@ -1,4 +1,4 @@
-# Topical Agents: Antifungals
+# Antifungals
 
 ## Length Of Authorizations
 

@@ -1,4 +1,4 @@
-# Infectious Disease Agents: Antivirals – Hepatitis C Agents
+# Antivirals – Hepatitis C Agents
 
 ## Length Of Authorizations
 

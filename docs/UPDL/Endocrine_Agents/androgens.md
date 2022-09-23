@@ -1,4 +1,4 @@
-# Endocrine Agents: Androgens
+# Androgens
 
 ## Authorizations
 

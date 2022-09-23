@@ -1,4 +1,4 @@
-# Infectious Disease Agents: Antibiotics – Quinolones
+# Antibiotics – Quinolones
 
 ## Length Of Authorizations
 

@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache
+# Anti-Migraine Agents, Cluster Headache
 
 ## Length Of Authorizations
 

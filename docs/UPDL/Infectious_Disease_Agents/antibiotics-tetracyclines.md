@@ -1,4 +1,4 @@
-# Infectious Disease Agents: Antibiotics – Tetracyclines
+# Antibiotics – Tetracyclines
 
 ## Length Of Authorizations
 

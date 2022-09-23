@@ -1,4 +1,4 @@
-# Otic Agents: Antibacterial and Antibacterial/Steroid Combinations
+# Antibacterial and Antibacterial/Steroid Combinations
 
 ## Length Of Authorizations
 

@@ -1,4 +1,4 @@
-# Gastrointestinal Agents: Pancreatic Enzymes
+# Pancreatic Enzymes
 
 ## Length Of Authorizations
 

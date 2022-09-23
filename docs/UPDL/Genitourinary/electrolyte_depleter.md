@@ -1,4 +1,4 @@
-# Genitourinary Agents: Electrolyte Depleter Agents
+# Electrolyte Depleter Agents
 
 ## Length Of Authorizations
 

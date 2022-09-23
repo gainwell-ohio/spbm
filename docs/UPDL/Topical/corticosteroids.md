@@ -1,4 +1,4 @@
-# Topical Agents: Corticosteroids
+# Corticosteroids
 
 ## Length Of Authorizations
 

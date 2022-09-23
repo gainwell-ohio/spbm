@@ -1,4 +1,4 @@
-# Analgesic Agents: NSAIDs
+# NSAIDs
 
 ## Length of Authorizations
 

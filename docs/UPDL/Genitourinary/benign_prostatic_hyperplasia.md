@@ -1,4 +1,4 @@
-# Genitourinary Agents: Benign Prostatic Hyperplasia
+# Benign Prostatic Hyperplasia
 
 ## Length of Authorizations
 

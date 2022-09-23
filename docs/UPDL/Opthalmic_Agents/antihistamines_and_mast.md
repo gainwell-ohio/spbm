@@ -1,4 +1,4 @@
-# Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers
+# Antihistamines & Mast Cell Stabilizers
 
 ## Length Of Authorizations
 

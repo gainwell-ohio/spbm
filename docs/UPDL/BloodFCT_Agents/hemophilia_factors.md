@@ -1,4 +1,4 @@
-# Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factors\*
+# Hemophilia Factors\*
 
 ## Length of Authorizations
 

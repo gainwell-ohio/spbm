@@ -1,4 +1,4 @@
-# Endocrine Agents: Diabetes – Hypoglycemia Treatments
+# Hypoglycemia Treatments
 
 ## Length Of Authorizations
 

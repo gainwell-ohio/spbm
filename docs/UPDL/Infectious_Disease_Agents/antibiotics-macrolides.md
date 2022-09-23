@@ -1,4 +1,4 @@
-# Infectious Disease Agents: Antibiotics – Macrolides
+# Antibiotics – Macrolides
 
 ## Length Of Authorizations
 

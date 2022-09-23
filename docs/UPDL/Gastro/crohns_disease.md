@@ -1,4 +1,4 @@
-# Gastrointestinal Agents: Crohn’s Disease
+# Crohn’s Disease
 
 ## Length of Authorizations
 

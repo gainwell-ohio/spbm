@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Movement Disorders
+# Movement Disorders
 
 ## LENGTH OF AUTHORIZATIONS
 

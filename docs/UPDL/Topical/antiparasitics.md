@@ -1,4 +1,4 @@
-# Topical Agents: Antiparasitics
+# Antiparasitics
 
 ## Length Of Authorizations
 

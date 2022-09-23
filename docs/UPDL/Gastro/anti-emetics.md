@@ -1,4 +1,4 @@
-# Gastrointestinal Agents: Anti-Emetics
+# Anti-Emetics
 
 ## Length of Authorizations
 

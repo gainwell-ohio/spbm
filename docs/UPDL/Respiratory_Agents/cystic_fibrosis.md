@@ -1,4 +1,4 @@
-# Respiratory Agents: Cystic Fibrosis
+# Cystic Fibrosis
 
 ## Length Of Authorizations
 

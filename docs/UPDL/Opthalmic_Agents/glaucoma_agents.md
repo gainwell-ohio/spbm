@@ -1,4 +1,4 @@
-# Ophthalmic Agents: Glaucoma Agents
+# Glaucoma Agents
 
 ## Authorizations
 

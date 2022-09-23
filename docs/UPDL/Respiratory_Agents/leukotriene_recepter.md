@@ -1,4 +1,4 @@
-# Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors
+# Leukotriene Receptor Modifiers & Inhibitors
 
 ## Length Of Authorizations
 

@@ -1,4 +1,4 @@
-# Endocrine Agents: Endometriosis
+# Endometriosis
 
 ## Authorizations
 

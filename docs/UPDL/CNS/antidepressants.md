@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Antidepressants\*
+# Antidepressants\*
 
 ## Length of Authorizations
 

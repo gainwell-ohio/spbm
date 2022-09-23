@@ -1,4 +1,4 @@
-# Endocrine Agents: Diabetes – Non-Insulin
+# Diabetes – Non-Insulin
 
 ## Authorizations
 

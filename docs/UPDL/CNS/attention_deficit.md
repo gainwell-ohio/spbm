@@ -1,4 +1,4 @@
-# Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents
+# Attention Deficit Hyperactivity Disorder Agents
 
 ## Length of Authorizations
 

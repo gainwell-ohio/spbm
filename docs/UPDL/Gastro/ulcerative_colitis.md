@@ -1,4 +1,4 @@
-# Gastrointestinal Agents: Ulcerative Colitis
+# Ulcerative Colitis
 
 ## Length Of Authorizations
 

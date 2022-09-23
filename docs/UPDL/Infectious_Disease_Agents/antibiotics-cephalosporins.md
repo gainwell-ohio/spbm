@@ -1,4 +1,4 @@
-# Infectious Disease Agents: Antibiotics – Cephalosporins
+# Antibiotics – Cephalosporins
 
 ## Length Of Authorizations
 

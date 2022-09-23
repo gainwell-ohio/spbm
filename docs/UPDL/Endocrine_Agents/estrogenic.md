@@ -1,4 +1,4 @@
-# Endocrine Agents - Estrogenic Agents
+# Estrogenic Agents
 
 ## Authorizations
 

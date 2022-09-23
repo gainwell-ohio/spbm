@@ -1,4 +1,4 @@
-# Gastrointestinal Agents: Unspecified GI
+# Unspecified GI
 
 ## Length of Authorizations
 

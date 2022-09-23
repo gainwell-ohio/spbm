@@ -1,4 +1,4 @@
-# Ophthalmic Agents: Ophthalmic Steroids
+# Ophthalmic Steroids
 
 ## Length Of Authorizations
 

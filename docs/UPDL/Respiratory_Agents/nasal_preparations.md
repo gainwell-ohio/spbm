@@ -1,4 +1,4 @@
-# Respiratory Agents: Nasal Preparations
+# Nasal Preparations
 
 ## Length Of Authorizations
 

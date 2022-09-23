@@ -1,4 +1,4 @@
-# Infectious Disease Agents: Antifungals
+# Antifungals
 
 ## Length Of Authorizations
 
