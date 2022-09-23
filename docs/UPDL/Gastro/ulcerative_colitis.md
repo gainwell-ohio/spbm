@@ -36,6 +36,8 @@ Gastrointestinal Agents: Ulcerative Colitis
 | Pentasa BvG          |                   |
 | Sulfasalazine        |                   |
 
-### Link to Criteria
+## Links
 
-[Gastrointestinal Agents: Ulcerative Colitis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=64)
+[Criteria]()
+
+[Preferred Drug List]()

@@ -41,6 +41,8 @@ Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute
 |                   | Ubrelvy              |
 |                   | Zolmitriptan         |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=22)
+[Criteria]()
+
+[Preferred Drug List]()

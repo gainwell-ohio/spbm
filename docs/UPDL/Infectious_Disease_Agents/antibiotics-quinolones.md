@@ -32,6 +32,8 @@ Infectious Disease Agents: Antibiotics – Quinolones
 | Levofloxacin          | Moxifloxacin     |
 |                       | Ofloxacin        |
 
-### Link to Criteria
+## Links
 
-[Infectious Disease Agents: Antibiotics - Quinolones](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=73)
+[Criteria]()
+
+[Preferred Drug List]()

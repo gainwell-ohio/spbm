@@ -36,6 +36,8 @@ Infectious Disease Agents: Antivirals – Hepatitis C Agents
 | Sofosbuvir/Velpatasvir PA | Vosevi                              |
 |                           | Zepatier                            |
 
-### Link to Criteria
+## Links
 
-[Infectious Disease Agents: Antivirals - Hepatitis C Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=77)
+[Criteria]()
+
+[Preferred Drug List]()

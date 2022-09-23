@@ -147,6 +147,8 @@ Cardiovascular Agents: Angina, Hypertension and Heart Failure
 | Verapamil                                 |                                 |
 | Verapamil SR                              |                                 |
 
-### Link to Criteria
+## Links
 
-[Cardiovascular Agents: Angina, Hypertension & Heart Failure](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=15)
+[Criteria]()
+
+[Preferred Drug List]()

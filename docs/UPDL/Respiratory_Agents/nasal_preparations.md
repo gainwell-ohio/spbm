@@ -27,6 +27,8 @@ Respiratory Agents: Nasal Preparations
 |                                  | Xhance                       |
 |                                  | Zetonna                      |
 
-### Link to Criteria
+## Links
 
-[Respiratory Agents: Nasal Preparations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=95)
+[Criteria]()
+
+[Preferred Drug List]()

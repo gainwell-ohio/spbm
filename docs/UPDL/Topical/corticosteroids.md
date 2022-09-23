@@ -43,6 +43,8 @@ Topical Agents: Corticosteroids
 |                                      | Impeklo                                       |
 |                                      | Pandel                                        |
 
-### Link to Criteria
+## Links
 
-[Topical Agents: Corticosteroids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=99)
+[Criteria]()
+
+[Preferred Drug List]()

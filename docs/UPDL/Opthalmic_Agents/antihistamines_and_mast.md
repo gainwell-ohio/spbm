@@ -24,6 +24,8 @@ Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers
 | Olopatadine | Epinastine    |
 |             | Zerviate      |
 
-### Link to Criteria
+## Links
 
-[Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=82)
+[Criteria]()
+
+[Preferred Drug List]()

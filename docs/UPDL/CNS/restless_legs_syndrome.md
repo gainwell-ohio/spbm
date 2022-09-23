@@ -25,6 +25,8 @@ Central Nervous System (CNS) Agents: Restless Legs Syndrome
 | Pramipexole | Horizant      |
 | Ropinirole  | Neupro        |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Restless Legs Syndrome](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=41)
+[Criteria]()
+
+[Preferred Drug List]()

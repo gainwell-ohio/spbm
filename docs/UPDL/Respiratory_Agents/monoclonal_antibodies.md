@@ -34,6 +34,8 @@ Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE
 | Nucala PA  | Tezspire      |
 | Xolair PA  |               |
 
-### Link to Criteria
+## Links
 
-[Respiratory Agents: Monoclonal Antibodies - Anti-IL/Anti-IgE](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=93)
+[Criteria]()
+
+[Preferred Drug List]()

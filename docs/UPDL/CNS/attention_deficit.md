@@ -52,6 +52,8 @@ Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Ag
 | Ritalin LA                                                            |                                                       |
 | Vyvanse Cap                                                           |                                                       |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=32)
+[Criteria]()
+
+[Preferred Drug List]()

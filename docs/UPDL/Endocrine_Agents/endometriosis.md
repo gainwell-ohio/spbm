@@ -33,6 +33,8 @@ Endocrine Agents: Endometriosis
 | Orilissa ST                   |               |
 | Zoladex ST                    |               |
 
-### Link to Criteria
+## Links
 
-[Endocrine Agents: Endometriosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=50)
+[Criteria]()
+
+[Preferred Drug List]()

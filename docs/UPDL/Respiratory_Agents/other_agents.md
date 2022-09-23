@@ -16,6 +16,8 @@ Respiratory Agents: Other Agents
 | :-------- | ------------: |
 |           | Daliresp      |
 
-### Link to Criteria
+## Links
 
-[Respiratory Agents: Other Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=96)
+[Criteria]()
+
+[Preferred Drug List]()

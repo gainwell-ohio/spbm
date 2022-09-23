@@ -92,6 +92,8 @@ Cardiovascular Agents: Lipotropics
 | Rosuvastatin                 | Vascepa                                                |
 | Simvastatin                  | Zypitamag                                              |
 
-### Link to Criteria
+## Links
 
-[Cardiovascular Agents: Lipotropics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=18)
+[Criteria]()
+
+[Preferred Drug List]()

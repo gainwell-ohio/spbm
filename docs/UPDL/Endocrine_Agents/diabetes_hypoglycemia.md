@@ -33,6 +33,8 @@ Endocrine Agents: Diabetes – Hypoglycemia Treatments
 | Gvoke PFS QL                          |                                               |
 | Zegalogue QL                          |                                               |
 
-### Link to Criteria
+## Links
 
-[Endocrine Agents: Diabetes - Hypoglycemia Treatments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=47)
+[Criteria]()
+
+[Preferred Drug List]()

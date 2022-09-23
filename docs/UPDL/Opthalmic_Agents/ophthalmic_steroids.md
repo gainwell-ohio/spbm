@@ -27,6 +27,8 @@ Ophthalmic Agents: Ophthalmic Steroids
 | Prednisolone Acetate           | Loteprednol   |
 | Prednisolone Sodium Phosphate  | Maxidex       |
 
-### Link to Criteria
+## Links
 
-[Ophthalmic Agents: Ophthalmic Steroids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=80)
+[Criteria]()
+
+[Preferred Drug List]()

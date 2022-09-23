@@ -37,6 +37,8 @@ Respiratory Agents: Hereditary Angioedema
 | Takhzyro PA | Icatibant Acetate |
 |             | Kalbitor          |
 
-### Link to Criteria
+## Links
 
-[Respiratory Agents: Hereditary Angioedema](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=90)
+[Criteria]()
+
+[Preferred Drug List]()

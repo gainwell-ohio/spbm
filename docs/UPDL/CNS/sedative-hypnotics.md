@@ -29,6 +29,8 @@ Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate
 |                    | Temazepam 7.5, 22mg |
 |                    | Zolpidem ER and SL  |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Sedative Hypnotics, Non Barbiturate](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=42)
+[Criteria]()
+
+[Preferred Drug List]()

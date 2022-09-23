@@ -53,6 +53,8 @@ Analgesic Agents: NSAIDS
 | Piroxicam         |                                    |
 | Sulindac          |                                    |
 
-### Link to Criteria
+## Links
 
-[Analgesic Agents: NSAIDS](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=5)
+[Criteria]()
+
+[Preferred Drug List]()

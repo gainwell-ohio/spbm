@@ -36,6 +36,8 @@ Cardiovascular Agents: Pulmonary Arterial Hypertension
 |                       | Uptravi       |
 |                       | Ventavis      |
 
-### Link to Criteria
+## Links
 
-[Cardiovascular Agents: Pulmonary Arterial Hypertension](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=20)
+[Criteria]()
+
+[Preferred Drug List]()

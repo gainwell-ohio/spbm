@@ -34,6 +34,8 @@ Infectious Disease Agents: Antifungals
 |              | Tolsura       |
 |              | Voriconazole  |
 
-### Link to Criteria
+## Links
 
-[Infectious Disease Agents: Antifungals](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=76)
+[Criteria]()
+
+[Preferred Drug List]()

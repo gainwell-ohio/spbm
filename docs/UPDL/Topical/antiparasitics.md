@@ -41,6 +41,8 @@ Topical Agents: Antiparasitics
 | Piperonyl Butoxide/Pyrethrins | Sklice        |
 |                               | Spinosad      |
 
-### Link to Criteria
+## Links
 
-[Topical Agents: Antiparasitics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=98)
+[Criteria]()
+
+[Preferred Drug List]()

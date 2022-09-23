@@ -36,6 +36,8 @@ Central Nervous System (CNS) Agents: Multiple Sclerosis
 |                   | Vumerity      |
 |                   | Zeposia       |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Multiple Sclerosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=37)
+[Criteria]()
+
+[Preferred Drug List]()

@@ -36,6 +36,8 @@ Endocrine Agents: Osteoporosis – Bone Ossification Enhancers
 | Forteo            | Risedronate      |
 | Ibandronate       | Tymlos           |
 
-### Link to Criteria
+## Links
 
-[Endocrine Agents: Osteoporosis - Bone Ossification Enhancers](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=56)
+[Criteria]()
+
+[Preferred Drug List]()

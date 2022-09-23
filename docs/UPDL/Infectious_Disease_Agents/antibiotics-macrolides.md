@@ -26,6 +26,8 @@ Infectious Disease Agents: Antibiotics – Macrolides
 | Clarithromycin | Erythrocin Stearate |
 |                | Erythromycin        |
 
-### Link to Criteria
+## Links
 
-[Infectious Disease Agents: Antibiotics - Macrolides](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=72)
+[Criteria]()
+
+[Preferred Drug List]()

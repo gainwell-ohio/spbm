@@ -21,6 +21,8 @@ Infectious Disease Agents: Antivirals – Herpes
 | Acyclovir    | Famciclovir   |
 | Valacyclovir | Sitavig       |
 
-### Link to Criteria
+## Links
 
-[Infectious Disease Agents: Antivirals - Herpes](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=78)
+[Criteria]()
+
+[Preferred Drug List]()

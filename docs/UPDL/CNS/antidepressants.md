@@ -57,6 +57,8 @@ Central Nervous System (CNS) Agents: Antidepressants
 |                                         | Venlafaxine ER Tab                   |
 |                                         | Viibryd BvG                          |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Antidepressants](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=29)
+[Criteria]()
+
+[Preferred Drug List]()

@@ -49,6 +49,8 @@ Gastrointestinal Agents: Proton Pump Inhibitors
 |                     | Protonix Susp AR              |
 |                     | Rabeprazole                   |
 
-### Link to Criteria
+## Links
 
-[Gastrointestinal Agents: Proton Pump Inhibitors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=63)
+[Criteria]()
+
+[Preferred Drug List]()

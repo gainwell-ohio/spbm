@@ -37,6 +37,8 @@ Topical Agents: Immunomodulators
 | Protopic AR ST   | Opzelura      |
 |                  | Pimecrolimus  |
 
-### Link to Criteria
+## Links
 
-[Topical Agents: Immunomodulators](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=100)
+[Criteria]()
+
+[Preferred Drug List]()

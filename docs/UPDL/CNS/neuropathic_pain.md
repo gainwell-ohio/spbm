@@ -35,6 +35,8 @@ Central Nervous System (CNS) Agents: Neuropathic Pain
 | Oxcarbazepine                      |               |
 | Pregabalin                         |               |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Neuropathic Pain](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=39)
+[Criteria]()
+
+[Preferred Drug List]()

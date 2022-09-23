@@ -62,6 +62,8 @@ Dermatological: Topical Acne Products
 |                                       | Twyneo AR                       |
 |                                       | Winlevi                         |
 
-### Link to Criteria
+## Links
 
-[Dermatological: Topical Acne Products](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=45)
+[Criteria]()
+
+[Preferred Drug List]()

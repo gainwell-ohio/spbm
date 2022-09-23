@@ -25,6 +25,8 @@ Endocrine Agents: Uterine Fibroids
 | Lupron Depot PA 3.75, 11.25mg | Myfembree     |
 | Oriahnn PA                    |               |
 
-### Link to Criteria
+## Links
 
-[Endocrine Agents: Uterine Fibroids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=57)
+[Criteria]()
+
+[Preferred Drug List]()

@@ -54,6 +54,8 @@ Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis
 | CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors | |
 | CNS Agents: Tricyclic Antidepressants |            |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=24)
+[Criteria]()
+
+[Preferred Drug List]()

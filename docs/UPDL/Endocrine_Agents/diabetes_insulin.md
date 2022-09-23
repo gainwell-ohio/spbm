@@ -43,6 +43,8 @@ Endocrine Agents: Diabetes – Insulin
 | Toujeo                                  |                  |
 | Tresiba ST                              |                  |
 
-### Link to Criteria
+## Links
 
-[Endocrine Agents: Diabetes - Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=48)
+[Criteria]()
+
+[Preferred Drug List]()

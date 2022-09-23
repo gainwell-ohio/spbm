@@ -41,6 +41,8 @@ Blood Agents: Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic
 | Mircera PA  | Procrit       |
 | Retacrit PA |               |
 
-### Link to Criteria
+## Links
 
-[Blood Agents: Blood Formation, Coagulation, And Thrombosis Agents: Hematopoietic Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=9)
+[Criteria]()
+
+[Preferred Drug List]()

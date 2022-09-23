@@ -99,6 +99,8 @@ Central Nervous System (CNS) Agents: Anticonvulsants
 | Vimpat BvG ST        | Xcopri                     |
 | Zonisamide           |                            |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Anticonvulsants](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=26)
+[Criteria]()
+
+[Preferred Drug List]()

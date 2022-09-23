@@ -29,6 +29,8 @@ Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea
 | Loperamide             | Viberzi       |
 | Xifaxan ST             |               |
 
-### Link to Criteria
+## Links
 
-[Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=61)
+[Criteria]()
+
+[Preferred Drug List]()

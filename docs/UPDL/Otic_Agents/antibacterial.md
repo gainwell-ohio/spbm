@@ -30,6 +30,8 @@ Otic Agents: Antibacterial and Antibacterial/Steroid Combinations
 | Neomycin/Polymyxin B/Hydrocortisone |                             |
 | Ofloxacin                           |                             |
 
-### Link to Criteria
+## Links
 
-[Otic Agents: Antibacterial and Antibacterial/Steroid Combinations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=86)
+[Criteria]()
+
+[Preferred Drug List]()

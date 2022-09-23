@@ -66,6 +66,8 @@ Must be prescribed in accordance with FDA approved labeling
 |               | Tremfya         |
 |               | Xeljanz Sol, XR |
 
-### Link to Criteria
+## Links
 
-[Immunomodulator Agents for Systemic Inflammatory Disease](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=69)
+[Criteria]()
+
+[Preferred Drug List]()

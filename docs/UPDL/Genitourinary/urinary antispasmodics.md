@@ -32,6 +32,8 @@ Genitourinary Agents: Urinary Antispasmodics
 | Toviaz BvG        | Trospium              |
 |                   | Vesicare LS AR        |
 
-### Link to Criteria
+## Links
 
-[Genitourinary Agents: Urinary Antispasmodics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=68)
+[Criteria]()
+
+[Preferred Drug List]()

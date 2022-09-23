@@ -13,6 +13,8 @@ Central Nervous System (CNS) Agents: Smoking Deterrents
 | Chantix     | |
 | Varenicline | |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Smoking Deterrents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=44)
+[Criteria]()
+
+[Preferred Drug List]()

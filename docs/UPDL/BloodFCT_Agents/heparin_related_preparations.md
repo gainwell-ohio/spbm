@@ -33,6 +33,8 @@ Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparation
 | Enoxaparin | Fondaparinux |
 |            | Fragmin      |
 
-### Link to Criteria
+## Links
 
-[Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=12)
+[Criteria]()
+
+[Preferred Drug List]()

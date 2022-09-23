@@ -26,6 +26,8 @@ Gastrointestinal Agents: Crohn’s Disease
 | Methotrexate      |               |
 | Sulfasalazine     |               |
 
-### Link to Criteria
+## Links
 
-[Gastrointestinal Agents: Crohn’s Disease](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=59)
+[Criteria]()
+
+[Preferred Drug List]()

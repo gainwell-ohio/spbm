@@ -83,6 +83,8 @@ Endocrine Agents: Growth Hormone
 |                | Skytrofa      |
 |                | Zomacton      |
 
-### Link to Criteria
+## Links
 
-[Endocrine Agents: Growth Hormone](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=53)
+[Criteria]()
+
+[Preferred Drug List]()

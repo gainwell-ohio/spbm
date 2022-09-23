@@ -29,6 +29,8 @@ Endocrine Agents: Estrogenic Agents
 | Prempro                                 | Minivelle                       |
 |                                         | Prefest                         |
 
-### Link to Criteria
+## Links
 
-[Endocrine Agents: Estrogenic Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=51)
+[Criteria]()
+
+[Preferred Drug List]()

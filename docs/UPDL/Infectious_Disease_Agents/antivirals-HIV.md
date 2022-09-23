@@ -81,6 +81,8 @@ Infectious Disease Agents: Antivirals – HIV
 | Viread Oral Powder                          |                                                    |
 | Zidovudine                                  |                                                    |
 
-### Link to Criteria
+## Links
 
-[Infectious Disease Agents: Antivirals - HIV](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=79)
+[Criteria]()
+
+[Preferred Drug List]()

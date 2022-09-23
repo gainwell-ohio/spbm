@@ -41,6 +41,8 @@ Endocrine Agents: Androgens
 |                             | Tlando                    |
 |                             | Xyosted                   |
 
-### Link to Criteria
+## Links
 
-[Endocrine Agents: Androgens](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=46)
+[Criteria]()
+
+[Preferred Drug List]()

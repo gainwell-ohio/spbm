@@ -23,6 +23,8 @@ Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants
 | Warfarin    |               |
 | Xarelto     |               |
 
-### Link to Criteria
+## Links
 
-[Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=13)
+[Criteria]()
+
+[Preferred Drug List]()

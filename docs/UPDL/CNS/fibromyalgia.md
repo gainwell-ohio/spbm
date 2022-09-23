@@ -30,6 +30,8 @@ Central Nervous System (CNS) Agents: Fibromyalgia Agents
 |------------|---------------|
 | Pregabalin | Savella       |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Fibromyalgia Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL.pdf#page=33)
+[Criteria]()
+
+[Preferred Drug List]()

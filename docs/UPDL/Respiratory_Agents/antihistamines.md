@@ -32,6 +32,8 @@ Respiratory Agents: Antihistamines – Second Generation
 | Loratadine Tab             |                     |
 | Loratadine/Pseudoephedrine |                     |
 
-### Link to Criteria
+## Links
 
-[Respiratory Agents: Antihistamines - Second Generation](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=87)
+[Criteria]()
+
+[Preferred Drug List]()

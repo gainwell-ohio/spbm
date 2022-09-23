@@ -52,6 +52,8 @@ Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factor\*
 | Wilate PA       |               |
 | Xyntha PA       |               |
 
-### Link to Criteria
+## Links
 
-[Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=11)
+[Criteria]()
+
+[Preferred Drug List]()

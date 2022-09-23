@@ -41,6 +41,8 @@ Ophthalmic Agents: Glaucoma Agents
 | Timolol              |                   |
 | Travatan Z BvG ST    |                   |
 
-### Link to Criteria
+## Links
 
-[Ophthalmic Agents: Glaucoma Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=84)
+[Criteria]()
+
+[Preferred Drug List]()

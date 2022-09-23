@@ -34,6 +34,8 @@ Ophthalmic Agents: NSAIDs
 |              | Nevanac       |
 |              | Prolensa      |
 
-### Link to Criteria
+## Links
 
-[Ophthalmic Agents: NSAIDs](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=85)
+[Criteria]()
+
+[Preferred Drug List]()

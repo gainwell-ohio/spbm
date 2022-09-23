@@ -27,6 +27,8 @@ Cardiovascular Agents: Antiarrhythmics
 | Propafenone, ER  |                            |
 | Quinidine, ER    |                            |
 
-### Link to Criteria
+## Links
 
-[Cardiovascular Agents: Antiarrhythmics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=17)
+[Criteria]()
+
+[Preferred Drug List]()

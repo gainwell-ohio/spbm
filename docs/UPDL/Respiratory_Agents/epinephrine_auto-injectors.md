@@ -23,6 +23,8 @@ Respiratory Agents: Epinephrine Auto-Injectors
 | Epinephrine (labeler 49502) | Epipen        |
 | Symjepi                     | Epipen JR     |
 
-### Link to Criteria
+## Links
 
-[Respiratory Agents: Epinephrine Auto-Injectors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=89)
+[Criteria]()
+
+[Preferred Drug List]()

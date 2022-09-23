@@ -32,6 +32,8 @@ Central Nervous System (CNS) Agents: Alzheimer’s Agents
 | Memantine Tab           | Rivastigmine Patch |
 | Rivastigmine Cap        |                    |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Alzheimer’s Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=21)
+[Criteria]()
+
+[Preferred Drug List]()

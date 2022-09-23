@@ -31,6 +31,8 @@ Genitourinary Agents: Electrolyte Depleter Agents
 | Phoslyra           | Velphoro            |
 | Sevelamer          |                     |
 
-### Link to Criteria
+## Links
 
-[Genitourinary Agents: Electrolyte Depleter Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=67)
+[Criteria]()
+
+[Preferred Drug List]()

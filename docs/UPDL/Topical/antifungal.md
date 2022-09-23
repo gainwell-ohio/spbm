@@ -31,6 +31,8 @@ Topical Agents: Antifungals
 | Terbinafine                | Tavaborole                                  |
 | Tolnaftate                 |                                             |
 
-### Link to Criteria
+## Links
 
-[Topical Agents: Antifungals](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=97)
+[Criteria]()
+
+[Preferred Drug List]()

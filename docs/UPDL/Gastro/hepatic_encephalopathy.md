@@ -28,6 +28,8 @@ Gastrointestinal Agents: Hepatic Encephalopathy
 | Lactulose  |               |
 | Xifaxan ST |               |
 
-### Link to Criteria
+## Links
 
-[Gastrointestinal Agents: Hepatic Encephalopathy](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=60)
+[Criteria]()
+
+[Preferred Drug List]()

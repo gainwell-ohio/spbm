@@ -37,6 +37,8 @@ Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointm
 | Tobradex BvG                                 |                                   |
 | Tobramycin                                   |                                   |
 
-### Link to Criteria
+## Links
 
-[Ophthalmic Agents: Antibiotic and Antibiotic - Steroid Combination Drops and Ointments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=81)
+[Criteria]()
+
+[Preferred Drug List]()

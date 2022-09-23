@@ -62,6 +62,8 @@ Respiratory Agents: Inhaled Agents
 |                                                 | Xopenex HFA                |
 |                                                 | Yupelri                    |
 
-### Link to Criteria
+## Links
 
-[Respiratory Agents: Inhaled Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=91)
+[Criteria]()
+
+[Preferred Drug List]()

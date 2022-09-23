@@ -22,6 +22,8 @@ Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors
 | Montelukast    | Zileuton      |
 | Zafirlukast ST | Zyflo         |
 
-### Link to Criteria
+## Links
 
-[Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=92)
+[Criteria]()
+
+[Preferred Drug List]()

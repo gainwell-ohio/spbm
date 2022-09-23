@@ -98,6 +98,8 @@ Central Nervous System (CNS) Agents: Atypical Antipsychotics
 | Saphris BvG ST       |                       |
 | Ziprasidone          |                       |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Atypical Antipsychotics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=30)
+[Criteria]()
+
+[Preferred Drug List]()

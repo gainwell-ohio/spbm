@@ -55,6 +55,8 @@ Respiratory Agents: Cystic Fibrosis
 | Symdeko PA  |               |
 | Trikafta PA |               |
 
-### Link to Criteria
+## Links
 
-[Respiratory Agents: Cystic Fibrosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=88)
+[Criteria]()
+
+[Preferred Drug List]()

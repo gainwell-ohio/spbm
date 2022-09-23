@@ -26,6 +26,8 @@ Ophthalmic Agents: Dry Eye Treatments
 |                       | Tyrvaya             |
 |                       | Xiidra              |
 
-### Link to Criteria
+## Links
 
-[Ophthalmic Agents: Dry Eye Treatments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=83)
+[Criteria]()
+
+[Preferred Drug List]()

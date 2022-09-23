@@ -24,6 +24,8 @@ Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet
 | Clopidogrel             |               |
 | Prasugrel               |               |
 
-### Link to Criteria
+## Links
 
-[Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=14)
+[Criteria]()
+
+[Preferred Drug List]()

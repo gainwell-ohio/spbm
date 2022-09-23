@@ -28,6 +28,8 @@ Gastrointestinal Agents: Pancreatic Enzymes
 | Zenpep    | Pertzye       |
 |           | Viokace       |
 
-### Link to Criteria
+## Links
 
-[Gastrointestinal Agents: Pancreatic Enzymes](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=62)
+[Criteria]()
+
+[Preferred Drug List]()

@@ -38,6 +38,8 @@ Central Nervous System (CNS) Agents: Movement Disorders
 | Ingrezza PA      | |
 | Tetrabenazine PA | |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Movement Disorders](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=36)
+[Criteria]()
+
+[Preferred Drug List]()

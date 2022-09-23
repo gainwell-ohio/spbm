@@ -43,6 +43,8 @@ Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache
 | :---| ---: |
 | Verapamil | Emgality |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=23)
+[Criteria]()
+
+[Preferred Drug List]()

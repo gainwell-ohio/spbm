@@ -61,6 +61,8 @@ Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Add
 | Vivitrol               |               |
 | Zubsolv                |               |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=34)
+[Criteria]()
+
+[Preferred Drug List]()

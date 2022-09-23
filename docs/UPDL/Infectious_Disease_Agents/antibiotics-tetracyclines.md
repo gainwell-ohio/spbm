@@ -52,6 +52,8 @@ Infectious Disease Agents: Antibiotics – Tetracyclines
 | Tetracycline          | Minocycline Tab               |
 | Vibramycin Susp AR    | Nuzyra                        |
 
-### Link to Criteria
+## Links
 
-[Infectious Disease Agents: Antibiotics - Tetracyclines](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=75)
+[Criteria]()
+
+[Preferred Drug List]()

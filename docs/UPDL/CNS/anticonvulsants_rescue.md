@@ -29,6 +29,8 @@ Central Nervous System (CNS) Agents: Anticonvulsants Rescue
 | Nayzilam AR  |               |
 | Valtoco AR   |               |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Anticonvulsants Rescue](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=28)
+[Criteria]()
+
+[Preferred Drug List]()

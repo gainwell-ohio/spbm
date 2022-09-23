@@ -61,12 +61,6 @@ Analgesic Agents: Gout
 
 ## Links
 
-### Analgesic Agents: Gout
-
-[Criteria for Analgesic Agents: Gout](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=6)
-
-[Preferred Drug List for Analgesic Agents: Gout]()
-
 [Criteria]()
 
 [Preferred Drug List]()

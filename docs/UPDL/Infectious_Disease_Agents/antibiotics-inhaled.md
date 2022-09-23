@@ -48,6 +48,8 @@ Infectious Disease Agents: Antibiotics – Inhaled
 |                  | Kitabis Pak AR   |
 |                  | Tobi Podhaler AR |
 
-### Link to Criteria
+## Links
 
-[Infectious Disease Agents: Antibiotics - Inhaled](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=74)
+[Criteria]()
+
+[Preferred Drug List]()

@@ -44,6 +44,8 @@ Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepi
 |                            | Orphenadrine               |
 |                            | Tizanidine Cap             |
 
-### Link to Criteria
+## Links
 
-[Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=43)
+[Criteria]()
+
+[Preferred Drug List]()
