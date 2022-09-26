@@ -1,6 +1,6 @@
 # Oral Acne Products
 
-## Prior Authorization Criteria
+## Length of Authorizations
 
 150 days
 
@@ -12,6 +12,7 @@
   - History of unacceptable/toxic side effects to medications not requiring prior approval
 
 ## Additional Prior Authorization Criteria
+
 - Prescribed in accordance with its FDA approved labeling AND
 - Patient must be registered and meet all of the requirements of the iPLEDGE program AND
 - Patient must have had at least a 30-day trial and failure with at least 1 topical and 1 oral FDA-approved anti-acne product AND

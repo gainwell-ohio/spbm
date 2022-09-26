@@ -1,8 +1,8 @@
-# Atypical Antipsychotics\*
+# Atypical Antipsychotics
 
 ## Length of Authorizations
 
-## Grandfathering\*
+## Grandfathering
 
 Patients who have a claim for a non-preferred drug, or drug requiring step therapy, in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug in the previously but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
 

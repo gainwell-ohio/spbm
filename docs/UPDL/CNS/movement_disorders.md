@@ -1,10 +1,10 @@
 # Movement Disorders
 
-## LENGTH OF AUTHORIZATIONS
+## Length of Authorizations
 
 365 Days
 
-## PRIOR AUTHORIZATION CRITERIA
+## Prior Authorization Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval?
 
@@ -16,13 +16,13 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## ADDITIONAL CRITERIA FOR THE TREATMENT OF TARDIVE DYSKINESIA
+## Additional Criteria for the Treatment of Tardive Dyskinesia
 
 - Prescribed by a Neurologist or Psychiatrist
 
 - Ingrezza is ONLY indicated for the treatment of Tardive Dyskinesia
 
-## ADDITIONAL CRITERIA FOR AUSTEDO FOR THE TREATMENT OF HUNTINGTON’S DISEASE
+## Additional Criteria For Austedo for the Treatment of Huntington's Disease
 
 - The patient must have a failure to respond to maximally tolerated dose of tetrabenazine
 
