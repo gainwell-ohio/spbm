@@ -1,4 +1,4 @@
-# Unified Preferred Drug List
+# Index
 
 Medicaid Fee-for-Service and Managed Care Plans
 

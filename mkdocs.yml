@@ -4,7 +4,7 @@ repo_url: https://dev.azure.com/Gainwell-RPA/RPA/_git/Documentation
 repo_name: Ohio SPBM Docs
 edit_uri: "?path=/docs"
 theme:
-  name: mkdocs
+  name: material
   logo: img/favicon.ico
   icon:
     repo: material/microsoft-azure-devops
@@ -25,5 +25,10 @@ theme:
     # - navigation.tabs
     - navigation.prune
     - search.highlighting
+markdown_extensions:
+    - toc:
+        permalink: True
+        separator: "_"
+        toc_depth: 3
 #extra_css:
   #- stylesheets/extra.css
