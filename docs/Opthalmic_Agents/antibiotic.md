@@ -1,6 +1,6 @@
 # Antibiotic and Antibiotic-Steroid Combination Drops and Ointments
 
-## Length Of Authorizations
+## Length of Authorizations
 
 For the date of service only; no refills for acute infection. Refills for up to 14 days may be authorized for quinolones only for patients undergoing surgery.
 

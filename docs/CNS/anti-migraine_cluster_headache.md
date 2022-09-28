@@ -1,6 +1,6 @@
 # Anti-Migraine Agents, Cluster Headache
 
-## Length Of Authorizations
+## Length of Authorizations
 
 180 Days
 
@@ -14,7 +14,10 @@
   - Contraindication to all preferred medications
   - History of unacceptable/toxic side effects to at least one preferred medication
 
-## Additional Criteria For Episodic Cluster Headache
+## Additional Criteria
+### Episodic Cluster Headache
+
+Additional Criteria for Episodic Cluster Headache
 
 1. At least 5 attacks within 30 days
 2. Attacks characterized by severe or very severe unilateral orbital, supraorbital and/or temporal pain lasting 15 to 180 minutes when untreated; during part (but less than half) of the timecourse of cluster headache, attacks may be less severe and/or of shorter or longer duration

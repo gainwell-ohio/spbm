@@ -1,10 +1,10 @@
-# Anticonvulsants\*
+# Anticonvulsants
 
-## Length Of Authorizations
+## Length of Authorizations
 
 365 Days
 
-## Grandfathering\*
+## Grandfathering
 
 Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug, but do not have claims history (e.g. new to Medicaid), will be approved for PA after prescriber contact.
 
@@ -18,19 +18,24 @@ Patients who have a claim for a non-preferred drug in the previous 120 days will
     -   Contraindication to or drug interaction with **two preferred** medications
     -   History of unacceptable/toxic side effects to **two preferred** medications
 
-## Step Therapy
+## Additional Criteria
+
+### Step Therapy
 
 all agents listed
 
 1.  For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30** days of at least **one preferred** product.
 
-## Non-Preferred Medication
+### Non-Preferred
 
 -   For a non-preferred medication, there has been a therapeutic failure to no less than **two preferred** products for a **30-day** trial each. Prescriptions submitted with the prescriber NPI of a physician who has registered as a neurology specialty with Ohio Medicaid AND for products that are used only for seizures, require a trial of **one preferred** product for **30 days**. This provision applies only to the standard tablet/capsule dosage form and does not apply to brand products with available generic alternatives.
 
-## Additional Criteria for Epidiolex
 
-## Length Of Authorizations
+### Epidiolex
+
+Additional Criteria for Epidiolex
+
+#### Length Of Authorizations
 
 Initial Authorization 180 days
 
@@ -44,9 +49,10 @@ Subsequent Authorizations 365 days
 
 Epidiolex excluded from Grandfathering. Re-authorization requires documented reduction in average number of seizure days per month (measured monthly or quarterly).
 
-## Additional Criteria for Diacomit
+### Diacomit
 
-## Length Of Authorizations
+Additional Criteria for Diacomit
+#### Length Of Authorizations
 
 Initial Authorization 180 days
 

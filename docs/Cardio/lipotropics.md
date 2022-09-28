@@ -15,16 +15,24 @@
     -   Contraindication to or drug-to-drug interaction with medications not requiring prior approval (pravastatin is the **only** HMG-CoA not metabolized by the cytochrome P450 liver enzyme system)
     -   History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## Additional Prior Authorization Criteria
+## Additional Criteria
+
+### Prior Authorization
+
+Additional Prior Authorization Criteria
 
 -   If there has been a 30-day trial with no less than **two** of preferred HMG-CoA products, then a nonpreferred HMG-CoA agent can be approved.
 
-## Additional Criteria For Colesevelam (Welchol)
+### Colesevelam (Welchol)
+
+Additional Criteria for Colesevelam (Welchol)
 
 -   Colesevelam may be approved as first-line therapy if there is a diagnosis of diabetes
 -   Will be approved through systematic PA if there is a history of an oral hypoglycemic or insulin in the previous 120 days
 
-## Additional Criteria for PCSK9 Inhibitors
+### PCSK9 Inhibitors
+
+Additional Criteria for PCSK9 Inhibitors
 
 -   For Repatha: Age ≥18 years with ASCVD or Age ≥10 years and Familial Hypercholesterolemia (FH) **OR** for Praluent: Age ≥18 years with ASCVD or FH
 
@@ -45,7 +53,9 @@ Diagnosis of Clinical Atherosclerotic Cardiovascular Disease (ASCVD) **AND** mus
 2.  Unable to reach goal LDL-C (LDL ≤ 70mg/dL) with maximally tolerated dose of statin and ezetimibe (Zetia)
     1.  A trial of 2 or more high potency statins (atorvastatin or rosuvastatin)
 
-## Additional Criteria for Lomitapide (Juxtapid):
+### Lomitapide (Juxtapid)
+
+Additional Criteria for Lomitapide (Juxtapid)
 
 -   Age ≥18 years **AND**
 -   Diagnosis of Homozygous Familal Hypercholesterolemia (HoFH) **AND**
@@ -55,7 +65,9 @@ Baseline lab results are required, and initial approval will be for 180 days.
 
 Subsequent approvals will require additional levels drawn to assess response to treatment from baseline and/or attestation of clinical stabilization and will be for 365 days.
 
-## Additional Criteria for ATP Citrate Lysase (ACL) Inhibitor
+### ATP Citrate Lysase
+
+Additional Criteria for ATP Citrate Lysase (ACL) Inhibitor
 
 All products in this class require clinical prior authorization:
 

@@ -1,6 +1,6 @@
 # Anticonvulsants Rescue
 
-## Length Of Authorizations
+## Length of Authorizations
 
 365 Days
 

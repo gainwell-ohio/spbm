@@ -1,6 +1,6 @@
-# Antibiotics – Quinolones
+# Quinolones
 
-## Length Of Authorizations
+## Length of Authorizations
 
 For the date of service only; no refills
 
@@ -14,7 +14,11 @@ For the date of service only; no refills
     -   Note diagnosis and any culture and sensitivity reports
 3.  If there has been a therapeutic failure to at least a **3-day** trial of at least **one** medication not requiring prior approval, then may approve the requested medication.
 
-**ADDITIONAL INFORMATION TO AID IN THE FINAL DECISION:**
+## Additional Criteria
+
+### Information
+
+Additional Information to Aid in the Final Decision
 
 1.  If the patient is completing a course of therapy with a medication requiring prior approval, which was initiated in the hospital, then may approve the requested medication to complete the course of therapy.
 2.  If the prescriber expresses concern over safety issues of a preferred agent, a non-preferred agent may be approved.

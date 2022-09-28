@@ -1,6 +1,6 @@
 # Diabetes – Insulin
 
-## Authorizations
+## Length of Authorizations
 
 365 Days
 
@@ -14,7 +14,11 @@
 2.  For a medication requiring step therapy, there must have been an inadequate clinical response to at least **one** preferred medication within the same class not requiring prior authorization. A therapeutic failure is the inability to reach A1C goal after at least 120 days of current regimen with documented adherence and appropriate dose escalation.
 3.  The requested non-preferred medication may be approved if there has been a therapeutic failure to at least **two** medications within the same class not requiring prior authorization. A therapeutic failure is the inability to reach A1C goal after at least 120 days of current regimen with documented adherence and appropriate dose escalation.
 
-## Additional Clinical Criteria For Inhaled Insulin
+## Additional Criteria
+
+### Inhaled Insulin
+
+Additional Clinical Criteria for Inhaled Insulin
 
 -   Patient has a claim for a long-acting insulin in the previous 120 days, or patient has type 2 diabetes; and
 -   Patient has not been diagnosed with asthma or COPD; and

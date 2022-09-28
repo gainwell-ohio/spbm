@@ -16,7 +16,7 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## Additional Information
+## Additional Criteria
 
 The requested medication may be approved if the following is true:
 

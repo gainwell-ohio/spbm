@@ -1,6 +1,6 @@
 # Leukotriene Receptor Modifiers & Inhibitors
 
-## Length Of Authorizations
+## Length of Authorizations
 
 365 Days
 

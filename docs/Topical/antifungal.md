@@ -1,6 +1,6 @@
 # Antifungals
 
-## Length Of Authorizations
+## Length of Authorizations
 
 Duration of the prescription (up to 180 days)
 

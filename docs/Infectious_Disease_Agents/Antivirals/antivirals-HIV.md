@@ -1,6 +1,6 @@
-# Antivirals – HIV
+# HIV
 
-## Length Of Authorizations
+## Length of Authorizations
 
 365 Days
 
@@ -8,19 +8,25 @@
 
 Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug previously, but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
 
-## All Authorizations
+**All Authorizations**
 
 Must be prescribed in accordance with FDA approved labeling
 
-## Abacavir/Dolutegravir/Lamivudine (Triumeq PD) Criteria
+## Additional Criteria
+
+### Abacavir/Dolutegravir/Lamivudine
+
+Abacavir/Dolutegravir/Lamivudine (Triumeq PD) Criteria
 
 -   Must provide documentation of patient’s weight (only authorized for those 10 – 25 kg)
 
-## Fostemsavir (Rukobia ER) Criteria
+### Fostemsavir
+
+Fostemsavir (Rukobia ER) Criteria
 
 -   Must provide documentation of a multidrug-resistant HIV-1 infection
 
-## Non-Preferred Criteria
+### Non-Preferred
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -28,11 +34,13 @@ Must be prescribed in accordance with FDA approved labeling
     -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Additional Darunavir/Cobicistat/Emtricitabine/Tenofovir (Symtuza) Criteria
+### Darunavir/Cobicistat/Emtricitabine/Tenofovir
+
+Additional Darunavir/Cobicistat/Emtricitabine/Tenofovir (Symtuza) Criteria
 
 -   Must provide documentation for patient’s inability to use the individual drugs (Prezcobix and Descovy)
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization
 
 -   Must provide information of patient’s clinical response to treatment and ongoing safety monitoring
 

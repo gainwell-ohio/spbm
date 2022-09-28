@@ -1,6 +1,6 @@
 # Antiparasitics
 
-## Length Of Authorizations
+## Length of Authorizations
 
 14 Days
 
@@ -12,14 +12,15 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 -   Contraindication to or drug interaction with medications not requiring prior approval
 -   History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## Additional Information
+## Additional Criteria
+### Information
 
 The requested medication may be approved if the following is true:
 
 -   If there has been a therapeutic failure to no less than a **30-day** trial of at least **one** medication not requiring prior approval
 -   The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated.
 
-## Indications As Approved By FDA
+### Indications as Approved by FDA
 
 -   Benzyl alcohol lotion is indicated for patients 6 months of age and older
 -   Crotamiton is indicated for adults

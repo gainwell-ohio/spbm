@@ -4,11 +4,12 @@
 
 365 Days
 
-## All Authorizations
+**All Authorizations**
 
 Must be prescribed in accordance with FDA approved labeling
 
-## Non-Preferred Criteria
+## Additional Criteria
+### Non-Preferred Criteria
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -16,15 +17,19 @@ Must be prescribed in accordance with FDA approved labeling
     -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     -   For non-preferred brand names that have preferred generics, requests must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Additional Baclofen Solution Criteria
+### Baclofen Solution
+
+Additional Baclofen Solution Criteria
 
 -   Must provide documentation of trial with baclofen tablets or justification why a non-solid oral dosage form is indicated
 
-## Additional Carisoprodol (Soma) Criteria
+### Carisoprodol (Soma)
+
+Additional Carisoprodol (Soma) Criteria
 
 -   Must provide medical justification that no other muscle relaxant or agent to treat fibromyalgia, or any musculoskeletal condition, would serve the clinical needs of the patient
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
 

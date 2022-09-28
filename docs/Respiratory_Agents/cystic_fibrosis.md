@@ -1,6 +1,6 @@
 # Cystic Fibrosis
 
-## Length Of Authorizations
+## Length of Authorizations
 
 Initial authorization 90 days
 
@@ -14,23 +14,30 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 -   Contraindication to or drug-to-drug interaction with medications not requiring prior approval.
 -   History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## Initial Authorization Criteria for Bronchitol, Kalydeco, Orkambi, Symdeko And Trikafta
+## Additional Criteria
+### Initial Authorization
+
+Initial Authorization Criteria for Bronchitol, Kalydeco, Orkambi, Symdeko, and Trikafta
 
 1.  Patient must meet all the following criteria:
     1.  Diagnosis of cystic fibrosis
     2.  The prescriber is, or has consulted with a pulmonologist or infectious disease specialist
     3.  Patient meets the FDA-approved age minimum for the requested medication
 
-## Additional Criteria for Bronchitol
+### Bronchitol
+
+Additional Criteria for Bronchitol
 
 -   Bronchitol must be used as an add-on maintenance therapy
 -   Patients must have passed the Bronchitol Tolerance Test
 
-## Additional Criteria for Kalydeco, Orkambi, Symdeko And Trikafta
+### Kalydeco, Orkambi, Symdeko And Trikafta
+
+Additional Criteria for Kalydeco, Orkambi, Symdeko, and Trikafta
 
 -   Patient has documentation (must include with PA request) of the genetic mutation(s) that the FDA approved the requested medication to treat
 
-## Reauthorization Criteria
+## Reauthorization
 
 -   Patient may be approved for reauthorization if they meet all the following criteria:
     -   Patient must meet all initial criteria

@@ -1,6 +1,6 @@
 # Hypoglycemia Treatments
 
-## Length Of Authorizations
+## Length of Authorizations
 
 365 Days
 
@@ -14,7 +14,8 @@
 
     - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## PA Required Non-Preferred
+## Additional Criteria
+### Non-Preferred
 
 A non-preferred medication will be approved after a trial with a preferred medication not requiring prior approval or the inability of the member and/or caregiver to administer a preferred glucagon product in a timely fashion.
 

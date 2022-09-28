@@ -1,6 +1,6 @@
 # Anti-Migraine Agents, Acute
 
-## Length Of Authorizations
+## Length of Authorizations
 
 180 Days
 
@@ -14,7 +14,11 @@
   - Contraindication to all preferred medications
   - History of unacceptable/toxic side effects to at least two preferred medications
 
-## Step Therapy Approval Criteria
+## Additional Criteria
+
+### Step Therapy
+
+Step Therapy Approval Criteria
 
 - For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including a trial of at least 14 days with at least two medications not requiring prior approval
 - For a non-preferred drug, there must have been inadequate clinical response to preferred alternatives, including a trial of at least 14 days with at least one medication requiring step therapy

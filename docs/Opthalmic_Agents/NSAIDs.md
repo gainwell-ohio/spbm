@@ -1,6 +1,6 @@
 # NSAIDs
 
-## Authorizations
+## Length of Authorizations
 
 For the date of service only; no refills for acute use.
 

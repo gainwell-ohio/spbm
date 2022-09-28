@@ -1,4 +1,4 @@
-# Antivirals – Herpes
+# Herpes
 
 ## Length of Authorizations
 

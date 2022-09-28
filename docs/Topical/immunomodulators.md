@@ -1,15 +1,21 @@
 # Immunomodulators
 
-## Length Of Authorizations
+## Length of Authorizations
 
 365 Days
 
-## Step Therapy
+## Additional Criteria
+
+### Step Therapy
+
+Step Therapy Approval Criteria
 
 1.  For a product requiring step therapy, there must have been an inadequate clinical response to no less than **two 30-day** trials of topical corticosteroids
 2.  For a non-preferred medication, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days** of the preferred medication
 
-## Other Approval Criteria
+### Other
+
+Other Approval Criteria
 
 Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
 
@@ -17,7 +23,7 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 -   Contraindication to or drug interaction with medications not requiring prior approval
 -   History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## Clinical Information
+### Clinical Information
 
 -   Indicated for short-term and intermittent long-term treatment of atopic dermatitis if:
     -   Alternative, conventional therapies (such as topical corticosteroids) are deemed inadvisable because of potential risks, **or**

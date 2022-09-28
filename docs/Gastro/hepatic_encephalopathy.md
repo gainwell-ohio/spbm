@@ -1,6 +1,6 @@
 # Hepatic Encephalopathy
 
-## Length Of Authorizations
+## Length of Authorizations
 
 365 Days
 
@@ -12,7 +12,11 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 -   Contraindication to or drug interaction with medication not requiring prior approval
 -   History of unacceptable/toxic side effects to medication not requiring prior approval
 
-## Step Therapy
+## Additional Criteria
+
+### Step Therapy
+
+Step Therapy Approval Critera
 
 All agents listed
 

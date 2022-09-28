@@ -16,13 +16,19 @@ Acceptable reasons include:
 
 - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## Additional Criteria for the Treatment of Tardive Dyskinesia
+## Additional Criteria
+
+### Tardive Dyskinesia
+
+Additional Criteria for the Treatment of Tardive Dyskinesia
 
 - Prescribed by a Neurologist or Psychiatrist
 
 - Ingrezza is ONLY indicated for the treatment of Tardive Dyskinesia
 
-## Additional Criteria For Austedo for the Treatment of Huntington's Disease
+### Huntington's Disease
+
+Additional Criteria for Austedo for the Treatment of Huntington's Disease
 
 - The patient must have a failure to respond to maximally tolerated dose of tetrabenazine
 
@@ -32,11 +38,11 @@ Austedo quantity limit of 4 tablets per day
 
 Central Nervous System (CNS) Agents: Movement Disorders
 
-| PREFERRED | NON-PREFERRED |
-| :--- | ---: |
-| Austedo PA QL    | |
-| Ingrezza PA      | |
-| Tetrabenazine PA | |
+| PREFERRED        | NON-PREFERRED |
+| :--------------- | ------------: |
+| Austedo PA QL    |               |
+| Ingrezza PA      |               |
+| Tetrabenazine PA |               |
 
 ## Links
 

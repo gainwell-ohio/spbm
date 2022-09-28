@@ -1,6 +1,6 @@
 # Urinary Antispasmodics
 
-## Length Of Authorizations
+## Length of Authorizations
 
 365 Days
 

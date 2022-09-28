@@ -1,14 +1,16 @@
 # Monoclonal Antibodies-Anti-IL/Anti-IgE
 
-## Length Of Authorizations
+## Length of Authorizations
 
 Initial: 180 days; Subsequent: 365 days
 
-## All Authorizations
+**All Authorizations**
 
 Must be prescribed in accordance with FDA approved labeling
 
-## Clinical PA Criteria
+## Additional Criteria
+
+### Clinical PA
 
 -   Must be prescribed by or in consultation with an applicable specialist (i.e., allergist/immunologist, pulmonologist, or otolaryngologist)
 -   For **Asthma** – Must have had uncontrolled asthma symptoms and/or exacerbations despite at least **30 days** with:
@@ -16,7 +18,7 @@ Must be prescribed in accordance with FDA approved labeling
 -   For **Chronic Rhinosinusitis with Nasal Polyposis** – Must have had an inadequate clinical response of at least **30 days** to at least **one oral** corticosteroid AND **one nasal** corticosteroid spray
 -   For **Chronic Urticaria** – Must have had an inadequate clinical response to at least **14 days** with at least **two different** antihistamines
 
-## Non-Preferred Criteria
+### Non-Preferred
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation

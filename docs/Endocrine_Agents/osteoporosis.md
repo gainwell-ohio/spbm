@@ -12,11 +12,15 @@
     3.  History of unacceptable/toxic side effects to medications not requiring prior approval
 2.  The requested medication may be approved if there has been a therapeutic failure to no less than a 90-day trial of at least one preferred medication within the same class of the requested medication
 
-## Critical Information
+## Additional Criteria
+
+### Critical Information
 
 Patients should only be on ONE of the therapeutic classes (bisphosphonates, calcitonin-salmon).
 
-## Additional Criteria for Abaloparatide (TYMLOS™)
+### Abaloparatide (TYMLOS™)
+
+Additional Criteria for Abaloparatide (TYMLOS™)
 
 Abaloparatide is indicated in postmenopausal women with osteoporosis at high risk for fracture.
 

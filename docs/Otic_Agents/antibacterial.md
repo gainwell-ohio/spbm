@@ -1,6 +1,6 @@
 # Antibacterial and Antibacterial/Steroid Combinations
 
-## Length Of Authorizations
+## Length of Authorizations
 
 For the date of service only; no refills for acute infection.
 

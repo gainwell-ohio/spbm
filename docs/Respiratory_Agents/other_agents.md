@@ -1,6 +1,6 @@
 # Other Agents
 
-## Length Of Authorizations
+## Length of Authorizations
 
 365-day approval; Daliresp evaluated with each refill
 

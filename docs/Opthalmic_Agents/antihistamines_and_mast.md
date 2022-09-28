@@ -1,6 +1,6 @@
 # Antihistamines & Mast Cell Stabilizers
 
-## Length Of Authorizations
+## Length of Authorizations
 
 365 Days
 

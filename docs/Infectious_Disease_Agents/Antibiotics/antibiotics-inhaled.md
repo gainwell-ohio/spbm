@@ -1,6 +1,6 @@
-# Antibiotics – Inhaled
+# Inhaled
 
-## Length Of Authorizations
+## Length of Authorizations
 
 28 Days
 
@@ -16,15 +16,19 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 -   Age limit of 7 and older for aztreonam
 -   “Pulse” dosing cycles of 28 days on drug, followed by 28 days off drug
 
-## Additional Information
+## Additional Criteria
+
+### Information
 
 The requested medication may be approved if the following is true:
 
 -   If there has been no less than a **28-day** trial of at least **one preferred** medication
 
-## Additional Criteria For Amikacin
+### Amikacin
 
-## Length Of Authorizations
+Additional Criteria for Amikacin
+
+#### Length Of Authorizations
 
 Initial authorization 180 days
 

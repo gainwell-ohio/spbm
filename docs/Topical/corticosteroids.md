@@ -1,6 +1,6 @@
 # Corticosteroids
 
-## Length Of Authorizations
+## Length of Authorizations
 
 365 days for low and medium potency
 

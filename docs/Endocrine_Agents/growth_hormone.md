@@ -12,13 +12,17 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 -   Contraindication to or drug-to-drug interaction with medications not requiring prior approval.
 -   History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## Non-Preferred Medication:
+## Additional Criteria
+
+### Non-Preferred
 
 -   For a non-preferred medication drug, there must have been a therapeutic failure to no less than a **90-day** trial of at least **one** preferred medication valid reason for not being able to take a preferred medication.
 
-## Clinical Criteria
+### Clinical
 
-### Pediatric Approvals (under 18 years of age)
+#### Pediatric
+
+(Under 18 years of age)
 
 Initial Approvals – based on diagnoses below
 
@@ -51,7 +55,9 @@ Patient must have **ONE** of the following diagnoses:
 3.  The patient does not have any FDA labeled contraindication(s) to therapy with the requested agent (i.e., closed epiphyses, no expanding intracranial lesion or tumor diagnosed, etc.)
 4.  Not being used in combination with another somatropin agent
 
-### Adults - initial approval for 180 days:
+#### Adults
+ 
+Initial approval for 180 days:
 
 Initial Approvals – based on diagnosis below
 

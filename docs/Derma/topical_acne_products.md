@@ -4,11 +4,13 @@
 
 365 Days
 
-## All Authorizations
+**All Authorizations**
 
 Must be prescribed in accordance with FDA approved labeling
 
-## Non-Preferred Criteria
+## Additonal Criteria
+
+### Non-Preferred
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -16,16 +18,18 @@ Must be prescribed in accordance with FDA approved labeling
     -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Additional Tretinoin/Benzoyl Peroxide (Twyneo) Criteria
+### Tretinoin/Benzoyl Peroxide
+
+Additional Tretinoin/Benzoyl Peroxide (Twyneo) Criteria
 
 -   Must provide documentation for patient’s inability to use the individual drugs
 
-## Additional Information
+### Additional Information
 
 -   All retinoids – May be authorized with a diagnosis of skin cancer
 -   Tazarotene (Tazorac) – May be authorized with a diagnosis or psoriasis
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
 

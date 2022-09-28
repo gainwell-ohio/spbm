@@ -1,6 +1,6 @@
 # Inhaled Agents
 
-## Length Of Authorizations
+## Length of Authorizations
 
 365 Days
 
@@ -12,7 +12,11 @@
     -   History of unacceptable/toxic side effects to medications not requiring prior approval
 2.  The requested medication may be approved if there has been a therapeutic failure to no less than a **14-day** trial of at least **one** medication not requiring prior approval within the same class and formulation (must try **two** medications if anticholinergic).
 
-## Additional Information to Aid in the Final PA Decision-Glucocorticoids
+## Additional Criteria
+
+### Glucocorticoids
+
+Additional Information to Aid in the Final PA Decision-Glucocorticoids
 
 If there have been therapeutic failures to no less than 30-day trials of at least **two** medications not requiring prior approval, then may approve the requested medication.
 

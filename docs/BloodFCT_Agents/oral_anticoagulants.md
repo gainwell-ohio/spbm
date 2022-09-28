@@ -1,6 +1,6 @@
 # Oral Anticoagulants
 
-## Indication And Length of Authorization
+## Length of Authorizations
 
 Requested medication must be used for an approved FDA indication and duration
 

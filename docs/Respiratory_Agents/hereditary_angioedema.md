@@ -1,10 +1,10 @@
 # Hereditary Angioedema
 
-## Length Of Authorizations
+## Length of Authorizations
 
 365 Days
 
-**All products in this class require clinical prior authorization:**
+**All products in this class require clinical prior authorization**
 
 -   Diagnosis of hereditary angioedema
 -   History of recurrent angioedema (without urticaria) within the past 180 days

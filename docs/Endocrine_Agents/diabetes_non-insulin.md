@@ -1,6 +1,6 @@
 # Diabetes – Non-Insulin
 
-## Authorizations
+## Length of Authorizations
 
 365 Days
 
@@ -12,13 +12,15 @@ Is there any reason the patient cannot be changed to a medication within the sam
 -   Contraindication to or drug interaction with medications not requiring prior approval
 -   History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## Non-Preferred
+## Additional Criteria
+
+### Non-Preferred
 
 1.  There must have been a therapeutic failure of at least 60-day trial and failure with three preferred products
 
     Note: Inadequate clinical response after at least 60 days of recommended therapeutic dose with documented adherence to the regimen.
 
-### Diabetes - Oral Hypoglycemics, Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitor And DPP-4 Combinations
+#### Diabetes - Oral Hypoglycemics, Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitor And DPP-4 Combinations
 
 | **Preferred**                                                                 | **Non-Preferred**                      |
 |-------------------------------------------------------------------------------|----------------------------------------|

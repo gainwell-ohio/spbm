@@ -1,6 +1,6 @@
-# Antivirals – Hepatitis C Agents
+# Hepatitis C Agents
 
-## Length Of Authorizations
+## Length of Authorizations
 
 365 days except simeprevir and direct acting antivirals (DAAs), see below
 
@@ -13,13 +13,19 @@ Is there any reason the patient cannot be changed to a medication within the sam
 -   History of unacceptable/toxic side effects to medications not requiring prior approval
 -   Patients established on current therapy with prior payer (i.e. Commercial, Fee-for- Service, Managed Care Plan, etc).
 
-## Additional Criteria For DAAs
+## Additional Criteria
+
+### DAAs
+
+Additonal Criteria for DAAs
 
 All HCV DAAs require clinical prior authorization. Only regimens recommended by the American Association for the Study of Liver Diseases (AASLD) will be approved.
 
 Please see the [Hepatitis C Direct Acting Antiviral Prior Authorization Form](https://pharmacy.medicaid.ohio.gov/sites/default/files/HepC_PA_Form_20211119.pdf#overlay-context=prior-authorization) for criteria and the most recent regimens recommended by the American Association for the Study of Liver Diseases (AASLD)
 
-## Additional Information to Aid in the Final Decision
+### Information
+
+Additional Information to Aid in the Final Decision
 
 -   Pegylated Interferons have a Black Box Warning which indicates that a patient should be monitored closely with periodic clinical and laboratory evaluations.
 -   Ribavirins are contraindicated in women who are pregnant and in their male partner(s). At least two reliable forms of contraception must be used during therapy.

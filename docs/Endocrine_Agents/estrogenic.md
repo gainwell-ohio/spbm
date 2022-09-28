@@ -1,6 +1,6 @@
 # Estrogenic Agents
 
-## Authorizations
+## Length of Authorizations
 
 365 Days
 

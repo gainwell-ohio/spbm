@@ -12,7 +12,10 @@
     3.  History of unacceptable/toxic side effects to medications not requiring prior approval
 2.  Patient must have a therapeutic failure to no less than a **30-day** trial on at least **two** medications that are preferred.
 
-## Additional Criteria for Approval Of Tadalafil (CIALIS)
+## Additional Criteria
+### Tadalafil (CIALIS)
+
+Additional Criteria for Approval of Tadalafil (CIALIS)
 
 Patient must have diagnosis of benign prostatic hyperplasia and have a therapeutic failure to no less than a 30-day trial on at least one alpha-1 adrenergic blocker and a 90-day trial of finasteride.
 

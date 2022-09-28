@@ -12,7 +12,10 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 -   Contraindication to or drug-to-drug interaction with medications not requiring prior approval.
 -   History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## Corlanor Criteria
+## Additional Criteria
+### Corlanor
+
+Corlanor Criteria
 
 Ivabradine (Corlanor) may be approved if all of the following are met:
 
@@ -22,20 +25,26 @@ Ivabradine (Corlanor) may be approved if all of the following are met:
 4.  Patient in sinus rhythm, and
 5.  Heart failure symptoms persisting with maximally tolerated doses of beta blockers, or patient has a contraindication to beta blocker therapy.
 
-## Entresto Criteria
+### Entresto
+
+Entresto Criteria
 
 Valsartan/sacubitril (Entresto) may be approved if all the following are met:
 
 1.  Diagnosis of chronic heart failure (NYHA Class II-IV), and
 2.  Reduced left ventricular ejection fraction
 
-## Aliskiren And Tekturna HCT Criteria
+### Aliskiren And Tekturna HCT
+
+Aliskiren and Tekturna HCT Criteria
 
 Aliskiren and Tekturna HCT may be approved if all the following are met:
 
 1.  A 30-day trial of any one preferred anti-hypertensive agent
 
-## Verquvo Criteria
+### Verquvo
+
+Verquvo Criteria
 
 1.  Patient must meet all the following criteria:
     -   Diagnosis of symptomatic chronic heart failure (NYHA Class II-IV), and
@@ -46,14 +55,18 @@ Aliskiren and Tekturna HCT may be approved if all the following are met:
         -   Beta-blocker
         -   Aldosterone antagonist and/or SGLT2 inhibitor as appropriate for renal function
 
-## Kerendia Criteria
+### Kerendia
+
+Kerendia Criteria
 
 1.  Patient must meet all the following criteria:
     -   A diagnosis of Chronic Kidney Disease due to Type 2 Diabetes
     -   Be on maximum tolerated dose of an angiotensin-converting enzyme inhibitor or angiotensin receptor blocker
     -   Allergy, intolerance, or inadequate response to an SGLT2 Inhibitor
 
-## Additional Approval Criteria
+### Approval
+
+Additional Approval Criteria
 
 1.  The requested medication may be approved if both of the following are true:
     -   If there has been a therapeutic failure to no less than a **30-day** trial of at least **two** medications **within the same class** not requiring prior approval

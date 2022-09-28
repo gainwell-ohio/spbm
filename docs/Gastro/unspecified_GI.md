@@ -4,15 +4,19 @@
 
 365 Days except 3 days for Aemcolo
 
-## All Authorizations:
+**All Authorizations**
 
 Must be prescribed in accordance with FDA approved labeling
 
-## Step Therapy Criteria
+## Additional Criteria
+
+### Step Therapy
+
+Step Therapy Approval Criteria
 
 -   Must have had an inadequate clinical response to at least **14 days** with at least **two preferred** drugs
 
-## Non-Preferred Criteria
+### Non-Preferred
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation

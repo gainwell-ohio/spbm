@@ -14,7 +14,11 @@ Short Acting products considered separately from Long-Acting products
     -   History of unacceptable/toxic side effects to at least **two** medications not requiring prior approval
     -   Has the patient failed a therapeutic trial of at least **14 days** with at least **two** medications not requiring prior approval?
 
-## Step Therapy
+## Additional Criteria
+
+### Step Therapy
+
+Step Therapy Approval Criteria
 
 1.  For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days** of at least **two preferred** products.
 

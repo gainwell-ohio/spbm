@@ -1,6 +1,6 @@
-# Antibiotics – Tetracyclines
+# Tetracyclines
 
-## Length Of Authorizations
+## Length of Authorizations
 
 For the date of service only; no refills
 
@@ -14,15 +14,21 @@ For the date of service only; no refills
     -   Note diagnosis and any culture and sensitivity reports
 3.  If there have been therapeutic failures to no less than a **3-day** trial of at least **one** medication not requiring prior approval, then may approve the requested medication.
 
-## Additional Information to Aid in the Final Decision
+## Additional Criteria
+
+### Information
+
+Additional Information to Aid in the Final Decision
 
 If the patient is completing a course of therapy with a medication requiring prior approval, which was initiated in the hospital, then may approve the requested medication to complete the course of therapy.
 
 AR - Vibramycin Suspension: a PA is required for patients over 12 years old
 
-## Additional Criteria for Omadacycline
+### Omadacycline
 
-## Length of Authorizations
+Additional Criteria for Omadacycline
+
+#### Length of Authorizations
 
 14 Days
 
@@ -35,10 +41,6 @@ AR - Vibramycin Suspension: a PA is required for patients over 12 years old
     -   History of unacceptable/toxic side effects to medications not requiring prior approval
 3.  If the infection is caused by an organism resistant to medications not requiring prior approval, then may approve the requested medication.
     -   Note diagnosis and any culture and sensitivity reports
-
-## Additional Information to Aid in the Final Decision
-
-If the patient is completing a course of therapy with a medication requiring prior approval, which was initiated in the hospital, then may approve the requested medication to complete the course of therapy.
 
 ## Formulary
 

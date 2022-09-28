@@ -16,7 +16,11 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 -   Contraindication to or drug-to-drug interaction with medications not requiring prior approval.
 -   History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## Criteria for Lucemyra (lofexidine)
+## Additional Criteria
+
+### Lucemyra (lofexidine)
+
+Criteria for Lucemyra (lofexidine)
 
 -   Indicated for Opioid Withdrawal, must meet all the following criteria:
     -   Diagnosis of opioid dependence or opioid use disorder
@@ -32,7 +36,9 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 
 Prescribing for buprenorphine products must follow the requirements of Ohio Administrative Code rule 4731-33-03 *Office based treatment for opioid addiction*.
 
-## Buprenorphine Safety Edits And Drug Utilization Review Criteria
+### Buprenorphine
+
+Buprenorphine Safety Edits and Drug Utilization Review Criteria
 
 In favor of eliminating prior authorization for all forms of oral short acting buprenorphine- containing products, ODM and the Managed Care Plans will implement safety edits and a retrospective drug utilization review process for all brand and generic forms of oral short acting buprenorphine-containing products. Safety edits are in place for dosages over 24mg of buprenorphine equivalents/day.
 
@@ -40,11 +46,13 @@ Buprenorphine SL tablets (Generic of Subutex) use restricted to pregnancy or bre
 
 Vivitrol may be billed by the pharmacy if it is not dispensed directly to the patient. If not administered by the pharmacist, the drug must be released only to the administering provider or administering provider's staff, following all regulations for a Prescription Pick-Up Station as described by the Ohio Board of Pharmacy.
 
-## Sublocade Drug Utilization Review Criteria
+### Sublocade
+
+Sublocade Drug Utilization Review Criteria
 
 -   Dosing schedule will be limited to 300mg/30 days.
 
-## Additional Sublocade Information
+Additional Sublocade Information
 
 Sublocade may be billed by the pharmacy if it is not dispensed directly to the patient. If not administered at the pharmacy, the drug must be released only to the administering provider or administering provider's staff, following all applicable regulations.
 

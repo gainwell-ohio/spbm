@@ -14,13 +14,16 @@
 2.  If there has been a therapeutic failure to no less than a **30 day** trial of at least **two medications** not requiring prior approval, then may approve the requested medication.
 3.  If a medication requiring prior approval was initiated in the hospital for the treatment of a condition such as a GI bleed, may approve the requested medication.
 
-## Additional Information
+## Additional Criteria
+### Information
 
 -   No PA needed for preferred PPI at once-daily dosing
 -   No PA needed for preferred PPI at any dose for age under 21
 -   Must have therapeutic failure on preferred agent before PA of non-preferred
 
-## Clinical Criteria for PPI Doses Greater Than Once Daily
+### PPI Doses
+
+Clinical Criteria for PPI Doses Greater than Once Daily
 
 1.  For diagnosis of H. Pylori, BID dosing may be authorized for 30 days
 2.  For diagnosis of COPD, Dyspepsia, Gastritis, Gastroparesis, Symptomatic Uncomplicated Barrett’s Esophagus, Carcinoma of GI tract, Crest Syndrome, Esophageal Varices, Scleroderma, Systemic Mastocytosis, Zollinger Ellison Syndrome:

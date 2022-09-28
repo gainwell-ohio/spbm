@@ -4,6 +4,8 @@
 
 Dependent upon diagnosis
 
+## Additional Criteria
+
 ### Approval of epoetin alfa or darbepoetin
 
 | Diagnosis                                                    | Hemoglobin Level | Approval Length |
@@ -23,7 +25,7 @@ Dependent upon diagnosis
 | Anemia associated with ribavirin combination therapy in hepatitis Cinfected patient | \<=11            | 180 days        |
 | Anemia in zidovudine-treated HIV-infected patients                                  | \<=11            | 180 days        |
 
-## Prior Authorization Criteria
+### Prior Authorization
 
 1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
 -   Allergy to medications not requiring prior approval

@@ -1,6 +1,6 @@
 # Anti-Migraine Agents, Prophylaxis
 
-## Length Of Authorizations
+## Length of Authorizations
 
 Initial Authorization 180 days
 
@@ -16,15 +16,21 @@ Initial Authorization 180 days
   - Contraindication to **three** preferred medications
   - History of unacceptable/toxic side effects/intolerance to at least **three** preferred medications
 
-## Step Therapy Required Preferred Medication
+## Additional Criteria
+
+### Step Therapy
+
+Step Therapy Required Preferred Medications
 
 - For a drug requiring step therapy, there must have been inadequate clinical response to a trial of at least 30 days each to at least 3 controller migraine medications or has experienced contraindications or intolerance to them (i.e., beta-blockers, anticonvulsants, tricyclic antidepressants, and/or serotonin-norepinephrine reuptake inhibitors).
 
-## Non-Preferred Medication
+### Non-Preferred Medication
 
 - For a non-preferred medication drug there must have been inadequate clinical response to a trial of at least 30 days each to at least 3 controller migraine medications or has experienced contraindications or intolerance to them (i.e., beta-blockers, anticonvulsants, tricyclic antidepressants, and/or serotonin-norepinephrine reuptake inhibitors) AND an inadequate clinical response or intolerance to a trial of at least 30 days of one step therapy required preferred medication
 
-## Additional Criteria For Migraine Prophylaxis
+### Migraine Prophylaxis
+
+Additional Criteria for Migraine Prophylaxis
 
 1. Patient must have one of the following diagnoses:
 

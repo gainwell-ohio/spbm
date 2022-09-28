@@ -1,6 +1,6 @@
 # Ophthalmic Steroids
 
-## Length Of Authorizations
+## Length of Authorizations
 
 30 Days
 

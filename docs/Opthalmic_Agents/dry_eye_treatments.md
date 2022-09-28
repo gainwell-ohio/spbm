@@ -1,6 +1,6 @@
 # Dry Eye Treatments
 
-## Authorizations
+## Length of Authorizations
 
 14 Days for Eysuvis; 365 Days for all other agents
 

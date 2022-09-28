@@ -1,6 +1,6 @@
-# Antibiotics – Macrolides
+# Macrolides
 
-## Length Of Authorizations
+## Length of Authorizations
 
 Date of service only; no refills
 
@@ -12,7 +12,11 @@ Date of service only; no refills
     -   Note diagnosis and any culture and sensitivity reports
 3.  If there has been a therapeutic failure to no less than a **3-day trial** of at least **one** medication not requiring prior approval, then may approve the requested medication.
 
-## Additional Information to Aid in the Final Decision
+## Additional Criteria
+
+### Information
+
+Additional Information to Aid in the Final Decision
 
 If the patient is completing a course of therapy with a medication requiring prior approval, which was initiated in the hospital, then may approve the requested medication to complete the course of therapy.
 

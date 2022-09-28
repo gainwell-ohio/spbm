@@ -11,7 +11,11 @@
   - Contraindication to or drug-to-drug interaction with medications not requiring prior approval
   - History of unacceptable/toxic side effects to medications not requiring prior approval
 
-## Additional Prior Authorization Criteria
+## Additional Criteria
+
+### Prior Authorization
+
+Additonal Prior Authorization Criteria
 
 - Prescribed in accordance with its FDA approved labeling AND
 - Patient must be registered and meet all of the requirements of the iPLEDGE program AND
