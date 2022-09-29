@@ -16,10 +16,19 @@ For the duration of the prescription (up to 180 days)
 
 Infectious Disease Agents: Antivirals – Herpes
 
-| PREFERRED    | NON-PREFERRED |
-|--------------|---------------|
-| Acyclovir    | Famciclovir   |
-| Valacyclovir | Sitavig       |
+### Preferred
+
+| Preferred    |      |
+| :----------- | ---: |
+| Acyclovir    |      |
+| Valacyclovir |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Famciclovir   |      |
+| Sitavig       |      |
 
 ## Links
 

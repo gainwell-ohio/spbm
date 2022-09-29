@@ -24,25 +24,44 @@ Step Therapy Approval Criteria
 
 Ophthalmic Agents: Glaucoma Agents
 
-| PREFERRED            | NON-PREFERRED     |
-|----------------------|-------------------|
-| Alphagan P 0.1% ST   | Apraclonidine     |
-| Alphagan P 0.15% BvG | Betoptic S        |
-| Azopt BvG ST         | Bimatoprost       |
-| Betaxolol            | Brimonidine 0.15% |
-| Brimonidine 0.2%     | Brinzolamide      |
-| Carteolol            | Iopidine          |
-| Combigan BvG ST      | Istalol           |
-| Dorzolamide          | Lumigan           |
-| Dorzolamide/Timolol  | Travoprost        |
-| Latanaprost          | Vyzulta           |
-| Levobunolol          | Xelpros           |
-| Metipranolol         | Zioptan           |
-| Rhopressa            |                   |
-| Rocklatan            |                   |
-| Simbrinza            |                   |
-| Timolol              |                   |
-| Travatan Z BvG ST    |                   |
+### Preferred
+
+| Preferred            |      |
+| :------------------- | ---: |
+| Alphagan P 0.1% ST   |      |
+| Alphagan P 0.15% BvG |      |
+| Azopt BvG ST         |      |
+| Betaxolol            |      |
+| Brimonidine 0.2%     |      |
+| Carteolol            |      |
+| Combigan BvG ST      |      |
+| Dorzolamide          |      |
+| Dorzolamide/Timolol  |      |
+| Latanaprost          |      |
+| Levobunolol          |      |
+| Metipranolol         |      |
+| Rhopressa            |      |
+| Rocklatan            |      |
+| Simbrinza            |      |
+| Timolol              |      |
+| Travatan Z BvG ST    |      |
+
+### Non-Preferred
+
+| Non-Preferred     |      |
+| :---------------- | ---: |
+| Apraclonidine     |      |
+| Betoptic S        |      |
+| Bimatoprost       |      |
+| Brimonidine 0.15% |      |
+| Brinzolamide      |      |
+| Iopidine          |      |
+| Istalol           |      |
+| Lumigan           |      |
+| Travoprost        |      |
+| Vyzulta           |      |
+| Xelpros           |      |
+| Zioptan           |      |
 
 ## Links
 

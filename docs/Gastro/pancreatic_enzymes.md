@@ -22,11 +22,20 @@ The requested medication may be approved if the following is true:
 
 Gastrointestinal Agents: Pancreatic Enzymes
 
-| PREFERRED | NON-PREFERRED |
-|-----------|---------------|
-| Creon     | Pancreaze     |
-| Zenpep    | Pertzye       |
-|           | Viokace       |
+### Preferred
+
+| Preferred |      |
+| :-------- | ---: |
+| Creon     |      |
+| Zenpep    |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Pancreaze     |      |
+| Pertzye       |      |
+| Viokace       |      |
 
 ## Links
 

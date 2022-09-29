@@ -60,14 +60,23 @@ Sublocade may be billed by the pharmacy if it is not dispensed directly to the p
 
 Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction
 
-| PREFERRED              | NON-PREFERRED |
-|------------------------|---------------|
-| Buprenorphine/Naloxone | Buprenorphine |
-| Clonidine              | Lucemyra QL   |
-| Sublocade QL           |               |
-| Suboxone               |               |
-| Vivitrol               |               |
-| Zubsolv                |               |
+### Preferred
+
+| Preferred              |      |
+| :--------------------- | ---: |
+| Buprenorphine/Naloxone |      |
+| Clonidine              |      |
+| Sublocade QL           |      |
+| Suboxone               |      |
+| Vivitrol               |      |
+| Zubsolv                |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Buprenorphine |      |
+| Lucemyra QL   |      |
 
 ## Links
 

@@ -16,12 +16,21 @@ Requested medication must be used for an approved FDA indication and duration
 
 Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants
 
-| PREFERRED   | NON-PREFERRED |
-|-------------|---------------|
-| Eliquis     | Dabigatran    |
-| Pradaxa BvG | Savaysa       |
-| Warfarin    |               |
-| Xarelto     |               |
+### Preferred
+
+| Preferred   |      |
+| :---------- | ---: |
+| Eliquis     |      |
+| Pradaxa BvG |      |
+| Warfarin    |      |
+| Xarelto     |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Dabigatran    |      |
+| Savaysa       |      |
 
 ## Links
 

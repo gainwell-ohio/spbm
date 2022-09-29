@@ -28,21 +28,39 @@ Step Therapy Approval Criteria
 
 Gastrointestinal Agents: Unspecified GI
 
-| PREFERRED                    | NON-PREFERRED |
-|------------------------------|---------------|
-| Amitiza BvG ST               | Aemcolo       |
-| Bisacodyl                    | Gattex        |
-| Casanthranol/Docusate Sodium | Ibsrela       |
-| Dicyclomine                  | Linzess 72mcg |
-| Diphenoxylate/Atropine       | Lubiprostone  |
-| Lactulose                    | Motegrity     |
-| Linzess ST 145, 290mcg       | Mytesi        |
-| Loperamide                   | Relistor      |
-| Movantik ST                  | Symproic      |
-| Polyethylene Glycol          | Trulance      |
-| Psyllium Fiber               | Zorbitive     |
-| Senna                        |               |
-| Xifaxan ST                   |               |
+### Preferred
+
+| Preferred                    |      |
+| :--------------------------- | ---: |
+| Amitiza BvG ST               |      |
+| Bisacodyl                    |      |
+| Casanthranol/Docusate Sodium |      |
+| Dicyclomine                  |      |
+| Diphenoxylate/Atropine       |      |
+| Lactulose                    |      |
+| Linzess ST 145, 290mcg       |      |
+| Loperamide                   |      |
+| Movantik ST                  |      |
+| Polyethylene Glycol          |      |
+| Psyllium Fiber               |      |
+| Senna                        |      |
+| Xifaxan ST                   |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Aemcolo       |      |
+| Gattex        |      |
+| Ibsrela       |      |
+| Linzess 72mcg |      |
+| Lubiprostone  |      |
+| Motegrity     |      |
+| Mytesi        |      |
+| Relistor      |      |
+| Symproic      |      |
+| Trulance      |      |
+| Zorbitive     |      |
 
 ## Links
 

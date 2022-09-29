@@ -38,19 +38,31 @@ AR - Protonix Suspension: a PA is required for patients over 6 years old
 
 Gastrointestinal Agents: Proton Pump Inhibitors
 
-| PREFERRED           | NON-PREFERRED                 |
-|---------------------|-------------------------------|
-| Lansoprazole Cap    | Aciphex                       |
-| Nexium Granules BvG | Dexilant BvG                  |
-| Omeprazole Cap      | Esomeprazole                  |
-| Pantoprazole Tab    | Esomeprazole Granules         |
-| Protonix Pak AR BvG | Lansoprazole ODT              |
-|                     | Omeprazole Tab                |
-|                     | Omeprazole/Sodium Bicarbonate |
-|                     | Pantoprazole Packet           |
-|                     | Prilosec Susp                 |
-|                     | Protonix Susp AR              |
-|                     | Rabeprazole                   |
+### Preferred
+
+| Preferred           |      |
+| :------------------ | ---: |
+| Lansoprazole Cap    |      |
+| Nexium Granules BvG |      |
+| Omeprazole Cap      |      |
+| Pantoprazole Tab    |      |
+| Protonix Pak AR BvG |      |
+
+### Non-Preferred
+
+| Non-Preferred                 |      |
+| :---------------------------- | ---: |
+| Aciphex                       |      |
+| Dexilant BvG                  |      |
+| Esomeprazole                  |      |
+| Esomeprazole Granules         |      |
+| Lansoprazole ODT              |      |
+| Omeprazole Tab                |      |
+| Omeprazole/Sodium Bicarbonate |      |
+| Pantoprazole Packet           |      |
+| Prilosec Susp                 |      |
+| Protonix Susp AR              |      |
+| Rabeprazole                   |      |
 
 ## Links
 

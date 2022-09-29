@@ -38,11 +38,19 @@ Austedo quantity limit of 4 tablets per day
 
 Central Nervous System (CNS) Agents: Movement Disorders
 
-| PREFERRED        | NON-PREFERRED |
-| :--------------- | ------------: |
-| Austedo PA QL    |               |
-| Ingrezza PA      |               |
-| Tetrabenazine PA |               |
+### Preferred
+
+| Preferred        |      |
+| :--------------- | ---: |
+| Austedo PA QL    |      |
+| Ingrezza PA      |      |
+| Tetrabenazine PA |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+|               |      |
 
 ## Links
 

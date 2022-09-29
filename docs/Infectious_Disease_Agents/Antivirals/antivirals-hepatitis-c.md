@@ -34,13 +34,24 @@ Additional Information to Aid in the Final Decision
 
 Infectious Disease Agents: Antivirals – Hepatitis C Agents
 
-| PREFERRED                 | NON-PREFERRED                       |
-|---------------------------|-------------------------------------|
-| Mavyret PA                | Harvoni 33.75-150, 45-200, 90-400mg |
-| Pegasys PA                | Ledipasvir/Sofosbuvir               |
-| Ribavirin PA              | Sovaldi                             |
-| Sofosbuvir/Velpatasvir PA | Vosevi                              |
-|                           | Zepatier                            |
+### Preferred
+
+| Preferred                 |      |
+| :------------------------ | ---: |
+| Mavyret PA                |      |
+| Pegasys PA                |      |
+| Ribavirin PA              |      |
+| Sofosbuvir/Velpatasvir PA |      |
+
+### Non-Preferred
+
+| Non-Preferred                       |      |
+| :---------------------------------- | ---: |
+| Harvoni 33.75-150, 45-200, 90-400mg |      |
+| Ledipasvir/Sofosbuvir               |      |
+| Sovaldi                             |      |
+| Vosevi                              |      |
+| Zepatier                            |      |
 
 ## Links
 

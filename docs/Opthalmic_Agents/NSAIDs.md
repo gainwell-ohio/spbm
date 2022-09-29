@@ -25,14 +25,24 @@ The requested medication may be approved if both of the following are true:
 
 Ophthalmic Agents: NSAIDs
 
-| PREFERRED    | NON-PREFERRED |
-|--------------|---------------|
-| Diclofenac   | Acuvail       |
-| Flurbiprofen | Bromfenac     |
-| Ketorolac    | Bromsite      |
-|              | Ilevro        |
-|              | Nevanac       |
-|              | Prolensa      |
+### Preferred
+
+| Preferred    |      |
+| :----------- | ---: |
+| Diclofenac   |      |
+| Flurbiprofen |      |
+| Ketorolac    |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Acuvail       |      |
+| Bromfenac     |      |
+| Bromsite      |      |
+| Ilevro        |      |
+| Nevanac       |      |
+| Prolensa      |      |
 
 ## Links
 

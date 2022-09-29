@@ -64,7 +64,7 @@ Additional Transmucosal Fentanyl Criteria
 -   Must be concurrently taking a long-acting opioid at a therapeutic dose of any of the following for at least **7 days** without adequate pain relief:
 
 |                                  |                                      |
-|----------------------------------|--------------------------------------|
+| -------------------------------- | ------------------------------------ |
 | ≥ 60 mg oral morphine/day        | ≥ 8 mg oral hydromorphone/day        |
 | ≥ 25 mcg/hr transdermal fentanyl | ≥ 25 mg oral oxymorphone/day         |
 | ≥ 30 mg oral oxycodone/day       | Equianalgesic dose of another opioid |
@@ -77,34 +77,58 @@ Effective July 1, 2018, patients with short acting opioid therapy will be limite
 
 Analgesic Agents: Opioids
 
-| PREFERRED                                    | NON-PREFERRED                                              |
-|----------------------------------------------|------------------------------------------------------------|
-| Acetaminophen/Codeine QL                     | Acetaminophen/Caffeine/Dihydrocodeine QL                   |
-| Butalbital/Acetaminophen/Caffeine/Codeine QL | Belbuca QL                                                 |
-| Butalbital/Aspirin/Caffeine/Codeine QL       | Benzhydrocodone/Acetaminophen QL                           |
-| Butorphanol QL                               | Buprenorphine TD Patch Weekly QL                           |
-| Butrans BvG PA QL                            | Butalbital/Acetaminophen/Caffeine/Codeine 50-300-40-30mgQL |
-| Codeine QL                                   | Dsuvia QL                                                  |
-| Hydrocodone/Acetaminophen QL                 | Fentanyl QL                                                |
-| Hydromorphone IR QL                          | Hydrocodone Bitartrate ER 12HR CapQL                       |
-| Morphine ER Tab PA QL                        | Hydrocodone Bitartrate ER 24HR TabQL                       |
-| Morphine Sol QL                              | Hydrocodone/Acetaminophen 5-300, 7.5-300, 10-300mg QL      |
-| Morphine Tab QL                              | Hydrocodone/Ibuprofen QL                                   |
-| Oxycodone Cap QL                             | Hydromorphone ER QL                                        |
-| Oxycodone Sol QL                             | Levorphanol QL                                             |
-| Oxycodone Tab QL                             | Meperidine QL                                              |
-| Oxycodone/Acetaminophen QL                   | Methadone QL                                               |
-| Tramadol QL                                  | Morphine ER 24HR Cap QL                                    |
-| Tramadol/Acetaminophen QL                    | Nucynta, ER QL                                             |
-|                                              | Oxaydo QL                                                  |
-|                                              | Oxycodone ER QL                                            |
-|                                              | Oxycodone/Ibuprofen QL                                     |
-|                                              | Oxymorphone, ER QL                                         |
-|                                              | Pentazocine/Naloxone QL                                    |
-|                                              | Seglentis QL                                               |
-|                                              | Tramadol ER QL                                             |
-|                                              | Tramadol Sol QL                                            |
-|                                              | Xtampza ER QL                                              |
+### Preferred
+
+| Preferred                                    |      |
+| :------------------------------------------- | ---: |
+| Acetaminophen/Codeine QL                     |      |
+| Butalbital/Acetaminophen/Caffeine/Codeine QL |      |
+| Butalbital/Aspirin/Caffeine/Codeine QL       |      |
+| Butorphanol QL                               |      |
+| Butrans BvG PA QL                            |      |
+| Codeine QL                                   |      |
+| Hydrocodone/Acetaminophen QL                 |      |
+| Hydromorphone IR QL                          |      |
+| Morphine ER Tab PA QL                        |      |
+| Morphine Sol QL                              |      |
+| Morphine Tab QL                              |      |
+| Oxycodone Cap QL                             |      |
+| Oxycodone Sol QL                             |      |
+| Oxycodone Tab QL                             |      |
+| Oxycodone/Acetaminophen QL                   |      |
+| Tramadol QL                                  |      |
+| Tramadol/Acetaminophen QL                    |      |
+
+### Non-Preferred
+
+| Non-Preferred                                              |      |
+| :--------------------------------------------------------- | ---: |
+| Acetaminophen/Caffeine/Dihydrocodeine QL                   |      |
+| Belbuca QL                                                 |      |
+| Benzhydrocodone/Acetaminophen QL                           |      |
+| Buprenorphine TD Patch Weekly QL                           |      |
+| Butalbital/Acetaminophen/Caffeine/Codeine 50-300-40-30mgQL |      |
+| Dsuvia QL                                                  |      |
+| Fentanyl QL                                                |      |
+| Hydrocodone Bitartrate ER 12HR CapQL                       |      |
+| Hydrocodone Bitartrate ER 24HR TabQL                       |      |
+| Hydrocodone/Acetaminophen 5-300, 7.5-300, 10-300mg QL      |      |
+| Hydrocodone/Ibuprofen QL                                   |      |
+| Hydromorphone ER QL                                        |      |
+| Levorphanol QL                                             |      |
+| Meperidine QL                                              |      |
+| Methadone QL                                               |      |
+| Morphine ER 24HR Cap QL                                    |      |
+| Nucynta, ER QL                                             |      |
+| Oxaydo QL                                                  |      |
+| Oxycodone ER QL                                            |      |
+| Oxycodone/Ibuprofen QL                                     |      |
+| Oxymorphone, ER QL                                         |      |
+| Pentazocine/Naloxone QL                                    |      |
+| Seglentis QL                                               |      |
+| Tramadol ER QL                                             |      |
+| Tramadol Sol QL                                            |      |
+| Xtampza ER QL                                              |      |
 
 ## Links
 

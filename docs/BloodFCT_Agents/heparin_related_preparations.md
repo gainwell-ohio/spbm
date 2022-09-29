@@ -28,10 +28,18 @@ Is there any reason the patient cannot be changed to oral warfarin? Acceptable r
 
 Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations
 
-| PREFERRED  | NONPREFERRED |
-|------------|--------------|
-| Enoxaparin | Fondaparinux |
-|            | Fragmin      |
+### Preferred
+
+| Preferred  |      |
+| :--------- | ---: |
+| Enoxaparin |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Fondaparinux  |      |
+| Fragmin       |      |
 
 ## Links
 

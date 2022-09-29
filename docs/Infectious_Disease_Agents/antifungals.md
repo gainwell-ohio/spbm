@@ -27,16 +27,28 @@ Additional Information to Aid in the Final Decision
 
 Infectious Disease Agents: Antifungals
 
-| PREFERRED    | NON-PREFERRED |
-|--------------|---------------|
-| Fluconazole  | Brexafemme    |
-| Flucytosine  | Cresemba      |
-| Griseofulvin | Itraconazole  |
-| Ketoconazole | Noxafil Susp  |
-| Terbinafine  | Oravig        |
-|              | Posaconazole  |
-|              | Tolsura       |
-|              | Voriconazole  |
+### Preferred
+
+| Preferred    |      |
+| :----------- | ---: |
+| Fluconazole  |      |
+| Flucytosine  |      |
+| Griseofulvin |      |
+| Ketoconazole |      |
+| Terbinafine  |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Brexafemme    |
+| Cresemba      |
+| Itraconazole  |
+| Noxafil Susp  |
+| Oravig        |
+| Posaconazole  |
+| Tolsura       |
+| Voriconazole  |
 
 ## Links
 

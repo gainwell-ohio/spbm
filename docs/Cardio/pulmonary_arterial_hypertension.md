@@ -24,17 +24,29 @@ AR - Sildenafil oral solution: a PA is required for patients over 6 years old
 
 Cardiovascular Agents: Pulmonary Arterial Hypertension
 
-| PREFERRED             | NON-PREFERRED |
-|-----------------------|---------------|
-| Ambrisentan PA        | Adempas       |
-| Sildenafil PA         | Bosentan      |
-| Sildenafil Susp AR PA | Epoprostenol  |
-| Tadalafil PA          | Opsumit       |
-| Tracleer BvG PA       | Tracleer Susp |
-|                       | Treprostinil  |
-|                       | Tyvaso        |
-|                       | Uptravi       |
-|                       | Ventavis      |
+### Preferred
+
+| Preferred             |      |
+| :-------------------- | ---: |
+| Ambrisentan PA        |      |
+| Sildenafil PA         |      |
+| Sildenafil Susp AR PA |      |
+| Tadalafil PA          |      |
+| Tracleer BvG PA       |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Adempas       |      |
+| Bosentan      |      |
+| Epoprostenol  |      |
+| Opsumit       |      |
+| Tracleer Susp |      |
+| Treprostinil  |      |
+| Tyvaso        |      |
+| Uptravi       |      |
+| Ventavis      |      |
 
 ## Links
 

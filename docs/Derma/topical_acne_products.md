@@ -39,32 +39,53 @@ Additional Tretinoin/Benzoyl Peroxide (Twyneo) Criteria
 
 Dermatological: Topical Acne Products
 
-| PREFERRED                             | NON-PREFERRED                   |
-|---------------------------------------|---------------------------------|
-| Adapalene Gel 0.1% AR                 | Adapalene Cream, Sol 0.1% AR    |
-| Azelex Cream                          | Adapalene Gel 0.3% AR           |
-| Benzoyl Peroxide                      | Adapalene/Benzoyl Peroxide AR   |
-| Clindamycin Gel                       | Aklief AR                       |
-| Clindamycin Lot                       | Altreno AR                      |
-| Clindamycin Sol                       | Amzeeq                          |
-| Clindamycin/Benzoyl Peroxide          | Arazlo AR                       |
-| Erythromycin                          | Azelaic Acid Gel                |
-| Erythromycin/Benzoyl Peroxide         | Benzoyl Peroxide Foam           |
-| Neuac                                 | Clindacin Kit                   |
-| Sodium Sulfacetamide                  | Clindamycin Foam                |
-| Sodium Sulfacetamide/Sulfur Cream     | Clindamycin Swabs               |
-| Sodium Sulfacetamide/Sulfur Wash Susp | Clindamycin/Tretinoin AR        |
-| Tretinoin AR                          | Dapsone Gel                     |
-|                                       | Finacea Foam                    |
-|                                       | Onexton Gel                     |
-|                                       | Ovace Plus                      |
-|                                       | Plixda AR                       |
-|                                       | Sodium Sulfacetamide/Sulfur Gel |
-|                                       | Sodium Sulfaetamide Pads        |
-|                                       | Tazarotene Cream 0.1% AR        |
-|                                       | Tazarotene Foam 0.1% AR         |
-|                                       | Twyneo AR                       |
-|                                       | Winlevi                         |
+### Preferred
+
+| Preferred                             |      |
+| :------------------------------------ | ---: |
+| Adapalene Gel 0.1% AR                 |      |
+| Azelex Cream                          |      |
+| Benzoyl Peroxide                      |      |
+| Clindamycin Gel                       |      |
+| Clindamycin Lot                       |      |
+| Clindamycin Sol                       |      |
+| Clindamycin/Benzoyl Peroxide          |      |
+| Erythromycin                          |      |
+| Erythromycin/Benzoyl Peroxide         |      |
+| Neuac                                 |      |
+| Sodium Sulfacetamide                  |      |
+| Sodium Sulfacetamide/Sulfur Cream     |      |
+| Sodium Sulfacetamide/Sulfur Wash Susp |      |
+| Tretinoin AR                          |      |
+
+### Non-Preferred
+
+| Non-Preferred                   |      |
+| :------------------------------ | ---: |
+| Adapalene Cream, Sol 0.1% AR    |      |
+| Adapalene Gel 0.3% AR           |      |
+| Adapalene/Benzoyl Peroxide AR   |      |
+| Aklief AR                       |      |
+| Altreno AR                      |      |
+| Amzeeq                          |      |
+| Arazlo AR                       |      |
+| Azelaic Acid Gel                |      |
+| Benzoyl Peroxide Foam           |      |
+| Clindacin Kit                   |      |
+| Clindamycin Foam                |      |
+| Clindamycin Swabs               |      |
+| Clindamycin/Tretinoin AR        |      |
+| Dapsone Gel                     |      |
+| Finacea Foam                    |      |
+| Onexton Gel                     |      |
+| Ovace Plus                      |      |
+| Plixda AR                       |      |
+| Sodium Sulfacetamide/Sulfur Gel |      |
+| Sodium Sulfaetamide Pads        |      |
+| Tazarotene Cream 0.1% AR        |      |
+| Tazarotene Foam 0.1% AR         |      |
+| Twyneo AR                       |      |
+| Winlevi                         |      |
 
 ## Links
 

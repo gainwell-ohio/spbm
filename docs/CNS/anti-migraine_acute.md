@@ -29,21 +29,32 @@ Nurtec ODT quantity limit is 8 per 30 days
 
 Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute
 
-| PREFERRED | NON-PREFERRED |
-| :--- | ---: |
-| Naratriptan QL    | Almotriptan          |
-| Nurtec ODT QL, ST | Dihydroergotamine    |
-| Rizatriptan QL    | Eletriptan           |
-| Sumatriptan QL    | Ergomar              |
-|                   | Frovatriptan         |
-|                   | Migergot             |
-|                   | Onzetra Xsail QL     |
-|                   | Reyvow               |
-|                   | Sumatriptan/Naproxen |
-|                   | Tosymra QL           |
-|                   | Trudhesa             |
-|                   | Ubrelvy              |
-|                   | Zolmitriptan         |
+### Preferred
+
+| Preferred         |      |
+| :---------------- | ---: |
+| Naratriptan QL    |      |
+| Nurtec ODT QL, ST |      |
+| Rizatriptan QL    |      |
+| Sumatriptan QL    |      |
+
+### Non-Preferred
+
+| Non-Preferred        |      |
+| :------------------- | ---: |
+| Almotriptan          |      |
+| Dihydroergotamine    |      |
+| Eletriptan           |      |
+| Ergomar              |      |
+| Frovatriptan         |      |
+| Migergot             |      |
+| Onzetra Xsail QL     |      |
+| Reyvow               |      |
+| Sumatriptan/Naproxen |      |
+| Tosymra QL           |      |
+| Trudhesa             |      |
+| Ubrelvy              |      |
+| Zolmitriptan         |      |
 
 ## Links
 

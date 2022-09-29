@@ -35,12 +35,22 @@ The requested medication may be approved if the following is true:
 
 Topical Agents: Antiparasitics
 
-| PREFERRED                     | NON-PREFERRED |
-|-------------------------------|---------------|
-| Natroba BvG                   | Eurax         |
-| Permethrin                    | Malathion     |
-| Piperonyl Butoxide/Pyrethrins | Sklice        |
-|                               | Spinosad      |
+### Preferred
+
+| Preferred                     |      |
+| :---------------------------- | ---: |
+| Natroba BvG                   |      |
+| Permethrin                    |      |
+| Piperonyl Butoxide/Pyrethrins |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Eurax         |      |
+| Malathion     |      |
+| Sklice        |      |
+| Spinosad      |      |
 
 ## Links
 

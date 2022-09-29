@@ -22,13 +22,23 @@ The requested medication may be approved if both of the following are true:
 
 Otic Agents: Antibacterial and Antibacterial/Steroid Combinations
 
-| PREFERRED                           | NON-PREFERRED               |
-|-------------------------------------|-----------------------------|
-| Cipro HC                            | Ciprofloxacin               |
-| Ciprodex BvG                        | Ciprofloxacin/Dexamethasone |
-| Cortisporin-TC                      | Ciprofloxacin/Fluocinolone  |
-| Neomycin/Polymyxin B/Hydrocortisone |                             |
-| Ofloxacin                           |                             |
+### Preferred
+
+| Preferred                           |      |
+| :---------------------------------- | ---: |
+| Cipro HC                            |      |
+| Ciprodex BvG                        |      |
+| Cortisporin-TC                      |      |
+| Neomycin/Polymyxin B/Hydrocortisone |      |
+| Ofloxacin                           |      |
+
+### Non-Preferred
+
+| Non-Preferred               |      |
+| :-------------------------- | ---: |
+| Ciprofloxacin               |      |
+| Ciprofloxacin/Dexamethasone |      |
+| Ciprofloxacin/Fluocinolone  |      |
 
 ## Links
 

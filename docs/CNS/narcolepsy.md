@@ -48,14 +48,25 @@ Attestation that the patient’s condition has improved while taking the request
 
 Central Nervous System (CNS) Agents: Narcolepsy
 
-| PREFERRED                     | NON-PREFERRED |
-|-------------------------------|---------------|
-| Amphetamine/Dextroamphetamine | Sunosi        |
-| Armodafinil                   | Wakix         |
-| Dextroamphetamine ER          | Xyrem         |
-| Methylphenidate ER            | Xywav         |
-| Methylphenidate Tab           |               |
-| Modafinil                     |               |
+### Preferred
+
+| Preferred                     |      |
+| :---------------------------- | ---: |
+| Amphetamine/Dextroamphetamine |      |
+| Armodafinil                   |      |
+| Dextroamphetamine ER          |      |
+| Methylphenidate ER            |      |
+| Methylphenidate Tab           |      |
+| Modafinil                     |      |
+
+### Non-Preferred
+
+| Preferred |      |
+| :-------- | ---: |
+| Sunosi    |      |
+| Wakix     |      |
+| Xyrem     |      |
+| Xywav     |      |
 
 ## Links
 

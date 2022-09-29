@@ -16,16 +16,25 @@
 
 Cardiovascular Agents: Antiarrhythmics
 
-| PREFERRED        | NON-PREFERRED              |
-|------------------|----------------------------|
-| Amiodarone 200mg | Amiodarone 100mg and 400mg |
-| Disopyramide     | Multaq                     |
-| Dofetilide       |                            |
-| Flecainide       |                            |
-| Mexiletine       |                            |
-| Norpace CR       |                            |
-| Propafenone, ER  |                            |
-| Quinidine, ER    |                            |
+### Preferred
+
+| Preferred        |      |
+| :--------------- | ---: |
+| Amiodarone 200mg |      |
+| Disopyramide     |      |
+| Dofetilide       |      |
+| Flecainide       |      |
+| Mexiletine       |      |
+| Norpace CR       |      |
+| Propafenone, ER  |      |
+| Quinidine, ER    |      |
+
+### Non-Preferred
+
+| Non-Preferred              |      |
+| :------------------------- | ---: |
+| Amiodarone 100mg and 400mg |      |
+| Multaq                     |      |
 
 ## Links
 

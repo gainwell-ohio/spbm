@@ -18,13 +18,21 @@ For a non-preferred agent, there must have been inadequate clinical response to 
 
 Gastrointestinal Agents: Crohn’s Disease
 
-| PREFERRED         | NON-PREFERRED |
-|-------------------|---------------|
-| Azathioprine      | Ortikos ER    |
-| Budesonide ER Cap |               |
-| Mercaptopurine    |               |
-| Methotrexate      |               |
-| Sulfasalazine     |               |
+### Preferred
+
+| Preferred         |      |
+| :---------------- | ---: |
+| Azathioprine      |      |
+| Budesonide ER Cap |      |
+| Mercaptopurine    |      |
+| Methotrexate      |      |
+| Sulfasalazine     |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Ortikos ER    |      |
 
 ## Links
 

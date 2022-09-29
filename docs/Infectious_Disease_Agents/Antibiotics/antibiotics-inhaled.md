@@ -45,12 +45,21 @@ Subsequent authorizations 365 days
 
 Infectious Disease Agents: Antibiotics – Inhaled
 
-| PREFERRED        | NON-PREFERRED    |
-|------------------|------------------|
-| Arikayce PA QL   | Bethkis AR       |
-| Tobramycin AR PA | Cayston AR       |
-|                  | Kitabis Pak AR   |
-|                  | Tobi Podhaler AR |
+### Preferred
+
+| Preferred        |      |
+| :--------------- | ---: |
+| Arikayce PA QL   |      |
+| Tobramycin AR PA |      |
+
+### Non-Preferred
+
+| Non-Preferred    |      |
+| :--------------- | ---: |
+| Bethkis AR       |      |
+| Cayston AR       |      |
+| Kitabis Pak AR   |      |
+| Tobi Podhaler AR |      |
 
 ## Links
 

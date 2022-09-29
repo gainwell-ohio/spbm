@@ -18,13 +18,21 @@ All drugs in this class require step therapy: Patient must have a claim for an a
 
 Ophthalmic Agents: Dry Eye Treatments
 
-| PREFERRED             | NON-PREFERRED       |
-|-----------------------|---------------------|
-| Restasis Trays BvG ST | Cequa               |
-|                       | Eysuvis             |
-|                       | Restasis Multi-Dose |
-|                       | Tyrvaya             |
-|                       | Xiidra              |
+### Preferred
+
+| Preferred             |      |
+| :-------------------- | ---: |
+| Restasis Trays BvG ST |      |
+
+### Non-Preferred
+
+| Non-Preferred       |      |
+| :------------------ | ---: |
+| Cequa               |      |
+| Eysuvis             |      |
+| Restasis Multi-Dose |      |
+| Tyrvaya             |      |
+| Xiidra              |      |
 
 ## Links
 

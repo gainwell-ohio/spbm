@@ -18,24 +18,43 @@ For the date of service only; no refills for acute infection. Refills for up to 
 
 Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments
 
-| PREFERRED                                    | NON-PREFERRED                     |
-|----------------------------------------------|-----------------------------------|
-| Bacitracin-Polymyxin                         | Azasite                           |
-| Ciloxan                                      | Bacitracin                        |
-| Ciprofloxacin                                | Besivance                         |
-| Erythromycin                                 | Blephamide                        |
-| Gentamicin                                   | Gatifloxacin                      |
-| Moxifloxacin                                 | Levofloxacin                      |
-| Neomycin/Polymyxin/Bacitracin                | Moxifloxacin (Generic of Moxeza)  |
-| Neomycin/Polymyxin/Bacitracin/Hydrocortisone | Neomycin/Polymyxin/Hydrocortisone |
-| Neomycin/Polymyxin/Dexamethasone             | Pred-G                            |
-| Neomycin/Polymyxin/Gramicidin                | Tobradex ST BvG                   |
-| Ofloxacin                                    | Tobramycin/Dexamethasone 0.3/0.1% |
-| Polymyxin/Trimethoprim                       | Zylet                             |
-| Sulfacetamide Sodium Ophth Sol 10%           |                                   |
-| Sulfacetamide/Prednisolone                   |                                   |
-| Tobradex BvG                                 |                                   |
-| Tobramycin                                   |                                   |
+### Preferred
+
+| Preferred                                    |      |
+| :------------------------------------------- | ---: |
+| Bacitracin-Polymyxin                         |      |
+| Ciloxan                                      |      |
+| Ciprofloxacin                                |      |
+| Erythromycin                                 |      |
+| Gentamicin                                   |      |
+| Moxifloxacin                                 |      |
+| Neomycin/Polymyxin/Bacitracin                |      |
+| Neomycin/Polymyxin/Bacitracin/Hydrocortisone |      |
+| Neomycin/Polymyxin/Dexamethasone             |      |
+| Neomycin/Polymyxin/Gramicidin                |      |
+| Ofloxacin                                    |      |
+| Polymyxin/Trimethoprim                       |      |
+| Sulfacetamide Sodium Ophth Sol 10%           |      |
+| Sulfacetamide/Prednisolone                   |      |
+| Tobradex BvG                                 |      |
+| Tobramycin                                   |      |
+
+### Non-Preferred
+
+| Non-Preferred                     |      |
+| :-------------------------------- | ---: |
+| Azasite                           |      |
+| Bacitracin                        |      |
+| Besivance                         |      |
+| Blephamide                        |      |
+| Gatifloxacin                      |      |
+| Levofloxacin                      |      |
+| Moxifloxacin (Generic of Moxeza)  |      |
+| Neomycin/Polymyxin/Hydrocortisone |      |
+| Pred-G                            |      |
+| Tobradex ST BvG                   |      |
+| Tobramycin/Dexamethasone 0.3/0.1% |      |
+| Zylet                             |      |
 
 ## Links
 

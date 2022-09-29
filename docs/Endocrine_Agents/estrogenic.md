@@ -16,18 +16,34 @@
 
 Endocrine Agents: Estrogenic Agents
 
-| PREFERRED                               | NON-PREFERRED                   |
-|-----------------------------------------|---------------------------------|
-| Climara Pro                             | Angeliq                         |
-| Combipatch                              | Divigel                         |
-| Estradiol                               | Duavee                          |
-| Estring                                 | Estradiol 10mcg Vag Tab         |
-| Ethinyl Estradiol/Norethindrone Acetate | Estradiol/Norethindrone Acetate |
-| Menest                                  | Evamist                         |
-| Premarin                                | Femring                         |
-| Premphase                               | Menostar                        |
-| Prempro                                 | Minivelle                       |
-|                                         | Prefest                         |
+### Preferred
+
+| Preferred                               |      |
+| :-------------------------------------- | ---: |
+| Climara Pro                             |      |
+| Combipatch                              |      |
+| Estradiol                               |      |
+| Estring                                 |      |
+| Ethinyl Estradiol/Norethindrone Acetate |      |
+| Menest                                  |      |
+| Premarin                                |      |
+| Premphase                               |      |
+| Prempro                                 |      |
+
+### Non-Preferred
+
+| Non-Preferred                   |      |
+| :------------------------------ | ---: |
+| Angeliq                         |      |
+| Divigel                         |      |
+| Duavee                          |      |
+| Estradiol 10mcg Vag Tab         |      |
+| Estradiol/Norethindrone Acetate |      |
+| Evamist                         |      |
+| Femring                         |      |
+| Menostar                        |      |
+| Minivelle                       |      |
+| Prefest                         |      |
 
 ## Links
 

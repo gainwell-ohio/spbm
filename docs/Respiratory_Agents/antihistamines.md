@@ -22,15 +22,27 @@
 
 Respiratory Agents: Antihistamines – Second Generation
 
-| PREFERRED                  | NON-PREFERRED       |
-|----------------------------|---------------------|
-| Cetirizine Syr             | Cetirizine Chewable |
-| Cetirizine Tab             | Clarinex-D          |
-| Cetirizine/Pseudoephedrine | Desloratadine       |
-| Loratadine Rapid Dissolve  | Fexofenadine        |
-| Loratadine Syr             | Levocetirizine      |
-| Loratadine Tab             |                     |
-| Loratadine/Pseudoephedrine |                     |
+### Preferred
+
+| Preferred                  |      |
+| :------------------------- | ---: |
+| Cetirizine Syr             |      |
+| Cetirizine Tab             |      |
+| Cetirizine/Pseudoephedrine |      |
+| Loratadine Rapid Dissolve  |      |
+| Loratadine Syr             |      |
+| Loratadine Tab             |      |
+| Loratadine/Pseudoephedrine |      |
+
+### Non-Preferred
+
+| Non-Preferred       |      |
+| :------------------ | ---: |
+| Cetirizine Chewable |      |
+| Clarinex-D          |      |
+| Desloratadine       |      |
+| Fexofenadine        |      |
+| Levocetirizine      |      |
 
 ## Links
 

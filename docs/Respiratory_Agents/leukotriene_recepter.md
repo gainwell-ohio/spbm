@@ -17,10 +17,19 @@
 
 Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors
 
-| PREFERRED      | NON-PREFERRED |
-|----------------|---------------|
-| Montelukast    | Zileuton      |
-| Zafirlukast ST | Zyflo         |
+### Preferred
+
+| Preferred      |      |
+| :------------- | ---: |
+| Montelukast    |      |
+| Zafirlukast ST |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Zileuton      |      |
+| Zyflo         |      |
 
 ## Links
 

@@ -30,12 +30,22 @@ The requested medication may be approved if the following is true:
 
 Respiratory Agents: Hereditary Angioedema
 
-| PREFERRED   | NON-PREFERRED     |
-|-------------|-------------------|
-| Haegarda PA | Berinert          |
-| Ruconest PA | Cinryze           |
-| Takhzyro PA | Icatibant Acetate |
-|             | Kalbitor          |
+### Preferred
+
+| Preferred   |      |
+| :---------- | ---: |
+| Haegarda PA |      |
+| Ruconest PA |      |
+| Takhzyro PA |      |
+
+### Non-Preferred
+
+| Non-Preferred     |      |
+| :---------------- | ---: |
+| Berinert          |      |
+| Cinryze           |      |
+| Icatibant Acetate |      |
+| Kalbitor          |      |
 
 ## Links
 

@@ -42,9 +42,17 @@ Additional Criteria for Episodic Cluster Headache
 
 Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache
 
-| PREFERRED | NON-PREFERRED |
-| :---| ---: |
-| Verapamil | Emgality |
+### Preferred
+
+| Preferred |      |
+| :-------- | ---: |
+| Verapamil |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Emgality      |      |
 
 ## Links
 

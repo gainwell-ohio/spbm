@@ -6,7 +6,7 @@
 
 ## Prior Authorization Criteria
 
-1\. Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+1. Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
 
 -   Allergy to medications not requiring prior approval
 -   Contraindication to or drug interaction with medications not requiring prior approval
@@ -26,14 +26,22 @@ There must have been a therapeutic failure of at least a 30-day trial with both 
 
 Endocrine Agents: Endometriosis
 
-| PREFERRED                     | NON-PREFERRED |
-|-------------------------------|---------------|
-| Danazol ST                    | Synarel       |
-| Depo-Subq Provera 104 ST      |               |
-| Lupaneta Pack ST              |               |
-| Lupron Depot ST 3.75, 11.25mg |               |
-| Orilissa ST                   |               |
-| Zoladex ST                    |               |
+### Preferred
+
+| Preferred                     |      |
+| :---------------------------- | ---: |
+| Danazol ST                    |      |
+| Depo-Subq Provera 104 ST      |      |
+| Lupaneta Pack ST              |      |
+| Lupron Depot ST 3.75, 11.25mg |      |
+| Orilissa ST                   |      |
+| Zoladex ST                    |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Synarel       |      |
 
 ## Links
 

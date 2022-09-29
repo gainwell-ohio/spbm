@@ -18,10 +18,19 @@ The requested medication may be approved if there has been therapeutic failure u
 
 Respiratory Agents: Epinephrine Auto-Injectors
 
-| PREFERRED                   | NON-PREFERRED |
-|-----------------------------|---------------|
-| Epinephrine (labeler 49502) | Epipen        |
-| Symjepi                     | Epipen JR     |
+### Preferred
+
+| Preferred                   |      |
+| :-------------------------- | ---: |
+| Epinephrine (labeler 49502) |      |
+| Symjepi                     |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Epipen        |      |
+| Epipen JR     |      |
 
 ## Links
 

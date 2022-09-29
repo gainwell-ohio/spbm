@@ -29,23 +29,42 @@ Additional Clinical Criteria for Inhaled Insulin
 
 Endocrine Agents: Diabetes – Insulin
 
-| PREFERRED                               | NON-PREFERRED    |
-|-----------------------------------------|------------------|
-| Apidra                                  | Admelog          |
-| Humalog 50-50                           | Afrezza          |
-| Humalog 75-25                           | Basaglar         |
-| Humalog U-100                           | Fiasp            |
-| Humulin 70-30                           | Humalog U-200    |
-| Humulin R U-500                         | Humulin N U-100  |
-| Insulin Aspart                          | Humulin R U-100  |
-| Insulin Aspart Protamine/Insulin Aspart | Insulin glargine |
-| Insulin Lispro                          | Lyumjev          |
-| Lantus BvG                              | Novolin 70-30    |
-| Levemir                                 | Novolin N U-100  |
-| Novolog 70-30                           | Novolin R U-100  |
-| Novolog U-100                           |                  |
-| Toujeo                                  |                  |
-| Tresiba ST                              |                  |
+### Preferred
+
+| Preferred                               |      |
+| :-------------------------------------- | ---: |
+| Apidra                                  |      |
+| Humalog 50-50                           |      |
+| Humalog 75-25                           |      |
+| Humalog U-100                           |      |
+| Humulin 70-30                           |      |
+| Humulin R U-500                         |      |
+| Insulin Aspart                          |      |
+| Insulin Aspart Protamine/Insulin Aspart |      |
+| Insulin Lispro                          |      |
+| Lantus BvG                              |      |
+| Levemir                                 |      |
+| Novolog 70-30                           |      |
+| Novolog U-100                           |      |
+| Toujeo                                  |      |
+| Tresiba ST                              |      |
+
+### Non-Preferred
+
+| Non-Preferred    |      |
+| :--------------- | ---: |
+| Admelog          |      |
+| Afrezza          |      |
+| Basaglar         |      |
+| Fiasp            |      |
+| Humalog U-200    |      |
+| Humulin N U-100  |      |
+| Humulin R U-100  |      |
+| Insulin glargine |      |
+| Lyumjev          |      |
+| Novolin 70-30    |      |
+| Novolin N U-100  |      |
+| Novolin R U-100  |      |
 
 ## Links
 

@@ -29,12 +29,22 @@ AR - Ciprofloxacin Suspension: a PA is required for patients over 12 years old
 
 Infectious Disease Agents: Antibiotics – Quinolones
 
-| PREFERRED             | NON-PREFERRED    |
-|-----------------------|------------------|
-| Ciprofloxacin         | Baxdela          |
-| Ciprofloxacin Susp AR | Ciprofloxacin ER |
-| Levofloxacin          | Moxifloxacin     |
-|                       | Ofloxacin        |
+### Preferred
+
+| Preferred             |      |
+| :-------------------- | ---: |
+| Ciprofloxacin         |      |
+| Ciprofloxacin Susp AR |      |
+| Levofloxacin          |      |
+
+### Non-Preferred
+
+| Non-Preferred    |      |
+| :--------------- | ---: |
+| Baxdela          |      |
+| Ciprofloxacin ER |      |
+| Moxifloxacin     |      |
+| Ofloxacin        |      |
 
 ## Links
 

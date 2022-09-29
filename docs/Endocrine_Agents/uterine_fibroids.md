@@ -20,10 +20,18 @@ Patients who have been treated with Lupron Depot for 180 days or more are not el
 
 Endocrine Agents: Uterine Fibroids
 
-| PREFERRED                     | NON-PREFERRED |
-|-------------------------------|---------------|
-| Lupron Depot PA 3.75, 11.25mg | Myfembree     |
-| Oriahnn PA                    |               |
+### Preferred
+
+| Preferred                     |      |
+| :---------------------------- | ---: |
+| Lupron Depot PA 3.75, 11.25mg |      |
+| Oriahnn PA                    |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Myfembree     |      |
 
 ## Links
 

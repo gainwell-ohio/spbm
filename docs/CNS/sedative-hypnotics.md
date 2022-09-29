@@ -18,16 +18,27 @@
 
 Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate
 
-| PREFERRED          | NON-PREFERRED       |
-|--------------------|---------------------|
-| Estazolam          | Belsomra            |
-| Temazepam 15, 30mg | Dayvigo             |
-| Zaleplon           | Doxepin 3, 6mg      |
-| Zolpidem           | Eszopiclone         |
-|                    | Intermezzo          |
-|                    | Ramelteon           |
-|                    | Temazepam 7.5, 22mg |
-|                    | Zolpidem ER and SL  |
+### Preferred
+
+| Preferred          |      |
+| :----------------- | ---: |
+| Estazolam          |      |
+| Temazepam 15, 30mg |      |
+| Zaleplon           |      |
+| Zolpidem           |      |
+
+### Non-Preferred
+
+| Non-Preferred       |      |
+| :------------------ | ---: |
+| Belsomra            |      |
+| Dayvigo             |      |
+| Doxepin 3, 6mg      |      |
+| Eszopiclone         |      |
+| Intermezzo          |      |
+| Ramelteon           |      |
+| Temazepam 7.5, 22mg |      |
+| Zolpidem ER and SL  |      |
 
 ## Links
 

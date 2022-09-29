@@ -37,11 +37,20 @@ AR - pimecrolimus and tacrolimus: a PA is required for patients younger than 2 y
 
 Topical Agents: Immunomodulators
 
-| PREFERRD         | NON-PREFERRED |
-|------------------|---------------|
-| Elidel AR BvG ST | Eucrisa       |
-| Protopic AR ST   | Opzelura      |
-|                  | Pimecrolimus  |
+### Preferred
+
+| Preferred        |      |
+| :--------------- | ---: |
+| Elidel AR BvG ST |      |
+| Protopic AR ST   |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Eucrisa       |      |
+| Opzelura      |      |
+| Pimecrolimus  |      |
 
 ## Links
 

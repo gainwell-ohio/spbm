@@ -52,12 +52,22 @@ The requested medication may be approved if the following is true:
 
 Analgesic Agents: Gout
 
-| PREFERRED                 | NON-PREFERRED       |
-| :--- | ---: |
-| Allopurinol               | Colchicine Cap QL   |
-| Colchicine Tab PA QL      | Gloperba Susp QL    |
-| Probenecid                | Uloric BvG          |
-|Probenecid/Colchicine PA   |                     |
+### Preferred
+
+| Preferred                |      |
+| :----------------------- | ---: |
+| Allopurinol              |      |
+| Colchicine Tab PA QL     |      |
+| Probenecid               |      |
+| Probenecid/Colchicine PA |      |
+
+### Non-Preferred
+
+| Non-Preferred     |      |
+| :---------------- | ---: |
+| Colchicine Cap QL |      |
+| Gloperba Susp QL  |      |
+| Uloric BvG        |      |
 
 ## Links
 

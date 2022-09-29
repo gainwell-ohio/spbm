@@ -79,15 +79,24 @@ Patients must have ONE of the following diagnoses along with documentation of me
 
 Endocrine Agents: Growth Hormone
 
-| PREFERRED      | NON-PREFERRED |
-|----------------|---------------|
-| Norditropin PA | Genotropin    |
-| Omnitrope PA   | Humatrope     |
-|                | Nutropin      |
-|                | Saizen        |
-|                | Serostim      |
-|                | Skytrofa      |
-|                | Zomacton      |
+### Preferred
+
+| Preferred      |      |
+| :------------- | ---: |
+| Norditropin PA |      |
+| Omnitrope PA   |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Genotropin    |      |
+| Humatrope     |      |
+| Nutropin      |      |
+| Saizen        |      |
+| Serostim      |      |
+| Skytrofa      |      |
+| Zomacton      |      |
 
 ## Links
 

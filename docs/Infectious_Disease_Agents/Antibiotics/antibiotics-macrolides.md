@@ -24,11 +24,20 @@ If the patient is completing a course of therapy with a medication requiring pri
 
 Infectious Disease Agents: Antibiotics – Macrolides
 
-| PREFERRED      | NON-PREFERRED       |
-|----------------|---------------------|
-| Azithromycin   | Eryped              |
-| Clarithromycin | Erythrocin Stearate |
-|                | Erythromycin        |
+### Preferred
+
+| Preferred      |      |
+| :------------- | ---: |
+| Azithromycin   |      |
+| Clarithromycin |      |
+
+### Non-Preferred
+
+| Non-Preferred       |      |
+| :------------------ | ---: |
+| Eryped              |      |
+| Erythrocin Stearate |      |
+| Erythromycin        |      |
 
 ## Links
 

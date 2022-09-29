@@ -23,16 +23,26 @@ Patient must have diagnosis of benign prostatic hyperplasia and have a therapeut
 
 Genitourinary Agents: Benign Prostatic Hyperplasia
 
-| PREFERRED             | NON-PREFERRED          |
-|-----------------------|------------------------|
-| Alfuzosin             | Cardura XL             |
-| Doxazosin             | Dutasteride/Tamsulosin |
-| Dutasteride           | Silodosin              |
-| Finasteride           |                        |
-| Prazosin              |                        |
-| Tadalafil PA 2.5, 5mg |                        |
-| Tamsulosin            |                        |
-| Terazosin             |                        |
+### Preferred
+
+| Preferred             |      |
+| :-------------------- | ---: |
+| Alfuzosin             |      |
+| Doxazosin             |      |
+| Dutasteride           |      |
+| Finasteride           |      |
+| Prazosin              |      |
+| Tadalafil PA 2.5, 5mg |      |
+| Tamsulosin            |      |
+| Terazosin             |      |
+
+### Non-Preferred
+
+| Non-Preferred          |      |
+| :--------------------- | ---: |
+| Cardura XL             |      |
+| Dutasteride/Tamsulosin |      |
+| Silodosin              |      |
 
 ## Links
 

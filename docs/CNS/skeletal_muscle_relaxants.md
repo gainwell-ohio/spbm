@@ -37,17 +37,30 @@ Additional Carisoprodol (Soma) Criteria
 
 Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine
 
-| PREFERRED                  | NON-PREFERRED              |
-|----------------------------|----------------------------|
-| Baclofen Tab               | Baclofen Solution          |
-| Chlorzoxazone 250mg, 500mg | Carisoprodol               |
-| Cyclobenzaprine 5, 10mg    | Chlorzoxazone 375mg, 750mg |
-| Dantrolene                 | Cyclobenzaprine 7.5mg      |
-| Methocarbamol              | Cyclobenzaprine ER         |
-| Tizanidine Tab             | Fleqsuvy                   |
-|                            | Metaxalone                 |
-|                            | Orphenadrine               |
-|                            | Tizanidine Cap             |
+### Preferred
+
+| Preferred                  |      |
+| :------------------------- | ---: |
+| Baclofen Tab               |      |
+| Chlorzoxazone 250mg, 500mg |      |
+| Cyclobenzaprine 5, 10mg    |      |
+| Dantrolene                 |      |
+| Methocarbamol              |      |
+| Tizanidine Tab             |      |
+
+### Non-Preferred
+
+| Non-Preferred              |      |
+| :------------------------- | ---: |
+| Baclofen Solution          |      |
+| Carisoprodol               |      |
+| Chlorzoxazone 375mg, 750mg |      |
+| Cyclobenzaprine 7.5mg      |      |
+| Cyclobenzaprine ER         |      |
+| Fleqsuvy                   |      |
+| Metaxalone                 |      |
+| Orphenadrine               |      |
+| Tizanidine Cap             |      |
 
 ## Links
 

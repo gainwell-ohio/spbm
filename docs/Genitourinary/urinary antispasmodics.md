@@ -22,15 +22,28 @@ AR – Myrbetriq Sol: PA is not required for patients that are 3-5 years of age.
 
 Genitourinary Agents: Urinary Antispasmodics
 
-| PREFERRED         | NON-PREFERRED         |
-|-------------------|-----------------------|
-| Gelnique          | Darifenacin           |
-| Myrbetriq Tab     | Fesoterodine          |
-| Oxybutynin        | Gemtesa               |
-| Oxytrol For Women | Myrbetriq Granules AR |
-| Solifenacin       | Tolterodine           |
-| Toviaz BvG        | Trospium              |
-|                   | Vesicare LS AR        |
+### Preferred
+
+| Preferred         |      |
+| :---------------- | ---: |
+| Gelnique          |      |
+| Myrbetriq Tab     |      |
+| Oxybutynin        |      |
+| Oxytrol For Women |      |
+| Solifenacin       |      |
+| Toviaz BvG        |      |
+
+### Non-Preferred
+
+| Non-Preferred         |      |
+| :-------------------- | ---: |
+| Darifenacin           |      |
+| Fesoterodine          |      |
+| Gemtesa               |      |
+| Myrbetriq Granules AR |      |
+| Tolterodine           |      |
+| Trospium              |      |
+| Vesicare LS AR        |      |
 
 ## Links
 

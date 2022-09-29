@@ -16,13 +16,22 @@ Requested medication must be used for an approved FDA indication and duration
 
 Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet
 
-| PREFERRED               | NON-PREFERRED |
-|-------------------------|---------------|
-| Aspirin                 | Yosprala      |
-| Aspirin/Dipyridamole ER | Zontivity     |
-| Brilinta                |               |
-| Clopidogrel             |               |
-| Prasugrel               |               |
+### Preferred
+
+| Preferred               |      |
+| :---------------------- | ---: |
+| Aspirin                 |      |
+| Aspirin/Dipyridamole ER |      |
+| Brilinta                |      |
+| Clopidogrel             |      |
+| Prasugrel               |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Yosprala      |      |
+| Zontivity     |      |
 
 ## Links
 

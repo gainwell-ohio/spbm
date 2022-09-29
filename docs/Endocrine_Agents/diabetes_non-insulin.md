@@ -23,7 +23,7 @@ Is there any reason the patient cannot be changed to a medication within the sam
 #### Diabetes - Oral Hypoglycemics, Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitor And DPP-4 Combinations
 
 | **Preferred**                                                                 | **Non-Preferred**                      |
-|-------------------------------------------------------------------------------|----------------------------------------|
+| ----------------------------------------------------------------------------- | -------------------------------------- |
 | No less than **90 days** of at least **one** preferred DPP-4 and SGLT product | GLYXAMBI (empagliflozin/ linagliptin)  |
 |                                                                               | QTERN (dapaglifozin-saxagliptin)       |
 |                                                                               | STEGLUJAN™ (ertugliflozin/sitagliptin) |
@@ -34,36 +34,69 @@ Soliqua and Xultophy Request must address inability to use the individual compon
 
 Endocrine Agents: Diabetes – Non-Insulin
 
-| PREFERRED                               | NON-PREFERRED                      |
-|-----------------------------------------|------------------------------------|
-| Acarbose                                | Adlyxin                            |
-| Actoplus Met XR                         | Alogliptin                         |
-| Byetta                                  | Alogliptin/Metformin               |
-| Farxiga                                 | Bydureon Bcise                     |
-| Glimepiride                             | Glimepiride/Pioglitazone           |
-| Glipizide                               | Glucophage                         |
-| Glipizide/Metformin                     | Glyxambi                           |
-| Glyburide                               | Invokamet XR                       |
-| Glyburide/Metformin                     | Jentadueto XR                      |
-| Invokamet                               | Kombiglyze XR                      |
-| Invokana                                | Metformin ER (Generic of Fortamet) |
-| Janumet                                 | Metformin Sol                      |
-| Janumet XR                              | Onglyza                            |
-| Januvia                                 | Ozempic                            |
-| Jardiance                               | Pioglitazone/Alogliptin            |
-| Jentadueto                              | Qtern                              |
-| Metformin                               | Rybelsus                           |
-| Metformin ER (Generic of Glucophage XR) | Segluromet                         |
-| Miglitol                                | Soliqua                            |
-| Nateglinide                             | Steglatro                          |
-| Pioglitazone                            | Steglujan                          |
-| Pioglitazone/Metformin                  | Symlinpen                          |
-| Repaglinide                             | Synjardy XR                        |
-| Repaglinide/Metformin                   | Trijardy XR                        |
-| Synjardy                                | Xigduo XR                          |
-| Tradjenta                               | Xultophy                           |
-| Trulicity                               |                                    |
-| Victoza                                 |                                    |
+### Preferred
+
+| Preferred                               |      |
+| :-------------------------------------- | ---: |
+| Acarbose                                |      |
+| Actoplus Met XR                         |      |
+| Byetta                                  |      |
+| Farxiga                                 |      |
+| Glimepiride                             |      |
+| Glipizide                               |      |
+| Glipizide/Metformin                     |      |
+| Glyburide                               |      |
+| Glyburide/Metformin                     |      |
+| Invokamet                               |      |
+| Invokana                                |      |
+| Janumet                                 |      |
+| Janumet XR                              |      |
+| Januvia                                 |      |
+| Jardiance                               |      |
+| Jentadueto                              |      |
+| Metformin                               |      |
+| Metformin ER (Generic of Glucophage XR) |      |
+| Miglitol                                |      |
+| Nateglinide                             |      |
+| Pioglitazone                            |      |
+| Pioglitazone/Metformin                  |      |
+| Repaglinide                             |      |
+| Repaglinide/Metformin                   |      |
+| Synjardy                                |      |
+| Tradjenta                               |      |
+| Trulicity                               |      |
+| Victoza                                 |      |
+
+### Non-Preferred
+
+| Non-Preferred                      |      |
+| :--------------------------------- | ---: |
+| Adlyxin                            |      |
+| Alogliptin                         |      |
+| Alogliptin/Metformin               |      |
+| Bydureon Bcise                     |      |
+| Glimepiride/Pioglitazone           |      |
+| Glucophage                         |      |
+| Glyxambi                           |      |
+| Invokamet XR                       |      |
+| Jentadueto XR                      |      |
+| Kombiglyze XR                      |      |
+| Metformin ER (Generic of Fortamet) |      |
+| Metformin Sol                      |      |
+| Onglyza                            |      |
+| Ozempic                            |      |
+| Pioglitazone/Alogliptin            |      |
+| Qtern                              |      |
+| Rybelsus                           |      |
+| Segluromet                         |      |
+| Soliqua                            |      |
+| Steglatro                          |      |
+| Steglujan                          |      |
+| Symlinpen                          |      |
+| Synjardy XR                        |      |
+| Trijardy XR                        |      |
+| Xigduo XR                          |      |
+| Xultophy                           |      |
 
 ## Links
 

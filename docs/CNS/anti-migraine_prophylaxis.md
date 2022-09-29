@@ -51,14 +51,24 @@ Additional Criteria for Migraine Prophylaxis
 
 Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis
 
-| PREFERRED | NON-PREFERRED |
-| :--- | ---: |
-| Aimovig QL ST                         | Emgality   |
-| Ajovy ST                              | Nurtec ODT |
-| Cardiovascular Agents: Beta-Blockers  | Qulipta    |
-| CNS Agents: Anticonvulsants           |            |
-| CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors | |
-| CNS Agents: Tricyclic Antidepressants |            |
+### Preferred
+
+| Preferred                                                |      |
+| :------------------------------------------------------- | ---: |
+| Aimovig QL ST                                            |      |
+| Ajovy ST                                                 |      |
+| Cardiovascular Agents: Beta-Blockers                     |      |
+| CNS Agents: Anticonvulsants                              |      |
+| CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors |      |
+| CNS Agents: Tricyclic Antidepressants                    |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Emgality      |      |
+| Nurtec ODT    |      |
+| Qulipta       |      |
 
 ## Links
 

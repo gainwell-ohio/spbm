@@ -17,19 +17,37 @@ Duration of the prescription (up to 180 days)
 
 Topical Agents: Antifungals
 
-| PREFERRED                  | NON-PREFERRED                               |
-|----------------------------|---------------------------------------------|
-| Alevazol                   | Butenafine                                  |
-| Ciclopirox                 | Ciclopirox Kit                              |
-| Clotrimazole               | Ertaczo                                     |
-| Clotrimazole/Betamethasone | Jublia                                      |
-| Econazole                  | Ketoconazole Foam                           |
-| Ketoconazole               | Luliconazole                                |
-| Miconazole                 | Miconazole/Zinc Oxide/White Petrolatum Oint |
-| Nystatin                   | Naftifine                                   |
-| Nystatin/Triamcinolone     | Oxiconazole                                 |
-| Terbinafine                | Tavaborole                                  |
-| Tolnaftate                 |                                             |
+### Preferred
+
+| Preferred                  |      |
+| :------------------------- | ---: |
+| Alevazol                   |      |
+| Ciclopirox                 |      |
+| Clotrimazole               |      |
+| Clotrimazole/Betamethasone |      |
+| Econazole                  |      |
+| Ketoconazole               |      |
+| Miconazole                 |      |
+| Nystatin                   |      |
+| Nystatin/Triamcinolone     |      |
+| Terbinafine                |      |
+| Tolnaftate                 |      |
+
+### Non-Preferred
+
+| Non-Preferred                               |      |
+| :------------------------------------------ | ---: |
+| Butenafine                                  |      |
+| Ciclopirox Kit                              |      |
+| Ertaczo                                     |      |
+| Jublia                                      |      |
+| Ketoconazole Foam                           |      |
+| Luliconazole                                |      |
+| Miconazole/Zinc Oxide/White Petrolatum Oint |      |
+| Naftifine                                   |      |
+| Oxiconazole                                 |      |
+| Tavaborole                                  |      |
+
 
 ## Links
 

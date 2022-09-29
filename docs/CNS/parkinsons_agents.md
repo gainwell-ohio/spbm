@@ -25,25 +25,39 @@ The requested medication may be approved if both of the following are true:
 
 Central Nervous System (CNS) Agents: Parkinson's Agents
 
-| PREFERRED          | NON-PREFERRED                      |
-|--------------------|------------------------------------|
-| Amantadine         | Apokyn                             |
-| Carbidopa          | Carbidopa/Levodopa Dispersible Tab |
-| Carbidopa/Levodopa | Carbidopa/Levodopa/Entacapone      |
-| Entacapone         | Gocovri                            |
-| Pramipexole        | Inbrija                            |
-| Ropinirole         | Kynmobi                            |
-| Selegiline         | Neupro                             |
-|                    | Nourianz                           |
-|                    | Ongentys                           |
-|                    | Osmolex ER                         |
-|                    | Pramipexole ER                     |
-|                    | Rasagiline                         |
-|                    | Ropinirole ER                      |
-|                    | Rytary                             |
-|                    | Tolcapone                          |
-|                    | Xadago                             |
-|                    | Zelapar                            |
+### Preferred
+
+| Preferred          |      |
+| :----------------- | ---: |
+| Amantadine         |      |
+| Carbidopa          |      |
+| Carbidopa/Levodopa |      |
+| Entacapone         |      |
+| Pramipexole        |      |
+| Ropinirole         |      |
+| Selegiline         |      |
+
+### Non-Preferred
+
+| Non-Preferred                      |      |
+| :--------------------------------- | ---: |
+| Apokyn                             |      |
+| Carbidopa/Levodopa Dispersible Tab |      |
+| Carbidopa/Levodopa/Entacapone      |      |
+| Gocovri                            |      |
+| Inbrija                            |      |
+| Kynmobi                            |      |
+| Neupro                             |      |
+| Nourianz                           |      |
+| Ongentys                           |      |
+| Osmolex ER                         |      |
+| Pramipexole ER                     |      |
+| Rasagiline                         |      |
+| Ropinirole ER                      |      |
+| Rytary                             |      |
+| Tolcapone                          |      |
+| Xadago                             |      |
+| Zelapar                            |      |
 
 ## Links
 

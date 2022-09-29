@@ -6,12 +6,20 @@ All products are covered without a PA
 
 Central Nervous System (CNS) Agents: Smoking Deterrents
 
-| PREFERRED | NON-PREFERRED |
-| :--- | ---: |
-| Nicotine    | |
-| Bupropion   | |
-| Chantix     | |
-| Varenicline | |
+### Preferred
+
+| Preferred   |      |
+| :---------- | ---: |
+| Nicotine    |      |
+| Bupropion   |      |
+| Chantix     |      |
+| Varenicline |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+|               |      |
 
 ## Links
 

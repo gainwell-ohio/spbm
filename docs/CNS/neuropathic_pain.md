@@ -20,20 +20,31 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 
 Central Nervous System (CNS) Agents: Neuropathic Pain
 
-| PREFERRED                          | NON-PREFERRED |
-|------------------------------------|---------------|
-| Amitriptyline                      | Gralise       |
-| Carbamazepine                      | Horizant      |
-| Desipramine                        | Pregabalin ER |
-| Doxepin 10, 25, 50, 75, 100, 150mg | Ztlido        |
-| Doxepin 10mg/m Sol                 |               |
-| Duloxetine                         |               |
-| Gabapentin                         |               |
-| Imipramine                         |               |
-| Lidocaine Patch                    |               |
-| Nortriptyline                      |               |
-| Oxcarbazepine                      |               |
-| Pregabalin                         |               |
+### Preferred
+
+| Preferred                          |      |
+| :--------------------------------- | ---: |
+| Amitriptyline                      |      |
+| Carbamazepine                      |      |
+| Desipramine                        |      |
+| Doxepin 10, 25, 50, 75, 100, 150mg |      |
+| Doxepin 10mg/m Sol                 |      |
+| Duloxetine                         |      |
+| Gabapentin                         |      |
+| Imipramine                         |      |
+| Lidocaine Patch                    |      |
+| Nortriptyline                      |      |
+| Oxcarbazepine                      |      |
+| Pregabalin                         |      |
+
+### Non-Preferred
+
+| Preferred     |      |
+| :------------ | ---: |
+| Gralise       |      |
+| Horizant      |      |
+| Pregabalin ER |      |
+| Ztlido        |      |
 
 ## Links
 

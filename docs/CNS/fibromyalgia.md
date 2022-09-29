@@ -26,9 +26,17 @@
 
 Central Nervous System (CNS) Agents: Fibromyalgia Agents
 
-| PREFERRED  | NON-PREFERRED |
-|------------|---------------|
-| Pregabalin | Savella       |
+### Preferred
+
+| Preferred  |      |
+| :--------- | ---: |
+| Pregabalin |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Savella       |      |
 
 ## Links
 

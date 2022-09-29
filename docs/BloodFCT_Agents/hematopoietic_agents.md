@@ -9,7 +9,7 @@ Dependent upon diagnosis
 ### Approval of epoetin alfa or darbepoetin
 
 | Diagnosis                                                    | Hemoglobin Level | Approval Length |
-|--------------------------------------------------------------|------------------|-----------------|
+| ------------------------------------------------------------ | ---------------- | --------------- |
 | Anemia due to chronic renal failure, patient on dialysis     | \<=11            | 365 days        |
 | Anemia due to chronic renal failure, patient not on dialysis | \<=10            | 365 days        |
 | Chemotherapy-induced anemia                                  | \<=10            | 90 days         |
@@ -18,7 +18,7 @@ Dependent upon diagnosis
 ### Approval of epoetin alfa only (not darbepoetin)
 
 | Diagnosis                                                                           | Hemoglobin Level | Approval Length |
-|-------------------------------------------------------------------------------------|------------------|-----------------|
+| ----------------------------------------------------------------------------------- | ---------------- | --------------- |
 | Autologous blood donation, patient will require blood transfusions                  | \>10, \<=13      | 30 days         |
 | Anemia of prematurity, age \<=6 months                                              | N/A              | 42 days         |
 | Anemia associated with chronic inflammatory disorders (e.g., rheumatoid arthritis)  | \<=11            | 180 days        |
@@ -37,11 +37,20 @@ Dependent upon diagnosis
 
 Blood Agents: Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents
 
-| PREFERRED   | NON-PREFERRED |
-|-------------|---------------|
-| Epogen PA   | Aranesp       |
-| Mircera PA  | Procrit       |
-| Retacrit PA |               |
+### Preferred
+
+| Preferred   |      |
+| :---------- | ---: |
+| Epogen PA   |      |
+| Mircera PA  |      |
+| Retacrit PA |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Aranesp       |      |
+| Procrit       |      |
 
 ## Links
 

@@ -20,10 +20,19 @@ The requested medication may be approved if there has been a therapeutic failure
 
 Central Nervous System (CNS) Agents: Restless Legs Syndrome
 
-| PREFERRED   | NON-PREFERRED |
-|-------------|---------------|
-| Pramipexole | Horizant      |
-| Ropinirole  | Neupro        |
+### Preferred
+
+| Preferred   |      |
+| :---------- | ---: |
+| Pramipexole |      |
+| Ropinirole  |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Horizant      |      |
+| Neupro        |      |
 
 ## Links
 

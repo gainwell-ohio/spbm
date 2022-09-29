@@ -28,19 +28,34 @@ Additional Mayzent Requirements
 
 Central Nervous System (CNS) Agents: Multiple Sclerosis
 
-| PREFERRED         | NON-PREFERRED |
-|-------------------|---------------|
-| Aubagio           | Bafiertam     |
-| Avonex            | Extavia       |
-| Betaseron         | Glatiramer    |
-| Copaxone BvG      | Glatopa       |
-| Dalfampridine     | Kesimpta      |
-| Dimethyl Fumarate | Mavenclad     |
-| Gilenya           | Mayzent QL    |
-| Rebif             | Plegridy      |
-|                   | Ponvory       |
-|                   | Vumerity      |
-|                   | Zeposia       |
+### Preferred
+
+| Preferred         |      |
+| :---------------- | ---: |
+| Aubagio           |      |
+| Avonex            |      |
+| Betaseron         |      |
+| Copaxone BvG      |      |
+| Dalfampridine     |      |
+| Dimethyl Fumarate |      |
+| Gilenya           |      |
+| Rebif             |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Bafiertam     |      |
+| Extavia       |      |
+| Glatiramer    |      |
+| Glatopa       |      |
+| Kesimpta      |      |
+| Mavenclad     |      |
+| Mayzent QL    |      |
+| Plegridy      |      |
+| Ponvory       |      |
+| Vumerity      |      |
+| Zeposia       |      |
 
 ## Links
 

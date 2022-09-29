@@ -4,8 +4,8 @@
 
 365 days all Lipotropics
 
-| **Trial period**            | 30 days for HMG-CoA Reductase Inhibitors, Niacin derivatives, ezetimibe (Zetia), 90 days for Fibrates, and 84 days for ATP Citrate Lyase (ACL) Inhibitors                                      |
-| --------------------------- | ------------------------------------------------------- |
+| **Trial period**            | 30 days for HMG-CoA Reductase Inhibitors, Niacin derivatives, ezetimibe (Zetia), 90 days for Fibrates, and 84 days for ATP Citrate Lyase (ACL) Inhibitors                                |
+| --------------------------- | ------------------------------------------------- |
 | **Number of non-PA agents** | 1 medication – The assumption is that the medication must be in the same class of the medication requested, if available, except for HMG-CoA reductase inhibitors- see specific criteria |
 
 ## Prior Authorization Criteria
@@ -85,24 +85,47 @@ Subsequent approvals will require additional levels drawn to assess response to 
 
 Cardiovascular Agents: Lipotropics
 
-| PREFERRED                    | NON-PREFERRED                                          |
-| ---------------------------- | ------------------------------------------------------ |
-| Atorvastatin                 | Altoprev                                               |
-| Cholestyramine, Light        | Amlodipine/Atorvastatin                                |
-| Colestipol Tab               | Colesevelam                                            |
-| Ezetimibe                    | Colestipol Granules                                    |
-| Fenofibrate 48 and 145mg Tab | Ezetimibe/Simvastatin                                  |
-| Gemfibrozil                  | Ezallor                                                |
-| Lovastatin                   | Fenofibrate 30, 43, 50, 67, 90, 130, 134 and 150mg Cap |
-| Omega-3-Acid Ethyl Esters    | Fenofibrate 40, 54, 120 and 160mg Tab                  |
-| Niacin OTC                   | Fenofibric Acid                                        |
-| Niacin ER OTC                | Fluvastatin                                            |
-| Praluent PA                  | Livalo                                                 |
-| Pravastatin                  | Nexletol                                               |
-| Prevalite                    | Nexlizet                                               |
-| Repatha PA                   | Niacin ER Tab                                          |
-| Rosuvastatin                 | Vascepa                                                |
-| Simvastatin                  | Zypitamag                                              |
+### Preferred
+
+| Preferred                    |      |
+| :--------------------------- | ---: |
+| Atorvastatin                 |      |
+| Cholestyramine, Light        |      |
+| Colestipol Tab               |      |
+| Ezetimibe                    |      |
+| Fenofibrate 48 and 145mg Tab |      |
+| Gemfibrozil                  |      |
+| Lovastatin                   |      |
+| Omega-3-Acid Ethyl Esters    |      |
+| Niacin OTC                   |      |
+| Niacin ER OTC                |      |
+| Praluent PA                  |      |
+| Pravastatin                  |      |
+| Prevalite                    |      |
+| Repatha PA                   |      |
+| Rosuvastatin                 |      |
+| Simvastatin                  |      |
+
+### Non-Preferred
+
+| Non-Preferred                                          |      |
+| :----------------------------------------------------- | ---: |
+| Altoprev                                               |      |
+| Amlodipine/Atorvastatin                                |      |
+| Colesevelam                                            |      |
+| Colestipol Granules                                    |      |
+| Ezetimibe/Simvastatin                                  |      |
+| Ezallor                                                |      |
+| Fenofibrate 30, 43, 50, 67, 90, 130, 134 and 150mg Cap |      |
+| Fenofibrate 40, 54, 120 and 160mg Tab                  |      |
+| Fenofibric Acid                                        |      |
+| Fluvastatin                                            |      |
+| Livalo                                                 |      |
+| Nexletol                                               |      |
+| Nexlizet                                               |      |
+| Niacin ER Tab                                          |      |
+| Vascepa                                                |      |
+| Zypitamag                                              |      |
 
 ## Links
 

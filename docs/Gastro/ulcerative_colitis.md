@@ -25,16 +25,28 @@ Budesonide ER 9mg tablet quantity limit of 56 tablets per 90 days
 
 Gastrointestinal Agents: Ulcerative Colitis
 
-| PREFERRED            | NON-PREFERRED     |
-|----------------------|-------------------|
-| Balsalazide Disodium | Dipentum          |
-| Budesonide ER Tab QL | Mesalamine DR Tab |
-| Lialda BvG           | Mesalamine Supp   |
-| Mesalamine DR Cap    | Uceris Foam       |
-| Mesalamine Enema     | Zeposia           |
-| Mesalamine ER        |                   |
-| Pentasa BvG          |                   |
-| Sulfasalazine        |                   |
+### Preferred
+
+| Preferred            |      |
+| :------------------- | ---: |
+| Balsalazide Disodium |      |
+| Budesonide ER Tab QL |      |
+| Lialda BvG           |      |
+| Mesalamine DR Cap    |      |
+| Mesalamine Enema     |      |
+| Mesalamine ER        |      |
+| Pentasa BvG          |      |
+| Sulfasalazine        |      |
+
+### Non-Preferred
+
+| Non-Preferred     |      |
+| :---------------- | ---: |
+| Dipentum          |      |
+| Mesalamine DR Tab |      |
+| Mesalamine Supp   |      |
+| Uceris Foam       |      |
+| Zeposia           |      |
 
 ## Links
 

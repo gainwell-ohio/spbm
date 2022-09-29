@@ -26,12 +26,23 @@ Calcium acetate products may lead to hypercalcemia. This agent is recommended in
 
 Genitourinary Agents: Electrolyte Depleter Agents
 
-| PREFERRED          | NON-PREFERRED       |
-|--------------------|---------------------|
-| Calcium Acetate    | Auryxia             |
-| Calcium Carbonate  | Lanthanum Carbonate |
-| Phoslyra           | Velphoro            |
-| Sevelamer          |                     |
+### Preferred
+
+| Preferred         |      |
+| :---------------- | ---: |
+| Calcium Acetate   |      |
+| Calcium Carbonate |      |
+| Phoslyra          |      |
+| Sevelamer         |      |
+
+### Non-Preferred
+
+| Non-Preferred       |      |
+| :------------------ | ---: |
+| Auryxia             |      |
+| Lanthanum Carbonate |      |
+| Velphoro            |      |
+
 
 ## Links
 

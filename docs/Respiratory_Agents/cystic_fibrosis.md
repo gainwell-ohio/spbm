@@ -55,12 +55,20 @@ Additional Criteria for Kalydeco, Orkambi, Symdeko, and Trikafta
 
 Respiratory Agents: Cystic Fibrosis
 
-| PREFERRED   | NON-PREFERRED |
-|-------------|---------------|
-| Kalydeco PA | Bronchitol    |
-| Orkambi PA  |               |
-| Symdeko PA  |               |
-| Trikafta PA |               |
+### Preferred
+
+| Preferred   |      |
+| :---------- | ---: |
+| Kalydeco PA |      |
+| Orkambi PA  |      |
+| Symdeko PA  |      |
+| Trikafta PA |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Bronchitol    |      |
 
 ## Links
 

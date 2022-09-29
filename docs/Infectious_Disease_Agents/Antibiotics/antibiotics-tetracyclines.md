@@ -46,13 +46,25 @@ Additional Criteria for Omadacycline
 
 Infectious Disease Agents: Antibiotics – Tetracyclines
 
-| PREFERRED             | NON-PREFERRED                 |
-|-----------------------|-------------------------------|
-| Doxycycline 50, 100mg | Doxycycline 20, 40, 75, 150mg |
-| Doxycycline Syr       | Doxycycline DR                |
-| Minocycline Cap       | Minocycline ER                |
-| Tetracycline          | Minocycline Tab               |
-| Vibramycin Susp AR    | Nuzyra                        |
+### Preferred
+
+| PREFERRED             | NON-PREFERRED |
+| :-------------------- | ------------: |
+| Doxycycline 50, 100mg |               |
+| Doxycycline Syr       |               |
+| Minocycline Cap       |               |
+| Tetracycline          |               |
+| Vibramycin Susp AR    |               |
+
+### Non-Preferred
+
+| Non-Preferred                 |      |
+| :---------------------------- | ---: |
+| Doxycycline 20, 40, 75, 150mg |      |
+| Doxycycline DR                |      |
+| Minocycline ER                |      |
+| Minocycline Tab               |      |
+| Nuzyra                        |      |
 
 ## Links
 

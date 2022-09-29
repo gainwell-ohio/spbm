@@ -22,12 +22,21 @@ AR - Nayzilam: a PA is required for patients who are younger than 12 years old
 
 Central Nervous System (CNS) Agents: Anticonvulsants Rescue
 
-| PREFERRED    | NON-PREFERRED |
-|--------------|---------------|
-| Diastat BvG  |               |
-| Diazepam Gel |               |
-| Nayzilam AR  |               |
-| Valtoco AR   |               |
+### Preferred
+
+| Preferred    |      |
+| :----------- | ---: |
+| Diastat BvG  |      |
+| Diazepam Gel |      |
+| Nayzilam AR  |      |
+| Valtoco AR   |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+|               |      |
+
 
 ## Links
 

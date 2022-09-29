@@ -26,11 +26,20 @@ all agents listed
 
 Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea
 
-| PREFERRED              | NON-PREFERRED |
-|------------------------|---------------|
-| Diphenoxylate/Atropine | Alosetron     |
-| Loperamide             | Viberzi       |
-| Xifaxan ST             |               |
+### Preferred
+
+| Preferred              |      |
+| :--------------------- | ---: |
+| Diphenoxylate/Atropine |      |
+| Loperamide             |      |
+| Xifaxan ST             |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Alosetron     |      |
+| Viberzi       |      |
 
 ## Links
 

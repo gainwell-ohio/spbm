@@ -5,7 +5,7 @@
 Dependent on medication request
 
 |                      | Approval Duration |
-|----------------------|-------------------|
+| -------------------- | ----------------- |
 | H. Pylori Treatment  | 30 days           |
 | Transdermal/Topical  | 90 days           |
 | All Other Treatments | 365 days          |
@@ -28,30 +28,59 @@ AR – Naproxen Suspension: a PA is required for patients over 12 years old
 
 Analgesic Agents: NSAIDS
 
-| PREFERRED         | NON-PREFERRED                      |
-|-------------------|------------------------------------|
-| Celecoxib         | Diclofenac/Misoprostol             |
-| Diclofenac        | Diclofenac Patch 1.3%              |
-| Diclofenac DR     | Diclotrex                          |
-| Diclofenac ER     | Elyxyb                             |
-| Diclofenac Gel 1% | Fenoprofen 400mg                   |
-| Etodolac          | Ibuprofen/Famotidine               |
-| Fenoprofen 600mg  | Ketorolac Tromethamine Nasal Spray |
-| Flurbiprofen      | Ketoprofen                         |
-| Ibuprofen         | Licart Patch                       |
-| Indocin           | Meloxicam Cap                      |
-| Indomethacin      | Naproxen CR                        |
-| Ketoprofen ER     | Naproxen DR                        |
-| Ketorolac         | Naproxen ER                        |
-| Meclofenamate     | Naproxen EC                        |
-| Mefenamic Acid    | Naproxen/Esomeprazole              |
-| Meloxicam Tab     | Pennsaid BvG                       |
-| Nabumetone        | Qmiiz ODT                          |
-| Naproxen IR       | Relafen DS                         |
-| Naproxen Susp AR  | Zipsor BvG                         |
-| Oxaprozin         | Zorvolex                           |
-| Piroxicam         |                                    |
-| Sulindac          |                                    |
+### Preferred
+
+| Preferred         |      |
+| :---------------- | ---: |
+| Celecoxib         |      |
+| Diclofenac        |      |
+| Diclofenac DR     |      |
+| Diclofenac ER     |      |
+| Diclofenac Gel 1% |      |
+| Etodolac          |      |
+| Fenoprofen 600mg  |      |
+| Flurbiprofen      |      |
+| Ibuprofen         |      |
+| Indocin           |      |
+| Indomethacin      |      |
+| Ketoprofen ER     |      |
+| Ketorolac         |      |
+| Meclofenamate     |      |
+| Mefenamic Acid    |      |
+| Meloxicam Tab     |      |
+| Nabumetone        |      |
+| Naproxen IR       |      |
+| Naproxen Susp AR  |      |
+| Oxaprozin         |      |
+| Piroxicam         |      |
+| Sulindac          |      |
+
+### Non-Preferred
+
+| Non-Preferred                      |      |
+| :--------------------------------- | ---: |
+| Diclofenac/Misoprostol             |      |
+| Diclofenac Patch 1.3%              |      |
+| Diclotrex                          |      |
+| Elyxyb                             |      |
+| Fenoprofen 400mg                   |      |
+| Ibuprofen/Famotidine               |      |
+| Ketorolac Tromethamine Nasal Spray |      |
+| Ketoprofen                         |      |
+| Licart Patch                       |      |
+| Meloxicam Cap                      |      |
+| Naproxen CR                        |      |
+| Naproxen DR                        |      |
+| Naproxen ER                        |      |
+| Naproxen EC                        |      |
+| Naproxen/Esomeprazole              |      |
+| Pennsaid BvG                       |      |
+| Qmiiz ODT                          |      |
+| Relafen DS                         |      |
+| Zipsor BvG                         |      |
+| Zorvolex                           |      |
+|                                    |      |
+|                                    |      |
 
 ## Links
 

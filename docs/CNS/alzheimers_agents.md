@@ -22,15 +22,28 @@ Has the patient failed a therapeutic trial of at least **30 days** with at least
 
 Central Nervous System (CNS) Agents: Alzheimer’s Agents
 
-| PREFERRED               | NON-PREFERRED      |
-|-------------------------|--------------------|
-| Donepezil 5mg, 10mg Tab | Donepezil 23mg Tab |
-| Donepezil ODT           | Galantamine Sol    |
-| Exelon Patch BvG        | Memantine ER       |
-| Galantamine Tab         | Memantine Sol      |
-| Galantamine ER Cap      | Namzaric           |
-| Memantine Tab           | Rivastigmine Patch |
-| Rivastigmine Cap        |                    |
+### Preferred
+
+| Preferred               |      |
+| :---------------------- | ---: |
+| Donepezil 5mg, 10mg Tab |      |
+| Donepezil ODT           |      |
+| Exelon Patch BvG        |      |
+| Galantamine Tab         |      |
+| Galantamine ER Cap      |      |
+| Memantine Tab           |      |
+| Rivastigmine Cap        |      |
+
+### Non-Preferred
+
+| Non-Preferred      |      |
+| :----------------- | ---: |
+| Donepezil 23mg Tab |      |
+| Galantamine Sol    |      |
+| Memantine ER       |      |
+| Memantine Sol      |      |
+| Namzaric           |      |
+| Rivastigmine Patch |      |
 
 ## Links
 

@@ -24,14 +24,27 @@ Additonal Prior Authorization Criteria
 
 Authorization provided for no more than 150 days at a time then must take 56 days off
 
-| PREFERRED       | NON-PREFERRED |
-| --------------- | ------------- |
-| Accutane PA     | Absorica      |
-| Amnesteem PA    | Absorica LD   |
-| Claravis PA     |               |
-| Isotretinoin PA |               |
-| Myorisan PA     |               |
-| Zenatane PA     |               |
+## Formulary
+
+Dermatological: Oral Acne Products
+
+### Preferred
+
+| Preferred       |      |
+| :-------------- | ---: |
+| Accutane PA     |      |
+| Amnesteem PA    |      |
+| Claravis PA     |      |
+| Isotretinoin PA |      |
+| Myorisan PA     |      |
+| Zenatane PA     |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Absorica      |      |
+| Absorica LD   |      |
 
 ## Links
 

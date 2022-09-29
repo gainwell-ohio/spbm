@@ -5,12 +5,12 @@
 Approval based upon diagnosis below:
 
 | Diagnosis | Approval Length |
-| --------- | ----------------|
+| --------- | --------------- |
 | Acute Myeloid Leukemia (AML) | 14 days or duration of chemotherapy regimen |
-| Malignancy at risk for febrile neutropenia or undergoing myeloablative chemotherapy prior to allogeneic or autologous bone marrow transplantation          | 14 days or duration of chemotherapy regimen |
-| Myeloid Engraftment for bone marrow transplant (BMT)   | 30 days     |
-| Severe, chronic neutropenia with absolute neutrophil count (ANC) of less than 500/mm3 and have symptoms associated with neutropenia (e.g. fever, infections, oropharyngeal ulcers). | 30 days              |
-| Hematopoietic radiation injury syndrome       | 30 days              |
+| Malignancy at risk for febrile neutropenia or undergoing myeloablative chemotherapy prior to allogeneic or autologous bone marrow transplantation                | 14 days or duration of chemotherapy regimen |
+| Myeloid Engraftment for bone marrow transplant (BMT)             | 30 days |
+| Severe, chronic neutropenia with absolute neutrophil count (ANC) of less than 500/mm3 and have symptoms associated with neutropenia (e.g. fever, infections, oropharyngeal ulcers).                    | 30 days |
+| Hematopoietic radiation injury syndrome                          | 30 days |
 
 **All Authorizations**
 
@@ -34,16 +34,26 @@ Must be prescribed in accordance with FDA approved labeling
 
 Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors
 
-| PREFERRED    | NON-PREFERRED |
-| ------------ | ------------- |
-| Neupogen PA  | Fulphila      |
-| Releuko PA   | Granix        |
-| Ziextenzo PA | Leukine       |
-|              | Neulasta      |
-|              | Nivestym      |
-|              | Nyvepria      |
-|              | Udenyca       |
-|              | Zarxio        |
+### Preferred
+
+| Preferred    |      |
+| :----------- | ---: |
+| Neupogen PA  |      |
+| Releuko PA   |      |
+| Ziextenzo PA |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Fulphila      |      |
+|   Granix      |      |
+|  Leukine      |      |
+| Neulasta      |      |
+| Nivestym      |      |
+| Nyvepria      |      |
+|  Udenyca      |      |
+|   Zarxio      |      |
 
 ## Links
 

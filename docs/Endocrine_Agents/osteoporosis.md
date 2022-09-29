@@ -33,12 +33,23 @@ Abaloparatide is indicated in postmenopausal women with osteoporosis at high ris
 
 Endocrine Agents: Osteoporosis – Bone Ossification Enhancers
 
-| PREFERRED         | NON-PREFERRED    |
-|-------------------|------------------|
-| Alendronate Tab   | Alendronate Susp |
-| Calcitonin-Salmon | Fosamax Plus D   |
-| Forteo            | Risedronate      |
-| Ibandronate       | Tymlos           |
+### Preferred
+
+| Preferred         |      |
+| :---------------- | ---: |
+| Alendronate Tab   |      |
+| Calcitonin-Salmon |      |
+| Forteo            |      |
+| Ibandronate       |      |
+
+### Non-Preferred
+
+| Non-Preferred    |      |
+| :--------------- | ---: |
+| Alendronate Susp |      |
+| Fosamax Plus D   |      |
+| Risedronate      |      |
+| Tymlos           |      |
 
 ## Links
 

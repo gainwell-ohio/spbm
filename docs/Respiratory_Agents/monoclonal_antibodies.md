@@ -30,11 +30,21 @@ Must be prescribed in accordance with FDA approved labeling
 
 Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE
 
-| PREFERRED  | NON-PREFERRED |
-|------------|---------------|
-| Fasenra PA | Dupixent      |
-| Nucala PA  | Tezspire      |
-| Xolair PA  |               |
+### Preferred
+
+| Preferred  |      |
+| :--------- | ---: |
+| Fasenra PA |      |
+| Nucala PA  |      |
+| Xolair PA  |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Dupixent      |      |
+| Tezspire      |      |
+
 
 ## Links
 

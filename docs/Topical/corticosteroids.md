@@ -18,30 +18,52 @@
 
 Topical Agents: Corticosteroids
 
-| PREFERRED                            | NON-PREFERRED                                 |
-|--------------------------------------|-----------------------------------------------|
-| Amcinonide                           | Alclometasone                                 |
-| Betamethasone Dip/Calcipotriene Oint | Apexicon E                                    |
-| Betamethasone Valerate               | Betamethasone Dipropionate                    |
-| Clobetasol Propionate                | Betamethasone Dipropionate/Calcipotriene Susp |
-| Derma-Smoothe/FS BvG                 | Betamethasone Valerate Aerosol Foam           |
-| Desonide Cream, Oint                 | Bryhali                                       |
-| Diflorasone Diacetate                | Clocortolone Pivalate                         |
-| Fluocinolone Acetonide 0.01% Sol     | Cordran Tape                                  |
-| Fluocinonide Acetonide 0.05%         | Desonate Gel                                  |
-| Flurandrenolide                      | Desonide Lotion                               |
-| Fluticasone Propionate Cream, Oint   | Desoximetasone                                |
-| Hydrocortisone                       | Fluocinolone Acetonide 0.01% Oil              |
-| Mometasone Furoate                   | Fluocinolone Acetonide 0.025%                 |
-| Prednicarbate                        | Fluocinonide Acetonide 0.1%                   |
-| Triamcinolone                        | Fluticasone Propionate Lotion                 |
-|                                      | Halcinonide Cream                             |
-|                                      | Halobetasol Propionate                        |
-|                                      | Hydrocortisone Butyrate                       |
-|                                      | Hydrocortisone Valerate                       |
-|                                      | Halog                                         |
-|                                      | Impeklo                                       |
-|                                      | Pandel                                        |
+### Preferred
+
+| Preferred                            |      |
+| :----------------------------------- | ---: |
+| Amcinonide                           |      |
+| Betamethasone Dip/Calcipotriene Oint |      |
+| Betamethasone Valerate               |      |
+| Clobetasol Propionate                |      |
+| Derma-Smoothe/FS BvG                 |      |
+| Desonide Cream, Oint                 |      |
+| Diflorasone Diacetate                |      |
+| Fluocinolone Acetonide 0.01% Sol     |      |
+| Fluocinonide Acetonide 0.05%         |      |
+| Flurandrenolide                      |      |
+| Fluticasone Propionate Cream, Oint   |      |
+| Hydrocortisone                       |      |
+| Mometasone Furoate                   |      |
+| Prednicarbate                        |      |
+| Triamcinolone                        |      |
+
+### Non-Preferred
+
+| Preferred                                     |      |
+| :-------------------------------------------- | ---: |
+| Alclometasone                                 |      |
+| Apexicon E                                    |      |
+| Betamethasone Dipropionate                    |      |
+| Betamethasone Dipropionate/Calcipotriene Susp |      |
+| Betamethasone Valerate Aerosol Foam           |      |
+| Bryhali                                       |      |
+| Clocortolone Pivalate                         |      |
+| Cordran Tape                                  |      |
+| Desonate Gel                                  |      |
+| Desonide Lotion                               |      |
+| Desoximetasone                                |      |
+| Fluocinolone Acetonide 0.01% Oil              |      |
+| Fluocinolone Acetonide 0.025%                 |      |
+| Fluocinonide Acetonide 0.1%                   |      |
+| Fluticasone Propionate Lotion                 |      |
+| Halcinonide Cream                             |      |
+| Halobetasol Propionate                        |      |
+| Hydrocortisone Butyrate                       |      |
+| Hydrocortisone Valerate                       |      |
+| Halog                                         |      |
+| Impeklo                                       |      |
+| Pandel                                        |      |
 
 ## Links
 

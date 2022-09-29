@@ -16,23 +16,37 @@
 
 Gastrointestinal Agents: Anti-Emetics
 
-| PREFERRED                 | NON-PREFERRED                   |
-|---------------------------|---------------------------------|
-| Aprepitant 40mg, 125mg    | Aprepitant 80 mg                |
-| Diclegis BvG              | Aprepitant TriPac               |
-| Dimenhydrinate            | Bonjesta                        |
-| Diphenhydramine           | Doxylamine/Pyridoxine 10mg/10mg |
-| Emend 125mg Susp          | Metoclopramide ODT              |
-| Emend 80mg BvG            | Sancuso                         |
-| Emend TriPac BvG          | Zuplenz                         |
-| Meclizine                 |                                 |
-| Metoclopramide            |                                 |
-| Ondansetron               |                                 |
-| Phosphorated Carbohydrate |                                 |
-| Prochlorperazine          |                                 |
-| Promethazine              |                                 |
-| Scopolamine               |                                 |
-| Trimethobenzamide         |                                 |
+### Preferred
+
+| Preferred                 |      |
+| :------------------------ | ---: |
+| Aprepitant 40mg, 125mg    |      |
+| Diclegis BvG              |      |
+| Dimenhydrinate            |      |
+| Diphenhydramine           |      |
+| Emend 125mg Susp          |      |
+| Emend 80mg BvG            |      |
+| Emend TriPac BvG          |      |
+| Meclizine                 |      |
+| Metoclopramide            |      |
+| Ondansetron               |      |
+| Phosphorated Carbohydrate |      |
+| Prochlorperazine          |      |
+| Promethazine              |      |
+| Scopolamine               |      |
+| Trimethobenzamide         |      |
+
+### Non-Preferred
+
+| Non-Preferred                   |      |
+| :------------------------------ | ---: |
+| Aprepitant 80 mg                |      |
+| Aprepitant TriPac               |      |
+| Bonjesta                        |      |
+| Doxylamine/Pyridoxine 10mg/10mg |      |
+| Metoclopramide ODT              |      |
+| Sancuso                         |      |
+| Zuplenz                         |      |
 
 ## Links
 

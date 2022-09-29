@@ -21,36 +21,50 @@ Patients who have a claim for a non-preferred drug in the previous 120 days will
 
 ## Formulary
 
-Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factor\*
+Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factor
 
-| PREFERRED       | NON-PREFERRED |
-|-----------------|---------------|
-| Advate PA       | Jivi          |
-| Adynovate PA    | Kovaltry      |
-| Afstyla PA      | Nuwiq         |
-| Alphanate PA    | Obizur        |
-| Alphanine SD PA | Rebinyn       |
-| Alprolix PA     | Sevenfact     |
-| Benefix PA      | Vonvendi      |
-| Corifact PA     |               |
-| Eloctate PA     |               |
-| Esperoct PA     |               |
-| Feiba PA        |               |
-| Hemlibra PA     |               |
-| Hemofil M PA    |               |
-| Humate-P PA     |               |
-| Idelvion PA     |               |
-| Ixinity PA      |               |
-| Koate PA        |               |
-| Kogenate FS PA  |               |
-| Mononine PA     |               |
-| Novoeight PA    |               |
-| Novoseven RT PA |               |
-| Profilnine PA   |               |
-| Recombinate PA  |               |
-| Rixubis PA      |               |
-| Wilate PA       |               |
-| Xyntha PA       |               |
+### Preferred
+
+| Preferred       |      |
+| :-------------- | ---: |
+| Advate PA       |      |
+| Adynovate PA    |      |
+| Afstyla PA      |      |
+| Alphanate PA    |      |
+| Alphanine SD PA |      |
+| Alprolix PA     |      |
+| Benefix PA      |      |
+| Corifact PA     |      |
+| Eloctate PA     |      |
+| Esperoct PA     |      |
+| Feiba PA        |      |
+| Hemlibra PA     |      |
+| Hemofil M PA    |      |
+| Humate-P PA     |      |
+| Idelvion PA     |      |
+| Ixinity PA      |      |
+| Koate PA        |      |
+| Kogenate FS PA  |      |
+| Mononine PA     |      |
+| Novoeight PA    |      |
+| Novoseven RT PA |      |
+| Profilnine PA   |      |
+| Recombinate PA  |      |
+| Rixubis PA      |      |
+| Wilate PA       |      |
+| Xyntha PA       |      |
+
+### Non-Preferred
+
+| Non-Preferred |      |
+| :------------ | ---: |
+| Jivi          |      |
+| Kovaltry      |      |
+| Nuwiq         |      |
+| Obizur        |      |
+| Rebinyn       |      |
+| Sevenfact     |      |
+| Vonvendi      |      |
 
 ## Links
 
