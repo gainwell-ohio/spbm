@@ -57,6 +57,6 @@ Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=10)
+[Criteria]https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=10)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220701_UPDL_FINAL.pdf#page=7)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=8)

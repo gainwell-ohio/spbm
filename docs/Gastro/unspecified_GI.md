@@ -64,6 +64,6 @@ Gastrointestinal Agents: Unspecified GI
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=65)
+[Criteria]https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=67)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220701_UPDL_FINAL.pdf#page=23)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=24)

@@ -54,23 +54,23 @@ Analgesic Agents: Gout
 
 ### Preferred
 
-| Preferred                |      |
-| :----------------------- | ---: |
-| Allopurinol              |      |
-| Colchicine Tab PA QL     |      |
-| Probenecid               |      |
-| Probenecid/Colchicine PA |      |
+| Preferred                |                                 Generic Name | Quantity Restrictions | Time (Days) |
+| :----------------------- | -------------------------------------------: | :-------------------: | :---------: |
+| Allopurinol              |              Allopurinol Tab (all strengths) |          204          |     102     |
+| Colchicine PA QL         |               Colchicine Tab (all strengths) |                       |             |
+| Probenecid               |               Probenecid Tab (all strengths) |          408          |     102     |
+| Probenecid/Colchicine PA | Probenecid w/ Colchicine Tab (all strengths) |                       |             |
 
 ### Non-Preferred
 
-| Non-Preferred     |      |
-| :---------------- | ---: |
-| Colchicine Cap QL |      |
-| Gloperba Susp QL  |      |
-| Uloric BvG        |      |
+| Non-Preferred    |                   Generic Name | Quantity Restrictions | Time (Days) |
+| :--------------- | -----------------------------: | :-------------------: | :---------: |
+| Colchicine QL    | Colchicine Cap (all strengths) |                       |             |
+| Gloperba Susp QL |                                |                       |             |
+| Uloric BvG       |                                |                       |             |
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=6)
+[Criteria]https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=6)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220701_UPDL_FINAL.pdf#page=6)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=7)

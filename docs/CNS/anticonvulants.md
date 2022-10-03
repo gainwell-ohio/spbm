@@ -80,32 +80,32 @@ Central Nervous System (CNS) Agents: Anticonvulsants
 
 ### Preferred
 
-| Preferred            |      |
-| :------------------- | ---: |
-| Banzel BvG           |      |
-| Carbamazepine        |      |
-| Clobazam             |      |
-| Clonazepam           |      |
-| Diacomit PA QL       |      |
-| Divalproex           |      |
-| Divalproex ER        |      |
-| Epidiolex PA QL      |      |
-| Eprontia AR          |      |
-| Ethosuximide         |      |
-| Fycompa ST           |      |
-| Gabapentin           |      |
-| Lamotrigine          |      |
-| Levetiracetam IR Tab |      |
-| Levetiracetam Sol    |      |
-| Oxcarbazepine        |      |
-| Phenobarbital        |      |
-| Phenytoin            |      |
-| Pregabalin           |      |
-| Primidone            |      |
-| Topiramate           |      |
-| Valproic Acid        |      |
-| Vimpat BvG ST        |      |
-| Zonisamide           |      |
+| Preferred            |                         Generic Name |   Quantity Restrictions   | Time (Days) |
+| :------------------- | -----------------------------------: | :-----------------------: | :---------: |
+| Banzel BvG           |                                      |                           |             |
+| Carbamazepine        |                                      |                           |             |
+| Clobazam             |                                      |                           |             |
+| Clonazepam           |                                      |                           |             |
+| Diacomit PA          | Stiripentol Cap/Pack (all strengths) | Determined pursuant to PA |             |
+| Divalproex           |                                      |                           |             |
+| Divalproex ER        |                                      |                           |             |
+| Epidiolex PA         |     Cannabidiol Soln (all strengths) | Determined pursuant to PA |             |
+| Eprontia AR          |                                      |                           |             |
+| Ethosuximide         |                                      |                           |             |
+| Fycompa ST           |                                      |                           |             |
+| Gabapentin           |                                      |                           |             |
+| Lamotrigine          |                                      |                           |             |
+| Levetiracetam IR Tab |                                      |                           |             |
+| Levetiracetam Sol    |                                      |                           |             |
+| Oxcarbazepine        |                                      |                           |             |
+| Phenobarbital        |                                      |                           |             |
+| Phenytoin            |                                      |                           |             |
+| Pregabalin           |                                      |                           |             |
+| Primidone            |                                      |                           |             |
+| Topiramate           |                                      |                           |             |
+| Valproic Acid        |                                      |                           |             |
+| Vimpat BvG ST        |                                      |                           |             |
+| Zonisamide           |                                      |                           |             |
 
 ### Non-Preferred
 
@@ -137,6 +137,6 @@ Central Nervous System (CNS) Agents: Anticonvulsants
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=26)
+[Criteria]https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=27)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220701_UPDL_FINAL.pdf#page=12)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=13)

@@ -47,10 +47,10 @@ Infectious Disease Agents: Antibiotics – Inhaled
 
 ### Preferred
 
-| Preferred        |      |
-| :--------------- | ---: |
-| Arikayce PA QL   |      |
-| Tobramycin AR PA |      |
+| Preferred        |                                      Generic Name |   Quantity Restrictions   | Time (Days) |
+| :--------------- | ------------------------------------------------: | :-----------------------: | :---------: |
+| Arikayce PA QL   | Amikacin Liposome Inhalation Susp (all strengths) | Determined pursuant to PA |             |
+| Tobramycin AR PA |                                                   |                           |             |
 
 ### Non-Preferred
 
@@ -63,6 +63,6 @@ Infectious Disease Agents: Antibiotics – Inhaled
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=74)
+[Criteria]https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=74)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220701_UPDL_FINAL.pdf#page=25)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=26)

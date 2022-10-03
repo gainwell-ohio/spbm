@@ -30,60 +30,60 @@ Analgesic Agents: NSAIDS
 
 ### Preferred
 
-| Preferred         |      |
-| :---------------- | ---: |
-| Celecoxib         |      |
-| Diclofenac        |      |
-| Diclofenac DR     |      |
-| Diclofenac ER     |      |
-| Diclofenac Gel 1% |      |
-| Etodolac          |      |
-| Fenoprofen 600mg  |      |
-| Flurbiprofen      |      |
-| Ibuprofen         |      |
-| Indocin           |      |
-| Indomethacin      |      |
-| Ketoprofen ER     |      |
-| Ketorolac         |      |
-| Meclofenamate     |      |
-| Mefenamic Acid    |      |
-| Meloxicam Tab     |      |
-| Nabumetone        |      |
-| Naproxen IR       |      |
-| Naproxen Susp AR  |      |
-| Oxaprozin         |      |
-| Piroxicam         |      |
-| Sulindac          |      |
+| Preferred         | Generic Name | Quantity Restrictions | Time (Days) |
+| :---------------- | -----------: | :-------------------: | :---------: |
+| Celecoxib         |              |                       |             |
+| Diclofenac        |              |                       |             |
+| Diclofenac DR     |              |                       |             |
+| Diclofenac ER     |              |                       |             |
+| Diclofenac Gel 1% |              |                       |             |
+| Etodolac          |              |                       |             |
+| Fenoprofen 600mg  |              |                       |             |
+| Flurbiprofen      |              |                       |             |
+| Ibuprofen         |              |                       |             |
+| Indocin           |              |                       |             |
+| Indomethacin      |              |                       |             |
+| Ketoprofen ER     |              |                       |             |
+| Ketorolac         |              |                       |             |
+| Meclofenamate     |              |                       |             |
+| Mefenamic Acid    |              |                       |             |
+| Meloxicam Tab     |              |                       |             |
+| Nabumetone        |              |                       |             |
+| Naproxen IR       |              |                       |             |
+| Naproxen Susp AR  |              |                       |             |
+| Oxaprozin         |              |                       |             |
+| Piroxicam         |              |                       |             |
+| Sulindac          |              |                       |             |
 
 ### Non-Preferred
 
-| Non-Preferred                      |      |
-| :--------------------------------- | ---: |
-| Diclofenac/Misoprostol             |      |
-| Diclofenac Patch 1.3%              |      |
-| Diclotrex                          |      |
-| Elyxyb                             |      |
-| Fenoprofen 400mg                   |      |
-| Ibuprofen/Famotidine               |      |
-| Ketorolac Tromethamine Nasal Spray |      |
-| Ketoprofen                         |      |
-| Licart Patch                       |      |
-| Meloxicam Cap                      |      |
-| Naproxen CR                        |      |
-| Naproxen DR                        |      |
-| Naproxen ER                        |      |
-| Naproxen EC                        |      |
-| Naproxen/Esomeprazole              |      |
-| Pennsaid BvG                       |      |
-| Qmiiz ODT                          |      |
-| Relafen DS                         |      |
-| Zipsor BvG                         |      |
-| Zorvolex                           |      |
-|                                    |      |
-|                                    |      |
+| Non-Preferred                      | Generic Name | Quantity Restrictions | Time (Days) |
+| :--------------------------------- | -----------: | :-------------------: | :---------: |
+| Diclofenac/Misoprostol             |              |                       |             |
+| Diclofenac Patch 1.3%              |              |                       |             |
+| Diclotrex                          |              |                       |             |
+| Elyxyb                             |              |                       |             |
+| Fenoprofen 400mg                   |              |                       |             |
+| Ibuprofen/Famotidine               |              |                       |             |
+| Ketorolac Tromethamine Nasal Spray |              |                       |             |
+| Ketoprofen                         |              |                       |             |
+| Licart Patch                       |              |                       |             |
+| Meloxicam Cap                      |              |                       |             |
+| Naproxen CR                        |              |                       |             |
+| Naproxen DR                        |              |                       |             |
+| Naproxen ER                        |              |                       |             |
+| Naproxen EC                        |              |                       |             |
+| Naproxen/Esomeprazole              |              |                       |             |
+| Pennsaid BvG                       |              |                       |             |
+| Qmiiz ODT                          |              |                       |             |
+| Relafen DS                         |              |                       |             |
+| Zipsor BvG                         |              |                       |             |
+| Zorvolex                           |              |                       |             |
+|                                    |              |                       |             |
+|                                    |              |                       |             |
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=5)
+[Criteria]https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=7)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220701_UPDL_FINAL.pdf#page=6)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=7)
