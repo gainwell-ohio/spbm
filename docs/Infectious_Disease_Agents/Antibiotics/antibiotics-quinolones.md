@@ -31,20 +31,20 @@ Infectious Disease Agents: Antibiotics – Quinolones
 
 ### Preferred
 
-| Preferred             |      |
-| :-------------------- | ---: |
-| Ciprofloxacin         |      |
-| Ciprofloxacin Susp AR |      |
-| Levofloxacin          |      |
+| Preferred             |
+| :-------------------- |
+| Ciprofloxacin         |
+| Ciprofloxacin Susp AR |
+| Levofloxacin          |
 
 ### Non-Preferred
 
-| Non-Preferred    |      |
-| :--------------- | ---: |
-| Baxdela          |      |
-| Ciprofloxacin ER |      |
-| Moxifloxacin     |      |
-| Ofloxacin        |      |
+| Non-Preferred    |
+| :--------------- |
+| Baxdela          |
+| Ciprofloxacin ER |
+| Moxifloxacin     |
+| Ofloxacin        |
 
 ## Links
 

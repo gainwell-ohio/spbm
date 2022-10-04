@@ -25,46 +25,46 @@ Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factor
 
 ### Preferred
 
-| Preferred       |      |
-| :-------------- | ---: |
-| Advate PA       |      |
-| Adynovate PA    |      |
-| Afstyla PA      |      |
-| Alphanate PA    |      |
-| Alphanine SD PA |      |
-| Alprolix PA     |      |
-| Benefix PA      |      |
-| Corifact PA     |      |
-| Eloctate PA     |      |
-| Esperoct PA     |      |
-| Feiba PA        |      |
-| Hemlibra PA     |      |
-| Hemofil M PA    |      |
-| Humate-P PA     |      |
-| Idelvion PA     |      |
-| Ixinity PA      |      |
-| Koate PA        |      |
-| Kogenate FS PA  |      |
-| Mononine PA     |      |
-| Novoeight PA    |      |
-| Novoseven RT PA |      |
-| Profilnine PA   |      |
-| Recombinate PA  |      |
-| Rixubis PA      |      |
-| Wilate PA       |      |
-| Xyntha PA       |      |
+| Preferred       |
+| :-------------- |
+| Advate PA       |
+| Adynovate PA    |
+| Afstyla PA      |
+| Alphanate PA    |
+| Alphanine SD PA |
+| Alprolix PA     |
+| Benefix PA      |
+| Corifact PA     |
+| Eloctate PA     |
+| Esperoct PA     |
+| Feiba PA        |
+| Hemlibra PA     |
+| Hemofil M PA    |
+| Humate-P PA     |
+| Idelvion PA     |
+| Ixinity PA      |
+| Koate PA        |
+| Kogenate FS PA  |
+| Mononine PA     |
+| Novoeight PA    |
+| Novoseven RT PA |
+| Profilnine PA   |
+| Recombinate PA  |
+| Rixubis PA      |
+| Wilate PA       |
+| Xyntha PA       |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Jivi          |      |
-| Kovaltry      |      |
-| Nuwiq         |      |
-| Obizur        |      |
-| Rebinyn       |      |
-| Sevenfact     |      |
-| Vonvendi      |      |
+| Non-Preferred |
+| :------------ |
+| Jivi          |
+| Kovaltry      |
+| Nuwiq         |
+| Obizur        |
+| Rebinyn       |
+| Sevenfact     |
+| Vonvendi      |
 
 ## Links
 

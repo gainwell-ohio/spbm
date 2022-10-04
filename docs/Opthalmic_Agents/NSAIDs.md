@@ -27,22 +27,22 @@ Ophthalmic Agents: NSAIDs
 
 ### Preferred
 
-| Preferred    |      |
-| :----------- | ---: |
-| Diclofenac   |      |
-| Flurbiprofen |      |
-| Ketorolac    |      |
+| Preferred    |
+| :----------- |
+| Diclofenac   |
+| Flurbiprofen |
+| Ketorolac    |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Acuvail       |      |
-| Bromfenac     |      |
-| Bromsite      |      |
-| Ilevro        |      |
-| Nevanac       |      |
-| Prolensa      |      |
+| Non-Preferred |
+| :------------ |
+| Acuvail       |
+| Bromfenac     |
+| Bromsite      |
+| Ilevro        |
+| Nevanac       |
+| Prolensa      |
 
 ## Links
 

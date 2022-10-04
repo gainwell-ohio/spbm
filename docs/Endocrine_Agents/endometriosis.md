@@ -28,23 +28,23 @@ Endocrine Agents: Endometriosis
 
 ### Preferred
 
-| Preferred                     |      |
-| :---------------------------- | ---: |
-| Danazol ST                    |      |
-| Depo-Subq Provera 104 ST      |      |
-| Lupaneta Pack ST              |      |
-| Lupron Depot ST 3.75, 11.25mg |      |
-| Orilissa ST                   |      |
-| Zoladex ST                    |      |
+| Preferred                     |
+| :---------------------------- |
+| Danazol ST                    |
+| Depo-Subq Provera 104 ST      |
+| Lupaneta Pack ST              |
+| Lupron Depot ST 3.75, 11.25mg |
+| Orilissa ST                   |
+| Zoladex ST                    |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Synarel       |      |
+| Non-Preferred |
+| :------------ |
+| Synarel       |
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=52)
+[Criteria]https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=52)
 
 [Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=21)

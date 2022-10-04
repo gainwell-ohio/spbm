@@ -18,20 +18,20 @@ Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet
 
 ### Preferred
 
-| Preferred               |      |
-| :---------------------- | ---: |
-| Aspirin                 |      |
-| Aspirin/Dipyridamole ER |      |
-| Brilinta                |      |
-| Clopidogrel             |      |
-| Prasugrel               |      |
+| Preferred               |
+| :---------------------- |
+| Aspirin                 |
+| Aspirin/Dipyridamole ER |
+| Brilinta                |
+| Clopidogrel             |
+| Prasugrel               |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Yosprala      |      |
-| Zontivity     |      |
+| Non-Preferred |
+| :------------ |
+| Yosprala      |
+| Zontivity     |
 
 ## Links
 

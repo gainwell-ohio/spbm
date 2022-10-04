@@ -20,17 +20,17 @@ Respiratory Agents: Epinephrine Auto-Injectors
 
 ### Preferred
 
-| Preferred                   |      |
-| :-------------------------- | ---: |
-| Epinephrine (labeler 49502) |      |
-| Symjepi                     |      |
+| Preferred                   |
+| :-------------------------- |
+| Epinephrine (labeler 49502) |
+| Symjepi                     |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Epipen        |      |
-| Epipen JR     |      |
+| Non-Preferred |
+| :------------ |
+| Epipen        |
+| Epipen JR     |
 
 ## Links
 

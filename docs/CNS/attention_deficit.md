@@ -34,50 +34,50 @@ Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Ag
 
 ### Preferred
 
-| Preferred                                                             |      |
-| :-------------------------------------------------------------------- | ---: |
-| Amphetamine/Dextroamphetamine ER                                      |      |
-| Amphetamine/Dextroamphetamine IR                                      |      |
-| Atomoxetine Cap                                                       |      |
-| Clonidine ER                                                          |      |
-| Concerta                                                              |      |
-| Dexmethylphenidate Tab                                                |      |
-| Dexmethylphenidate ER (generic of Focalin XR)                         |      |
-| Dextroamphetamine ER Cap                                              |      |
-| Dextroamphetamine Sol AR                                              |      |
-| Dextroamphetamine Tab                                                 |      |
-| Focalin XR                                                            |      |
-| Guanfacine ER                                                         |      |
-| Methylphenidate ER Cap (generic of Metadate CD, Ritalin LA)           |      |
-| Methylphenidate ER Tab (generic of Concerta, Methylin ER, Ritalin SR) |      |
-| Methylphenidate Sol AR                                                |      |
-| Methylphenidate Tab                                                   |      |
-| Qelbree ST                                                            |      |
-| Quillichew ER                                                         |      |
-| Quillivant XR                                                         |      |
-| Ritalin LA                                                            |      |
-| Vyvanse Cap                                                           |      |
+| Preferred                                                             |
+| :-------------------------------------------------------------------- |
+| Amphetamine/Dextroamphetamine ER                                      |
+| Amphetamine/Dextroamphetamine IR                                      |
+| Atomoxetine Cap                                                       |
+| Clonidine ER                                                          |
+| Concerta                                                              |
+| Dexmethylphenidate Tab                                                |
+| Dexmethylphenidate ER (generic of Focalin XR)                         |
+| Dextroamphetamine ER Cap                                              |
+| Dextroamphetamine Sol AR                                              |
+| Dextroamphetamine Tab                                                 |
+| Focalin XR                                                            |
+| Guanfacine ER                                                         |
+| Methylphenidate ER Cap (generic of Metadate CD, Ritalin LA)           |
+| Methylphenidate ER Tab (generic of Concerta, Methylin ER, Ritalin SR) |
+| Methylphenidate Sol AR                                                |
+| Methylphenidate Tab                                                   |
+| Qelbree ST                                                            |
+| Quillichew ER                                                         |
+| Quillivant XR                                                         |
+| Ritalin LA                                                            |
+| Vyvanse Cap                                                           |
 
 ### Non-Preferred
 
-| Non-Preferred                                         |      |
-| :---------------------------------------------------- | ---: |
-| Adhansia XR                                           |      |
-| Adzenys ER                                            |      |
-| Adzenys XR ODT                                        |      |
-| Amphetamine Tab                                       |      |
-| Azstarys                                              |      |
-| Cotempla XR ODT                                       |      |
-| Daytrana BvG                                          |      |
-| Dyanavel XR                                           |      |
-| Evekeo ODT                                            |      |
-| Jornay PM                                             |      |
-| Methamphetamine                                       |      |
-| Methylphenidate Chewable Tab                          |      |
-| Methylphenidate ER (generic of Aptensio XR, Relexxii) |      |
-| Mydayis                                               |      |
-| Vyvanse Chewable Tab                                  |      |
-| Zenzedi                                               |      |
+| Non-Preferred                                         |
+| :---------------------------------------------------- |
+| Adhansia XR                                           |
+| Adzenys ER                                            |
+| Adzenys XR ODT                                        |
+| Amphetamine Tab                                       |
+| Azstarys                                              |
+| Cotempla XR ODT                                       |
+| Daytrana BvG                                          |
+| Dyanavel XR                                           |
+| Evekeo ODT                                            |
+| Jornay PM                                             |
+| Methamphetamine                                       |
+| Methylphenidate Chewable Tab                          |
+| Methylphenidate ER (generic of Aptensio XR, Relexxii) |
+| Mydayis                                               |
+| Vyvanse Chewable Tab                                  |
+| Zenzedi                                               |
 
 ## Links
 

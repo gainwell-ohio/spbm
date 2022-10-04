@@ -79,56 +79,56 @@ Analgesic Agents: Opioids
 
 ### Preferred
 
-| Preferred                    |                                               Generic Name | Quantity Restrictions | Time (Days) |
-| :--------------------------- | ---------------------------------------------------------: | :-------------------: | :---------: |
-| Acetaminophen/Codeine QL     |                                                            |                       |             |
-| Butalb/APAP/Caff w/ Codeine  |    Butalbital-APAP-Caffeine w/ Codeine Cap 50-325-40-30 MG |          238          |     34      |
-| Butalb/ASA/Caff w/ Codeine   | Butalbital-Aspirin-Caffeine w/ Codeine Cap 50-325-40-30 MG |          238          |     34      |
-| Butorphanol QL               |                                                            |                       |             |
-| Butrans BvG PA QL            |              Buprenorphine TD Patch Weekly (all strengths) |                       |             |
-| Codeine QL                   |                                                            |                       |             |
-| Hydrocodone/Acetaminophen QL |                                                            |                       |             |
-| Hydromorphone IR QL          |                                                            |                       |             |
-| Morphine ER Tab PA QL        |                                                            |                       |             |
-| Morphine Sol QL              |                                                            |                       |             |
-| Morphine Tab QL              |                                                            |                       |             |
-| Oxycodone Cap QL             |                                                            |                       |             |
-| Oxycodone Sol QL             |                                                            |                       |             |
-| Oxycodone Tab QL             |                                                            |                       |             |
-| Oxycodone/Acetaminophen QL   |                                                            |                       |             |
-| Tramadol QL                  |                                                            |                       |             |
-| Tramadol/APAP                |                     Tramadol-Acetaminophen Tab 37.5-325 MG |          272          |     34      |
+| Preferred                    |
+| :--------------------------- |
+| Acetaminophen/Codeine QL     |
+| Butalb/APAP/Caff w/ Codeine  |
+| Butalb/ASA/Caff w/ Codeine   |
+| Butorphanol QL               |
+| Butrans BvG PA QL            |
+| Codeine QL                   |
+| Hydrocodone/Acetaminophen QL |
+| Hydromorphone IR QL          |
+| Morphine ER Tab PA QL        |
+| Morphine Sol QL              |
+| Morphine Tab QL              |
+| Oxycodone Cap QL             |
+| Oxycodone Sol QL             |
+| Oxycodone Tab QL             |
+| Oxycodone/Acetaminophen QL   |
+| Tramadol QL                  |
+| Tramadol/APAP                |
 
 ### Non-Preferred
 
-| Non-Preferred                                         |                                                  Generic Name |   Quantity Restrictions   | Time (Days) |
-| :---------------------------------------------------- | ------------------------------------------------------------: | :-----------------------: | :---------: |
-| APAP/Caffeine/Dihydrocodone                           | Acetaminophen/Caffeine/Dihydrocodeine Cap/Tab (all strengths) | Determined pursuant to PA |             |
-| Belbuca                                               |                     Buprenorphine Buccal Film (all strengths) | Determined pursuant to PA |             |
-| Benzhydrocodone/APAP                                  |                 Benzhydrocodone/Acetaminophen (all strengths) | Determined pursuant to PA |             |
-| Buprenorphine Patch                                   |                 Buprenorphine TD Patch Weekly (all strengths) | Determined pursuant to PA |             |
-| Butalb/APAP/Caff w/ Codeine                           |       Butalbital-APAP-Caffeine w/ Codeine Cap 50-325-40-30 MG |            238            |     34      |
-| Dsuvia                                                |                     Sufentanil Sublingual Tab (all strengths) | Determined pursuant to PA |             |
-| Fentanyl                                              |                             Fentanyl TD Patch (all strengths) | Determined pursuant to PA |             |
-| Hydrocodone Bitartrate ER 12HR CapQL                  |                                                               |                           |             |
-| Hydrocodone Bitartrate ER 24HR TabQL                  |                                                               |                           |             |
-| Hydrocodone/Acetaminophen 5-300, 7.5-300, 10-300mg QL |                                                               |                           |             |
-| Hydrocodone/Ibuprofen                                 |                     Hydrocodone-Ibuprofen Tab (all strengths) | Determined pursuant to PA |             |
-| Hydromorphone ER QL                                   |                                                               |                           |             |
-| Levorphanol                                           |                               Levorphanol Tab (all strengths) | Determined pursuant to PA |             |
-| Meperidine                                            |               Meperidine HCI (all strengths and formulations) | Determined pursuant to PA |             |
-| Methadone QL                                          |                                                               |                           |             |
-| Morphine ER 24HR Cap QL                               |                                                               |                           |             |
-| Nucynta ER                                            |                            Tapentadol HCI Tab (all strengths) | Determined pursuant to PA |             |
-| Oxaydo                                                |             Oxycodone HCI Abuse Deterrent Tab (all strengths) | Determined pursuant to PA |             |
-| Oxycodone ER QL                                       |                                                               |                           |             |
-| Oxycodone/Ibuprofen QL                                |                                                               |                           |             |
-| Oxymorphone, ER QL                                    |                                                               |                           |             |
-| Pentazocine/Naloxone                                  |                      Pentazocine/Naloxone Tab (all strengths) | Determined pursuant to PA |             |
-| Seglentis QL                                          |                                                               |                           |             |
-| Tramadol ER QL                                        |                                                               |                           |             |
-| Tramadol Sol QL                                       |                                                               |                           |             |
-| Xtampza ER                                            |                              Oxycodone ER Cap (all strengths) | Determined pursuant to PA |             |
+| Non-Preferred                                         |
+| :---------------------------------------------------- |
+| APAP/Caffeine/Dihydrocodone                           |
+| Belbuca                                               |
+| Benzhydrocodone/APAP                                  |
+| Buprenorphine Patch                                   |
+| Butalb/APAP/Caff w/ Codeine                           |
+| Dsuvia                                                |
+| Fentanyl                                              |
+| Hydrocodone Bitartrate ER 12HR CapQL                  |
+| Hydrocodone Bitartrate ER 24HR TabQL                  |
+| Hydrocodone/Acetaminophen 5-300, 7.5-300, 10-300mg QL |
+| Hydrocodone/Ibuprofen                                 |
+| Hydromorphone ER QL                                   |
+| Levorphanol                                           |
+| Meperidine                                            |
+| Methadone QL                                          |
+| Morphine ER 24HR Cap QL                               |
+| Nucynta ER                                            |
+| Oxaydo                                                |
+| Oxycodone ER QL                                       |
+| Oxycodone/Ibuprofen QL                                |
+| Oxymorphone, ER QL                                    |
+| Pentazocine/Naloxone                                  |
+| Seglentis QL                                          |
+| Tramadol ER QL                                        |
+| Tramadol Sol QL                                       |
+| Xtampza ER                                            |
 
 ## Links
 

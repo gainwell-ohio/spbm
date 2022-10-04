@@ -20,19 +20,19 @@ Gastrointestinal Agents: Crohn’s Disease
 
 ### Preferred
 
-| Preferred         |      |
-| :---------------- | ---: |
-| Azathioprine      |      |
-| Budesonide ER Cap |      |
-| Mercaptopurine    |      |
-| Methotrexate      |      |
-| Sulfasalazine     |      |
+| Preferred         |
+| :---------------- |
+| Azathioprine      |
+| Budesonide ER Cap |
+| Mercaptopurine    |
+| Methotrexate      |
+| Sulfasalazine     |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Ortikos ER    |      |
+| Non-Preferred |
+| :------------ |
+| Ortikos ER    |
 
 ## Links
 

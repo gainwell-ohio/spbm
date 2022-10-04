@@ -20,19 +20,19 @@ Ophthalmic Agents: Dry Eye Treatments
 
 ### Preferred
 
-| Preferred             |      |
-| :-------------------- | ---: |
-| Restasis Trays BvG ST |      |
+| Preferred             |
+| :-------------------- |
+| Restasis Trays BvG ST |
 
 ### Non-Preferred
 
-| Non-Preferred       |      |
-| :------------------ | ---: |
-| Cequa               |      |
-| Eysuvis             |      |
-| Restasis Multi-Dose |      |
-| Tyrvaya             |      |
-| Xiidra              |      |
+| Non-Preferred       |
+| :------------------ |
+| Cequa               |
+| Eysuvis             |
+| Restasis Multi-Dose |
+| Tyrvaya             |
+| Xiidra              |
 
 ## Links
 

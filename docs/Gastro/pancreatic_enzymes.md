@@ -24,18 +24,18 @@ Gastrointestinal Agents: Pancreatic Enzymes
 
 ### Preferred
 
-| Preferred |      |
-| :-------- | ---: |
-| Creon     |      |
-| Zenpep    |      |
+| Preferred |
+| :-------- |
+| Creon     |
+| Zenpep    |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Pancreaze     |      |
-| Pertzye       |      |
-| Viokace       |      |
+| Non-Preferred |
+| :------------ |
+| Pancreaze     |
+| Pertzye       |
+| Viokace       |
 
 ## Links
 

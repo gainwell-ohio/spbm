@@ -24,26 +24,26 @@ Genitourinary Agents: Urinary Antispasmodics
 
 ### Preferred
 
-| Preferred         |      |
-| :---------------- | ---: |
-| Gelnique          |      |
-| Myrbetriq Tab     |      |
-| Oxybutynin        |      |
-| Oxytrol For Women |      |
-| Solifenacin       |      |
-| Toviaz BvG        |      |
+| Preferred         |
+| :---------------- |
+| Gelnique          |
+| Myrbetriq Tab     |
+| Oxybutynin        |
+| Oxytrol For Women |
+| Solifenacin       |
+| Toviaz BvG        |
 
 ### Non-Preferred
 
-| Non-Preferred         |      |
-| :-------------------- | ---: |
-| Darifenacin           |      |
-| Fesoterodine          |      |
-| Gemtesa               |      |
-| Myrbetriq Granules AR |      |
-| Tolterodine           |      |
-| Trospium              |      |
-| Vesicare LS AR        |      |
+| Non-Preferred         |
+| :-------------------- |
+| Darifenacin           |
+| Fesoterodine          |
+| Gemtesa               |
+| Myrbetriq Granules AR |
+| Tolterodine           |
+| Trospium              |
+| Vesicare LS AR        |
 
 ## Links
 

@@ -32,20 +32,20 @@ Respiratory Agents: Hereditary Angioedema
 
 ### Preferred
 
-| Preferred   |      |
-| :---------- | ---: |
-| Haegarda PA |      |
-| Ruconest PA |      |
-| Takhzyro PA |      |
+| Preferred   |
+| :---------- |
+| Haegarda PA |
+| Ruconest PA |
+| Takhzyro PA |
 
 ### Non-Preferred
 
-| Non-Preferred     |      |
-| :---------------- | ---: |
-| Berinert          |      |
-| Cinryze           |      |
-| Icatibant Acetate |      |
-| Kalbitor          |      |
+| Non-Preferred     |
+| :---------------- |
+| Berinert          |
+| Cinryze           |
+| Icatibant Acetate |
+| Kalbitor          |
 
 ## Links
 

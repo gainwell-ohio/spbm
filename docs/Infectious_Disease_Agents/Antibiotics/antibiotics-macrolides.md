@@ -26,18 +26,18 @@ Infectious Disease Agents: Antibiotics – Macrolides
 
 ### Preferred
 
-| Preferred      |      |
-| :------------- | ---: |
-| Azithromycin   |      |
-| Clarithromycin |      |
+| Preferred      |
+| :------------- |
+| Azithromycin   |
+| Clarithromycin |
 
 ### Non-Preferred
 
-| Non-Preferred       |      |
-| :------------------ | ---: |
-| Eryped              |      |
-| Erythrocin Stearate |      |
-| Erythromycin        |      |
+| Non-Preferred       |
+| :------------------ |
+| Eryped              |
+| Erythrocin Stearate |
+| Erythromycin        |
 
 ## Links
 

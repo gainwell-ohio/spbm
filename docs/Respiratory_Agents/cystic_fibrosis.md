@@ -57,18 +57,18 @@ Respiratory Agents: Cystic Fibrosis
 
 ### Preferred
 
-| Preferred   |      |
-| :---------- | ---: |
-| Kalydeco PA |      |
-| Orkambi PA  |      |
-| Symdeko PA  |      |
-| Trikafta PA |      |
+| Preferred   |
+| :---------- |
+| Kalydeco PA |
+| Orkambi PA  |
+| Symdeko PA  |
+| Trikafta PA |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Bronchitol    |      |
+| Non-Preferred |
+| :------------ |
+| Bronchitol    |
 
 ## Links
 

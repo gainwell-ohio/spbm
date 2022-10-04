@@ -31,40 +31,40 @@ Endocrine Agents: Diabetes – Insulin
 
 ### Preferred
 
-| Preferred                               |      |
-| :-------------------------------------- | ---: |
-| Apidra                                  |      |
-| Humalog 50-50                           |      |
-| Humalog 75-25                           |      |
-| Humalog U-100                           |      |
-| Humulin 70-30                           |      |
-| Humulin R U-500                         |      |
-| Insulin Aspart                          |      |
-| Insulin Aspart Protamine/Insulin Aspart |      |
-| Insulin Lispro                          |      |
-| Lantus BvG                              |      |
-| Levemir                                 |      |
-| Novolog 70-30                           |      |
-| Novolog U-100                           |      |
-| Toujeo                                  |      |
-| Tresiba ST                              |      |
+| Preferred                               |
+| :-------------------------------------- |
+| Apidra                                  |
+| Humalog 50-50                           |
+| Humalog 75-25                           |
+| Humalog U-100                           |
+| Humulin 70-30                           |
+| Humulin R U-500                         |
+| Insulin Aspart                          |
+| Insulin Aspart Protamine/Insulin Aspart |
+| Insulin Lispro                          |
+| Lantus BvG                              |
+| Levemir                                 |
+| Novolog 70-30                           |
+| Novolog U-100                           |
+| Toujeo                                  |
+| Tresiba ST                              |
 
 ### Non-Preferred
 
-| Non-Preferred    |      |
-| :--------------- | ---: |
-| Admelog          |      |
-| Afrezza          |      |
-| Basaglar         |      |
-| Fiasp            |      |
-| Humalog U-200    |      |
-| Humulin N U-100  |      |
-| Humulin R U-100  |      |
-| Insulin glargine |      |
-| Lyumjev          |      |
-| Novolin 70-30    |      |
-| Novolin N U-100  |      |
-| Novolin R U-100  |      |
+| Non-Preferred    |
+| :--------------- |
+| Admelog          |
+| Afrezza          |
+| Basaglar         |
+| Fiasp            |
+| Humalog U-200    |
+| Humulin N U-100  |
+| Humulin R U-100  |
+| Insulin glargine |
+| Lyumjev          |
+| Novolin 70-30    |
+| Novolin N U-100  |
+| Novolin R U-100  |
 
 ## Links
 

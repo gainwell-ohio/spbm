@@ -8,21 +8,21 @@ Endocrine Agents: Progestin Agents
 
 ### Preferred
 
-| Preferred                       |      |
-| :------------------------------ | ---: |
-| Hydroxyprogesterone Caproate    |      |
-| Makena                          |      |
-| Medroxyprogesterone Acetate Tab |      |
-| Megestrol                       |      |
-| Norethindrone Acetate           |      |
-| Progesterone                    |      |
-| Progesterone In Oil             |      |
+| Preferred                       |
+| :------------------------------ |
+| Hydroxyprogesterone Caproate    |
+| Makena                          |
+| Medroxyprogesterone Acetate Tab |
+| Megestrol                       |
+| Norethindrone Acetate           |
+| Progesterone                    |
+| Progesterone In Oil             |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-|               |      |
+| Non-Preferred |
+| :------------ |
+|               |
 
 ## Links
 

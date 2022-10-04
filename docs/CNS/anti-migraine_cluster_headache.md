@@ -44,15 +44,15 @@ Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache
 
 ### Preferred
 
-| Preferred |      |
-| :-------- | ---: |
-| Verapamil |      |
+| Preferred |
+| :-------- |
+| Verapamil |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Emgality      |      |
+| Non-Preferred |
+| :------------ |
+| Emgality      |
 
 ## Links
 

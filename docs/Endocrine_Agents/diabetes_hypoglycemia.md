@@ -27,20 +27,20 @@ Endocrine Agents: Diabetes – Hypoglycemia Treatments
 
 ### Preferred
 
-| Preferred                             |                                                          Generic Name | Quantity Restrictions | Time (Days) |
-| :------------------------------------ | --------------------------------------------------------------------: | :-------------------: | :---------: |
-| Baqsimi QL                            |                                                                       |                       |             |
-| Glucagen Hypokit                      |                      Glucagon HCI (rDNA) For Inj 1 MG (all strengths) |           2           |     34      |
-| Glucagon Emerg Kit [Labeler 00002] QL |                                                                       |                       |             |
-| Gvoke Hypopen QL                      |                                                                       |                       |             |
-| Gvoke PFS QL                          |                                                                       |                       |             |
-| Zegalogue                             | Dasiglucagon HCI Soln Subcutaneous Inj (all strengths & formulations) |           2           |     34      |
+| Preferred                             |
+| :------------------------------------ |
+| Baqsimi QL                            |
+| Glucagen Hypokit                      |
+| Glucagon Emerg Kit [Labeler 00002] QL |
+| Gvoke Hypopen QL                      |
+| Gvoke PFS QL                          |
+| Zegalogue                             |
 
 ### Non-Preferred
 
-| Non-Preferred                                 | Generic Name | Quantity Restrictions | Time (Days) |
-| :-------------------------------------------- | -----------: | :-------------------: | :---------: |
-| Glucagon Emerg Kit [Labeler 00548 & 63323] QL |              |                       |             |
+| Non-Preferred                                 |
+| :-------------------------------------------- |
+| Glucagon Emerg Kit [Labeler 00548 & 63323] QL |
 
 ## Links
 

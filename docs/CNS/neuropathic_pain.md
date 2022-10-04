@@ -22,29 +22,29 @@ Central Nervous System (CNS) Agents: Neuropathic Pain
 
 ### Preferred
 
-| Preferred                          |      |
-| :--------------------------------- | ---: |
-| Amitriptyline                      |      |
-| Carbamazepine                      |      |
-| Desipramine                        |      |
-| Doxepin 10, 25, 50, 75, 100, 150mg |      |
-| Doxepin 10mg/m Sol                 |      |
-| Duloxetine                         |      |
-| Gabapentin                         |      |
-| Imipramine                         |      |
-| Lidocaine Patch                    |      |
-| Nortriptyline                      |      |
-| Oxcarbazepine                      |      |
-| Pregabalin                         |      |
+| Preferred                          |
+| :--------------------------------- |
+| Amitriptyline                      |
+| Carbamazepine                      |
+| Desipramine                        |
+| Doxepin 10, 25, 50, 75, 100, 150mg |
+| Doxepin 10mg/m Sol                 |
+| Duloxetine                         |
+| Gabapentin                         |
+| Imipramine                         |
+| Lidocaine Patch                    |
+| Nortriptyline                      |
+| Oxcarbazepine                      |
+| Pregabalin                         |
 
 ### Non-Preferred
 
-| Preferred     |      |
-| :------------ | ---: |
-| Gralise       |      |
-| Horizant      |      |
-| Pregabalin ER |      |
-| Ztlido        |      |
+| Preferred     |
+| :------------ |
+| Gralise       |
+| Horizant      |
+| Pregabalin ER |
+| Ztlido        |
 
 ## Links
 

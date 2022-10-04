@@ -27,26 +27,26 @@ Gastrointestinal Agents: Ulcerative Colitis
 
 ### Preferred
 
-| Preferred            |      |
-| :------------------- | ---: |
-| Balsalazide Disodium |      |
-| Budesonide ER Tab QL |      |
-| Lialda BvG           |      |
-| Mesalamine DR Cap    |      |
-| Mesalamine Enema     |      |
-| Mesalamine ER        |      |
-| Pentasa BvG          |      |
-| Sulfasalazine        |      |
+| Preferred            |
+| :------------------- |
+| Balsalazide Disodium |
+| Budesonide ER Tab QL |
+| Lialda BvG           |
+| Mesalamine DR Cap    |
+| Mesalamine Enema     |
+| Mesalamine ER        |
+| Pentasa BvG          |
+| Sulfasalazine        |
 
 ### Non-Preferred
 
-| Non-Preferred     |      |
-| :---------------- | ---: |
-| Dipentum          |      |
-| Mesalamine DR Tab |      |
-| Mesalamine Supp   |      |
-| Uceris Foam       |      |
-| Zeposia           |      |
+| Non-Preferred     |
+| :---------------- |
+| Dipentum          |
+| Mesalamine DR Tab |
+| Mesalamine Supp   |
+| Uceris Foam       |
+| Zeposia           |
 
 ## Links
 

@@ -32,18 +32,18 @@ Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE
 
 ### Preferred
 
-| Preferred  |      |
-| :--------- | ---: |
-| Fasenra PA |      |
-| Nucala PA  |      |
-| Xolair PA  |      |
+| Preferred  |
+| :--------- |
+| Fasenra PA |
+| Nucala PA  |
+| Xolair PA  |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Dupixent      |      |
-| Tezspire      |      |
+| Non-Preferred |
+| :------------ |
+| Dupixent      |
+| Tezspire      |
 
 
 ## Links

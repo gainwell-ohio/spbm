@@ -22,17 +22,17 @@ Central Nervous System (CNS) Agents: Restless Legs Syndrome
 
 ### Preferred
 
-| Preferred   |      |
-| :---------- | ---: |
-| Pramipexole |      |
-| Ropinirole  |      |
+| Preferred   |
+| :---------- |
+| Pramipexole |
+| Ropinirole  |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Horizant      |      |
-| Neupro        |      |
+| Non-Preferred |
+| :------------ |
+| Horizant      |
+| Neupro        |
 
 ## Links
 

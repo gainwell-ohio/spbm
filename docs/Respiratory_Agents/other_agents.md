@@ -14,15 +14,15 @@ Respiratory Agents: Other Agents
 
 ### Preferred
 
-| Preferred |      |
-| :-------- | ---: |
-|           |      |
+| Preferred |
+| :-------- |
+|           |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Daliresp      |      |
+| Non-Preferred |
+| :------------ |
+| Daliresp      |
 
 ## Links
 

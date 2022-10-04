@@ -37,20 +37,20 @@ Topical Agents: Antiparasitics
 
 ### Preferred
 
-| Preferred                     |      |
-| :---------------------------- | ---: |
-| Natroba BvG                   |      |
-| Permethrin                    |      |
-| Piperonyl Butoxide/Pyrethrins |      |
+| Preferred                     |
+| :---------------------------- |
+| Natroba BvG                   |
+| Permethrin                    |
+| Piperonyl Butoxide/Pyrethrins |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Eurax         |      |
-| Malathion     |      |
-| Sklice        |      |
-| Spinosad      |      |
+| Non-Preferred |
+| :------------ |
+| Eurax         |
+| Malathion     |
+| Sklice        |
+| Spinosad      |
 
 ## Links
 

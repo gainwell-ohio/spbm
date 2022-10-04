@@ -36,27 +36,27 @@ Infectious Disease Agents: Antibiotics – Cephalosporins
 
 ### Preferred
 
-| Preferred             |      |
-| :-------------------- | ---: |
-| Cefadroxil            |      |
-| Cephalexin 250, 500mg |      |
-| Cefaclor              |      |
-| Cefaclor ER           |      |
-| Cefaclor Susp AR      |      |
-| Cefprozil             |      |
-| Cefprozil Susp AR     |      |
-| Cefuroxime            |      |
-| Cefdinir              |      |
+| Preferred             |
+| :-------------------- |
+| Cefadroxil            |
+| Cephalexin 250, 500mg |
+| Cefaclor              |
+| Cefaclor ER           |
+| Cefaclor Susp AR      |
+| Cefprozil             |
+| Cefprozil Susp AR     |
+| Cefuroxime            |
+| Cefdinir              |
 
 ### Non-Preferred
 
-| Non-Preferred          |      |
-| :--------------------- | ---: |
-| Cephalexin 750mg       |      |
-| Cefpodoxime            |      |
-| Cefixime Cap           |      |
-| Cefixime Susp AR       |      |
-| Suprax Chewable Tab AR |      |
+| Non-Preferred          |
+| :--------------------- |
+| Cephalexin 750mg       |
+| Cefpodoxime            |
+| Cefixime Cap           |
+| Cefixime Susp AR       |
+| Suprax Chewable Tab AR |
 
 ## Links
 

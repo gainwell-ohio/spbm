@@ -18,19 +18,19 @@ Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants
 
 ### Preferred
 
-| Preferred   |      |
-| :---------- | ---: |
-| Eliquis     |      |
-| Pradaxa BvG |      |
-| Warfarin    |      |
-| Xarelto     |      |
+| Preferred   |
+| :---------- |
+| Eliquis     |
+| Pradaxa BvG |
+| Warfarin    |
+| Xarelto     |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Dabigatran    |      |
-| Savaysa       |      |
+| Non-Preferred |
+| :------------ |
+| Dabigatran    |
+| Savaysa       |
 
 ## Links
 

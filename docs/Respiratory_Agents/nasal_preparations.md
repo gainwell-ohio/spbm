@@ -18,26 +18,26 @@ Respiratory Agents: Nasal Preparations
 
 ### Preferred
 
-| Preferred                        |      |
-| :------------------------------- | ---: |
-| Azelastine                       |      |
-| Flunisolide                      |      |
-| Fluticasone (Generic of Flonase) |      |
-| Ipratropium                      |      |
-| Olopatadine                      |      |
+| Preferred                        |
+| :------------------------------- |
+| Azelastine                       |
+| Flunisolide                      |
+| Fluticasone (Generic of Flonase) |
+| Ipratropium                      |
+| Olopatadine                      |
 
 ### Non-Preferred
 
-| Preferred                    |      |
-| :--------------------------- | ---: |
-| Azelastine/Fluticasone Spray |      |
-| Beconase AQ                  |      |
-| Budesonide                   |      |
-| Mometasone                   |      |
-| Omnaris                      |      |
-| Qnasl                        |      |
-| Xhance                       |      |
-| Zetonna                      |      |
+| Preferred                    |
+| :--------------------------- |
+| Azelastine/Fluticasone Spray |
+| Beconase AQ                  |
+| Budesonide                   |
+| Mometasone                   |
+| Omnaris                      |
+| Qnasl                        |
+| Xhance                       |
+| Zetonna                      |
 
 ## Links
 

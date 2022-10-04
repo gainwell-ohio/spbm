@@ -32,26 +32,26 @@ Endocrine Agents: Androgens
 
 ### Preferred
 
-| Preferred                   |      |
-| :-------------------------- | ---: |
-| Androderm PA                |      |
-| Testosterone Gel 1% PA      |      |
-| Testosterone Gel 1% Pump PA |      |
+| Preferred                   |
+| :-------------------------- |
+| Androderm PA                |
+| Testosterone Gel 1% PA      |
+| Testosterone Gel 1% Pump PA |
 
 ### Non-Preferred
 
-| Non-Preferred             |      |
-| :------------------------ | ---: |
-| Jatenzo                   |      |
-| Methyltestosterone        |      |
-| Natesto                   |      |
-| Testopel                  |      |
-| Testosterone Cypionate    |      |
-| Testosterone Gel 1.62%    |      |
-| Testosterone Gel 2%       |      |
-| Testosterone Sol 30mg/ACT |      |
-| Tlando                    |      |
-| Xyosted                   |      |
+| Non-Preferred             |
+| :------------------------ |
+| Jatenzo                   |
+| Methyltestosterone        |
+| Natesto                   |
+| Testopel                  |
+| Testosterone Cypionate    |
+| Testosterone Gel 1.62%    |
+| Testosterone Gel 2%       |
+| Testosterone Sol 30mg/ACT |
+| Tlando                    |
+| Xyosted                   |
 
 ## Links
 

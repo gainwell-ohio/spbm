@@ -18,29 +18,29 @@ Ophthalmic Agents: Ophthalmic Steroids
 
 ### Preferred
 
-| Preferred                      |      |
-| :----------------------------- | ---: |
-| Dexamethasone Sodium Phosphate |      |
-| Durezol BvG                    |      |
-| Fluorometholone                |      |
-| Fml Forte                      |      |
-| Fml S.O.P.                     |      |
-| Pred Mild                      |      |
-| Prednisolone Acetate           |      |
-| Prednisolone Sodium Phosphate  |      |
+| Preferred                      |
+| :----------------------------- |
+| Dexamethasone Sodium Phosphate |
+| Durezol BvG                    |
+| Fluorometholone                |
+| Fml Forte                      |
+| Fml S.O.P.                     |
+| Pred Mild                      |
+| Prednisolone Acetate           |
+| Prednisolone Sodium Phosphate  |
 
 ### Non-Preferred
 
-| Preferred     |      |
-| :------------ | ---: |
-| Alrex BvG     |      |
-| Difluprednate |      |
-| Flarex        |      |
-| Inveltys      |      |
-| Lotemax BvG   |      |
-| Lotemax SM    |      |
-| Loteprednol   |      |
-| Maxidex       |      |
+| Preferred     |
+| :------------ |
+| Alrex BvG     |
+| Difluprednate |
+| Flarex        |
+| Inveltys      |
+| Lotemax BvG   |
+| Lotemax SM    |
+| Loteprednol   |
+| Maxidex       |
 
 ## Links
 

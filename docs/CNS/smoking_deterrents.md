@@ -8,18 +8,18 @@ Central Nervous System (CNS) Agents: Smoking Deterrents
 
 ### Preferred
 
-| Preferred   |      |
-| :---------- | ---: |
-| Nicotine    |      |
-| Bupropion   |      |
-| Chantix     |      |
-| Varenicline |      |
+| Preferred   |
+| :---------- |
+| Nicotine    |
+| Bupropion   |
+| Chantix     |
+| Varenicline |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-|               |      |
+| Non-Preferred |
+| :------------ |
+|               |
 
 ## Links
 

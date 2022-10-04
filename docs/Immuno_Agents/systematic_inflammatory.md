@@ -58,36 +58,36 @@ Additional Ulcerative Colitis Criteria
 
 ### Preferred
 
-| Preferred     |      |
-| :------------ | ---: |
-| Enbrel PA     |      |
-| Humira PA     |      |
-| Kineret PA    |      |
-| Otezla PA     |      |
-| Taltz PA ST   |      |
-| Xeljanz IR PA |      |
+| Preferred     |
+| :------------ |
+| Enbrel PA     |
+| Humira PA     |
+| Kineret PA    |
+| Otezla PA     |
+| Taltz PA ST   |
+| Xeljanz IR PA |
 
 ### Non-Preferred
 
-| Non-Preferred   |      |
-| :-------------- | ---: |
-| Actemra         |      |
-| Adbry           |      |
-| Cibinqo         |      |
-| Cimzia          |      |
-| Cosentyx        |      |
-| Dupixent        |      |
-| Ilumya          |      |
-| Kevzara         |      |
-| Olumiant        |      |
-| Orencia         |      |
-| Rinvoq          |      |
-| Siliq           |      |
-| Simponi         |      |
-| Skyrizi         |      |
-| Stelara         |      |
-| Tremfya         |      |
-| Xeljanz Sol, XR |      |
+| Non-Preferred   |
+| :-------------- |
+| Actemra         |
+| Adbry           |
+| Cibinqo         |
+| Cimzia          |
+| Cosentyx        |
+| Dupixent        |
+| Ilumya          |
+| Kevzara         |
+| Olumiant        |
+| Orencia         |
+| Rinvoq          |
+| Siliq           |
+| Simponi         |
+| Skyrizi         |
+| Stelara         |
+| Tremfya         |
+| Xeljanz Sol, XR |
 
 ## Links
 

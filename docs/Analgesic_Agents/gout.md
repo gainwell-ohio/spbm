@@ -54,20 +54,20 @@ Analgesic Agents: Gout
 
 ### Preferred
 
-| Preferred                |                                 Generic Name | Quantity Limit |   Quantity Restrictions   | Time (Days) |
-| :----------------------- | -------------------------------------------: | :------------: | :-----------------------: | :---------: |
-| Allopurinol              |              Allopurinol Tab (all strengths) |                |            204            |     102     |
-| Colchicine PA QL         |               Colchicine Tab (all strengths) |                | Determined pursuant to PA |             |
-| Probenecid               |               Probenecid Tab (all strengths) |                |            408            |     102     |
-| Probenecid/Colchicine PA | Probenecid w/ Colchicine Tab (all strengths) |                |                           |             |
+| Preferred                |
+| :----------------------- |
+| Allopurinol              |
+| Colchicine PA QL         |
+| Probenecid               |
+| Probenecid/Colchicine PA |
 
 ### Non-Preferred
 
-| Non-Preferred    |                   Generic Name | Quantity Limit |   Quantity Restrictions   | Time (Days) |
-| :--------------- | -----------------------------: | :------------- | :-----------------------: | :---------: |
-| Colchicine QL    | Colchicine Cap (all strengths) |                | Determined pursuant to PA |             |
-| Gloperba Susp QL |                                | 1.2 mg per day |                           |             |
-| Uloric BvG       |                                |                |                           |             |
+| Non-Preferred    |
+| :--------------- |
+| Colchicine QL    |
+| Gloperba Susp QL |
+| Uloric BvG       |
 
 ## Links
 

@@ -36,24 +36,24 @@ Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors
 
 ### Preferred
 
-| Preferred    |      |
-| :----------- | ---: |
-| Neupogen PA  |      |
-| Releuko PA   |      |
-| Ziextenzo PA |      |
+| Preferred    |
+| :----------- |
+| Neupogen PA  |
+| Releuko PA   |
+| Ziextenzo PA |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Fulphila      |      |
-|   Granix      |      |
-|  Leukine      |      |
-| Neulasta      |      |
-| Nivestym      |      |
-| Nyvepria      |      |
-|  Udenyca      |      |
-|   Zarxio      |      |
+| Non-Preferred |
+| :------------ |
+| Fulphila      |
+|   Granix      |
+|  Leukine      |
+| Neulasta      |
+| Nivestym      |
+| Nyvepria      |
+|  Udenyca      |
+|   Zarxio      |
 
 ## Links
 

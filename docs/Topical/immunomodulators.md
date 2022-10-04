@@ -39,18 +39,18 @@ Topical Agents: Immunomodulators
 
 ### Preferred
 
-| Preferred        |      |
-| :--------------- | ---: |
-| Elidel AR BvG ST |      |
-| Protopic AR ST   |      |
+| Preferred        |
+| :--------------- |
+| Elidel AR BvG ST |
+| Protopic AR ST   |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Eucrisa       |      |
-| Opzelura      |      |
-| Pimecrolimus  |      |
+| Non-Preferred |
+| :------------ |
+| Eucrisa       |
+| Opzelura      |
+| Pimecrolimus  |
 
 ## Links
 

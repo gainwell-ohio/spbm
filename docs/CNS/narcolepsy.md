@@ -50,23 +50,23 @@ Central Nervous System (CNS) Agents: Narcolepsy
 
 ### Preferred
 
-| Preferred                     |      |
-| :---------------------------- | ---: |
-| Amphetamine/Dextroamphetamine |      |
-| Armodafinil                   |      |
-| Dextroamphetamine ER          |      |
-| Methylphenidate ER            |      |
-| Methylphenidate Tab           |      |
-| Modafinil                     |      |
+| Preferred                     |
+| :---------------------------- |
+| Amphetamine/Dextroamphetamine |
+| Armodafinil                   |
+| Dextroamphetamine ER          |
+| Methylphenidate ER            |
+| Methylphenidate Tab           |
+| Modafinil                     |
 
 ### Non-Preferred
 
-| Preferred |      |
-| :-------- | ---: |
-| Sunosi    |      |
-| Wakix     |      |
-| Xyrem     |      |
-| Xywav     |      |
+| Preferred |
+| :-------- |
+| Sunosi    |
+| Wakix     |
+| Xyrem     |
+| Xywav     |
 
 ## Links
 

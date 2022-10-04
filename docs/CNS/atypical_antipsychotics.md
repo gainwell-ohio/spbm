@@ -90,49 +90,49 @@ Central Nervous System (CNS) Agents: Atypical Antipsychotics
 
 ### Preferred
 
-| Preferred            |      |
-| :------------------- | ---: |
-| Abilify Maintena     |      |
-| Aripiprazole         |      |
-| Aristada             |      |
-| Aristada Initio      |      |
-| Clozapine            |      |
-| Fanapt ST            |      |
-| Geodon               |      |
-| Invega BvG           |      |
-| Invega Hafyera ER PA |      |
-| Invega Sustenna      |      |
-| Invega Trinza        |      |
-| Latuda ST            |      |
-| Olanzapine           |      |
-| Perseris             |      |
-| Quetiapine           |      |
-| Quetiapine ER        |      |
-| Risperdal            |      |
-| Risperdal Consta     |      |
-| Risperidone          |      |
-| Saphris BvG ST       |      |
-| Ziprasidone          |      |
+| Preferred            |
+| :------------------- |
+| Abilify Maintena     |
+| Aripiprazole         |
+| Aristada             |
+| Aristada Initio      |
+| Clozapine            |
+| Fanapt ST            |
+| Geodon               |
+| Invega BvG           |
+| Invega Hafyera ER PA |
+| Invega Sustenna      |
+| Invega Trinza        |
+| Latuda ST            |
+| Olanzapine           |
+| Perseris             |
+| Quetiapine           |
+| Quetiapine ER        |
+| Risperdal            |
+| Risperdal Consta     |
+| Risperidone          |
+| Saphris BvG ST       |
+| Ziprasidone          |
 
 ### Non-Preferred
 
-| Non-Preferred         |      |
-| :-------------------- | ---: |
-| Abilify Mycite        |      |
-| Aripiprazole Sol      |      |
-| Asenapine             |      |
-| Caplyta               |      |
-| Clozapine ODT Rapdis  |      |
-| Fluoxetine/Olanzapine |      |
-| Lybalvi               |      |
-| Nuplazid              |      |
-| Olanzapine ODT        |      |
-| Paliperidone          |      |
-| Rexulti               |      |
-| Secuado               |      |
-| Versacloz             |      |
-| Vraylar               |      |
-| Zyprexa Relprevv      |      |
+| Non-Preferred         |
+| :-------------------- |
+| Abilify Mycite        |
+| Aripiprazole Sol      |
+| Asenapine             |
+| Caplyta               |
+| Clozapine ODT Rapdis  |
+| Fluoxetine/Olanzapine |
+| Lybalvi               |
+| Nuplazid              |
+| Olanzapine ODT        |
+| Paliperidone          |
+| Rexulti               |
+| Secuado               |
+| Versacloz             |
+| Vraylar               |
+| Zyprexa Relprevv      |
 
 ## Links
 
