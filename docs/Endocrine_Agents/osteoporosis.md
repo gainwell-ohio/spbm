@@ -53,6 +53,6 @@ Endocrine Agents: Osteoporosis – Bone Ossification Enhancers
 
 ## Links
 
-[Criteria]https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=57)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=57)
 
 [Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=22)

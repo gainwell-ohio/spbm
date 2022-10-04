@@ -40,6 +40,6 @@ Central Nervous System (CNS) Agents: Fibromyalgia Agents
 
 ## Links
 
-[Criteria]https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=34)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=34)
 
 [Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=16)

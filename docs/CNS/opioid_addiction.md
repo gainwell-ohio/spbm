@@ -80,6 +80,6 @@ Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Add
 
 ## Links
 
-[Criteria]https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=35)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=35)
 
 [Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=16)
