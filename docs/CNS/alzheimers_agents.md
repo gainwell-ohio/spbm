@@ -36,14 +36,14 @@ Central Nervous System (CNS) Agents: Alzheimer’s Agents
 
 ### Non-Preferred
 
-| Non-Preferred      |      |
-| :----------------- | ---: |
-| Donepezil 23mg Tab |      |
-| Galantamine Sol    |      |
-| Memantine ER       |      |
-| Memantine Sol      |      |
-| Namzaric           |      |
-| Rivastigmine Patch |      |
+| Non-Preferred      |
+| :----------------- |
+| Donepezil 23mg Tab |
+| Galantamine Sol    |
+| Memantine ER       |
+| Memantine Sol      |
+| Namzaric           |
+| Rivastigmine Patch |
 
 ## Links
 

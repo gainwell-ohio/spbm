@@ -39,18 +39,18 @@ Blood Agents: Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic
 
 ### Preferred
 
-| Preferred   |      |
-| :---------- | ---: |
-| Epogen PA   |      |
-| Mircera PA  |      |
-| Retacrit PA |      |
+| Preferred   |
+| :---------- |
+| Epogen PA   |
+| Mircera PA  |
+| Retacrit PA |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Aranesp       |      |
-| Procrit       |      |
+| Non-Preferred |
+| :------------ |
+| Aranesp       |
+| Procrit       |
 
 ## Links
 

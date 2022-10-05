@@ -24,18 +24,18 @@ Central Nervous System (CNS) Agents: Anticonvulsants Rescue
 
 ### Preferred
 
-| Preferred    |      |
-| :----------- | ---: |
-| Diastat BvG  |      |
-| Diazepam Gel |      |
-| Nayzilam AR  |      |
-| Valtoco AR   |      |
+| Preferred    |
+| :----------- |
+| Diastat BvG  |
+| Diazepam Gel |
+| Nayzilam AR  |
+| Valtoco AR   |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-|               |      |
+| Non-Preferred |
+| :------------ |
+|               |
 
 
 ## Links

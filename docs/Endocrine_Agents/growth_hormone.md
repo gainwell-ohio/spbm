@@ -81,22 +81,22 @@ Endocrine Agents: Growth Hormone
 
 ### Preferred
 
-| Preferred      |      |
-| :------------- | ---: |
-| Norditropin PA |      |
-| Omnitrope PA   |      |
+| Preferred      |
+| :------------- |
+| Norditropin PA |
+| Omnitrope PA   |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Genotropin    |      |
-| Humatrope     |      |
-| Nutropin      |      |
-| Saizen        |      |
-| Serostim      |      |
-| Skytrofa      |      |
-| Zomacton      |      |
+| Non-Preferred |
+| :------------ |
+| Genotropin    |
+| Humatrope     |
+| Nutropin      |
+| Saizen        |
+| Serostim      |
+| Skytrofa      |
+| Zomacton      |
 
 ## Links
 

@@ -24,21 +24,21 @@ Otic Agents: Antibacterial and Antibacterial/Steroid Combinations
 
 ### Preferred
 
-| Preferred                           |      |
-| :---------------------------------- | ---: |
-| Cipro HC                            |      |
-| Ciprodex BvG                        |      |
-| Cortisporin-TC                      |      |
-| Neomycin/Polymyxin B/Hydrocortisone |      |
-| Ofloxacin                           |      |
+| Preferred                           |
+| :---------------------------------- |
+| Cipro HC                            |
+| Ciprodex BvG                        |
+| Cortisporin-TC                      |
+| Neomycin/Polymyxin B/Hydrocortisone |
+| Ofloxacin                           |
 
 ### Non-Preferred
 
-| Non-Preferred               |      |
-| :-------------------------- | ---: |
-| Ciprofloxacin               |      |
-| Ciprofloxacin/Dexamethasone |      |
-| Ciprofloxacin/Fluocinolone  |      |
+| Non-Preferred               |
+| :-------------------------- |
+| Ciprofloxacin               |
+| Ciprofloxacin/Dexamethasone |
+| Ciprofloxacin/Fluocinolone  |
 
 ## Links
 

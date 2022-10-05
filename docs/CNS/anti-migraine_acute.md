@@ -31,30 +31,30 @@ Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute
 
 ### Preferred
 
-| Preferred     |                                        Generic Name |   Quantity Restrictions   | Time (Days) |
-| :------------ | --------------------------------------------------: | :-----------------------: | :---------: |
-| Naratriptan   |                 Naratriptan HCI Tab (all strengths) |             9             |     30      |
-| Nurtec ODT ST |                      Rimegepant ODT (all strengths) | Determined pursuant to PA |             |
-| Rizatriptan   | Rizatriptan Benzoate (all strengths & formulations) |             9             |     30      |
-| Sumatriptan   |           Sumatriptan Succinate Tab (all strengths) |             9             |     30      |
+| Preferred     |
+| :------------ |
+| Naratriptan   |
+| Nurtec ODT ST |
+| Rizatriptan   |
+| Sumatriptan   |
 
 ### Non-Preferred
 
-| Non-Preferred        |                                       Generic Name |   Quantity Restrictions   | Time (Days) |
-| :------------------- | -------------------------------------------------: | :-----------------------: | :---------: |
-| Almotriptan          |                                                    |                           |             |
-| Dihydroergotamine    |                                                    |                           |             |
-| Eletriptan           |                                                    |                           |             |
-| Ergomar              |                                                    |                           |             |
-| Frovatriptan         |                                                    |                           |             |
-| Migergot             |                                                    |                           |             |
-| Onzetra Xsail        | Sumatriptan Succinate Nasal Powder (all strengths) | Determined pursuant to PA |             |
-| Reyvow               |                                                    |                           |             |
-| Sumatriptan/Naproxen |                                                    |                           |             |
-| Tosymra              |  Sumatriptan Succinate Nasal Spray (all strengths) | Determined pursuant to PA |             |
-| Trudhesa             |                                                    |                           |             |
-| Ubrelvy              |                                                    |                           |             |
-| Zolmitriptan         |                                                    |                           |             |
+| Non-Preferred        |
+| :------------------- |
+| Almotriptan          |
+| Dihydroergotamine    |
+| Eletriptan           |
+| Ergomar              |
+| Frovatriptan         |
+| Migergot             |
+| Onzetra Xsail        |
+| Reyvow               |
+| Sumatriptan/Naproxen |
+| Tosymra              |
+| Trudhesa             |
+| Ubrelvy              |
+| Zolmitriptan         |
 
 ## Links
 

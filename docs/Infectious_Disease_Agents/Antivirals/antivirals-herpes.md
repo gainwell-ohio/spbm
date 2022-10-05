@@ -18,17 +18,17 @@ Infectious Disease Agents: Antivirals – Herpes
 
 ### Preferred
 
-| Preferred    |      |
-| :----------- | ---: |
-| Acyclovir    |      |
-| Valacyclovir |      |
+| Preferred    |
+| :----------- |
+| Acyclovir    |
+| Valacyclovir |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Famciclovir   |      |
-| Sitavig       |      |
+| Non-Preferred |
+| :------------ |
+| Famciclovir   |
+| Sitavig       |
 
 ## Links
 

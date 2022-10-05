@@ -30,16 +30,16 @@ Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparation
 
 ### Preferred
 
-| Preferred  |      |
-| :--------- | ---: |
-| Enoxaparin |      |
+| Preferred  |
+| :--------- |
+| Enoxaparin |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Fondaparinux  |      |
-| Fragmin       |      |
+| Non-Preferred |
+| :------------ |
+| Fondaparinux  |
+| Fragmin       |
 
 ## Links
 

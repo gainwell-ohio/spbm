@@ -47,19 +47,19 @@ Infectious Disease Agents: Antibiotics – Inhaled
 
 ### Preferred
 
-| Preferred        |                                      Generic Name |   Quantity Restrictions   | Time (Days) |
-| :--------------- | ------------------------------------------------: | :-----------------------: | :---------: |
-| Arikayce PA QL   | Amikacin Liposome Inhalation Susp (all strengths) | Determined pursuant to PA |             |
-| Tobramycin AR PA |                                                   |                           |             |
+| Preferred        |
+| :--------------- |
+| Arikayce PA QL   |
+| Tobramycin AR PA |
 
 ### Non-Preferred
 
-| Non-Preferred    |      |
-| :--------------- | ---: |
-| Bethkis AR       |      |
-| Cayston AR       |      |
-| Kitabis Pak AR   |      |
-| Tobi Podhaler AR |      |
+| Non-Preferred    |
+| :--------------- |
+| Bethkis AR       |
+| Cayston AR       |
+| Kitabis Pak AR   |
+| Tobi Podhaler AR |
 
 ## Links
 

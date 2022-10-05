@@ -30,37 +30,37 @@ Gastrointestinal Agents: Unspecified GI
 
 ### Preferred
 
-| Preferred                    |      |
-| :--------------------------- | ---: |
-| Amitiza BvG ST               |      |
-| Bisacodyl                    |      |
-| Casanthranol/Docusate Sodium |      |
-| Dicyclomine                  |      |
-| Diphenoxylate/Atropine       |      |
-| Lactulose                    |      |
-| Linzess ST 145, 290mcg       |      |
-| Loperamide                   |      |
-| Movantik ST                  |      |
-| Polyethylene Glycol          |      |
-| Psyllium Fiber               |      |
-| Senna                        |      |
-| Xifaxan ST                   |      |
+| Preferred                    |
+| :--------------------------- |
+| Amitiza BvG ST               |
+| Bisacodyl                    |
+| Casanthranol/Docusate Sodium |
+| Dicyclomine                  |
+| Diphenoxylate/Atropine       |
+| Lactulose                    |
+| Linzess ST 145, 290mcg       |
+| Loperamide                   |
+| Movantik ST                  |
+| Polyethylene Glycol          |
+| Psyllium Fiber               |
+| Senna                        |
+| Xifaxan ST                   |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Aemcolo       |      |
-| Gattex        |      |
-| Ibsrela       |      |
-| Linzess 72mcg |      |
-| Lubiprostone  |      |
-| Motegrity     |      |
-| Mytesi        |      |
-| Relistor      |      |
-| Symproic      |      |
-| Trulance      |      |
-| Zorbitive     |      |
+| Non-Preferred |
+| :------------ |
+| Aemcolo       |
+| Gattex        |
+| Ibsrela       |
+| Linzess 72mcg |
+| Lubiprostone  |
+| Motegrity     |
+| Mytesi        |
+| Relistor      |
+| Symproic      |
+| Trulance      |
+| Zorbitive     |
 
 ## Links
 

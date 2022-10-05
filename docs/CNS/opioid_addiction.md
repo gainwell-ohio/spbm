@@ -62,21 +62,21 @@ Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Add
 
 ### Preferred
 
-| Preferred              |      |
-| :--------------------- | ---: |
-| Buprenorphine/Naloxone |      |
-| Clonidine              |      |
-| Sublocade QL           |      |
-| Suboxone               |      |
-| Vivitrol               |      |
-| Zubsolv                |      |
+| Preferred              |
+| :--------------------- |
+| Buprenorphine/Naloxone |
+| Clonidine              |
+| Sublocade QL           |
+| Suboxone               |
+| Vivitrol               |
+| Zubsolv                |
 
 ### Non-Preferred
 
-| Non-Preferred |                   Generic Name |   Quantity Restrictions   | Time (Days) |
-| :------------ | -----------------------------: | :-----------------------: | :---------: |
-| Buprenorphine |                                |                           |             |
-| Lucemyra      | Lofexidine Tab (all strengths) | Determined pursuant to PA |             |
+| Non-Preferred |
+| :------------ |
+| Buprenorphine |
+| Lucemyra      |
 
 ## Links
 

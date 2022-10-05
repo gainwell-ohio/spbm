@@ -18,22 +18,22 @@ Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers
 
 ### Preferred
 
-| Preferred   |      |
-| :---------- | ---: |
-| Azelastine  |      |
-| Cromolyn    |      |
-| Ketotifen   |      |
-| Olopatadine |      |
+| Preferred   |
+| :---------- |
+| Azelastine  |
+| Cromolyn    |
+| Ketotifen   |
+| Olopatadine |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Alocril       |      |
-| Alomide       |      |
-| Bepreve BvG   |      |
-| Epinastine    |      |
-| Zerviate      |      |
+| Non-Preferred |
+| :------------ |
+| Alocril       |
+| Alomide       |
+| Bepreve BvG   |
+| Epinastine    |
+| Zerviate      |
 
 ## Links
 

@@ -30,32 +30,32 @@ Central Nervous System (CNS) Agents: Multiple Sclerosis
 
 ### Preferred
 
-| Preferred         |      |
-| :---------------- | ---: |
-| Aubagio           |      |
-| Avonex            |      |
-| Betaseron         |      |
-| Copaxone BvG      |      |
-| Dalfampridine     |      |
-| Dimethyl Fumarate |      |
-| Gilenya           |      |
-| Rebif             |      |
+| Preferred         |
+| :---------------- |
+| Aubagio           |
+| Avonex            |
+| Betaseron         |
+| Copaxone BvG      |
+| Dalfampridine     |
+| Dimethyl Fumarate |
+| Gilenya           |
+| Rebif             |
 
 ### Non-Preferred
 
-| Non-Preferred |                  Generic Name |   Quantity Restrictions   | Time (Days) |
-| :------------ | ----------------------------: | :-----------------------: | :---------: |
-| Bafiertam     |                               |                           |             |
-| Extavia       |                               |                           |             |
-| Glatiramer    |                               |                           |             |
-| Glatopa       |                               |                           |             |
-| Kesimpta      |                               |                           |             |
-| Mavenclad     |                               |                           |             |
-| Mayzent       | Siponimod Tab (all strengths) | Determined pursuant to PA |             |
-| Plegridy      |                               |                           |             |
-| Ponvory       |                               |                           |             |
-| Vumerity      |                               |                           |             |
-| Zeposia       |                               |                           |             |
+| Non-Preferred |
+| :------------ |
+| Bafiertam     |
+| Extavia       |
+| Glatiramer    |
+| Glatopa       |
+| Kesimpta      |
+| Mavenclad     |
+| Mayzent       |
+| Plegridy      |
+| Ponvory       |
+| Vumerity      |
+| Zeposia       |
 
 ## Links
 

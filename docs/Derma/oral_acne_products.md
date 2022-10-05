@@ -30,21 +30,21 @@ Dermatological: Oral Acne Products
 
 ### Preferred
 
-| Preferred       |      |
-| :-------------- | ---: |
-| Accutane PA     |      |
-| Amnesteem PA    |      |
-| Claravis PA     |      |
-| Isotretinoin PA |      |
-| Myorisan PA     |      |
-| Zenatane PA     |      |
+| Preferred       |
+| :-------------- |
+| Accutane PA     |
+| Amnesteem PA    |
+| Claravis PA     |
+| Isotretinoin PA |
+| Myorisan PA     |
+| Zenatane PA     |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Absorica      |      |
-| Absorica LD   |      |
+| Non-Preferred |
+| :------------ |
+| Absorica      |
+| Absorica LD   |
 
 ## Links
 

@@ -40,17 +40,17 @@ Central Nervous System (CNS) Agents: Movement Disorders
 
 ### Preferred
 
-| Preferred        |                          Generic Name |   Quantity Restrictions   | Time (Days) |
-| :--------------- | ------------------------------------: | :-----------------------: | :---------: |
-| Austedo PA       | Deutertrabenazine Tab (all strengths) | Determined pursuant to PA |             |
-| Ingrezza PA      |                                       |                           |             |
-| Tetrabenazine PA |                                       |                           |             |
+| Preferred        |
+| :--------------- |
+| Austedo PA       |
+| Ingrezza PA      |
+| Tetrabenazine PA |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-|               |      |
+| Non-Preferred |
+| :------------ |
+|               |
 
 ## Links
 

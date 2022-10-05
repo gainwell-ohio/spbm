@@ -48,23 +48,23 @@ Infectious Disease Agents: Antibiotics – Tetracyclines
 
 ### Preferred
 
-| PREFERRED             | NON-PREFERRED |
-| :-------------------- | ------------: |
-| Doxycycline 50, 100mg |               |
-| Doxycycline Syr       |               |
-| Minocycline Cap       |               |
-| Tetracycline          |               |
-| Vibramycin Susp AR    |               |
+| Preferred             |
+| :-------------------- |
+| Doxycycline 50, 100mg |
+| Doxycycline Syr       |
+| Minocycline Cap       |
+| Tetracycline          |
+| Vibramycin Susp AR    |
 
 ### Non-Preferred
 
-| Non-Preferred                 |      |
-| :---------------------------- | ---: |
-| Doxycycline 20, 40, 75, 150mg |      |
-| Doxycycline DR                |      |
-| Minocycline ER                |      |
-| Minocycline Tab               |      |
-| Nuzyra                        |      |
+| Non-Preferred                 |
+| :---------------------------- |
+| Doxycycline 20, 40, 75, 150mg |
+| Doxycycline DR                |
+| Minocycline ER                |
+| Minocycline Tab               |
+| Nuzyra                        |
 
 ## Links
 

@@ -22,16 +22,16 @@ Endocrine Agents: Uterine Fibroids
 
 ### Preferred
 
-| Preferred                     |      |
-| :---------------------------- | ---: |
-| Lupron Depot PA 3.75, 11.25mg |      |
-| Oriahnn PA                    |      |
+| Preferred                     |
+| :---------------------------- |
+| Lupron Depot PA 3.75, 11.25mg |
+| Oriahnn PA                    |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Myfembree     |      |
+| Non-Preferred |
+| :------------ |
+| Myfembree     |
 
 ## Links
 

@@ -27,37 +27,37 @@ Central Nervous System (CNS) Agents: Parkinson's Agents
 
 ### Preferred
 
-| Preferred          |      |
-| :----------------- | ---: |
-| Amantadine         |      |
-| Carbidopa          |      |
-| Carbidopa/Levodopa |      |
-| Entacapone         |      |
-| Pramipexole        |      |
-| Ropinirole         |      |
-| Selegiline         |      |
+| Preferred          |
+| :----------------- |
+| Amantadine         |
+| Carbidopa          |
+| Carbidopa/Levodopa |
+| Entacapone         |
+| Pramipexole        |
+| Ropinirole         |
+| Selegiline         |
 
 ### Non-Preferred
 
-| Non-Preferred                      |      |
-| :--------------------------------- | ---: |
-| Apokyn                             |      |
-| Carbidopa/Levodopa Dispersible Tab |      |
-| Carbidopa/Levodopa/Entacapone      |      |
-| Gocovri                            |      |
-| Inbrija                            |      |
-| Kynmobi                            |      |
-| Neupro                             |      |
-| Nourianz                           |      |
-| Ongentys                           |      |
-| Osmolex ER                         |      |
-| Pramipexole ER                     |      |
-| Rasagiline                         |      |
-| Ropinirole ER                      |      |
-| Rytary                             |      |
-| Tolcapone                          |      |
-| Xadago                             |      |
-| Zelapar                            |      |
+| Non-Preferred                      |
+| :--------------------------------- |
+| Apokyn                             |
+| Carbidopa/Levodopa Dispersible Tab |
+| Carbidopa/Levodopa/Entacapone      |
+| Gocovri                            |
+| Inbrija                            |
+| Kynmobi                            |
+| Neupro                             |
+| Nourianz                           |
+| Ongentys                           |
+| Osmolex ER                         |
+| Pramipexole ER                     |
+| Rasagiline                         |
+| Ropinirole ER                      |
+| Rytary                             |
+| Tolcapone                          |
+| Xadago                             |
+| Zelapar                            |
 
 ## Links
 

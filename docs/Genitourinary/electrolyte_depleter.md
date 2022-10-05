@@ -28,20 +28,20 @@ Genitourinary Agents: Electrolyte Depleter Agents
 
 ### Preferred
 
-| Preferred         |      |
-| :---------------- | ---: |
-| Calcium Acetate   |      |
-| Calcium Carbonate |      |
-| Phoslyra          |      |
-| Sevelamer         |      |
+| Preferred         |
+| :---------------- |
+| Calcium Acetate   |
+| Calcium Carbonate |
+| Phoslyra          |
+| Sevelamer         |
 
 ### Non-Preferred
 
-| Non-Preferred       |      |
-| :------------------ | ---: |
-| Auryxia             |      |
-| Lanthanum Carbonate |      |
-| Velphoro            |      |
+| Non-Preferred       |
+| :------------------ |
+| Auryxia             |
+| Lanthanum Carbonate |
+| Velphoro            |
 
 
 ## Links

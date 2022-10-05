@@ -40,29 +40,29 @@ Gastrointestinal Agents: Proton Pump Inhibitors
 
 ### Preferred
 
-| Preferred           |      |
-| :------------------ | ---: |
-| Lansoprazole Cap    |      |
-| Nexium Granules BvG |      |
-| Omeprazole Cap      |      |
-| Pantoprazole Tab    |      |
-| Protonix Pak AR BvG |      |
+| Preferred           |
+| :------------------ |
+| Lansoprazole Cap    |
+| Nexium Granules BvG |
+| Omeprazole Cap      |
+| Pantoprazole Tab    |
+| Protonix Pak AR BvG |
 
 ### Non-Preferred
 
-| Non-Preferred                 |      |
-| :---------------------------- | ---: |
-| Aciphex                       |      |
-| Dexilant BvG                  |      |
-| Esomeprazole                  |      |
-| Esomeprazole Granules         |      |
-| Lansoprazole ODT              |      |
-| Omeprazole Tab                |      |
-| Omeprazole/Sodium Bicarbonate |      |
-| Pantoprazole Packet           |      |
-| Prilosec Susp                 |      |
-| Protonix Susp AR              |      |
-| Rabeprazole                   |      |
+| Non-Preferred                 |
+| :---------------------------- |
+| Aciphex                       |
+| Dexilant BvG                  |
+| Esomeprazole                  |
+| Esomeprazole Granules         |
+| Lansoprazole ODT              |
+| Omeprazole Tab                |
+| Omeprazole/Sodium Bicarbonate |
+| Pantoprazole Packet           |
+| Prilosec Susp                 |
+| Protonix Susp AR              |
+| Rabeprazole                   |
 
 ## Links
 

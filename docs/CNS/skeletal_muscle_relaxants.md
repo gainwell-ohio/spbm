@@ -39,28 +39,28 @@ Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepi
 
 ### Preferred
 
-| Preferred                  |      |
-| :------------------------- | ---: |
-| Baclofen Tab               |      |
-| Chlorzoxazone 250mg, 500mg |      |
-| Cyclobenzaprine 5, 10mg    |      |
-| Dantrolene                 |      |
-| Methocarbamol              |      |
-| Tizanidine Tab             |      |
+| Preferred                  |
+| :------------------------- |
+| Baclofen Tab               |
+| Chlorzoxazone 250mg, 500mg |
+| Cyclobenzaprine 5, 10mg    |
+| Dantrolene                 |
+| Methocarbamol              |
+| Tizanidine Tab             |
 
 ### Non-Preferred
 
-| Non-Preferred              |      |
-| :------------------------- | ---: |
-| Baclofen Solution          |      |
-| Carisoprodol               |      |
-| Chlorzoxazone 375mg, 750mg |      |
-| Cyclobenzaprine 7.5mg      |      |
-| Cyclobenzaprine ER         |      |
-| Fleqsuvy                   |      |
-| Metaxalone                 |      |
-| Orphenadrine               |      |
-| Tizanidine Cap             |      |
+| Non-Preferred              |
+| :------------------------- |
+| Baclofen Solution          |
+| Carisoprodol               |
+| Chlorzoxazone 375mg, 750mg |
+| Cyclobenzaprine 7.5mg      |
+| Cyclobenzaprine ER         |
+| Fleqsuvy                   |
+| Metaxalone                 |
+| Orphenadrine               |
+| Tizanidine Cap             |
 
 ## Links
 

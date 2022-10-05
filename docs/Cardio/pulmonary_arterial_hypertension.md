@@ -26,27 +26,27 @@ Cardiovascular Agents: Pulmonary Arterial Hypertension
 
 ### Preferred
 
-| Preferred             |      |
-| :-------------------- | ---: |
-| Ambrisentan PA        |      |
-| Sildenafil PA         |      |
-| Sildenafil Susp AR PA |      |
-| Tadalafil PA          |      |
-| Tracleer BvG PA       |      |
+| Preferred             |
+| :-------------------- |
+| Ambrisentan PA        |
+| Sildenafil PA         |
+| Sildenafil Susp AR PA |
+| Tadalafil PA          |
+| Tracleer BvG PA       |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-| Adempas       |      |
-| Bosentan      |      |
-| Epoprostenol  |      |
-| Opsumit       |      |
-| Tracleer Susp |      |
-| Treprostinil  |      |
-| Tyvaso        |      |
-| Uptravi       |      |
-| Ventavis      |      |
+| Non-Preferred |
+| :------------ |
+| Adempas       |
+| Bosentan      |
+| Epoprostenol  |
+| Opsumit       |
+| Tracleer Susp |
+| Treprostinil  |
+| Tyvaso        |
+| Uptravi       |
+| Ventavis      |
 
 ## Links
 

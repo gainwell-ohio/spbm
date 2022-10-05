@@ -29,18 +29,18 @@ Infectious Disease Agents: Antifungals
 
 ### Preferred
 
-| Preferred    |      |
-| :----------- | ---: |
-| Fluconazole  |      |
-| Flucytosine  |      |
-| Griseofulvin |      |
-| Ketoconazole |      |
-| Terbinafine  |      |
+| Preferred    |
+| :----------- |
+| Fluconazole  |
+| Flucytosine  |
+| Griseofulvin |
+| Ketoconazole |
+| Terbinafine  |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
+| Non-Preferred |
+| :------------ |
 | Brexafemme    |
 | Cresemba      |
 | Itraconazole  |

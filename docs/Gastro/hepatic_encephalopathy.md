@@ -29,16 +29,16 @@ Gastrointestinal Agents: Hepatic Encephalopathy
 
 ### Preferred
 
-| Preferred  |      |
-| :--------- | ---: |
-| Lactulose  |      |
-| Xifaxan ST |      |
+| Preferred  |
+| :--------- |
+| Lactulose  |
+| Xifaxan ST |
 
 ### Non-Preferred
 
-| Non-Preferred |      |
-| :------------ | ---: |
-|               |      |
+| Non-Preferred |
+| :------------ |
+|               |
 
 ## Links
 

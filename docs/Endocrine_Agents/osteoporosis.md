@@ -35,21 +35,21 @@ Endocrine Agents: Osteoporosis – Bone Ossification Enhancers
 
 ### Preferred
 
-| Preferred         |      |
-| :---------------- | ---: |
-| Alendronate Tab   |      |
-| Calcitonin-Salmon |      |
-| Forteo            |      |
-| Ibandronate       |      |
+| Preferred         |
+| :---------------- |
+| Alendronate Tab   |
+| Calcitonin-Salmon |
+| Forteo            |
+| Ibandronate       |
 
 ### Non-Preferred
 
-| Non-Preferred    |      |
-| :--------------- | ---: |
-| Alendronate Susp |      |
-| Fosamax Plus D   |      |
-| Risedronate      |      |
-| Tymlos           |      |
+| Non-Preferred    |
+| :--------------- |
+| Alendronate Susp |
+| Fosamax Plus D   |
+| Risedronate      |
+| Tymlos           |
 
 ## Links
 
