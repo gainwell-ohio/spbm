@@ -10,7 +10,35 @@ Clicking the pen icon as shown below, will navigate the user to that specific do
 
 By accessing the editing page, the contents of the document can be viewed as shown below, and those with permission can make edits to the documents when needed.
 
-![](img/updating_documents2.png)
+image will be inserted here
+
+## Markdown Syntax
+
+### Headings 
+
+Headings are creating by inputting hash marks before the desired heading text. The number of hash marks corresponds with the heading level of the text.
+
+ - \# First Level Heading
+ - \#\# Second Level Heading
+ - \#\#\# Third Level Heading
+ - \#\#\#\# Fourth Level Heading 
+
+Displayed is the outcome of using the headings Markdown syntax:
+
+![](img/Headings1.PNG)
+
+### Lists
+
+Lists are easily created using numbers or hyphens based on if the list is ordered or unordered. Indenting the syntax elements nests the list.
+
+- \- unordered list
+- \- additional item on unordered list
+- 1\. ordered list
+- 2\. additional item on ordered list  
+
+Displayed is the outcome of using the list Markdown systax:
+
+![](img/lists.PNG)
 
 ## Managing Major Changes within Documents
 

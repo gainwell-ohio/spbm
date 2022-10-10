@@ -47,13 +47,13 @@ Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors
 | Non-Preferred |
 | :------------ |
 | Fulphila      |
-|   Granix      |
-|  Leukine      |
+| Granix        |
+| Leukine       |
 | Neulasta      |
 | Nivestym      |
 | Nyvepria      |
-|  Udenyca      |
-|   Zarxio      |
+| Udenyca       |
+| Zarxio        |
 
 ## Links
 
