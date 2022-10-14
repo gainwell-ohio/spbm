@@ -1,5 +1,7 @@
 # Colony Stimulating Factors
 
+This is a subcategory of Blood
+
 ## Length of Authorizations
 
 Approval based upon diagnosis below:
