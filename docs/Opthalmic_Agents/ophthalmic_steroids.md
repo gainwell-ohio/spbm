@@ -1,5 +1,7 @@
 # Ophthalmic Steroids
 
+This is a subcategory of Opthalmic Agents.
+
 ## Length of Authorizations
 
 30 Days

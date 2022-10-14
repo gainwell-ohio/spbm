@@ -1,5 +1,7 @@
 # Heparin-Related Preparations
 
+This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
+
 ## Length of Authorizations
 
 Varies based upon criteria below

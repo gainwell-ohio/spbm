@@ -1,5 +1,7 @@
 # Other Agents
 
+This is a subcategory of Respiratory Agents.
+
 ## Length of Authorizations
 
 365-day approval; Daliresp evaluated with each refill

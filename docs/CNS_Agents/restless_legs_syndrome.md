@@ -1,5 +1,7 @@
 # Restless Legs Syndrome
 
+This is a subcategory of Central Nervous System (CNS) Agents.
+
 ## Length of Authorizations
 
 365 Days

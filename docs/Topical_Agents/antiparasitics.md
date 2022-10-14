@@ -1,5 +1,7 @@
 # Antiparasitics
 
+This is a subcategory of Topical Agents.
+
 ## Length of Authorizations
 
 14 Days

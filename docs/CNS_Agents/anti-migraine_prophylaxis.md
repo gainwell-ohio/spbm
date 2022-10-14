@@ -1,5 +1,7 @@
 # Anti-Migraine Agents, Prophylaxis
 
+This is a subcategory of Central Nervous System (CNS) Agents.
+
 ## Length of Authorizations
 
 Initial Authorization 180 days

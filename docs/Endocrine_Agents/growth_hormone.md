@@ -1,5 +1,7 @@
 # Growth Hormone
 
+This is a subcategory of Endocrine Agents.
+
 ## Length of Authorizations
 
 Varies as listed below.

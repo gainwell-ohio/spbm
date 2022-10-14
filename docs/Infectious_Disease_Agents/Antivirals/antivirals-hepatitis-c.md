@@ -1,5 +1,7 @@
 # Hepatitis C Agents
 
+This is a subcategory of Infectious Disease Agents.
+
 ## Length of Authorizations
 
 365 days except simeprevir and direct acting antivirals (DAAs), see below

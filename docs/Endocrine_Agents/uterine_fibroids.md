@@ -1,5 +1,7 @@
 # Uterine Fibroids
 
+This is a subcategory of Endocrine Agents.
+
 ## Length of Authorizations
 
 180 Days

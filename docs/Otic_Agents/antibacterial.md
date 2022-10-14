@@ -1,5 +1,7 @@
 # Antibacterial and Antibacterial/Steroid Combinations
 
+This is a subcategory of Otic Agents.
+
 ## Length of Authorizations
 
 For the date of service only; no refills for acute infection.

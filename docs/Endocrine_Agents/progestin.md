@@ -1,5 +1,7 @@
 # Progestin Agents
 
+This is a subcategory of Endocrine Agents.
+
 All products are covered without a PA
 
 ## Formulary

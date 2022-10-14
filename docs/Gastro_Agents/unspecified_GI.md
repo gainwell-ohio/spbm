@@ -1,5 +1,7 @@
 # Unspecified GI
 
+This is a subcategory of Gastrointestinal Agents.
+
 ## Length of Authorizations
 
 365 Days except 3 days for Aemcolo

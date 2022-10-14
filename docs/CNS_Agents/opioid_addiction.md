@@ -1,5 +1,7 @@
 # Medication Assisted Treatment of Opioid Addiction
 
+This is a subcategory of Central Nervous System (CNS) Agents.
+
 ## Length of Authorizations
 
 No PA required for short-acting, buprenorphine containing, oral agents

@@ -1,5 +1,7 @@
 # Skeletal Muscle Relaxants, Non-Benzodiazepine
 
+This is a subcategory of Central Nervous System (CNS) Agents.
+
 ## Length of Authorizations
 
 365 Days

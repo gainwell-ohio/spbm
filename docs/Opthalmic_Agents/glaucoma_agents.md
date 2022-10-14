@@ -1,5 +1,7 @@
 # Glaucoma Agents
 
+This is a subcategory of Opthalmic Agents.
+
 ## Length of Authorizations
 
 365 Days

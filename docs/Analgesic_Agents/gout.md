@@ -1,5 +1,7 @@
 # Gout
 
+This is a subcategory of Analgesic Agents.
+
 ## Length of Authorizations
 
 365 Days

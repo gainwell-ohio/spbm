@@ -1,5 +1,7 @@
 # Hemophilia Factors
 
+This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
+
 ## Length of Authorizations
 
 365 Days

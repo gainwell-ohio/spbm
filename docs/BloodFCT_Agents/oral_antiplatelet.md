@@ -1,5 +1,7 @@
 # Oral Antiplatelet
 
+This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
+
 ## Length of Authorizations
 
 Requested medication must be used for an approved FDA indication and duration

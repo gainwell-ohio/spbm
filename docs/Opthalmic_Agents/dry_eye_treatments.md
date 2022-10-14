@@ -1,5 +1,7 @@
 # Dry Eye Treatments
 
+This is a subcategory of Opthalmic Agents.
+
 ## Length of Authorizations
 
 14 Days for Eysuvis; 365 Days for all other agents

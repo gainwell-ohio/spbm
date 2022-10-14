@@ -1,5 +1,7 @@
 # Smoking Deterrents
 
+This is a subcategory of Central Nervous System (CNS) Agents.
+
 All products are covered without a PA
 
 ## Formulary

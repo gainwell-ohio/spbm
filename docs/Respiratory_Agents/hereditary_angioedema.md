@@ -1,5 +1,7 @@
 # Hereditary Angioedema
 
+This is a subcategory of Respiratory Agents.
+
 ## Length of Authorizations
 
 365 Days

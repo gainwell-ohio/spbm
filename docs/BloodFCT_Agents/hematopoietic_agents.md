@@ -1,5 +1,7 @@
 # Hematopoietic Agents
 
+This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
+
 ## Length of Authorizations
 
 Dependent upon diagnosis

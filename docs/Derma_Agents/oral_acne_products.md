@@ -1,5 +1,7 @@
 # Oral Acne Products
 
+This is a subcategory of Dermatological Agents.
+
 ## Length of Authorizations
 
 150 days

@@ -1,5 +1,7 @@
 # Proton Pump Inhibitors
 
+This is a subcategory of Gastrointestinal Agents.
+
 ## Length of Authorizations
 
 180 days, except as listed under clinical criteria

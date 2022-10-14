@@ -1,5 +1,7 @@
 # Diabetes – Non-Insulin
 
+This is a subcategory of Endocrine Agents.
+
 ## Length of Authorizations
 
 365 Days

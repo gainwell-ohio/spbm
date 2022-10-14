@@ -1,5 +1,7 @@
 # Crohn’s Disease
 
+This is a subcategory of Gastrointestinal Agents.
+
 ## Length of Authorizations
 
 365 Days

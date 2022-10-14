@@ -1,5 +1,7 @@
 # HIV
 
+This is a subcategory of Infectious Disease Agents.
+
 ## Length of Authorizations
 
 365 Days

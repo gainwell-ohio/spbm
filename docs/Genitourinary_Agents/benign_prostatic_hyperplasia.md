@@ -1,5 +1,7 @@
 # Benign Prostatic Hyperplasia
 
+This is a subcategory of Genitourinary Agents.
+
 ## Length of Authorizations
 
 365 Days

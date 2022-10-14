@@ -1,5 +1,7 @@
 # Angina, Hypertension & Heart Failure
 
+This is a subcategory of Cardiovascular Agents.
+
 ## Length of Authorizations
 
 365 Days

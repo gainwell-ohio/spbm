@@ -1,5 +1,7 @@
 # Herpes
 
+This is a subcategory of Infectious Disease Agents.
+
 ## Length of Authorizations
 
 For the duration of the prescription (up to 180 days)

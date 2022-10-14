@@ -1,5 +1,7 @@
 # Cystic Fibrosis
 
+This is a subcategory of Respiratory Agents.
+
 ## Length of Authorizations
 
 Initial authorization 90 days

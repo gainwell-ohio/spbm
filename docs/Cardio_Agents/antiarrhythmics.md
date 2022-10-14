@@ -1,5 +1,7 @@
 # Antiarrhythmics
 
+This is a subcategory of Cardiovascular Agents.
+
 ## Length of Authorizations
 
 365 Days

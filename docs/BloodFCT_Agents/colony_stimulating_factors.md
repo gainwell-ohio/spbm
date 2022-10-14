@@ -1,6 +1,6 @@
 # Colony Stimulating Factors
 
-This is a subcategory of Blood
+This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ## Length of Authorizations
 

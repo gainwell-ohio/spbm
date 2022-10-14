@@ -1,5 +1,7 @@
 # NSAIDs
 
+This is a subcategory of Analgesic Agents.
+
 ## Length of Authorizations
 
 Dependent on medication request

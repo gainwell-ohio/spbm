@@ -1,5 +1,7 @@
 # Systemic Inflammatory Disease
 
+This is a subcategory of Immunomodulator Agents.
+
 ## Length of Authorizations
 
 Initial: 90 days; Subsequent: 365 days

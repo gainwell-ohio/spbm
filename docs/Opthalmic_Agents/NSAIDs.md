@@ -1,5 +1,7 @@
 # NSAIDs
 
+This is a subcategory of Opthalmic Agents.
+
 ## Length of Authorizations
 
 For the date of service only; no refills for acute use.

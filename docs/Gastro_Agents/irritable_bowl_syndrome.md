@@ -1,5 +1,7 @@
 # Irritable Bowel Syndrome (IBS) with Diarrhea
 
+This is a subcategory of Gastrointestinal Agents.
+
 ## Length of Authorizations
 
 365 Days

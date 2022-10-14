@@ -1,5 +1,7 @@
 # Corticosteroids
 
+This is a subcategory of Topical Agents.
+
 ## Length of Authorizations
 
 365 days for low and medium potency

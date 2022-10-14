@@ -1,5 +1,7 @@
 # Antifungals
 
+This is a subcategory of Topical Agents.
+
 ## Length of Authorizations
 
 Duration of the prescription (up to 180 days)

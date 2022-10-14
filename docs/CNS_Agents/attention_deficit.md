@@ -1,5 +1,7 @@
 # Attention Deficit Hyperactivity Disorder Agents
 
+This is a subcategory of Central Nervous System (CNS) Agents.
+
 ## Length of Authorizations
 
 365 Days

@@ -1,5 +1,7 @@
 # Anti-Migraine Agents, Cluster Headache
 
+This is a subcategory of Central Nervous System (CNS) Agents.
+
 ## Length of Authorizations
 
 180 Days

@@ -1,5 +1,7 @@
 # Lipotropics
 
+This is a subcategory of Cardiovascular Agents.
+
 ## Length of Authorizations
 
 365 days all Lipotropics
