@@ -531,18 +531,3 @@ Clinical Criteria:
 
 - Must be prescribed in accordance with FDA approved labeling
 - Subsequent authorizations: Must provide documentation of patient's response to treatment from baseline and/or attestation of clinical stabilization
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

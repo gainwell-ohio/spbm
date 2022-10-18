@@ -1,4 +1,4 @@
-# Hepatitis C Agents
+# Hepatitis C
 
 This is a subcategory of Infectious Disease Agents.
 
