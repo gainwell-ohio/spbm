@@ -1,5 +1,6 @@
 # Quantity Limit List
 
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_Ohio_Medicaid_Quantity_Document.pdf#overlay-context=drug-coverage)
 ## Table of Contents
 
 | | |
