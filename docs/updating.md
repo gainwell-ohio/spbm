@@ -18,7 +18,11 @@ Switching between the editing and viewing tabs is also available which gives  us
 
 ## Contributing Changes to Documents
 
+Once the necessary modifications of the documentation have been made, the changes must be committed or requested to be implemented. Committing changes made is done so by scrolling to the bottom of the editor page and locating the commit area or pressing "Ctrl + S" to be navigated there immediately.
 
+Adding a comment or title pertaining to the information modified is available in the commit area. This step is important in explaining to others the changes made and the reason for doing so. 
+
+After the final modifications have been made and a comment has been added, the "commit changes" button can be pressed to push the newly modified documents and request approval for the permanent change. 
 
 ## Markdown Syntax
 
