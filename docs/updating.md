@@ -6,7 +6,7 @@ Clicking the pen icon as shown below, navigates the user to that specific docume
 
 ![](img/updating_documents1.png)
 
-By accessing the editing page, the contents of the document can be viewed as shown below, and those with permission can make edits to the documents when needed by navigating to the editing page which is accessessed by clicking the pen at the top of the document.
+By accessing the editing page, the contents of the document can be viewed as shown below, and those with permission can make edits to the documents when needed by navigating to the editing page which is accessed by clicking the pen at the top of the document.
 
 ![](img/edits.png)
 
@@ -18,11 +18,17 @@ Switching between the editing and viewing tabs is also available which gives  us
 
 ## Contributing Changes to Documents
 
-Once the necessary modifications of the documentation have been made, the changes must be committed or requested to be implemented. Committing changes made is done so by scrolling to the bottom of the editor page and locating the commit area or pressing "Ctrl + S" to be navigated there immediately.
+Once the necessary modifications of the documentation have been made, the changes must be committed or requested to be implemented. Committing changes is done so by scrolling to the bottom of the editor page and locating the commit area or pressing "Ctrl + S" to be navigated there immediately.
 
 Adding a comment or title pertaining to the information modified is available in the commit area. This step is important in explaining to others the changes made and the reason for doing so. 
 
 After the final modifications have been made and a comment has been added, the "commit changes" button can be pressed to push the newly modified documents and request approval for the permanent change. 
+
+![](img/commit.PNG)
+
+Also available in the editor page, is the ability to see who has made what changes and when the changes were made. By navigating to the "blame" button in the desired document, users are able to see the entire log of changes and additions made to the document. 
+
+![](img/blame.png)
 
 ## Markdown Syntax
 
