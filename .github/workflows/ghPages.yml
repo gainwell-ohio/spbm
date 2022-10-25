@@ -2,8 +2,6 @@ name: ghPagesDeployment
 on:
   push:
     branches:
-      - master 
-      - main
       - development
 jobs:
   deploy:
