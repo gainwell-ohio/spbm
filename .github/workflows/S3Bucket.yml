@@ -17,8 +17,8 @@ jobs:
         uses: gameclosure/mkdocs-publish-s3-action@master
         env:
           S3_PATH: "${s3://bps-hc-aws-rpa-dev-sandbox-s3-testing}"
-          AWS_ACCESS_KEY_ID: ${ AKIA4TYFEMDIBJ4VYIRO }
-          AWS_SECRET_ACCESS_KEY: ${ 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 }
+          AWS_ACCESS_KEY_ID: AKIA4TYFEMDIBJ4VYIRO
+          AWS_SECRET_ACCESS_KEY: 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
          # CHANGELOG: true # generate a changelog file out of Github release notes
          # CHANGELOG_STRIP_PATTERN: https?:\/\/[^ ]+ # optional strip pattern to run on the generated changelog
          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # required if generating a changelog
