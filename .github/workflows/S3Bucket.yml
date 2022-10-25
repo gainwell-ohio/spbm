@@ -1,25 +1,26 @@
-name: Build + Deploy docs
-# This workflow is triggered on pushes to the repository.
+name: Build mkdocs pages and publish to S3 bucket
+
 on:
   push:
-    branches:
-      - main
+    branches: 
+    - main
+
 jobs:
-  main:
-    name: Build + Deploy
+  build:
+    name: Deploy docs
     runs-on: ubuntu-latest
     steps:
-      # checkout this repo
-      - name: Checkout Repo
+      - name: Checkout main
         uses: actions/checkout@v2
-      # checkout the private repo containing the action to run
-      - name: build and copy docs
-        uses: play-co/mkdocs-publish-s3-action@master
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 'pypy-3.6'
+
+      - name: Build pages and publish to S3
+        uses: sys3/mkdocs-s3-publish-action@main
         env:
-          S3_PATH: "${ s3://bps-hc-aws-rpa-dev-sandbox-s3-testing }"
-          AWS_ACCESS_KEY_ID: ${ AKIA4TYFEMDIBJ4VYIRO }
-          AWS_SECRET_ACCESS_KEY: ${ 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 }
-         # CHANGELOG: true # generate a changelog file out of Github release notes
-         # CHANGELOG_STRIP_PATTERN: https?:\/\/[^ ]+ # optional strip pattern to run on the generated changelog
-         # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # required if generating a changelog
-         # TYPEDOC: true # generate Typescript API documentation with typedoc
+          S3_LOCATION: ${{ build }}
+          S3_ACCESS_KEY: ${ AKIA4TYFEMDIBJ4VYIRO }
+          S3_SECRET_KEY: ${ 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 }
+          S3_BUCKET: ${ bps-hc-aws-rpa-dev-sandbox-s3-testing }
