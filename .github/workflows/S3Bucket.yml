@@ -14,9 +14,9 @@ jobs:
         uses: actions/checkout@v2
       # checkout the private repo containing the action to run
       - name: build and copy docs
-        uses: gameclosure/mkdocs-publish-s3-action@master
+        uses: play-co/gameclosure/mkdocs-publish-s3-action@master
         env:
-          S3_PATH: "${s3://bps-hc-aws-rpa-dev-sandbox-s3-testing}"
+          S3_PATH: s3://bps-hc-aws-rpa-dev-sandbox-s3-testing
           AWS_ACCESS_KEY_ID: AKIA4TYFEMDIBJ4VYIRO
           AWS_SECRET_ACCESS_KEY: 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
          # CHANGELOG: true # generate a changelog file out of Github release notes
