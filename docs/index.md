@@ -1,10 +1,10 @@
-# Welcome
+# Welcome to Demo
 
 This is a digital documentation example for Gainwell Technologies, in support of the Ohio State Pharmacy Benefit Management activity.
 
 ## Technologies Incorporated
 
-* [MkDocs](https://mkdocs.org)
+* [MkDocs](https://www.mkdocs.org/)
 * [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
 ## Project layout
