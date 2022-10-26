@@ -82,6 +82,10 @@ Analgesic Agents: NSAIDS
 | Zipsor BvG                         |
 | Zorvolex                           |
 
+## Notes
+
+This is a sample for the note taking ability
+
 ## Links
 
 [Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=7)
