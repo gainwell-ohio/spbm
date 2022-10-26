@@ -77,8 +77,47 @@ Displayed below is the outcome of using the correct Markdown syntax for forming 
 
 ![](img/table.PNG)
 
-
-
-
-
 ## Managing Approvals 
+
+To review all pull requests that have been made, visit the pull request tab.
+
+![](img/reviewPullRequest.PNG)
+
+This page will show you all open pull requests. You can filter these by the author, label, project, milestone, reviews, assignes, or a general sort. Then you can select the pull request you wish to review and approve.
+
+![](img/reviewPullRequest2.PNG)
+
+On the selected pull request, you can update any of the information on the right. For example, if this is an enhancement as opposed to a bug fix, then you can change the label to accurately represent what the pull request is achieving. Also, you can review the file by selecting the files changed tab at the top.
+
+![](img/reviewPullRequest3.PNG)
+
+The Files Changed tab allows you to look at a list of all files in the request. Highlighted in red is the line that was in the original file, the green represents the new change. By clicking the review changes button, you can make comments about the files, approve of the changes, or request that the author of the changes make additional edits.  
+
+![](img/filesChanged.PNG)
+
+Back on the conversation tab of the pull request, you can scoll to the bottom and approve of the merge request from here as well.
+
+![](img/pullRequestFinal.PNG)
+
+Clicking the "Merge pull request" button will prompt you with this dialogue box. Here you can give the merge a title and description. Confirming the merge will upload the changes to the branch.
+
+![](img/mergeRequest.PNG)
+
+## Pipeline To Explain Automation Flow
+
+The process that's been developed follows Continuous Integration and Continuous Deployment (CI/CD) principles. By allowing for the ease of editing of these pages, we can continuously integrate new changes. For each change that we make and commit to the development branch, a GitHub actions file will deploy the changes to the site.
+
+By clicking the actions tab, you can view the GitHub action as it builds and deploys the site after a commit has been made. Actions with a green circle represent that the action was successful, and the changes should now be present.
+
+![](img/gitHubActions.png)
+
+Along with that, if there are any errors that occur you will see the a line with a red circle. Clicking these will reveal why the actions file failed.
+
+![](img/CDerror.png)
+![](img/errorDeploy.png)
+
+The repository is broken into two branches: development and main. Initial changes to the project will be sent to the development branch and will be hosted on the GitHub Pages. This page can be visited by selecting the Settings tab at the top, Pages tab on the left, and then the link presented is the URL for the website.
+
+![](img/GitHubPages.png)
+
+Merges of the development branch to the main branch will invoke a different GitHub actions file which will deploy on AWS which hosts the main site.
