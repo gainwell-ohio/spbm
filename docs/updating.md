@@ -82,3 +82,7 @@ Displayed below is the outcome of using the correct Markdown syntax for forming 
 
 
 ## Managing Approvals 
+
+![](img/approval.png)
+
+![](img/pull_request.png)

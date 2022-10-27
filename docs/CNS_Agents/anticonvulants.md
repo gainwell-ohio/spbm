@@ -63,7 +63,8 @@ Subsequent Authorizations 365 days
 -   Medication is prescribed by a neurologist or in consultation with a neurologist
 -   Patient has Dravet Syndrome
 -   Patient has baseline hematologic testing (CBC)
-    -   Prescribers must include management plans for patients with neutrophil counts \<1500 cells/mm3 or platelet count less than 150,000/µL
+
+    -   Prescribers must include management plans for patients with neutrophil counts <1500 cells/mm3 or platelet count less than 150,000/µL
 -   Address any co-morbid conditions
     -   Patients with phenylketonuria (PKU) will not be authorized for suspension dosage form without evidence of total daily amount of phenylalanine
 -   Patient must be concurrently managed with clobazam.
