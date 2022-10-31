@@ -77,6 +77,12 @@ Displayed below is the outcome of using the correct Markdown syntax for forming 
 
 ![](img/table.PNG)
 
+### Links
+
+Inserting links into the documentation is done by putting the desired title of the link in brackets and then putting the link in parenthesis. Doing so causes the actual link to be hidden and shows only the link title formatted as blue clickable text.
+
+- \[link here](inserted-link)
+
 ## Managing Approvals 
 
 =======
