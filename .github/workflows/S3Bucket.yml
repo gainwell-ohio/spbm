@@ -16,6 +16,6 @@ jobs:
       - name: build and copy docs
         uses: gameclosure/mkdocs-publish-s3-action@master
         env:
-          S3_PATH: "${S3_PATH}"
+          S3_PATH: "${s3-website-us-east-1.amazonaws.com}"
           AWS_ACCESS_KEY_ID: ${{ secrets.DOC_WRITER_AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.DOC_WRITER_AWS_SECRET_ACCESS_KEY }}
