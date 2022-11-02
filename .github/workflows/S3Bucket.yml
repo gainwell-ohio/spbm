@@ -27,4 +27,4 @@ jobs:
 
       - name: Sync output to S3
         run: |
-          aws s3 sync ./site/ s3-website-us-east-1.amazonaws.com/site --delete
+          aws s3 sync ./site/ s3://s3-website-us-east-1.amazonaws.com/site --delete
