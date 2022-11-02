@@ -77,8 +77,15 @@ Displayed below is the outcome of using the correct Markdown syntax for forming 
 
 ![](img/table.PNG)
 
+### Links
+
+Inserting links into the documentation is done by putting the desired title of the link in brackets and then putting the link in parenthesis. Doing so causes the actual link to be hidden and shows only the link title formatted as blue clickable text.
+
+- \[link here](inserted-link)
+
 ## Managing Approvals 
 
+=======
 To review all pull requests that have been made, visit the pull request tab.
 
 ![](img/reviewPullRequest.PNG)
@@ -119,5 +126,8 @@ Along with that, if there are any errors that occur you will see the a line with
 The repository is broken into two branches: development and main. Initial changes to the project will be sent to the development branch and will be hosted on the GitHub Pages. This page can be visited by selecting the Settings tab at the top, Pages tab on the left, and then the link presented is the URL for the website.
 
 ![](img/GitHubPages.png)
+
+Merges of the development branch to the main branch will invoke a different GitHub actions file which will deploy on AWS which hosts the main site.
+>>>>>>> 1526cdd82135136858cc39180bd997e94596e92e
 
 Merges of the development branch to the main branch will invoke a different GitHub actions file which will deploy on AWS which hosts the main site.
