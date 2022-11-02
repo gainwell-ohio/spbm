@@ -1,9 +1,9 @@
-name: Build + Deploy docs
+name: Deploy to S3
 # This workflow is triggered on pushes to the repository.
 on:
   push:
     branches:
-      - development
+      - main
 jobs:
   main:
     name: Build + Deploy
