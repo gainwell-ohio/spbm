@@ -1,0 +1,21 @@
+name: Build + Deploy docs
+# This workflow is triggered on pushes to the repository.
+on:
+  push:
+    branches:
+      - master
+jobs:
+  main:
+    name: Build + Deploy
+    runs-on: ubuntu-latest
+    steps:
+      # checkout this repo
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      # checkout the private repo containing the action to run
+      - name: build and copy docs
+        uses: gameclosure/mkdocs-publish-s3-action@master
+        env:
+          S3_PATH: "${S3_PATH}"
+          AWS_ACCESS_KEY_ID: ${{ secrets.DOC_WRITER_AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.DOC_WRITER_AWS_SECRET_ACCESS_KEY }}
