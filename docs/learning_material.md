@@ -1,23 +1,33 @@
 # Learning Material
-## Updating and Making Adjustments to Documentation
 
-Making necessary changes and implementing updates to documents is simple and efficient. Instructions and helpful information on how to contribute changes to the documentation is explained throughout the following text.
+## Contributing Changes to the Documentation
+
+Making necessary changes and implementing updates to the documentation is simple and efficient. Instructions and helpful information on how to contribute changes to the documentation is explained throughout the following text. 
 ### Navigation from Site to Documentation
 
-Clicking the pen icon as shown below, navigates the user to that specific document in the editing page, while clicking the "Ohio SPBM Docs" icon navigates users to the home page of the editing page where the user is able to locate documents through the navigation panel. 
+Clicking the pen icon as shown below, navigates the user to that specific document in the editing page, while clicking the "Ohio SPBM Docs" icon navigates users to the home page of the documentation repository where the user is able to locate documents through the navigation panel. 
 
-![](img/updating_documents1.png)
+![](img/Contributing_Changes_SS/navigation_documentation.png)
+
+Show below is the home page of the documentation repository. From here pull requests can be accessed to request and manage approvals by clicking the "Pull Requests" tab and navigating to the documentation folders and files is done so by accessing the "docs" folder. From there documents can be edited as the user wishes.
+
+![](img/Contributing_Changes_SS/home_repository.png)
+
+### Contributing Changes to Documents
 
 By accessing the editing page, the contents of the document can be viewed as shown below, and those with permission can make edits to the documents when needed by navigating to the editing page which is accessed by clicking the pen at the top of the document.
 
-### Contributing Changes to Documents
-![](img/edits.png)
+![](img/Contributing_Changes_SS/editing.png)
 
 Once the editor is opened, changes and updates can be made in any document. Changes to these documents are made through plain text and Markdown. Markdown is a lightweight formatting language that allows for additions of formatting elements to plain text documents. Simple notations are used to better format text and build structure within documents. The Markdown syntax is more thoroughly explained in the section titled "Markdown Syntax".
 
 Switching between the editing and viewing tabs is also available which gives users the ability to easily view and ensure the correctness of the the changes being made.
 
-![](img/edit_preview.png)
+![](img/Contributing_Changes_SS/preview.png)
+
+Also available in the editor page, is the ability to see who has made what changes and when the changes were made. By navigating to the "blame" button in the desired document, users are able to see the entire log of changes and additions made to the document. 
+
+![](img/Contributing_Changes_SS/blame.png)
 
 ### Committing Changes to be Approved
 
@@ -27,26 +37,26 @@ Adding a comment or title pertaining to the information modified is available in
 
 After the final modifications have been made and a comment has been added, the "commit changes" button can be pressed to push the newly modified documents and request approval for the permanent change. 
 
-![](img/commit.PNG)
-
-Also available in the editor page, is the ability to see who has made what changes and when the changes were made. By navigating to the "blame" button in the desired document, users are able to see the entire log of changes and additions made to the document. 
-
-![](img/blame.png)
+![](img/Contributing_Changes_SS/commit.PNG)
 
 ### Creating an Additional Section
 
-If new information is needing to be added that requires an additional page, new sections can be created. To do so, navigate the folder where the new section needs to be added and click the 'Create new file' from the 'Add file' drop-down menu. Be sure to create the new file in the correct folder or the file will not be located correctly in the navigation pane on the site.
+If new information is needing to be added that requires an additional page, new sections can be created. To do so, first navigate the folder where the new section needs to be added.
 
-![](img/file_navigation.png)
+![](img/Contributing_Changes_SS/files.png)
 
-![](img/create_new_file.png)
+ The user then can click the 'Create new file' from the 'Add file' drop-down menu. Be sure to create the new file in the correct folder or the file will not be located correctly in the navigation pane on the site.
+
+![](img/Contributing_Changes_SS/new_file.png)
 
 Once the new file is created, assign the proper name the file and follow it with ".md". This allows the Markdown language to be read correctly along with the plain text.
 
-![](img/new_file.png)
+![](img/Contributing_Changes_SS/name.png)
 
 
-## Markdown Syntax
+## Markdown
+
+Markdown is the language used in the documentation to better format and add structure to the plain text. Simple notations are added to the text to apply these formatting elements. The syntax is better explained in the following text.
 
 ### Headings 
 
@@ -101,48 +111,61 @@ Inserting links into the documentation is done by putting the desired title of t
 
 ## Managing Approvals 
 
+The following text provides instructions and guidance on managing approvals and navigating pull request related tools. Knowledge of these areas is important in reviewing and requesting changes as well as accepting and merging the requests if permitted to do so. 
+
+### Navigation of Pull Requests
+
 To review all pull requests that have been made, visit the pull request tab.
 
-![](img/reviewPullRequest.PNG)
+![](../../../../C:/Ohio/Documentation/docs/img/Managing_Approvals_SS/pull_request_tab.png)
 
-This page will display all open pull requests. You can filter these by the author, label, project, milestone, reviews, assignes, or a general sort. Then you can select the pull request you wish to review and approve.
 
-![](img/reviewPullRequest2.PNG)
+This page will display all open pull requests. The requests can be filtered by author, label, project, milestone, reviews, assignes, or a general sort. The user can select the pull request they wish to review and approve.
 
-On the selected pull request, you can update any of the information on the right. For example, if this is an enhancement as opposed to a bug fix, then you can change the label to accurately represent what the pull request is achieving. Also, you can review the file by selecting the files changed tab at the top.
+![](../../../../C:/Ohio/Documentation/docs/img/Managing_Approvals_SS/sorting_pull_request.png)
 
-![](img/reviewPullRequest3.PNG)
+### Including Details to the Request
 
-The Files Changed tab allows you to look at a list of all files in the request. Highlighted in red is the line that was in the original file, the green represents the new change. By clicking the review changes button, you can make comments about the files, approve of the changes, or request that the author of the changes make additional edits.  
+On the selected pull request, additional information can be included on the right. For example, if the pull request is an enhancement as opposed to a bug fix, then the label can be changed to accurately represent what the pull request is achieving. Including this information also allows for accurate sorting of the pull request as explained previously. The user can also review the file by selecting the "Files Changed" tab at the top.
 
-![](img/filesChanged.PNG)
+![Alt text](../../../../C:/Ohio/Documentation/docs/img/Managing_Approvals_SS/reviewing_pull_request.png)
 
-Back on the conversation tab of the pull request, you can scoll to the bottom and approve of the merge request from here as well.
+### Reviewing and Approving Files Changed
 
-![](img/pullRequestFinal.PNG)
+Accessing the "File Changed" tab allows the user to look at a list of all files included in the request. Red highlighting displays the content that is in the original file, while the green highlighting represents the new change. By clicking the review changes button, the user can make comments and give feedback pertaining to the files, approve of the changes, or request that the author make additional edits.  
 
-Clicking the "Merge pull request" button will prompt you with this dialogue box. Here you can give the merge a title and description. Confirming the merge will upload the changes to the branch.
+![Alt text](../../../../C:/Ohio/Documentation/docs/img/Managing_Approvals_SS/highlighted_edits.png)
 
-![](img/mergeRequest.PNG)
+### Alternate Method of Approving Requests
+
+Back on the "Conversation" tab of the pull request, the user can scoll to the bottom of the page and approve of the merge request from here as well.
+
+![Alt text](../../../../C:/Ohio/Documentation/docs/img/Managing_Approvals_SS/conversation_pull_request.png)
+
+Clicking the "Merge pull request" button will prompt the user with this dialogue box. Here the merge can be given a title and description. Confirming the merge will upload the changes to the branch.
+
+![Alt text](../../../../C:/Ohio/Documentation/docs/img/Managing_Approvals_SS/confirm_merge.png)
 
 ## Pipeline To Explain Automation Flow
 
-The process that's been developed follows Continuous Integration and Continuous Deployment (CI/CD) principles. By allowing for the ease of editing of these pages, we can continuously integrate new changes. For each change that we make and commit to the development branch, a GitHub actions file will deploy the changes to the site.
+The process that has been developed follows Continuous Integration and Continuous Deployment (CI/CD) principles. New changes can be continuously integrated which allows for the ease of editing pages. For each change made and committed to the development branch, a GitHub actions file deploys the changes to the site.
+
+### GitHub Actions
 
 By clicking the actions tab, you can view the GitHub action as it builds and deploys the site after a commit has been made. Actions with a green circle represent that the action was successful, and the changes should now be present.
 
-![](img/gitHubActions.png)
+![](img/Automation_Flow_SS/github_actions.png)
 
 Along with that, if there are any errors that occur you will see the a line with a red circle. Clicking these will reveal why the actions file failed.
 
-![](img/CDerror.png)
-![](img/errorDeploy.png)
+![](img/Automation_Flow_SS/error.PNG)
 
-The repository is broken into two branches: development and main. Initial changes to the project will be sent to the development branch and will be hosted on the GitHub Pages. This page can be visited by selecting the Settings tab at the top, Pages tab on the left, and then the link presented is the URL for the website.
+![](img/Automation_Flow_SS/error_info.PNG)
 
-![](img/GitHubPages.png)
+### Branches
 
-Merges of the development branch to the main branch will invoke a different GitHub actions file which will deploy on AWS which hosts the main site.
->>>>>>> 1526cdd82135136858cc39180bd997e94596e92e
+The repository is broken into two branches: "development" and "main". Initial changes to the project will be sent to the development branch and will be hosted on GitHub Pages. This page can be visited by selecting the "Settings" tab at the top, "Pages" tab on the left, and then the link presented is the URL for the website.
+
+![](img/Automation_Flow_SS/github_pages.png)
 
 Merges of the development branch to the main branch will invoke a different GitHub actions file which will deploy on AWS which hosts the main site.
