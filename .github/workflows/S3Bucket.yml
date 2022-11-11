@@ -1,4 +1,4 @@
-name: ghPagesDeployment 
+name: s3Deployment 
 on:
   push:
     branches:
