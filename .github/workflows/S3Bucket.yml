@@ -1,22 +1,27 @@
 name: S3 Deployment
-# This workflow is triggered on pushes to the repository.
 on:
   push:
     branches:
       - main
 jobs:
-  main:
-    name: Build + Deploy
+  mkdocs:
+    name: Build and deploy mkdocs site
     runs-on: ubuntu-latest
-    steps:
-      # checkout this repo
-      - name: Checkout Repo
-        uses: actions/checkout@v2
-      # checkout the private repo containing the action to run
-      - name: build and copy docs
-        uses: gainwell-ohio/mkdocs-publish-s3-action@master
-        env:
-          S3_PATH: "s3://bps-hc-aws-rpa-dev-sandbox-s3-testing"
-          AWS_ACCESS_KEY_ID: ${{ secrets.S3_ACCESS_KEY }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_SECRET_KEY }}
 
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Build
+      uses: jnanadarshan/mkdocs-build-action@v1
+
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.S3_ACCESS_KEY }}
+        aws-secret-access-key: ${{ secrets.S3_SECRET_KEY }}
+        aws-region: us-east-1
+
+    - name: Sync output to S3
+      run: |
+        aws s3 sync ./site/ s3://bps-hc-aws-rpa-dev-sandbox-s3-testing --delete
