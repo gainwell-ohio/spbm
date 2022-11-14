@@ -1,30 +1,25 @@
-name: s3Deployment 
+name: Build mkdocs pages and publish to S3 bucket
+
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
+
 jobs:
-  deploy:
-    name: Build and Deploy Mkdocs site
+  build:
+    name: Deploy docs
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
+      - name: Checkout main
         uses: actions/checkout@v2
-        
-      - name: Setup Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.x
-      - run: pip install mkdocs-material 
-      - run: mkdocs build
-      
-      - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v1
-        with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: us-east-1
 
-      - name: Sync output to S3
-        run: |
-          aws s3 sync ./site/ s3://s3-website-us-east-1.amazonaws.com/site --delete
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 'pypy-3.6'
+
+      - name: Build pages and publish to S3
+        uses: sys3/mkdocs-s3-publish-action@main
+        env:
+          S3_LOCATION: ${{ secrets.S3_LOCATION }}
+          S3_ACCESS_KEY: ${{ secrets.S3_ACCESS_KEY }}
+          S3_SECRET_KEY: ${{ secrets.S3_SECRET_KEY }}
+          S3_BUCKET: ${{ secrets.S3_BUCKET }}
