@@ -1,5 +1,45 @@
 # Learning Material
 
+## Objectives
+
+The material covers topics and information related to navigating and utilizing the source repository of the Evergreen site which allows for:
+
+- Improvement in efficiency of updating documents
+- Increased collaboration and accessibility
+- Approvals and reviews of changes made to ensure document accuracy
+- Formation of teams and access to give various levels of accessibility permission
+
+The following material will provide information and tools pertaining to:
+- Creating necessary account and allowing access to the repository
+- Contributing changes to the documentation
+  - Including Markdown
+- Managing approvals
+- Explanation of automation pipeline
+
+## Prerequisites
+
+Prior to utilizing the Evergreen site or repository, there are a few initial tasks that must be completed. Creating a GitHub account, which is where the repository resides, is necessary to obtain access. Users also must be given access to the repository to view, edit, or manage the documentation. 
+
+### Creating a GitHub Account
+
+To obtain access to the Evergreen repository, a GitHub account must be created. The link below will navigate the user to the correct page to sign up.
+
+link
+
+![](img/Prerequisites/joining_github.PNG)
+
+Once an account is made, users are then able to be added into the repository.
+
+### Assigning Users Access to the Repository
+
+Those with permission can add users to the repository. The user is able to be added individually or into a team. Going to "Settings" and then "Collaborators and teams" will navigate the user to the page where access can be given. If this page is not available, the user does not have permission to add and manage users. 
+
+![](img/Prerequisites/user_access.png)
+
+Roles can also be assigned to each user and team through the drop-down menu of "Role". Each level of roles gives different permissions pertaining to viewing, contributing, approving, and managing settings. A more in-depth breakdown of roles can be view by clicking "View role details". 
+
+![](img/Prerequisites/accessibility.PNG)
+
 ## Contributing Changes to the Documentation
 
 Making necessary changes and implementing updates to the documentation is simple and efficient. Instructions and helpful information on how to contribute changes to the documentation is explained throughout the following text. 
@@ -35,9 +75,9 @@ Once the necessary modifications of the documentation have been made, the change
 
 Adding a comment or title pertaining to the information modified is available in the commit area. This step is important in explaining to others the changes made and the reason for doing so. 
 
-After the final modifications have been made and a comment has been added, the "commit changes" button can be pressed to push the newly modified documents and request approval for the permanent change. 
+After the final modifications have been made and a comment has been added, the user can either commit the change to their own branch, or create a new request and create a pull request. Be sure to be in the correct branch if the first option is chosen.
 
-![](img/Contributing_Changes_SS/commit.PNG)
+![](img/Contributing_Changes_SS/proposing_changes.PNG)
 
 ### Creating an Additional Section
 
@@ -117,38 +157,48 @@ The following text provides instructions and guidance on managing approvals and 
 
 To review all pull requests that have been made, visit the pull request tab.
 
-![](../../../../C:/Ohio/Documentation/docs/img/Managing_Approvals_SS/pull_request_tab.png)
+![](img/Managing_Approvals_SS/pull_request_tab.png)
 
 
 This page will display all open pull requests. The requests can be filtered by author, label, project, milestone, reviews, assignes, or a general sort. The user can select the pull request they wish to review and approve.
 
-![](../../../../C:/Ohio/Documentation/docs/img/Managing_Approvals_SS/sorting_pull_request.png)
+![](img/Managing_Approvals_SS/sorting_pull_request.png)
 
-### Including Details to the Request
+Recent changes will also be shown and the user has the ability to view requests and compare or create a new pull request.
 
-On the selected pull request, additional information can be included on the right. For example, if the pull request is an enhancement as opposed to a bug fix, then the label can be changed to accurately represent what the pull request is achieving. Including this information also allows for accurate sorting of the pull request as explained previously. The user can also review the file by selecting the "Files Changed" tab at the top.
+![](img/Automation_Flow_SS/pull_reqests.png)
 
-![Alt text](../../../../C:/Ohio/Documentation/docs/img/Managing_Approvals_SS/reviewing_pull_request.png)
+### Creating a Pull Request
+
+When creating a pull request, the user has the option to compare branches by choosing two branches in the drop-down menu. The user can also include additonal information to the pull request along the right-hand side as well as explain and document the changes contributed in the designated area.
+
+![](img/Automation_Flow_SS/pull_request_creating.png)
+
+The right-hand side can contain useful information. For example, if the pull request is an enhancement as opposed to a bug fix, then the label can be changed to accurately represent what the pull request is achieving. Including this information also allows for accurate sorting of the pull request as explained previously. The user can also review the file by selecting the "Files Changed" tab at the top.
+
+![](img/Managing_Approvals_SS/reviewing_pull_request.png)
 
 ### Reviewing and Approving Files Changed
 
 Accessing the "File Changed" tab allows the user to look at a list of all files included in the request. Red highlighting displays the content that is in the original file, while the green highlighting represents the new change. By clicking the review changes button, the user can make comments and give feedback pertaining to the files, approve of the changes, or request that the author make additional edits.  
 
-![Alt text](../../../../C:/Ohio/Documentation/docs/img/Managing_Approvals_SS/highlighted_edits.png)
+![](img/Managing_Approvals_SS/highlighted_edits.png)
 
 ### Alternate Method of Approving Requests
 
 Back on the "Conversation" tab of the pull request, the user can scoll to the bottom of the page and approve of the merge request from here as well.
 
-![Alt text](../../../../C:/Ohio/Documentation/docs/img/Managing_Approvals_SS/conversation_pull_request.png)
+![](img/Managing_Approvals_SS/conversation_pull_request.png)
 
 Clicking the "Merge pull request" button will prompt the user with this dialogue box. Here the merge can be given a title and description. Confirming the merge will upload the changes to the branch.
 
-![Alt text](../../../../C:/Ohio/Documentation/docs/img/Managing_Approvals_SS/confirm_merge.png)
+![](img/Managing_Approvals_SS/confirm_merge.png)
 
-## Pipeline To Explain Automation Flow
+## Explanation of Automation Pipline
 
-The process that has been developed follows Continuous Integration and Continuous Deployment (CI/CD) principles. New changes can be continuously integrated which allows for the ease of editing pages. For each change made and committed to the development branch, a GitHub actions file deploys the changes to the site.
+The process that has been developed follows Continuous Integration and Continuous Deployment (CI/CD) principles. New changes can be continuously integrated which allows for the ease of editing pages. 
+
+The repository contains different branches of the documentation, with one being hosted on the main site and one being hosted on GitHub Pages. The others can be merged with the other branches once committed.
 
 ### GitHub Actions
 
@@ -164,7 +214,19 @@ Along with that, if there are any errors that occur you will see the a line with
 
 ### Branches
 
-The repository is broken into two branches: "development" and "main". Initial changes to the project will be sent to the development branch and will be hosted on GitHub Pages. This page can be visited by selecting the "Settings" tab at the top, "Pages" tab on the left, and then the link presented is the URL for the website.
+The repository is broken into multiple branches and branches can also be created. These branches are important in organizing the various versions of the documentation and allow for edits to be made without altering the main site. On the home page of the source documentation repository page, the branch the user is currently is displayed.
+
+![](img/Automation_Flow_SS/branch_navigation.png)
+
+Clicking the branch displays a drop-down menu which allows the user to view all the branches and navigate to them as well as create a new branch.
+
+![](img/Automation_Flow_SS/new_branch.PNG)
+
+Once the user has navigated to a branch page, the user can choose to compare branches to identify differences and areas that require updates. The user can also create a pull request from this location.
+
+![](img/Automation_Flow_SS/comparing.png)
+
+At first the changes to the project will be sent to the development branch and will be hosted on GitHub Pages. This page can be visited by selecting the "Settings" tab at the top, "Pages" tab on the left, and then the link presented is the URL for the website.
 
 ![](img/Automation_Flow_SS/github_pages.png)
 
