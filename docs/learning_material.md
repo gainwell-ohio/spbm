@@ -24,7 +24,7 @@ Prior to utilizing the Evergreen site or repository, there are a few initial tas
 
 To obtain access to the Evergreen repository, a GitHub account must be created. The link below will navigate the user to the correct page to sign up.
 
-link
+[Join GitHub](https://github.com/join)
 
 ![](img/Prerequisites/joining_github.PNG)
 
@@ -42,7 +42,8 @@ Roles can also be assigned to each user and team through the drop-down menu of "
 
 ## Contributing Changes to the Documentation
 
-Making necessary changes and implementing updates to the documentation is simple and efficient. Instructions and helpful information on how to contribute changes to the documentation is explained throughout the following text. 
+Making necessary changes and implementing updates to the documentation is simple and efficient. Instructions and helpful information on how to contribute changes to the documentation is explained throughout the following text.
+
 ### Navigation from Site to Documentation
 
 Clicking the pen icon as shown below, navigates the user to that specific document in the editing page, while clicking the "Ohio SPBM Docs" icon navigates users to the home page of the documentation repository where the user is able to locate documents through the navigation panel. 
@@ -92,7 +93,6 @@ If new information is needing to be added that requires an additional page, new 
 Once the new file is created, assign the proper name the file and follow it with ".md". This allows the Markdown language to be read correctly along with the plain text.
 
 ![](img/Contributing_Changes_SS/name.png)
-
 
 ## Markdown
 
@@ -226,8 +226,15 @@ Once the user has navigated to a branch page, the user can choose to compare bra
 
 ![](img/Automation_Flow_SS/comparing.png)
 
-At first the changes to the project will be sent to the development branch and will be hosted on GitHub Pages. This page can be visited by selecting the "Settings" tab at the top, "Pages" tab on the left, and then the link presented is the URL for the website.
+### GitHub Pages
+
+At first the changes to the project will be sent to the development branch and will be hosted on GitHub Pages. This page can be visited by selecting the "Settings" tab at the top, "Pages" tab on the left, and then the link presented is the URL for the website. 
 
 ![](img/Automation_Flow_SS/github_pages.png)
 
 Merges of the development branch to the main branch will invoke a different GitHub actions file which will deploy on AWS which hosts the main site.
+
+There is also a link to the GitHub pages site nested on the home page of the repository. It can be found on the right side under the "About" section.
+
+![](img/Automation_Flow_SS/pages_link.png)
+![](https://user-images.githubusercontent.com/106997720/204098955-d80318fc-fee4-4645-8283-d1f384afd672.png)
