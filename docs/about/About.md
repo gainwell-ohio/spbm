@@ -19,7 +19,7 @@ Digital workforce focuses on three pillars of work, of which this work product f
 
 
 
-## Laura Allen Sample of update or chang
+Laura Allen
 Justin Collingwood
 Kaelyn Dobbins
 Cassandra Roach
