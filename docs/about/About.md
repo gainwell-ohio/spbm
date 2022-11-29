@@ -17,6 +17,6 @@ Digital workforce focuses on three pillars of work, of which this work product f
 
 ## Training
 
-Cassandra Roach
+Justin Collingwood
 Kaelyn Dobbins
-
+Cassandra Roach
