@@ -36,10 +36,10 @@ Additional Criteria for Migraine Prophylaxis
 
 1. Patient must have one of the following diagnoses:
 
-     a. **Episodic** migraine with the following frequencies of migraine:
-        - 4-15 headaches per 30 days measured over 90 consecutive days and headache duration of longer than 4 hours per day or longer during an attack on average.
+   - **Episodic** migraine with the following frequencies of migraine:
+      - 4-15 headaches per 30 days measured over 90 consecutive days and headache duration of longer than 4 hours per day or longer during an attack on average.
 
-      b. **Chronic** migraine with the following frequencies of migraine:
+    - **Chronic** migraine with the following frequencies of migraine:
         - 15 or more headaches per 30 days measured over 90 consecutive days and headache duration of longer than 4 hours per day or longer during an attack on average
 
 2. Prior Authorization may be approved if the patient has failed a trial of at least 30 days each to at least 3 controller migraine medications or has experienced contraindications or intolerance to them (i.e., beta-blockers, anticonvulsants, tricyclic antidepressants, and/or serotonin-norepinephrine reuptake inhibitors).
