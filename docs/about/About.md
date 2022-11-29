@@ -14,4 +14,4 @@ Maximize scale and efficiency of Gainwell’s staffing through creative automati
 
 Digital workforce focuses on three pillars of work, of which this work product falls within.
 
-## Sample of update or change 
+## Laura Allen Sample of update or change 
