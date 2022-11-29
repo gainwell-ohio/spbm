@@ -98,6 +98,14 @@ Once the new file is created, assign the proper name the file and follow it with
 
 Markdown is the language used in the documentation to better format and add structure to the plain text. Simple notations are added to the text to apply these formatting elements. The syntax is better explained in the following text.
 
+Some beneficial resources for learning more can also be located at the listed links:
+
+[Markdown Guide](https://www.markdownguide.org/)
+
+[GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
 ### Headings 
 
 Headings are creating by inputting hash marks before the desired heading text. The number of hash marks corresponds with the heading level of the text.
