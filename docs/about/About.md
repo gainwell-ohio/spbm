@@ -19,3 +19,4 @@ Digital workforce focuses on three pillars of work, of which this work product f
 
 Justin Collingwood
 Kaelyn Dobbins
+Cassandra Roach
