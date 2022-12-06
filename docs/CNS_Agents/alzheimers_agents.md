@@ -47,6 +47,10 @@ Central Nervous System (CNS) Agents: Alzheimer’s Agents
 | Namzaric           |
 | Rivastigmine Patch |
 
+## Notes
+
+You can add a note here.
+
 ## Links
 
 [Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=22)
