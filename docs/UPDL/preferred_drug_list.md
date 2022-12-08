@@ -1,5 +1,6 @@
 
 Analgesic Agents: Gout
+
 | Preferred                | Non-Preferred     |
 | ------------------------ | ----------------- |
 | Allopurinol              | Colchicine Cap QL |
@@ -9,7 +10,8 @@ Analgesic Agents: Gout
  
 [Link to Criteria: Analgesic Agents: Gout](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=6)
 
-Analgesic Agents: NSAIDS                            
+Analgesic Agents: NSAIDS    
+
 | Preferred         | Non-Preferred                      |
 | ----------------- | ---------------------------------- |
 | Celecoxib         | Diclofenac/Misoprostol             |
