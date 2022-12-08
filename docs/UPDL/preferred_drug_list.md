@@ -41,6 +41,7 @@ Analgesic Agents: NSAIDS
 [Link to Criteria: Analgesic Agents: NSAIDS](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=7)
  
 Analgestic Agents: Opioids
+
 | Preferred                                    | Non-Preferred                                              |
 | -------------------------------------------- | ---------------------------------------------------------- |
 | Acetaminophen/Codeine QL                     | Acetaminophen/Caffeine/Dihydrocodeine QL                   |
@@ -73,6 +74,7 @@ Analgestic Agents: Opioids
 [Link to Criteria: Analgesic Agents: Opioids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=8)
 
 Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors
+
 | Preferred    | Non-Preferred |
 | ------------ | ------------- |
 | Neupogen PA  | Fulphila      |
@@ -87,6 +89,7 @@ Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors
 [Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=10)
 
 Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents
+
 | Preferred   | Non-Preferred |
 | ----------- | ------------- |
 | Epogen PA   | Aranesp       |
@@ -96,6 +99,7 @@ Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents
 [Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=11)
 
 Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factor*
+
 | Preferred       | Non-Preferred |
 | --------------- | ------------- |
 | Advate PA       | Jivi          |
@@ -128,6 +132,7 @@ Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factor*
 [Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=12) 
 
 Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations
+
 | Preferred  | Non-Preferred |
 | ---------- | ------------- |
 | Enoxaparin | Fondaparinux  |
@@ -146,6 +151,7 @@ Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants
 [Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=14)
 
 Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet
+
 | Preferred               | Non-Preferred |
 | ----------------------- | ------------- |
 | Aspirin                 | Yosprala      |
@@ -157,6 +163,7 @@ Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet
 [Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=15)
 
 Cardiovascular Agents: Angina, Hypertension and Heart Failure
+
 | Preferred                                  | Non-Preferred                   |
 | ------------------------------------------ | ------------------------------- |
 | Acebutolol                                 | Aliskiren                       |
@@ -241,6 +248,7 @@ Cardiovascular Agents: Angina, Hypertension and Heart Failure
 [Link to Criteria: Cardiovascular Agents: Angina, Hypertension & Heart Failure](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=16)
 
 Cardiovascular Agents: Antiarrhythmics
+
 | Preferred        | Non-Preferred              |
 | ---------------- | -------------------------- |
 | Amiodarone 200mg | Amiodarone 100mg and 400mg |
@@ -255,6 +263,7 @@ Cardiovascular Agents: Antiarrhythmics
 [Link to Criteria: Cardiovascular Agents: Antiarrhythmics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=18)
 
 Cardiovascular Agents: Lipotropics
+
 | Preferred                    | Non-Preferred                                          |
 | ---------------------------- | ------------------------------------------------------ |
 | Atorvastatin                 | Altoprev                                               |
@@ -277,6 +286,7 @@ Cardiovascular Agents: Lipotropics
 [Link to Criteria: Cardiovascular Agents: Lipotropics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=19)
   
 Cardiovascular Agents: Pulmonary Arterial Hypertension*
+
 | Preferred             | Non-Preferred |
 | --------------------- | ------------- |
 | Ambrisentan PA        | Adempas       |
@@ -292,6 +302,7 @@ Cardiovascular Agents: Pulmonary Arterial Hypertension*
 [Link to Criteria: Cardiovascular Agents: Pulmonary Arterial Hypertension](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=21)
 
 Central Nervous System (CNS) Agents: Alzheimer's Agents*
+
 | Preferred               | Non-Preferred      |
 | ----------------------- | ------------------ |
 | Donepezil 5mg, 10mg Tab | Donepezil 23mg Tab |
@@ -305,6 +316,7 @@ Central Nervous System (CNS) Agents: Alzheimer's Agents*
 [Link to Criteria: Central Nervous System (CNS) Agents: Alzheimer's Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=22)
 
 Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute
+
 | Preferred         | Non-Preferred        |
 | ----------------- | -------------------- |
 | Naratriptan QL    | Almotriptan          |
@@ -324,6 +336,7 @@ Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute
 [Link to Criteria: Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=23)
 
 Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache
+
 | Preferred | Non-Preferred |
 | --------- | ------------- |
 | Verapamil | Emgality      |
@@ -331,6 +344,7 @@ Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache
 [Link to Criteria: Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=24)
 
 Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis
+
 | Preferred                                                | Non-Preferred |
 | -------------------------------------------------------- | ------------- |
 | Aimovig QL ST                                            | Emgality      |
@@ -343,6 +357,7 @@ Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis
 [Link to Criteria: Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=25)
 
 Central Nervous System (CNS) Agents: Anticonvulsants
+
 | Preferred            | Non-Preferred              |
 | -------------------- | -------------------------- |
 | Banzel Tab BvG       | Aptiom                     |
@@ -373,6 +388,7 @@ Central Nervous System (CNS) Agents: Anticonvulsants
 [Link to Criteria: Central Nervous System (CNS) Agents: Anticonvulsants](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=27)
 
 Central Nervous Systems (CNS) Agents: Anticonvulsants Rescue
+
 | Preferred     | Non-Preferred |
 | ------------- | ------------- |
 | Diastat       |               |
@@ -383,6 +399,7 @@ Central Nervous Systems (CNS) Agents: Anticonvulsants Rescue
 [Link to Criteria: Central Nervous System (CNS) Agents: Anticonvulsants Rescue](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=29)
 
 Central Nervous System (CNS) Agents: Antidepressants*
+
 | Preferred                               | Non-Preferred                        |
 | --------------------------------------- | ------------------------------------ |
 | Bupropion                               | Aplenzin                             |
@@ -410,6 +427,7 @@ Central Nervous System (CNS) Agents: Antidepressants*
 [Link to Criteria: Central Nervous System (CNS) Agents: Antidepressants](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=30)
 
 Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents
+
 | Preferred                                                             | Non-Preferred                                                 |
 | --------------------------------------------------------------------- | ------------------------------------------------------------- |
 | Amphetamine/Dextroamphetamine ER                                      | Adhansia XR                                                   |
@@ -437,6 +455,7 @@ Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Ag
 [Link to Criteria: Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=31)
 
 Central Nervous System (CNS) Agents: Atypical Antipsychotics*
+
 | Preferred            | Non-Preferred         |
 | -------------------- | --------------------- |
 | Abilify Maintena     | Abilify Mycite        |
@@ -464,6 +483,7 @@ Central Nervous System (CNS) Agents: Atypical Antipsychotics*
 [Link to Criteria: Central Nervous System (CNS) Agents: Atypical Antipsychotics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=32)
 
 Central Nervous System (CNS) Agents: Fibromyalgia Agents
+
 | Preferred  | Non-Preferred |
 | ---------- | ------------- |
 | Pregabalin | Savella       |
@@ -471,6 +491,7 @@ Central Nervous System (CNS) Agents: Fibromyalgia Agents
 [Link to Criteria: Central Nervous System (CNS) Agents: Fibromyalgia Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=34)
 
 Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction
+
 | Preferred              | Non-Preferred |
 | ---------------------- | ------------- |
 | Buprenorphine/Naloxone | Buprenorphine |
@@ -483,6 +504,7 @@ Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Add
 [Link to Criteria: Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=35)
 
 Central Nervous System (CNS) Agents: Movement Disorders
+
 | Preferred        | Non-Preferred |
 | ---------------- | ------------- |
 | Austedo PA QL    |               |
@@ -492,6 +514,7 @@ Central Nervous System (CNS) Agents: Movement Disorders
 [Link to Criteria: Central Nervous System (CNS) Agents: Movement Disorders](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=37)
 
 Central Nervous System (CNS) Agents: Multiple Sclerosis*
+
 | Preferred         | Non-Preferred |
 | ----------------- | ------------- |
 | Aubagio           | Bafiertam     |
@@ -509,6 +532,7 @@ Central Nervous System (CNS) Agents: Multiple Sclerosis*
 [Link to Criteria: Central Nervous System (CNS) Agents: Multiple Sclerosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=38)
 
 Central Nervous System (CNS) Agents: Narcolepsy
+
 | Preferred                     | Non-Preferred |
 | ----------------------------- | ------------- |
 | Amphetamine/Dextroamphetamine | Sunosi        |
@@ -521,6 +545,7 @@ Central Nervous System (CNS) Agents: Narcolepsy
 [Link to Criteria: Central Nervous System (CNS) Agents: Narcolepsy](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=39)
 
 Central Nervous System (CNS) Agents: Neuropathic Pain
+
 | Preferred                          | Non-Preferred |
 | ---------------------------------- | ------------- |
 | Amitriptyline                      | Gralise       |
@@ -539,6 +564,7 @@ Central Nervous System (CNS) Agents: Neuropathic Pain
 [Link to Criteria: Central Nervous System (CNS) Agents: Neuropathic Pain](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=40)
 
 Central Nervous System (CNS) Agents: Parkinson's Agents
+
 | Preferred          | Non-Preferred                      |
 | ------------------ | ---------------------------------- |
 | Amantadine         | Apokyn                             |
@@ -561,7 +587,8 @@ Central Nervous System (CNS) Agents: Parkinson's Agents
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Parkinson's Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=41)
 
-Central Nervous System (CNS) Agents: Restless Legs Syndrome 
+Central Nervous System (CNS) Agents: Restless Legs Syndrome
+
 | Preferred   | Non-Preferred |
 | ----------- | ------------- |
 | Pramipexole | Horizant      |
@@ -570,6 +597,7 @@ Central Nervous System (CNS) Agents: Restless Legs Syndrome
 [Link to Criteria: Central Nervous System (CNS) Agents: Restless Legs Syndrome](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=42)
 
 Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate
+
 | Preferred          | Non-Preferred       |
 | ------------------ | ------------------- |
 | Estazolam          | Belsomra            |
@@ -584,6 +612,7 @@ Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate
 [Link to Criteria: Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=43)
 
 Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine
+
 | Preferred                  | Non-Preferred              |
 | -------------------------- | -------------------------- |
 | Baclofen Tab               | Baclofen Solution          |
@@ -599,6 +628,7 @@ Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepi
 [Link to Criteria: Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=44)
 
 Central Nervous System (CNS) Agents: Smoking Deterrents
+
 | Preferred   | Non-Preferred |
 | ----------- | ------------- |
 | Nicotine    |               |
@@ -609,6 +639,7 @@ Central Nervous System (CNS) Agents: Smoking Deterrents
 [Link to Criteria: Central Nervous System (CNS) Agents: Smoking Deterrents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=45)
 
 Dermatological: Oral Acne Products
+
 | Preferred       | Non-Preferred |
 | --------------- | ------------- |
 | Accutane PA     | Absorica      |
@@ -621,6 +652,7 @@ Dermatological: Oral Acne Products
 [Link to Criteria: Dermatological: Oral Acne Products](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=46)
 
 Dermatological: Topical Acne Products
+
 | Preferred                             | Non-Preferred                   |
 | ------------------------------------- | ------------------------------- |
 | Adapalene Gel 0.1% AR                 | Adapalene Cream, Sol 0.1% AR    |
@@ -651,6 +683,7 @@ Dermatological: Topical Acne Products
 [Link to Criteria: Dermatological: Topical Acne Products](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=47) 
 
 Endocrine Agents: Androgens
+
 | Preferred                   | Non-Preferred             |
 | --------------------------- | ------------------------- |
 | Androderm PA                | Jatenzo                   |
@@ -667,6 +700,7 @@ Endocrine Agents: Androgens
 [Link to Criteria: Endocrine Agents: Androgens](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=48)
 
 Endocrine Agents: Diabetes - Hypoglycemia Treatments
+
 | Preferred                             | Non-Preferred                                 |
 | ------------------------------------- | --------------------------------------------- |
 | Baqsimi QL                            | Glucagon Emerg Kit [Labeler 00548 & 63323] QL |
@@ -679,6 +713,7 @@ Endocrine Agents: Diabetes - Hypoglycemia Treatments
 [Link to Criteria: Endocrine Agents: Diabetes - Hypoglycemia Treatments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=49)
 
 Endocrine Agents: Diabetes - Insulin
+
 | Preferred                               | Non-Preferred    |
 | --------------------------------------- | ---------------- |
 | Apidra                                  | Admelog          |
@@ -700,6 +735,7 @@ Endocrine Agents: Diabetes - Insulin
 [Link to Criteria: Endocrine Agents: Diabetes - Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=50)
 
 Endocrine Agents: Diabetes - Non-Insulin
+
 | Preferred                               | Non-Preferred                      |
 | --------------------------------------- | ---------------------------------- |
 | Acarbose                                | Adlyxin                            |
@@ -734,6 +770,7 @@ Endocrine Agents: Diabetes - Non-Insulin
 [Link to Criteria: Endocrine Agents: Diabetes - Non-Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=51)
 
 Endocrine Agents: Endometriosis
+
 | Preferred                     | Non-Preferred |
 | ----------------------------- | ------------- |
 | Danazol ST                    | Synarel       |
@@ -746,6 +783,7 @@ Endocrine Agents: Endometriosis
 [Link to Criteria: Endocrine Agents: Endometriosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=52)
 
 Endocrine Agents: Estrogenic Agents
+
 | Prefered                                | Non-Preferred                   |
 | --------------------------------------- | ------------------------------- |
 | Climara Pro                             | Angeliq                         |
@@ -762,6 +800,7 @@ Endocrine Agents: Estrogenic Agents
 [Link to Criteria: Endocrine Agents: Estrogenic Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=53)
 
 Endocrine Agents: Growth Hormone
+
 | Preferred      | Non-Preferred |
 | -------------- | ------------- |
 | Norditropin PA | Genotropin    |
@@ -775,6 +814,7 @@ Endocrine Agents: Growth Hormone
 [Link to Criteria: Endocrine Agents: Growth Hormone](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=54)
 
 Endocrine Agents: Osteoporosis- Bone Ossification Enhancers
+
 | Preferred         | Non-Preferred    |
 | ----------------- | ---------------- |
 | Alendronate Tab   | Alendronate Susp |
@@ -785,6 +825,7 @@ Endocrine Agents: Osteoporosis- Bone Ossification Enhancers
 [Link to Criteria: Endocrine Agents: Osteoporosis - Bone Ossification Enhancers](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=57)
 
 Endocrine Agents: Progestin Agents
+
 | Preferred                       | Non-Preferred |
 | ------------------------------- | ------------- |
 | Hydroxyprogesterone Caproate    |               |
@@ -798,6 +839,7 @@ Endocrine Agents: Progestin Agents
 [Link to Criteria: Endocrine Agents: Progestin Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=58)
 
 Endocrine Agents: Uterine Fibroids
+
 | Preferred                      | Non-Preferred |
 | ------------------------------ | ------------- |
 | Lupron Depot PA 3.75, 11.25 mg | Myfembree     |
@@ -806,6 +848,7 @@ Endocrine Agents: Uterine Fibroids
 [Link to Criteria: Endocrine Agents: Uterine Fibroids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=59)
 
 Gastrointestinal Agents: Anti-Emetics
+
 | Preferred                  | Non-Preferred                   |
 | -------------------------- | ------------------------------- |
 | Aprepitant 40mg, 125mg     | Aprepitant 80 mg                |
@@ -826,6 +869,7 @@ Gastrointestinal Agents: Anti-Emetics
 [Link to Criteria: Gastrointestinal Agents: Anti-Emetics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=60)
 
 Gastrointestinal Agents: Crohn's Disease
+
 | Preferred         | Non-Preferred |
 | ----------------- | ------------- |
 | Azathioprine      | Ortikos ER    |
@@ -837,6 +881,7 @@ Gastrointestinal Agents: Crohn's Disease
 [Link to Criteria: Gastrointestinal Agents: Crohn's Disease](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=61)
 
 Gastrointestinal Agents: Hepatic Encephalopathy
+
 | Preferred  | Non-Preferred |
 | ---------- | ------------- |
 | Lactulose  |               |
@@ -845,6 +890,7 @@ Gastrointestinal Agents: Hepatic Encephalopathy
 [Link to Criteria: Gastrointestinal Agents: Hepatic Encephalopathy](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=62)
 
 Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea
+
 | Preferred              | Non-Preferred |
 | ---------------------- | ------------- |
 | Diphenoxylate/Atropine | Alosetron     |
@@ -854,6 +900,7 @@ Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea
 [Link to Criteria: Gastrointestinal Agents: Irritable Bowel Sydrome (IBS) with Diarrhea](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=63)
 
 Gastrointestinal Agents: Pancreatic Enzymes
+
 | Preferred | Non-Preferred |
 | --------- | ------------- |
 | Creon     | Pancreaze     |
@@ -863,6 +910,7 @@ Gastrointestinal Agents: Pancreatic Enzymes
 [Link to Criteria: Gastrointestinal Agents: Pancreatic Enzymes](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=64)
 
 Gastrointestinal Agents: Proton Pump Inhibitors
+
 | Preferred           | Non-Preferred                 |
 | ------------------- | ----------------------------- |
 | Lansoprazole Cap    | Aciphex                       |
@@ -880,6 +928,7 @@ Gastrointestinal Agents: Proton Pump Inhibitors
 [Link to Criteria: Gastrointestinal Agents: Proton Pump Inhibitors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=65)
 
 Gastrointestinal Agents: Ulcerative Colitis
+
 | Preferred            | Non-Preferred     |
 | -------------------- | ----------------- |
 | Balsalazide Disodium | Dipentum          |
@@ -894,6 +943,7 @@ Gastrointestinal Agents: Ulcerative Colitis
 [Link to Criteria: Gastrointestinal Agents: Ulcerative Colitis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=66)
 
 Gastrointestinal Agents: Unspecified GI
+
 | Preferred                    | Non-Preferred |
 | ---------------------------- | ------------- |
 | Amitiza BvG ST               | Aemcolo       |
@@ -913,6 +963,7 @@ Gastrointestinal Agents: Unspecified GI
 [Link to Criteria: Gastrointestinal Agents: Unspecified GI](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=67)
 
 Genitourinary Agents: Benign Prostatic Hyperplasia
+
 | Preferred             | Non-Preferred          |
 | --------------------- | ---------------------- |
 | Alfuzosin             | Cardura XL             |
@@ -927,6 +978,7 @@ Genitourinary Agents: Benign Prostatic Hyperplasia
 [Link to Criteria: Genitourinary Agents: Benign Prostatic Hyperplasia](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=68)
 
 Genitourinary Agents: Electrolyte Depleter Agents
+
 | Preferred          | Non-Preferred       |
 | ------------------ | ------------------- |
 | Calcium Acetate    | Auryzia             |
@@ -936,6 +988,7 @@ Genitourinary Agents: Electrolyte Depleter Agents
 [Link to Criteria: Genitourinary Agents: Electrolyte Depleter Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=69)
 
 Genitourinary Agents: Urinary Antispasmodics
+
 | Preferred         | Non-Preferred         |
 | ----------------- | --------------------- |
 | Gelnique          | Darifenacin           |
@@ -949,6 +1002,7 @@ Genitourinary Agents: Urinary Antispasmodics
 [Link to Criteria: Genitourinary Agents: Urinary Antispasmodics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=70)
 
 Immunomodulator Agents for Systemic Inflammatory Disease
+
 | Preferred     | Non-Preferred   |
 | ------------- | --------------- |
 | Enbrel PA     | Actemra         |
@@ -972,6 +1026,7 @@ Immunomodulator Agents for Systemic Inflammatory Disease
 [Link to Criteria: Immunomodulator Agents for Systemic Inflammatory Disease](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=71)
 
 Infectious Disease Agents: Antibiotics - Cephalosporins
+
 | Preferred             | Non-Preferred          |
 | --------------------- | ---------------------- |
 | Cefadroxil            | Cephalexin 750mg       |
@@ -987,6 +1042,7 @@ Infectious Disease Agents: Antibiotics - Cephalosporins
 [Link to Criteria: Infectious Disease Agents: Antibiotics - Cephalosporins](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=73)
 
 Infectious Disease Agents: Antibiotics - Inhaled
+
 | Preferred        | Non-Preferred    |
 | ---------------- | ---------------- |
 | Arikayce PA QL   | Bethkis AR       |
@@ -996,7 +1052,8 @@ Infectious Disease Agents: Antibiotics - Inhaled
 
 [Link to Criteria: Infectious Disease Agents: Antibiotics - Inhaled](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=74)
  
-Infectious Disease Agents: Antibiotics - Macrolides 
+Infectious Disease Agents: Antibiotics - Macrolides
+
 | Preferred      | Non-Preferred       |
 | -------------- | ------------------- |
 | Azithromycin   | Baxdela             |
@@ -1006,6 +1063,7 @@ Infectious Disease Agents: Antibiotics - Macrolides
 [Link to Criteria: Infectious Disease Agents: Antibiotics - Macrolides](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=75)
 
 Infectious Disease Agents: Antibiotics - Quinolones
+
 | Preferred             | Non-Preferred    |
 | --------------------- | ---------------- |
 | Ciprofloxacin         | Baxdela          |
@@ -1015,7 +1073,8 @@ Infectious Disease Agents: Antibiotics - Quinolones
 
 [Link to Criteria: Infectious Disease Agents: Antibiotics - Quinolones](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=76)
 
-Infectious Disease Agents: Antibiotics - Tetracyclines 
+Infectious Disease Agents: Antibiotics - Tetracyclines
+
 | Preferred             | Non-Preferred                 |
 | --------------------- | ----------------------------- |
 | Doxycycline 50, 100mg | Doxycycline 20, 40, 75, 150mg |
@@ -1027,6 +1086,7 @@ Infectious Disease Agents: Antibiotics - Tetracyclines
 [Link to Criteria: Infectious Disease Agents: Antibiotics - Tetracyclines](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=77)
 
 Infectious Disease Agents: Antifungals
+
 | Preferred    | Non-Preferred |
 | ------------ | ------------- |
 | Fluconazole  | Brexafemme    |
@@ -1041,6 +1101,7 @@ Infectious Disease Agents: Antifungals
 [Link to Criteria: Infectious Disease Agents: Antifungals](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=78)
 
 Infectious Disease Agents: Antivirals - Hepatitis C Agents
+
 | Preferred                 | Non- Preferred                      |
 | ------------------------- | ----------------------------------- |
 | Mavyret PA                | Harvoni 33.75-150, 45-200, 90-400mg |
@@ -1052,6 +1113,7 @@ Infectious Disease Agents: Antivirals - Hepatitis C Agents
 [Link to Criteria: Infectious Disease Agents: Antivirals - Hepatitis C Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=79)
 
 Infectious Disease Agents: Antivirals - Herpes
+
 | Preferred    | Non-Preferred |
 | ------------ | ------------- |
 | Acyclovir    | Famciclovir   |
@@ -1060,6 +1122,7 @@ Infectious Disease Agents: Antivirals - Herpes
 [Link to Criteria: Infectious Disease Agents: Antivirals - Herpes](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=80)
 
 Infectious Disease Agents: Antivirals - HIV*
+
 | Preferred                                   | Non-Preferred                                      |
 | ------------------------------------------- | -------------------------------------------------- |
 | Abacavir Sulfate                            | Abacavir Susp                                      |
@@ -1103,6 +1166,7 @@ Infectious Disease Agents: Antivirals - HIV*
 [Link to Criteria: Infectious Disease Agents: Antivirals - HIV](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=81)
 
 Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments
+
 | Preferred                                    | Non-Preferred                     |
 | -------------------------------------------- | --------------------------------- |
 | Bacitracin-Polymyxin                         | Azasite                           |
@@ -1125,6 +1189,7 @@ Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointm
 [Link to Criteria: Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=82)
  
 Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers
+
 | Preferred   | Non-Preferred |
 | ----------- | ------------- |
 | Azelastine  | Alocril       |
@@ -1136,6 +1201,7 @@ Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers
 [Link to Criteria: Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=83)
 
 Ophthalmic Agents: Dry Eye Treatments
+
 | Preferred             | Non-Preferred       |
 | --------------------- | ------------------- |
 | Restasis Trays BvG ST | Cequa               |
@@ -1147,6 +1213,7 @@ Ophthalmic Agents: Dry Eye Treatments
 [Link to Criteria: Ophthalmic Agents: Dry Eye Treatments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=84)
 
 Ophthalmic Agents: Glaucoma Agents
+
 | Preferred            | Non-Preferred     |
 | -------------------- | ----------------- |
 | Alphagan P 0.1% ST   | Apraclonidine     |
@@ -1170,6 +1237,7 @@ Ophthalmic Agents: Glaucoma Agents
 [Link to Criteria: Ophthalmic Agents: Glaucoma Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=85)
 
 Ophthalmic Agents: NSAIDs
+
 | Preferred    | Non-Preferred |
 | ------------ | ------------- |
 | Diclofenac   | Acuvail       |
@@ -1182,6 +1250,7 @@ Ophthalmic Agents: NSAIDs
 [Link to Criteria: Ophthalmic Agents: NSAIDs](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=86)
 
 Ophthalmic Agents: Ophthalmic Steroids
+
 | Preferred                      | Non-Preferred |
 | ------------------------------ | ------------- |
 | Dexamethasone Sodium Phosphate | Alrex BvG     |
@@ -1196,6 +1265,7 @@ Ophthalmic Agents: Ophthalmic Steroids
 [Link to Criteria: Ophthalmic Agents: Ophthalmic Steroids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=87)
 
 Otic Agents: Antibacterial and Antibacterial/Steroid Combinations
+
 | Preferred                           | Non-Preferred               |
 | ----------------------------------- | --------------------------- |
 | Cipro HC                            | Ciprofloxacin               |
@@ -1207,6 +1277,7 @@ Otic Agents: Antibacterial and Antibacterial/Steroid Combinations
 [Link to Criteria: Otic Agents: Antibacterial and Antibacterial/Steroid Combinations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=88)
 
 Respiratory Agents: Antihistamines - Second Generation
+
 | Preferred                  | Non-Preferred       |
 | -------------------------- | ------------------- |
 | Cetirizine Syr             | Cetirizine Chewable |
@@ -1220,6 +1291,7 @@ Respiratory Agents: Antihistamines - Second Generation
 [Link to Criteria: Respiratory Agents: Antihistamines - Second Generation](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=89)
 
 Respiratory Agents: Cystic Fibrosis
+
 | Preferred   | Non-Preferred |
 | ----------- | ------------- |
 | Kalydeco PA | Bronchitol    |
@@ -1230,6 +1302,7 @@ Respiratory Agents: Cystic Fibrosis
 [Link to Criteria: Respiratory Agents: Cystic Fibrosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=90)
 
 Respiratory Agents: Eninephrine Auto-Injectors
+
 | Preferred                   | Non-Preferred |
 | --------------------------- | ------------- |
 | Epinephrine (labeler 49502) | Epipen        |
@@ -1238,6 +1311,7 @@ Respiratory Agents: Eninephrine Auto-Injectors
 [Link to Criteria: Respiratory Agents: Eninephrine Auto-Injectors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=91)
 
 Respiratory Agents: Hereditary Angioedema
+
 | Preferred   | Non-Preferred     |
 | ----------- | ----------------- |
 | Haegarda PA | Berinert          |
@@ -1248,6 +1322,7 @@ Respiratory Agents: Hereditary Angioedema
 [Link to Criteria: Respiratory Agents: Hereditary Angioedema](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=92)
 
 Respiratory Agents: Inhaled Agents
+
 | Preferred                                       | Non-Preferred              |
 | ----------------------------------------------- | -------------------------- |
 | Advair Diskus BvG                               | Aerospan HFA               |
@@ -1280,7 +1355,8 @@ Respiratory Agents: Inhaled Agents
 
 [Link to Criteria: Respiratory Agents Inhaled Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=93)
 
-Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors 
+Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors
+
 | Preferred      | Non-Preferred |
 | -------------- | ------------- |
 | Montelukast    | Zileuton      |
@@ -1288,7 +1364,8 @@ Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors
 
 [Link to Criteria: Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=94)
 
-Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE 
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE
+
 | Preferred  | Non-Preferred |
 | ---------- | ------------- |
 | Fasenra PA | Dupixent      |
@@ -1298,6 +1375,7 @@ Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE
 [Link to Criteria: Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=95)
 
 Respiratory Agents: Nasal Preparations
+
 | Preferred                        | Non-Preferred                |
 | -------------------------------- | ---------------------------- |
 | Azelastine                       | Azelastine/Fluticasone Spray |
@@ -1311,7 +1389,8 @@ Respiratory Agents: Nasal Preparations
 
 [Link to Criteria: Respiratory Agents: Nasal Preparations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=96)
 
-Respiratory Agents: Other Agents 
+Respiratory Agents: Other Agents
+
 | Preferred | Non-Preferred |
 | --------- | ------------- |
 |           | Daliresp      |
@@ -1319,6 +1398,7 @@ Respiratory Agents: Other Agents
 [Link to Criteria: Respiratory Agents: Other Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=97)
 
 Topical Agents: Antifungals
+
 | Preferred                  | Non-Preferred                               |
 | -------------------------- | ------------------------------------------- |
 | Alevazol                   | Butenafine                                  |
@@ -1336,6 +1416,7 @@ Topical Agents: Antifungals
 [Link to Criteria: Topical Agents: Antifungals](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=98)
 
 Topical Agents: Antiparasitics
+
 | Preferred                     | Non-Preferred |
 | ----------------------------- | ------------- |
 | Natroba BvG                   | Eurax         |
@@ -1346,6 +1427,7 @@ Topical Agents: Antiparasitics
 [Link to Criteria: Topical Agents: Antiparasitics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=99)
 
 Topical Agents: Corticosteroids
+
 | Preferred                            | Non-Preferred                                 |
 | ------------------------------------ | --------------------------------------------- |
 | Amcinonide                           | Alclometasone                                 |
@@ -1374,6 +1456,7 @@ Topical Agents: Corticosteroids
 [Link to Criteria: Topical Agents: Corticosteroids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=100)
 
 Topical Agents: Immunomodulators
+
 | Preferred        | Non-Preferred |
 | ---------------- | ------------- |
 | Elidel AR BvG ST | Eucrisa       |
