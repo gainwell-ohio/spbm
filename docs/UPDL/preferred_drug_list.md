@@ -141,6 +141,7 @@ Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparation
 [Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=13)
 
 Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants
+
 | Preferred   | Non-Preferred |
 | ----------- | ------------- |
 | Eliquis     | Dabigatran    |
