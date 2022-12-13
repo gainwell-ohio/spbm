@@ -2,6 +2,25 @@
 
 This is a subcategory of Genitourinary Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred         |
+| :---------------- |
+| Calcium Acetate   |
+| Calcium Carbonate |
+| Phoslyra          |
+| Sevelamer         |
+
+### Non-Preferred
+
+| Non-Preferred       |
+| :------------------ |
+| Auryxia             |
+| Lanthanum Carbonate |
+| Velphoro            |
+
 ## Length of Authorizations
 
 365 Days
@@ -23,28 +42,6 @@ For a non-preferred agent, there must have been an inadequate clinical response 
 ### Clinical Information
 
 Calcium acetate products may lead to hypercalcemia. This agent is recommended in patients with normal serum calcium levels.
-
-## Formulary
-
-Genitourinary Agents: Electrolyte Depleter Agents
-
-### Preferred
-
-| Preferred         |
-| :---------------- |
-| Calcium Acetate   |
-| Calcium Carbonate |
-| Phoslyra          |
-| Sevelamer         |
-
-### Non-Preferred
-
-| Non-Preferred       |
-| :------------------ |
-| Auryxia             |
-| Lanthanum Carbonate |
-| Velphoro            |
-
 
 ## Links
 
