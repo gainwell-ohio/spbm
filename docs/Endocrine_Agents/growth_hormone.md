@@ -2,6 +2,27 @@
 
 This is a subcategory of Endocrine Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred      |
+| :------------- |
+| Norditropin PA |
+| Omnitrope PA   |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Genotropin    |
+| Humatrope     |
+| Nutropin      |
+| Saizen        |
+| Serostim      |
+| Skytrofa      |
+| Zomacton      |
+
 ## Length of Authorizations
 
 Varies as listed below.
@@ -76,29 +97,6 @@ Patients must have ONE of the following diagnoses along with documentation of me
     1.  Base-line evaluation of the following clinical indicators: (1) insulin-like growth factor (IGF-1); (2) fasting lipid profile; (3) BUN; (4) fasting glucose; (5) electrolyte levels; (6) evaluation of any new osteoarthritis and joint pain; (7) bone density test
     2.  The patient does not have any FDA labeled contraindication(s) to therapy with the requested agent (i.e., closed epiphyses, no expanding intracranial lesion or tumor diagnosed, etc.)
     3.  Other hormonal deficiencies addressed with adequate replacement therapy
-
-## Formulary
-
-Endocrine Agents: Growth Hormone
-
-### Preferred
-
-| Preferred      |
-| :------------- |
-| Norditropin PA |
-| Omnitrope PA   |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Genotropin    |
-| Humatrope     |
-| Nutropin      |
-| Saizen        |
-| Serostim      |
-| Skytrofa      |
-| Zomacton      |
 
 ## Links
 
