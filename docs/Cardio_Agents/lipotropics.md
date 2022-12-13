@@ -2,6 +2,50 @@
 
 This is a subcategory of Cardiovascular Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred                    |
+| :--------------------------- |
+| Atorvastatin                 |
+| Cholestyramine, Light        |
+| Colestipol Tab               |
+| Ezetimibe                    |
+| Fenofibrate 48 and 145mg Tab |
+| Gemfibrozil                  |
+| Lovastatin                   |
+| Omega-3-Acid Ethyl Esters    |
+| Niacin OTC                   |
+| Niacin ER OTC                |
+| Praluent PA                  |
+| Pravastatin                  |
+| Prevalite                    |
+| Repatha PA                   |
+| Rosuvastatin                 |
+| Simvastatin                  |
+
+### Non-Preferred
+
+| Non-Preferred                                          |
+| :----------------------------------------------------- |
+| Altoprev                                               |
+| Amlodipine/Atorvastatin                                |
+| Colesevelam                                            |
+| Colestipol Granules                                    |
+| Ezetimibe/Simvastatin                                  |
+| Ezallor                                                |
+| Fenofibrate 30, 43, 50, 67, 90, 130, 134 and 150mg Cap |
+| Fenofibrate 40, 54, 120 and 160mg Tab                  |
+| Fenofibric Acid                                        |
+| Fluvastatin                                            |
+| Livalo                                                 |
+| Nexletol                                               |
+| Nexlizet                                               |
+| Niacin ER Tab                                          |
+| Vascepa                                                |
+| Zypitamag                                              |
+
 ## Length of Authorizations
 
 365 days all Lipotropics
@@ -82,52 +126,6 @@ All products in this class require clinical prior authorization:
 Baseline lab results are required, and initial approval will be for 84 days.
 
 Subsequent approvals will require additional levels drawn to assess response to treatment from baseline and/or attestation of clinical stabilization and will be for 365 days.
-
-## Formulary
-
-Cardiovascular Agents: Lipotropics
-
-### Preferred
-
-| Preferred                    |
-| :--------------------------- |
-| Atorvastatin                 |
-| Cholestyramine, Light        |
-| Colestipol Tab               |
-| Ezetimibe                    |
-| Fenofibrate 48 and 145mg Tab |
-| Gemfibrozil                  |
-| Lovastatin                   |
-| Omega-3-Acid Ethyl Esters    |
-| Niacin OTC                   |
-| Niacin ER OTC                |
-| Praluent PA                  |
-| Pravastatin                  |
-| Prevalite                    |
-| Repatha PA                   |
-| Rosuvastatin                 |
-| Simvastatin                  |
-
-### Non-Preferred
-
-| Non-Preferred                                          |
-| :----------------------------------------------------- |
-| Altoprev                                               |
-| Amlodipine/Atorvastatin                                |
-| Colesevelam                                            |
-| Colestipol Granules                                    |
-| Ezetimibe/Simvastatin                                  |
-| Ezallor                                                |
-| Fenofibrate 30, 43, 50, 67, 90, 130, 134 and 150mg Cap |
-| Fenofibrate 40, 54, 120 and 160mg Tab                  |
-| Fenofibric Acid                                        |
-| Fluvastatin                                            |
-| Livalo                                                 |
-| Nexletol                                               |
-| Nexlizet                                               |
-| Niacin ER Tab                                          |
-| Vascepa                                                |
-| Zypitamag                                              |
 
 ## Links
 
