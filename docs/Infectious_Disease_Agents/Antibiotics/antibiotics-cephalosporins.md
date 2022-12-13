@@ -2,6 +2,32 @@
 
 This is a subcategory of Infectious Disease Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred             |
+| :-------------------- |
+| Cefadroxil            |
+| Cephalexin 250, 500mg |
+| Cefaclor              |
+| Cefaclor ER           |
+| Cefaclor Susp AR      |
+| Cefprozil             |
+| Cefprozil Susp AR     |
+| Cefuroxime            |
+| Cefdinir              |
+
+### Non-Preferred
+
+| Non-Preferred          |
+| :--------------------- |
+| Cephalexin 750mg       |
+| Cefpodoxime            |
+| Cefixime Cap           |
+| Cefixime Susp AR       |
+| Suprax Chewable Tab AR |
+
 ## Length of Authorizations
 
 Date of service only; no refills
@@ -31,34 +57,6 @@ AR - Cefixime Suspension: a PA is required for patients over 12 years old
 AR - Cefprozil Suspension: a PA is required for patients over 12 years old
 
 AR - Suprax Chewable Tablet: a PA is required for patients over 12 years old
-
-## Formulary
-
-Infectious Disease Agents: Antibiotics – Cephalosporins
-
-### Preferred
-
-| Preferred             |
-| :-------------------- |
-| Cefadroxil            |
-| Cephalexin 250, 500mg |
-| Cefaclor              |
-| Cefaclor ER           |
-| Cefaclor Susp AR      |
-| Cefprozil             |
-| Cefprozil Susp AR     |
-| Cefuroxime            |
-| Cefdinir              |
-
-### Non-Preferred
-
-| Non-Preferred          |
-| :--------------------- |
-| Cephalexin 750mg       |
-| Cefpodoxime            |
-| Cefixime Cap           |
-| Cefixime Susp AR       |
-| Suprax Chewable Tab AR |
 
 ## Links
 
