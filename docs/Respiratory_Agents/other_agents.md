@@ -2,17 +2,7 @@
 
 This is a subcategory of Respiratory Agents.
 
-## Length of Authorizations
-
-365-day approval; Daliresp evaluated with each refill
-
-## Prior Authorization Criteria
-
-1. Daliresp must be used with a long-acting beta agonist or long-acting muscarinic antagonists
-
 ## Formulary
-
-Respiratory Agents: Other Agents
 
 ### Preferred
 
@@ -25,6 +15,14 @@ Respiratory Agents: Other Agents
 | Non-Preferred |
 | :------------ |
 | Daliresp      |
+
+## Length of Authorizations
+
+365-day approval; Daliresp evaluated with each refill
+
+## Prior Authorization Criteria
+
+1. Daliresp must be used with a long-acting beta agonist or long-acting muscarinic antagonists
 
 ## Links
 
