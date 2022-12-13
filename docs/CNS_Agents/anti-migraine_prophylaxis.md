@@ -2,6 +2,27 @@
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred                                                |
+| :------------------------------------------------------- |
+| Aimovig QL ST                                            |
+| Ajovy ST                                                 |
+| Cardiovascular Agents: Beta-Blockers                     |
+| CNS Agents: Anticonvulsants                              |
+| CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors |
+| CNS Agents: Tricyclic Antidepressants                    |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Emgality      |
+| Nurtec ODT    |
+| Qulipta       |
+
 ## Length of Authorizations
 
 Initial Authorization 180 days
@@ -48,29 +69,6 @@ Additional Criteria for Migraine Prophylaxis
 \*Aimovig Initial Dose is limited to 70mg once per 30 days; may request dose increase if 70mg fails to provide adequate relief over 60 consecutive days.
 
 \* Ajovy 675mg doses (quarterly administration) will not be authorized until patient has demonstrated efficacy of medication for at least 90 days.
-
-## Formulary
-
-Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis
-
-### Preferred
-
-| Preferred                                                |
-| :------------------------------------------------------- |
-| Aimovig QL ST                                            |
-| Ajovy ST                                                 |
-| Cardiovascular Agents: Beta-Blockers                     |
-| CNS Agents: Anticonvulsants                              |
-| CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors |
-| CNS Agents: Tricyclic Antidepressants                    |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Emgality      |
-| Nurtec ODT    |
-| Qulipta       |
 
 ## Links
 
