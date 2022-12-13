@@ -2,6 +2,25 @@
 
 This is a subcategory of Endocrine Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred                     |
+| :---------------------------- |
+| Danazol ST                    |
+| Depo-Subq Provera 104 ST      |
+| Lupaneta Pack ST              |
+| Lupron Depot ST 3.75, 11.25mg |
+| Orilissa ST                   |
+| Zoladex ST                    |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Synarel       |
+
 ## Length of Authorizations
 
 365 Days
@@ -24,29 +43,8 @@ For a drug requiring step therapy, there must have been a therapeutic failure of
 
 There must have been a therapeutic failure of at least a 30-day trial with both a NSAID and an oral contraceptive and a trial and a therapeutic failure of no less than 90 days on at least one step therapy required “preferred”
 
-## Formulary
-
-Endocrine Agents: Endometriosis
-
-### Preferred
-
-| Preferred                     |
-| :---------------------------- |
-| Danazol ST                    |
-| Depo-Subq Provera 104 ST      |
-| Lupaneta Pack ST              |
-| Lupron Depot ST 3.75, 11.25mg |
-| Orilissa ST                   |
-| Zoladex ST                    |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Synarel       |
-
 ## Links
 
-[Criteria]https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=52)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=52)
 
 [Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=21)
