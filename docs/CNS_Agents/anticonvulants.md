@@ -2,6 +2,65 @@
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred            |
+| :------------------- |
+| Banzel BvG           |
+| Carbamazepine        |
+| Clobazam             |
+| Clonazepam           |
+| Diacomit PA          |
+| Divalproex           |
+| Divalproex ER        |
+| Epidiolex PA         |
+| Eprontia AR          |
+| Ethosuximide         |
+| Fycompa ST           |
+| Gabapentin           |
+| Lamotrigine          |
+| Levetiracetam IR Tab |
+| Levetiracetam Sol    |
+| Oxcarbazepine        |
+| Phenobarbital        |
+| Phenytoin            |
+| Pregabalin           |
+| Primidone            |
+| Topiramate           |
+| Valproic Acid        |
+| Vimpat BvG ST        |
+| Zonisamide           |
+
+### Non-Preferred
+
+| Non-Preferred              |
+| :------------------------- |
+| Aptiom                     |
+| Briviact                   |
+| Celontin                   |
+| Clonazepam ODT             |
+| Elepsia XR                 |
+| Felbamate                  |
+| Fintepla                   |
+| Lacosamide                 |
+| Lamotrigine ER             |
+| Lamotrigine ODT            |
+| Levetiracetam ER Tab       |
+| Oxtellar XR                |
+| Peganone                   |
+| Rufinamide Tab, Soln       |
+| Spritam                    |
+| Sympazan                   |
+| Tiagabine                  |
+| Topiramate ER Sprinkle Cap |
+| Topiramate Sprinkle Cap    |
+| Trokendi XR                |
+| Vigabatrin                 |
+| Vigabatrin Powder AR       |
+| Xcopri                     |
+
 ## Length of Authorizations
 
 365 Days
@@ -76,67 +135,6 @@ Diacomit excluded from Grandfathering. Re-authorization requires documented redu
 AR - Vigabatrin Powder: a PA is required for patients over 2 years old
 
 AR – Eprontia Solution: a PA is required for patients 12 years and older
-
-## Formulary
-
-Central Nervous System (CNS) Agents: Anticonvulsants
-
-### Preferred
-
-| Preferred            |
-| :------------------- |
-| Banzel BvG           |
-| Carbamazepine        |
-| Clobazam             |
-| Clonazepam           |
-| Diacomit PA          |
-| Divalproex           |
-| Divalproex ER        |
-| Epidiolex PA         |
-| Eprontia AR          |
-| Ethosuximide         |
-| Fycompa ST           |
-| Gabapentin           |
-| Lamotrigine          |
-| Levetiracetam IR Tab |
-| Levetiracetam Sol    |
-| Oxcarbazepine        |
-| Phenobarbital        |
-| Phenytoin            |
-| Pregabalin           |
-| Primidone            |
-| Topiramate           |
-| Valproic Acid        |
-| Vimpat BvG ST        |
-| Zonisamide           |
-
-### Non-Preferred
-
-| Non-Preferred              |
-| :------------------------- |
-| Aptiom                     |
-| Briviact                   |
-| Celontin                   |
-| Clonazepam ODT             |
-| Elepsia XR                 |
-| Felbamate                  |
-| Fintepla                   |
-| Lacosamide                 |
-| Lamotrigine ER             |
-| Lamotrigine ODT            |
-| Levetiracetam ER Tab       |
-| Oxtellar XR                |
-| Peganone                   |
-| Rufinamide Tab, Soln       |
-| Spritam                    |
-| Sympazan                   |
-| Tiagabine                  |
-| Topiramate ER Sprinkle Cap |
-| Topiramate Sprinkle Cap    |
-| Trokendi XR                |
-| Vigabatrin                 |
-| Vigabatrin Powder AR       |
-| Xcopri                     |
 
 ## Links
 
