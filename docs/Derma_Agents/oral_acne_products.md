@@ -2,6 +2,26 @@
 
 This is a subcategory of Dermatological Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred       |
+| :-------------- |
+| Accutane PA     |
+| Amnesteem PA    |
+| Claravis PA     |
+| Isotretinoin PA |
+| Myorisan PA     |
+| Zenatane PA     |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Absorica      |
+| Absorica LD   |
+
 ## Length of Authorizations
 
 150 days
@@ -25,28 +45,6 @@ Additonal Prior Authorization Criteria
 - Must be absent oral tretinoin in the past 56 days
 
 Authorization provided for no more than 150 days at a time then must take 56 days off
-
-## Formulary
-
-Dermatological: Oral Acne Products
-
-### Preferred
-
-| Preferred       |
-| :-------------- |
-| Accutane PA     |
-| Amnesteem PA    |
-| Claravis PA     |
-| Isotretinoin PA |
-| Myorisan PA     |
-| Zenatane PA     |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Absorica      |
-| Absorica LD   |
 
 ## Links
 
