@@ -4,6 +4,61 @@ This is a subcategory of Analgesic Agents.
 
 **Ohio law requires prescribers to request and review an OARRS report before initially prescribing or personally furnishing any controlled substance, such as an opioid analgesic or a benzodiazepine, and gabapentin**
 
+## Formulary
+
+### Preferred
+
+| Preferred                    |
+| :--------------------------- |
+| Acetaminophen/Codeine QL     |
+| Butalb/APAP/Caff w/ Codeine  |
+| Butalb/ASA/Caff w/ Codeine   |
+| Butorphanol QL               |
+| Butrans BvG PA QL            |
+| Codeine QL                   |
+| Hydrocodone/Acetaminophen QL |
+| Hydromorphone IR QL          |
+| Morphine ER Tab PA QL        |
+| Morphine Sol QL              |
+| Morphine Tab QL              |
+| Oxycodone Cap QL             |
+| Oxycodone Sol QL             |
+| Oxycodone Tab QL             |
+| Oxycodone/Acetaminophen QL   |
+| Tramadol QL                  |
+| Tramadol/APAP                |
+
+### Non-Preferred
+
+| Non-Preferred                                         |
+| :---------------------------------------------------- |
+| APAP/Caffeine/Dihydrocodone                           |
+| Belbuca                                               |
+| Benzhydrocodone/APAP                                  |
+| Buprenorphine Patch                                   |
+| Butalb/APAP/Caff w/ Codeine                           |
+| Dsuvia                                                |
+| Fentanyl                                              |
+| Hydrocodone Bitartrate ER 12HR CapQL                  |
+| Hydrocodone Bitartrate ER 24HR TabQL                  |
+| Hydrocodone/Acetaminophen 5-300, 7.5-300, 10-300mg QL |
+| Hydrocodone/Ibuprofen                                 |
+| Hydromorphone ER QL                                   |
+| Levorphanol                                           |
+| Meperidine                                            |
+| Methadone QL                                          |
+| Morphine ER 24HR Cap QL                               |
+| Nucynta ER                                            |
+| Oxaydo                                                |
+| Oxycodone ER QL                                       |
+| Oxycodone/Ibuprofen QL                                |
+| Oxymorphone, ER QL                                    |
+| Pentazocine/Naloxone                                  |
+| Seglentis QL                                          |
+| Tramadol ER QL                                        |
+| Tramadol Sol QL                                       |
+| Xtampza ER                                            |
+
 ## Length of Authorizations
 
 For the course of therapy, up to 180 days
@@ -74,63 +129,6 @@ Additional Transmucosal Fentanyl Criteria
 **QL** – Transmucosal Fentanyl: 4 doses per day
 
 Effective July 1, 2018, patients with short acting opioid therapy will be limited to 30 MED per prescription and a maximum of 7 days per prescription. Prior authorization will be required to exceed these limits
-
-## Formulary
-
-Analgesic Agents: Opioids
-
-### Preferred
-
-| Preferred                    |
-| :--------------------------- |
-| Acetaminophen/Codeine QL     |
-| Butalb/APAP/Caff w/ Codeine  |
-| Butalb/ASA/Caff w/ Codeine   |
-| Butorphanol QL               |
-| Butrans BvG PA QL            |
-| Codeine QL                   |
-| Hydrocodone/Acetaminophen QL |
-| Hydromorphone IR QL          |
-| Morphine ER Tab PA QL        |
-| Morphine Sol QL              |
-| Morphine Tab QL              |
-| Oxycodone Cap QL             |
-| Oxycodone Sol QL             |
-| Oxycodone Tab QL             |
-| Oxycodone/Acetaminophen QL   |
-| Tramadol QL                  |
-| Tramadol/APAP                |
-
-### Non-Preferred
-
-| Non-Preferred                                         |
-| :---------------------------------------------------- |
-| APAP/Caffeine/Dihydrocodone                           |
-| Belbuca                                               |
-| Benzhydrocodone/APAP                                  |
-| Buprenorphine Patch                                   |
-| Butalb/APAP/Caff w/ Codeine                           |
-| Dsuvia                                                |
-| Fentanyl                                              |
-| Hydrocodone Bitartrate ER 12HR CapQL                  |
-| Hydrocodone Bitartrate ER 24HR TabQL                  |
-| Hydrocodone/Acetaminophen 5-300, 7.5-300, 10-300mg QL |
-| Hydrocodone/Ibuprofen                                 |
-| Hydromorphone ER QL                                   |
-| Levorphanol                                           |
-| Meperidine                                            |
-| Methadone QL                                          |
-| Morphine ER 24HR Cap QL                               |
-| Nucynta ER                                            |
-| Oxaydo                                                |
-| Oxycodone ER QL                                       |
-| Oxycodone/Ibuprofen QL                                |
-| Oxymorphone, ER QL                                    |
-| Pentazocine/Naloxone                                  |
-| Seglentis QL                                          |
-| Tramadol ER QL                                        |
-| Tramadol Sol QL                                       |
-| Xtampza ER                                            |
 
 ## Links
 
