@@ -2,6 +2,28 @@
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred                     |
+| :---------------------------- |
+| Amphetamine/Dextroamphetamine |
+| Armodafinil                   |
+| Dextroamphetamine ER          |
+| Methylphenidate ER            |
+| Methylphenidate Tab           |
+| Modafinil                     |
+
+### Non-Preferred
+
+| Preferred |
+| :-------- |
+| Sunosi    |
+| Wakix     |
+| Xyrem     |
+| Xywav     |
+
 ## Length of Authorizations
 
 365 Days
@@ -45,30 +67,6 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 ### Reauthorization
 
 Attestation that the patient’s condition has improved while taking the requested medication
-
-## Formulary
-
-Central Nervous System (CNS) Agents: Narcolepsy
-
-### Preferred
-
-| Preferred                     |
-| :---------------------------- |
-| Amphetamine/Dextroamphetamine |
-| Armodafinil                   |
-| Dextroamphetamine ER          |
-| Methylphenidate ER            |
-| Methylphenidate Tab           |
-| Modafinil                     |
-
-### Non-Preferred
-
-| Preferred |
-| :-------- |
-| Sunosi    |
-| Wakix     |
-| Xyrem     |
-| Xywav     |
 
 ## Links
 
