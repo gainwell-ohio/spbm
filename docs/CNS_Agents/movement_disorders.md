@@ -2,6 +2,22 @@
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred        |
+| :--------------- |
+| Austedo PA       |
+| Ingrezza PA      |
+| Tetrabenazine PA |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+|               |
+
 ## Length of Authorizations
 
 365 Days
@@ -35,24 +51,6 @@ Additional Criteria for Austedo for the Treatment of Huntington's Disease
 - The patient must have a failure to respond to maximally tolerated dose of tetrabenazine
 
 Austedo quantity limit of 4 tablets per day
-
-## Formulary
-
-Central Nervous System (CNS) Agents: Movement Disorders
-
-### Preferred
-
-| Preferred        |
-| :--------------- |
-| Austedo PA       |
-| Ingrezza PA      |
-| Tetrabenazine PA |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-|               |
 
 ## Links
 
