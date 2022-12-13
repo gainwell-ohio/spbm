@@ -2,6 +2,20 @@
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred  |
+| :--------- |
+| Pregabalin |
+
+### Non-Preferred
+
+| Non-Preferred | 
+| :------------ | 
+| Savella       | 
+
 ## Length of Authorizations
 
 365 Days
@@ -23,22 +37,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
     8.  Tricyclic antidepressants
 
 \*\* The P&T Committee does not recommend the use of opioids for treatment of fibromyalgia
-
-## Formulary
-
-Central Nervous System (CNS) Agents: Fibromyalgia Agents
-
-### Preferred
-
-| Preferred  |
-| :--------- |
-| Pregabalin |
-
-### Non-Preferred
-
-| Non-Preferred | 
-| :------------ | 
-| Savella       | 
 
 ## Links
 
