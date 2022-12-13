@@ -2,6 +2,25 @@
 
 This is a subcategory of Topical Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred                     |
+| :---------------------------- |
+| Natroba BvG                   |
+| Permethrin                    |
+| Piperonyl Butoxide/Pyrethrins |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Eurax         |
+| Malathion     |
+| Sklice        |
+| Spinosad      |
+
 ## Length of Authorizations
 
 14 Days
@@ -32,27 +51,6 @@ The requested medication may be approved if the following is true:
 -   Permethrin cream and lotion are indicated for patients 2 months of age and older
 -   Spinosad is indicated for patients 6 months of age and older
 -   Package labeling does not list age for permethrin or piperonyl butoxode-pyrethrins
-
-## Formulary
-
-Topical Agents: Antiparasitics
-
-### Preferred
-
-| Preferred                     |
-| :---------------------------- |
-| Natroba BvG                   |
-| Permethrin                    |
-| Piperonyl Butoxide/Pyrethrins |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Eurax         |
-| Malathion     |
-| Sklice        |
-| Spinosad      |
 
 ## Links
 
