@@ -2,6 +2,23 @@
 
 This is a subcategory of Respiratory Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred  |
+| :--------- |
+| Fasenra PA |
+| Nucala PA  |
+| Xolair PA  |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Dupixent      |
+| Tezspire      |
+
 ## Length of Authorizations
 
 Initial: 180 days; Subsequent: 365 days
@@ -27,26 +44,6 @@ Must be prescribed in accordance with FDA approved labeling
 -   Must have had an inadequate clinical response of at least **90 days** with at least **one preferred** drug
     -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     -   For non-preferred brand names that have preferred generics, requests must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
-
-## Formulary
-
-Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE
-
-### Preferred
-
-| Preferred  |
-| :--------- |
-| Fasenra PA |
-| Nucala PA  |
-| Xolair PA  |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Dupixent      |
-| Tezspire      |
-
 
 ## Links
 
