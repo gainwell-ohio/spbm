@@ -2,6 +2,24 @@
 
 This is a subcategory of Infectious Disease Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred        |
+| :--------------- |
+| Arikayce PA QL   |
+| Tobramycin AR PA |
+
+### Non-Preferred
+
+| Non-Preferred    |
+| :--------------- |
+| Bethkis AR       |
+| Cayston AR       |
+| Kitabis Pak AR   |
+| Tobi Podhaler AR |
+
 ## Length of Authorizations
 
 28 Days
@@ -42,26 +60,6 @@ Subsequent authorizations 365 days
 2.  Criteria for subsequent authorizations
     -   Evidence of culture conversion (negative sputum culture)
 3.  Dose will be limited to 1 dose per day
-
-## Formulary
-
-Infectious Disease Agents: Antibiotics – Inhaled
-
-### Preferred
-
-| Preferred        |
-| :--------------- |
-| Arikayce PA QL   |
-| Tobramycin AR PA |
-
-### Non-Preferred
-
-| Non-Preferred    |
-| :--------------- |
-| Bethkis AR       |
-| Cayston AR       |
-| Kitabis Pak AR   |
-| Tobi Podhaler AR |
 
 ## Links
 
