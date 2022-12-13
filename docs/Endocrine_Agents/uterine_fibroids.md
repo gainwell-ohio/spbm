@@ -2,6 +2,21 @@
 
 This is a subcategory of Endocrine Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred                     |
+| :---------------------------- |
+| Lupron Depot PA 3.75, 11.25mg |
+| Oriahnn PA                    |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Myfembree     |
+
 ## Length of Authorizations
 
 180 Days
@@ -17,23 +32,6 @@ Patients who have been treated with Lupron Depot for 180 days or more are not el
     2.  Contraindication to or drug interaction with medications not requiring prior approval
     3.  History of unacceptable/toxic side effects to medications not requiring prior approval
 2.  The requested medication may be approved if the patient has a diagnosis of uterine leiomyomas (fibroids) and has failed a 90 day or more trial with an oral contraceptive
-
-## Formulary
-
-Endocrine Agents: Uterine Fibroids
-
-### Preferred
-
-| Preferred                     |
-| :---------------------------- |
-| Lupron Depot PA 3.75, 11.25mg |
-| Oriahnn PA                    |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Myfembree     |
 
 ## Links
 
