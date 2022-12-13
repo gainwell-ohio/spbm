@@ -2,6 +2,26 @@
 
 This is a subcategory of Endocrine Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred         |
+| :---------------- |
+| Alendronate Tab   |
+| Calcitonin-Salmon |
+| Forteo            |
+| Ibandronate       |
+
+### Non-Preferred
+
+| Non-Preferred    |
+| :--------------- |
+| Alendronate Susp |
+| Fosamax Plus D   |
+| Risedronate      |
+| Tymlos           |
+
 ## Length of Authorizations
 
 365 Days
@@ -30,28 +50,6 @@ Abaloparatide is indicated in postmenopausal women with osteoporosis at high ris
 2.  Diagnosis of osteoporosis
 3.  Trial of bisphosphonates for greater than 365 days
 4.  Total lifetime therapy of parathyroid hormone analogs does not exceed 730 days (2 years)
-
-## Formulary
-
-Endocrine Agents: Osteoporosis – Bone Ossification Enhancers
-
-### Preferred
-
-| Preferred         |
-| :---------------- |
-| Alendronate Tab   |
-| Calcitonin-Salmon |
-| Forteo            |
-| Ibandronate       |
-
-### Non-Preferred
-
-| Non-Preferred    |
-| :--------------- |
-| Alendronate Susp |
-| Fosamax Plus D   |
-| Risedronate      |
-| Tymlos           |
 
 ## Links
 
