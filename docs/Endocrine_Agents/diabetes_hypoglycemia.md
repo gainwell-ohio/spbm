@@ -2,6 +2,25 @@
 
 This is a subcategory of Endocrine Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred                             |
+| :------------------------------------ |
+| Baqsimi QL                            |
+| Glucagen Hypokit                      |
+| Glucagon Emerg Kit [Labeler 00002] QL |
+| Gvoke Hypopen QL                      |
+| Gvoke PFS QL                          |
+| Zegalogue                             |
+
+### Non-Preferred
+
+| Non-Preferred                                 |
+| :-------------------------------------------- |
+| Glucagon Emerg Kit [Labeler 00548 & 63323] QL |
+
 ## Length of Authorizations
 
 365 Days
@@ -22,27 +41,6 @@ This is a subcategory of Endocrine Agents.
 A non-preferred medication will be approved after a trial with a preferred medication not requiring prior approval or the inability of the member and/or caregiver to administer a preferred glucagon product in a timely fashion.
 
 Quantity limit of 2 per 34 days
-
-## Formulary
-
-Endocrine Agents: Diabetes – Hypoglycemia Treatments
-
-### Preferred
-
-| Preferred                             |
-| :------------------------------------ |
-| Baqsimi QL                            |
-| Glucagen Hypokit                      |
-| Glucagon Emerg Kit [Labeler 00002] QL |
-| Gvoke Hypopen QL                      |
-| Gvoke PFS QL                          |
-| Zegalogue                             |
-
-### Non-Preferred
-
-| Non-Preferred                                 |
-| :-------------------------------------------- |
-| Glucagon Emerg Kit [Labeler 00548 & 63323] QL |
 
 ## Links
 
