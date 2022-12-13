@@ -2,6 +2,27 @@
 
 This is a subcategory of Infectious Disease Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred                 |
+| :------------------------ |
+| Mavyret PA                |
+| Pegasys PA                |
+| Ribavirin PA              |
+| Sofosbuvir/Velpatasvir PA |
+
+### Non-Preferred
+
+| Non-Preferred                       |
+| :---------------------------------- |
+| Harvoni 33.75-150, 45-200, 90-400mg |
+| Ledipasvir/Sofosbuvir               |
+| Sovaldi                             |
+| Vosevi                              |
+| Zepatier                            |
+
 ## Length of Authorizations
 
 365 days except simeprevir and direct acting antivirals (DAAs), see below
@@ -31,29 +52,6 @@ Additional Information to Aid in the Final Decision
 
 -   Pegylated Interferons have a Black Box Warning which indicates that a patient should be monitored closely with periodic clinical and laboratory evaluations.
 -   Ribavirins are contraindicated in women who are pregnant and in their male partner(s). At least two reliable forms of contraception must be used during therapy.
-
-## Formulary
-
-Infectious Disease Agents: Antivirals – Hepatitis C Agents
-
-### Preferred
-
-| Preferred                 |
-| :------------------------ |
-| Mavyret PA                |
-| Pegasys PA                |
-| Ribavirin PA              |
-| Sofosbuvir/Velpatasvir PA |
-
-### Non-Preferred
-
-| Non-Preferred                       |
-| :---------------------------------- |
-| Harvoni 33.75-150, 45-200, 90-400mg |
-| Ledipasvir/Sofosbuvir               |
-| Sovaldi                             |
-| Vosevi                              |
-| Zepatier                            |
 
 ## Links
 
