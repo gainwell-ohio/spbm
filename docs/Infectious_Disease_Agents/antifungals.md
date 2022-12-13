@@ -1,8 +1,8 @@
 # Antifungals
 
-## Formulary
+This is a subcategory of Infectious Disease Agents.
 
-Infectious Disease Agents: Antifungals
+## Formulary
 
 ### Preferred
 
