@@ -2,6 +2,25 @@
 
 This is a subcategory of Respiratory Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred   |
+| :---------- |
+| Haegarda PA |
+| Ruconest PA |
+| Takhzyro PA |
+
+### Non-Preferred
+
+| Non-Preferred     |
+| :---------------- |
+| Berinert          |
+| Cinryze           |
+| Icatibant Acetate |
+| Kalbitor          |
+
 ## Length of Authorizations
 
 365 Days
@@ -27,27 +46,6 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 The requested medication may be approved if the following is true:
 
 -   There has been one episode of angioedema during use of a preferred medication
-
-## Formulary
-
-Respiratory Agents: Hereditary Angioedema
-
-### Preferred
-
-| Preferred   |
-| :---------- |
-| Haegarda PA |
-| Ruconest PA |
-| Takhzyro PA |
-
-### Non-Preferred
-
-| Non-Preferred     |
-| :---------------- |
-| Berinert          |
-| Cinryze           |
-| Icatibant Acetate |
-| Kalbitor          |
 
 ## Links
 
