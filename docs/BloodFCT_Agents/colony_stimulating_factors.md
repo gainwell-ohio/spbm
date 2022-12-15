@@ -2,6 +2,29 @@
 
 This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred    |
+| :----------- |
+| Neupogen PA  |
+| Releuko PA   |
+| Ziextenzo PA |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Fulphila      |
+| Granix        |
+| Leukine       |
+| Neulasta      |
+| Nivestym      |
+| Nyvepria      |
+| Udenyca       |
+| Zarxio        |
+
 ## Length of Authorizations
 
 Approval based upon diagnosis below:
@@ -31,31 +54,6 @@ Must be prescribed in accordance with FDA approved labeling
 ### Subsequent Authorization
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
-
-## Formulary
-
-Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors
-
-### Preferred
-
-| Preferred    |
-| :----------- |
-| Neupogen PA  |
-| Releuko PA   |
-| Ziextenzo PA |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Fulphila      |
-| Granix        |
-| Leukine       |
-| Neulasta      |
-| Nivestym      |
-| Nyvepria      |
-| Udenyca       |
-| Zarxio        |
 
 ## Links
 

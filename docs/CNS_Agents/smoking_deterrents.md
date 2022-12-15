@@ -2,11 +2,7 @@
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
-All products are covered without a PA
-
 ## Formulary
-
-Central Nervous System (CNS) Agents: Smoking Deterrents
 
 ### Preferred
 
@@ -22,6 +18,8 @@ Central Nervous System (CNS) Agents: Smoking Deterrents
 | Non-Preferred |
 | :------------ |
 |               |
+
+All products are covered without a PA
 
 ## Links
 

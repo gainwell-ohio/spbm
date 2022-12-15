@@ -2,6 +2,34 @@
 
 This is a subcategory of Gastrointestinal Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred           |
+| :------------------ |
+| Lansoprazole Cap    |
+| Nexium Granules BvG |
+| Omeprazole Cap      |
+| Pantoprazole Tab    |
+| Protonix Pak AR BvG |
+
+### Non-Preferred
+
+| Non-Preferred                 |
+| :---------------------------- |
+| Aciphex                       |
+| Dexilant BvG                  |
+| Esomeprazole                  |
+| Esomeprazole Granules         |
+| Lansoprazole ODT              |
+| Omeprazole Tab                |
+| Omeprazole/Sodium Bicarbonate |
+| Pantoprazole Packet           |
+| Prilosec Susp                 |
+| Protonix Susp AR              |
+| Rabeprazole                   |
+
 ## Length of Authorizations
 
 180 days, except as listed under clinical criteria
@@ -35,36 +63,6 @@ Clinical Criteria for PPI Doses Greater than Once Daily
 AR - Protonix Pak: a PA is required for patients over 6 years old
 
 AR - Protonix Suspension: a PA is required for patients over 6 years old
-
-## Formulary
-
-Gastrointestinal Agents: Proton Pump Inhibitors
-
-### Preferred
-
-| Preferred           |
-| :------------------ |
-| Lansoprazole Cap    |
-| Nexium Granules BvG |
-| Omeprazole Cap      |
-| Pantoprazole Tab    |
-| Protonix Pak AR BvG |
-
-### Non-Preferred
-
-| Non-Preferred                 |
-| :---------------------------- |
-| Aciphex                       |
-| Dexilant BvG                  |
-| Esomeprazole                  |
-| Esomeprazole Granules         |
-| Lansoprazole ODT              |
-| Omeprazole Tab                |
-| Omeprazole/Sodium Bicarbonate |
-| Pantoprazole Packet           |
-| Prilosec Susp                 |
-| Protonix Susp AR              |
-| Rabeprazole                   |
 
 ## Links
 

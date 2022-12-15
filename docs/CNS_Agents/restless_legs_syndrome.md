@@ -2,6 +2,22 @@
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred   |
+| :---------- |
+| Pramipexole |
+| Ropinirole  |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Horizant      |
+| Neupro        |
+
 ## Length of Authorizations
 
 365 Days
@@ -17,24 +33,6 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 ## Additional Criteria
 
 The requested medication may be approved if there has been a therapeutic failure to no less than a **30-day** trial of at least **one** medication not requiring prior approval
-
-## Formulary
-
-Central Nervous System (CNS) Agents: Restless Legs Syndrome
-
-### Preferred
-
-| Preferred   |
-| :---------- |
-| Pramipexole |
-| Ropinirole  |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Horizant      |
-| Neupro        |
 
 ## Links
 

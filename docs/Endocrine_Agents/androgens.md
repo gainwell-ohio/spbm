@@ -2,6 +2,31 @@
 
 This is a subcategory of Endocrine Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred                   |
+| :-------------------------- |
+| Androderm PA                |
+| Testosterone Gel 1% PA      |
+| Testosterone Gel 1% Pump PA |
+
+### Non-Preferred
+
+| Non-Preferred             |
+| :------------------------ |
+| Jatenzo                   |
+| Methyltestosterone        |
+| Natesto                   |
+| Testopel                  |
+| Testosterone Cypionate    |
+| Testosterone Gel 1.62%    |
+| Testosterone Gel 2%       |
+| Testosterone Sol 30mg/ACT |
+| Tlando                    |
+| Xyosted                   |
+
 ## Length of Authorizations
 
 365 Days
@@ -27,33 +52,6 @@ Must be prescribed in accordance with FDA approved labeling
 ### Subsequent Authorization
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring (i.e., testosterone and hematocrit)
-
-## Formulary
-
-Endocrine Agents: Androgens
-
-### Preferred
-
-| Preferred                   |
-| :-------------------------- |
-| Androderm PA                |
-| Testosterone Gel 1% PA      |
-| Testosterone Gel 1% Pump PA |
-
-### Non-Preferred
-
-| Non-Preferred             |
-| :------------------------ |
-| Jatenzo                   |
-| Methyltestosterone        |
-| Natesto                   |
-| Testopel                  |
-| Testosterone Cypionate    |
-| Testosterone Gel 1.62%    |
-| Testosterone Gel 2%       |
-| Testosterone Sol 30mg/ACT |
-| Tlando                    |
-| Xyosted                   |
 
 ## Links
 

@@ -2,6 +2,23 @@
 
 This is a subcategory of Gastrointestinal Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred |
+| :-------- |
+| Creon     |
+| Zenpep    |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Pancreaze     |
+| Pertzye       |
+| Viokace       |
+
 ## Length of Authorizations
 
 365 Days
@@ -19,25 +36,6 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 The requested medication may be approved if the following is true:
 
 -   If there has been a therapeutic failure to no less than a **14-day** trial of at least **one medication** not requiring prior approval
-
-## Formulary
-
-Gastrointestinal Agents: Pancreatic Enzymes
-
-### Preferred
-
-| Preferred |
-| :-------- |
-| Creon     |
-| Zenpep    |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Pancreaze     |
-| Pertzye       |
-| Viokace       |
 
 ## Links
 

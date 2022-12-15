@@ -2,6 +2,23 @@
 
 This is a subcategory of Gastrointestinal Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred              |
+| :--------------------- |
+| Diphenoxylate/Atropine |
+| Loperamide             |
+| Xifaxan ST             |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Alosetron     |
+| Viberzi       |
+
 ## Length of Authorizations
 
 365 Days
@@ -23,25 +40,6 @@ all agents listed
 
 1.  For a drug requiring step therapy, there must have been inadequate clinical response to a preferred alternative
 2.  For a non-preferred drug, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **14-days** of at least **one** step therapy product
-
-## Formulary
-
-Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea
-
-### Preferred
-
-| Preferred              |
-| :--------------------- |
-| Diphenoxylate/Atropine |
-| Loperamide             |
-| Xifaxan ST             |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Alosetron     |
-| Viberzi       |
 
 ## Links
 

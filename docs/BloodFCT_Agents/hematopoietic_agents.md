@@ -2,6 +2,23 @@
 
 This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred   |
+| :---------- |
+| Epogen PA   |
+| Mircera PA  |
+| Retacrit PA |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Aranesp       |
+| Procrit       |
+
 ## Length of Authorizations
 
 Dependent upon diagnosis
@@ -34,25 +51,6 @@ Dependent upon diagnosis
 -   Contraindication to all medications not requiring prior approval
 -   History of unacceptable/toxic side effects to medications not requiring prior approval
 1.  Has the patient failed a therapeutic trial of **14 days** with one preferred medication?
-
-## Formulary
-
-Blood Agents: Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents
-
-### Preferred
-
-| Preferred   |
-| :---------- |
-| Epogen PA   |
-| Mircera PA  |
-| Retacrit PA |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Aranesp       |
-| Procrit       |
 
 ## Links
 

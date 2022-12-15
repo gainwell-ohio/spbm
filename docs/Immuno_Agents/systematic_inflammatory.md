@@ -2,6 +2,41 @@
 
 This is a subcategory of Immunomodulator Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred     |
+| :------------ |
+| Enbrel PA     |
+| Humira PA     |
+| Kineret PA    |
+| Otezla PA     |
+| Taltz PA ST   |
+| Xeljanz IR PA |
+
+### Non-Preferred
+
+| Non-Preferred   |
+| :-------------- |
+| Actemra         |
+| Adbry           |
+| Cibinqo         |
+| Cimzia          |
+| Cosentyx        |
+| Dupixent        |
+| Ilumya          |
+| Kevzara         |
+| Olumiant        |
+| Orencia         |
+| Rinvoq          |
+| Siliq           |
+| Simponi         |
+| Skyrizi         |
+| Stelara         |
+| Tremfya         |
+| Xeljanz Sol, XR |
+
 ## Length of Authorizations
 
 Initial: 90 days; Subsequent: 365 days
@@ -55,41 +90,6 @@ Additional Ulcerative Colitis Criteria
 ### Subsequent Authorization
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
-
-## Formulary
-
-### Preferred
-
-| Preferred     |
-| :------------ |
-| Enbrel PA     |
-| Humira PA     |
-| Kineret PA    |
-| Otezla PA     |
-| Taltz PA ST   |
-| Xeljanz IR PA |
-
-### Non-Preferred
-
-| Non-Preferred   |
-| :-------------- |
-| Actemra         |
-| Adbry           |
-| Cibinqo         |
-| Cimzia          |
-| Cosentyx        |
-| Dupixent        |
-| Ilumya          |
-| Kevzara         |
-| Olumiant        |
-| Orencia         |
-| Rinvoq          |
-| Siliq           |
-| Simponi         |
-| Skyrizi         |
-| Stelara         |
-| Tremfya         |
-| Xeljanz Sol, XR |
 
 ## Links
 

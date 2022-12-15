@@ -2,6 +2,26 @@
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred              |
+| :--------------------- |
+| Buprenorphine/Naloxone |
+| Clonidine              |
+| Sublocade QL           |
+| Suboxone               |
+| Vivitrol               |
+| Zubsolv                |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Buprenorphine |
+| Lucemyra      |
+
 ## Length of Authorizations
 
 No PA required for short-acting, buprenorphine containing, oral agents
@@ -57,28 +77,6 @@ Sublocade Drug Utilization Review Criteria
 Additional Sublocade Information
 
 Sublocade may be billed by the pharmacy if it is not dispensed directly to the patient. If not administered at the pharmacy, the drug must be released only to the administering provider or administering provider's staff, following all applicable regulations.
-
-## Formulary
-
-Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction
-
-### Preferred
-
-| Preferred              |
-| :--------------------- |
-| Buprenorphine/Naloxone |
-| Clonidine              |
-| Sublocade QL           |
-| Suboxone               |
-| Vivitrol               |
-| Zubsolv                |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Buprenorphine |
-| Lucemyra      |
 
 ## Links
 

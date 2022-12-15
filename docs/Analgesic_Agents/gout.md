@@ -2,6 +2,25 @@
 
 This is a subcategory of Analgesic Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred                |
+| :----------------------- |
+| Allopurinol              |
+| Colchicine PA QL         |
+| Probenecid               |
+| Probenecid/Colchicine PA |
+
+### Non-Preferred
+
+| Non-Preferred    |
+| :--------------- |
+| Colchicine QL    |
+| Gloperba Susp QL |
+| Uloric BvG       |
+
 ## Length of Authorizations
 
 365 Days
@@ -49,27 +68,6 @@ The requested medication may be approved if the following is true:
 \* Colchicine quantity limit 6/claim for acute gout, 60/30 days for chronic gout after trial on xanthine oxidase inhibitor, 120/30 days for FMF
 
 \* Gloperba quantity limit is 1.2 mg per day
-
-## Formulary
-
-Analgesic Agents: Gout
-
-### Preferred
-
-| Preferred                |
-| :----------------------- |
-| Allopurinol              |
-| Colchicine PA QL         |
-| Probenecid               |
-| Probenecid/Colchicine PA |
-
-### Non-Preferred
-
-| Non-Preferred    |
-| :--------------- |
-| Colchicine QL    |
-| Gloperba Susp QL |
-| Uloric BvG       |
 
 ## Links
 

@@ -2,11 +2,7 @@
 
 This is a subcategory of Endocrine Agents.
 
-All products are covered without a PA
-
 ## Formulary
-
-Endocrine Agents: Progestin Agents
 
 ### Preferred
 
@@ -25,6 +21,8 @@ Endocrine Agents: Progestin Agents
 | Non-Preferred |
 | :------------ |
 |               |
+
+All products are covered without a PA
 
 ## Links
 

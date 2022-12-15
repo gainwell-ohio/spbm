@@ -2,6 +2,54 @@
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred            |
+| :------------------- |
+| Abilify Maintena     |
+| Aripiprazole         |
+| Aristada             |
+| Aristada Initio      |
+| Clozapine            |
+| Fanapt ST            |
+| Geodon               |
+| Invega BvG           |
+| Invega Hafyera ER PA |
+| Invega Sustenna      |
+| Invega Trinza        |
+| Latuda ST            |
+| Olanzapine           |
+| Perseris             |
+| Quetiapine           |
+| Quetiapine ER        |
+| Risperdal            |
+| Risperdal Consta     |
+| Risperidone          |
+| Saphris BvG ST       |
+| Ziprasidone          |
+
+### Non-Preferred
+
+| Non-Preferred         |
+| :-------------------- |
+| Abilify Mycite        |
+| Aripiprazole Sol      |
+| Asenapine             |
+| Caplyta               |
+| Clozapine ODT Rapdis  |
+| Fluoxetine/Olanzapine |
+| Lybalvi               |
+| Nuplazid              |
+| Olanzapine ODT        |
+| Paliperidone          |
+| Rexulti               |
+| Secuado               |
+| Versacloz             |
+| Vraylar               |
+| Zyprexa Relprevv      |
+
 ## Length of Authorizations
 
 365 Days
@@ -85,56 +133,6 @@ Pimavanserin (Nuplazid) may be approved if all the following are met:
 3.  The patient’s other medications for Parkinson’s Disease have been reduce or adjusted and psychotic symptoms remain OR patient is unable to tolerate adjustment of these other medications
 4.  There has been inadequate clinical response to a trial of no less than **30 days** of either quetiapine or clozapine OR these therapies cannot be utilized
 5.  An exemption to the criteria will be granted for prescribing doctors with a neurology specialty to a patient with a history of an anti-Parkinson’s agent
-
-## Formulary
-
-Central Nervous System (CNS) Agents: Atypical Antipsychotics
-
-### Preferred
-
-| Preferred            |
-| :------------------- |
-| Abilify Maintena     |
-| Aripiprazole         |
-| Aristada             |
-| Aristada Initio      |
-| Clozapine            |
-| Fanapt ST            |
-| Geodon               |
-| Invega BvG           |
-| Invega Hafyera ER PA |
-| Invega Sustenna      |
-| Invega Trinza        |
-| Latuda ST            |
-| Olanzapine           |
-| Perseris             |
-| Quetiapine           |
-| Quetiapine ER        |
-| Risperdal            |
-| Risperdal Consta     |
-| Risperidone          |
-| Saphris BvG ST       |
-| Ziprasidone          |
-
-### Non-Preferred
-
-| Non-Preferred         |
-| :-------------------- |
-| Abilify Mycite        |
-| Aripiprazole Sol      |
-| Asenapine             |
-| Caplyta               |
-| Clozapine ODT Rapdis  |
-| Fluoxetine/Olanzapine |
-| Lybalvi               |
-| Nuplazid              |
-| Olanzapine ODT        |
-| Paliperidone          |
-| Rexulti               |
-| Secuado               |
-| Versacloz             |
-| Vraylar               |
-| Zyprexa Relprevv      |
 
 ## Links
 

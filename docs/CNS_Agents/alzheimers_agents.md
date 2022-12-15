@@ -2,27 +2,7 @@
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
-## Length of Authorizations
-
-365 Days
-
-## Grandfathering
-
-Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug previously but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
-
-## Prior Authorization Criteria
-
-Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-
--   Allergy to medications not requiring prior approval
--   Contraindication to or drug-to-drug interaction with medications not requiring prior approval
--   History of unacceptable/toxic side effects to medications not requiring prior approval
-
-Has the patient failed a therapeutic trial of at least **30 days** with at least **two medications** not requiring prior approval?
-
 ## Formulary
-
-Central Nervous System (CNS) Agents: Alzheimer’s Agents
 
 ### Preferred
 
@@ -46,6 +26,24 @@ Central Nervous System (CNS) Agents: Alzheimer’s Agents
 | Memantine Sol      |
 | Namzaric           |
 | Rivastigmine Patch |
+
+## Length of Authorizations
+
+365 Days
+
+## Grandfathering
+
+Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug previously but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
+
+## Prior Authorization Criteria
+
+Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+
+-   Allergy to medications not requiring prior approval
+-   Contraindication to or drug-to-drug interaction with medications not requiring prior approval
+-   History of unacceptable/toxic side effects to medications not requiring prior approval
+
+Has the patient failed a therapeutic trial of at least **30 days** with at least **two medications** not requiring prior approval?
 
 ## Notes
 

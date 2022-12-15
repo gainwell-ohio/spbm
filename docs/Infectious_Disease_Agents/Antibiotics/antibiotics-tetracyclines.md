@@ -2,6 +2,28 @@
 
 This is a subcategory of Infectious Disease Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred             |
+| :-------------------- |
+| Doxycycline 50, 100mg |
+| Doxycycline Syr       |
+| Minocycline Cap       |
+| Tetracycline          |
+| Vibramycin Susp AR    |
+
+### Non-Preferred
+
+| Non-Preferred                 |
+| :---------------------------- |
+| Doxycycline 20, 40, 75, 150mg |
+| Doxycycline DR                |
+| Minocycline ER                |
+| Minocycline Tab               |
+| Nuzyra                        |
+
 ## Length of Authorizations
 
 For the date of service only; no refills
@@ -43,30 +65,6 @@ Additional Criteria for Omadacycline
     -   History of unacceptable/toxic side effects to medications not requiring prior approval
 3.  If the infection is caused by an organism resistant to medications not requiring prior approval, then may approve the requested medication.
     -   Note diagnosis and any culture and sensitivity reports
-
-## Formulary
-
-Infectious Disease Agents: Antibiotics – Tetracyclines
-
-### Preferred
-
-| Preferred             |
-| :-------------------- |
-| Doxycycline 50, 100mg |
-| Doxycycline Syr       |
-| Minocycline Cap       |
-| Tetracycline          |
-| Vibramycin Susp AR    |
-
-### Non-Preferred
-
-| Non-Preferred                 |
-| :---------------------------- |
-| Doxycycline 20, 40, 75, 150mg |
-| Doxycycline DR                |
-| Minocycline ER                |
-| Minocycline Tab               |
-| Nuzyra                        |
 
 ## Links
 

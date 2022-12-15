@@ -2,6 +2,27 @@
 
 This is a subcategory of Opthalmic Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred    |
+| :----------- |
+| Diclofenac   |
+| Flurbiprofen |
+| Ketorolac    |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Acuvail       |
+| Bromfenac     |
+| Bromsite      |
+| Ilevro        |
+| Nevanac       |
+| Prolensa      |
+
 ## Length of Authorizations
 
 For the date of service only; no refills for acute use.
@@ -22,29 +43,6 @@ The requested medication may be approved if both of the following are true:
 
 1.  If there has been a therapeutic failure to no less than a **3-day** trial of at least **one** medication not requiring prior approval
 2.  The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated.
-
-## Formulary
-
-Ophthalmic Agents: NSAIDs
-
-### Preferred
-
-| Preferred    |
-| :----------- |
-| Diclofenac   |
-| Flurbiprofen |
-| Ketorolac    |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Acuvail       |
-| Bromfenac     |
-| Bromsite      |
-| Ilevro        |
-| Nevanac       |
-| Prolensa      |
 
 ## Links
 

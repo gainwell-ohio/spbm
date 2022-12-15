@@ -2,6 +2,23 @@
 
 This is a subcategory of Topical Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred        |
+| :--------------- |
+| Elidel AR BvG ST |
+| Protopic AR ST   |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Eucrisa       |
+| Opzelura      |
+| Pimecrolimus  |
+
 ## Length of Authorizations
 
 365 Days
@@ -34,25 +51,6 @@ Is there any reason the patient cannot be changed to a medication not requiring 
 -   Opzelura is contraindicated for use in immunocompromised patients
 
 AR - pimecrolimus and tacrolimus: a PA is required for patients younger than 2 years old
-
-## Formulary
-
-Topical Agents: Immunomodulators
-
-### Preferred
-
-| Preferred        |
-| :--------------- |
-| Elidel AR BvG ST |
-| Protopic AR ST   |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Eucrisa       |
-| Opzelura      |
-| Pimecrolimus  |
 
 ## Links
 

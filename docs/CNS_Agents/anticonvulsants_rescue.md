@@ -2,6 +2,23 @@
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred    |
+| :----------- |
+| Diastat BvG  |
+| Diazepam Gel |
+| Nayzilam AR  |
+| Valtoco AR   |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+|               |
+
 ## Length of Authorizations
 
 365 Days
@@ -19,26 +36,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 AR - Valtoco: a PA is required for patients younger than 6 years old
 
 AR - Nayzilam: a PA is required for patients who are younger than 12 years old
-
-## Formulary
-
-Central Nervous System (CNS) Agents: Anticonvulsants Rescue
-
-### Preferred
-
-| Preferred    |
-| :----------- |
-| Diastat BvG  |
-| Diazepam Gel |
-| Nayzilam AR  |
-| Valtoco AR   |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-|               |
-
 
 ## Links
 

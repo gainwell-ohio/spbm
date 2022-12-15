@@ -2,6 +2,33 @@
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred                  |
+| :------------------------- |
+| Baclofen Tab               |
+| Chlorzoxazone 250mg, 500mg |
+| Cyclobenzaprine 5, 10mg    |
+| Dantrolene                 |
+| Methocarbamol              |
+| Tizanidine Tab             |
+
+### Non-Preferred
+
+| Non-Preferred              |
+| :------------------------- |
+| Baclofen Solution          |
+| Carisoprodol               |
+| Chlorzoxazone 375mg, 750mg |
+| Cyclobenzaprine 7.5mg      |
+| Cyclobenzaprine ER         |
+| Fleqsuvy                   |
+| Metaxalone                 |
+| Orphenadrine               |
+| Tizanidine Cap             |
+
 ## Length of Authorizations
 
 365 Days
@@ -34,35 +61,6 @@ Additional Carisoprodol (Soma) Criteria
 ### Subsequent Authorization
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
-
-## Formulary
-
-Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine
-
-### Preferred
-
-| Preferred                  |
-| :------------------------- |
-| Baclofen Tab               |
-| Chlorzoxazone 250mg, 500mg |
-| Cyclobenzaprine 5, 10mg    |
-| Dantrolene                 |
-| Methocarbamol              |
-| Tizanidine Tab             |
-
-### Non-Preferred
-
-| Non-Preferred              |
-| :------------------------- |
-| Baclofen Solution          |
-| Carisoprodol               |
-| Chlorzoxazone 375mg, 750mg |
-| Cyclobenzaprine 7.5mg      |
-| Cyclobenzaprine ER         |
-| Fleqsuvy                   |
-| Metaxalone                 |
-| Orphenadrine               |
-| Tizanidine Cap             |
 
 ## Links
 

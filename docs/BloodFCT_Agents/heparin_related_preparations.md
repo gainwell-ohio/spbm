@@ -2,6 +2,21 @@
 
 This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred  |
+| :--------- |
+| Enoxaparin |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Fondaparinux  |
+| Fragmin       |
+
 ## Length of Authorizations
 
 Varies based upon criteria below
@@ -25,23 +40,6 @@ Is there any reason the patient cannot be changed to oral warfarin? Acceptable r
 -   Patients with cancer (approved up to 180 days),
 -   Pregnant women (approved up to 280 days), or
 -   Patients unable to take warfarin (approved up to 180 days).
-
-## Formulary
-
-Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations
-
-### Preferred
-
-| Preferred  |
-| :--------- |
-| Enoxaparin |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Fondaparinux  |
-| Fragmin       |
 
 ## Links
 

@@ -2,6 +2,25 @@
 
 This is a subcategory of Infectious Disease Agents.
 
+## Formulary
+
+Infectious Disease Agents: Antibiotics – Macrolides
+
+### Preferred
+
+| Preferred      |
+| :------------- |
+| Azithromycin   |
+| Clarithromycin |
+
+### Non-Preferred
+
+| Non-Preferred       |
+| :------------------ |
+| Eryped              |
+| Erythrocin Stearate |
+| Erythromycin        |
+
 ## Length of Authorizations
 
 Date of service only; no refills
@@ -21,25 +40,6 @@ Date of service only; no refills
 Additional Information to Aid in the Final Decision
 
 If the patient is completing a course of therapy with a medication requiring prior approval, which was initiated in the hospital, then may approve the requested medication to complete the course of therapy.
-
-## Formulary
-
-Infectious Disease Agents: Antibiotics – Macrolides
-
-### Preferred
-
-| Preferred      |
-| :------------- |
-| Azithromycin   |
-| Clarithromycin |
-
-### Non-Preferred
-
-| Non-Preferred       |
-| :------------------ |
-| Eryped              |
-| Erythrocin Stearate |
-| Erythromycin        |
 
 ## Links
 

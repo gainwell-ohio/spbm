@@ -2,6 +2,20 @@
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred |
+| :-------- |
+| Verapamil |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Emgality      |
+
 ## Length of Authorizations
 
 180 Days
@@ -39,22 +53,6 @@ Additional Criteria for Episodic Cluster Headache
 5. Not better accounted for by another ICHD-3 diagnosis
 6. At least two cluster periods lasting from seven days to one year (when untreated) and separated by pain-free remission periods of 90 days or more
 7. Failure or intolerance to verapamil titrated at least to a dose of 480 mg daily (may need to be combined with glucocorticoids as adjunctive therapy for more rapid relief until verapamil is titrated)
-
-## Formulary
-
-Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache
-
-### Preferred
-
-| Preferred |
-| :-------- |
-| Verapamil |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Emgality      |
 
 ## Links
 

@@ -2,23 +2,7 @@
 
 This is a subcategory of Topical Agents.
 
-## Length of Authorizations
-
-365 days for low and medium potency
-
-90 days for high and very high potency
-
-## Prior Authorization Criteria
-
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    -   Allergy to at least **two** medications not requiring prior approval
-    -   Contraindication to **all** medications not requiring prior approval
-    -   History of unacceptable/toxic side effects to at least **two** medications not requiring prior approval
-2.  Has the patient failed therapeutic trials of **14 days** with **two** medications not requiring prior approval in the same category?
-
 ## Formulary
-
-Topical Agents: Corticosteroids
 
 ### Preferred
 
@@ -66,6 +50,20 @@ Topical Agents: Corticosteroids
 | Halog                                         |
 | Impeklo                                       |
 | Pandel                                        |
+
+## Length of Authorizations
+
+365 days for low and medium potency
+
+90 days for high and very high potency
+
+## Prior Authorization Criteria
+
+1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+    -   Allergy to at least **two** medications not requiring prior approval
+    -   Contraindication to **all** medications not requiring prior approval
+    -   History of unacceptable/toxic side effects to at least **two** medications not requiring prior approval
+2.  Has the patient failed therapeutic trials of **14 days** with **two** medications not requiring prior approval in the same category?
 
 ## Links
 

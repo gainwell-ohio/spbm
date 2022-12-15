@@ -2,6 +2,23 @@
 
 This is a subcategory of Respiratory Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred   |
+| :---------- |
+| Kalydeco PA |
+| Orkambi PA  |
+| Symdeko PA  |
+| Trikafta PA |
+
+### Non-Preferred
+
+| Non-Preferred |
+| :------------ |
+| Bronchitol    |
+
 ## Length of Authorizations
 
 Initial authorization 90 days
@@ -52,25 +69,6 @@ Additional Criteria for Kalydeco, Orkambi, Symdeko, and Trikafta
         -   Decrease in the number of hospitalizations
         -   Increased Cystic Fibrosis Questionnaire-Revised (CFQ-R) respiratory domain score
         -   Other documentation by the physician clearly explaining the ongoing benefit of continuing the drug based on stated and documented objective evidence of improvement or a clear stabilization in a previous decline in one of the above parameters
-
-## Formulary
-
-Respiratory Agents: Cystic Fibrosis
-
-### Preferred
-
-| Preferred   |
-| :---------- |
-| Kalydeco PA |
-| Orkambi PA  |
-| Symdeko PA  |
-| Trikafta PA |
-
-### Non-Preferred
-
-| Non-Preferred |
-| :------------ |
-| Bronchitol    |
 
 ## Links
 

@@ -2,6 +2,25 @@
 
 This is a subcategory of Infectious Disease Agents.
 
+## Formulary
+
+### Preferred
+
+| Preferred             |
+| :-------------------- |
+| Ciprofloxacin         |
+| Ciprofloxacin Susp AR |
+| Levofloxacin          |
+
+### Non-Preferred
+
+| Non-Preferred    |
+| :--------------- |
+| Baxdela          |
+| Ciprofloxacin ER |
+| Moxifloxacin     |
+| Ofloxacin        |
+
 ## Length of Authorizations
 
 For the date of service only; no refills
@@ -26,27 +45,6 @@ Additional Information to Aid in the Final Decision
 2.  If the prescriber expresses concern over safety issues of a preferred agent, a non-preferred agent may be approved.
 
 AR - Ciprofloxacin Suspension: a PA is required for patients over 12 years old
-
-## Formulary
-
-Infectious Disease Agents: Antibiotics – Quinolones
-
-### Preferred
-
-| Preferred             |
-| :-------------------- |
-| Ciprofloxacin         |
-| Ciprofloxacin Susp AR |
-| Levofloxacin          |
-
-### Non-Preferred
-
-| Non-Preferred    |
-| :--------------- |
-| Baxdela          |
-| Ciprofloxacin ER |
-| Moxifloxacin     |
-| Ofloxacin        |
 
 ## Links
 
