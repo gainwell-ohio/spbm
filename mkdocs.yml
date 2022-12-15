@@ -1,13 +1,11 @@
 site_name: "Ohio SPBM Demo"
 site_url: http://spbm.ohio.gainwelltechnologies.com/
-repo_url: https://dev.azure.com/Gainwell-RPA/RPA/_git/Documentation
-repo_name: Ohio SPBM Docs
-edit_uri: "?path=/docs"
-theme: 
+repo_url: https://github.com/gainwell-ohio/spbm/
+repo_name: Evergreen
+edit_uri: "edit/main/docs/"
+theme:
   name: material
   logo: img/favicon.ico
-  icon:
-    repo: material/microsoft-azure-devops
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: gainwell
@@ -25,5 +23,10 @@ theme:
     # - navigation.tabs
     - navigation.prune
     - search.highlighting
+markdown_extensions:
+    - toc:
+        permalink: True
+        separator: "_"
+        toc_depth: 3
 #extra_css:
   #- stylesheets/extra.css

@@ -1,8 +1,8 @@
-name: ci 
+name: ghPagesDeployment 
 on:
   push:
     branches:
-      - master 
+      - development
       - main
 jobs:
   deploy:
