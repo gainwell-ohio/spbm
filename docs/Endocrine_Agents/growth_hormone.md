@@ -6,22 +6,22 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred      |
-| :------------- |
-| Norditropin PA |
-| Omnitrope PA   |
+| Preferred      | Generic Name | Quantity | Time (Days) |
+| :------------- | :----------- | :------: | :---------: |
+| Norditropin PA |              |          |             |
+| Omnitrope PA   |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Genotropin    |
-| Humatrope     |
-| Nutropin      |
-| Saizen        |
-| Serostim      |
-| Skytrofa      |
-| Zomacton      |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Genotropin    |              |          |             |
+| Humatrope     |              |          |             |
+| Nutropin      |              |          |             |
+| Saizen        |              |          |             |
+| Serostim      |              |          |             |
+| Skytrofa      |              |          |             |
+| Zomacton      |              |          |             |
 
 ## Length of Authorizations
 

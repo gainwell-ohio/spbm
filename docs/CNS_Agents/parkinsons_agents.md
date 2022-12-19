@@ -6,37 +6,37 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred          |
-| :----------------- |
-| Amantadine         |
-| Carbidopa          |
-| Carbidopa/Levodopa |
-| Entacapone         |
-| Pramipexole        |
-| Ropinirole         |
-| Selegiline         |
+| Preferred          | Generic Name | Quantity | Time (Days) |
+| :----------------- | :----------- | :------: | :---------: |
+| Amantadine         |              |          |             |
+| Carbidopa          |              |          |             |
+| Carbidopa/Levodopa |              |          |             |
+| Entacapone         |              |          |             |
+| Pramipexole        |              |          |             |
+| Ropinirole         |              |          |             |
+| Selegiline         |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                      |
-| :--------------------------------- |
-| Apokyn                             |
-| Carbidopa/Levodopa Dispersible Tab |
-| Carbidopa/Levodopa/Entacapone      |
-| Gocovri                            |
-| Inbrija                            |
-| Kynmobi                            |
-| Neupro                             |
-| Nourianz                           |
-| Ongentys                           |
-| Osmolex ER                         |
-| Pramipexole ER                     |
-| Rasagiline                         |
-| Ropinirole ER                      |
-| Rytary                             |
-| Tolcapone                          |
-| Xadago                             |
-| Zelapar                            |
+| Non-Preferred                      | Generic Name | Quantity | Time (Days) |
+| :--------------------------------- | :----------- | :------: | :---------: |
+| Apokyn                             |              |          |             |
+| Carbidopa/Levodopa Dispersible Tab |              |          |             |
+| Carbidopa/Levodopa/Entacapone      |              |          |             |
+| Gocovri                            |              |          |             |
+| Inbrija                            |              |          |             |
+| Kynmobi                            |              |          |             |
+| Neupro                             |              |          |             |
+| Nourianz                           |              |          |             |
+| Ongentys                           |              |          |             |
+| Osmolex ER                         |              |          |             |
+| Pramipexole ER                     |              |          |             |
+| Rasagiline                         |              |          |             |
+| Ropinirole ER                      |              |          |             |
+| Rytary                             |              |          |             |
+| Tolcapone                          |              |          |             |
+| Xadago                             |              |          |             |
+| Zelapar                            |              |          |             |
 
 ## Length of Authorizations
 

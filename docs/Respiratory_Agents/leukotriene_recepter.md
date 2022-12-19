@@ -6,17 +6,17 @@ This is a subcategory of Respiratory Agents.
 
 ### Preferred
 
-| Preferred      |
-| :------------- |
-| Montelukast    |
-| Zafirlukast ST |
+| Preferred      | Generic Name | Quantity | Time (Days) |
+| :------------- | :----------- | :------: | :---------: |
+| Montelukast    |              |          |             |
+| Zafirlukast ST |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Zileuton      |
-| Zyflo         |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Zileuton      |              |          |             |
+| Zyflo         |              |          |             |
 
 ## Length of Authorizations
 

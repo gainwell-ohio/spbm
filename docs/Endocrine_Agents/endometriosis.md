@@ -6,20 +6,20 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred                     |
-| :---------------------------- |
-| Danazol ST                    |
-| Depo-Subq Provera 104 ST      |
-| Lupaneta Pack ST              |
-| Lupron Depot ST 3.75, 11.25mg |
-| Orilissa ST                   |
-| Zoladex ST                    |
+| Preferred                     | Generic Name | Quantity | Time (Days) |
+| :---------------------------- | :----------- | :------: | :---------: |
+| Danazol ST                    |              |          |             |
+| Depo-Subq Provera 104 ST      |              |          |             |
+| Lupaneta Pack ST              |              |          |             |
+| Lupron Depot ST 3.75, 11.25mg |              |          |             |
+| Orilissa ST                   |              |          |             |
+| Zoladex ST                    |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Synarel       |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Synarel       |              |          |             |
 
 ## Length of Authorizations
 

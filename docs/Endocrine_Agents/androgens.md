@@ -6,26 +6,26 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred                   |
-| :-------------------------- |
-| Androderm PA                |
-| Testosterone Gel 1% PA      |
-| Testosterone Gel 1% Pump PA |
+| Preferred               | Generic Name | Quantity | Time (Days) |
+| :-------------------------- | :----------- | :------: | :---------: |
+| Androderm PA                |              |          |             |
+| Testosterone Gel 1% PA      |              |          |             |
+| Testosterone Gel 1% Pump PA |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred             |
-| :------------------------ |
-| Jatenzo                   |
-| Methyltestosterone        |
-| Natesto                   |
-| Testopel                  |
-| Testosterone Cypionate    |
-| Testosterone Gel 1.62%    |
-| Testosterone Gel 2%       |
-| Testosterone Sol 30mg/ACT |
-| Tlando                    |
-| Xyosted                   |
+| Non-Preferred             | Generic Name | Quantity | Time (Days) |
+| :------------------------ | :----------- | :------: | :---------: |
+| Jatenzo                   |              |          |             |
+| Methyltestosterone        |              |          |             |
+| Natesto                   |              |          |             |
+| Testopel                  |              |          |             |
+| Testosterone Cypionate    |              |          |             |
+| Testosterone Gel 1.62%    |              |          |             |
+| Testosterone Gel 2%       |              |          |             |
+| Testosterone Sol 30mg/ACT |              |          |             |
+| Tlando                    |              |          |             |
+| Xyosted                   |              |          |             |
 
 ## Length of Authorizations
 

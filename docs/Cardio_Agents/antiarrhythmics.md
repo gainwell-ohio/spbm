@@ -6,23 +6,23 @@ This is a subcategory of Cardiovascular Agents.
 
 ### Preferred
 
-| Preferred        |
-| :--------------- |
-| Amiodarone 200mg |
-| Disopyramide     |
-| Dofetilide       |
-| Flecainide       |
-| Mexiletine       |
-| Norpace CR       |
-| Propafenone, ER  |
-| Quinidine, ER    |
+| Preferred    | Generic Name | Quantity | Time (Days) |
+| :--------------- | :----------- | :------: | :---------: |
+| Amiodarone 200mg ||||
+| Disopyramide     ||||
+| Dofetilide       ||||
+| Flecainide       ||||
+| Mexiletine       ||||
+| Norpace CR       ||||
+| Propafenone, ER  ||||
+| Quinidine, ER    ||||
 
 ### Non-Preferred
 
-| Non-Preferred              |
-| :------------------------- |
-| Amiodarone 100mg and 400mg |
-| Multaq                     |
+| Non-Preferred    | Generic Name | Quantity | Time (Days) |
+| :--------------- | :----------- | :------: | :---------: |
+| Amiodarone 100mg and 400mg ||||
+| Multaq                     ||||
 
 ## Length of Authorizations
 

@@ -6,20 +6,20 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Preferred
 
-| Preferred               |
-| :---------------------- |
-| Aspirin                 |
-| Aspirin/Dipyridamole ER |
-| Brilinta                |
-| Clopidogrel             |
-| Prasugrel               |
+| Preferred               | Generic Name | Quantity | Time (Days) |
+| :---------------------- | :----------- | :------: | :---------: |
+| Aspirin                 |              |          |             |
+| Aspirin/Dipyridamole ER |              |          |             |
+| Brilinta                |              |          |             |
+| Clopidogrel             |              |          |             |
+| Prasugrel               |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Yosprala      |
-| Zontivity     |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Yosprala      |              |          |             |
+| Zontivity     |              |          |             |
 
 ## Length of Authorizations
 

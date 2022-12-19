@@ -6,22 +6,22 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                                                |
-| :------------------------------------------------------- |
-| Aimovig QL ST                                            |
-| Ajovy ST                                                 |
-| Cardiovascular Agents: Beta-Blockers                     |
-| CNS Agents: Anticonvulsants                              |
-| CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors |
-| CNS Agents: Tricyclic Antidepressants                    |
+| Preferred                                                | Generic Name | Quantity | Time (Days) |
+| :------------------------------------------------------- | :----------- | :------: | :---------: |
+| Aimovig QL ST                                            |              |          |             |
+| Ajovy ST                                                 |              |          |             |
+| Cardiovascular Agents: Beta-Blockers                     |              |          |             |
+| CNS Agents: Anticonvulsants                              |              |          |             |
+| CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors |              |          |             |
+| CNS Agents: Tricyclic Antidepressants                    |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Emgality      |
-| Nurtec ODT    |
-| Qulipta       |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Emgality      |              |          |             |
+| Nurtec ODT    |              |          |             |
+| Qulipta       |              |          |             |
 
 ## Length of Authorizations
 

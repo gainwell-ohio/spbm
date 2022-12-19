@@ -6,21 +6,21 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred              |
-| :--------------------- |
-| Buprenorphine/Naloxone |
-| Clonidine              |
-| Sublocade QL           |
-| Suboxone               |
-| Vivitrol               |
-| Zubsolv                |
+| Preferred              | Generic Name | Quantity | Time (Days) |
+| :--------------------- | :----------- | :------: | :---------: |
+| Buprenorphine/Naloxone |              |          |             |
+| Clonidine              |              |          |             |
+| Sublocade QL           |              |          |             |
+| Suboxone               |              |          |             |
+| Vivitrol               |              |          |             |
+| Zubsolv                |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Buprenorphine |
-| Lucemyra      |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Buprenorphine |              |          |             |
+| Lucemyra      |              |          |             |
 
 ## Length of Authorizations
 

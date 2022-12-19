@@ -6,21 +6,21 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred                       |
-| :------------------------------ |
-| Hydroxyprogesterone Caproate    |
-| Makena                          |
-| Medroxyprogesterone Acetate Tab |
-| Megestrol                       |
-| Norethindrone Acetate           |
-| Progesterone                    |
-| Progesterone In Oil             |
+| Non-Preferred                   | Generic Name | Quantity | Time (Days) |
+| :------------------------------ | :----------- | :------: | :---------: |
+| Hydroxyprogesterone Caproate    |              |          |             |
+| Makena                          |              |          |             |
+| Medroxyprogesterone Acetate Tab |              |          |             |
+| Megestrol                       |              |          |             |
+| Norethindrone Acetate           |              |          |             |
+| Progesterone                    |              |          |             |
+| Progesterone In Oil             |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-|               |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+|               |              |          |             |
 
 All products are covered without a PA
 

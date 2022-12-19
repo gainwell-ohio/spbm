@@ -6,24 +6,24 @@ This is a subcategory of Genitourinary Agents.
 
 ### Preferred
 
-| Preferred             |
-| :-------------------- |
-| Alfuzosin             |
-| Doxazosin             |
-| Dutasteride           |
-| Finasteride           |
-| Prazosin              |
-| Tadalafil PA 2.5, 5mg |
-| Tamsulosin            |
-| Terazosin             |
+| Preferred             | Generic Name | Quantity | Time (Days) |
+| :-------------------- | :----------- | :------: | :---------: |
+| Alfuzosin             |              |          |             |
+| Doxazosin             |              |          |             |
+| Dutasteride           |              |          |             |
+| Finasteride           |              |          |             |
+| Prazosin              |              |          |             |
+| Tadalafil PA 2.5, 5mg |              |          |             |
+| Tamsulosin            |              |          |             |
+| Terazosin             |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred          |
-| :--------------------- |
-| Cardura XL             |
-| Dutasteride/Tamsulosin |
-| Silodosin              |
+| Non-Preferred          | Generic Name | Quantity | Time (Days) |
+| :--------------------- | :----------- | :------: | :---------: |
+| Cardura XL             |              |          |             |
+| Dutasteride/Tamsulosin |              |          |             |
+| Silodosin              |              |          |             |
 
 ## Length of Authorizations
 

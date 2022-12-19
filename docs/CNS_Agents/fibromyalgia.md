@@ -6,15 +6,15 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred  |
-| :--------- |
-| Pregabalin |
+| Preferred  | Generic Name | Quantity | Time (Days) |
+| :--------- | :----------- | :------: | :---------: |
+| Pregabalin |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred | 
-| :------------ | 
-| Savella       | 
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Savella       |              |          |             |
 
 ## Length of Authorizations
 

@@ -6,32 +6,32 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred         |
-| :---------------- |
-| Aubagio           |
-| Avonex            |
-| Betaseron         |
-| Copaxone BvG      |
-| Dalfampridine     |
-| Dimethyl Fumarate |
-| Gilenya           |
-| Rebif             |
+| Preferred         | Generic Name | Quantity | Time (Days) |
+| :---------------- | :----------- | :------: | :---------: |
+| Aubagio           |              |          |             |
+| Avonex            |              |          |             |
+| Betaseron         |              |          |             |
+| Copaxone BvG      |              |          |             |
+| Dalfampridine     |              |          |             |
+| Dimethyl Fumarate |              |          |             |
+| Gilenya           |              |          |             |
+| Rebif             |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Bafiertam     |
-| Extavia       |
-| Glatiramer    |
-| Glatopa       |
-| Kesimpta      |
-| Mavenclad     |
-| Mayzent       |
-| Plegridy      |
-| Ponvory       |
-| Vumerity      |
-| Zeposia       |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Bafiertam     |              |          |             |
+| Extavia       |              |          |             |
+| Glatiramer    |              |          |             |
+| Glatopa       |              |          |             |
+| Kesimpta      |              |          |             |
+| Mavenclad     |              |          |             |
+| Mayzent       |              |          |             |
+| Plegridy      |              |          |             |
+| Ponvory       |              |          |             |
+| Vumerity      |              |          |             |
+| Zeposia       |              |          |             |
 
 ## Length of Authorizations
 

@@ -6,20 +6,20 @@ This is a subcategory of Genitourinary Agents.
 
 ### Preferred
 
-| Preferred         |
-| :---------------- |
-| Calcium Acetate   |
-| Calcium Carbonate |
-| Phoslyra          |
-| Sevelamer         |
+| Preferred         | Generic Name | Quantity | Time (Days) |
+| :---------------- | :----------- | :------: | :---------: |
+| Calcium Acetate   |              |          |             |
+| Calcium Carbonate |              |          |             |
+| Phoslyra          |              |          |             |
+| Sevelamer         |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred       |
-| :------------------ |
-| Auryxia             |
-| Lanthanum Carbonate |
-| Velphoro            |
+| Non-Preferred       | Generic Name | Quantity | Time (Days) |
+| :------------------ | :----------- | :------: | :---------: |
+| Auryxia             |              |          |             |
+| Lanthanum Carbonate |              |          |             |
+| Velphoro            |              |          |             |
 
 ## Length of Authorizations
 

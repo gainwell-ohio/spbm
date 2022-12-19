@@ -6,36 +6,36 @@ This is a subcategory of Immunomodulator Agents.
 
 ### Preferred
 
-| Preferred     |
-| :------------ |
-| Enbrel PA     |
-| Humira PA     |
-| Kineret PA    |
-| Otezla PA     |
-| Taltz PA ST   |
-| Xeljanz IR PA |
+| Preferred     | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Enbrel PA     |              |          |             |
+| Humira PA     |              |          |             |
+| Kineret PA    |              |          |             |
+| Otezla PA     |              |          |             |
+| Taltz PA ST   |              |          |             |
+| Xeljanz IR PA |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred   |
-| :-------------- |
-| Actemra         |
-| Adbry           |
-| Cibinqo         |
-| Cimzia          |
-| Cosentyx        |
-| Dupixent        |
-| Ilumya          |
-| Kevzara         |
-| Olumiant        |
-| Orencia         |
-| Rinvoq          |
-| Siliq           |
-| Simponi         |
-| Skyrizi         |
-| Stelara         |
-| Tremfya         |
-| Xeljanz Sol, XR |
+| Non-Preferred   | Generic Name | Quantity | Time (Days) |
+| :-------------- | :----------- | :------: | :---------: |
+| Actemra         |              |          |             |
+| Adbry           |              |          |             |
+| Cibinqo         |              |          |             |
+| Cimzia          |              |          |             |
+| Cosentyx        |              |          |             |
+| Dupixent        |              |          |             |
+| Ilumya          |              |          |             |
+| Kevzara         |              |          |             |
+| Olumiant        |              |          |             |
+| Orencia         |              |          |             |
+| Rinvoq          |              |          |             |
+| Siliq           |              |          |             |
+| Simponi         |              |          |             |
+| Skyrizi         |              |          |             |
+| Stelara         |              |          |             |
+| Tremfya         |              |          |             |
+| Xeljanz Sol, XR |              |          |             |
 
 ## Length of Authorizations
 

@@ -6,27 +6,27 @@ This is a subcategory of Cardiovascular Agents.
 
 ### Preferred
 
-| Preferred             |
-| :-------------------- |
-| Ambrisentan PA        |
-| Sildenafil PA         |
-| Sildenafil Susp AR PA |
-| Tadalafil PA          |
-| Tracleer BvG PA       |
+| Preferred             | Generic Name | Quantity | Time (Days) |
+| :-------------------- | :----------- | :------: | :---------: |
+| Ambrisentan PA        |              |          |             |
+| Sildenafil PA         |              |          |             |
+| Sildenafil Susp AR PA |              |          |             |
+| Tadalafil PA          |              |          |             |
+| Tracleer BvG PA       |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Adempas       |
-| Bosentan      |
-| Epoprostenol  |
-| Opsumit       |
-| Tracleer Susp |
-| Treprostinil  |
-| Tyvaso        |
-| Uptravi       |
-| Ventavis      |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Adempas       |              |          |             |
+| Bosentan      |              |          |             |
+| Epoprostenol  |              |          |             |
+| Opsumit       |              |          |             |
+| Tracleer Susp |              |          |             |
+| Treprostinil  |              |          |             |
+| Tyvaso        |              |          |             |
+| Uptravi       |              |          |             |
+| Ventavis      |              |          |             |
 
 ## Length of Authorizations
 

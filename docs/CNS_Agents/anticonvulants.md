@@ -6,60 +6,60 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred            |
-| :------------------- |
-| Banzel BvG           |
-| Carbamazepine        |
-| Clobazam             |
-| Clonazepam           |
-| Diacomit PA          |
-| Divalproex           |
-| Divalproex ER        |
-| Epidiolex PA         |
-| Eprontia AR          |
-| Ethosuximide         |
-| Fycompa ST           |
-| Gabapentin           |
-| Lamotrigine          |
-| Levetiracetam IR Tab |
-| Levetiracetam Sol    |
-| Oxcarbazepine        |
-| Phenobarbital        |
-| Phenytoin            |
-| Pregabalin           |
-| Primidone            |
-| Topiramate           |
-| Valproic Acid        |
-| Vimpat BvG ST        |
-| Zonisamide           |
+| Preferred            | Generic Name | Quantity | Time (Days) |
+| :------------------- | :----------- | :------: | :---------: |
+| Banzel BvG           |              |          |             |
+| Carbamazepine        |              |          |             |
+| Clobazam             |              |          |             |
+| Clonazepam           |              |          |             |
+| Diacomit PA          |              |          |             |
+| Divalproex           |              |          |             |
+| Divalproex ER        |              |          |             |
+| Epidiolex PA         |              |          |             |
+| Eprontia AR          |              |          |             |
+| Ethosuximide         |              |          |             |
+| Fycompa ST           |              |          |             |
+| Gabapentin           |              |          |             |
+| Lamotrigine          |              |          |             |
+| Levetiracetam IR Tab |              |          |             |
+| Levetiracetam Sol    |              |          |             |
+| Oxcarbazepine        |              |          |             |
+| Phenobarbital        |              |          |             |
+| Phenytoin            |              |          |             |
+| Pregabalin           |              |          |             |
+| Primidone            |              |          |             |
+| Topiramate           |              |          |             |
+| Valproic Acid        |              |          |             |
+| Vimpat BvG ST        |              |          |             |
+| Zonisamide           |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred              |
-| :------------------------- |
-| Aptiom                     |
-| Briviact                   |
-| Celontin                   |
-| Clonazepam ODT             |
-| Elepsia XR                 |
-| Felbamate                  |
-| Fintepla                   |
-| Lacosamide                 |
-| Lamotrigine ER             |
-| Lamotrigine ODT            |
-| Levetiracetam ER Tab       |
-| Oxtellar XR                |
-| Peganone                   |
-| Rufinamide Tab, Soln       |
-| Spritam                    |
-| Sympazan                   |
-| Tiagabine                  |
-| Topiramate ER Sprinkle Cap |
-| Topiramate Sprinkle Cap    |
-| Trokendi XR                |
-| Vigabatrin                 |
-| Vigabatrin Powder AR       |
-| Xcopri                     |
+| Non-Preferred              | Generic Name | Quantity | Time (Days) |
+| :------------------------- | :----------- | :------: | :---------: |
+| Aptiom                     |              |          |             |
+| Briviact                   |              |          |             |
+| Celontin                   |              |          |             |
+| Clonazepam ODT             |              |          |             |
+| Elepsia XR                 |              |          |             |
+| Felbamate                  |              |          |             |
+| Fintepla                   |              |          |             |
+| Lacosamide                 |              |          |             |
+| Lamotrigine ER             |              |          |             |
+| Lamotrigine ODT            |              |          |             |
+| Levetiracetam ER Tab       |              |          |             |
+| Oxtellar XR                |              |          |             |
+| Peganone                   |              |          |             |
+| Rufinamide Tab, Soln       |              |          |             |
+| Spritam                    |              |          |             |
+| Sympazan                   |              |          |             |
+| Tiagabine                  |              |          |             |
+| Topiramate ER Sprinkle Cap |              |          |             |
+| Topiramate Sprinkle Cap    |              |          |             |
+| Trokendi XR                |              |          |             |
+| Vigabatrin                 |              |          |             |
+| Vigabatrin Powder AR       |              |          |             |
+| Xcopri                     |              |          |             |
 
 ## Length of Authorizations
 

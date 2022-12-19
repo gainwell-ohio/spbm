@@ -6,17 +6,17 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Preferred
 
-| Preferred    |
-| :----------- |
-| Acyclovir    |
-| Valacyclovir |
+| Preferred    | Generic Name | Quantity | Time (Days) |
+| :----------- | :----------- | :------: | :---------: |
+| Acyclovir    |              |          |             |
+| Valacyclovir |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Famciclovir   |
-| Sitavig       |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Famciclovir   |              |          |             |
+| Sitavig       |              |          |             |
 
 ## Length of Authorizations
 

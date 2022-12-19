@@ -6,26 +6,26 @@ This is a subcategory of Respiratory Agents.
 
 ### Preferred
 
-| Preferred                        |
-| :------------------------------- |
-| Azelastine                       |
-| Flunisolide                      |
-| Fluticasone (Generic of Flonase) |
-| Ipratropium                      |
-| Olopatadine                      |
+| Preferred                        | Generic Name | Quantity | Time (Days) |
+| :------------------------------- | :----------- | :------: | :---------: |
+| Azelastine                       |              |          |             |
+| Flunisolide                      |              |          |             |
+| Fluticasone (Generic of Flonase) |              |          |             |
+| Ipratropium                      |              |          |             |
+| Olopatadine                      |              |          |             |
 
 ### Non-Preferred
 
-| Preferred                    |
-| :--------------------------- |
-| Azelastine/Fluticasone Spray |
-| Beconase AQ                  |
-| Budesonide                   |
-| Mometasone                   |
-| Omnaris                      |
-| Qnasl                        |
-| Xhance                       |
-| Zetonna                      |
+| Non-Preferred                | Generic Name | Quantity | Time (Days) |
+| :--------------------------- | :----------- | :------: | :---------: |
+| Azelastine/Fluticasone Spray |              |          |             |
+| Beconase AQ                  |              |          |             |
+| Budesonide                   |              |          |             |
+| Mometasone                   |              |          |             |
+| Omnaris                      |              |          |             |
+| Qnasl                        |              |          |             |
+| Xhance                       |              |          |             |
+| Zetonna                      |              |          |             |
 
 ## Length of Authorizations
 

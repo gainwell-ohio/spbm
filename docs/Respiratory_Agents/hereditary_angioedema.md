@@ -6,20 +6,20 @@ This is a subcategory of Respiratory Agents.
 
 ### Preferred
 
-| Preferred   |
-| :---------- |
-| Haegarda PA |
-| Ruconest PA |
-| Takhzyro PA |
+| Preferred   | Generic Name | Quantity | Time (Days) |
+| :---------- | :----------- | :------: | :---------: |
+| Haegarda PA |              |          |             |
+| Ruconest PA |              |          |             |
+| Takhzyro PA |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred     |
-| :---------------- |
-| Berinert          |
-| Cinryze           |
-| Icatibant Acetate |
-| Kalbitor          |
+| Non-Preferred     | Generic Name | Quantity | Time (Days) |
+| :---------------- | :----------- | :------: | :---------: |
+| Berinert          |              |          |             |
+| Cinryze           |              |          |             |
+| Icatibant Acetate |              |          |             |
+| Kalbitor          |              |          |             |
 
 ## Length of Authorizations
 

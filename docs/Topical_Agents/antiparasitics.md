@@ -6,20 +6,20 @@ This is a subcategory of Topical Agents.
 
 ### Preferred
 
-| Preferred                     |
-| :---------------------------- |
-| Natroba BvG                   |
-| Permethrin                    |
-| Piperonyl Butoxide/Pyrethrins |
+| Preferred                     | Generic Name | Quantity | Time (Days) |
+| :---------------------------- | :----------- | :------: | :---------: |
+| Natroba BvG                   |              |          |             |
+| Permethrin                    |              |          |             |
+| Piperonyl Butoxide/Pyrethrins |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Eurax         |
-| Malathion     |
-| Sklice        |
-| Spinosad      |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Eurax         |              |          |             |
+| Malathion     |              |          |             |
+| Sklice        |              |          |             |
+| Spinosad      |              |          |             |
 
 ## Length of Authorizations
 

@@ -6,19 +6,19 @@ This is a subcategory of Gastrointestinal Agents.
 
 ### Preferred
 
-| Preferred         |
-| :---------------- |
-| Azathioprine      |
-| Budesonide ER Cap |
-| Mercaptopurine    |
-| Methotrexate      |
-| Sulfasalazine     |
+| Preferred         | Generic Name | Quantity | Time (Days) |
+| :---------------- | :----------- | :------: | :---------: |
+| Azathioprine      |              |          |             |
+| Budesonide ER Cap |              |          |             |
+| Mercaptopurine    |              |          |             |
+| Methotrexate      |              |          |             |
+| Sulfasalazine     |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Ortikos ER    |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Ortikos ER    |              |          |             |
 
 ## Length of Authorizations
 

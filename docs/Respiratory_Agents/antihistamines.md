@@ -6,25 +6,25 @@ This is a subcategory of Respiratory Agents.
 
 ### Preferred
 
-| Preferred                  |
-| :------------------------- |
-| Cetirizine Syr             |
-| Cetirizine Tab             |
-| Cetirizine/Pseudoephedrine |
-| Loratadine Rapid Dissolve  |
-| Loratadine Syr             |
-| Loratadine Tab             |
-| Loratadine/Pseudoephedrine |
+| Preferred                  | Generic Name | Quantity | Time (Days) |
+| :------------------------- | :----------- | :------: | :---------: |
+| Cetirizine Syr             |              |          |             |
+| Cetirizine Tab             |              |          |             |
+| Cetirizine/Pseudoephedrine |              |          |             |
+| Loratadine Rapid Dissolve  |              |          |             |
+| Loratadine Syr             |              |          |             |
+| Loratadine Tab             |              |          |             |
+| Loratadine/Pseudoephedrine |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred       |
-| :------------------ |
-| Cetirizine Chewable |
-| Clarinex-D          |
-| Desloratadine       |
-| Fexofenadine        |
-| Levocetirizine      |
+| Non-Preferred       | Generic Name | Quantity | Time (Days) |
+| :------------------ | :----------- | :------: | :---------: |
+| Cetirizine Chewable |              |          |             |
+| Clarinex-D          |              |          |             |
+| Desloratadine       |              |          |             |
+| Fexofenadine        |              |          |             |
+| Levocetirizine      |              |          |             |
 
 ## Length of Authorizations
 

@@ -6,16 +6,16 @@ This is a subcategory of Gastrointestinal Agents.
 
 ### Preferred
 
-| Preferred  |
-| :--------- |
-| Lactulose  |
-| Xifaxan ST |
+| Preferred  | Generic Name | Quantity | Time (Days) |
+| :--------- | :----------- | :------: | :---------: |
+| Lactulose  |              |          |             |
+| Xifaxan ST |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-|               |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+|               |              |          |             |
 
 ## Length of Authorizations
 

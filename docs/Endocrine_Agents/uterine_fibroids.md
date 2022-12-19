@@ -6,16 +6,16 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred                     |
-| :---------------------------- |
-| Lupron Depot PA 3.75, 11.25mg |
-| Oriahnn PA                    |
+| Preferred                     | Generic Name | Quantity | Time (Days) |
+| :---------------------------- | :----------- | :------: | :---------: |
+| Lupron Depot PA 3.75, 11.25mg |              |          |             |
+| Oriahnn PA                    |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Myfembree     |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Myfembree     |              |          |             |
 
 ## Length of Authorizations
 

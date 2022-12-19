@@ -6,17 +6,17 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred        |
-| :--------------- |
-| Austedo PA       |
-| Ingrezza PA      |
-| Tetrabenazine PA |
+| Preferred        | Generic Name | Quantity | Time (Days) |
+| :--------------- | :----------- | :------: | :---------: |
+| Austedo PA       |              |          |             |
+| Ingrezza PA      |              |          |             |
+| Tetrabenazine PA |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-|               |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+|               |              |          |             |
 
 ## Length of Authorizations
 

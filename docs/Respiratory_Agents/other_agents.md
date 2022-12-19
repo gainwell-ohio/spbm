@@ -6,15 +6,15 @@ This is a subcategory of Respiratory Agents.
 
 ### Preferred
 
-| Preferred |
-| :-------- |
-|           |
+| Preferred | Generic Name | Quantity | Time (Days) |
+| :-------- | :----------- | :------: | :---------: |
+|           |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Daliresp      |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Daliresp      |              |          |             |
 
 ## Length of Authorizations
 

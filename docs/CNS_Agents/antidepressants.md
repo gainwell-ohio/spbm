@@ -6,50 +6,50 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                               |
-| :-------------------------------------- |
-| Bupropion                               |
-| Bupropion SR (generic of Wellbutrin SR) |
-| Bupropion XL (generic of Wellbutrin XL) |
-| Citalopram                              |
-| Duloxetine 20, 30, 60mg                 |
-| Escitalopram                            |
-| Fluoxetine                              |
-| Fluvoxamine                             |
-| Mirtazapine                             |
-| Nefazodone                              |
-| Paroxetine                              |
-| Sertraline                              |
-| Tranylcypromine                         |
-| Trazodone 50mg, 100mg, 150mg            |
-| Venlafaxine ER Cap                      |
-| Venlafaxine Tab                         |
+| Preferred                               | Generic Name | Quantity | Time (Days) |
+| :-------------------------------------- | :----------- | :------: | :---------: |
+| Bupropion                               |              |          |             |
+| Bupropion SR (generic of Wellbutrin SR) |              |          |             |
+| Bupropion XL (generic of Wellbutrin XL) |              |          |             |
+| Citalopram                              |              |          |             |
+| Duloxetine 20, 30, 60mg                 |              |          |             |
+| Escitalopram                            |              |          |             |
+| Fluoxetine                              |              |          |             |
+| Fluvoxamine                             |              |          |             |
+| Mirtazapine                             |              |          |             |
+| Nefazodone                              |              |          |             |
+| Paroxetine                              |              |          |             |
+| Sertraline                              |              |          |             |
+| Tranylcypromine                         |              |          |             |
+| Trazodone 50mg, 100mg, 150mg            |              |          |             |
+| Venlafaxine ER Cap                      |              |          |             |
+| Venlafaxine Tab                         |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                        |
-| :----------------------------------- |
-| Aplenzin                             |
-| Brisdelle                            |
-| Bupropion XL (generic of Forfivo XL) |
-| Clomipramine                         |
-| Desvenlafaxine                       |
-| Drizalma Sprinkle                    |
-| Duloxetine 40mg                      |
-| Emsam                                |
-| Fetzima                              |
-| Fluoxetine 60mg                      |
-| Fluoxetine DR                        |
-| Fluvoxamine ER                       |
-| Marplan                              |
-| Paroxetine 7.5mg                     |
-| Paroxetine ER                        |
-| Pexeva                               |
-| Phenelzine                           |
-| Trazodone 300mg                      |
-| Trintellix                           |
-| Venlafaxine ER Tab                   |
-| Viibryd BvG                          |
+| Non-Preferred                        | Generic Name | Quantity | Time (Days) |
+| :----------------------------------- | :----------- | :------: | :---------: |
+| Aplenzin                             |              |          |             |
+| Brisdelle                            |              |          |             |
+| Bupropion XL (generic of Forfivo XL) |              |          |             |
+| Clomipramine                         |              |          |             |
+| Desvenlafaxine                       |              |          |             |
+| Drizalma Sprinkle                    |              |          |             |
+| Duloxetine 40mg                      |              |          |             |
+| Emsam                                |              |          |             |
+| Fetzima                              |              |          |             |
+| Fluoxetine 60mg                      |              |          |             |
+| Fluoxetine DR                        |              |          |             |
+| Fluvoxamine ER                       |              |          |             |
+| Marplan                              |              |          |             |
+| Paroxetine 7.5mg                     |              |          |             |
+| Paroxetine ER                        |              |          |             |
+| Pexeva                               |              |          |             |
+| Phenelzine                           |              |          |             |
+| Trazodone 300mg                      |              |          |             |
+| Trintellix                           |              |          |             |
+| Venlafaxine ER Tab                   |              |          |             |
+| Viibryd BvG                          |              |          |             |
 
 ## Length of Authorizations
 

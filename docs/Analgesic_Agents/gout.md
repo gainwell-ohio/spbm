@@ -6,20 +6,20 @@ This is a subcategory of Analgesic Agents.
 
 ### Preferred
 
-| Preferred                |
-| :----------------------- |
-| Allopurinol              |
-| Colchicine PA QL         |
-| Probenecid               |
-| Probenecid/Colchicine PA |
+| Preferred                | Generic Name | Quantity | Time (Days) |
+| :----------------------- | :----------- | :------: | :---------: |
+| Allopurinol              |              |          |             |
+| Colchicine PA QL         |              |          |             |
+| Probenecid               |              |          |             |
+| Probenecid/Colchicine PA |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred    |
-| :--------------- |
-| Colchicine QL    |
-| Gloperba Susp QL |
-| Uloric BvG       |
+| Non-Preferred    | Generic Name | Quantity | Time (Days) |
+| :--------------- | :----------- | :------: | :---------: |
+| Colchicine QL    |              |          |             |
+| Gloperba Susp QL |              |          |             |
+| Uloric BvG       |              |          |             |
 
 ## Length of Authorizations
 

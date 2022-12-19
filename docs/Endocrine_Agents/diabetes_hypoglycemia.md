@@ -6,20 +6,20 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred                             |
-| :------------------------------------ |
-| Baqsimi QL                            |
-| Glucagen Hypokit                      |
-| Glucagon Emerg Kit [Labeler 00002] QL |
-| Gvoke Hypopen QL                      |
-| Gvoke PFS QL                          |
-| Zegalogue                             |
+| Preferred                             | Generic Name | Quantity | Time (Days) |
+| :------------------------------------ | :----------- | :------: | :---------: |
+| Baqsimi QL                            |              |          |             |
+| Glucagen Hypokit                      |              |          |             |
+| Glucagon Emerg Kit [Labeler 00002] QL |              |          |             |
+| Gvoke Hypopen QL                      |              |          |             |
+| Gvoke PFS QL                          |              |          |             |
+| Zegalogue                             |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                                 |
-| :-------------------------------------------- |
-| Glucagon Emerg Kit [Labeler 00548 & 63323] QL |
+| Non-Preferred                                 | Generic Name | Quantity | Time (Days) |
+| :-------------------------------------------- | :----------- | :------: | :---------: |
+| Glucagon Emerg Kit [Labeler 00548 & 63323] QL |              |          |             |
 
 ## Length of Authorizations
 

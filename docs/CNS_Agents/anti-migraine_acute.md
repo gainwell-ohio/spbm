@@ -6,30 +6,30 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred     |
-| :------------ |
-| Naratriptan   |
-| Nurtec ODT ST |
-| Rizatriptan   |
-| Sumatriptan   |
+| Preferred     | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Naratriptan   |              |          |             |
+| Nurtec ODT ST |              |          |             |
+| Rizatriptan   |              |          |             |
+| Sumatriptan   |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred        |
-| :------------------- |
-| Almotriptan          |
-| Dihydroergotamine    |
-| Eletriptan           |
-| Ergomar              |
-| Frovatriptan         |
-| Migergot             |
-| Onzetra Xsail        |
-| Reyvow               |
-| Sumatriptan/Naproxen |
-| Tosymra              |
-| Trudhesa             |
-| Ubrelvy              |
-| Zolmitriptan         |
+| Non-Preferred        | Generic Name | Quantity | Time (Days) |
+| :------------------- | :----------- | :------: | :---------: |
+| Almotriptan          |              |          |             |
+| Dihydroergotamine    |              |          |             |
+| Eletriptan           |              |          |             |
+| Ergomar              |              |          |             |
+| Frovatriptan         |              |          |             |
+| Migergot             |              |          |             |
+| Onzetra Xsail        |              |          |             |
+| Reyvow               |              |          |             |
+| Sumatriptan/Naproxen |              |          |             |
+| Tosymra              |              |          |             |
+| Trudhesa             |              |          |             |
+| Ubrelvy              |              |          |             |
+| Zolmitriptan         |              |          |             |
 
 ## Length of Authorizations
 

@@ -6,18 +6,18 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Preferred
 
-| Preferred   |
-| :---------- |
-| Epogen PA   |
-| Mircera PA  |
-| Retacrit PA |
+| Preferred   | Generic Name | Quantity | Time (Days) |
+| :---------- | :----------- | :------: | :---------: |
+| Epogen PA   |              |          |             |
+| Mircera PA  |              |          |             |
+| Retacrit PA |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Aranesp       |
-| Procrit       |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Aranesp       |              |          |             |
+| Procrit       |              |          |             |
 
 ## Length of Authorizations
 

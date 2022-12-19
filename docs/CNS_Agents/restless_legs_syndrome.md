@@ -6,17 +6,17 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred   |
-| :---------- |
-| Pramipexole |
-| Ropinirole  |
+| Preferred   | Generic Name | Quantity | Time (Days) |
+| :---------- | :----------- | :------: | :---------: |
+| Pramipexole |              |          |             |
+| Ropinirole  |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Horizant      |
-| Neupro        |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Horizant      |              |          |             |
+| Neupro        |              |          |             |
 
 ## Length of Authorizations
 

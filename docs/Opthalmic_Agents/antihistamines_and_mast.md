@@ -6,22 +6,22 @@ This is a subcategory of Opthalmic Agents.
 
 ### Preferred
 
-| Preferred   |
-| :---------- |
-| Azelastine  |
-| Cromolyn    |
-| Ketotifen   |
-| Olopatadine |
+| Preferred   | Generic Name | Quantity | Time (Days) |
+| :---------- | :----------- | :------: | :---------: |
+| Azelastine  |              |          |             |
+| Cromolyn    |              |          |             |
+| Ketotifen   |              |          |             |
+| Olopatadine |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Alocril       |
-| Alomide       |
-| Bepreve BvG   |
-| Epinastine    |
-| Zerviate      |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Alocril       |              |          |             |
+| Alomide       |              |          |             |
+| Bepreve BvG   |              |          |             |
+| Epinastine    |              |          |             |
+| Zerviate      |              |          |             |
 
 ## Length of Authorizations
 

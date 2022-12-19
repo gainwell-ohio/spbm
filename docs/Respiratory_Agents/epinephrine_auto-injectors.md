@@ -8,17 +8,17 @@ Respiratory Agents: Epinephrine Auto-Injectors
 
 ### Preferred
 
-| Preferred                   |
-| :-------------------------- |
-| Epinephrine (labeler 49502) |
-| Symjepi                     |
+| Preferred                   | Generic Name | Quantity | Time (Days) |
+| :-------------------------- | :----------- | :------: | :---------: |
+| Epinephrine (labeler 49502) |              |          |             |
+| Symjepi                     |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Epipen        |
-| Epipen JR     |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Epipen        |              |          |             |
+| Epipen JR     |              |          |             |
 
 ## Length of Authorizations
 

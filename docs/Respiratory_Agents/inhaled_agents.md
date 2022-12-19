@@ -6,64 +6,64 @@ This is a subcategory of Respiratory Agents.
 
 ### Preferred
 
-| Preferred                                       |
-| :---------------------------------------------- |
-| Advair Diskus BvG                               |
-| Advair HFA                                      |
-| Albuterol Nebulizer Sol 0.083%, 0.5% Conc       |
-| Albuterol Nebulizer Sol 0.42mg/ml, 0.63mg/ml AR |
-| Anoro Ellipta                                   |
-| Asmanex Twisthaler                              |
-| Atrovent HFA                                    |
-| Budesonide Nebulizer Sol AR                     |
-| Combivent Respimat                              |
-| Cromolyn Neb Sol                                |
-| Dulera                                          |
-| Flovent BvG                                     |
-| Incruse Ellipta                                 |
-| Ipratropium                                     |
-| Ipratropium/Albuterol Nebulizer Sol             |
-| ProAir HFA BvG                                  |
-| Pulmicort Flexhaler                             |
-| Serevent Diskus                                 |
-| Spiriva                                         |
-| Stiolto                                         |
-| Striverdi Respimat                              |
-| Symbicort BvG                                   |
-| Ventolin HFA BvG                                |
+| Preferred                                       | Generic Name | Quantity | Time (Days) |
+| :---------------------------------------------- | :----------- | :------: | :---------: |
+| Advair Diskus BvG                               |              |          |             |
+| Advair HFA                                      |              |          |             |
+| Albuterol Nebulizer Sol 0.083%, 0.5% Conc       |              |          |             |
+| Albuterol Nebulizer Sol 0.42mg/ml, 0.63mg/ml AR |              |          |             |
+| Anoro Ellipta                                   |              |          |             |
+| Asmanex Twisthaler                              |              |          |             |
+| Atrovent HFA                                    |              |          |             |
+| Budesonide Nebulizer Sol AR                     |              |          |             |
+| Combivent Respimat                              |              |          |             |
+| Cromolyn Neb Sol                                |              |          |             |
+| Dulera                                          |              |          |             |
+| Flovent BvG                                     |              |          |             |
+| Incruse Ellipta                                 |              |          |             |
+| Ipratropium                                     |              |          |             |
+| Ipratropium/Albuterol Nebulizer Sol             |              |          |             |
+| ProAir HFA BvG                                  |              |          |             |
+| Pulmicort Flexhaler                             |              |          |             |
+| Serevent Diskus                                 |              |          |             |
+| Spiriva                                         |              |          |             |
+| Stiolto                                         |              |          |             |
+| Striverdi Respimat                              |              |          |             |
+| Symbicort BvG                                   |              |          |             |
+| Ventolin HFA BvG                                |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred              |
-| :------------------------- |
-| Aerospan HFA               |
-| Airduo Digihaler           |
-| Airduo Respiclick          |
-| Albuterol HFA              |
-| Alvesco                    |
-| Armonair Digihaler         |
-| Armonair Respiclick        |
-| Arnuity Ellipta            |
-| Asmanex HFA                |
-| Bevespi Aerosphere         |
-| Breo Ellipta BvG           |
-| Breztri Aerosphere         |
-| Brovana BvG                |
-| Budesonide/Formoterol      |
-| Duaklir Pressair           |
-| Fluticasone/Salmeterol     |
-| Levalbuterol Nebulizer Sol |
-| Lonhala Magnair            |
-| Perforomist BvG            |
-| Proair Digihaler           |
-| Proair Respiclick          |
-| Proventil                  |
-| Qvar                       |
-| Trelegy Ellipta            |
-| Tudorza                    |
-| Wixela Inhub               |
-| Xopenex HFA                |
-| Yupelri                    |
+| Non-Preferred              | Generic Name | Quantity | Time (Days) |
+| :------------------------- | :----------- | :------: | :---------: |
+| Aerospan HFA               |              |          |             |
+| Airduo Digihaler           |              |          |             |
+| Airduo Respiclick          |              |          |             |
+| Albuterol HFA              |              |          |             |
+| Alvesco                    |              |          |             |
+| Armonair Digihaler         |              |          |             |
+| Armonair Respiclick        |              |          |             |
+| Arnuity Ellipta            |              |          |             |
+| Asmanex HFA                |              |          |             |
+| Bevespi Aerosphere         |              |          |             |
+| Breo Ellipta BvG           |              |          |             |
+| Breztri Aerosphere         |              |          |             |
+| Brovana BvG                |              |          |             |
+| Budesonide/Formoterol      |              |          |             |
+| Duaklir Pressair           |              |          |             |
+| Fluticasone/Salmeterol     |              |          |             |
+| Levalbuterol Nebulizer Sol |              |          |             |
+| Lonhala Magnair            |              |          |             |
+| Perforomist BvG            |              |          |             |
+| Proair Digihaler           |              |          |             |
+| Proair Respiclick          |              |          |             |
+| Proventil                  |              |          |             |
+| Qvar                       |              |          |             |
+| Trelegy Ellipta            |              |          |             |
+| Tudorza                    |              |          |             |
+| Wixela Inhub               |              |          |             |
+| Xopenex HFA                |              |          |             |
+| Yupelri                    |              |          |             |
 
 ## Length of Authorizations
 

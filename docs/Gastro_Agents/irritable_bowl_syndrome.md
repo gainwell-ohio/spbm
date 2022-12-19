@@ -6,18 +6,18 @@ This is a subcategory of Gastrointestinal Agents.
 
 ### Preferred
 
-| Preferred              |
-| :--------------------- |
-| Diphenoxylate/Atropine |
-| Loperamide             |
-| Xifaxan ST             |
+| Preferred              | Generic Name | Quantity | Time (Days) |
+| :--------------------- | :----------- | :------: | :---------: |
+| Diphenoxylate/Atropine |              |          |             |
+| Loperamide             |              |          |             |
+| Xifaxan ST             |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Alosetron     |
-| Viberzi       |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Alosetron     |              |          |             |
+| Viberzi       |              |          |             |
 
 ## Length of Authorizations
 

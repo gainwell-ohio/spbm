@@ -6,18 +6,18 @@ This is a subcategory of Gastrointestinal Agents.
 
 ### Preferred
 
-| Preferred |
-| :-------- |
-| Creon     |
-| Zenpep    |
+| Preferred | Generic Name | Quantity | Time (Days) |
+| :-------- | :----------- | :------: | :---------: |
+| Creon     |              |          |             |
+| Zenpep    |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Pancreaze     |
-| Pertzye       |
-| Viokace       |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Pancreaze     |              |          |             |
+| Pertzye       |              |          |             |
+| Viokace       |              |          |             |
 
 ## Length of Authorizations
 

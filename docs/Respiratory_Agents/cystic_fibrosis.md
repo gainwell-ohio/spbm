@@ -6,18 +6,18 @@ This is a subcategory of Respiratory Agents.
 
 ### Preferred
 
-| Preferred   |
-| :---------- |
-| Kalydeco PA |
-| Orkambi PA  |
-| Symdeko PA  |
-| Trikafta PA |
+| Preferred   | Generic Name | Quantity | Time (Days) |
+| :---------- | :----------- | :------: | :---------: |
+| Kalydeco PA |              |          |             |
+| Orkambi PA  |              |          |             |
+| Symdeko PA  |              |          |             |
+| Trikafta PA |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Bronchitol    |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Bronchitol    |              |          |             |
 
 ## Length of Authorizations
 

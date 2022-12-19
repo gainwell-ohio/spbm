@@ -6,29 +6,29 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                          |
-| :--------------------------------- |
-| Amitriptyline                      |
-| Carbamazepine                      |
-| Desipramine                        |
-| Doxepin 10, 25, 50, 75, 100, 150mg |
-| Doxepin 10mg/m Sol                 |
-| Duloxetine                         |
-| Gabapentin                         |
-| Imipramine                         |
-| Lidocaine Patch                    |
-| Nortriptyline                      |
-| Oxcarbazepine                      |
-| Pregabalin                         |
+| Preferred                          | Generic Name | Quantity | Time (Days) |
+| :--------------------------------- | :----------- | :------: | :---------: |
+| Amitriptyline                      |              |          |             |
+| Carbamazepine                      |              |          |             |
+| Desipramine                        |              |          |             |
+| Doxepin 10, 25, 50, 75, 100, 150mg |              |          |             |
+| Doxepin 10mg/m Sol                 |              |          |             |
+| Duloxetine                         |              |          |             |
+| Gabapentin                         |              |          |             |
+| Imipramine                         |              |          |             |
+| Lidocaine Patch                    |              |          |             |
+| Nortriptyline                      |              |          |             |
+| Oxcarbazepine                      |              |          |             |
+| Pregabalin                         |              |          |             |
 
 ### Non-Preferred
 
-| Preferred     |
-| :------------ |
-| Gralise       |
-| Horizant      |
-| Pregabalin ER |
-| Ztlido        |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Gralise       |              |          |             |
+| Horizant      |              |          |             |
+| Pregabalin ER |              |          |             |
+| Ztlido        |              |          |             |
 
 ## Length of Authorizations
 

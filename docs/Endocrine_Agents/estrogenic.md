@@ -6,32 +6,32 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred                               |
-| :-------------------------------------- |
-| Climara Pro                             |
-| Combipatch                              |
-| Estradiol                               |
-| Estring                                 |
-| Ethinyl Estradiol/Norethindrone Acetate |
-| Menest                                  |
-| Premarin                                |
-| Premphase                               |
-| Prempro                                 |
+| Preferred                               | Generic Name | Quantity | Time (Days) |
+| :-------------------------------------- | :----------- | :------: | :---------: |
+| Climara Pro                             |              |          |             |
+| Combipatch                              |              |          |             |
+| Estradiol                               |              |          |             |
+| Estring                                 |              |          |             |
+| Ethinyl Estradiol/Norethindrone Acetate |              |          |             |
+| Menest                                  |              |          |             |
+| Premarin                                |              |          |             |
+| Premphase                               |              |          |             |
+| Prempro                                 |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                   |
-| :------------------------------ |
-| Angeliq                         |
-| Divigel                         |
-| Duavee                          |
-| Estradiol 10mcg Vag Tab         |
-| Estradiol/Norethindrone Acetate |
-| Evamist                         |
-| Femring                         |
-| Menostar                        |
-| Minivelle                       |
-| Prefest                         |
+| Non-Preferred                   | Generic Name | Quantity | Time (Days) |
+| :------------------------------ | :----------- | :------: | :---------: |
+| Angeliq                         |              |          |             |
+| Divigel                         |              |          |             |
+| Duavee                          |              |          |             |
+| Estradiol 10mcg Vag Tab         |              |          |             |
+| Estradiol/Norethindrone Acetate |              |          |             |
+| Evamist                         |              |          |             |
+| Femring                         |              |          |             |
+| Menostar                        |              |          |             |
+| Minivelle                       |              |          |             |
+| Prefest                         |              |          |             |
 
 ## Length of Authorizations
 

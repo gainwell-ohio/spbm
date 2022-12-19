@@ -6,29 +6,29 @@ This is a subcategory of Gastrointestinal Agents.
 
 ### Preferred
 
-| Preferred           |
-| :------------------ |
-| Lansoprazole Cap    |
-| Nexium Granules BvG |
-| Omeprazole Cap      |
-| Pantoprazole Tab    |
-| Protonix Pak AR BvG |
+| Preferred           | Generic Name | Quantity | Time (Days) |
+| :------------------ | :----------- | :------: | :---------: |
+| Lansoprazole Cap    |              |          |             |
+| Nexium Granules BvG |              |          |             |
+| Omeprazole Cap      |              |          |             |
+| Pantoprazole Tab    |              |          |             |
+| Protonix Pak AR BvG |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                 |
-| :---------------------------- |
-| Aciphex                       |
-| Dexilant BvG                  |
-| Esomeprazole                  |
-| Esomeprazole Granules         |
-| Lansoprazole ODT              |
-| Omeprazole Tab                |
-| Omeprazole/Sodium Bicarbonate |
-| Pantoprazole Packet           |
-| Prilosec Susp                 |
-| Protonix Susp AR              |
-| Rabeprazole                   |
+| Non-Preferred                 | Generic Name | Quantity | Time (Days) |
+| :---------------------------- | :----------- | :------: | :---------: |
+| Aciphex                       |              |          |             |
+| Dexilant BvG                  |              |          |             |
+| Esomeprazole                  |              |          |             |
+| Esomeprazole Granules         |              |          |             |
+| Lansoprazole ODT              |              |          |             |
+| Omeprazole Tab                |              |          |             |
+| Omeprazole/Sodium Bicarbonate |              |          |             |
+| Pantoprazole Packet           |              |          |             |
+| Prilosec Susp                 |              |          |             |
+| Protonix Susp AR              |              |          |             |
+| Rabeprazole                   |              |          |             |
 
 ## Length of Authorizations
 

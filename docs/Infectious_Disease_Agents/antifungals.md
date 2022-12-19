@@ -6,26 +6,26 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Preferred
 
-| Preferred    |
-| :----------- |
-| Fluconazole  |
-| Flucytosine  |
-| Griseofulvin |
-| Ketoconazole |
-| Terbinafine  |
+| Preferred    | Generic Name | Quantity | Time (Days) |
+| :----------- | :----------- | :------: | :---------: |
+| Fluconazole  |              |          |             |
+| Flucytosine  |              |          |             |
+| Griseofulvin |              |          |             |
+| Ketoconazole |              |          |             |
+| Terbinafine  |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Brexafemme    |
-| Cresemba      |
-| Itraconazole  |
-| Noxafil Susp  |
-| Oravig        |
-| Posaconazole  |
-| Tolsura       |
-| Voriconazole  |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Brexafemme    |              |          |             |
+| Cresemba      |              |          |             |
+| Itraconazole  |              |          |             |
+| Noxafil Susp  |              |          |             |
+| Oravig        |              |          |             |
+| Posaconazole  |              |          |             |
+| Tolsura       |              |          |             |
+| Voriconazole  |              |          |             |
 
 ## Length of Authorizations
 

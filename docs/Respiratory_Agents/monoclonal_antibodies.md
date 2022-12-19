@@ -6,18 +6,18 @@ This is a subcategory of Respiratory Agents.
 
 ### Preferred
 
-| Preferred  |
-| :--------- |
-| Fasenra PA |
-| Nucala PA  |
-| Xolair PA  |
+| Preferred  | Generic Name | Quantity | Time (Days) |
+| :--------- | :----------- | :------: | :---------: |
+| Fasenra PA |              |          |             |
+| Nucala PA  |              |          |             |
+| Xolair PA  |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Dupixent      |
-| Tezspire      |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Dupixent      |              |          |             |
+| Tezspire      |              |          |             |
 
 ## Length of Authorizations
 

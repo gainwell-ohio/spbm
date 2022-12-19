@@ -6,19 +6,19 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Preferred
 
-| Preferred   |
-| :---------- |
-| Eliquis     |
-| Pradaxa BvG |
-| Warfarin    |
-| Xarelto     |
+| Preferred   | Generic Name | Quantity | Time (Days) |
+| :---------- | :----------- | :------: | :---------: |
+| Eliquis     |              |          |             |
+| Pradaxa BvG |              |          |             |
+| Warfarin    |              |          |             |
+| Xarelto     |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Dabigatran    |
-| Savaysa       |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Dabigatran    |              |          |             |
+| Savaysa       |              |          |             |
 
 ## Length of Authorizations
 

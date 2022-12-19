@@ -6,71 +6,71 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Preferred
 
-| Preferred                                   |
-| :------------------------------------------ |
-| Abacavir Sulfate                            |
-| Abacavir/Lamivudine                         |
-| Atazanavir Sulfate                          |
-| Biktarvy                                    |
-| Cimduo                                      |
-| Complera                                    |
-| Delstrigo                                   |
-| Descovy                                     |
-| Dovato                                      |
-| Efavirenz                                   |
-| Efavirenz/Emtricitabine/Tenofovir           |
-| Emtricitabine/Tenofovir Disoproxil Fumarate |
-| Emtriva BvG                                 |
-| Evotaz                                      |
-| Genvoya                                     |
-| Isentress Chew Tab AR                       |
-| Isentress                                   |
-| Juluca                                      |
-| Kaletra Tab BvG                             |
-| Norvir Tab BvG                              |
-| Odefsey                                     |
-| Pifeltro                                    |
-| Prezcobix                                   |
-| Prezista                                    |
-| Rukobia ER PA                               |
-| Symfi BvG                                   |
-| Symfi Lo BvG                                |
-| Temixys                                     |
-| Tenofovir Disoproxil 300mg                  |
-| Tivicay                                     |
-| Tivicay PD                                  |
-| Triumeq                                     |
-| Triumeq PD PA                               |
-| Viread                                      |
-| Viread Oral Powder                          |
-| Zidovudine                                  |
+| Preferred                                   | Generic Name | Quantity | Time (Days) |
+| :------------------------------------------ | :----------- | :------: | :---------: |
+| Abacavir Sulfate                            |              |          |             |
+| Abacavir/Lamivudine                         |              |          |             |
+| Atazanavir Sulfate                          |              |          |             |
+| Biktarvy                                    |              |          |             |
+| Cimduo                                      |              |          |             |
+| Complera                                    |              |          |             |
+| Delstrigo                                   |              |          |             |
+| Descovy                                     |              |          |             |
+| Dovato                                      |              |          |             |
+| Efavirenz                                   |              |          |             |
+| Efavirenz/Emtricitabine/Tenofovir           |              |          |             |
+| Emtricitabine/Tenofovir Disoproxil Fumarate |              |          |             |
+| Emtriva BvG                                 |              |          |             |
+| Evotaz                                      |              |          |             |
+| Genvoya                                     |              |          |             |
+| Isentress Chew Tab AR                       |              |          |             |
+| Isentress                                   |              |          |             |
+| Juluca                                      |              |          |             |
+| Kaletra Tab BvG                             |              |          |             |
+| Norvir Tab BvG                              |              |          |             |
+| Odefsey                                     |              |          |             |
+| Pifeltro                                    |              |          |             |
+| Prezcobix                                   |              |          |             |
+| Prezista                                    |              |          |             |
+| Rukobia ER PA                               |              |          |             |
+| Symfi BvG                                   |              |          |             |
+| Symfi Lo BvG                                |              |          |             |
+| Temixys                                     |              |          |             |
+| Tenofovir Disoproxil 300mg                  |              |          |             |
+| Tivicay                                     |              |          |             |
+| Tivicay PD                                  |              |          |             |
+| Triumeq                                     |              |          |             |
+| Triumeq PD PA                               |              |          |             |
+| Viread                                      |              |          |             |
+| Viread Oral Powder                          |              |          |             |
+| Zidovudine                                  |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                                      |
-| :------------------------------------------------- |
-| Abacavir Susp                                      |
-| Abacavir/Lamivudine/Zidovudine                     |
-| Aptivus                                            |
-| Didanosine                                         |
-| Edurant                                            |
-| Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate |
-| Emtricitabine                                      |
-| Fosamprenavir                                      |
-| Fuzeon                                             |
-| Intelence BvG                                      |
-| Lamivudine                                         |
-| Lamivudine/Zidovudine                              |
-| Lopinavir/Ritonavir                                |
-| Nevirapine                                         |
-| Norvir Powder, Sol                                 |
-| Ritonavir Tab                                      |
-| Selzentry BvG                                      |
-| Stavudine                                          |
-| Stribild                                           |
-| Symtuza                                            |
-| Tybost                                             |
-| Viracept                                           |
+| Non-Preferred                                      | Generic Name | Quantity | Time (Days) |
+| :------------------------------------------------- | :----------- | :------: | :---------: |
+| Abacavir Susp                                      |              |          |             |
+| Abacavir/Lamivudine/Zidovudine                     |              |          |             |
+| Aptivus                                            |              |          |             |
+| Didanosine                                         |              |          |             |
+| Edurant                                            |              |          |             |
+| Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate |              |          |             |
+| Emtricitabine                                      |              |          |             |
+| Fosamprenavir                                      |              |          |             |
+| Fuzeon                                             |              |          |             |
+| Intelence BvG                                      |              |          |             |
+| Lamivudine                                         |              |          |             |
+| Lamivudine/Zidovudine                              |              |          |             |
+| Lopinavir/Ritonavir                                |              |          |             |
+| Nevirapine                                         |              |          |             |
+| Norvir Powder, Sol                                 |              |          |             |
+| Ritonavir Tab                                      |              |          |             |
+| Selzentry BvG                                      |              |          |             |
+| Stavudine                                          |              |          |             |
+| Stribild                                           |              |          |             |
+| Symtuza                                            |              |          |             |
+| Tybost                                             |              |          |             |
+| Viracept                                           |              |          |             |
 
 ## Length of Authorizations
 

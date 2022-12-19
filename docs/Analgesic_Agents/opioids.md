@@ -8,56 +8,56 @@ This is a subcategory of Analgesic Agents.
 
 ### Preferred
 
-| Preferred                    |
-| :--------------------------- |
-| Acetaminophen/Codeine QL     |
-| Butalb/APAP/Caff w/ Codeine  |
-| Butalb/ASA/Caff w/ Codeine   |
-| Butorphanol QL               |
-| Butrans BvG PA QL            |
-| Codeine QL                   |
-| Hydrocodone/Acetaminophen QL |
-| Hydromorphone IR QL          |
-| Morphine ER Tab PA QL        |
-| Morphine Sol QL              |
-| Morphine Tab QL              |
-| Oxycodone Cap QL             |
-| Oxycodone Sol QL             |
-| Oxycodone Tab QL             |
-| Oxycodone/Acetaminophen QL   |
-| Tramadol QL                  |
-| Tramadol/APAP                |
+| Preferred                    | Generic Name | Quantity | Time (Days) |
+| :--------------------------- | :----------- | :------: | :---------: |
+| Acetaminophen/Codeine QL     |              |          |             |
+| Butalb/APAP/Caff w/ Codeine  |              |          |             |
+| Butalb/ASA/Caff w/ Codeine   |              |          |             |
+| Butorphanol QL               |              |          |             |
+| Butrans BvG PA QL            |              |          |             |
+| Codeine QL                   |              |          |             |
+| Hydrocodone/Acetaminophen QL |              |          |             |
+| Hydromorphone IR QL          |              |          |             |
+| Morphine ER Tab PA QL        |              |          |             |
+| Morphine Sol QL              |              |          |             |
+| Morphine Tab QL              |              |          |             |
+| Oxycodone Cap QL             |              |          |             |
+| Oxycodone Sol QL             |              |          |             |
+| Oxycodone Tab QL             |              |          |             |
+| Oxycodone/Acetaminophen QL   |              |          |             |
+| Tramadol QL                  |              |          |             |
+| Tramadol/APAP                |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                                         |
-| :---------------------------------------------------- |
-| APAP/Caffeine/Dihydrocodone                           |
-| Belbuca                                               |
-| Benzhydrocodone/APAP                                  |
-| Buprenorphine Patch                                   |
-| Butalb/APAP/Caff w/ Codeine                           |
-| Dsuvia                                                |
-| Fentanyl                                              |
-| Hydrocodone Bitartrate ER 12HR CapQL                  |
-| Hydrocodone Bitartrate ER 24HR TabQL                  |
-| Hydrocodone/Acetaminophen 5-300, 7.5-300, 10-300mg QL |
-| Hydrocodone/Ibuprofen                                 |
-| Hydromorphone ER QL                                   |
-| Levorphanol                                           |
-| Meperidine                                            |
-| Methadone QL                                          |
-| Morphine ER 24HR Cap QL                               |
-| Nucynta ER                                            |
-| Oxaydo                                                |
-| Oxycodone ER QL                                       |
-| Oxycodone/Ibuprofen QL                                |
-| Oxymorphone, ER QL                                    |
-| Pentazocine/Naloxone                                  |
-| Seglentis QL                                          |
-| Tramadol ER QL                                        |
-| Tramadol Sol QL                                       |
-| Xtampza ER                                            |
+| Non-Preferred                                         | Generic Name | Quantity | Time (Days) |
+| :---------------------------------------------------- | :----------- | :------: | :---------: |
+| APAP/Caffeine/Dihydrocodone                           |              |          |             |
+| Belbuca                                               |              |          |             |
+| Benzhydrocodone/APAP                                  |              |          |             |
+| Buprenorphine Patch                                   |              |          |             |
+| Butalb/APAP/Caff w/ Codeine                           |              |          |             |
+| Dsuvia                                                |              |          |             |
+| Fentanyl                                              |              |          |             |
+| Hydrocodone Bitartrate ER 12HR CapQL                  |              |          |             |
+| Hydrocodone Bitartrate ER 24HR TabQL                  |              |          |             |
+| Hydrocodone/Acetaminophen 5-300, 7.5-300, 10-300mg QL |              |          |             |
+| Hydrocodone/Ibuprofen                                 |              |          |             |
+| Hydromorphone ER QL                                   |              |          |             |
+| Levorphanol                                           |              |          |             |
+| Meperidine                                            |              |          |             |
+| Methadone QL                                          |              |          |             |
+| Morphine ER 24HR Cap QL                               |              |          |             |
+| Nucynta ER                                            |              |          |             |
+| Oxaydo                                                |              |          |             |
+| Oxycodone ER QL                                       |              |          |             |
+| Oxycodone/Ibuprofen QL                                |              |          |             |
+| Oxymorphone, ER QL                                    |              |          |             |
+| Pentazocine/Naloxone                                  |              |          |             |
+| Seglentis QL                                          |              |          |             |
+| Tramadol ER QL                                        |              |          |             |
+| Tramadol Sol QL                                       |              |          |             |
+| Xtampza ER                                            |              |          |             |
 
 ## Length of Authorizations
 

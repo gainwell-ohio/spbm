@@ -6,18 +6,18 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred   |
-| :---------- |
-| Nicotine    |
-| Bupropion   |
-| Chantix     |
-| Varenicline |
+| Preferred   | Generic Name | Quantity | Time (Days) |
+| :---------- | :----------- | :------: | :---------: |
+| Nicotine    |              |          |             |
+| Bupropion   |              |          |             |
+| Chantix     |              |          |             |
+| Varenicline |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-|               |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+|               |              |          |             |
 
 All products are covered without a PA
 

@@ -6,18 +6,18 @@ This is a subcategory of Topical Agents.
 
 ### Preferred
 
-| Preferred        |
-| :--------------- |
-| Elidel AR BvG ST |
-| Protopic AR ST   |
+| Preferred        | Generic Name | Quantity | Time (Days) |
+| :--------------- | :----------- | :------: | :---------: |
+| Elidel AR BvG ST |              |          |             |
+| Protopic AR ST   |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Eucrisa       |
-| Opzelura      |
-| Pimecrolimus  |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Eucrisa       |              |          |             |
+| Opzelura      |              |          |             |
+| Pimecrolimus  |              |          |             |
 
 ## Length of Authorizations
 

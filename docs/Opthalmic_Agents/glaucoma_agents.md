@@ -6,42 +6,42 @@ This is a subcategory of Opthalmic Agents.
 
 ### Preferred
 
-| Preferred            |
-| :------------------- |
-| Alphagan P 0.1% ST   |
-| Alphagan P 0.15% BvG |
-| Azopt BvG ST         |
-| Betaxolol            |
-| Brimonidine 0.2%     |
-| Carteolol            |
-| Combigan BvG ST      |
-| Dorzolamide          |
-| Dorzolamide/Timolol  |
-| Latanaprost          |
-| Levobunolol          |
-| Metipranolol         |
-| Rhopressa            |
-| Rocklatan            |
-| Simbrinza            |
-| Timolol              |
-| Travatan Z BvG ST    |
+| Preferred            | Generic Name | Quantity | Time (Days) |
+| :------------------- | :----------- | :------: | :---------: |
+| Alphagan P 0.1% ST   |              |          |             |
+| Alphagan P 0.15% BvG |              |          |             |
+| Azopt BvG ST         |              |          |             |
+| Betaxolol            |              |          |             |
+| Brimonidine 0.2%     |              |          |             |
+| Carteolol            |              |          |             |
+| Combigan BvG ST      |              |          |             |
+| Dorzolamide          |              |          |             |
+| Dorzolamide/Timolol  |              |          |             |
+| Latanaprost          |              |          |             |
+| Levobunolol          |              |          |             |
+| Metipranolol         |              |          |             |
+| Rhopressa            |              |          |             |
+| Rocklatan            |              |          |             |
+| Simbrinza            |              |          |             |
+| Timolol              |              |          |             |
+| Travatan Z BvG ST    |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred     |
-| :---------------- |
-| Apraclonidine     |
-| Betoptic S        |
-| Bimatoprost       |
-| Brimonidine 0.15% |
-| Brinzolamide      |
-| Iopidine          |
-| Istalol           |
-| Lumigan           |
-| Travoprost        |
-| Vyzulta           |
-| Xelpros           |
-| Zioptan           |
+| Non-Preferred     | Generic Name | Quantity | Time (Days) |
+| :---------------- | :----------- | :------: | :---------: |
+| Apraclonidine     |              |          |             |
+| Betoptic S        |              |          |             |
+| Bimatoprost       |              |          |             |
+| Brimonidine 0.15% |              |          |             |
+| Brinzolamide      |              |          |             |
+| Iopidine          |              |          |             |
+| Istalol           |              |          |             |
+| Lumigan           |              |          |             |
+| Travoprost        |              |          |             |
+| Vyzulta           |              |          |             |
+| Xelpros           |              |          |             |
+| Zioptan           |              |          |             |
 
 ## Length of Authorizations
 

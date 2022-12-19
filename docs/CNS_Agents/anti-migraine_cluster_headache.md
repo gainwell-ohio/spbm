@@ -6,15 +6,15 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred |
-| :-------- |
-| Verapamil |
+| Preferred | Generic Name | Quantity | Time (Days) |
+| :-------- | :----------- | :------: | :---------: |
+| Verapamil |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Emgality      |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Emgality      |              |          |             |
 
 ## Length of Authorizations
 

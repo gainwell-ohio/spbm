@@ -6,23 +6,23 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Preferred
 
-| Preferred             |
-| :-------------------- |
-| Doxycycline 50, 100mg |
-| Doxycycline Syr       |
-| Minocycline Cap       |
-| Tetracycline          |
-| Vibramycin Susp AR    |
+| Preferred             | Generic Name | Quantity | Time (Days) |
+| :-------------------- | :----------- | :------: | :---------: |
+| Doxycycline 50, 100mg |              |          |             |
+| Doxycycline Syr       |              |          |             |
+| Minocycline Cap       |              |          |             |
+| Tetracycline          |              |          |             |
+| Vibramycin Susp AR    |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                 |
-| :---------------------------- |
-| Doxycycline 20, 40, 75, 150mg |
-| Doxycycline DR                |
-| Minocycline ER                |
-| Minocycline Tab               |
-| Nuzyra                        |
+| Non-Preferred                 | Generic Name | Quantity | Time (Days) |
+| :---------------------------- | :----------- | :------: | :---------: |
+| Doxycycline 20, 40, 75, 150mg |              |          |             |
+| Doxycycline DR                |              |          |             |
+| Minocycline ER                |              |          |             |
+| Minocycline Tab               |              |          |             |
+| Nuzyra                        |              |          |             |
 
 ## Length of Authorizations
 

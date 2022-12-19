@@ -6,22 +6,22 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Preferred
 
-| Preferred                 |
-| :------------------------ |
-| Mavyret PA                |
-| Pegasys PA                |
-| Ribavirin PA              |
-| Sofosbuvir/Velpatasvir PA |
+| Preferred                 | Generic Name | Quantity | Time (Days) |
+| :------------------------ | :----------- | :------: | :---------: |
+| Mavyret PA                |              |          |             |
+| Pegasys PA                |              |          |             |
+| Ribavirin PA              |              |          |             |
+| Sofosbuvir/Velpatasvir PA |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                       |
-| :---------------------------------- |
-| Harvoni 33.75-150, 45-200, 90-400mg |
-| Ledipasvir/Sofosbuvir               |
-| Sovaldi                             |
-| Vosevi                              |
-| Zepatier                            |
+| Non-Preferred                       | Generic Name | Quantity | Time (Days) |
+| :---------------------------------- | :----------- | :------: | :---------: |
+| Harvoni 33.75-150, 45-200, 90-400mg |              |          |             |
+| Ledipasvir/Sofosbuvir               |              |          |             |
+| Sovaldi                             |              |          |             |
+| Vosevi                              |              |          |             |
+| Zepatier                            |              |          |             |
 
 ## Length of Authorizations
 

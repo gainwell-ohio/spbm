@@ -6,23 +6,23 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                     |
-| :---------------------------- |
-| Amphetamine/Dextroamphetamine |
-| Armodafinil                   |
-| Dextroamphetamine ER          |
-| Methylphenidate ER            |
-| Methylphenidate Tab           |
-| Modafinil                     |
+| Preferred                     | Generic Name | Quantity | Time (Days) |
+| :---------------------------- | :----------- | :------: | :---------: |
+| Amphetamine/Dextroamphetamine |              |          |             |
+| Armodafinil                   |              |          |             |
+| Dextroamphetamine ER          |              |          |             |
+| Methylphenidate ER            |              |          |             |
+| Methylphenidate Tab           |              |          |             |
+| Modafinil                     |              |          |             |
 
 ### Non-Preferred
 
-| Preferred |
-| :-------- |
-| Sunosi    |
-| Wakix     |
-| Xyrem     |
-| Xywav     |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Sunosi        |              |          |             |
+| Wakix         |              |          |             |
+| Xyrem         |              |          |             |
+| Xywav         |              |          |             |
 
 ## Length of Authorizations
 

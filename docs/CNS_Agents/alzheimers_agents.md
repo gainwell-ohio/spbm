@@ -6,26 +6,26 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred               |      |
-| :---------------------- | ---: |
-| Donepezil 5mg, 10mg Tab |      |
-| Donepezil ODT           |      |
-| Exelon Patch BvG        |      |
-| Galantamine Tab         |      |
-| Galantamine ER Cap      |      |
-| Memantine Tab           |      |
-| Rivastigmine Cap        |      |
+| Preferred    | Generic Name | Quantity | Time (Days) |
+| :--------------- | :----------- | :------: | :---------: |
+| Donepezil 5mg, 10mg Tab |      |||
+| Donepezil ODT           |      |||
+| Exelon Patch BvG        |      |||
+| Galantamine Tab         |      |||
+| Galantamine ER Cap      |      |||
+| Memantine Tab           |      |||
+| Rivastigmine Cap        |      |||
 
 ### Non-Preferred
 
-| Non-Preferred      |
-| :----------------- |
-| Donepezil 23mg Tab |
-| Galantamine Sol    |
-| Memantine ER       |
-| Memantine Sol      |
-| Namzaric           |
-| Rivastigmine Patch |
+| Non-Preferred    | Generic Name | Quantity | Time (Days) |
+| :--------------- | :----------- | :------: | :---------: |
+| Donepezil 23mg Tab ||||
+| Galantamine Sol    ||||
+| Memantine ER       ||||
+| Memantine Sol      ||||
+| Namzaric           ||||
+| Rivastigmine Patch ||||
 
 ## Length of Authorizations
 

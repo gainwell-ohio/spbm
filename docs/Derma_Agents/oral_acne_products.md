@@ -6,21 +6,21 @@ This is a subcategory of Dermatological Agents.
 
 ### Preferred
 
-| Preferred       |
-| :-------------- |
-| Accutane PA     |
-| Amnesteem PA    |
-| Claravis PA     |
-| Isotretinoin PA |
-| Myorisan PA     |
-| Zenatane PA     |
+| Preferred       | Generic Name | Quantity | Time (Days) |
+| :-------------- | :----------- | :------: | :---------: |
+| Accutane PA     |              |          |             |
+| Amnesteem PA    |              |          |             |
+| Claravis PA     |              |          |             |
+| Isotretinoin PA |              |          |             |
+| Myorisan PA     |              |          |             |
+| Zenatane PA     |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Absorica      |
-| Absorica LD   |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Absorica      |              |          |             |
+| Absorica LD   |              |          |             |
 
 ## Length of Authorizations
 

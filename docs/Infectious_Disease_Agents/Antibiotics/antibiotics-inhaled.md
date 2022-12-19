@@ -6,19 +6,19 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Preferred
 
-| Preferred        |
-| :--------------- |
-| Arikayce PA QL   |
-| Tobramycin AR PA |
+| Preferred        | Generic Name | Quantity | Time (Days) |
+| :--------------- | :----------- | :------: | :---------: |
+| Arikayce PA QL   |              |          |             |
+| Tobramycin AR PA |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred    |
-| :--------------- |
-| Bethkis AR       |
-| Cayston AR       |
-| Kitabis Pak AR   |
-| Tobi Podhaler AR |
+| Non-Preferred    | Generic Name | Quantity | Time (Days) |
+| :--------------- | :----------- | :------: | :---------: |
+| Bethkis AR       |              |          |             |
+| Cayston AR       |              |          |             |
+| Kitabis Pak AR   |              |          |             |
+| Tobi Podhaler AR |              |          |             |
 
 ## Length of Authorizations
 

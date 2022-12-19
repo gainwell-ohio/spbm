@@ -6,18 +6,18 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred    |
-| :----------- |
-| Diastat BvG  |
-| Diazepam Gel |
-| Nayzilam AR  |
-| Valtoco AR   |
+| Preferred    | Generic Name | Quantity | Time (Days) |
+| :----------- | :----------- | :------: | :---------: |
+| Diastat BvG  |              |          |             |
+| Diazepam Gel |              |          |             |
+| Nayzilam AR  |              |          |             |
+| Valtoco AR   |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-|               |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+|               |              |          |             |
 
 ## Length of Authorizations
 

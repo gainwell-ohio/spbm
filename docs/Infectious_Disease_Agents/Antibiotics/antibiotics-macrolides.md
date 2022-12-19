@@ -8,18 +8,18 @@ Infectious Disease Agents: Antibiotics – Macrolides
 
 ### Preferred
 
-| Preferred      |
-| :------------- |
-| Azithromycin   |
-| Clarithromycin |
+| Preferred      | Generic Name | Quantity | Time (Days) |
+| :------------- | :----------- | :------: | :---------: |
+| Azithromycin   |              |          |             |
+| Clarithromycin |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred       |
-| :------------------ |
-| Eryped              |
-| Erythrocin Stearate |
-| Erythromycin        |
+| Non-Preferred       | Generic Name | Quantity | Time (Days) |
+| :------------------ | :----------- | :------: | :---------: |
+| Eryped              |              |          |             |
+| Erythrocin Stearate |              |          |             |
+| Erythromycin        |              |          |             |
 
 ## Length of Authorizations
 

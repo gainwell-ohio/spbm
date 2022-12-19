@@ -6,21 +6,21 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred         |
-| :---------------- |
-| Alendronate Tab   |
-| Calcitonin-Salmon |
-| Forteo            |
-| Ibandronate       |
+| Preferred         | Generic Name | Quantity | Time (Days) |
+| :---------------- | :----------- | :------: | :---------: |
+| Alendronate Tab   |              |          |             |
+| Calcitonin-Salmon |              |          |             |
+| Forteo            |              |          |             |
+| Ibandronate       |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred    |
-| :--------------- |
-| Alendronate Susp |
-| Fosamax Plus D   |
-| Risedronate      |
-| Tymlos           |
+| Non-Preferred    | Generic Name | Quantity | Time (Days) |
+| :--------------- | :----------- | :------: | :---------: |
+| Alendronate Susp |              |          |             |
+| Fosamax Plus D   |              |          |             |
+| Risedronate      |              |          |             |
+| Tymlos           |              |          |             |
 
 ## Length of Authorizations
 

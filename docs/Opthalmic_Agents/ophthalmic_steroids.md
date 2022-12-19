@@ -6,29 +6,29 @@ This is a subcategory of Opthalmic Agents.
 
 ### Preferred
 
-| Preferred                      |
-| :----------------------------- |
-| Dexamethasone Sodium Phosphate |
-| Durezol BvG                    |
-| Fluorometholone                |
-| Fml Forte                      |
-| Fml S.O.P.                     |
-| Pred Mild                      |
-| Prednisolone Acetate           |
-| Prednisolone Sodium Phosphate  |
+| Preferred                      | Generic Name | Quantity | Time (Days) |
+| :----------------------------- | :----------- | :------: | :---------: |
+| Dexamethasone Sodium Phosphate |              |          |             |
+| Durezol BvG                    |              |          |             |
+| Fluorometholone                |              |          |             |
+| Fml Forte                      |              |          |             |
+| Fml S.O.P.                     |              |          |             |
+| Pred Mild                      |              |          |             |
+| Prednisolone Acetate           |              |          |             |
+| Prednisolone Sodium Phosphate  |              |          |             |
 
 ### Non-Preferred
 
-| Preferred     |
-| :------------ |
-| Alrex BvG     |
-| Difluprednate |
-| Flarex        |
-| Inveltys      |
-| Lotemax BvG   |
-| Lotemax SM    |
-| Loteprednol   |
-| Maxidex       |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Alrex BvG     |              |          |             |
+| Difluprednate |              |          |             |
+| Flarex        |              |          |             |
+| Inveltys      |              |          |             |
+| Lotemax BvG   |              |          |             |
+| Lotemax SM    |              |          |             |
+| Loteprednol   |              |          |             |
+| Maxidex       |              |          |             |
 
 ## Length of Authorizations
 

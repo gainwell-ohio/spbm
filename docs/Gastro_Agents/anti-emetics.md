@@ -8,35 +8,35 @@ Gastrointestinal Agents: Anti-Emetics
 
 ### Preferred
 
-| Preferred                 |
-| :------------------------ |
-| Aprepitant 40mg, 125mg    |
-| Diclegis BvG              |
-| Dimenhydrinate            |
-| Diphenhydramine           |
-| Emend 125mg Susp          |
-| Emend 80mg BvG            |
-| Emend TriPac BvG          |
-| Meclizine                 |
-| Metoclopramide            |
-| Ondansetron               |
-| Phosphorated Carbohydrate |
-| Prochlorperazine          |
-| Promethazine              |
-| Scopolamine               |     
-| Trimethobenzamide         |
+| Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Aprepitant 40mg, 125mg    ||||
+| Diclegis BvG              ||||
+| Dimenhydrinate            ||||
+| Diphenhydramine           ||||
+| Emend 125mg Susp          ||||
+| Emend 80mg BvG            ||||
+| Emend TriPac BvG          ||||
+| Meclizine                 ||||
+| Metoclopramide            ||||
+| Ondansetron               ||||
+| Phosphorated Carbohydrate ||||
+| Prochlorperazine          ||||
+| Promethazine              ||||
+| Scopolamine               ||||     
+| Trimethobenzamide         ||||
 
 ### Non-Preferred
 
-| Non-Preferred                   |
-| :------------------------------ |
-| Aprepitant 80 mg                |
-| Aprepitant TriPac               |
-| Bonjesta                        |
-| Doxylamine/Pyridoxine 10mg/10mg |
-| Metoclopramide ODT              |
-| Sancuso                         |
-| Zuplenz                         |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Aprepitant 80 mg                ||||
+| Aprepitant TriPac               ||||
+| Bonjesta                        ||||
+| Doxylamine/Pyridoxine 10mg/10mg ||||
+| Metoclopramide ODT              ||||
+| Sancuso                         ||||
+| Zuplenz                         ||||
 
 ## Length of Authorizations
 

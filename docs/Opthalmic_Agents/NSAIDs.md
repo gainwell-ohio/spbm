@@ -6,22 +6,22 @@ This is a subcategory of Opthalmic Agents.
 
 ### Preferred
 
-| Preferred    |
-| :----------- |
-| Diclofenac   |
-| Flurbiprofen |
-| Ketorolac    |
+| Preferred    | Generic Name | Quantity | Time (Days) |
+| :----------- | :----------- | :------: | :---------: |
+| Diclofenac   |              |          |             |
+| Flurbiprofen |              |          |             |
+| Ketorolac    |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Acuvail       |
-| Bromfenac     |
-| Bromsite      |
-| Ilevro        |
-| Nevanac       |
-| Prolensa      |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Acuvail       |              |          |             |
+| Bromfenac     |              |          |             |
+| Bromsite      |              |          |             |
+| Ilevro        |              |          |             |
+| Nevanac       |              |          |             |
+| Prolensa      |              |          |             |
 
 ## Length of Authorizations
 

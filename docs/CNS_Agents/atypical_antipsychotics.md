@@ -6,49 +6,49 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred            |
-| :------------------- |
-| Abilify Maintena     |
-| Aripiprazole         |
-| Aristada             |
-| Aristada Initio      |
-| Clozapine            |
-| Fanapt ST            |
-| Geodon               |
-| Invega BvG           |
-| Invega Hafyera ER PA |
-| Invega Sustenna      |
-| Invega Trinza        |
-| Latuda ST            |
-| Olanzapine           |
-| Perseris             |
-| Quetiapine           |
-| Quetiapine ER        |
-| Risperdal            |
-| Risperdal Consta     |
-| Risperidone          |
-| Saphris BvG ST       |
-| Ziprasidone          |
+| Preferred            | Generic Name | Quantity | Time (Days) |
+| :------------------- | :----------- | :------: | :---------: |
+| Abilify Maintena     |              |          |             |
+| Aripiprazole         |              |          |             |
+| Aristada             |              |          |             |
+| Aristada Initio      |              |          |             |
+| Clozapine            |              |          |             |
+| Fanapt ST            |              |          |             |
+| Geodon               |              |          |             |
+| Invega BvG           |              |          |             |
+| Invega Hafyera ER PA |              |          |             |
+| Invega Sustenna      |              |          |             |
+| Invega Trinza        |              |          |             |
+| Latuda ST            |              |          |             |
+| Olanzapine           |              |          |             |
+| Perseris             |              |          |             |
+| Quetiapine           |              |          |             |
+| Quetiapine ER        |              |          |             |
+| Risperdal            |              |          |             |
+| Risperdal Consta     |              |          |             |
+| Risperidone          |              |          |             |
+| Saphris BvG ST       |              |          |             |
+| Ziprasidone          |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred         |
-| :-------------------- |
-| Abilify Mycite        |
-| Aripiprazole Sol      |
-| Asenapine             |
-| Caplyta               |
-| Clozapine ODT Rapdis  |
-| Fluoxetine/Olanzapine |
-| Lybalvi               |
-| Nuplazid              |
-| Olanzapine ODT        |
-| Paliperidone          |
-| Rexulti               |
-| Secuado               |
-| Versacloz             |
-| Vraylar               |
-| Zyprexa Relprevv      |
+| Non-Preferred         | Generic Name | Quantity | Time (Days) |
+| :-------------------- | :----------- | :------: | :---------: |
+| Abilify Mycite        |              |          |             |
+| Aripiprazole Sol      |              |          |             |
+| Asenapine             |              |          |             |
+| Caplyta               |              |          |             |
+| Clozapine ODT Rapdis  |              |          |             |
+| Fluoxetine/Olanzapine |              |          |             |
+| Lybalvi               |              |          |             |
+| Nuplazid              |              |          |             |
+| Olanzapine ODT        |              |          |             |
+| Paliperidone          |              |          |             |
+| Rexulti               |              |          |             |
+| Secuado               |              |          |             |
+| Versacloz             |              |          |             |
+| Vraylar               |              |          |             |
+| Zyprexa Relprevv      |              |          |             |
 
 ## Length of Authorizations
 
@@ -103,8 +103,8 @@ Acceptable reasons include:
 
 #### Antipsychotics, Second Generation And SSRI Combination
 
-| **No PA Required "Preferred"** | **Step Therapy Required "Preferred"** | **PA Required "Non-Preferred"** |
-| ------------------------------ | ------------------------------------- | ------------------------------- |
+| **No PA Required "Preferred"** | **Step Therapy Required "Preferred"**                                                                                          | **PA Required "Non-Preferred"**             |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
 |                                | A trial of no less than 30 days each of at least two preferred second- generation oral antipsychotics or step therapy products | FLUOXETINE/OLANZAPINE (generic of Symbyax®) |
 
 \+ Long-Acting Injectable Antipsychotics may be billed by the pharmacy if they are not dispensed directly to the patient. If not administered by the pharmacist, the drug must be released only to the administering provider or administering provider's staff, following all regulations for a Prescription Pick-Up Station as described by the Ohio Board of Pharmacy.

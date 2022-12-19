@@ -6,26 +6,26 @@ This is a subcategory of Gastrointestinal Agents.
 
 ### Preferred
 
-| Preferred            |
-| :------------------- |
-| Balsalazide Disodium |
-| Budesonide ER Tab QL |
-| Lialda BvG           |
-| Mesalamine DR Cap    |
-| Mesalamine Enema     |
-| Mesalamine ER        |
-| Pentasa BvG          |
-| Sulfasalazine        |
+| Preferred            | Generic Name | Quantity | Time (Days) |
+| :------------------- | :----------- | :------: | :---------: |
+| Balsalazide Disodium |              |          |             |
+| Budesonide ER Tab QL |              |          |             |
+| Lialda BvG           |              |          |             |
+| Mesalamine DR Cap    |              |          |             |
+| Mesalamine Enema     |              |          |             |
+| Mesalamine ER        |              |          |             |
+| Pentasa BvG          |              |          |             |
+| Sulfasalazine        |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred     |
-| :---------------- |
-| Dipentum          |
-| Mesalamine DR Tab |
-| Mesalamine Supp   |
-| Uceris Foam       |
-| Zeposia           |
+| Non-Preferred     | Generic Name | Quantity | Time (Days) |
+| :---------------- | :----------- | :------: | :---------: |
+| Dipentum          |              |          |             |
+| Mesalamine DR Tab |              |          |             |
+| Mesalamine Supp   |              |          |             |
+| Uceris Foam       |              |          |             |
+| Zeposia           |              |          |             |
 
 ## Length of Authorizations
 

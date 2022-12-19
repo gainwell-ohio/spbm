@@ -6,67 +6,67 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred                               |
-| :-------------------------------------- |
-| Acarbose                                |
-| Actoplus Met XR                         |
-| Byetta                                  |
-| Farxiga                                 |
-| Glimepiride                             |
-| Glipizide                               |
-| Glipizide/Metformin                     |
-| Glyburide                               |
-| Glyburide/Metformin                     |
-| Invokamet                               |
-| Invokana                                |
-| Janumet                                 |
-| Janumet XR                              |
-| Januvia                                 |
-| Jardiance                               |
-| Jentadueto                              |
-| Metformin                               |
-| Metformin ER (Generic of Glucophage XR) |
-| Miglitol                                |
-| Nateglinide                             |
-| Pioglitazone                            |
-| Pioglitazone/Metformin                  |
-| Repaglinide                             |
-| Repaglinide/Metformin                   |
-| Synjardy                                |
-| Tradjenta                               |
-| Trulicity                               |
-| Victoza                                 |
+| Preferred                               | Generic Name | Quantity | Time (Days) |
+| :-------------------------------------- | :----------- | :------: | :---------: |
+| Acarbose                                |              |          |             |
+| Actoplus Met XR                         |              |          |             |
+| Byetta                                  |              |          |             |
+| Farxiga                                 |              |          |             |
+| Glimepiride                             |              |          |             |
+| Glipizide                               |              |          |             |
+| Glipizide/Metformin                     |              |          |             |
+| Glyburide                               |              |          |             |
+| Glyburide/Metformin                     |              |          |             |
+| Invokamet                               |              |          |             |
+| Invokana                                |              |          |             |
+| Janumet                                 |              |          |             |
+| Janumet XR                              |              |          |             |
+| Januvia                                 |              |          |             |
+| Jardiance                               |              |          |             |
+| Jentadueto                              |              |          |             |
+| Metformin                               |              |          |             |
+| Metformin ER (Generic of Glucophage XR) |              |          |             |
+| Miglitol                                |              |          |             |
+| Nateglinide                             |              |          |             |
+| Pioglitazone                            |              |          |             |
+| Pioglitazone/Metformin                  |              |          |             |
+| Repaglinide                             |              |          |             |
+| Repaglinide/Metformin                   |              |          |             |
+| Synjardy                                |              |          |             |
+| Tradjenta                               |              |          |             |
+| Trulicity                               |              |          |             |
+| Victoza                                 |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                      |
-| :--------------------------------- |
-| Adlyxin                            |
-| Alogliptin                         |
-| Alogliptin/Metformin               |
-| Bydureon Bcise                     |
-| Glimepiride/Pioglitazone           |
-| Glucophage                         |
-| Glyxambi                           |
-| Invokamet XR                       |
-| Jentadueto XR                      |
-| Kombiglyze XR                      |
-| Metformin ER (Generic of Fortamet) |
-| Metformin Sol                      |
-| Onglyza                            |
-| Ozempic                            |
-| Pioglitazone/Alogliptin            |
-| Qtern                              |
-| Rybelsus                           |
-| Segluromet                         |
-| Soliqua                            |
-| Steglatro                          |
-| Steglujan                          |
-| Symlinpen                          |
-| Synjardy XR                        |
-| Trijardy XR                        |
-| Xigduo XR                          |
-| Xultophy                           |
+| Non-Preferred                      | Generic Name | Quantity | Time (Days) |
+| :--------------------------------- | :----------- | :------: | :---------: |
+| Adlyxin                            |              |          |             |
+| Alogliptin                         |              |          |             |
+| Alogliptin/Metformin               |              |          |             |
+| Bydureon Bcise                     |              |          |             |
+| Glimepiride/Pioglitazone           |              |          |             |
+| Glucophage                         |              |          |             |
+| Glyxambi                           |              |          |             |
+| Invokamet XR                       |              |          |             |
+| Jentadueto XR                      |              |          |             |
+| Kombiglyze XR                      |              |          |             |
+| Metformin ER (Generic of Fortamet) |              |          |             |
+| Metformin Sol                      |              |          |             |
+| Onglyza                            |              |          |             |
+| Ozempic                            |              |          |             |
+| Pioglitazone/Alogliptin            |              |          |             |
+| Qtern                              |              |          |             |
+| Rybelsus                           |              |          |             |
+| Segluromet                         |              |          |             |
+| Soliqua                            |              |          |             |
+| Steglatro                          |              |          |             |
+| Steglujan                          |              |          |             |
+| Symlinpen                          |              |          |             |
+| Synjardy XR                        |              |          |             |
+| Trijardy XR                        |              |          |             |
+| Xigduo XR                          |              |          |             |
+| Xultophy                           |              |          |             |
 
 ## Length of Authorizations
 

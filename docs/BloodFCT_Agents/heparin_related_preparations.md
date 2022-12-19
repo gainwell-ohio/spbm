@@ -6,16 +6,16 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Preferred
 
-| Preferred  |
-| :--------- |
-| Enoxaparin |
+| Preferred  | Generic Name | Quantity | Time (Days) |
+| :--------- | :----------- | :------: | :---------: |
+| Enoxaparin |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Fondaparinux  |
-| Fragmin       |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Fondaparinux  |              |          |             |
+| Fragmin       |              |          |             |
 
 ## Length of Authorizations
 

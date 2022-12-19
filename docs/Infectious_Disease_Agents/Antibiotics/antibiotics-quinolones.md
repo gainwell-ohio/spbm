@@ -6,20 +6,20 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Preferred
 
-| Preferred             |
-| :-------------------- |
-| Ciprofloxacin         |
-| Ciprofloxacin Susp AR |
-| Levofloxacin          |
+| Preferred             | Generic Name | Quantity | Time (Days) |
+| :-------------------- | :----------- | :------: | :---------: |
+| Ciprofloxacin         |              |          |             |
+| Ciprofloxacin Susp AR |              |          |             |
+| Levofloxacin          |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred    |
-| :--------------- |
-| Baxdela          |
-| Ciprofloxacin ER |
-| Moxifloxacin     |
-| Ofloxacin        |
+| Non-Preferred    | Generic Name | Quantity | Time (Days) |
+| :--------------- | :----------- | :------: | :---------: |
+| Baxdela          |              |          |             |
+| Ciprofloxacin ER |              |          |             |
+| Moxifloxacin     |              |          |             |
+| Ofloxacin        |              |          |             |
 
 ## Length of Authorizations
 

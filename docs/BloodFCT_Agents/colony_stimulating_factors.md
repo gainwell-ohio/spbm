@@ -6,24 +6,24 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Preferred
 
-| Preferred    |
-| :----------- |
-| Neupogen PA  |
-| Releuko PA   |
-| Ziextenzo PA |
+| Preferred    | Generic Name | Quantity | Time (Days) |
+| :----------- | :----------- | :------: | :---------: |
+| Neupogen PA  |              |          |             |
+| Releuko PA   |              |          |             |
+| Ziextenzo PA |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred |
-| :------------ |
-| Fulphila      |
-| Granix        |
-| Leukine       |
-| Neulasta      |
-| Nivestym      |
-| Nyvepria      |
-| Udenyca       |
-| Zarxio        |
+| Non-Preferred    | Generic Name | Quantity | Time (Days) |
+| :--------------- | :----------- | :------: | :---------: |
+| Fulphila      |  |              |          |             |
+| Granix        |  |              |          |             |
+| Leukine       |  |              |          |             |
+| Neulasta      |  |              |          |             |
+| Nivestym      |  |              |          |             |
+| Nyvepria      |  |              |          |             |
+| Udenyca       |  |              |          |             |
+| Zarxio        |  |              |          |             |
 
 ## Length of Authorizations
 

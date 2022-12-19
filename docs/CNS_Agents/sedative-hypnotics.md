@@ -6,25 +6,25 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred          |
-| :----------------- |
-| Estazolam          |
-| Temazepam 15, 30mg |
-| Zaleplon           |
-| Zolpidem           |
+| Preferred          | Generic Name | Quantity | Time (Days) |
+| :----------------- | :----------- | :------: | :---------: |
+| Estazolam          |              |          |             |
+| Temazepam 15, 30mg |              |          |             |
+| Zaleplon           |              |          |             |
+| Zolpidem           |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred       |
-| :------------------ |
-| Belsomra            |
-| Dayvigo             |
-| Doxepin 3, 6mg      |
-| Eszopiclone         |
-| Intermezzo          |
-| Ramelteon           |
-| Temazepam 7.5, 22mg |
-| Zolpidem ER and SL  |
+| Non-Preferred       | Generic Name | Quantity | Time (Days) |
+| :------------------ | :----------- | :------: | :---------: |
+| Belsomra            |              |          |             |
+| Dayvigo             |              |          |             |
+| Doxepin 3, 6mg      |              |          |             |
+| Eszopiclone         |              |          |             |
+| Intermezzo          |              |          |             |
+| Ramelteon           |              |          |             |
+| Temazepam 7.5, 22mg |              |          |             |
+| Zolpidem ER and SL  |              |          |             |
 
 ## Length of Authorizations
 
