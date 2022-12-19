@@ -1,21 +1,43 @@
+<style>
+    .table {
+  font-family: "Fira Sans", sans-serif;
+  border-collapse: collapse;
+}
+
+.table th {
+  text-align: left;
+}
+
+.table td,
+.search-input {
+  font-size: 1em;
+  padding: 0.6em 1em;
+}
+
+.search-input {
+  border: none;
+  outline: none;
+  font-family: "Fira Sans", sans-serif;
+}
+</style>
 <table class="table">
-        <thead>
-            <tr>
-                <th> 
-                    <input type="text" class="search-input" placeholder ="NDC Key">
-                </th>
-                <th> 
+    <thead>
+        <tr>
+            <th> 
+                <input type="text" class="search-input" placeholder ="NDC Key">
+            </th>
+            <th> 
                 <input type="text" class="search-input" placeholder ="LN">
-                </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>00005434462</td>
-                <td>CENTRUM MULTIVIT-MINERAL LIQ</td>
-            </tr>
-            <tr>
-                <td>00005445174</td>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>00005434462</td>
+            <td>CENTRUM MULTIVIT-MINERAL LIQ</td>
+        </tr>
+        <tr>
+            <td>00005445174</td>
                 <td>CENTRUM COMPLETE MULTIVIT TAB</td>
             </tr>
             <tr>
