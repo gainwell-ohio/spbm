@@ -30116,6 +30116,7 @@
     </table>
 
 <script>
+    
 document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll(".search-input").forEach((inputField) => {
     const tableRows = inputField
@@ -30144,4 +30145,5 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
+    
 </script>
