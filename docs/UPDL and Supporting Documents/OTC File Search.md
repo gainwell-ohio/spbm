@@ -1,9 +1,15 @@
-<input type="text" id="search" placeholder="Type to search">
-<table id="table">
-  <tr class="header">
-    <th style="width:60%;">NDC Key</th>
-    <th style="width:40%;">LN</th>
+<table class="table">
+  <thead>
     <tr>
+      <th> 
+          <input type="text" class="search-input" placeholder "name 1">
+      </th>
+      <th> 
+          <input type="text" class="search-input" placeholder "name 2">
+      </th>
+    <tr>
+  </thead>
+  <tbody>
         <td>00005434462</td>
         <td>CENTRUM MULTIVIT-MINERAL LIQ</td>
     </tr>
@@ -30083,16 +30089,37 @@
         <td>99999099211</td>
         <td>COVID19 SPECIMEN COLLECT NCPDP</td>
     </tr>
+  </tbody>
 </table>
 
 <script>
-var $rows = $('#table tr');
-$('#search').keyup(function() {
-    var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
-    
-    $rows.show().filter(function() {
-        var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
-        return !~text.indexOf(val);
-    }).hide();
-});
+  document.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll(".search-input").forEach(inputField => {
+      const tableRows = inputField.closest("table).querySelectorAll("tbody tr");
+      const headerCell = inputField.closest("th");
+      const otherHeaderCells = inputField.closest("tr").querySelectorAll("th");
+      const columnIndex = Array.from(otherHeaderCells).indexOf(headerCell);
+      const searchableCells = Array.from(tableRows)
+        .map(row => row.querySelectorAll("td")[columnIndex]);
+  
+      inputField.addEventListener("input", () => {
+        const searchQuery = inputField.value.toLowerCase();
+  
+        for(const tableCell of searchableCells) {
+          const row = tableCell.closest("tr");
+          const value = tableCell.textContent
+            .toLowerCase()
+            .replace(",", "");
+  
+          row.style.visibility = null;
+          if (value.search(searchQuery) === -1) {
+            row.style.visibility = "collapse";
+          }
+        }
+      });
+    });
+  });
+  
+  
+  
 </script>
