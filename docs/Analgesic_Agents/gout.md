@@ -6,20 +6,21 @@ This is a subcategory of Analgesic Agents.
 
 ### Preferred
 
-| Preferred                | Generic Name | Quantity | Time (Days) |
-| :----------------------- | :----------- | :------: | :---------: |
-| Allopurinol              |              |          |             |
-| Colchicine PA QL         |              |          |             |
-| Probenecid               |              |          |             |
-| Probenecid/Colchicine PA |              |          |             |
+| Preferred                | Generic Name                                 |         Quantity          |        Time (Days)        |
+| :----------------------- | :------------------------------------------- | :-----------------------: | :-----------------------: |
+| Allopurinol <sup>QL</sup>    | Allopurinol Tab (all strengths)              |            204            |            102            |
+| Colchicine Tab             | Colchicine Tab (all strengths)               | Determined pursuant to PA | Determined pursuant to PA |
+| Colcrys <sup>PA QL</sup> | Colchicine Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Probenecid <sup>QL</sup>           | Probenecid Tab (all strengths)               |            408            |            102            |
 
 ### Non-Preferred
 
-| Non-Preferred    | Generic Name | Quantity | Time (Days) |
-| :--------------- | :----------- | :------: | :---------: |
-| Colchicine QL    |              |          |             |
-| Gloperba Susp QL |              |          |             |
-| Uloric BvG       |              |          |             |
+| Non-Preferred    | Generic Name                   |         Quantity          |        Time (Days)        |
+| :--------------- | :----------------------------- | :-----------------------: | :-----------------------: |
+| Mitigare <sup>BvG QL</sup> | Colchicine Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA | 
+| Febuxostat | | | |
+| Gloperba Susp <sup>QL</sup> | Colchicine Soln (all strengths) | Determined pursuant to PA                          | Determined pursuant to PA                          |
+| Probenecid/Colchicine <sup>QL</sup> | Probenecid w/ Colchicine Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Length of Authorizations
 
