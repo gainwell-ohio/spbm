@@ -6,56 +6,51 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred | Generic Name | Quantity | Time (Days) |
-| :-------- | :----------- | :------: | :---------: |
-| Verapamil |              |          |             |
+| Preferred                      | Generic Name                                              |         Quantity          |        Time (Days)        |
+| :----------------------------- | :-------------------------------------------------------- | :-----------------------: | :-----------------------: |
+| Verapamil <sup>QL</sup>                     | Verapamil HCI Tab (all strengths)                         |            408            |            102            |
+| Verapamil CR (generic Calan) <sup>QL</sup>   | Verapamil HCI CR Tab (all strengths)                      |            204            |            102            |
+| Verapamil ER (generic Verelan) <sup>QL</sup> | Verapamil HCI SR Cap (all strengths excl 200 MG & 240 MG) |            102            |            102            |
+| Verapamil ER (generic Verelan) <sup>QL</sup> | Verapamil HCI SR Cap 200 MG & 240 MG                      |            204            |            102            |
+| Verapamil (generic Verelan PM) <sup>QL</sup> | Verapamil HCI SR Cap (all strengths)                      | Determined pursuant to PA | Determined pursuant to PA |
 
 ### Non-Preferred
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
 | :------------ | :----------- | :------: | :---------: |
-| Emgality      |              |          |             |
+| Emgality <sup>QL</sup>  |     Galcanezumab Subcutaneous Inj (all strengths & formulations) | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Length of Authorizations
 
 180 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-- Is there any reason the patient cannot be changed to a medication not requiring prior approval?
+Must be prescribed in accordance with FDA approved labeling
 
-  Acceptable reasons include:
+## Non-Preferred Criteria
 
-  - Allergy to preferred medications
-  - Contraindication to all preferred medications
-  - History of unacceptable/toxic side effects to at least one preferred medication
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Additional Criteria
-### Episodic Cluster Headache
+## Additional Information
 
-Additional Criteria for Episodic Cluster Headache
+- An inadequate clinical response to verapamil is defined as a titration to at least 480mg daily
 
-1. At least 5 attacks within 30 days
-2. Attacks characterized by severe or very severe unilateral orbital, supraorbital and/or temporal pain lasting 15 to 180 minutes when untreated; during part (but less than half) of the timecourse of cluster headache, attacks may be less severe and/or of shorter or longer duration
-3. Patient must have one or more of the following symptoms:
+## Subsequent Authorization Criteria
 
-    a. At least one of the following ipsilateral to the headache:
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-      1. Conjunctival injection and/or lacrimation
-      2. Nasal congestion and/or rhinorrhea
-      3. Eyelid edema
-      4. Forehead and facial sweating
-      5. Miosis and/or ptosis
-
-    b. A sense of restlessness or agitation
-
-4. Attacks have a frequency between one every other day and eight per day; during part (but less than half) of the active time-course of cluster headache, attacks may be less frequent
-5. Not better accounted for by another ICHD-3 diagnosis
-6. At least two cluster periods lasting from seven days to one year (when untreated) and separated by pain-free remission periods of 90 days or more
-7. Failure or intolerance to verapamil titrated at least to a dose of 480 mg daily (may need to be combined with glucocorticoids as adjunctive therapy for more rapid relief until verapamil is titrated)
+**QL** - Emgality: 3 doses per 30 days (for initial loading dose only), then 1 dose per 30 days thereafter
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=24)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=13)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=27)
+
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=14)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
