@@ -21,12 +21,9 @@ This is a subcategory of Analgesic Agents.
 | Codeine <sup>QL</sup>                                   | Codeine Sulfate Tab 15 MG                                  |            408            |            34             |
 | Codeine <sup>QL</sup>                                   | Codeine Sulfate Tab 30 MG                                  |            204            |            34             |
 | Codeine <sup>QL</sup>                                   | Codeine Sulfate Tab 60 MG                                  |            102            |            34             |
-| Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Tab 5-300 MG                     | Determined pursuant to PA | Determined pursuant to PA |
 | Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Tab 5-325 MG                     |            204            |            34             |
-| Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Tab 7.5-300 MG                   | Determined pursuant to PA | Determined pursuant to PA |
 | Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Tab 7.5-325 MG                   |            136            |            34             |
-| Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Tab 10-300 MG                    | Determined pursuant to PA | Determined pursuant to PA |
-| Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Tab 10-325 MG                    |            102            |            35             |
+| Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Tab 10-325 MG                    |            102            |            34             |
 | Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Soln 7.5-325 MG / 15 ML          |           2040            |            34             |
 | Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Soln 7.5-500 MG / 15 ML          | Determined pursuant to PA | Determined pursuant to PA |
 | Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Soln 10-300 MG / 15 ML           | Determined pursuant to PA | Determined pursuant to PA |
@@ -54,7 +51,6 @@ This is a subcategory of Analgesic Agents.
 | Oxycodone/Acetaminophen <sup>QL</sup>                   | Oxycodone w/ Acetaminophen Soln 5-325 MG / 5 ML            |            680            |            34             |
 | Tramadol <sup>QL</sup>                                  | Tramadol HCI Tab 50 MG                                     |            204            |            34             |
 | Tramadol <sup>QL</sup>                                  | Tramadol HCI 100 MG                                        |            136            |            34             |
-| Tramadol <sup>QL</sup>                                  | Tramadol HCI Soln (all strengths)                          | Determined pursuant to PA | Determined pursuant to PA |
 | Tramadol / Acetaminophen <sup>QL</sup>                  | Tramadol-Acetaminophen Tab 37.5-325 MG                     |            272            |            34             |
 
 ### Non-Preferred
@@ -96,6 +92,19 @@ For the course of therapy, up to 180 days
 
 ## Additional Criteria
 
+### Buprenorphine Topical (Butrans)
+
+Buprenorphine Topical (Butrans) Criteria
+
+- Must provide documentation of an inadequate clinical response of at least **60 consecutive days** with at least **one** immediate release opioid formulation
+- Must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+
+### Morphine Sulfate ER (Kadian, MS Contin) & Tapentadol ER (Nucynta)
+
+Morphine Sulfate ER (Kadian, MS Contin) & Tapentadol ER (Nucynta) Criteria
+
+- Must provide documentation of an inadequate clinical response of at least **60 consecutive days** with at least **one** immediate release opioid formulation
+
 ### Non-Preferred
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
@@ -117,6 +126,16 @@ Additional SHORT-ACTING Opioids Criteria for New Starts
     -   Exemptions to the additional criteria:
         -   Patients receiving short-acting opioids for active cancer treatment, palliative care, and end-of-life/hospice care, sickle cell, severe burn, traumatic crushing of tissue, amputation, major orthopedic surgery
         -   Prescriber attestation that patient is not opioid naïve (i.e., new to Medicaid or was on higher dose in hospital)
+- **Subsequent short-acting requests** can be authorized up to 180 days
+    - Documentation of the following must be provided:
+        - Current treatment plan
+        - Demonstrated adherence to treatment plan through progress notes, including pain and function scores, random urine screenings results reviewed, concerns addressed, and no serious adverse outcomes observed
+- **Dose escalation requests** can be authorized up to 180 days
+    - Documentation of the following must be provided:
+        - Prescriber attestation that dose escalation is likely to result in improved function and pain control
+        - Requests for a cumulative daily dose >100 MED must be prescribed by or in consultation with a pain specialist or anesthesiologist consultation
+
+Effective July 1, 2018, patients with short acting opioid therapy will be limited to 30 MED per day and a maximum of 7 days per prescription. Prior authorization will be required to exceed these limits.
 
 ### Long-Acting
 
