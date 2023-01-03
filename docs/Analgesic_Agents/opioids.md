@@ -8,56 +8,85 @@ This is a subcategory of Analgesic Agents.
 
 ### Preferred
 
-| Preferred                    | Generic Name | Quantity | Time (Days) |
-| :--------------------------- | :----------- | :------: | :---------: |
-| Acetaminophen/Codeine QL     |              |          |             |
-| Butalb/APAP/Caff w/ Codeine  |              |          |             |
-| Butalb/ASA/Caff w/ Codeine   |              |          |             |
-| Butorphanol QL               |              |          |             |
-| Butrans BvG PA QL            |              |          |             |
-| Codeine QL                   |              |          |             |
-| Hydrocodone/Acetaminophen QL |              |          |             |
-| Hydromorphone IR QL          |              |          |             |
-| Morphine ER Tab PA QL        |              |          |             |
-| Morphine Sol QL              |              |          |             |
-| Morphine Tab QL              |              |          |             |
-| Oxycodone Cap QL             |              |          |             |
-| Oxycodone Sol QL             |              |          |             |
-| Oxycodone Tab QL             |              |          |             |
-| Oxycodone/Acetaminophen QL   |              |          |             |
-| Tramadol QL                  |              |          |             |
-| Tramadol/APAP                |              |          |             |
+| Preferred                                               | Generic Name                                               |         Quantity          |        Time (Days)        |
+| :------------------------------------------------------ | :--------------------------------------------------------- | :-----------------------: | :-----------------------: |
+| Acetaminophen/Codeine <sup>QL</sup>                     | Acetaminophen w/ Codeine Tab 300-15 MG                     |            408            |            34             |
+| Acetaminophen / Codeine <sup>QL</sup>                   | Acetaminophen w/ Codeine Tab 300-30 MG                     |            204            |            34             |
+| Acetaminophen / Codeine <sup>QL</sup>                   | Acetaminophen w/ Codeine Tab 300-60 MG                     |            102            |            34             |
+| Acetaminophen / Codeine <sup>QL</sup>                   | Acetaminophen w/ Codeine Soln 120-12 MG / 5 ML             |           2822            |            34             |
+| Butalbital/Acetaminophen/Caffeine/Codeine <sup>QL</sup> | Butalbital-APAP-Caffeine w/ Codeine Cap 50-325-40-30 MG    |            238            |            34             |
+| Butalbital/Aspirin/Caffeine/Codeine <sup>QL</sup>       | Butalbital-Aspirin-Caffeine w/ Codeine Cap 50-325-40-30 MG |            238            |            34             |
+| Butorphanol <sup>QL</sup>                               | Butorphanol Soln 10 MG/ML                                  |            2.5            |            30             |
+| Butrans <sup>BvG PA QL</sup>                            | Buprenorphine TD Patch Weekly (all strengths)              | Determined pursuant to PA | Determined pursuant to PA |
+| Codeine <sup>QL</sup>                                   | Codeine Sulfate Tab 15 MG                                  |            408            |            34             |
+| Codeine <sup>QL</sup>                                   | Codeine Sulfate Tab 30 MG                                  |            204            |            34             |
+| Codeine <sup>QL</sup>                                   | Codeine Sulfate Tab 60 MG                                  |            102            |            34             |
+| Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Tab 5-300 MG                     | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Tab 5-325 MG                     |            204            |            34             |
+| Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Tab 7.5-300 MG                   | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Tab 7.5-325 MG                   |            136            |            34             |
+| Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Tab 10-300 MG                    | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Tab 10-325 MG                    |            102            |            35             |
+| Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Soln 7.5-325 MG / 15 ML          |           2040            |            34             |
+| Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Soln 7.5-500 MG / 15 ML          | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Soln 10-300 MG / 15 ML           | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone/Acetaminophen <sup>QL</sup>                 | Hydrocodone/Acetaminophen Soln 10-325 MG / 15 ML           |           3060            |            34             |
+| Hydromorphone IR <sup>QL</sup>                          |                                                            |                           |                           |
+| Morphine IR <sup>QL</sup>                               | Morphine Sulfate IR Tab 15 MG                              |            68             |            34             |
+| Morphine IR <sup>QL</sup>                               | Morphine Sulfate IR Tab 30 MG                              |            34             |            34             |
+| Morphine Soln <sup>QL</sup>                             | Morphine Sulfate Oral Soln 10 MG / 5 ML                    |            510            |            34             |
+| Morphine Soln <sup>QL</sup>                             | Morphine Sulfate Oral Soln 20 MG / 5 ML                    |            204            |            34             |
+| Morphine Soln <sup>QL</sup>                             | Morphine Sulfate Oral Soln 100 MG / 5 ML (20 MG / ML)      |            68             |            34             |
+| Morphine ER Tab <sup>PA QL</sup>                        | Morphine Sulfate ER Tab (all strengths)                    | Determined pursuant to PA | Determined pursuant to PA |
+| Nucynta IR <sup>QL</sup>                                |                                                            |                           |                           |
+| Nucynta ER <sup>PA QL</sup>                             |                                                            |                           |                           |
+| Oxycodone <sup>QL</sup>                                 | Oxycodone HCI Cap 5 MG                                     |            136            |            34             |
+| Oxycodone <sup>QL</sup>                                 | Oxycodone HCI Tab (all strengths excl 5 MG & 10 MG)        |            34             |            34             |
+| Oxycodone <sup>QL</sup>                                 | Oxycodone HCI Tab 5 MG                                     |            136            |            34             |
+| Oxycodone <sup>QL</sup>                                 | Oxycodone HCI Tab 10 MG                                    |            68             |            34             |
+| Oxycodone <sup>QL</sup>                                 | Oxycodone HCI Tab Abuse Deterrent 5 MG                     |            272            |            34             |
+| Oxycodone <sup>QL</sup>                                 | Oxycodone HCI Tab Abuse Deterrent 7.5 MG                   |            170            |            34             |
+| Oxycodone <sup>QL</sup>                                 | Oxycodone HCI Soln 5 MG / 5 ML                             |            680            |            34             |
+| Oxycodone/Acetaminophen <sup>QL</sup>                   | Oxycodone w/ Acetaminophen Tab 2.5-325 MG                  |            272            |            34             |
+| Oxycodone/Acetaminophen <sup>QL</sup>                   | Oxycodone w/ Acetaminophen Tab 5-325 MG                    |            136            |            34             |
+| Oxycodone/Acetaminophen <sup>QL</sup>                   | Oxycodone w/ Acetaminophen Tab 7.5-325 MG                  |            102            |            34             |
+| Oxycodone/Acetaminophen <sup>QL</sup>                   | Oxycodone w/ Acetaminophen Tab 10-325 MG                   |            68             |            34             |
+| Oxycodone/Acetaminophen <sup>QL</sup>                   | Oxycodone w/ Acetaminophen Soln 5-325 MG / 5 ML            |            680            |            34             |
+| Tramadol <sup>QL</sup>                                  | Tramadol HCI Tab 50 MG                                     |            204            |            34             |
+| Tramadol <sup>QL</sup>                                  | Tramadol HCI 100 MG                                        |            136            |            34             |
+| Tramadol <sup>QL</sup>                                  | Tramadol HCI Soln (all strengths)                          | Determined pursuant to PA | Determined pursuant to PA |
+| Tramadol / Acetaminophen <sup>QL</sup>                  | Tramadol-Acetaminophen Tab 37.5-325 MG                     |            272            |            34             |
 
 ### Non-Preferred
 
-| Non-Preferred                                         | Generic Name | Quantity | Time (Days) |
-| :---------------------------------------------------- | :----------- | :------: | :---------: |
-| APAP/Caffeine/Dihydrocodone                           |              |          |             |
-| Belbuca                                               |              |          |             |
-| Benzhydrocodone/APAP                                  |              |          |             |
-| Buprenorphine Patch                                   |              |          |             |
-| Butalb/APAP/Caff w/ Codeine                           |              |          |             |
-| Dsuvia                                                |              |          |             |
-| Fentanyl                                              |              |          |             |
-| Hydrocodone Bitartrate ER 12HR CapQL                  |              |          |             |
-| Hydrocodone Bitartrate ER 24HR TabQL                  |              |          |             |
-| Hydrocodone/Acetaminophen 5-300, 7.5-300, 10-300mg QL |              |          |             |
-| Hydrocodone/Ibuprofen                                 |              |          |             |
-| Hydromorphone ER QL                                   |              |          |             |
-| Levorphanol                                           |              |          |             |
-| Meperidine                                            |              |          |             |
-| Methadone QL                                          |              |          |             |
-| Morphine ER 24HR Cap QL                               |              |          |             |
-| Nucynta ER                                            |              |          |             |
-| Oxaydo                                                |              |          |             |
-| Oxycodone ER QL                                       |              |          |             |
-| Oxycodone/Ibuprofen QL                                |              |          |             |
-| Oxymorphone, ER QL                                    |              |          |             |
-| Pentazocine/Naloxone                                  |              |          |             |
-| Seglentis QL                                          |              |          |             |
-| Tramadol ER QL                                        |              |          |             |
-| Tramadol Sol QL                                       |              |          |             |
-| Xtampza ER                                            |              |          |             |
+| Non-Preferred                         | Generic Name                                                       |         Quantity          |        Time (Days)        |
+| :------------------------------------ | :----------------------------------------------------------------- | :-----------------------: | :-----------------------: |
+| Acetaminophen / Caffeine / Dihydrocodone <sup>QL</sup>       | Acetaminophen / Caffeine / Dihydrocodone Cap / Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Belbuca <sup>QL</sup>                        | Buprenorphine Buccal Film (all strengths)                          | Determined pursuant to PA | Determined pursuant to PA |
+| Benzhydrocodone / Acetaminophen <sup>QL</sup>              | Benzhydrocodone / Acetaminophen (all strengths)                     | Determined pursuant to PA | Determined pursuant to PA |
+| Buprenorphine TD Patch Weekly <sup>QL</sup>                   | Buprenorphine TD Patch Weekly (all strengths)                      | Determined pursuant to PA | Determined pursuant to PA |
+| Butalbital / Acetaminophen / Caffeine / Codeine 50 / 300 / 40 / 30mg <sup>QL</sup> | Butalbital-APAP-Caffeine w/ Codeine Cap 50-325-40-30 MG            |            238            |            34             |
+| Dsuvia <sup>QL</sup>                                | Sufentanil Sublingual Tab (all strengths)                          | Determined pursuant to PA | Determined pursuant to PA |
+| Fentanyl <sup>QL</sup>                              | Fentanyl TD Patch (all strengths)                                  | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone Bitartrate ER 12HR Cap <sup>QL</sup> |                                                                    |                           |                           |
+| Hydrocodone Bitartrate ER 24HR Tab <sup>QL</sup> |                                                                    |                           |                           |
+| Hydrocodone / Acetaminophen <sup>QL</sup>                   | Hydrocodone/Acetaminophen 5-300 MG                                 | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone / Acetaminophen <sup>QL</sup>                   | Hydrocodone/Acetaminophen 7.5-300 MG                               | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone / Acetaminophen <sup>QL</sup>                   | Hydrocodone/Acetaminophen 10-300 MG                                | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone / Ibuprofen <sup>QL</sup>              |  Hydrocodone / Ibuprofen Tab (all strengths)                                                                  |     Determined pursuant to PA                      | Determined pursuant to PA                          |
+| Hydromorphone ER <sup>QL</sup>                   |                                                                    |                           |                           |
+| Levorphanol <sup>QL</sup>                           | Levorphanol Tab (all strengths)                                    | Determined pursuant to PA | Determined pursuant to PA |
+| Meperidine <sup>QL</sup>                            | Meperidine HCI (all strengths & formulations)                      | Determined pursuant to PA | Determined pursuant to PA |
+| Methadone <sup>QL</sup>                            | Methadone Concentrate Soln / Tab                              | Determined pursuant to PA | Determined pursuant to PA |
+| Morphine ER 24HR Cap QL               |                                                                    |                           |                           |
+| Oxaydo <sup>QL</sup>                               | | | |
+| Oxycodone ER <sup>QL</sup>                       |                                                                    |                           |                           |
+| Oxycodone/Ibuprofen QL                |  Oxycodone / Ibuprofen (all strengths)                                                                 |        Determined pursuant to PA                   |  Determined pursuant to PA                         |
+| Oxymorphone IR, ER <sup>QL</sup>                       | Oxymorphone HCI Tab IR / ER (all strengths)                                | Determined pursuant to PA | Determined pursuant to PA |
+| Pentazocine / Naloxone <sup>QL</sup>               | Pentazocine / Naloxone Tab (all strengths)                         | Determined pursuant to PA | Determined pursuant to PA |
+| Seglentis <sup>QL</sup>                         |  Celecoxib / Tramadol (all strengths)                                                                  | Determined pursuant to PA                  |  Determined pursuant to PA                         |
+| Tramadol ER <sup>QL</sup>                       | Tramadol HCI ER / Soln (all strengths)                                                                   | Determined pursuant to PA                | Determined pursuant to PA                           |
+| Xtampza ER <sup>QL</sup>                           | Oxycodone ER Cap (all strengths)                                   | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Length of Authorizations
 
