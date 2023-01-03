@@ -8,11 +8,11 @@ This is a subcategory of Cardiovascular Agents.
 
 | Preferred             | Generic Name | Quantity | Time (Days) |
 | :-------------------- | :----------- | :------: | :---------: |
-| Ambrisentan PA        |              |          |             |
-| Sildenafil PA         |              |          |             |
-| Sildenafil Susp AR PA |              |          |             |
-| Tadalafil PA          |              |          |             |
-| Tracleer BvG PA       |              |          |             |
+| Ambrisentan <sup>PA</sup>        |              |          |             |
+| Sildenafil <sup>PA</sup>        |              |          |             |
+| Sildenafil Susp <sup>AR PA</sup> |              |          |             |
+| Tadalafil <sup>PA</sup>          |              |          |             |
+| Tracleer Tab <sup>BvG PA</sup>      |              |          |             |
 
 ### Non-Preferred
 
@@ -36,20 +36,36 @@ This is a subcategory of Cardiovascular Agents.
 
 Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug previously but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    -   Allergy to medications not requiring prior approval
-    -   Contraindication to all medications not requiring prior approval
-    -   History of unacceptable/toxic side effects to medications not requiring prior approval
-2.  Patients who have class 3 or 4 symptoms defined by the NYHA Functional Class for Pulmonary Hypertension may be approved for inhalation or intravenous agents
-3.  Riociguat (Adempas) may be approved for patients with persistent/recurrent Chronic Thromboembolic Pulmonary Hypertension (CTEPH) (WHO Group 4) who have had surgical treatment or have inoperable CTEPH.
-4.  Has the patient failed a therapeutic trial of at least **30 days** with at least two medications, one of which is a Phosphodiesterase-5 Inhibitor, not requiring prior approval?
+Must be precribed in accordance with FDA approved labeling
 
-AR - Sildenafil oral solution: a PA is required for patients over 6 years old
+## Clinical PA Criteria
+
+Must provide documentation of NYHA Functional Class for Pulmonary Hypertension and symptoms experienced by patient
+
+## Non-Preferred Criteria
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+## Additional Information
+
+- Patients who have class III or IV symptoms defined by the NYHA Functional Class for Pulmonary Hypertension may be authorized for inhalation or intravenous agents
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+**AR** - Sildenafil Oral Solution: a PA is required for patients 6 years and older
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=21)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=24)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=12)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=13)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
