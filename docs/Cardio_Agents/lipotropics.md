@@ -8,127 +8,116 @@ This is a subcategory of Cardiovascular Agents.
 
 | Preferred                    | Generic Name | Quantity | Time (Days) |
 | :--------------------------- | :----------- | :------: | :---------: |
-| Atorvastatin                 |              |          |             |
-| Cholestyramine, Light        |              |          |             |
+| Atorvastatin <sup>QL</sup>           | Atorvastatin Calcium Tab (all strengths           | 102         | 102            |
+| Cholestyramine Regular, Light        |              |          |             |
 | Colestipol Tab               |              |          |             |
 | Ezetimibe                    |              |          |             |
-| Fenofibrate 48 and 145mg Tab |              |          |             |
-| Gemfibrozil                  |              |          |             |
-| Lovastatin                   |              |          |             |
+| Fenofibrate 48 and 145mg Tab <sup>QL</sup> | Fenofibrate Tab 48 MG & 145 MG            | 102         |   102          |
+| Gemfibrozil <sup>QL</sup>                  |  Gemfibrozil Tab            |   204       |   102          |
+| Lovastatin <sup>QL</sup>                  |  Lovastatin Tab (all strengths)      |   204       |    102         |
 | Omega-3-Acid Ethyl Esters    |              |          |             |
-| Niacin OTC                   |              |          |             |
-| Niacin ER OTC                |              |          |             |
-| Praluent PA                  |              |          |             |
-| Pravastatin                  |              |          |             |
+| Niacin IR, ER OTC <sup>QL</sup>                   | Niacin ER Tab (all strengths excl 500 MG)             | 204         |         102    |
+| Niacin IR, ER OTC <sup>QL</sup>                   | Niacin ER Tab 500 MG             |   306       |  102           |
+| Praluent <sup>PA</sup>                 |              |          |             |
+| Pravastatin                  | Pravastatin Sodium (all strengths)           | 102         |  102           |
 | Prevalite                    |              |          |             |
-| Repatha PA                   |              |          |             |
-| Rosuvastatin                 |              |          |             |
-| Simvastatin                  |              |          |             |
+| Repatha <sup>PA</sup>                   |              |          |             |
+| Rosuvastatin <sup>QL</sup>                |  Rosuvastatin Calcium Tab (all strengths)            | 102         |             102 |
+| Simvastatin <sup>QL</sup>                | Simvastatin Tab (all strengths)       | 102         |  102           |
 
 ### Non-Preferred
 
 | Non-Preferred                                          | Generic Name | Quantity | Time (Days) |
 | :----------------------------------------------------- | :----------- | :------: | :---------: |
 | Altoprev                                               |              |          |             |
-| Amlodipine/Atorvastatin                                |              |          |             |
+| Amlodipine / Atorvastatin                                |              |          |             |
 | Colesevelam                                            |              |          |             |
 | Colestipol Granules                                    |              |          |             |
-| Ezetimibe/Simvastatin                                  |              |          |             |
+| Ezetimibe / Simvastatin                                  |              |          |             |
 | Ezallor                                                |              |          |             |
-| Fenofibrate 30, 43, 50, 67, 90, 130, 134 and 150mg Cap |              |          |             |
-| Fenofibrate 40, 54, 120 and 160mg Tab                  |              |          |             |
-| Fenofibric Acid                                        |              |          |             |
+| Fenofibrate Cap <sup>QL</sup>                                      |  Fenofibrate Cap (all strengths)            | Determined pursuant to PA         |  Determined pursuant to PA           |
+| Fenofibrate 40, 54, 120 and 160mg Tab <sup>QL</sup>                 |    Fenofibrate Tab (all strengths excl 48 MG & 145 MG)          |      Determined pursuant to PA    |     Determined pursuant to PA        |
+| Fenofibric Acid <sup>QL</sup>                                       | Fenofibric Acid Tab (all strengths)             |        Determined pursuant to PA |  Determined pursuant to PA           |
+| Fenofibric Acid DR <sup>QL</sup>                                       |   Choline Fenofibrate DR Cap (all strengths)           | 102         |  102           |
 | Fluvastatin                                            |              |          |             |
+| Juxtapid                                                |             |          |             |
 | Livalo                                                 |              |          |             |
 | Nexletol                                               |              |          |             |
 | Nexlizet                                               |              |          |             |
-| Niacin ER Tab                                          |              |          |             |
+| Niacin ER Tab <sup>QL</sup>                                          | Niacin ER Tab (all strengths excl 200 MG)            |      204    | 102            |
+| Niacin ER Tab <sup>QL</sup>                                          | Niacin ER Tab 500 MG          |  408        |             102 |
 | Vascepa                                                |              |          |             |
 | Zypitamag                                              |              |          |             |
 
 ## Length of Authorizations
 
-365 days all Lipotropics
+See below
 
-| **Trial period**            | 30 days for HMG-CoA Reductase Inhibitors, Niacin derivatives, ezetimibe (Zetia), 90 days for Fibrates, and 84 days for ATP Citrate Lyase (ACL) Inhibitors                                |
+|        |                               |
 | --------------------------- | ------------------------------------------------- |
-| **Number of non-PA agents** | 1 medication – The assumption is that the medication must be in the same class of the medication requested, if available, except for HMG-CoA reductase inhibitors- see specific criteria |
+| Juxtapid (Initial)  | 180 days |
+| Vascepa, Lovaza, ACL inhibitors (Initial) | 84 days |
+| All others (Initial and Subsequent) | 365 days |
 
-## Prior Authorization Criteria
+## All Authorizations 
 
--   Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    -   Allergy to medications not requiring prior approval
-    -   Contraindication to or drug-to-drug interaction with medications not requiring prior approval (pravastatin is the **only** HMG-CoA not metabolized by the cytochrome P450 liver enzyme system)
-    -   History of unacceptable/toxic side effects to medications not requiring prior approval
+Must be prescribed in accordance with FDA approved labeling
+
+## Clinical PA Criteria
+
+- Must provide documentation of baseline labs **AND** have documented adherence to **90 days** of prescribed lipid lowering medications
+- Must have had an inadequate clinical response of at least **90 days AND** unable to reach goal LDL-C (see below) despite treatment with maximally tolerated dose of highpotency statin and ezetimibe (or a clinical reason that these drugs cannot be utilized)
+
+## Non-Preferred Criteria
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
 ## Additional Criteria
 
-### Prior Authorization
+### Lovastatin ER (Altoprev), Pitavastatin (Livalo), Fluvastatin (Lescol)
 
-Additional Prior Authorization Criteria
+Additional Lovastatin ER (Altoprev), Pitavastatin (Livalo), Fluvastatin (Lescol) Criteria
 
--   If there has been a 30-day trial with no less than **two** of preferred HMG-CoA products, then a nonpreferred HMG-CoA agent can be approved.
+- Must have had an inadequate clinical response of at least **30 days** with **two preferred** drugs in the same drug class
 
 ### Colesevelam (Welchol)
 
 Additional Criteria for Colesevelam (Welchol)
 
--   Colesevelam may be approved as first-line therapy if there is a diagnosis of diabetes
--   Will be approved through systematic PA if there is a history of an oral hypoglycemic or insulin in the previous 120 days
+- Must provide documentation of a Type 2 Diabetes diagnosis
 
-### PCSK9 Inhibitors
+### Icosapent Ethyl (Vascepa)
 
-Additional Criteria for PCSK9 Inhibitors
+Additional Icosapent Ethyl (Vascepa) Criteria
 
--   For Repatha: Age ≥18 years with ASCVD or Age ≥10 years and Familial Hypercholesterolemia (FH) **OR** for Praluent: Age ≥18 years with ASCVD or FH
+- Must provide documentation of baseline labs indicating triglyceride levels ≥500mg/dL after an inadequate clinical response to fibrates, niacin, and diet/exercise
+- Must provide documentation of discontinuation of drugs known to increase triglyceride levels (i.e., beta blockers, thiazides, and estrogens), if clinically appropriate
 
-    **AND**
+### Lomitapide (Juxtapid) & ATP Citrate Lysase (ACL) Inhibitor
 
--   Documented adherence to prescribed lipid lowering medications for previous 90 days
+Additional Lomitapide (Juxtapid) & ATP Citrate Lysase (ACL) Inhibitor Criteria
 
-Baseline lab results are required, and approvals will be for 365 days. Subsequent approvals will require additional levels drawn to assess response to treatment from baseline and/or attestation of clinical stabilization and will be for 365 days.
+- Must provide documentation of baseline labs **AND** have documented adherence to **90 days** of prescribed lipid lowering medications
+- Must have had inadequate clinical response of at least **90 days AND** unable to reach goal LDL-C with high-potency statin, ezetimibe and PCSK9 inhibitor (or a clinical reason that these drugs cannot be utilized)
 
-Diagnosis of **Familial Hypercholesterolemia** (includes Heterozygous [HeFH] and Homozygous [HoFH]) **AND** must meet all:
+## Additional Information
 
-1.  Unable to reach goal LDL-C (LDL ≤ 100mg/dL for adults or LDL ≤ 110mg/dL for those \< 18 years of age) with maximally tolerated dose of statin and ezetimibe (Zetia)
-    -   A trial of 2 or more high potency statins (atorvastatin or rosuvastatin)
+- High potency statins: atorvastatin (Lipitor) 40-80mg & rosuvastatin (Crestor) 20-40mg
+- LDL goals for **Familial Hypercholesterolemia** (includes Heterozygous & Homozygous FH): LDL ≤ 100mg/dL for adults or LDL ≤ 110mg/dL for those < 18 years of age
+- LDL goals for **Clinical Atherosclerotic Cardiovascular Disease (ASCVD)**: LDL ≤ 70mg/dL
 
-Diagnosis of Clinical Atherosclerotic Cardiovascular Disease (ASCVD) **AND** must meet both:
+## Subsequent Authorization Criteria
 
-1.  History of MI, angina, coronary or other arterial revascularization, stroke, TIA or PVD or atherosclerotic origin **AND**
-2.  Unable to reach goal LDL-C (LDL ≤ 70mg/dL) with maximally tolerated dose of statin and ezetimibe (Zetia)
-    1.  A trial of 2 or more high potency statins (atorvastatin or rosuvastatin)
-
-### Lomitapide (Juxtapid)
-
-Additional Criteria for Lomitapide (Juxtapid)
-
--   Age ≥18 years **AND**
--   Diagnosis of Homozygous Familal Hypercholesterolemia (HoFH) **AND**
--   At least a 90-day trial **AND** unable to reach goal LDL-C (LDL ≥ 100mg/dL) with high-potency statin therapy (atorvastatin or rosuvastatin), ezetimibe and PCSK9 inhibitor (or a clinical reason that these medications cannot be utilized)
-
-Baseline lab results are required, and initial approval will be for 180 days.
-
-Subsequent approvals will require additional levels drawn to assess response to treatment from baseline and/or attestation of clinical stabilization and will be for 365 days.
-
-### ATP Citrate Lysase
-
-Additional Criteria for ATP Citrate Lysase (ACL) Inhibitor
-
-All products in this class require clinical prior authorization:
-
--   Age ≥ 18 years **AND**
--   A trial and failure with one PCSK9 inhibitor **AND**
--   Documented adherence to prescribed lipid lowering medications for previous 90 days **AND**
--   Unable to reach goal LDL-C after a trial of 2 or more statins (one must be atorvastatin) at the maximally tolerated dose
-    -   Nexlizet (bempedoic acid and ezetimibe tablet) approval requires one of the previous statin trials to be in combination with ezetimibe (Zetia)
-
-Baseline lab results are required, and initial approval will be for 84 days.
-
-Subsequent approvals will require additional levels drawn to assess response to treatment from baseline and/or attestation of clinical stabilization and will be for 365 days.
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=19)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=22)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=12)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=12)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
