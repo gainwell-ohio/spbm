@@ -8,8 +8,8 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred                                                | Generic Name | Quantity | Time (Days) |
 | :------------------------------------------------------- | :----------- | :------: | :---------: |
-| Aimovig QL ST                                            |              |          |             |
-| Ajovy ST                                                 |              |          |             |
+| Aimovig <sup>QL ST</sup>                                           | Erenumab Subcutaneous Inj (all strengths & formulations)             |   Determined pursuant to PA       |     Determined pursuant to PA        |
+| Ajovy <sup>QL ST</sup>                                                 | Fremanezumab Subcutaneous Inj 225 MG / 1.5 ML             |       Determined pursuant to PA   |     Determined pursuant to PA        |
 | Cardiovascular Agents: Beta-Blockers                     |              |          |             |
 | CNS Agents: Anticonvulsants                              |              |          |             |
 | CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors |              |          |             |
@@ -19,59 +19,64 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
 | :------------ | :----------- | :------: | :---------: |
-| Emgality      |              |          |             |
-| Nurtec ODT    |              |          |             |
-| Qulipta       |              |          |             |
+| Emgality <sup>QL</sup>     |   Galcanezumab Subcutaneous Inj (all strengths & formulations)      |     Determined pursuant to PA     |       Determined pursuant to PA      |
+| Nurtec ODT <sup>QL</sup>   |   Rimegepant ODT (all strengths)  |  Determined pursuant to PA        |     Determined pursuant to PA        |
+| Qulipta <sup>QL</sup>      |     Atogepant Tab (all strengths)    |   Determined pursuant to PA       | Determined pursuant to PA            |
 
 ## Length of Authorizations
 
-Initial Authorization 180 days
+Initial: 180 days
 
- Subsequent Authorizations 365 days
+ Subsequent: 365 days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-- Is there any reason the patient cannot be changed to a medication not requiring prior approval?
+Must be prescribed in accordance with FDA approved labeling
 
-    Acceptable reasons include:
+## Step Therapy Criteria
 
-  - Allergy to preferred medications
-  - Contraindication to **three** preferred medications
-  - History of unacceptable/toxic side effects/intolerance to at least **three** preferred medications
+- Must have had an inadequate clinical response of at least **30 days** with at least **three preferred** controller migraine drugs
+- Must include objective documentation of severity, frequency, type of migraine, and number of headache days per month (preferably a headache diary)
 
-## Additional Criteria
+## Erenumab (Aimovig)
 
-### Step Therapy
+Erenumab (Aimovig) Criteria
 
-Step Therapy Required Preferred Medications
+- Must have had an inadequate clinical response of at least **60 days** with the 70mg dose to request a dose increase 
 
-- For a drug requiring step therapy, there must have been inadequate clinical response to a trial of at least 30 days each to at least 3 controller migraine medications or has experienced contraindications or intolerance to them (i.e., beta-blockers, anticonvulsants, tricyclic antidepressants, and/or serotonin-norepinephrine reuptake inhibitors).
+## Fremanezumab (Ajovy)
 
-### Non-Preferred Medication
+Fremanezumab (Ajovy) Criteria
 
-- For a non-preferred medication drug there must have been inadequate clinical response to a trial of at least 30 days each to at least 3 controller migraine medications or has experienced contraindications or intolerance to them (i.e., beta-blockers, anticonvulsants, tricyclic antidepressants, and/or serotonin-norepinephrine reuptake inhibitors) AND an inadequate clinical response or intolerance to a trial of at least 30 days of one step therapy required preferred medication
+- Must have demonstrated efficacy for at least **90 days** before quarterly administration will be authorized
 
-### Migraine Prophylaxis
 
-Additional Criteria for Migraine Prophylaxis
+## Non-Preferred Criteria
 
-1. Patient must have one of the following diagnoses:
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-   - **Episodic** migraine with the following frequencies of migraine:
-      - 4-15 headaches per 30 days measured over 90 consecutive days and headache duration of longer than 4 hours per day or longer during an attack on average.
+## Additional Information
 
-    - **Chronic** migraine with the following frequencies of migraine:
-        - 15 or more headaches per 30 days measured over 90 consecutive days and headache duration of longer than 4 hours per day or longer during an attack on average
+- Controller migraine drug classes include beta-blockers, anticonvulsants, tricyclic antidepressants, or serotonin-norepinephrine reuptake inhibitors 
 
-2. Prior Authorization may be approved if the patient has failed a trial of at least 30 days each to at least 3 controller migraine medications or has experienced contraindications or intolerance to them (i.e., beta-blockers, anticonvulsants, tricyclic antidepressants, and/or serotonin-norepinephrine reuptake inhibitors).
-3. Initial authorization will be limited to 180 days. Re-authorization for 365 days will be allowed based upon evidence of improved headache control (such as headache diary or attestation of ongoing efficacy from provider).
+## Subsequent Authorization Criteria
 
-\*Aimovig Initial Dose is limited to 70mg once per 30 days; may request dose increase if 70mg fails to provide adequate relief over 60 consecutive days.
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-\* Ajovy 675mg doses (quarterly administration) will not be authorized until patient has demonstrated efficacy of medication for at least 90 days.
+**QL** - Nurtec ODT: 18 doses per 30 days for **prophylactic** treatment
+
+**QL** - Aimovig, Ajovy: 1 dose per 30 days
+
+**QL** - Emgality: 2 doses per 30 days (for initial loading dose only), then 1 does per 30 days thereafter
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=25)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=28)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=13)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=14)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
