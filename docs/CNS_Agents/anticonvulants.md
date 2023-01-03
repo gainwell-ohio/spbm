@@ -8,29 +8,37 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred            | Generic Name | Quantity | Time (Days) |
 | :------------------- | :----------- | :------: | :---------: |
-| Banzel BvG           |              |          |             |
+| Banzel Tab <sup>BvG</sup>    |      |          |             |
 | Carbamazepine        |              |          |             |
 | Clobazam             |              |          |             |
 | Clonazepam           |              |          |             |
-| Diacomit PA          |              |          |             |
-| Divalproex           |              |          |             |
+| Diacomit <sup>PA QL</sup> |    Stiripentol Cap/Pack (all strengths)       |    Determined pursuant to PA      |    Determined pursuant to PA         |
+| Divalproex IR         |              |          |             | 
 | Divalproex ER        |              |          |             |
-| Epidiolex PA         |              |          |             |
-| Eprontia AR          |              |          |             |
-| Ethosuximide         |              |          |             |
-| Fycompa ST           |              |          |             |
-| Gabapentin           |              |          |             |
-| Lamotrigine          |              |          |             |
+| Epidiolex <sup>ST QL</sup>        |  Cannabidiol Soln (all strengths)            | Determined pursuant to PA         | Determined pursuant to PA             |
+| Eprontia <sup>AR</sup>          |              |          |             |
+| Ethosuximide         |              |          |           |
+| Fycompa <sup>ST</sup>           |              |          |             |
+| Gabapentin <sup>QL</sup>           |  Gabapentin Cap / Tab 100 MG         |  204        | 34            |
+| Gabapentin    <sup>QL</sup>        |  Gabapentin Cap / Tab 300 MG  |  408        | 34            |
+| Gabapentin     <sup>QL</sup>       |  Gabapentin Cap / Tab 400 MG            |  306        |   34          |
+| Gabapentin   <sup>QL</sup>         |  Gabapentin Tab 600 MG            | 204         |     34        |
+| Gabapentin   <sup>QL</sup>         |  Gabapentin Tab 800 MG            |   136       |   34          |
+| Gabapentin Soln   <sup>QL</sup>       |  Gabapentin Oral Soln 250 MG / 5 ML            |  2448        |   34          |
+| Lacosamide <sup>ST</sup>          |  | | |
+| Lacosamide Soln <sup>ST</sup>          | Lacosamide Oral Solution (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
+| Lamictal ODT <sup>BvG</sup> |  | | |
+| Lamotrigine          |              |          |               |
 | Levetiracetam IR Tab |              |          |             |
 | Levetiracetam Sol    |              |          |             |
 | Oxcarbazepine        |              |          |             |
 | Phenobarbital        |              |          |             |
 | Phenytoin            |              |          |             |
-| Pregabalin           |              |          |             |
+| Pregabalin <sup>QL</sup>          |              |          |             |
 | Primidone            |              |          |             |
 | Topiramate           |              |          |             |
+| Trileptal Susp <sup>BvG</sup>   | | | |
 | Valproic Acid        |              |          |             |
-| Vimpat BvG ST        |              |          |             |
 | Zonisamide           |              |          |             |
 
 ### Non-Preferred
@@ -45,99 +53,80 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Felbamate                  |              |          |             |
 | Fintepla                   |              |          |             |
 | Lacosamide                 |              |          |             |
+| Lacosamide Soln         | Lacosamide Oral Solution (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
 | Lamotrigine ER             |              |          |             |
 | Lamotrigine ODT            |              |          |             |
 | Levetiracetam ER Tab       |              |          |             |
 | Oxtellar XR                |              |          |             |
 | Peganone                   |              |          |             |
+| Qudexy XR <sup>BvG</sup>   |              |          |             |
 | Rufinamide Tab, Soln       |              |          |             |
 | Spritam                    |              |          |             |
 | Sympazan                   |              |          |             |
 | Tiagabine                  |              |          |             |
-| Topiramate ER Sprinkle Cap |              |          |             |
 | Topiramate Sprinkle Cap    |              |          |             |
 | Trokendi XR                |              |          |             |
 | Vigabatrin                 |              |          |             |
-| Vigabatrin Powder AR       |              |          |             |
+| Vigabatrin Powder <sup>AR</sup>      |              |          |             |
 | Xcopri                     |              |          |             |
 
 ## Length of Authorizations
 
-365 Days
+365 Days except Epidiolex and Diacomit - Initial: 180 days
 
 ## Grandfathering
 
-Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug, but do not have claims history (e.g. new to Medicaid), will be approved for PA after prescriber contact.
+Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug previously, but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1.  Is there any reason the patient cannot be changed to a preferred medication?
+Must be prescribed in accordance with FDA approved labeling
 
-    Acceptable reasons include:
+## Step Therapy Criteria
 
-    -   Allergy to **two preferred** medications
-    -   Contraindication to or drug interaction with **two preferred** medications
-    -   History of unacceptable/toxic side effects to **two preferred** medications
+- Must have had an inadequate clinical response of at least **30 days** with at least **one
+preferred** drug
+ 
+## Cannabidiol (Epidiolex)
 
-## Additional Criteria
+Cannabidiol (Epidiolex) Criteria
 
-### Step Therapy
+- Must have had an inadequate clinical response of at least **30 days** with any two of the following anticonvulsants: clobazam, levetiracetam, valproic acid, lamotrigine, topiramate, rufinamide, or felbamate within the past **365 days** (members who meet this criteria will not require a PA)
 
-all agents listed
+## Stiripentol (Diacomit)
 
-1.  For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30** days of at least **one preferred** product.
+Stiripentol (Diacomit) Criteria
 
-### Non-Preferred
+- Must be prescribed by or in consultation with a neurologist
+- Must be concomitantly taking clobazam (Onfi)
+- Must provide documentation of addressed comorbidities and baseline hematologic testing (CBC)
+    - Patients with phenylketonuria (PKU) must provide evidence of total daily amount of phenylalanine
+    - Prescribers must include management plans for patients with neutrophil counts <1,500 cells/mm3 or platelet count <150,000/µL
+- Must provide documentation of patient’s weight
+    - Maximum daily dose does not exceed: 50 mg / kg / day or 3,000 mg / day
+- Must provide baseline average number of seizure days per month (measured monthly
+or quarterly)
 
--   For a non-preferred medication, there has been a therapeutic failure to no less than **two preferred** products for a **30-day** trial each. Prescriptions submitted with the prescriber NPI of a physician who has registered as a neurology specialty with Ohio Medicaid AND for products that are used only for seizures, require a trial of **one preferred** product for **30 days**. This provision applies only to the standard tablet/capsule dosage form and does not apply to brand products with available generic alternatives.
+## Non-Preferred Criteria
 
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-### Epidiolex
+## Subsequent Authorization Criteria
 
-Additional Criteria for Epidiolex
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-#### Length Of Authorizations
-
-Initial Authorization 180 days
-
-Subsequent Authorizations 365 days
-
--   Patient has a diagnosis of Lennox-Gastaut syndrome, Dravet syndrome or tuberous sclerosis complex
--   Patient has trialed and failed (inadequate seizure control or intolerance) 3 prior anticonvulsant therapies for 30 days each (**Note**: not required to be met for a diagnosis of Dravet Syndrome)
--   Prescriber has obtained serum transaminases (ALT and AST) and total bilirubin levels prior to starting therapy
--   Prescriber must submit documented average number of seizure days per month (measured monthly or quarterly)
-    -   Maximum daily dose (QL) not to exceed 20 mg/kg/day (titration based on response/ tolerability) for Lennox-Gastaut syndrome or Dravet syndrome and not to exceed 25 mg/kg/day (titration based on response/tolerability) for tuberous sclerosis complex
-
-Epidiolex excluded from Grandfathering. Re-authorization requires documented reduction in average number of seizure days per month (measured monthly or quarterly).
-
-### Diacomit
-
-Additional Criteria for Diacomit
-#### Length Of Authorizations
-
-Initial Authorization 180 days
-
-Subsequent Authorizations 365 days
-
--   Medication is prescribed by a neurologist or in consultation with a neurologist
--   Patient has Dravet Syndrome
--   Patient has baseline hematologic testing (CBC)
-
-    -   Prescribers must include management plans for patients with neutrophil counts <1500 cells/mm3 or platelet count less than 150,000/µL
--   Address any co-morbid conditions
-    -   Patients with phenylketonuria (PKU) will not be authorized for suspension dosage form without evidence of total daily amount of phenylalanine
--   Patient must be concurrently managed with clobazam.
--   Dose will be restricted based upon patient weight to 50 mg/kg/day. Requested dose not to exceed 3,000mg/day
--   Prescriber must submit documented average number of seizure days per 30 days (measured monthly or quarterly)
-
-Diacomit excluded from Grandfathering. Re-authorization requires documented reduction in average number of seizure days per 30 days (measured monthly or quarterly).
-
-AR - Vigabatrin Powder: a PA is required for patients over 2 years old
-
-AR – Eprontia Solution: a PA is required for patients 12 years and older
+**AR** - Vigabatrin Powder: a PA is required for patients 3 years and older
+**AR** - Eprontia Solution: a PA is required for patients 12 years and older
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=27)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=13)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=30)
+
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=14)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
