@@ -8,26 +8,26 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 | Preferred    | Generic Name | Quantity | Time (Days) |
 | :----------- | :----------- | :------: | :---------: |
-| Neupogen PA  |              |          |             |
-| Releuko PA   |              |          |             |
-| Ziextenzo PA |              |          |             |
+| Neupogen <sup>PA</sup>  |              |          |             |
+| Nivestym <sup>PA</sup>   |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred    | Generic Name | Quantity | Time (Days) |
 | :--------------- | :----------- | :------: | :---------: |
-| Fulphila      |  |              |          |             |
-| Granix        |  |              |          |             |
-| Leukine       |  |              |          |             |
-| Neulasta      |  |              |          |             |
-| Nivestym      |  |              |          |             |
-| Nyvepria      |  |              |          |             |
-| Udenyca       |  |              |          |             |
-| Zarxio        |  |              |          |             |
+| Fulphila        |              |          |             |
+| Granix          |              |          |             |
+| Leukine         |              |          |             |
+| Neulasta        |              |          |             |
+| Nyvepria        |              |          |             |
+| Releuko         |              |          |             | 
+| Udenyca         |              |          |             |
+| Zarxio          |              |          |             |
+| Ziextenzo       |              |          |             |
 
 ## Length of Authorizations
 
-Approval based upon diagnosis below:
+Dependent upon diagnosis below
 
 | Diagnosis  | Approval Length |
 |---|---|
@@ -57,6 +57,8 @@ Must be prescribed in accordance with FDA approved labeling
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=10)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=13)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=8)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=9)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
