@@ -11,21 +11,21 @@ This is a subcategory of Analgesic Agents.
 
 ### Preferred
 
-| Preferred      | Generic Name                    | Quantity                  | Time (Days)               |
-|----------------|---------------------------------|---------------------------|---------------------------|
-| Allopurinol QL | Allopurinol Tab (all strengths) | 204                       | 102                       |
-| Colchicine Tab | Colchicine Tab (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
-| Colcrys PA QL  | Colchicine Tab (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
-| Probenecid QL  | Probenecid Tab (all strengths)  | 408                       | 102                       |
+| Preferred                 | Generic Name                    | Quantity                  | Time (Days)               |
+| ------------------------- | ------------------------------- | ------------------------- | ------------------------- |
+| Allopurinol <sup>QL</sup> | Allopurinol Tab (all strengths) | 204                       | 102                       |
+| Colchicine Tab            | Colchicine Tab (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
+| Colcrys <sup>PA QL</sup>  | Colchicine Tab (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
+| Probenecid <sup>QL</sup>  | Probenecid Tab (all strengths)  | 408                       | 102                       |
 
 ### Non-Preferred
 
-| Non-Preferred            | Generic Name                                 | Quantity                  | Time (Days)               |
-|--------------------------|----------------------------------------------|---------------------------|---------------------------|
-| Mitigare BvG QL          | Colchicine Cap (all strengths)               | Determined pursuant to PA | Determined pursuant to PA |
-| Febuxostat               |                                              |                           |                           |
-| Gloperba Susp QL         | Colchicine Soln (all strengths)              | Determined pursuant to PA | Determined pursuant to PA |
-| Probenecid/Colchicine QL | Probenecid w/ Colchicine Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Non-Preferred                       | Generic Name                                 | Quantity                  | Time (Days)               |
+| ----------------------------------- | -------------------------------------------- | ------------------------- | ------------------------- |
+| Mitigare <sup>BvG QL</sup>          | Colchicine Cap (all strengths)               | Determined pursuant to PA | Determined pursuant to PA |
+| Febuxostat                          |                                              |                           |                           |
+| Gloperba Susp <sup>QL</sup>         | Colchicine Soln (all strengths)              | Determined pursuant to PA | Determined pursuant to PA |
+| Probenecid/Colchicine <sup>QL</sup> | Probenecid w/ Colchicine Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Length of Authorizations
 
@@ -62,7 +62,7 @@ Additional Colchicine Solution (Gloperba) Criteria
 
 -   Must be unable to swallow tablets or capsules for authorization of colchicine solution
 
-### Subsequent Authorization
+## Subsequent Authorization
 
 Subsequent Authorization Criteria
 
@@ -75,3 +75,5 @@ Subsequent Authorization Criteria
 [Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=6)
 
 [Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=7)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf#overlay-context=drug-coverage)
