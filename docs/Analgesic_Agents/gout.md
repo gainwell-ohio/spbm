@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Gout
 
 This is a subcategory of Analgesic Agents.
@@ -6,69 +11,64 @@ This is a subcategory of Analgesic Agents.
 
 ### Preferred
 
-| Preferred                | Generic Name                                 |         Quantity          |        Time (Days)        |
-| :----------------------- | :------------------------------------------- | :-----------------------: | :-----------------------: |
-| Allopurinol <sup>QL</sup>    | Allopurinol Tab (all strengths)              |            204            |            102            |
-| Colchicine Tab             | Colchicine Tab (all strengths)               | Determined pursuant to PA | Determined pursuant to PA |
-| Colcrys <sup>PA QL</sup> | Colchicine Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Probenecid <sup>QL</sup>           | Probenecid Tab (all strengths)               |            408            |            102            |
+| Preferred      | Generic Name                    | Quantity                  | Time (Days)               |
+|----------------|---------------------------------|---------------------------|---------------------------|
+| Allopurinol QL | Allopurinol Tab (all strengths) | 204                       | 102                       |
+| Colchicine Tab | Colchicine Tab (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
+| Colcrys PA QL  | Colchicine Tab (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
+| Probenecid QL  | Probenecid Tab (all strengths)  | 408                       | 102                       |
 
 ### Non-Preferred
 
-| Non-Preferred    | Generic Name                   |         Quantity          |        Time (Days)        |
-| :--------------- | :----------------------------- | :-----------------------: | :-----------------------: |
-| Mitigare <sup>BvG QL</sup> | Colchicine Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA | 
-| Febuxostat | | | |
-| Gloperba Susp <sup>QL</sup> | Colchicine Soln (all strengths) | Determined pursuant to PA                          | Determined pursuant to PA                          |
-| Probenecid/Colchicine <sup>QL</sup> | Probenecid w/ Colchicine Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Non-Preferred            | Generic Name                                 | Quantity                  | Time (Days)               |
+|--------------------------|----------------------------------------------|---------------------------|---------------------------|
+| Mitigare BvG QL          | Colchicine Cap (all strengths)               | Determined pursuant to PA | Determined pursuant to PA |
+| Febuxostat               |                                              |                           |                           |
+| Gloperba Susp QL         | Colchicine Soln (all strengths)              | Determined pursuant to PA | Determined pursuant to PA |
+| Probenecid/Colchicine QL | Probenecid w/ Colchicine Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Length of Authorizations
 
-365 Days
+365 days except 180 days for Familial Mediterranean Fever
 
-## Prior Authorization Criteria
+## All Authorizations
 
-Is there any reason the patient cannot be changed to an agent not requiring prior approval?
+Must be prescribed in accordance with FDA approved labeling
 
-Acceptable reasons include:
+## Clinical PA Criteria:
 
-- Allergy to medications not requiring prior approval
+-   Must have had an inadequate clinical response with an NSAID and oral corticosteroid within the last 30 days for acute gout diagnosis **OR**
+-   Must have had an inadequate clinical response of at least 30 days with the maximally tolerated xanthine oxidase inhibitor dose for chronic gout diagnosis
 
-- Contraindication to or drug-to-drug interaction with medications not requiring prior approval.
+## Non-Preferred Criteria
 
-- History of unacceptable/toxic side effects to medications not requiring prior approval
+-   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+-   Must have had an inadequate clinical response of at least 30 days with at least one preferred drug
+    -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
 ## Additional Criteria
 
-The requested medication may be approved if the following is true:
+### Colchicine Capsule (Mitigare)
 
-- Febuxostat will be approved after 30-day trial of maximum allopurinol dose, or intolerance/contraindication to allopurinol.
+Additional Colchicine Capsule (Mitigare) Criteria
 
-- Colchicine tablets will be approved if any one of the following is true:
+-   Must have had an inadequate clinical response of 30 days with colchicine tablets
 
-  - Diagnosis of Familial Mediterranean Fever (FMF) (180-day approval); OR
+### Colchicine Solution (Gloperba)
 
-  - Trial of one of the following within the last 30 days:
+Additional Colchicine Solution (Gloperba) Criteria
 
-    - NSAID (i.e., indomethacin, naproxen, ibuprofen, sulindac, ketoprofen)
+-   Must be unable to swallow tablets or capsules for authorization of colchicine solution
 
-    - Oral corticosteroid
+### Subsequent Authorization
 
-- Colchicine capsules can be approved if the patient had a trial and failure with colchicine tablets
+Subsequent Authorization Criteria
 
-- Gloperba will be approved if the patient is unable to swallow colchicine tablets or capsules and if all of following are met:
+-   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
 
-  - Patient is using Gloperba for the prevention of gout flares
-
-  - Trial of one of the following within the last 30 days:
-
-    - NSAID (i.e., indomethacin, naproxen, ibuprofen, sulindac, ketoprofen)
-
-    - Oral corticosteroid
-
-\* Colchicine quantity limit 6/claim for acute gout, 60/30 days for chronic gout after trial on xanthine oxidase inhibitor, 120/30 days for FMF
-
-\* Gloperba quantity limit is 1.2 mg per day
+**QL** – All colchicine products: 6 doses per claim for acute gout; 2 doses per day for 30 days for chronic gout; 4 doses per day per 30 days for Familial Mediterranean Fever
 
 ## Links
 
