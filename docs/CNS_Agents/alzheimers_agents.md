@@ -8,24 +8,25 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred    | Generic Name | Quantity | Time (Days) |
 | :--------------- | :----------- | :------: | :---------: |
-| Donepezil 5mg, 10mg Tab |      |||
-| Donepezil ODT           |      |||
-| Exelon Patch BvG        |      |||
-| Galantamine Tab         |      |||
-| Galantamine ER Cap      |      |||
-| Memantine Tab           |      |||
-| Rivastigmine Cap        |      |||
+| Donepezil 5mg, 10mg Tab <sup>AR QL</sup> | Donepezil Hydrochloride Tab (all strengths excl 23 MG)     | 102 | 102 |
+| Donepezil ODT <sup>AR QL</sup>          | Donepezil Hydrochloride ODT (all strengths)     | 102 | 102 |
+| Exelon Patch <sup>AR BvG</sup>        |      |||
+| Galantamine IR Tab <sup>AR QL</sup>         | Galantamin Hydrobromide Tab (all strengths)     | 204 | 102 |
+| Galantamine ER Cap <sup>AR QL</sup>     |   Galantamine Hydrobromide ER Cap (all strengths)   | 102 | 102 |
+| Memantine Tab <sup>AR</sup>       |      |||
+| Rivastigmine Cap <sup>AR QL</sup>      | Rivastigmine Tartrate Cap (all strengths)  | 204 | 102 |
 
 ### Non-Preferred
 
 | Non-Preferred    | Generic Name | Quantity | Time (Days) |
 | :--------------- | :----------- | :------: | :---------: |
-| Donepezil 23mg Tab ||||
-| Galantamine Sol    ||||
-| Memantine ER       ||||
-| Memantine Sol      ||||
-| Namzaric           ||||
-| Rivastigmine Patch ||||
+| Adlarity <sup>AR</sup> | | | |
+| Donepezil 23mg Tab <sup>AR QL</sup> | Donepezil Hydrochloride Tab 23 MG | Determined pursuant to PA | Determined pursuant to PA |
+| Galantamine Sol <sup>AR QL</sup>    | Galantamine Hydrobromide Oral Soln (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Memantine ER <sup>AR</sup>    ||||
+| Memantine Sol <sup>AR</sup>      ||||
+| Namzaric <sup>AR</sup>          | Memantine HCI / Donepezil HCI ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Rivastigmine Patch <sup>AR</sup> ||||
 
 ## Length of Authorizations
 
@@ -35,22 +36,29 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug previously but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
 
-## Prior Authorization Criteria
+## All Authorizations
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+Must be prescribed in accordance with FDA approved labeling
 
--   Allergy to medications not requiring prior approval
--   Contraindication to or drug-to-drug interaction with medications not requiring prior approval
--   History of unacceptable/toxic side effects to medications not requiring prior approval
+## Non-Preferred Criteria
 
-Has the patient failed a therapeutic trial of at least **30 days** with at least **two medications** not requiring prior approval?
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Notes
+## Subsequent Authorization Criteria
 
-You can add a note here.
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+**AR** - All drugs: a PA is required for patients younger than 40 years
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=22)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=12)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=25)
+
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=13)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
