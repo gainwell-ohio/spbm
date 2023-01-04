@@ -8,29 +8,29 @@ This is a subcategory of Respiratory Agents.
 
 | Preferred                                       | Generic Name | Quantity | Time (Days) |
 | :---------------------------------------------- | :----------- | :------: | :---------: |
-| Advair Diskus BvG                               |              |          |             |
+| Advair Diskus <sup>BvG</sup>                                |              |          |             |
 | Advair HFA                                      |              |          |             |
-| Albuterol Nebulizer Sol 0.083%, 0.5% Conc       |              |          |             |
-| Albuterol Nebulizer Sol 0.42mg/ml, 0.63mg/ml AR |              |          |             |
+| Albuterol Nebulizer Sol 0.021% (0.63 MG / 3 mL), 0.042% (1.25 MG / 3 ML) <sup>AR</sup>       |              |          |          |
+| Albuterol Nebulizer Sol 0.083% (2.5 MG / 3 ML), 0.5% (5 MG / ML) Conc |              |          |             |
 | Anoro Ellipta                                   |              |          |             |
 | Asmanex Twisthaler                              |              |          |             |
-| Atrovent HFA                                    |              |          |             |
-| Budesonide Nebulizer Sol AR                     |              |          |             |
+| Atrovent HFA <sup>QL</sup>                                    |              |          |             |
+| Budesonide Nebulizer Sol <sup>AR QL</sup>                     |              |          |             |
 | Combivent Respimat                              |              |          |             |
 | Cromolyn Neb Sol                                |              |          |             |
 | Dulera                                          |              |          |             |
-| Flovent BvG                                     |              |          |             |
+| Flovent <sup>BvG QL</sup>                                     |              |          |             |
 | Incruse Ellipta                                 |              |          |             |
 | Ipratropium                                     |              |          |             |
-| Ipratropium/Albuterol Nebulizer Sol             |              |          |             |
-| ProAir HFA BvG                                  |              |          |             |
-| Pulmicort Flexhaler                             |              |          |             |
+| Ipratropium/Albuterol Nebulizer Sol <sup>QL</sup>             |              |          |             |
+| ProAir HFA <sup>BvG</sup>                                |              |          |             |
+| Pulmicort Flexhaler <sup>QL</sup>                             |              |          |             |
 | Serevent Diskus                                 |              |          |             |
-| Spiriva                                         |              |          |             |
+| Spiriva <sup>QL</sup>                                         |              |          |             |
 | Stiolto                                         |              |          |             |
 | Striverdi Respimat                              |              |          |             |
-| Symbicort BvG                                   |              |          |             |
-| Ventolin HFA BvG                                |              |          |             |
+| Symbicort <sup>BvG QL</sup>                                   |              |          |             |
+| Ventolin HFA <sup>BvG</sup>                               |              |          |             |
 
 ### Non-Preferred
 
@@ -46,19 +46,18 @@ This is a subcategory of Respiratory Agents.
 | Arnuity Ellipta            |              |          |             |
 | Asmanex HFA                |              |          |             |
 | Bevespi Aerosphere         |              |          |             |
-| Breo Ellipta BvG           |              |          |             |
+| Breo Ellipta <sup>BvG</sup>           |              |          |             |
 | Breztri Aerosphere         |              |          |             |
-| Brovana BvG                |              |          |             |
-| Budesonide/Formoterol      |              |          |             |
+| Brovana <sup>BvG</sup>                |              |          |             |
+| Budesonide/Formoterol <sup>QL</sup>     |              |          |             |
 | Duaklir Pressair           |              |          |             |
 | Fluticasone/Salmeterol     |              |          |             |
+| Formoterol Fumarate Nebulizer Sol | | | |
 | Levalbuterol Nebulizer Sol |              |          |             |
 | Lonhala Magnair            |              |          |             |
-| Perforomist BvG            |              |          |             |
-| Proair Digihaler           |              |          |             |
+| Proair Digihaler          |              |          |             |
 | Proair Respiclick          |              |          |             |
-| Proventil                  |              |          |             |
-| Qvar                       |              |          |             |
+| Qvar <sup>QL</sup>                       |              |          |             |
 | Trelegy Ellipta            |              |          |             |
 | Tudorza                    |              |          |             |
 | Wixela Inhub               |              |          |             |
@@ -69,35 +68,37 @@ This is a subcategory of Respiratory Agents.
 
 365 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval within the same class and formulation? Acceptable reasons include:
-    -   Allergy to medications not requiring prior approval
-    -   Contraindication to or drug interaction with medications not requiring prior approval
-    -   History of unacceptable/toxic side effects to medications not requiring prior approval
-2.  The requested medication may be approved if there has been a therapeutic failure to no less than a **14-day** trial of at least **one** medication not requiring prior approval within the same class and formulation (must try **two** medications if anticholinergic).
+Must be prescribed in accordance with FDA approved labeling
 
-## Additional Criteria
+## Non-Preferred Criteria
 
-### Glucocorticoids
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response to at least **14 days** with at least **two preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-Additional Information to Aid in the Final PA Decision-Glucocorticoids
+## Steroid-Containing Inhaler
 
-If there have been therapeutic failures to no less than 30-day trials of at least **two** medications not requiring prior approval, then may approve the requested medication.
+- May be authorized if documentation of one of the following is provided:
+    -   Patient is 12 years or younger OR is disabled and is unable to use a preferred inhaler
+- Patient has been non-compliant on a preferred inhaler due to taste, dry mouth, or infection
+- Patient is clinically unstable, as defined by current guidelines in terms of oral steroid use or patient’s current symptomatology
 
-Requested medication may be approved if the patient is:
+## Subsequent Authorization Criteria
 
--   Under 13 years old and is unable to use an inhaler not requiring prior approval
--   Disabled and unable to use a preferred inhaler
--   Non-compliant on a preferred inhaler due to taste, dry mouth, or infection
--   Clinically unstable, as defined in current guidelines in terms of oral steroid use or patient’s current symptomatology
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-AR - Albuterol Nebulizer Solution 0.42mg/ml, 0.63mg/ml: a PA is required for patients over 12 years
+**AR** - Albuterol Nebulizer Solution 0.021% (0.63 MG / 3 ML), 0.042% (1.25 MG / 3 ML): a PA is required for patients 13 years and older 
 
-AR - Budesonide Nebulizer Solution: a PA is required for patients over 6 years
+**AR** - Budesonide Nebulizer Solution: a PA is required for patients 7 years and older
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=93)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=95)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=30)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=31)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
