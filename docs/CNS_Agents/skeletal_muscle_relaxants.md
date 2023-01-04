@@ -9,11 +9,11 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Preferred                  | Generic Name | Quantity | Time (Days) |
 | :------------------------- | :----------- | :------: | :---------: |
 | Baclofen Tab               |              |          |             |
-| Chlorzoxazone 250mg, 500mg |              |          |             |
-| Cyclobenzaprine 5, 10mg    |              |          |             |
+| Chlorzoxazone 250, 500 MG <sup>QL</sup> |              |          |             |
+| Cyclobenzaprine 5, 10 MG <sup>QL</sup>  |              |          |             |
 | Dantrolene                 |              |          |             |
-| Methocarbamol              |              |          |             |
-| Tizanidine Tab             |              |          |             |
+| Methocarbamol <sup>QL</sup>             |              |          |             |
+| Tizanidine Tab <sup>QL</sup>            |              |          |             |
 
 ### Non-Preferred
 
@@ -21,10 +21,11 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | :------------------------- | :----------- | :------: | :---------: |
 | Baclofen Solution          |              |          |             |
 | Carisoprodol               |              |          |             |
-| Chlorzoxazone 375mg, 750mg |              |          |             |
-| Cyclobenzaprine 7.5mg      |              |          |             |
-| Cyclobenzaprine ER         |              |          |             |
+| Chlorzoxazone 375, 750 MG <sup>QL</sup> |              |          |             |
+| Cyclobenzaprine 7.5 MG <sup>QL</sup>      |              |          |             |
+| Cyclobenzaprine ER <sup>QL</sup>         |              |          |             |
 | Fleqsuvy                   |              |          |             |
+| Lyvispah                  |                   |        |         |
 | Metaxalone                 |              |          |             |
 | Orphenadrine               |              |          |             |
 | Tizanidine Cap             |              |          |             |
@@ -38,6 +39,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 Must be prescribed in accordance with FDA approved labeling
 
 ## Additional Criteria
+
 ### Non-Preferred Criteria
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
@@ -64,6 +66,8 @@ Additional Carisoprodol (Soma) Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=44)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=47)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=18)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=18)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
