@@ -8,66 +8,56 @@ This is a subcategory of Infectious Disease Agents.
 
 | Preferred             | Generic Name | Quantity | Time (Days) |
 | :-------------------- | :----------- | :------: | :---------: |
-| Doxycycline 50, 100mg |              |          |             |
-| Doxycycline Syr       |              |          |             |
+| Doxycycline 50, 100 MG |              |          |             |
+| Doxycycline Syr <sup>AR</sup>       |              |          |             |
 | Minocycline Cap       |              |          |             |
 | Tetracycline          |              |          |             |
-| Vibramycin Susp AR    |              |          |             |
+| Vibramycin Susp <sup>AR</sup>    |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred                 | Generic Name | Quantity | Time (Days) |
 | :---------------------------- | :----------- | :------: | :---------: |
-| Doxycycline 20, 40, 75, 150mg |              |          |             |
+| Demeclocycline                |             |           |             |
+| Doxycycline 20, 40, 75, 150 MG |              |          |             |
 | Doxycycline DR                |              |          |             |
-| Minocycline ER                |              |          |             |
-| Minocycline Tab               |              |          |             |
+| Minocycline IR, ER Tab               |              |          |             |
 | Nuzyra                        |              |          |             |
 
 ## Length of Authorizations
 
-For the date of service only; no refills
+Based on indication for acute infections or 365 days for acne
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    -   Allergy to medications not requiring prior approval
-    -   Contraindication to or drug interaction with medications not requiring prior approval
-    -   History of unacceptable/toxic side effects to medications not requiring prior approval
-2.  If the infection is caused by an organism resistant to medications not requiring prior approval, then may approve the requested medication.
-    -   Note diagnosis and any culture and sensitivity reports
-3.  If there have been therapeutic failures to no less than a **3-day** trial of at least **one** medication not requiring prior approval, then may approve the requested medication.
+Must be prescribed in accordance with FDA approved labeling
 
-## Additional Criteria
+## Non-Preferred Criteria
 
-### Information
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **3 days** with at least **one preferred** drug for acute infections **OR** at least **90 days** with at least **one preferred oral** drug for acne
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-Additional Information to Aid in the Final Decision
+## Additional Information
 
-If the patient is completing a course of therapy with a medication requiring prior approval, which was initiated in the hospital, then may approve the requested medication to complete the course of therapy.
+- Requests may be authorized if:
+    - The infection is caused by an organism resistant to ALL preferred antibiotics (must provide diagnosis and any culture/sensitivity results)
+    - The patient is completing a course of therapy that was started in the hospital or other similar location or was started before Medicaid eligibility, only the remaining course will be authorized
 
-AR - Vibramycin Suspension: a PA is required for patients over 12 years old
+## Subsequent Authorization Criteria
 
-### Omadacycline
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring, **AND** medical necessity for continued use
 
-Additional Criteria for Omadacycline
+**AR** - Vibramycin Suspension: a PA is required for patients 12 years and older 
 
-#### Length of Authorizations
-
-14 Days
-
-1.  Clinical criteria for initial authorization:
-    -   Diagnosis of Community-Acquired Bacterial Pneumonia (CABP) with prior failure of other first line agent OR
-    -   Diagnosis of Acute Bacterial Skin and Skin Structure Infection (ABSSSI) with prior failure of other first line agent
-2.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    -   Allergy to medications not requiring prior approval
-    -   Contraindication to or drug interaction with medications not requiring prior approval
-    -   History of unacceptable/toxic side effects to medications not requiring prior approval
-3.  If the infection is caused by an organism resistant to medications not requiring prior approval, then may approve the requested medication.
-    -   Note diagnosis and any culture and sensitivity reports
+**AR** - Doxycycline Syrup: a PA is required for patients 12 years and older
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=77)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=79)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=26)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=26)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
