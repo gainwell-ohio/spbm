@@ -9,63 +9,67 @@ This is a subcategory of Gastrointestinal Agents.
 | Preferred           | Generic Name | Quantity | Time (Days) |
 | :------------------ | :----------- | :------: | :---------: |
 | Lansoprazole Cap    |              |          |             |
-| Nexium Granules BvG |              |          |             |
-| Omeprazole Cap      |              |          |             |
-| Pantoprazole Tab    |              |          |             |
-| Protonix Pak AR BvG |              |          |             |
+| Nexium Granules <sup>BvG</sup> |              |          |             |
+| Omeprazole Cap <sup>AR</sup>     |              |          |             |
+| Pantoprazole Tab <sup>AR</sup>    |              |          |             |
+| Protonix Pak <sup>AR BvG</sup> |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred                 | Generic Name | Quantity | Time (Days) |
 | :---------------------------- | :----------- | :------: | :---------: |
 | Aciphex                       |              |          |             |
-| Dexilant BvG                  |              |          |             |
+| Dexilant <sup>BvG</sup>                  |              |          |             |
 | Esomeprazole                  |              |          |             |
 | Esomeprazole Granules         |              |          |             |
 | Lansoprazole ODT              |              |          |             |
-| Omeprazole Tab                |              |          |             |
-| Omeprazole/Sodium Bicarbonate |              |          |             |
+| Omeprazole Tab <sup>AR</sup>                |              |          |             |
+| Omeprazole / Sodium Bicarbonate |              |          |             |
 | Pantoprazole Packet           |              |          |             |
 | Prilosec Susp                 |              |          |             |
-| Protonix Susp AR              |              |          |             |
 | Rabeprazole                   |              |          |             |
 
 ## Length of Authorizations
 
-180 days, except as listed under clinical criteria
+180 days, except as listed under additional criteria
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    1.  Allergy to medications not requiring prior approval
-    2.  Contraindication to or drug interaction with medications not requiring prior approval
-    3.  Presence of a gastrostomy and/or jejunostomy tube (G-, GJ-, J-tube)
-    4.  History of unacceptable/toxic side effects to medications not requiring prior approval
-2.  If there has been a therapeutic failure to no less than a **30 day** trial of at least **two medications** not requiring prior approval, then may approve the requested medication.
-3.  If a medication requiring prior approval was initiated in the hospital for the treatment of a condition such as a GI bleed, may approve the requested medication.
+Must be prescribed in accordance with FDA approved labeling
 
-## Additional Criteria
-### Information
+## Non-Preferred Criteria
 
--   No PA needed for preferred PPI at once-daily dosing
--   No PA needed for preferred PPI at any dose for age under 21
--   Must have therapeutic failure on preferred agent before PA of non-preferred
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-### PPI Doses
+## PPI Doses Greater than Once Daily
 
-Clinical Criteria for PPI Doses Greater than Once Daily
+Additional Criteria for PPI Doses Greater than Once Daily
 
-1.  For diagnosis of H. Pylori, BID dosing may be authorized for 30 days
-2.  For diagnosis of COPD, Dyspepsia, Gastritis, Gastroparesis, Symptomatic Uncomplicated Barrett’s Esophagus, Carcinoma of GI tract, Crest Syndrome, Esophageal Varices, Scleroderma, Systemic Mastocytosis, Zollinger Ellison Syndrome:
-    1.  Length of authorization: 365 days
-    2.  Criteria for approval: Must have failed QD dosing
+- For H. Pylori diagnosis: Must provide documentation of diagnosis
+    - Authorization length: 30 days
+- For any of the following diagnoses: carcinoma of GI tract, COPD, Crest Syndrome, dyspepsia, esophageal varices, gastritis, gastroparesis, scleroderma, symptomatic uncomplicated Barret’s Esophagus, systemic mastocytosis, or Zollinger Ellison Syndrome: Must provide documentation of diagnosis **AND** must have failed once-daily dosing of the requested drug
+    - Authorization length: 365 days
 
-AR - Protonix Pak: a PA is required for patients over 6 years old
+## Additional Information
 
-AR - Protonix Suspension: a PA is required for patients over 6 years old
+- Request may be authorized If the drug was initiated in the hospital for the treatment of a condition such as a GI bleed or the presence of a gastrostomy and/or jejunostomy (G, GJ, J-tube)
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+**AR** - Protonix Pak/Pantoprazole Packet: a PA is required for patients 6 years and older
+
+**AR** - Omeprazole & Pantoprazole Tab/Cap/ODT: a PA is required for patient 22 years and older requesting more than once daily dosing
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=65)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=67)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=23)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=24)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
