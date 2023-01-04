@@ -8,12 +8,13 @@ This is a subcategory of Endocrine Agents.
 
 | Preferred                     | Generic Name | Quantity | Time (Days) |
 | :---------------------------- | :----------- | :------: | :---------: |
-| Danazol ST                    |              |          |             |
-| Depo-Subq Provera 104 ST      |              |          |             |
-| Lupaneta Pack ST              |              |          |             |
-| Lupron Depot ST 3.75, 11.25mg |              |          |             |
-| Orilissa ST                   |              |          |             |
-| Zoladex ST                    |              |          |             |
+| Danazol <sup>ST</sup>                    |              |          |             |
+| Depo-Subq Provera 104 <sup>ST</sup>      |              |          |             |
+| Lupaneta Pack <sup>ST</sup>              |              |          |             |
+| Lupron Depot <sup>QL ST</sup> 3.75, 11.25 MG |              |          |             |
+| Myfembree <sup>QL ST</sup>                 |             |         |           |
+| Orilissa <sup>ST</sup>                   |              |          |             |
+| Zoladex <sup>ST</sup>                    |              |          |             |
 
 ### Non-Preferred
 
@@ -25,26 +26,30 @@ This is a subcategory of Endocrine Agents.
 
 365 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1. Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+Must be prescribed in accordance with FDA approved labeling
 
--   Allergy to medications not requiring prior approval
--   Contraindication to or drug interaction with medications not requiring prior approval
--   History of unacceptable/toxic side effects to medications not requiring prior approval
+## Step Therapy Criteria
 
-## Additional Criteria
+- Must have had an inadequate clinical response of at least **84 days** with at least **one preferred** NSAID and **one preferred** oral contraceptive 
 
-### Step Therapy
+## Non-Preferred Criteria
 
-For a drug requiring step therapy, there must have been a therapeutic failure of at least a 30-day trial with both a NSAID and an oral contraceptive
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **84 days** with at least **one preferred** NSAID, **one preferred** oral contraceptive, AND **one preferred** step-therapy drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-### Non-Preferred
+## Subsequent Authorization Criteria
 
-There must have been a therapeutic failure of at least a 30-day trial with both a NSAID and an oral contraceptive and a trial and a therapeutic failure of no less than 90 days on at least one step therapy required “preferred”
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=52)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=55)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=21)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=21)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
