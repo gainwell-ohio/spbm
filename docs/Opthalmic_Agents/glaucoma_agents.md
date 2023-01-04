@@ -8,15 +8,15 @@ This is a subcategory of Opthalmic Agents.
 
 | Preferred            | Generic Name | Quantity | Time (Days) |
 | :------------------- | :----------- | :------: | :---------: |
-| Alphagan P 0.1% ST   |              |          |             |
-| Alphagan P 0.15% BvG |              |          |             |
-| Azopt BvG ST         |              |          |             |
+| Alphagan P 0.1%   |              |          |             |
+| Alphagan P 0.15% <sup>BvG</sup> |              |          |             |
+| Azopt <sup>BvG ST</sup>         |              |          |             |
 | Betaxolol            |              |          |             |
 | Brimonidine 0.2%     |              |          |             |
 | Carteolol            |              |          |             |
-| Combigan BvG ST      |              |          |             |
+| Combigan <sup>BvG ST</sup>      |              |          |             |
 | Dorzolamide          |              |          |             |
-| Dorzolamide/Timolol  |              |          |             |
+| Dorzolamide / Timolol  |              |          |             |
 | Latanaprost          |              |          |             |
 | Levobunolol          |              |          |             |
 | Metipranolol         |              |          |             |
@@ -24,7 +24,7 @@ This is a subcategory of Opthalmic Agents.
 | Rocklatan            |              |          |             |
 | Simbrinza            |              |          |             |
 | Timolol              |              |          |             |
-| Travatan Z BvG ST    |              |          |             |
+| Travatan Z <sup>BvG ST</sup>   |              |          |             |
 
 ### Non-Preferred
 
@@ -47,24 +47,31 @@ This is a subcategory of Opthalmic Agents.
 
 365 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+Must be prescribed in accordance with FDA approved labeling
 
--   Allergy to medications not requiring prior approval
--   Contraindications to or drug interaction with medications not requiring prior approval
--   History of unacceptable/toxic side effects to medications not requiring prior approval
+## Step Therapy Criteria
 
-## Additional Criteria
-### Step Therapy
+- Must have had an inadequate clinical response of at least 30 days with at least one
+preferred drug in the same class, if available
 
-Step Therapy Approval Criteria
+## Non-Preferred Criteria
 
-1.  For a product requiring step therapy, there must have been inadequate clinical response to preferred alternatives for glaucoma, including a trial of no less than **30 days** of at least **one** preferred product
-2.  For a non-preferred agent for glaucoma, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days each** of at least **two** preferred or step therapy products
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drugs in the same class, if available
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=85)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=87)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=29)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=29)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
