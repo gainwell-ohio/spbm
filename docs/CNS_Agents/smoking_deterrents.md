@@ -8,10 +8,10 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred   | Generic Name | Quantity | Time (Days) |
 | :---------- | :----------- | :------: | :---------: |
-| Nicotine <sup>Ql</sup>    |              |          |             |
-| Bupropion <sup>Ql</sup>    |              |          |             |
-| Chantix <sup>Ql</sup>      |              |          |             |
-| Varenicline <sup>Ql</sup>  |              |          |             |
+| Nicotine <sup>QL</sup>    |              |          |             |
+| Bupropion <sup>QL</sup>    |              |          |             |
+| Chantix <sup>QL</sup>      |              |          |             |
+| Varenicline <sup>QL</sup>  |              |          |             |
 
 ### Non-Preferred
 
