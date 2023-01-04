@@ -8,23 +8,23 @@ This is a subcategory of Immunomodulator Agents.
 
 | Preferred     | Generic Name | Quantity | Time (Days) |
 | :------------ | :----------- | :------: | :---------: |
-| Enbrel PA     |              |          |             |
-| Humira PA     |              |          |             |
-| Kineret PA    |              |          |             |
-| Otezla PA     |              |          |             |
-| Taltz PA ST   |              |          |             |
-| Xeljanz IR PA |              |          |             |
+| Adbry <sup>PA</sup>  |          |       |              |
+| Enbrel <sup>PA</sup>     |              |          |             |
+| Dupixent <sup>PA</sup>        |              |          |             |
+| Humira <sup>PA</sup>     |              |          |             |
+| Kineret <sup>PA</sup>    |              |          |             |
+| Otezla <sup>PA</sup>     |              |          |             |
+| Taltz <sup>PA ST</sup>   |              |          |             |
+| Xeljanz IR <sup>PA</sup> |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred   | Generic Name | Quantity | Time (Days) |
 | :-------------- | :----------- | :------: | :---------: |
 | Actemra         |              |          |             |
-| Adbry           |              |          |             |
 | Cibinqo         |              |          |             |
 | Cimzia          |              |          |             |
 | Cosentyx        |              |          |             |
-| Dupixent        |              |          |             |
 | Ilumya          |              |          |             |
 | Kevzara         |              |          |             |
 | Olumiant        |              |          |             |
@@ -93,6 +93,8 @@ Additional Ulcerative Colitis Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=71)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=73)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=25)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=25)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
