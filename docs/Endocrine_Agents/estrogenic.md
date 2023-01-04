@@ -8,11 +8,14 @@ This is a subcategory of Endocrine Agents.
 
 | Preferred                               | Generic Name | Quantity | Time (Days) |
 | :-------------------------------------- | :----------- | :------: | :---------: |
-| Climara Pro                             |              |          |             |
-| Combipatch                              |              |          |             |
-| Estradiol                               |              |          |             |
+| Climara Pro <sup>QL</sup>                            |              |          |             |
+| Combipatch <sup>QL</sup>                             |              |          |             |
+| Dotti <sup>QL</sup>                     |                 |         |            |
+| Estradiol Cream, Tab                               |              |          |             |
+| Estradiol Patch <sup>QL</sup>           |                  |     |               |
 | Estring                                 |              |          |             |
-| Ethinyl Estradiol/Norethindrone Acetate |              |          |             |
+| Ethinyl Estradiol / Norethindrone Acetate |              |          |             |
+| Lyllana <sup>QL</sup>                  |              |         |              |
 | Menest                                  |              |          |             |
 | Premarin                                |              |          |             |
 | Premphase                               |              |          |             |
@@ -23,30 +26,46 @@ This is a subcategory of Endocrine Agents.
 | Non-Preferred                   | Generic Name | Quantity | Time (Days) |
 | :------------------------------ | :----------- | :------: | :---------: |
 | Angeliq                         |              |          |             |
+| Climara <sup>QL</sup>          |              |         |             |
 | Divigel                         |              |          |             |
 | Duavee                          |              |          |             |
 | Estradiol 10mcg Vag Tab         |              |          |             |
-| Estradiol/Norethindrone Acetate |              |          |             |
+| Estradiol / Norethindrone Acetate |              |          |             |
 | Evamist                         |              |          |             |
 | Femring                         |              |          |             |
-| Menostar                        |              |          |             |
-| Minivelle                       |              |          |             |
+| Menostar <sup>QL</sup>                       |              |          |             |
+| Minivelle <sup>QL</sup>                       |              |          |             |
 | Prefest                         |              |          |             |
+| Vivelle-Dot <sup>QL</sup>        |               |         |           |
 
 ## Length of Authorizations
 
 365 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    1.  Allergy to medications not requiring prior approval
-    2.  Contraindication to or drug interaction with medications not requiring prior approval
-    3.  History of unacceptable/toxic side effects to medications not requiring prior approval
-2.  The requested medication may be approved if there has been a therapeutic failure of at least **two trials** of **30 days each** with medications not requiring prior approval
+Must be prescribed in accordance with FDA approved labeling
+
+## Non-Preferred Criteria
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+## Additional Information
+
+- Requests for non-preferred drugs must have an inadequate clinical response with preferred drugs with the same delivery method
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220415_UPDL_Criteria_FINAL_.pdf#page=53)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=56)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220701_UPDL_FINAL.pdf#page=21)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=21)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
