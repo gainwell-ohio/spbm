@@ -9,9 +9,9 @@ This is a subcategory of Otic Agents.
 | Preferred                           | Generic Name | Quantity | Time (Days) |
 | :---------------------------------- | :----------- | :------: | :---------: |
 | Cipro HC                            |              |          |             |
-| Ciprodex BvG                        |              |          |             |
+| Ciprodex <sup>BvG</sup>                       |              |          |             |
 | Cortisporin-TC                      |              |          |             |
-| Neomycin/Polymyxin B/Hydrocortisone |              |          |             |
+| Neomycin / Polymyxin B / Hydrocortisone |              |          |             |
 | Ofloxacin                           |              |          |             |
 
 ### Non-Preferred
@@ -19,29 +19,29 @@ This is a subcategory of Otic Agents.
 | Non-Preferred               | Generic Name | Quantity | Time (Days) |
 | :-------------------------- | :----------- | :------: | :---------: |
 | Ciprofloxacin               |              |          |             |
-| Ciprofloxacin/Dexamethasone |              |          |             |
-| Ciprofloxacin/Fluocinolone  |              |          |             |
+| Ciprofloxacin / Dexamethasone |              |          |             |
+| Ciprofloxacin / Fluocinolone  |              |          |             |
 
 ## Length of Authorizations
 
-For the date of service only; no refills for acute infection.
+30 days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    -   Allergy to medications not requiring prior approval
-    -   Contraindication to or drug interaction with medications not requiring prior approval
-    -   History of unacceptable/toxic side effects to medications not requiring prior approval
-2.  If the infection is caused by an organism resistant to medications not requiring prior approval, then may approve the requested medication.
-    -   Note diagnosis and any culture and sensitivity reports
+Must be prescribed in accordance with FDA approved labeling
 
-The requested medication may be approved if both of the following are true:
+## Non-Preferred Criteria
 
--   If there has been a therapeutic failure to no less than a **7-day** trial of at least **one** medication not requiring prior approval
--   The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated.
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **7 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=88)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=90)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=29)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=30)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
