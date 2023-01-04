@@ -10,7 +10,7 @@ This is a subcategory of Endocrine Agents.
 | :---------------- | :----------- | :------: | :---------: |
 | Alendronate Tab   |              |          |             |
 | Calcitonin-Salmon |              |          |             |
-| Forteo            |              |          |             |
+| Forteo <sup>QL</sup>           |              |          |             |
 | Ibandronate       |              |          |             |
 
 ### Non-Preferred
@@ -20,39 +20,43 @@ This is a subcategory of Endocrine Agents.
 | Alendronate Susp |              |          |             |
 | Fosamax Plus D   |              |          |             |
 | Risedronate      |              |          |             |
-| Tymlos           |              |          |             |
+| Tymlos <sup>QL</sup>          |              |          |             |
 
 ## Length of Authorizations
 
 365 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    1.  Allergy to medications not requiring prior approval
-    2.  Contraindication to or drug interaction with medications not requiring prior approval
-    3.  History of unacceptable/toxic side effects to medications not requiring prior approval
-2.  The requested medication may be approved if there has been a therapeutic failure to no less than a 90-day trial of at least one preferred medication within the same class of the requested medication
+Must be prescribed in accordance with FDA approved labeling
 
-## Additional Criteria
+## Non-Preferred Criteria
 
-### Critical Information
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **365 days** with at least **one preferred** drug within the same drug class
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-Patients should only be on ONE of the therapeutic classes (bisphosphonates, calcitonin-salmon).
+## Abaloparatide (Tymlos <sup>TM</sup>)
 
-### Abaloparatide (TYMLOS™)
+Additional Abaloparatide (Tymlos <sup>TM</sup>) Criteria
 
-Additional Criteria for Abaloparatide (TYMLOS™)
+Must have had an inadequate clinical response of at least **365 days** with **one** bisphosphonate
 
-Abaloparatide is indicated in postmenopausal women with osteoporosis at high risk for fracture.
+## Additional Information
 
-1.  Patient is female and postmenopausal
-2.  Diagnosis of osteoporosis
-3.  Trial of bisphosphonates for greater than 365 days
-4.  Total lifetime therapy of parathyroid hormone analogs does not exceed 730 days (2 years)
+- Patients should only be on ONE of the therapeutic classes (bisphosphonates, calcitonin-salmon)
+- A total lifetime duration of therapy of 730 days with any parathyroid analog will be authorized
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=57)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=59)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=22)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=13)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
