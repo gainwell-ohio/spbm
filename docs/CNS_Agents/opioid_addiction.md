@@ -8,9 +8,9 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred              | Generic Name | Quantity | Time (Days) |
 | :--------------------- | :----------- | :------: | :---------: |
-| Buprenorphine/Naloxone |              |          |             |
+| Buprenorphine / Naloxone |              |          |             |
 | Clonidine              |              |          |             |
-| Sublocade QL           |              |          |             |
+| Sublocade <sup>QL</sup>           |              |          |             |
 | Suboxone               |              |          |             |
 | Vivitrol               |              |          |             |
 | Zubsolv                |              |          |             |
@@ -20,66 +20,57 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
 | :------------ | :----------- | :------: | :---------: |
 | Buprenorphine |              |          |             |
-| Lucemyra      |              |          |             |
+| Lucemyra <sup>QL</sup>    |              |          |             |
 
 ## Length of Authorizations
 
-No PA required for short-acting, buprenorphine containing, oral agents
+365 Days
 
-30 days for initial authorization of injectable not to exceed 180 days for subsequent authorizations of injectable; length depending upon patient status and compliance to treatment plan
+## All Authorizations
 
-14-day authorization for Lucemyra@ (lofexidine)
+Must be prescribed in accordance with FDA approved labeling
 
-## Prior Authorization Criteria
+## Non-Preferred Criteria
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-
--   Allergy to all medications not requiring prior approval
--   Contraindication to or drug-to-drug interaction with medications not requiring prior approval.
--   History of unacceptable/toxic side effects to medications not requiring prior approval
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
 ## Additional Criteria
 
-### Lucemyra (lofexidine)
+### Lofexidine (Lucemyra)
 
-Criteria for Lucemyra (lofexidine)
+Additional Lofexidine (Lucemyra) Criteria
 
--   Indicated for Opioid Withdrawal, must meet all the following criteria:
-    -   Diagnosis of opioid dependence or opioid use disorder
-    -   Age ≥ 18 years
-    -   Patient is currently undergoing or is scheduled to undergo abrupt opioid discontinuation
-    -   Medical justification supports why an opioid taper (such as with buprenorphine or methadone) cannot be used
-    -   Does the patient meet one or more of the following criteria:
-        -   Therapeutic failure of clonidine due to intolerable adverse effects or inability to reach maximal doses of clonidine due to adverse effects
-        -   Documented history of intolerance to clonidine (ex: hypotension, bradycardia)
-        -   Contraindication to clonidine as specified in FDA labeling
-        -   Lofexidine has already been initiated in an inpatient setting
-    -   Dose will not exceed 2.88 mg (16 tablets) per day
-
-Prescribing for buprenorphine products must follow the requirements of Ohio Administrative Code rule 4731-33-03 *Office based treatment for opioid addiction*.
+- May be authorized if ALL of the following criteria are met:
+  - Must provide medical justification supporting why an opioid taper (such as with buprenorphine or methadone) cannot be used
+  - Must have had an inadequate clinical response or contraindication to clonidine
+- Must provide documentation that the drug was initiated in an inpatient setting to be exempt from the above criteria
 
 ### Buprenorphine
 
 Buprenorphine Safety Edits and Drug Utilization Review Criteria
 
-In favor of eliminating prior authorization for all forms of oral short acting buprenorphine- containing products, ODM and the Managed Care Plans will implement safety edits and a retrospective drug utilization review process for all brand and generic forms of oral short acting buprenorphine-containing products. Safety edits are in place for dosages over 24mg of buprenorphine equivalents/day.
+- Prescribing for buprenorphine products must follow the requirements of Ohio Administrative Code rule 4731-33-03 Office based treatment for opioid addiction.
+- In favor of eliminating prior authorization for all forms of oral short acting buprenorphine- containing products, ODM and the Managed Care Plans will implement safety edits and a retrospective drug utilization review processfor all brand and generic forms of oral short acting buprenorphine-containing products. Safety edits are in place for dosages over 24mg of buprenorphine equivalents/day.
+- Buprenorphine sublingual tablets (generic Subutex) will be restricted to pregnancy, breastfeeding, or contraindication to preferred products
+- Buprenorphine injection (Sublocade) dosing schedule will be limited to 300mg/30 days
 
-Buprenorphine SL tablets (Generic of Subutex) use restricted to pregnancy or breastfeeding; or contraindication to preferred products.
+## Additional Information
 
-Vivitrol may be billed by the pharmacy if it is not dispensed directly to the patient. If not administered by the pharmacist, the drug must be released only to the administering provider or administering provider's staff, following all regulations for a Prescription Pick-Up Station as described by the Ohio Board of Pharmacy.
+- Vivitrol and Sublocade may be billed by the pharmacy if it is not dispensed directly to the patient. If not administered by the pharmacist, the drug must be released only to the administering provider or administering provider's staff, following all regulationsfor a Prescription Pick-Up Station as described by the Ohio Board of Pharmacy.
 
-### Sublocade
 
-Sublocade Drug Utilization Review Criteria
+## Subsequent Authorization Criteria
 
--   Dosing schedule will be limited to 300mg/30 days.
-
-Additional Sublocade Information
-
-Sublocade may be billed by the pharmacy if it is not dispensed directly to the patient. If not administered at the pharmacy, the drug must be released only to the administering provider or administering provider's staff, following all applicable regulations.
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=35)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=38)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=16)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=16)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
