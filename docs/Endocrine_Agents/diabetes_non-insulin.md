@@ -8,15 +8,15 @@ This is a subcategory of Endocrine Agents.
 
 | Preferred                               | Generic Name | Quantity | Time (Days) |
 | :-------------------------------------- | :----------- | :------: | :---------: |
-| Acarbose                                |              |          |             |
+| Acarbose <sup>QL</sup>                                |              |          |             |
 | Actoplus Met XR                         |              |          |             |
 | Byetta                                  |              |          |             |
 | Farxiga                                 |              |          |             |
-| Glimepiride                             |              |          |             |
-| Glipizide                               |              |          |             |
-| Glipizide/Metformin                     |              |          |             |
-| Glyburide                               |              |          |             |
-| Glyburide/Metformin                     |              |          |             |
+| Glimepiride <sup>QL</sup>                             |              |          |             |
+| Glipizide <sup>QL</sup>                               |              |          |             |
+| Glipizide / Metformin <sup>QL</sup>                     |              |          |             |
+| Glyburide <sup>QL</sup>                               |              |          |             |
+| Glyburide / Metformin <sup>QL</sup>                     |              |          |             |
 | Invokamet                               |              |          |             |
 | Invokana                                |              |          |             |
 | Janumet                                 |              |          |             |
@@ -24,18 +24,18 @@ This is a subcategory of Endocrine Agents.
 | Januvia                                 |              |          |             |
 | Jardiance                               |              |          |             |
 | Jentadueto                              |              |          |             |
-| Metformin                               |              |          |             |
-| Metformin ER (Generic of Glucophage XR) |              |          |             |
+| Metformin IR <sup>QL</sup>                               |              |          |             |
+| Metformin ER <sup>QL</sup> (Generic of Glucophage XR) |              |          |             |
 | Miglitol                                |              |          |             |
-| Nateglinide                             |              |          |             |
-| Pioglitazone                            |              |          |             |
-| Pioglitazone/Metformin                  |              |          |             |
+| Nateglinide <sup>QL</sup>                             |              |          |             |
+| Pioglitazone <sup>QL</sup>                            |              |          |             |
+| Pioglitazone / Metformin <sup>QL</sup>                 |              |          |             |
 | Repaglinide                             |              |          |             |
-| Repaglinide/Metformin                   |              |          |             |
+| Repaglinide / Metformin                   |              |          |             |
 | Synjardy                                |              |          |             |
 | Tradjenta                               |              |          |             |
-| Trulicity                               |              |          |             |
-| Victoza                                 |              |          |             |
+| Trulicity <sup>QL</sup>                               |              |          |             |
+| Victoza <sup>QL</sup>                                |              |          |             |
 
 ### Non-Preferred
 
@@ -43,19 +43,19 @@ This is a subcategory of Endocrine Agents.
 | :--------------------------------- | :----------- | :------: | :---------: |
 | Adlyxin                            |              |          |             |
 | Alogliptin                         |              |          |             |
-| Alogliptin/Metformin               |              |          |             |
+| Alogliptin / Metformin               |              |          |             |
 | Bydureon Bcise                     |              |          |             |
-| Glimepiride/Pioglitazone           |              |          |             |
+| Glimepiride / Pioglitazone           |              |          |             |
 | Glucophage                         |              |          |             |
 | Glyxambi                           |              |          |             |
 | Invokamet XR                       |              |          |             |
 | Jentadueto XR                      |              |          |             |
 | Kombiglyze XR                      |              |          |             |
-| Metformin ER (Generic of Fortamet) |              |          |             |
+| Metformin ER <sup>QL</sup> (Generic of Fortamet) |              |          |             |
 | Metformin Sol                      |              |          |             |
 | Onglyza                            |              |          |             |
 | Ozempic                            |              |          |             |
-| Pioglitazone/Alogliptin            |              |          |             |
+| Pioglitazone / Alogliptin            |              |          |             |
 | Qtern                              |              |          |             |
 | Rybelsus                           |              |          |             |
 | Segluromet                         |              |          |             |
@@ -72,34 +72,40 @@ This is a subcategory of Endocrine Agents.
 
 365 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-Is there any reason the patient cannot be changed to a medication within the same class not requiring prior approval? Acceptable reasons include:
+Must be prescribed in accordance with FDA approved labeling
 
--   Allergy to medications not requiring prior approval
--   Contraindication to or drug interaction with medications not requiring prior approval
--   History of unacceptable/toxic side effects to medications not requiring prior approval
+## Non-Preferred Criteria
 
-## Additional Criteria
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **120 days** with at least **three preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-### Non-Preferred
+## Oral and Injectable Combination Drugs
 
-1.  There must have been a therapeutic failure of at least 60-day trial and failure with three preferred products
+Additional Oral and Injectable Combination Drugs Criteria
 
-    Note: Inadequate clinical response after at least 60 days of recommended therapeutic dose with documented adherence to the regimen.
+- Must have had a trial of at least **120 days** with the individual drugs **OR** must provide
+documentation of medical necessity beyond convenience for patient’s inability to use
+the individual drugs
 
-#### Diabetes - Oral Hypoglycemics, Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitor And DPP-4 Combinations
+## Additional Information
 
-| **Preferred**                                                                 | **Non-Preferred**                      |
-| ----------------------------------------------------------------------------- | -------------------------------------- |
-| No less than **90 days** of at least **one** preferred DPP-4 and SGLT product | GLYXAMBI (empagliflozin/ linagliptin)  |
-|                                                                               | QTERN (dapaglifozin-saxagliptin)       |
-|                                                                               | STEGLUJAN™ (ertugliflozin/sitagliptin) |
+- An inadequate clinical response is defined as the inability to reach A1C goal after at least 120 days of current regimen with documented adherence and appropriate dose escalation.
+- Requests may be authorized for patients with a condition that is difficult to control (i.e., prone to ketoacidosis, hypoglycemia)
+- For non-preferred drugs that have preferred drugs in the same drug class: must provide documentation that there was at least one inadequate clinical response with a drug in same drug class
 
-Soliqua and Xultophy Request must address inability to use the individual components.
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=51)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=54)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=20)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=21)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
