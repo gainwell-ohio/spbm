@@ -8,7 +8,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred  | Generic Name | Quantity | Time (Days) |
 | :--------- | :----------- | :------: | :---------: |
-| Pregabalin |              |          |             |
+| Pregabalin <sup>QL</sup> |              |          |             |
 
 ### Non-Preferred
 
@@ -20,26 +20,31 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 365 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    1.  Allergy to at least **two** medications in different classes (see below) not requiring prior approval
-    2.  Contraindication to all medications not requiring prior approval
-    3.  History of unacceptable/toxic side effects to at least **two** medications in different classes (see below) not requiring prior approval
-2.  Non-preferred medications will be approved for fibromyalgia after trial of agents from no less than two of the following drug classes for at least 14 days each in the past 90 days (guidelines suggest use of multiple agents concurrently to manage the signs of fibromyalgia):
-    1.  Gabapentin
-    2.  Pregabalin
-    3.  Short- and/or long-acting opioids\*\*
-    4.  Skeletal muscle relaxants
-    5.  SNRIs
-    6.  SSRIs
-    7.  Trazodone
-    8.  Tricyclic antidepressants
+Must be prescribed in accordance with FDA approved labeling
 
-\*\* The P&T Committee does not recommend the use of opioids for treatment of fibromyalgia
+## Non-Preferred Criteria
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+## Additional Information
+
+- Drugs and drug classes include gabapentin, pregabalin, short- and/or long-acting opioids, skeletal muscle relaxants, SNRIs, SSRIs, trazodone, and tricyclic antidepressants
+- The P&T Committee does not recommend the use of opioids for treatment of fibromyalgia
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=34)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=37)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=16)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=16)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
