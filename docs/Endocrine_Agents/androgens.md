@@ -8,24 +8,24 @@ This is a subcategory of Endocrine Agents.
 
 | Preferred               | Generic Name | Quantity | Time (Days) |
 | :-------------------------- | :----------- | :------: | :---------: |
-| Androderm PA                |              |          |             |
-| Testosterone Gel 1% PA      |              |          |             |
-| Testosterone Gel 1% Pump PA |              |          |             |
+| Androderm <sup>AR PA</sup>                |              |          |             |
+| Testosterone Gel 1% <sup>AR PA</sup>      |              |          |             |
+| Testosterone Gel 1% Pump <sup>AR PA</sup> |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred             | Generic Name | Quantity | Time (Days) |
 | :------------------------ | :----------- | :------: | :---------: |
-| Jatenzo                   |              |          |             |
-| Methyltestosterone        |              |          |             |
-| Natesto                   |              |          |             |
-| Testopel                  |              |          |             |
-| Testosterone Cypionate    |              |          |             |
-| Testosterone Gel 1.62%    |              |          |             |
-| Testosterone Gel 2%       |              |          |             |
-| Testosterone Sol 30mg/ACT |              |          |             |
-| Tlando                    |              |          |             |
-| Xyosted                   |              |          |             |
+| Jatenzo <sup>AR</sup>                  |              |          |             |
+| Methyltestosterone <sup>AR</sup>       |              |          |             |
+| Natesto <sup>AR</sup>                  |              |          |             |
+| Testopel <sup>AR</sup>                  |              |          |             |
+| Testosterone Cypionate <sup>AR</sup>   |              |          |             |
+| Testosterone Gel 1.62% <sup>AR</sup>   |              |          |             |
+| Testosterone Gel 2% <sup>AR</sup>      |              |          |             |
+| Testosterone Sol 30 MG / ACT <sup>AR</sup> |              |          |             |
+| Tlando <sup>AR</sup>                   |              |          |             |
+| Xyosted <sup>AR</sup>                  |              |          |             |
 
 ## Length of Authorizations
 
@@ -53,8 +53,12 @@ Must be prescribed in accordance with FDA approved labeling
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring (i.e., testosterone and hematocrit)
 
+**AR** - All drugs: a PA is required for patients younger than 18 years
+
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=48)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=51)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=19)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=20)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
