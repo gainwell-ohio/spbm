@@ -8,19 +8,20 @@ This is a subcategory of Gastrointestinal Agents.
 
 | Preferred                    | Generic Name | Quantity | Time (Days) |
 | :--------------------------- | :----------- | :------: | :---------: |
-| Amitiza BvG ST               |              |          |             |
+| Amitiza <sup>BvG ST</sup>               |              |          |             |
 | Bisacodyl                    |              |          |             |
-| Casanthranol/Docusate Sodium |              |          |             |
+| Casanthranol / Docusate Sodium |              |          |             |
 | Dicyclomine                  |              |          |             |
-| Diphenoxylate/Atropine       |              |          |             |
+| Diphenoxylate / Atropine       |              |          |             |
 | Lactulose                    |              |          |             |
-| Linzess ST 145, 290mcg       |              |          |             |
+| Linzess <sup>ST</sup> 145, 290 MCG       |              |          |             |
 | Loperamide                   |              |          |             |
-| Movantik ST                  |              |          |             |
+| Movantik <sup>ST</sup>                 |              |          |             |
 | Polyethylene Glycol          |              |          |             |
 | Psyllium Fiber               |              |          |             |
 | Senna                        |              |          |             |
-| Xifaxan ST                   |              |          |             |
+| Trulance <sup>ST</sup>       |             |           |          |
+| Xifaxan <sup>ST</sup>                  |              |          |             |
 
 ### Non-Preferred
 
@@ -29,41 +30,64 @@ This is a subcategory of Gastrointestinal Agents.
 | Aemcolo       |              |          |             |
 | Gattex        |              |          |             |
 | Ibsrela       |              |          |             |
-| Linzess 72mcg |              |          |             |
+| Linzess 72 MCG |              |          |             |
 | Lubiprostone  |              |          |             |
 | Motegrity     |              |          |             |
 | Mytesi        |              |          |             |
 | Relistor      |              |          |             |
 | Symproic      |              |          |             |
-| Trulance      |              |          |             |
 | Zorbitive     |              |          |             |
 
 ## Length of Authorizations
 
 365 Days except 3 days for Aemcolo
 
-**All Authorizations**
+## All Authorizations
 
 Must be prescribed in accordance with FDA approved labeling
 
+## Step Therapy Criteria
+
+- Must have had an inadequate clinical response to at least **14 days** with at least two preferred drugs
+
+## Non-Preferred Criteria
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **three preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
 ## Additional Criteria
 
-### Step Therapy
+### Methylnaltrexone (Relistor) and Naldemedine (Symproic)
 
-Step Therapy Approval Criteria
+Additional Methylnaltrexone (Relistor) and Naldemedine (Symproic) Criteria
 
--   Must have had an inadequate clinical response to at least **14 days** with at least **two preferred** drugs
+- Must have a history of chronic pain requiring continuous opioid therapy for ≥84 days
 
-### Non-Preferred
+### Rifamycin Delayed-Release (Aemcolo)
 
--   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
-    -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
--   Must have had an inadequate clinical response of at least **14 days** with at least **three preferred** drugs, if indicated for diagnosis
-    -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
-    -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+Additional Rifamycin Delayed-Release (Aemcolo) Criteria
+
+Must have the inability to take, or failure of **ALL** of the following: azithromycin,
+ciprofloxacin, levofloxacin, ofloxacin, or rifaximin
+
+### Somatropin Injection (Zorbtive) and Tedloglutide (Gattex)
+
+Additional Somatropin Injection (Zorbtive) and Tedloglutide (Gattex) Criteria
+
+- Must have evidence of specialized parenteral nutritional support
+- Must have documentation of appropriate lab assessment (bilirubin, alkaline phosphatase, lipase, and amylase) at least 180 days prior to initiation
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=67)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=69)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=24)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=24)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
