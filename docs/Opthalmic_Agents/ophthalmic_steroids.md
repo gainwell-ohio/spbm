@@ -8,11 +8,16 @@ This is a subcategory of Opthalmic Agents.
 
 | Preferred                      | Generic Name | Quantity | Time (Days) |
 | :----------------------------- | :----------- | :------: | :---------: |
+| Alrex <sup>BvG</sup>    |              |          |             |
 | Dexamethasone Sodium Phosphate |              |          |             |
-| Durezol BvG                    |              |          |             |
+| Durezol <sup>BvG</sup>                    |              |          |             |
+| Flarex        |              |          |             |
 | Fluorometholone                |              |          |             |
 | Fml Forte                      |              |          |             |
-| Fml S.O.P.                     |              |          |             |
+| Fml S.O.P.                     |              |          |             | 
+| Lotemax <sup>BvG</sup>   |              |          |             | 
+| Maxidex <sup>BvG</sup>      |              |          |             |
+| Pred Forte                    |              |           |            |
 | Pred Mild                      |              |          |             |
 | Prednisolone Acetate           |              |          |             |
 | Prednisolone Sodium Phosphate  |              |          |             |
@@ -21,29 +26,31 @@ This is a subcategory of Opthalmic Agents.
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
 | :------------ | :----------- | :------: | :---------: |
-| Alrex BvG     |              |          |             |
 | Difluprednate |              |          |             |
-| Flarex        |              |          |             |
 | Inveltys      |              |          |             |
-| Lotemax BvG   |              |          |             |
 | Lotemax SM    |              |          |             |
 | Loteprednol   |              |          |             |
-| Maxidex       |              |          |             |
 
 ## Length of Authorizations
 
 30 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    -   Allergy to medications not requiring prior approval
-    -   Contraindication to or drug interaction with medications not requiring prior approval
-    -   History of unacceptable/toxic side effects to medications not requiring prior approval
-2.  For a non-preferred drug, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than 14 days each of at least two preferred products
+Must be prescribed in accordance with FDA approved labeling
+
+## Non-Preferred Criteria
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **two preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=87)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=89)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=29)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=29)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
