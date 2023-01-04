@@ -8,33 +8,44 @@ This is a subcategory of Endocrine Agents.
 
 | Preferred                     | Generic Name | Quantity | Time (Days) |
 | :---------------------------- | :----------- | :------: | :---------: |
-| Lupron Depot PA 3.75, 11.25mg |              |          |             |
-| Oriahnn PA                    |              |          |             |
+| Lupron Depot <sup>PA</sup> 3.75, 11.25mg |              |          |             |
+| Oriahnn <sup>PA QL</sup>                    |              |          |             |
+| Myfembree <sup>PA QL</sup>    |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
 | :------------ | :----------- | :------: | :---------: |
-| Myfembree     |              |          |             |
+|      |              |          |             |
 
 ## Length of Authorizations
 
-180 Days
+Up to 180 Days
 
-Patients who have been treated with Oriahnn or Myfembree for 720 days or more are not eligible for additional authorizations
+## All Authorizations
 
-Patients who have been treated with Lupron Depot for 180 days or more are not eligible for additional authorizations
+Must be prescribed in accordance with FDA approved labeling
 
-## Prior Authorization Criteria
+## Non-Preferred Criteria
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    1.  Allergy to medications not requiring prior approval
-    2.  Contraindication to or drug interaction with medications not requiring prior approval
-    3.  History of unacceptable/toxic side effects to medications not requiring prior approval
-2.  The requested medication may be approved if the patient has a diagnosis of uterine leiomyomas (fibroids) and has failed a 90 day or more trial with an oral contraceptive
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **90 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+## Additional Information
+
+- A total lifetime duration of therapy of 730 days between Oriahnn and Myfembree or 180 days for Lupron Depot will be authorized
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=59)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=61)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=22)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=22)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
