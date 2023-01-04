@@ -8,72 +8,79 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred                                                             | Generic Name | Quantity | Time (Days) |
 | :-------------------------------------------------------------------- | :----------- | :------: | :---------: |
-| Amphetamine/Dextroamphetamine ER                                      |              |          |             |
-| Amphetamine/Dextroamphetamine IR                                      |              |          |             |
-| Atomoxetine Cap                                                       |              |          |             |
-| Clonidine ER                                                          |              |          |             |
-| Concerta                                                              |              |          |             |
-| Dexmethylphenidate Tab                                                |              |          |             |
-| Dexmethylphenidate ER (generic of Focalin XR)                         |              |          |             |
-| Dextroamphetamine ER Cap                                              |              |          |             |
-| Dextroamphetamine Sol AR                                              |              |          |             |
-| Dextroamphetamine Tab                                                 |              |          |             |
-| Focalin XR                                                            |              |          |             |
-| Guanfacine ER                                                         |              |          |             |
-| Methylphenidate ER Cap (generic of Metadate CD, Ritalin LA)           |              |          |             |
-| Methylphenidate ER Tab (generic of Concerta, Methylin ER, Ritalin SR) |              |          |             |
-| Methylphenidate Sol AR                                                |              |          |             |
-| Methylphenidate Tab                                                   |              |          |             |
-| Qelbree ST                                                            |              |          |             |
-| Quillichew ER                                                         |              |          |             |
-| Quillivant XR                                                         |              |          |             |
-| Ritalin LA                                                            |              |          |             |
-| Vyvanse Cap                                                           |              |          |             |
+| Amphetamine/Dextroamphetamine ER <sup>AR QL</sup>                                    |              |          |             |
+| Amphetamine/Dextroamphetamine IR <sup>AR QL</sup>                                      |              |          |             |
+| Atomoxetine Cap <sup>AR QL</sup>                                                     |              |          |             |
+| Clonidine ER                                                           |              |          |             |
+| Concerta <sup>AR QL</sup>                                                              |              |          |             |
+| Dexmethylphenidate Tab <sup>AR QL</sup>                                                |              |          |             |
+| Dexmethylphenidate ER (generic of Focalin XR) <sup>AR QL</sup>                        |              |          |             |
+| Dextroamphetamine ER Cap <sup>AR QL</sup>                                             |              |          |             |
+| Dextroamphetamine Sol AR <sup>AR QL</sup>                                             |              |          |             |
+| Dextroamphetamine IR Tab <sup>AR QL</sup>                                                |              |          |             |
+| Dyanavel XR <sup>AR</sup>                              |              |          |             |
+| Guanfacine ER <sup>QL</sup>                                                          |              |          |             |
+| Methylphenidate ER Cap <sup>AR QL</sup> (generic of Metadate CD, Ritalin LA)           |              |          |             |
+| Methylphenidate ER Tab <sup>AR QL</sup> (generic of Concerta, Methylin ER, Ritalin SR) |              |          |             |
+| Methylphenidate Sol <sup>AR QL</sup>                                                 |              |          |             |
+| Methylphenidate Tab <sup>AR QL</sup>                                                    |              |          |             |
+| Procentra <sup>AR</sup>                        |              | | |
+| Qelbree <sup>ST</sup>                                                             |              |          |             |
+| Quillichew ER <sup>AR</sup>                                                        |              |          |             |
+| Quillivant XR <sup>AR</sup>                                                          |              |          |             |
+| Ritalin LA <sup>AR QL</sup>                                                            |              |          |             |
+| Vyvanse Cap <sup>QL</sup>                                                           |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred                                         | Generic Name | Quantity | Time (Days) |
 | :---------------------------------------------------- | :----------- | :------: | :---------: |
-| Adhansia XR                                           |              |          |             |
+| Adhansia XR <sup>AR</sup>                                           |              |          |             |
 | Adzenys ER                                            |              |          |             |
 | Adzenys XR ODT                                        |              |          |             |
 | Amphetamine Tab                                       |              |          |             |
-| Azstarys                                              |              |          |             |
-| Cotempla XR ODT                                       |              |          |             |
-| Daytrana BvG                                          |              |          |             |
-| Dyanavel XR                                           |              |          |             |
+| Azstarys <sup>AR</sup>                                             |              |          |             |
+| Cotempla XR ODT <sup>AR</sup>                                      |              |          |             |
+| Daytrana <sup>AR BvG</sup>                                          |              |          |             |
 | Evekeo ODT                                            |              |          |             |
-| Jornay PM                                             |              |          |             |
+| Jornay PM <sup>AR</sup>                                            |              |          |             |
 | Methamphetamine                                       |              |          |             |
-| Methylphenidate Chewable Tab                          |              |          |             |
-| Methylphenidate ER (generic of Aptensio XR, Relexxii) |              |          |             |
-| Mydayis                                               |              |          |             |
+| Methylphenidate Chewable Tab <sup>AR QL</sup>                          |              |          |             |
+| Methylphenidate ER <sup>AR QL</sup>(generic of Aptensio XR, Relexxii) |              |          |             |
+| Mydayis <sup>AR QL</sup>                                              |              |          |             |
 | Vyvanse Chewable Tab                                  |              |          |             |
-| Zenzedi                                               |              |          |             |
+| Zenzedi <sup>AR QL</sup>                                               |              |          |             |
 
 ## Length of Authorizations
 
 365 Days
 
-Short Acting products considered separately from Long-Acting products
+## All Authorizations
 
-## Prior Authorization Criteria
-
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    -   Allergy to at least **two** medications not requiring prior approval
-    -   Contraindication to all medications not requiring prior approval
-    -   History of unacceptable/toxic side effects to at least **two** medications not requiring prior approval
-    -   Has the patient failed a therapeutic trial of at least **14 days** with at least **two** medications not requiring prior approval?
-
-## Additional Criteria
+Must be prescribed in accordance with FDA approved labeling
 
 ### Step Therapy
 
-Step Therapy Approval Criteria
+Step Therapy Criteria
 
-1.  For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days** of at least **two preferred** products.
+- Must have had an inadequate clinical response of at least **30 days** with atomoxetine **OR** at least **two preferred** stimulants
 
-**Note:** Patients on non-preferred therapies are not required to obtain prior authorization for the use of their product until after June 30th, 2022. Providers may obtain prior authorization before June 30th, 2022.
+## Non-Preferred Criteria
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+## Additional Information
+
+- Requests for non-preferred immediate-release formulations must have all required trials with preferred immediate-release drugs, and requests for non-preferred extended-release formulations must have all required trials with preferred extended-release drugs
+- For patients established on drugs that change from preferred to non-preferred on January 1, a prior authorization is **NOT** required until **after** June 30th of that year.
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 AR - Dextroamphetamine Solution: a PA is required for patients over 12 years old
 
@@ -81,6 +88,8 @@ AR - Methylphenidate Solution: a PA is required for patients over 12 years old
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=31)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=34)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=15)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=15)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
