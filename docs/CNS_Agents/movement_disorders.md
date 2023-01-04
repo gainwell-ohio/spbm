@@ -8,9 +8,9 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred        | Generic Name | Quantity | Time (Days) |
 | :--------------- | :----------- | :------: | :---------: |
-| Austedo PA       |              |          |             |
-| Ingrezza PA      |              |          |             |
-| Tetrabenazine PA |              |          |             |
+| Austedo <sup>PA ST</sup>       |              |          |             |
+| Ingrezza <sup>PA</sup>      |              |          |             |
+| Tetrabenazine <sup>PA</sup>  |              |          |             |
 
 ### Non-Preferred
 
@@ -22,38 +22,37 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 365 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval?
+Must be prescribed in accordance with FDA approved labeling
 
-Acceptable reasons include:
+## Clinical PA Criteria
 
-- Allergy to all medications not requiring prior approval
+- Must be prescribed by or in consultation with a neurologist or psychiatrist
 
-- Contraindication to or drug-to-drug interaction with medications not requiring prior approval.
+## Step Therapy
 
-- History of unacceptable/toxic side effects to medications not requiring prior approval
+Step Therapy Criteria
 
-## Additional Criteria
+Must have an inadequate clinical response of at least **90 days** to a maximally
+tolerated dose of tetrabenazine for Huntington’s Disease only
 
-### Tardive Dyskinesia
+## Non-Preferred Criteria
 
-Additional Criteria for the Treatment of Tardive Dyskinesia
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-- Prescribed by a Neurologist or Psychiatrist
+## Subsequent Authorization Criteria
 
-- Ingrezza is ONLY indicated for the treatment of Tardive Dyskinesia
-
-### Huntington's Disease
-
-Additional Criteria for Austedo for the Treatment of Huntington's Disease
-
-- The patient must have a failure to respond to maximally tolerated dose of tetrabenazine
-
-Austedo quantity limit of 4 tablets per day
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=37)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=40)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=16)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=17)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
