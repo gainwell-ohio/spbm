@@ -8,12 +8,12 @@ This is a subcategory of Dermatological Agents.
 
 | Preferred       | Generic Name | Quantity | Time (Days) |
 | :-------------- | :----------- | :------: | :---------: |
-| Accutane PA     |              |          |             |
-| Amnesteem PA    |              |          |             |
-| Claravis PA     |              |          |             |
-| Isotretinoin PA |              |          |             |
-| Myorisan PA     |              |          |             |
-| Zenatane PA     |              |          |             |
+| Accutane <sup>PA</sup>     |              |          |             |
+| Amnesteem <sup>PA</sup>     |              |          |             |
+| Claravis <sup>PA</sup>      |              |          |             |
+| Isotretinoin <sup>PA</sup>  |              |          |             |
+| Myorisan <sup>PA</sup>      |              |          |             |
+| Zenatane <sup>PA</sup>      |              |          |             |
 
 ### Non-Preferred
 
@@ -26,28 +26,37 @@ This is a subcategory of Dermatological Agents.
 
 150 days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-- Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-  - Allergy to medications not requiring prior approval
-  - Contraindication to or drug-to-drug interaction with medications not requiring prior approval
-  - History of unacceptable/toxic side effects to medications not requiring prior approval
+Must be prescribed in accordance with FDA approved labeling
 
-## Additional Criteria
+## Clinical PA Criteria
 
-### Prior Authorization
+- Must have had an inadequate clinical response of at least 90 days with at least **one preferred** topical **AND one preferred** oral antibiotic for acne
+- Must be absent of oral tretinoin in the past 56 days
+- Patient must be registered and meet all of the requirements of the iPLEDGE program
 
-Additonal Prior Authorization Criteria
+## Non-Preferred Criteria
 
-- Prescribed in accordance with its FDA approved labeling AND
-- Patient must be registered and meet all of the requirements of the iPLEDGE program AND
-- Patient must have had at least a 30-day trial and failure with at least 1 topical and 1 oral FDA-approved anti-acne product AND
-- Must be absent oral tretinoin in the past 56 days
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **90 days** with at least **two preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-Authorization provided for no more than 150 days at a time then must take 56 days off
+## Additional Information
+
+- Authorization length will be for no more than 150 days at a time then must take 56
+days off
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=46)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=49)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=18)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=19)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
