@@ -8,11 +8,11 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred                     | Generic Name | Quantity | Time (Days) |
 | :---------------------------- | :----------- | :------: | :---------: |
-| Amphetamine/Dextroamphetamine |              |          |             |
+| Amphetamine / Dextroamphetamine IR, ER <sup>AR</sup> |              |          |             |
 | Armodafinil                   |              |          |             |
-| Dextroamphetamine ER          |              |          |             |
-| Methylphenidate ER            |              |          |             |
-| Methylphenidate Tab           |              |          |             |
+| Dextroamphetamine ER <sup>AR</sup>          |              |          |             |
+| Methylphenidate ER <sup>AR</sup>           |              |          |             |
+| Methylphenidate Tab <sup>AR</sup>          |              |          |             |
 | Modafinil                     |              |          |             |
 
 ### Non-Preferred
@@ -28,48 +28,38 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 365 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+Must be prescribed in accordance with FDA approved labeling
 
--   Allergy to medications not requiring prior approval
--   Contraindications to or drug interaction with medications not requiring prior approval
--   History of unacceptable/toxic side effects to medications not requiring prior approval
+## Non-Preferred Criteria
 
-## Additional Criteria
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-### Non-Preferred
+## Oxybate Salts (Xywav)
 
--   For non‐preferred drugs without medication specific criteria, there must have been an inadequate clinical response to preferred alternatives, including a trial of no less than 30 days each of at least two preferred products
+Additional Oxybate Salts (Xywav) Criteria
 
-### Sunosi (soriamfetol)
+- Must have documented adherence to sodium restricted diet
 
--   Diagnosis of narcolepsy with excessive daytime sleepiness or obstructive sleep apnea with excessive daytime sleepiness **AND**
--   An inadequate response to or inability to tolerate a 30-day course of treatment with modafinil or armodafinil **AND**
--   An inadequate response to or inability to tolerate a 30-day course of treatment with a preferred methylphenidate or amphetamine product
+## Subsequent Authorization Criteria
 
-### Wakix (pitolisant), Xyrem (sodium oxybate)
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
--   Diagnosis of narcolepsy with excessive daytime sleepiness **AND**
--   An inadequate response to or inability to tolerate a 30‐day course of treatment with modafinil or armodafinil **AND**
--   An inadequate response to or inability to tolerate a 30‐day course of treatment with a preferred methylphenidate or amphetamine product **OR**
--   Diagnosis of narcolepsy with cataplexy
+**AR** - Adderall IR; a PA is required for patients younger than 3 years
 
-### Xywav (calcium, magnesium, potassium & sodium oxybates)
+**AR** - Adderall XR, Dexedrine ER: a PA is required for patients younger than 6 years
 
--   Diagnosis of narcolepsy with excessive daytime sleepiness **AND**
--   An inadequate response to or inability to tolerate a 30‐day course of treatment with modafinil or armodafinil **AND**
--   An inadequate response to or inability to tolerate a 30‐day course of treatment with a preferred methylphenidate or amphetamine product **AND**
--   Sodium restriction with documented adherence to sodium restricted diet **OR**
--   Diagnosis of narcolepsy with cataplexy **AND**
--   Sodium restriction with documented adherence to sodium restricted diet
-
-### Reauthorization
-
-Attestation that the patient’s condition has improved while taking the requested medication
+**AR** - Methylphenidate: a PA is required for patients younger than 6 years
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=39)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=42)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=16)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=17)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
