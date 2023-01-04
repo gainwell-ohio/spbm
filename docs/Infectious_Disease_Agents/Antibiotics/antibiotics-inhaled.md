@@ -8,61 +8,48 @@ This is a subcategory of Infectious Disease Agents.
 
 | Preferred        | Generic Name | Quantity | Time (Days) |
 | :--------------- | :----------- | :------: | :---------: |
-| Arikayce PA QL   |              |          |             |
-| Tobramycin AR PA |              |          |             |
+| Tobramycin <sup>PA QL</sup> |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred    | Generic Name | Quantity | Time (Days) |
 | :--------------- | :----------- | :------: | :---------: |
-| Bethkis AR       |              |          |             |
-| Cayston AR       |              |          |             |
-| Kitabis Pak AR   |              |          |             |
-| Tobi Podhaler AR |              |          |             |
+| Arikayce   |              |          |             |
+| Bethkis <sup> QL</sup>       |              |          |             |
+| Cayston      |              |          |             |
+| Kitabis Pak <sup> QL</sup>    |              |          |             |
+| Tobi Podhaler <sup> QL</sup> |              |          |             |
 
 ## Length of Authorizations
 
 28 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+Must be prescribed in accordance with FDA approved labeling
 
--   Allergy to medications not requiring prior approval
--   Contraindication to or drug interaction with medications not requiring prior approval
--   History of unacceptable/toxic side effects to medications not requiring prior approval
--   Diagnosis of cystic fibrosis with pseudomonas-related infection
--   Age limit of 6 and older for tobramycin products
--   Age limit of 7 and older for aztreonam
--   “Pulse” dosing cycles of 28 days on drug, followed by 28 days off drug
+## Clinical PA Criteria
 
-## Additional Criteria
+- Must provide documentation of cultures demonstrating drug is prescribed in alignment with approved indication
 
-### Information
+## Non-Preferred Criteria
 
-The requested medication may be approved if the following is true:
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **28 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
--   If there has been no less than a **28-day** trial of at least **one preferred** medication
+## Subsequent Authorization Criteria
 
-### Amikacin
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring (i.e., culture conversion, symptom improvement)
 
-Additional Criteria for Amikacin
-
-#### Length Of Authorizations
-
-Initial authorization 180 days
-
-Subsequent authorizations 365 days
-
-1.  Clinical criteria for initial authorization:
-    -   Diagnosis of *Mycobacterium avium* complex (MAC) lung disease; and
-    -   Patient has not achieved negative sputum cultures after a minimum of 180 consecutive days of a multidrug background regimen therapy (e.g. macrolide, rifampin, & ethambutol)
-2.  Criteria for subsequent authorizations
-    -   Evidence of culture conversion (negative sputum culture)
-3.  Dose will be limited to 1 dose per day
+**QL** - Tobramycin drugs: 56 doses in 56 days
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=74)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=76)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=26)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=26)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
