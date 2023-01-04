@@ -11,7 +11,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Aubagio           |              |          |             |
 | Avonex            |              |          |             |
 | Betaseron         |              |          |             |
-| Copaxone BvG      |              |          |             |
+| Copaxone <sup>BvG</sup>      |              |          |             |
 | Dalfampridine     |              |          |             |
 | Dimethyl Fumarate |              |          |             |
 | Gilenya           |              |          |             |
@@ -41,24 +41,34 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug previously but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    -   Allergy to medications not requiring prior approval
-    -   Contraindication to or drug interaction with medications not requiring prior approval
-    -   History of unacceptable/toxic side effects to medications not requiring prior approval
-2.  The requested medication may be approved if there has been a therapeutic failure to no less than a **30-day** trial on at least **one** medication not requiring prior approval.
+Must be prescribed in accordance with FDA approved labeling
 
-## Additional Criteria
+## Non-Preferred Criteria
 
-### Mayzent
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-Additional Mayzent Requirements
+## Siponimod (Mayzent)
 
-- Must review liver function tests (LFTS) complete blood count (CBC), ophthalmic examination, varicella zoster virus antibodies, and electrocardiogram (ECG) prior to initiation. Must confirm patient is not CYP2C9\*3\*3 genotype. Dose limited to 2mg/day.
+Additional Siponimod (Mayzent) Criteria
+
+- Must provide documentation of genotype, liver function tests (LFTS) complete blood
+count (CBC), ophthalmic examination, varicella zoster virus antibodies, and
+electrocardiogram (ECG) 
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=38)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=41)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=16)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=17)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
