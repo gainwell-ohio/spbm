@@ -8,19 +8,19 @@ This is a subcategory of Respiratory Agents.
 
 | Preferred                  | Generic Name | Quantity | Time (Days) |
 | :------------------------- | :----------- | :------: | :---------: |
-| Cetirizine Syr             |              |          |             |
-| Cetirizine Tab             |              |          |             |
-| Cetirizine/Pseudoephedrine |              |          |             |
-| Loratadine Rapid Dissolve  |              |          |             |
-| Loratadine Syr             |              |          |             |
-| Loratadine Tab             |              |          |             |
-| Loratadine/Pseudoephedrine |              |          |             |
+| Cetirizine Syr <sup>QL</sup>             |              |          |             |
+| Cetirizine Tab <sup>QL</sup>             |              |          |             |
+| Cetirizine / Pseudoephedrine |              |          |             |
+| Loratadine Rapid Dissolve <sup>QL</sup> |              |          |             |
+| Loratadine Syr <sup>QL</sup>            |              |          |             |
+| Loratadine Tab <sup>QL</sup>             |              |          |             |
+| Loratadine / Pseudoephedrine |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred       | Generic Name | Quantity | Time (Days) |
 | :------------------ | :----------- | :------: | :---------: |
-| Cetirizine Chewable |              |          |             |
+| Cetirizine Chewable <sup>AR</sup>|              |          |             |
 | Clarinex-D          |              |          |             |
 | Desloratadine       |              |          |             |
 | Fexofenadine        |              |          |             |
@@ -30,22 +30,28 @@ This is a subcategory of Respiratory Agents.
 
 365 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    -   Allergy to medications not requiring prior approval
-    -   Contraindication to or drug interaction with medications not requiring prior approval
-    -   History of unacceptable/toxic side effects to medications not requiring prior approval
-2.  If there have been therapeutic failures after **courses of treatment** (e.g., 30 days for allergic rhinitis) with medication not requiring prior approval, then may approve the requested medication.
+Must be prescribed in accordance with FDA approved labeling
 
-## Additional Information
+## Non-Preferred Criteria
 
--   Fexofenadine is indicated for patients 6 years of age and older
--   Loratadine is indicated for patients 2 years of age and older
--   Cetirizine and desloratadine are indicated for patients 6 months of age and older
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **30 days** with at least **two different preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+**AR** - Cetirizine Chewables: a PA is required for patients 6 years and older
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=89)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=91)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=30)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=30)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
