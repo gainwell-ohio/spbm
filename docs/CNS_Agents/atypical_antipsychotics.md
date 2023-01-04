@@ -8,27 +8,26 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred            | Generic Name | Quantity | Time (Days) |
 | :------------------- | :----------- | :------: | :---------: |
-| Abilify Maintena     |              |          |             |
-| Aripiprazole         |              |          |             |
-| Aristada             |              |          |             |
+| Abilify Maintena <sup>QL</sup>     |              |          |             |
+| Aripiprazole <sup>QL</sup>         |              |          |             |
+| Aristada <sup>QL</sup>             |              |          |             |
 | Aristada Initio      |              |          |             |
 | Clozapine            |              |          |             |
-| Fanapt ST            |              |          |             |
-| Geodon               |              |          |             |
-| Invega BvG           |              |          |             |
-| Invega Hafyera ER PA |              |          |             |
-| Invega Sustenna      |              |          |             |
-| Invega Trinza        |              |          |             |
-| Latuda ST            |              |          |             |
-| Olanzapine           |              |          |             |
+| Fanapt <sup>ST</sup>             |              |          |             |
+| Geodon <sup>QL</sup>              |              |          |             |
+| Invega Tab <sup>BvG</sup>            |              |          |             |
+| Invega Hafyera ER <sup>PA</sup>  |              |          |             |
+| Invega Sustenna <sup>QL</sup>       |              |          |             |
+| Invega Trinza <sup>QL</sup>        |              |          |             |
+| Latuda <sup>ST QL</sup>            |              |          |             |
+| Olanzapine <sup>QL</sup>           |              |          |             |
 | Perseris             |              |          |             |
-| Quetiapine           |              |          |             |
-| Quetiapine ER        |              |          |             |
-| Risperdal            |              |          |             |
-| Risperdal Consta     |              |          |             |
-| Risperidone          |              |          |             |
-| Saphris BvG ST       |              |          |             |
-| Ziprasidone          |              |          |             |
+| Quetiapine IR <sup>QL</sup>           |              |          |             |
+| Quetiapine ER <sup>QL</sup>         |              |          |             |
+| Risperdal Consta <sup>QL</sup>      |              |          |             |
+| Risperidone <sup>QL</sup>          |              |          |             |
+| Saphris <sup>BvG ST</sup>       |              |          |             |
+| Ziprasidone <sup>QL</sup>          |              |          |             |
 
 ### Non-Preferred
 
@@ -48,7 +47,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Secuado               |              |          |             |
 | Versacloz             |              |          |             |
 | Vraylar               |              |          |             |
-| Zyprexa Relprevv      |              |          |             |
+| Zyprexa Relprevv <sup>QL</sup>      |              |          |             |
 
 ## Length of Authorizations
 
@@ -56,17 +55,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ## Grandfathering
 
-Patients who have a claim for a non-preferred drug, or drug requiring step therapy, in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug in the previously but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
-
-## Prior Authorization Criteria
-
-Is there any reason the patient cannot be changed to a medication not requiring prior approval?
-
-Acceptable reasons include:
-
--   Allergy to all medications not requiring prior approval
--   Contraindication to or drug-to-drug interaction with medications not requiring prior approval.
--   History of unacceptable/toxic side effects to medications not requiring prior approval
+Patients who have a claim for a non-preferred drug, or drug requiring step therapy, in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug in the previously, but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
 
 ### Psychiatrist Exemption
 
@@ -76,66 +65,72 @@ Providers (as identified below) are exempt from prior authorization of any non-p
 
 **MCOs**: Physicians with a specialty in psychiatry, nurse practitioners certified in psychiatric mental health, or clinical nurse specialists certified in psychiatric mental health, who are credentialed via the Medicaid managed care plan
 
-## Additional Criteria
+## All Authorizations
+
+Must be prescribed in accordance with FDA approved labeling
+
+## Paliperidone Palmitate (Invega Hafyera)
+
+Paliperidone Palmitate (Invega Hafyera) Criteria
+
+- Must have had 4 months of treatment with Invega Sustenna or 3 months with Invega Trinza
 
 ### Step Therapy
 
-Step Therapy Approval Criteria
+Step Therapy Approval
 
-1.  For a drug requiring step therapy, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days** of at least **one preferred** product
-2.  For a non-preferred drug, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days each** of at least **two preferred** or step therapy products
+- Must have had an inadequate clinical response of at least **30 days** with at least **one preferred** drug
 
-### Other
+## Non-Preferred Criteria
 
-Other Approval Criteria
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-Is there any reason the patient cannot be changed to a preferred medication?
+## Additional Criteria
 
-Acceptable reasons include:
+### Aripiprazole (Abilify Mycite)
 
--   Allergy to preferred medications
--   Contraindication to or drug interaction with preferred medications
--   History of unacceptable/toxic side effects to preferred medications
--   For orally disintegrating tablet dosage forms, the patient is unable or unwilling to swallow the standard tablet/capsule dosage form.
--   The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated.
--   Lurasidone (pregnancy category B) may be approved if a patient is pregnant
--   Abilify Mycite will be restricted to prescribing by a psychiatrist following an aripiprazole serum blood level draw indicating need for further investigation of adherence.
+Additional Aripiprazole (Abilify Mycite) Criteria
 
-#### Antipsychotics, Second Generation And SSRI Combination
+- Must be prescribed by or in consultation with a psychiatrist following an aripiprazole serum blood level draw indicating need for further investigation of adherence
 
-| **No PA Required "Preferred"** | **Step Therapy Required "Preferred"**                                                                                          | **PA Required "Non-Preferred"**             |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
-|                                | A trial of no less than 30 days each of at least two preferred second- generation oral antipsychotics or step therapy products | FLUOXETINE/OLANZAPINE (generic of Symbyax®) |
+### Olanzapine / Samidorphan (Lybalvi)
 
-\+ Long-Acting Injectable Antipsychotics may be billed by the pharmacy if they are not dispensed directly to the patient. If not administered by the pharmacist, the drug must be released only to the administering provider or administering provider's staff, following all regulations for a Prescription Pick-Up Station as described by the Ohio Board of Pharmacy.
+Additonal Olanzapine / Samidorphan (Lybalvi) Criteria
 
-### Invega Hafyera ER
+-  Must provide documentation that patient is not using opioids or undergoing acute opioid withdrawal
 
-Additional Criteria for Invega Hafyera ER
+### Pimavanserin (Nuplazid)
 
-1.  Treatment with 4 months of Invega Sustenna or 3 months of Invega Trinza before starting Invega Hafyera.
+Additional Pimavanserin (Nuplazid) Criteria
 
-### Lybalvi
+- For Parkinson-related Hallucinations & Delusions ALL of the following must be met:
+  - Psychotic symptoms are severe and frequent enough to warrant treatment with an antipsychotic AND are not related to dementia or delirium
+  - The patient’s other Parkinson’s Disease drugs have been reduced or adjusted and psychotic symptoms persist OR patient is unable to tolerate adjustment of these other drugs
+  - Must have been inadequate clinical response or contraindication to at least 30 days of either quetiapine or clozapine
+- An exemption to the criteria will be authorized for prescribers with a neurology specialty to a patient with a history of the related condition
 
-Additonal Criteria for Lybalvi
+### Fluoxetine / Olanzapine (Symbyax)
 
-1.  Patient must not be using opioids.
-2.  Patient must not be undergoing acute opioid withdrawal.
+Additional Fluoxetine / Olanzapine (Symbyax) Criteria
 
-### Parkinson's Disease Psychosis (Nuplazid)
+- Must provide documentation for patient’s inability to use the individual drugs
 
-Additional Criteria for Agents for Parkinson's Disease Psychosis (Nuplazid)
+## Additional Information
 
-Pimavanserin (Nuplazid) may be approved if all the following are met:
+- Long-acting injectable antipsychotics may be billed by the pharmacy if they are not dispensed directly to the patient. If not administered by the pharmacist, the drug must be released only to the administering provider or administering provider’s staff, following all regulations for a Prescription Pick-Up Station as described by the Ohio Board of Pharmacy
 
-1.  Patient is diagnosed with Parkinson’s disease and has psychotic symptoms (hallucinations and/or delusions) that started after Parkinson’s diagnosis
-2.  These psychotic symptoms are severe and frequent enough to warrant treatment with an antipsychotic AND are not related to dementia or delirium
-3.  The patient’s other medications for Parkinson’s Disease have been reduce or adjusted and psychotic symptoms remain OR patient is unable to tolerate adjustment of these other medications
-4.  There has been inadequate clinical response to a trial of no less than **30 days** of either quetiapine or clozapine OR these therapies cannot be utilized
-5.  An exemption to the criteria will be granted for prescribing doctors with a neurology specialty to a patient with a history of an anti-Parkinson’s agent
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=32)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=35)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=15)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=16)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
