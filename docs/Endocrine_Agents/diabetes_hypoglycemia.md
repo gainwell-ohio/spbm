@@ -8,42 +8,44 @@ This is a subcategory of Endocrine Agents.
 
 | Preferred                             | Generic Name | Quantity | Time (Days) |
 | :------------------------------------ | :----------- | :------: | :---------: |
-| Baqsimi QL                            |              |          |             |
-| Glucagen Hypokit                      |              |          |             |
-| Glucagon Emerg Kit [Labeler 00002] QL |              |          |             |
-| Gvoke Hypopen QL                      |              |          |             |
-| Gvoke PFS QL                          |              |          |             |
-| Zegalogue                             |              |          |             |
+| Baqsimi <sup>QL</sup>                            |              |          |             |
+| Glucagen Hypokit <sup>QL</sup>                      |              |          |             |
+| Glucagon Emerg Kit [Labeler 00002] <sup>QL</sup>    |              |          |             |
+| Gvoke <sup>QL</sup>                           |              |          |             |
+| Zegalogue <sup>QL</sup>                             |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred                                 | Generic Name | Quantity | Time (Days) |
 | :-------------------------------------------- | :----------- | :------: | :---------: |
-| Glucagon Emerg Kit [Labeler 00548 & 63323] QL |              |          |             |
+| Glucagon Emerg Kit [Labeler 00548 & 63323] <sup>QL</sup> |              |          |             |
 
 ## Length of Authorizations
 
 365 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1. Is there any reason the patient cannot be changed to a medication not requiring prior approval within the same class and formulation? Acceptable reasons include:
+Must be prescribed in accordance with FDA approved labeling
 
-    - Allergy to medications not requiring prior approval
+## Non-Preferred Criteria
 
-    - Contraindication to or drug interaction with medications not requiring prior approval
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **two preferred** drugs **OR** the inability of the member and/or caregiver to administer a preferred glucagon product in a timely fashion
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-    - History of unacceptable/toxic side effects to medications not requiring prior approval
+## Subsequent Authorization Criteria
 
-## Additional Criteria
-### Non-Preferred
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-A non-preferred medication will be approved after a trial with a preferred medication not requiring prior approval or the inability of the member and/or caregiver to administer a preferred glucagon product in a timely fashion.
-
-Quantity limit of 2 per 34 days
+**QL** - All glucagon products: 2 doses per 34 days 
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=49)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=52)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=19)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=20)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
