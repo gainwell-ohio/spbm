@@ -25,27 +25,24 @@ This is a subcategory of Opthalmic Agents.
 
 ## Length of Authorizations
 
-For the date of service only; no refills for acute use.
+30 days
 
-Refills for up to 14 days may be authorized for patients undergoing surgery.
+## All Authorizations
 
-## Prior Authorization Criteria
+Must be prescribed in accordance with FDA approved labeling
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+## Non-Preferred Criteria
 
--   Allergy to medications not requiring prior approval
--   Contraindication to or drug interaction with medications not requiring prior approval
--   History of unacceptable/toxic side effects to medications not requiring prior approval
-
-## Additional Information
-
-The requested medication may be approved if both of the following are true:
-
-1.  If there has been a therapeutic failure to no less than a **3-day** trial of at least **one** medication not requiring prior approval
-2.  The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated.
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **3 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=86)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=88)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=29)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=29)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
