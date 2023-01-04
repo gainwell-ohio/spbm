@@ -8,53 +8,52 @@ This is a subcategory of Infectious Disease Agents.
 
 | Preferred                 | Generic Name | Quantity | Time (Days) |
 | :------------------------ | :----------- | :------: | :---------: |
-| Mavyret PA                |              |          |             |
-| Pegasys PA                |              |          |             |
-| Ribavirin PA              |              |          |             |
-| Sofosbuvir/Velpatasvir PA |              |          |             |
+| Mavyret <sup>PA</sup>          |              |          |             |
+| Pegasys <sup>PA</sup>               |              |          |             |
+| Ribavirin <sup>PA</sup>             |              |          |             |
+| Sofosbuvir / Velpatasvir <sup>PA</sup> |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred                       | Generic Name | Quantity | Time (Days) |
 | :---------------------------------- | :----------- | :------: | :---------: |
-| Harvoni 33.75-150, 45-200, 90-400mg |              |          |             |
-| Ledipasvir/Sofosbuvir               |              |          |             |
+| Harvoni |              |          |             |
+| Ledipasvir / Sofosbuvir               |              |          |             |
 | Sovaldi                             |              |          |             |
 | Vosevi                              |              |          |             |
 | Zepatier                            |              |          |             |
 
 ## Length of Authorizations
 
-365 days except simeprevir and direct acting antivirals (DAAs), see below
+Dependent upon authorized course
 
-## Prior Authorization Criteria
+## All Authorizations
 
-Is there any reason the patient cannot be changed to a medication within the same class that does not require prior approval? Acceptable reasons include:
+Must be prescribed in accordance with FDA approved labeling
 
--   Allergy to medications not requiring prior approval
--   Contraindication to or drug interaction with medications not requiring prior approval
--   History of unacceptable/toxic side effects to medications not requiring prior approval
--   Patients established on current therapy with prior payer (i.e. Commercial, Fee-for- Service, Managed Care Plan, etc).
+## Clinical PA Criteria
 
-## Additional Criteria
+- Only regimens recommended by the American Association for the Study of Liver Diseases (AASLD) will be authorized
+- Please see the [Hepatitis C Direct Acting Antiviral Prior Authorization Form](https://pharmacy.medicaid.ohio.gov/sites/default/files/HepC_PA_Form_20211119.pdf#overlay-context=prior-authorization) for criteria 
 
-### DAAs
+## Non-Preferred Criteria
 
-Additonal Criteria for DAAs
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response defined as not achieving SVR with guideline-recommended preferred drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-All HCV DAAs require clinical prior authorization. Only regimens recommended by the American Association for the Study of Liver Diseases (AASLD) will be approved.
+## Additional Information
 
-Please see the [Hepatitis C Direct Acting Antiviral Prior Authorization Form](https://pharmacy.medicaid.ohio.gov/sites/default/files/HepC_PA_Form_20211119.pdf#overlay-context=prior-authorization) for criteria and the most recent regimens recommended by the American Association for the Study of Liver Diseases (AASLD)
-
-### Information
-
-Additional Information to Aid in the Final Decision
-
--   Pegylated Interferons have a Black Box Warning which indicates that a patient should be monitored closely with periodic clinical and laboratory evaluations.
--   Ribavirins are contraindicated in women who are pregnant and in their male partner(s). At least two reliable forms of contraception must be used during therapy.
+- Requests for patients established on current therapy with prior payer (i.e., Commercial, Fee-for-Service, Managed Care Plan, etc) will be authorized with documentation
+- Requests for regimens including pegylated Interferons must include close monitoring with periodic clinical and laboratory evaluations
+- Requests for regimens including ribavirins must include documentation of at least two reliable forms of contraception being used during therapy
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=79)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=81)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=27)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=27)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
