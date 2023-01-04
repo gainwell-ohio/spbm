@@ -18,31 +18,32 @@ This is a subcategory of Infectious Disease Agents.
 | Descovy                                     |              |          |             |
 | Dovato                                      |              |          |             |
 | Efavirenz                                   |              |          |             |
-| Efavirenz/Emtricitabine/Tenofovir           |              |          |             |
-| Emtricitabine/Tenofovir Disoproxil Fumarate |              |          |             |
-| Emtriva BvG                                 |              |          |             |
+| Efavirenz / Emtricitabine / Tenofovir           |              |          |             |
+| Emtricitabine / Tenofovir Disoproxil Fumarate |              |          |             |
+| Emtriva <sup>BvG</sup>                                |              |          |             |
 | Evotaz                                      |              |          |             |
 | Genvoya                                     |              |          |             |
-| Isentress Chew Tab AR                       |              |          |             |
+| Isentress Chew Tab <sup>AR</sup>                       |              |          |             |
 | Isentress                                   |              |          |             |
 | Juluca                                      |              |          |             |
-| Kaletra Tab BvG                             |              |          |             |
-| Norvir Tab BvG                              |              |          |             |
+| Lopinavir / Ritonavir                             |              |          |             |
 | Odefsey                                     |              |          |             |
 | Pifeltro                                    |              |          |             |
 | Prezcobix                                   |              |          |             |
 | Prezista                                    |              |          |             |
-| Rukobia ER PA                               |              |          |             |
-| Symfi BvG                                   |              |          |             |
-| Symfi Lo BvG                                |              |          |             |
+| Ritonavir Tab                             |              |          |             |
+| Rukobia ER <sup>PA</sup>                             |              |          |             |
+| Symfi <sup>BvG</sup>                                   |              |          |             |
+| Symfi Lo <sup>BvG</sup>                                |              |          |             |
+| Symtuza                                     |             |            |           |
 | Temixys                                     |              |          |             |
-| Tenofovir Disoproxil 300mg                  |              |          |             |
+| Tenofovir Disoproxil 300 MG                  |              |          |             |
 | Tivicay                                     |              |          |             |
 | Tivicay PD                                  |              |          |             |
 | Triumeq                                     |              |          |             |
-| Triumeq PD PA                               |              |          |             |
-| Viread                                      |              |          |             |
-| Viread Oral Powder                          |              |          |             |
+| Triumeq PD <sup>PA</sup>                               |              |          |             |
+| Viread Tab                                     |              |          |             |
+| Viread Powder                          |              |          |             |
 | Zidovudine                                  |              |          |             |
 
 ### Non-Preferred
@@ -50,25 +51,24 @@ This is a subcategory of Infectious Disease Agents.
 | Non-Preferred                                      | Generic Name | Quantity | Time (Days) |
 | :------------------------------------------------- | :----------- | :------: | :---------: |
 | Abacavir Susp                                      |              |          |             |
-| Abacavir/Lamivudine/Zidovudine                     |              |          |             |
+| Abacavir / Lamivudine / Zidovudine                     |              |          |             |
 | Aptivus                                            |              |          |             |
 | Didanosine                                         |              |          |             |
 | Edurant                                            |              |          |             |
-| Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate |              |          |             |
+| Efavirenz / Lamivudine / Tenofovir Disoproxil Fumarate |              |          |             |
 | Emtricitabine                                      |              |          |             |
 | Fosamprenavir                                      |              |          |             |
 | Fuzeon                                             |              |          |             |
-| Intelence BvG                                      |              |          |             |
-| Lamivudine                                         |              |          |             |
-| Lamivudine/Zidovudine                              |              |          |             |
-| Lopinavir/Ritonavir                                |              |          |             |
-| Nevirapine                                         |              |          |             |
+| Intelence <sup>BvG</sup>                                      |              |          |             |
+| Lamivudine Tab                                         |              |          |             |
+| Lamivudine Sol <sup>AR</sup>                                          |              |          |             |
+| Lamivudine / Zidovudine                              |              |          |             |
+| Nevirapine IR, ER Tab                                        |              |          |             |
+| Nevirapine Sol <sup>AR</sup>                       |              |         |             |
 | Norvir Powder, Sol                                 |              |          |             |
-| Ritonavir Tab                                      |              |          |             |
-| Selzentry BvG                                      |              |          |             |
+| Selzentry <sup>BvG</sup>                                       |              |          |             |
 | Stavudine                                          |              |          |             |
 | Stribild                                           |              |          |             |
-| Symtuza                                            |              |          |             |
 | Tybost                                             |              |          |             |
 | Viracept                                           |              |          |             |
 
@@ -118,8 +118,14 @@ Additional Darunavir/Cobicistat/Emtricitabine/Tenofovir (Symtuza) Criteria
 
 **AR** – Isentress chewable tablet: a PA is required for patients 12 years and older
 
+**AR** – Lamivudine solution: a PA is required for patients 3 years and older
+
+**AR** – Nevirapine solution: a PA is required for patients 3 years and older
+
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=81)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=83)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=27)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=27)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
