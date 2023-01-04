@@ -23,26 +23,36 @@ Infectious Disease Agents: Antibiotics – Macrolides
 
 ## Length of Authorizations
 
-Date of service only; no refills
+Based on indication
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    -   Allergy to medications not requiring prior approval
-    -   Contraindication to or drug interaction with medications not requiring prior approval
-    -   History of unacceptable/toxic side effects to medications not requiring prior approval
-2.  If the infection is caused by an organism resistant to medications not requiring prior approval, then may approve the requested medication.
-    -   Note diagnosis and any culture and sensitivity reports
-3.  If there has been a therapeutic failure to no less than a **3-day trial** of at least **one** medication not requiring prior approval, then may approve the requested medication.
+## All Authorizations
 
-## Additional Criteria
+Must be prescribed in accordance with FDA approved labeling
 
-### Information
+## Non-Preferred Criteria
 
-Additional Information to Aid in the Final Decision
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **3 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-If the patient is completing a course of therapy with a medication requiring prior approval, which was initiated in the hospital, then may approve the requested medication to complete the course of therapy.
+## Additional Information
+
+- Requests may be authorized if:
+    - The infection is caused by an organism resistant to ALL preferred antibiotics (must provide diagnosis and any culture/sensitivity results)
+    - The patient is completing a course of therapy that was started in the hospital or other similar location or was started before Medicaid eligibility, only the remaining course will be authorized
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring, **AND** medical necessity for continued use
+
+**AR** - All drugs: a PA is required for patients younger than 40 years
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=75)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=77)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=26)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=26)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
