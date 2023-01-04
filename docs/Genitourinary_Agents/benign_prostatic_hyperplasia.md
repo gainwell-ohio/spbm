@@ -13,7 +13,7 @@ This is a subcategory of Genitourinary Agents.
 | Dutasteride           |              |          |             |
 | Finasteride           |              |          |             |
 | Prazosin              |              |          |             |
-| Tadalafil PA 2.5, 5mg |              |          |             |
+| Tadalafil <sup>PA</sup> 2.5, 5 MG |              |          |             |
 | Tamsulosin            |              |          |             |
 | Terazosin             |              |          |             |
 
@@ -22,30 +22,39 @@ This is a subcategory of Genitourinary Agents.
 | Non-Preferred          | Generic Name | Quantity | Time (Days) |
 | :--------------------- | :----------- | :------: | :---------: |
 | Cardura XL             |              |          |             |
-| Dutasteride/Tamsulosin |              |          |             |
+| Dutasteride / Tamsulosin |              |          |             |
 | Silodosin              |              |          |             |
 
 ## Length of Authorizations
 
 365 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    1.  Allergy to medications not requiring prior approval
-    2.  Contraindications to or drug interaction with medications not requiring prior approval
-    3.  History of unacceptable/toxic side effects to medications not requiring prior approval
-2.  Patient must have a therapeutic failure to no less than a **30-day** trial on at least **two** medications that are preferred.
+Must be prescribed in accordance with FDA approved labeling
 
-## Additional Criteria
-### Tadalafil (CIALIS)
+## Non-Preferred Criteria
 
-Additional Criteria for Approval of Tadalafil (CIALIS)
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-Patient must have diagnosis of benign prostatic hyperplasia and have a therapeutic failure to no less than a 30-day trial on at least one alpha-1 adrenergic blocker and a 90-day trial of finasteride.
+## Dutasteride / Tamsulosin (Jalyn)
+
+Additional Dutasteride / Tamsulosin (Jalyn) Criteria
+
+- Must provide documentation for patient’s inability to use the individual drugs
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=68)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=70)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=24)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=24)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
