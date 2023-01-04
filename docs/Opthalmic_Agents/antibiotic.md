@@ -14,15 +14,15 @@ This is a subcategory of Opthalmic Agents.
 | Erythromycin                                 |              |          |             |
 | Gentamicin                                   |              |          |             |
 | Moxifloxacin                                 |              |          |             |
-| Neomycin/Polymyxin/Bacitracin                |              |          |             |
-| Neomycin/Polymyxin/Bacitracin/Hydrocortisone |              |          |             |
-| Neomycin/Polymyxin/Dexamethasone             |              |          |             |
-| Neomycin/Polymyxin/Gramicidin                |              |          |             |
+| Neomycin / Polymyxin / Bacitracin                |              |          |             |
+| Neomycin / Polymyxin / Bacitracin / Hydrocortisone |              |          |             |
+| Neomycin / Polymyxin / Dexamethasone             |              |          |             |
+| Neomycin / Polymyxin / Gramicidin                |              |          |             |
 | Ofloxacin                                    |              |          |             |
-| Polymyxin/Trimethoprim                       |              |          |             |
+| Polymyxin / Trimethoprim                       |              |          |             |
 | Sulfacetamide Sodium Ophth Sol 10%           |              |          |             |
-| Sulfacetamide/Prednisolone                   |              |          |             |
-| Tobradex BvG                                 |              |          |             |
+| Sulfacetamide / Prednisolone                   |              |          |             |
+| Tobradex <sup>BvG</sup>                                 |              |          |             |
 | Tobramycin                                   |              |          |             |
 
 ### Non-Preferred
@@ -36,28 +36,38 @@ This is a subcategory of Opthalmic Agents.
 | Gatifloxacin                      |              |          |             |
 | Levofloxacin                      |              |          |             |
 | Moxifloxacin (Generic of Moxeza)  |              |          |             |
-| Neomycin/Polymyxin/Hydrocortisone |              |          |             |
+| Neomycin / Polymyxin / Hydrocortisone |              |          |             |
 | Pred-G                            |              |          |             |
-| Tobradex ST BvG                   |              |          |             |
+| Tobradex ST <sup>BvG</sup>                   |              |          |             |
 | Tobramycin/Dexamethasone 0.3/0.1% |              |          |             |
 | Zylet                             |              |          |             |
 
 ## Length of Authorizations
 
-For the date of service only; no refills for acute infection. Refills for up to 14 days may be authorized for quinolones only for patients undergoing surgery.
+30 days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    -   Allergy to medications not requiring prior approval
-    -   Contraindication to or drug interaction with medications not requiring prior approval
-    -   History of unacceptable/toxic side effects to medications not requiring prior approval
-2.  If the infection is caused by an organism resistant to medications not requiring prior approval, then may approve the requested medication.
-    -   Note diagnosis and any culture and sensitivity reports
-3.  For a non-preferred agent, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **3 days each** of at least **two** preferred products
+Must be prescribed in accordance with FDA approved labeling
+
+## Non-Preferred Criteria
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **3 days** with at least **two preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+## Additional Information
+
+- Requests may be authorized if:
+    - The infection is caused by an organism resistant to **ALL** preferred antibiotics (must provide diagnosis and any culture/sensitivity results)
+    - The patient is completing a course of therapy that was started in the hospital or other similar location or was started before Medicaid eligibility, only the remaining course will be authorized
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=82)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=84)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=28)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=28)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
