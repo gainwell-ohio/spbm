@@ -8,9 +8,9 @@ This is a subcategory of Respiratory Agents.
 
 | Preferred   | Generic Name | Quantity | Time (Days) |
 | :---------- | :----------- | :------: | :---------: |
-| Haegarda PA |              |          |             |
-| Ruconest PA |              |          |             |
-| Takhzyro PA |              |          |             |
+| Haegarda <sup>PA</sup> |              |          |             |
+| Ruconest <sup>PA</sup> |              |          |             |
+| Takhzyro <sup>PA</sup> |              |          |             |
 
 ### Non-Preferred
 
@@ -23,32 +23,37 @@ This is a subcategory of Respiratory Agents.
 
 ## Length of Authorizations
 
-365 Days
+Initial: 90 days
 
-**All products in this class require clinical prior authorization**
+Subsequent: 180 days
 
--   Diagnosis of hereditary angioedema
--   History of recurrent angioedema (without urticaria) within the past 180 days
--   History of recurrent episodes of abdominal pain and vomiting within the past 180 days
--   History of laryngeal edema within the past 180 days
--   Positive family history of angioedema
+## All Authorizations
 
-## Prior Authorization Criteria
+Must be prescribed in accordance with FDA approved labeling
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+## Clinical PA Criteria
 
--   Allergy to medications not requiring prior approval
--   Contraindication to or drug interaction with medications not requiring prior approval
--   History of unacceptable/toxic side effects to medications not requiring prior approval
+- Must provide documentation of diagnosis (i.e., C1-INH deficiency or dysfunction (Type I or
+II HAE)) and whether the drug will be used for prophylaxis or treatment
+- Must provide documentation of at-home administration
 
-## Additional Information
 
-The requested medication may be approved if the following is true:
+## Non-Preferred Criteria
 
--   There has been one episode of angioedema during use of a preferred medication
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response to at least **60 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=92)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=94)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=30)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=30)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
