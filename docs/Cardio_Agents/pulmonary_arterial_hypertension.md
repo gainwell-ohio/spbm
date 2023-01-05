@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Pulmonary Arterial Hypertension
 
 This is a subcategory of Cardiovascular Agents.
