@@ -8,8 +8,8 @@ This is a subcategory of Topical Agents.
 
 | Preferred        | Generic Name | Quantity | Time (Days) |
 | :--------------- | :----------- | :------: | :---------: |
-| Elidel AR BvG ST |              |          |             |
-| Protopic AR ST   |              |          |             |
+| Elidel <sup>AR BvG ST</sup> |              |          |             |
+| Tacrolimus <sup>AR ST</sup>   |              |          |             |
 
 ### Non-Preferred
 
@@ -17,43 +17,39 @@ This is a subcategory of Topical Agents.
 | :------------ | :----------- | :------: | :---------: |
 | Eucrisa       |              |          |             |
 | Opzelura      |              |          |             |
-| Pimecrolimus  |              |          |             |
+| Pimecrolimus <sup>AR</sup>  |              |          |             |
+| Vtama          |        |             |          |
 
 ## Length of Authorizations
 
 365 Days
 
-## Additional Criteria
+## All Authorizations
 
-### Step Therapy
+Must be prescribed in accordance with FDA approved labeling
 
-Step Therapy Approval Criteria
+## Step Therapy Criteria
 
-1.  For a product requiring step therapy, there must have been an inadequate clinical response to no less than **two 30-day** trials of topical corticosteroids
-2.  For a non-preferred medication, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than **30 days** of the preferred medication
+- Must have had an inadequate clinical response of at least **30 days** with at least **two** topical corticosteroids
 
-### Other
+## Non-Preferred Criteria
 
-Other Approval Criteria
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response to at least **30 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+## Subsequent Authorization Criteria
 
--   Allergy to medications not requiring prior approval
--   Contraindication to or drug interaction with medications not requiring prior approval
--   History of unacceptable/toxic side effects to medications not requiring prior approval
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-### Clinical Information
-
--   Indicated for short-term and intermittent long-term treatment of atopic dermatitis if:
-    -   Alternative, conventional therapies (such as topical corticosteroids) are deemed inadvisable because of potential risks, **or**
-    -   There has been inadequate response or intolerance to alternative, conventional therapies (such as topical corticosteroids)
--   Elidel and Protopic 0.03% are indicated in patients 2 years old or older. Protopic 0.1% is indicated in adults only.
--   Opzelura is contraindicated for use in immunocompromised patients
-
-AR - pimecrolimus and tacrolimus: a PA is required for patients younger than 2 years old
+**AR** - pimecrolimus and tacrolimus: a PA is required for patients younger than 2 years old
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=101)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=103)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=33)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=33)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
