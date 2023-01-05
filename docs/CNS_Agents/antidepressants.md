@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Antidepressants
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -8,23 +13,36 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred                               | Generic Name | Quantity | Time (Days) |
 | :-------------------------------------- | :----------- | :------: | :---------: |
-| Bupropion <sup>QL</sup>                             |              |          |             |
-| Bupropion SR (generic of Wellbutrin SR) <sup>QL</sup> |              |          |             |
-| Bupropion XL (generic of Wellbutrin XL) <sup>QL</sup> |              |          |             |
-| Citalopram <sup>QL</sup>                            |              |          |             |
-| Duloxetine 20, 30, 60 MG <sup>QL</sup>            |              |          |             |
-| Escitalopram <sup>QL</sup>                   |              |          |             |
-| Fluoxetine 10, 20, 40 MG <sup>QL</sup>                            |              |          |             |
-| Fluoxetine Sol <sup>QL</sup>                            |              |          |             |
-| Fluvoxamine <sup>QL</sup>                         |              |          |             |
-| Mirtazapine <sup>QL</sup>                         |              |          |             |
-| Nefazodone <sup>QL</sup>                              |              |          |             |
-| Paroxetine IR Tab, Sol <sup>QL</sup>                             |              |          |             |
+| Bupropion <sup>QL</sup>                             | Bupropion HCI Tab (all strengths)            |   306       |   102          |
+| Bupropion SR (generic of Wellbutrin SR) <sup>QL</sup> |   Bupropion HCI SR Tab 12 HR (all strengths)    |   204       |  102           |
+| Bupropion XL (generic of Wellbutrin XL) <sup>QL</sup> |      Bupropion HCI SR Tab 24 HR (all strengths)        |    102      |        102     |
+| Citalopram <sup>QL</sup>                            | Citalopram Hydrobromide (all strengths)             | Determined pursuant to PA         | Determined pursuant to PA         |
+| Citalopram <sup>QL</sup>                            | Citalopram Hydrobromide Tab (all strengths excl 40 MG)           |    153      |     102        |
+| Citalopram <sup>QL</sup>                            | Citalopram Hydrobromide Tab 40 MG            |   102       |   102          |
+| Citalopram <sup>QL</sup>                            | Citalopram Hydrobromide Oral Soln (all strengths)       |     2040     |   102          |
+| Duloxetine 20, 60 MG <sup>QL</sup>            | Duloxetine HCI Enteric Pellets Cap (all strengths excl 30 MG)            |       204   |  102           |
+| Duloxetine 30 MG <sup>QL</sup>            | Duloxetine HCI Enteric Pellets Cap 30 MG     |      306    |    102         |
+| Escitalopram <sup>QL</sup>                   |    Escitalopram Oxalate Tab (all strengths excl 5 MG)          | 153         |  102           |
+| Escitalopram <sup>QL</sup>                   |    Escitalopram Oxalate Tab 5 MG   |       102   |    102         |
+| Escitalopram Soln <sup>QL</sup>                   |    Escitalopram Oxalate Soln 5 MG / 5 ML        |    2040      |    102         |
+| Fluoxetine 10, 20 MG <sup>QL</sup>           | Fluoxetine HCI Cap (all strengths excl 40 MG)            | 306         | 102            |
+| Fluoxetine 40 MG <sup>QL</sup>           |   Fluoxetine HCI Tab 40 MG           |    204      |   102          |
+| Fluoxetine 10, 20, 40 MG <sup>QL</sup>           |   Fluoxetine HCI Tab (all strengths excl 60 MG)           |  306        |   102          |
+| Fluoxetine Sol <sup>QL</sup>                            | Fluoxetine HCI Solution (all strengths)             |    2040      |  102           |
+| Fluvoxamine <sup>QL</sup>                         |   Fluvoxamine Maleate Tab (all strengths)           |   306       |  102           |
+| Mirtazapine <sup>QL</sup>                         |  Mirtazapine ODT / Tab (all strengths)    |     102     |    102         |
+| Nefazodone <sup>QL</sup>                              |   Nefazodone HCI Tab (all strengths excl 200 MG)         |    204      |    102         |
+| Nefazodone <sup>QL</sup>                              |   Nefazodone HCI Tab 200 MG           |    306      |      102       |
+| Paroxetine IR Tab <sup>QL</sup>                             | Paroxetine HCI Tab (all strengths excl 30 MG)            |     102     |        102     |
+| Paroxetine IR Tab <sup>QL</sup>                             | Paroxetine HCI Tab 30 MG        |      204    |        102     |
+| Paroxetine Sol <sup>QL</sup>                             |              |          |             |
 | Sertraline                           |              |          |             |
 | Tranylcypromine                         |              |          |             |
-| Trazodone 50mg, 100mg, 150mg <sup>QL</sup>           |              |          |             |
-| Venlafaxine ER Cap <sup>QL</sup>                     |              |          |             |
-| Venlafaxine IR Tab <sup>QL</sup>                        |              |          |             |
+| Trazodone 50mg, 100mg, 150mg <sup>QL</sup>           |  Trazodone HCI Tab (all strengths excl 300 MG)            |   306       |   102          |
+| Venlafaxine ER Cap <sup>QL</sup>                     | Venlafaxine HCI SR Cap 37.5 MG         |  102        |  102           |
+| Venlafaxine ER Cap <sup>QL</sup>                     | Venlafaxine HCI SR Cap 75 MG            |  306        |  102           |
+| Venlafaxine ER Cap <sup>QL</sup>                     | Venlafaxine HCI SR Cap 150 MG             |  204        |  102           |
+| Venlafaxine IR Tab <sup>QL</sup>                        | Venlafaxine HCI Tab (all strengths)        |     306     |     102        |
 
 ### Non-Preferred
 
@@ -32,14 +50,14 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | :----------------------------------- | :----------- | :------: | :---------: |
 | Aplenzin                             |              |          |             |
 | Brisdelle                            |              |          |             |
-| Bupropion XL (generic of Forfivo XL) <sup>QL</sup> |              |          |             |
+| Bupropion XL (generic of Forfivo XL) <sup>QL</sup> |  Bupropion HCI SR Tab 24 HR (all strengths)            |    102      |  102           |
 | Clomipramine                         |              |          |             |
 | Desvenlafaxine                       |              |          |             |
 | Drizalma Sprinkle                    |              |          |             |
-| Duloxetine 40mg <sup>QL</sup>                     |              |          |             |
+| Duloxetine 40mg <sup>QL</sup>                     | Duloxetine HCI Enteric Pellets Cap (all strengths excl 30 MG)            | 204         |         102    |
 | Emsam                                |              |          |             |
 | Fetzima                              |              |          |             |
-| Fluoxetine 60mg <sup>QL</sup>                     |              |          |             |
+| Fluoxetine 60mg <sup>QL</sup>                     | Fluoxetine HCI Tab 60 MG              |  Determined pursuant to PA        |     Determined pursuant to PA        |
 | Fluoxetine DR <sup>QL</sup>                      |              |          |             |
 | Fluvoxamine ER <sup>QL</sup>                       |              |          |             |
 | Marplan                              |              |          |             |
@@ -47,7 +65,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Paroxetine ER Tab                       |              |          |             |
 | Pexeva                               |              |          |             |
 | Phenelzine                           |              |          |             |
-| Trazodone 300mg <sup>QL</sup>                     |              |          |             |
+| Trazodone 300mg <sup>QL</sup>                     | Trazodone HCI Tab 300 MG            |  102     |   102          |
 | Trintellix                           |              |          |             |
 | Venlafaxine ER Tab                   |              |          |             |
 | Viibryd <sup>BvG</sup>                         |              |          |             |
