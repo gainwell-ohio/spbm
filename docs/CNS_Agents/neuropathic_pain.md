@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Neuropathic Pain
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -13,13 +18,20 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Desipramine                        |              |          |             |
 | Doxepin 10, 25, 50, 75, 100, 150mg |              |          |             |
 | Doxepin Sol                 |              |          |             |
-| Duloxetine <sup>QL</sup>                         |              |          |             |
-| Gabapentin <sup>QL</sup>                        |              |          |             |
+| Duloxetine <sup>QL</sup>                         | Duloxetine HCI Enteric Pellets Cap (all strengths excl 30 MG)           |      204    |     102        |
+| Duloxetine <sup>QL</sup>                         | Duloxetine HCI Enteric Pellets Cap 30 MG        |    306      |  102           |
+| Gabapentin <sup>QL</sup>                        |    Gabapentin Cap/Tab 100 MG          |        204  |       34      |
+| Gabapentin <sup>QL</sup>                        |    Gabapentin Cap/Tab 300 MG      |  408        |     34        |
+| Gabapentin <sup>QL</sup>                        |    Gabapentin Cap/Tab 400 MG  |      306    | 34            |
+| Gabapentin <sup>QL</sup>                        |    Gabapentin Tab 600 MG    |      204    |         34    |
+| Gabapentin <sup>QL</sup>                        |    Gabapentin Tab 800 MG         |     136     |        34     |
+| Gabapentin Soln <sup>QL</sup>                        |    Gabapentin Oral Soln 250 MG / 5 ML         |     2448     |   34          |
 | Imipramine                         |              |          |             |
 | Lidocaine Patch                    |              |          |             |
 | Nortriptyline                      |              |          |             |
 | Oxcarbazepine                      |              |          |             |
-| Pregabalin <sup>QL</sup>                         |              |          |             |
+| Pregabalin <sup>QL</sup>                         |   Pregabalin Cap (all strengths excl 225 MG & 300 MG          |  102        |        34     |
+| Pregabalin <sup>QL</sup>                         |   Pregabalin Cap 225 MG & 300 MG    |      68    |     34        |
 
 ### Non-Preferred
 
