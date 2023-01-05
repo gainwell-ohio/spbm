@@ -8,15 +8,15 @@ This is a subcategory of Respiratory Agents.
 
 | Preferred  | Generic Name | Quantity | Time (Days) |
 | :--------- | :----------- | :------: | :---------: |
-| Fasenra PA |              |          |             |
-| Nucala PA  |              |          |             |
-| Xolair PA  |              |          |             |
+| Fasenra <sup>PA</sup> |              |          |             |
+| Dupixent <sup>PA</sup>    |              |          |             |
+| Xolair <sup>PA</sup>  |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
 | :------------ | :----------- | :------: | :---------: |
-| Dupixent      |              |          |             |
+| Nucala   |              |          |             |
 | Tezspire      |              |          |             |
 
 ## Length of Authorizations
@@ -47,6 +47,9 @@ Must be prescribed in accordance with FDA approved labeling
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=95)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=31)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=97)
+
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=31)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
