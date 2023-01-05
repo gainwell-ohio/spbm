@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Angina, Hypertension & Heart Failure
 
 This is a subcategory of Cardiovascular Agents.
@@ -105,7 +110,7 @@ This is a subcategory of Cardiovascular Agents.
 | Valsartan <sup>QL</sup>                   | Valsartan Tab 320 MG        |    102      |  102           |
 | Valsartan / HCTZ <sup>QL</sup>                          | Valsartan / HCTZ Tab (all strengths excl 320 combinations)        |       204   |      102       |
 | Valsartan / HCTZ <sup>QL</sup>                          | Valsartan / HCTZ Tab 320-12.5 MG & 320-25 MG          |  102        |           102  |
-| Verapamil IR <sup>QL</sup>                                 |              |          |             |
+| Verapamil IR <sup>QL</sup>                                 | Verapamile HCI Tab (all strengths)              |  408        |          102   |
 | Verapamil SR <sup>QL</sup>                             |              |          |             |
 
 ### Non-Preferred
@@ -139,7 +144,9 @@ This is a subcategory of Cardiovascular Agents.
 | Tekturna / HCTZ                    |              |          |             |
 | Telmisartan                     |              |          |             |
 | Telmisartan / HCTZ |              |          |             |
-| Verapamil 200, 300mg ER 24HR <sup>QL</sup>    |              |          |             |
+| Verapamil 200, 300mg ER 24HR <sup>QL</sup> (generic Verelan)    | Verapamic HCI SR Cap (all strengths excl 200 MG & 240 MG)              |  102        |   102          |
+| Verapamil 200, 300mg ER 24HR <sup>QL</sup> (generic Verelan)    | Verapamic HCI SR Cap 200 MG & 240 MG             |        102  |     102        |
+| Verapamil 200, 300mg ER 24HR <sup>QL</sup> (generic Verelan PM)    | Verapamic HCI SR Cap (all strengths)           |       Determined pursuant to PA   |     Determined pursuant to PA        |
 | Verquvo                         |              |          |             |
 
 ## Length of Authorizations
