@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Lipotropics
 
 This is a subcategory of Cardiovascular Agents.
