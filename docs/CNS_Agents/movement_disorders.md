@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Movement Disorders
 
 This is a subcategory of Central Nervous System (CNS) Agents.
