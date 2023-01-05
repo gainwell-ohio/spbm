@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Narcolepsy
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -8,11 +13,14 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred                     | Generic Name | Quantity | Time (Days) |
 | :---------------------------- | :----------- | :------: | :---------: |
-| Amphetamine / Dextroamphetamine IR, ER <sup>AR</sup> |              |          |             |
+| Amphetamine / Dextroamphetamine ER <sup>AR</sup> | Amphetamine-Dextroamphetamine ER Cap (all strengths)             |  34        |  34           |
+| Amphetamine / Dextroamphetamine IR <sup>AR</sup> | Amphetamine-Dextroamphetamine Tab (all strengths excl 30 MG)         |     102     |     34        |
+| Amphetamine / Dextroamphetamine IR <sup>AR</sup> |  Amphetamine-Dextroamphetamine Tab 30 MG   |      68    |  34           |
 | Armodafinil                   |              |          |             |
-| Dextroamphetamine ER <sup>AR</sup>          |              |          |             |
+| Dextroamphetamine ER <sup>AR</sup>          |   Dextroamphetamine Sulfate ER Cap (all strengths excl 15 MG)         |   34       |   34          |
+| Dextroamphetamine ER <sup>AR</sup>          |   Dextroamphetamine Sulfate ER Cap 15 MG           |   136       |    34         |
 | Methylphenidate ER <sup>AR</sup>           |              |          |             |
-| Methylphenidate Tab <sup>AR</sup>          |              |          |             |
+| Methylphenidate Tab <sup>AR</sup>          |  Methylphenidate HCI Tab (all strengths)            |    102      |      34       |
 | Modafinil                     |              |          |             |
 
 ### Non-Preferred
