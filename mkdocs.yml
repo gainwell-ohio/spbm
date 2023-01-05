@@ -5,7 +5,7 @@ repo_name: Evergreen
 edit_uri: "edit/main/docs/"
 theme:
   icon:
-      edit: material/penci
+      edit: material/pencil
   name: material
   logo: img/favicon.ico
   palette:
