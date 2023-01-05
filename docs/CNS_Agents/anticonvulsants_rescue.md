@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Anticonvulsants Rescue
 
 This is a subcategory of Central Nervous System (CNS) Agents.
