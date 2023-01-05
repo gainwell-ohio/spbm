@@ -1,3 +1,8 @@
+---
+search:
+	boost: 2
+---
+
 # Opioids
 
 This is a subcategory of Analgesic Agents.
@@ -10,7 +15,7 @@ This is a subcategory of Analgesic Agents.
 
 | Preferred                                               | Generic Name                                               |         Quantity          |        Time (Days)        |
 | :------------------------------------------------------ | :--------------------------------------------------------- | :-----------------------: | :-----------------------: |
-| Acetaminophen/Codeine <sup>QL</sup>                     | Acetaminophen w/ Codeine Tab 300-15 MG                     |            408            |            34             |
+| Acetaminophen / Codeine <sup>QL</sup>                     | Acetaminophen w/ Codeine Tab 300-15 MG                     |            408            |            34             |
 | Acetaminophen / Codeine <sup>QL</sup>                   | Acetaminophen w/ Codeine Tab 300-30 MG                     |            204            |            34             |
 | Acetaminophen / Codeine <sup>QL</sup>                   | Acetaminophen w/ Codeine Tab 300-60 MG                     |            102            |            34             |
 | Acetaminophen / Codeine <sup>QL</sup>                   | Acetaminophen w/ Codeine Soln 120-12 MG / 5 ML             |           2822            |            34             |
@@ -183,3 +188,5 @@ Effective July 1, 2018, patients with short acting opioid therapy will be limite
 [Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=8)
 
 [Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=7)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
