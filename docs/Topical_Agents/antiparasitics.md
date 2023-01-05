@@ -8,9 +8,9 @@ This is a subcategory of Topical Agents.
 
 | Preferred                     | Generic Name | Quantity | Time (Days) |
 | :---------------------------- | :----------- | :------: | :---------: |
-| Natroba BvG                   |              |          |             |
+| Natroba <sup>BvG</sup>                  |              |          |             |
 | Permethrin                    |              |          |             |
-| Piperonyl Butoxide/Pyrethrins |              |          |             |
+| Piperonyl Butoxide / Pyrethrins |              |          |             |
 
 ### Non-Preferred
 
@@ -25,35 +25,26 @@ This is a subcategory of Topical Agents.
 
 14 Days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
+Must be prescribed in accordance with FDA approved labeling
 
--   Allergy to medications not requiring prior approval
--   Contraindication to or drug interaction with medications not requiring prior approval
--   History of unacceptable/toxic side effects to medications not requiring prior approval
+## Non-Preferred Criteria
 
-## Additional Criteria
-### Information
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response to at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-The requested medication may be approved if the following is true:
+## Subsequent Authorization Criteria
 
--   If there has been a therapeutic failure to no less than a **30-day** trial of at least **one** medication not requiring prior approval
--   The requested medication’s corresponding generic (if covered by the state) has been attempted and failed or is contraindicated.
-
-### Indications as Approved by FDA
-
--   Benzyl alcohol lotion is indicated for patients 6 months of age and older
--   Crotamiton is indicated for adults
--   Ivermectin is indicated for age 6 months and older
--   Lindane lotion and shampoo are indicated only in patients who cannot tolerate or who have failed other treatments. **The P&T Committee does not recommend use of lindane.**
--   Malathion is indicated for patients 6 years of age and older
--   Permethrin cream and lotion are indicated for patients 2 months of age and older
--   Spinosad is indicated for patients 6 months of age and older
--   Package labeling does not list age for permethrin or piperonyl butoxode-pyrethrins
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=99)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=101)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=32)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=32)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
