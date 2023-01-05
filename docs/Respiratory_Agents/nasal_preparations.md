@@ -11,14 +11,14 @@ This is a subcategory of Respiratory Agents.
 | Azelastine                       |              |          |             |
 | Flunisolide                      |              |          |             |
 | Fluticasone (Generic of Flonase) |              |          |             |
-| Ipratropium                      |              |          |             |
+| Ipratropium <sup>QL</sup>                     |              |          |             |
 | Olopatadine                      |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred                | Generic Name | Quantity | Time (Days) |
 | :--------------------------- | :----------- | :------: | :---------: |
-| Azelastine/Fluticasone Spray |              |          |             |
+| Azelastine / Fluticasone Spray |              |          |             |
 | Beconase AQ                  |              |          |             |
 | Budesonide                   |              |          |             |
 | Mometasone                   |              |          |             |
@@ -31,16 +31,26 @@ This is a subcategory of Respiratory Agents.
 
 365 days
 
-## Prior Authorization Criteria
+## All Authorizations
 
-1.  Is there any reason the patient cannot be changed to a medication not requiring prior approval? Acceptable reasons include:
-    -   Allergy to all medications not requiring prior approval
-    -   Contraindication to or drug-to-drug interaction with medications not requiring prior approval.
-    -   History of unacceptable/toxic side effects to medications not requiring prior approval
-2.  For a non-preferred drug, there must have been inadequate clinical response to preferred alternatives, including a trial of no less than 30 days each of at least two preferred or step therapy products
+Must be prescribed in accordance with FDA approved labeling
+
+## Non-Preferred Criteria
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response to at least **30 days** with at least **two preferred** drugs in the same class, if available
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+## Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=96)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=98)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=31)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=31)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
