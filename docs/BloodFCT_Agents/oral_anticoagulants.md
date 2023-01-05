@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Oral Anticoagulants
 
 This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
