@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Antiarrhythmics
 
 This is a subcategory of Cardiovascular Agents.
@@ -17,8 +22,10 @@ This is a subcategory of Cardiovascular Agents.
 | Mexiletine <sup>QL</sup>      | Mexiletine HCI Cap 150 MG | 408 | 102 |
 | Norpace CR <sup>QL</sup>       | Disopyramide Phosphate ER Cap (all strengths excl 150 MG) | 612 | 102 |
 | Norpace CR <sup>QL</sup>       | Disopyramide Phosphate ER Cap R 150 MG | 408 | 102 |
-| Propafenone IR, ER <sup>QL</sup> | |||
-| Quinidine IR, ER <sup>QL</sup>    ||||
+| Propafenone ER <sup>QL</sup> | Propafenone SR Cap (all strengths) | 204 | 102 |
+| Propafenone IR <sup>QL</sup> | Propafenone HCI Tab (all strengths) | 306 | 102 |
+| Quinidine ER <sup>QL</sup>    | Quinidine Gluconate ER Tab (all strengths) | 612 | 102 |
+| Quinidine IR <sup>QL</sup>    | Quinidine Sulfate Tab (all strengths) | 612 | 102 |
 
 ### Non-Preferred
 
