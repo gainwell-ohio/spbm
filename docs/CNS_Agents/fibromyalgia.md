@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Fibromyalgia Agents
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -8,7 +13,8 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred  | Generic Name | Quantity | Time (Days) |
 | :--------- | :----------- | :------: | :---------: |
-| Pregabalin <sup>QL</sup> |              |          |             |
+| Pregabalin <sup>QL</sup> |  Pregabalin Cap (all strengths excl 225 MG & 300 MG)            |   102       |        34   |
+| Pregabalin <sup>QL</sup> |  Pregabalin Cap 225 MG & 300 MG             |   68   |          34   |
 
 ### Non-Preferred
 
