@@ -4,6 +4,8 @@ repo_url: https://github.com/gainwell-ohio/spbm/
 repo_name: Evergreen
 edit_uri: "edit/main/docs/"
 theme:
+  icon:
+      edit: material/penci
   name: material
   logo: img/favicon.ico
   palette:
