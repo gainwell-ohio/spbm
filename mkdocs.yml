@@ -23,6 +23,7 @@ theme:
     # - navigation.tabs
     - navigation.prune
     - search.highlighting
+    - content.action.edit
 markdown_extensions:
     - toc:
         permalink: True
