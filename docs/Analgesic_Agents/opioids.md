@@ -1,6 +1,6 @@
 ---
 search:
-	boost: 2
+  boost: 2 
 ---
 
 # Opioids
@@ -9,7 +9,7 @@ This is a subcategory of Analgesic Agents.
 
 **Ohio law requires prescribers to request and review an OARRS report before initially prescribing or personally furnishing any controlled substance, such as an opioid analgesic or a benzodiazepine, and gabapentin**
 
-## Formular
+## Formulary
 
 ### Preferred
 
