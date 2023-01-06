@@ -1,6 +1,6 @@
 # NSAIDs
 
-This is a subcategory of Opthalmic Agents.
+This is a subcategory of Ophthalmic Agents.
 
 ## Formulary
 
