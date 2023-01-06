@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Oral Acne Products
 
 This is a subcategory of Dermatological Agents.
