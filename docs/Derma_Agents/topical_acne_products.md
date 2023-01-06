@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Topical Acne Products
 
 This is a subcategory of Central Nervous System (CNS) Agents.
