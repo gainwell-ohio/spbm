@@ -6,14 +6,15 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                                            | Generic Name | Quantity | Time (Days) |
-| :--------------------------------------------------- | :----------- | :------: | :---------: |
-| Amphetamine / Dextroamphetamine IR, ER <sup>AR</sup> |              |          |             |
-| Armodafinil                                          |              |          |             |
-| Dextroamphetamine ER <sup>AR</sup>                   |              |          |             |
-| Methylphenidate ER <sup>AR</sup>                     |              |          |             |
-| Methylphenidate Tab <sup>AR</sup>                    |              |          |             |
-| Modafinil                                            |              |          |             |
+| Preferred                                            | Generic Name                                                | Quantity | Time (Days) |
+| :--------------------------------------------------- | :---------------------------------------------------------- | :------: | :---------: |
+| Amphetamine / Dextroamphetamine IR, ER <sup>AR</sup> |                                                             |          |             |
+| Armodafinil                                          |                                                             |          |             |
+| Dextroamphetamine ER <sup>AR</sup>                   | Dextroamphetamine Sulfate ER Cap (all strengths excl 15 MG) |    34    |     34      |
+| Dextroamphetamine ER <sup>AR</sup>                   | Dextroamphetamine Sulfate ER Cap 15 MG                      |   136    |     34      |
+| Methylphenidate ER <sup>AR</sup>                     |                                                             |          |             |
+| Methylphenidate Tab <sup>AR</sup>                    | Methylphenidate HCI Tab (all strengths)                     |   102    |     34      |
+| Modafinil                                            |                                                             |          |             |
 
 ### Non-Preferred
 

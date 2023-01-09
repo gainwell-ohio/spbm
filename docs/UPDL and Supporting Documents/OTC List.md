@@ -1,3 +1,7 @@
+# OTC List
+
+If the search bar within this document is not properly working, try refreshing the page as a solution.
+
 <style>
     .table {
   font-family: "Fira Sans", sans-serif;

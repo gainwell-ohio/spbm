@@ -10,21 +10,22 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                | Generic Name | Quantity | Time (Days) |
-| :----------------------- | :----------- | :------: | :---------: |
-| Buprenorphine / Naloxone |              |          |             |
-| Clonidine                |              |          |             |
-| Sublocade <sup>QL</sup>  |              |          |             |
-| Suboxone                 |              |          |             |
-| Vivitrol                 |              |          |             |
-| Zubsolv                  |              |          |             |
+| Preferred                | Generic Name                                      | Quantity | Time (Days) |
+| :----------------------- | :------------------------------------------------ | :------: | :---------: |
+| Buprenorphine / Naloxone |                                                   |          |             |
+| Clonidine                |                                                   |          |             |
+| Sublocade <sup>QL</sup>  | Buprenorphine ER Subcutaneous Inj 100 MG / 0.5 ML |   0.5    |     30      |
+| Sublocade <sup>QL</sup>  | Buprenorphine ER Subcutaneous Inj 300 MG / 1.5 ML |   1.5    |     30      |
+| Suboxone                 |                                                   |          |             |
+| Vivitrol                 | Naltrexone ER Susp IM Inj (all strengths)         |    1     |     28      |
+| Zubsolv                  |                                                   |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred          | Generic Name | Quantity | Time (Days) |
-| :--------------------- | :----------- | :------: | :---------: |
-| Buprenorphine          |              |          |             |
-| Lucemyra <sup>QL</sup> |              |          |             |
+| Non-Preferred          | Generic Name                   |         Quantity          |        Time (Days)        |
+| :--------------------- | :----------------------------- | :-----------------------: | :-----------------------: |
+| Buprenorphine          |                                |                           |                           |
+| Lucemyra <sup>QL</sup> | Lofexidine Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Length of Authorizations
 

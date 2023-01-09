@@ -11,9 +11,10 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred  | Generic Name | Quantity | Time (Days) |
-| :--------- | :----------- | :------: | :---------: |
-| Pregabalin <sup>QL</sup> |              |          |             |
+| Preferred                | Generic Name                                        | Quantity | Time (Days) |
+| :----------------------- | :-------------------------------------------------- | :------: | :---------: |
+| Pregabalin <sup>QL</sup> | Pregabalin Cap (all strengths excl 225 MG & 300 MG) |   102    |     34      |
+| Pregabalin <sup>QL</sup> | Pregabalin Cap 225 MG & 300 MG                      |    68    |     34      |
 
 ### Non-Preferred
 

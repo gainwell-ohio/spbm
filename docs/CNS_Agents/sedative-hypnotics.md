@@ -11,26 +11,26 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                         | Generic Name | Quantity | Time (Days) |
-| :-------------------------------- | :----------- | :------: | :---------: |
-| Estazolam <sup>QL</sup>           |              |          |             |
-| Temazepam 15, 30 MG <sup>QL</sup> |              |          |             |
-| Zaleplon <sup>QL</sup>            |              |          |             |
-| Zolpidem <sup>QL</sup>            |              |          |             |
+| Preferred                         | Generic Name                          | Quantity | Time (Days) |
+| :-------------------------------- | :------------------------------------ | :------: | :---------: |
+| Estazolam <sup>QL</sup>           | Estazolam Tab (all strengths)         |    34    |     34      |
+| Temazepam 15, 30 MG <sup>QL</sup> | Temazepam Cap 15 MG & 30 MG           |    34    |     34      |
+| Zaleplon <sup>QL</sup>            | Zaleplon Cap (all strengths)          |    34    |     34      |
+| Zolpidem <sup>QL</sup>            | Zolpidem Tartrate Tab (all strengths) |    34    |     34      |
 
 ### Non-Preferred
 
-| Non-Preferred                      | Generic Name | Quantity | Time (Days) |
-| :--------------------------------- | :----------- | :------: | :---------: |
-| Belsomra                           |              |          |             |
-| Dayvigo                            |              |          |             |
-| Doxepin 3, 6 MG                    |              |          |             |
-| Eszopiclone <sup>QL</sup>          |              |          |             |
-| Intermezzo                         |              |          |             |
-| Quviviq                            |              |          |             |
-| Ramelteon                          |              |          |             |
-| Temazepam 7.5, 22 MG <sup>QL</sup> |              |          |             |
-| Zolpidem ER, SL                    |              |          |             |
+| Non-Preferred                      | Generic Name                    |         Quantity          |        Time (Days)        |
+| :--------------------------------- | :------------------------------ | :-----------------------: | :-----------------------: |
+| Belsomra                           |                                 |                           |                           |
+| Dayvigo                            |                                 |                           |                           |
+| Doxepin 3, 6 MG                    |                                 |                           |                           |
+| Eszopiclone <sup>QL</sup>          | Eszopiclone Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Intermezzo                         |                                 |                           |                           |
+| Quviviq                            |                                 |                           |                           |
+| Ramelteon                          |                                 |                           |                           |
+| Temazepam 7.5, 22 MG <sup>QL</sup> | Temazepam Cap 7.5 MG & 22.5 MG  | Determined pursuant to PA | Determined pursuant to PA |
+| Zolpidem ER, SL                    |                                 |                           |                           |
 
 ## Length of Authorizations
 
