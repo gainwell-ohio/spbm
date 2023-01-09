@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Pancreatic Enzymes
 
 This is a subcategory of Gastrointestinal Agents.

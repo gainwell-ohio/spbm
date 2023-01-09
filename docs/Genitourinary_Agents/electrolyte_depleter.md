@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Electrolyte Depleter Agents
 
 This is a subcategory of Genitourinary Agents.

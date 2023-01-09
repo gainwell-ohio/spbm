@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Systemic Inflammatory Disease
 
 This is a subcategory of Immunomodulator Agents.
@@ -6,11 +11,11 @@ This is a subcategory of Immunomodulator Agents.
 
 ### Preferred
 
-| Preferred     | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
-| Adbry <sup>PA</sup>  |          |       |              |
+| Preferred                | Generic Name | Quantity | Time (Days) |
+| :----------------------- | :----------- | :------: | :---------: |
+| Adbry <sup>PA</sup>      |              |          |             |
 | Enbrel <sup>PA</sup>     |              |          |             |
-| Dupixent <sup>PA</sup>        |              |          |             |
+| Dupixent <sup>PA</sup>   |              |          |             |
 | Humira <sup>PA</sup>     |              |          |             |
 | Kineret <sup>PA</sup>    |              |          |             |
 | Otezla <sup>PA</sup>     |              |          |             |

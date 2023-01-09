@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Monoclonal Antibodies-Anti-IL/Anti-IgE
 
 This is a subcategory of Respiratory Agents.
@@ -6,17 +11,17 @@ This is a subcategory of Respiratory Agents.
 
 ### Preferred
 
-| Preferred  | Generic Name | Quantity | Time (Days) |
-| :--------- | :----------- | :------: | :---------: |
-| Fasenra <sup>PA</sup> |              |          |             |
-| Dupixent <sup>PA</sup>    |              |          |             |
-| Xolair <sup>PA</sup>  |              |          |             |
+| Preferred              | Generic Name | Quantity | Time (Days) |
+| :--------------------- | :----------- | :------: | :---------: |
+| Fasenra <sup>PA</sup>  |              |          |             |
+| Dupixent <sup>PA</sup> |              |          |             |
+| Xolair <sup>PA</sup>   |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
 | :------------ | :----------- | :------: | :---------: |
-| Nucala   |              |          |             |
+| Nucala        |              |          |             |
 | Tezspire      |              |          |             |
 
 ## Length of Authorizations
@@ -46,7 +51,6 @@ Must be prescribed in accordance with FDA approved labeling
     -   For non-preferred brand names that have preferred generics, requests must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
 ## Links
-
 
 [Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=97)
 

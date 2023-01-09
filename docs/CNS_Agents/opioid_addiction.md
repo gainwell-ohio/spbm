@@ -1,3 +1,7 @@
+---
+search:
+  boost: 2 
+---
 # Medication Assisted Treatment of Opioid Addiction
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -6,21 +10,21 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred              | Generic Name | Quantity | Time (Days) |
-| :--------------------- | :----------- | :------: | :---------: |
+| Preferred                | Generic Name | Quantity | Time (Days) |
+| :----------------------- | :----------- | :------: | :---------: |
 | Buprenorphine / Naloxone |              |          |             |
-| Clonidine              |              |          |             |
-| Sublocade <sup>QL</sup>           |              |          |             |
-| Suboxone               |              |          |             |
-| Vivitrol               |              |          |             |
-| Zubsolv                |              |          |             |
+| Clonidine                |              |          |             |
+| Sublocade <sup>QL</sup>  |              |          |             |
+| Suboxone                 |              |          |             |
+| Vivitrol                 |              |          |             |
+| Zubsolv                  |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
-| Buprenorphine |              |          |             |
-| Lucemyra <sup>QL</sup>    |              |          |             |
+| Non-Preferred          | Generic Name | Quantity | Time (Days) |
+| :--------------------- | :----------- | :------: | :---------: |
+| Buprenorphine          |              |          |             |
+| Lucemyra <sup>QL</sup> |              |          |             |
 
 ## Length of Authorizations
 

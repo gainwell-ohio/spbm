@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Antibacterial and Antibacterial/Steroid Combinations
 
 This is a subcategory of Otic Agents.
@@ -6,19 +11,19 @@ This is a subcategory of Otic Agents.
 
 ### Preferred
 
-| Preferred                           | Generic Name | Quantity | Time (Days) |
-| :---------------------------------- | :----------- | :------: | :---------: |
-| Cipro HC                            |              |          |             |
-| Ciprodex <sup>BvG</sup>                       |              |          |             |
-| Cortisporin-TC                      |              |          |             |
+| Preferred                               | Generic Name | Quantity | Time (Days) |
+| :-------------------------------------- | :----------- | :------: | :---------: |
+| Cipro HC                                |              |          |             |
+| Ciprodex <sup>BvG</sup>                 |              |          |             |
+| Cortisporin-TC                          |              |          |             |
 | Neomycin / Polymyxin B / Hydrocortisone |              |          |             |
-| Ofloxacin                           |              |          |             |
+| Ofloxacin                               |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred               | Generic Name | Quantity | Time (Days) |
-| :-------------------------- | :----------- | :------: | :---------: |
-| Ciprofloxacin               |              |          |             |
+| Non-Preferred                 | Generic Name | Quantity | Time (Days) |
+| :---------------------------- | :----------- | :------: | :---------: |
+| Ciprofloxacin                 |              |          |             |
 | Ciprofloxacin / Dexamethasone |              |          |             |
 | Ciprofloxacin / Fluocinolone  |              |          |             |
 

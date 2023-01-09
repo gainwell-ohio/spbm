@@ -1,4 +1,9 @@
-# Growth Hormone
+---
+search:
+  boost: 2 
+---
+
+ # Growth Hormone
 
 This is a subcategory of Endocrine Agents.
 
@@ -6,9 +11,9 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred      | Generic Name | Quantity | Time (Days) |
-| :------------- | :----------- | :------: | :---------: |
-| Genotropin <sup>PA</sup>   |              |          |             |
+| Preferred                 | Generic Name | Quantity | Time (Days) |
+| :------------------------ | :----------- | :------: | :---------: |
+| Genotropin <sup>PA</sup>  |              |          |             |
 | Norditropin <sup>PA</sup> |              |          |             |
 
 ### Non-Preferred
@@ -17,7 +22,7 @@ This is a subcategory of Endocrine Agents.
 | :------------ | :----------- | :------: | :---------: |
 | Humatrope     |              |          |             |
 | Nutropin      |              |          |             |
-| Omnitrope      |              |          |             |
+| Omnitrope     |              |          |             |
 | Saizen        |              |          |             |
 | Serostim      |              |          |             |
 | Skytrofa      |              |          |             |

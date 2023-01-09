@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Estrogenic Agents
 
 This is a subcategory of Endocrine Agents.
@@ -6,37 +11,38 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred                               | Generic Name | Quantity | Time (Days) |
-| :-------------------------------------- | :----------- | :------: | :---------: |
-| Climara Pro <sup>QL</sup>                            |              |          |             |
-| Combipatch <sup>QL</sup>                             |              |          |             |
-| Dotti <sup>QL</sup>                     |                 |         |            |
-| Estradiol Cream, Tab                               |              |          |             |
-| Estradiol Patch <sup>QL</sup>           |                  |     |               |
-| Estring                                 |              |          |             |
-| Ethinyl Estradiol / Norethindrone Acetate |              |          |             |
-| Lyllana <sup>QL</sup>                  |              |         |              |
-| Menest                                  |              |          |             |
-| Premarin                                |              |          |             |
-| Premphase                               |              |          |             |
-| Prempro                                 |              |          |             |
+| Preferred                                 | Generic Name                                                    | Quantity | Time (Days) |
+| :---------------------------------------- | :-------------------------------------------------------------- | :------: | :---------: |
+| Climara Pro <sup>QL</sup>                 |                                                                 |          |             |
+| Combipatch <sup>QL</sup>                  | Estradiol-Norethindrone Acetate TD Twice Weekly (all strengths) |    8     |     28      |
+| Dotti <sup>QL</sup>                       | Estradiol TD Patch Twice Weekly (all strengths)                 |    8     |     28      |
+| Estradiol Cream, Tab                      |                                                                 |          |             |
+| Estradiol Patch <sup>QL</sup>             | Estradiol TD Patch Once Weekly (all strengths)                  |    4     |     28      |
+| Estradiol Patch <sup>QL</sup>             | Estradiol TD Patch Twice Weekly (all strengths)                 |    8     |     28      |
+| Estring                                   | Estradiol Vaginal Ring (all strengths)                          |    1     |     90      |
+| Ethinyl Estradiol / Norethindrone Acetate |                                                                 |          |             |
+| Lyllana <sup>QL</sup>                     | Estradiol TD Patch Twice Weekly (all strengths)                 |    8     |     28      |
+| Menest                                    |                                                                 |          |             |
+| Premarin                                  |                                                                 |          |             |
+| Premphase                                 |                                                                 |          |             |
+| Prempro                                   |                                                                 |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                   | Generic Name | Quantity | Time (Days) |
-| :------------------------------ | :----------- | :------: | :---------: |
-| Angeliq                         |              |          |             |
-| Climara <sup>QL</sup>          |              |         |             |
-| Divigel                         |              |          |             |
-| Duavee                          |              |          |             |
-| Estradiol 10mcg Vag Tab         |              |          |             |
-| Estradiol / Norethindrone Acetate |              |          |             |
-| Evamist                         |              |          |             |
-| Femring                         |              |          |             |
-| Menostar <sup>QL</sup>                       |              |          |             |
-| Minivelle <sup>QL</sup>                       |              |          |             |
-| Prefest                         |              |          |             |
-| Vivelle-Dot <sup>QL</sup>        |               |         |           |
+| Non-Preferred                     | Generic Name                                    |         Quantity          |        Time (Days)        |
+| :-------------------------------- | :---------------------------------------------- | :-----------------------: | :-----------------------: |
+| Angeliq                           |                                                 |                           |                           |
+| Climara <sup>QL</sup>             | Estradiol TD Patch Once Weekly (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
+| Divigel                           |                                                 |                           |                           |
+| Duavee                            |                                                 |                           |                           |
+| Estradiol 10mcg Vag Tab           |                                                 |                           |                           |
+| Estradiol / Norethindrone Acetate |                                                 |                           |                           |
+| Evamist                           |                                                 |                           |                           |
+| Femring                           |                                                 |                           |                           |
+| Menostar <sup>QL</sup>            |                                                 |                           |                           |
+| Minivelle <sup>QL</sup>           | Estradiol TD Patch Twice Weekly (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Prefest                           |                                                 |                           |                           |
+| Vivelle-Dot <sup>QL</sup>         | Estradiol TD Patch Twice Weekly (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Length of Authorizations
 

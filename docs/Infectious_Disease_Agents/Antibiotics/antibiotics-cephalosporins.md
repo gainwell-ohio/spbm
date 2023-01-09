@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Cephalosporins
 
 This is a subcategory of Infectious Disease Agents.
@@ -6,25 +11,25 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Preferred
 
-| Preferred             | Generic Name | Quantity | Time (Days) |
-| :-------------------- | :----------- | :------: | :---------: |
-| Cefadroxil            |              |          |             |
-| Cephalexin 250, 500 MG |              |          |             |
-| Cefaclor IR             |              |          |             |
-| Cefaclor ER           |              |          |             |
-| Cefaclor Susp <sup>AR</sup>     |              |          |             |
-| Cefprozil             |              |          |             |
-| Cefprozil Susp <sup>AR</sup>     |              |          |             |
-| Cefuroxime            |              |          |             |
-| Cefdinir              |              |          |             |
+| Preferred                    | Generic Name | Quantity | Time (Days) |
+| :--------------------------- | :----------- | :------: | :---------: |
+| Cefadroxil                   |              |          |             |
+| Cephalexin 250, 500 MG       |              |          |             |
+| Cefaclor IR                  |              |          |             |
+| Cefaclor ER                  |              |          |             |
+| Cefaclor Susp <sup>AR</sup>  |              |          |             |
+| Cefprozil                    |              |          |             |
+| Cefprozil Susp <sup>AR</sup> |              |          |             |
+| Cefuroxime                   |              |          |             |
+| Cefdinir                     |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred          | Generic Name | Quantity | Time (Days) |
-| :--------------------- | :----------- | :------: | :---------: |
-| Cephalexin 750 MG      |              |          |             |
-| Cefpodoxime            |              |          |             |
-| Cefixime Cap           |              |          |             |
+| Non-Preferred                     | Generic Name | Quantity | Time (Days) |
+| :-------------------------------- | :----------- | :------: | :---------: |
+| Cephalexin 750 MG                 |              |          |             |
+| Cefpodoxime                       |              |          |             |
+| Cefixime Cap                      |              |          |             |
 | Cefixime Susp <sup>AR</sup>       |              |          |             |
 | Suprax Chewable Tab <sup>AR</sup> |              |          |             |
 

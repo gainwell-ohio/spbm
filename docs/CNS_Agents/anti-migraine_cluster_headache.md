@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Anti-Migraine Agents, Cluster Headache
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -6,9 +11,9 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                      | Generic Name                                              |         Quantity          |        Time (Days)        |
-| :----------------------------- | :-------------------------------------------------------- | :-----------------------: | :-----------------------: |
-| Verapamil <sup>QL</sup>                     | Verapamil HCI Tab (all strengths)                         |            408            |            102            |
+| Preferred                                    | Generic Name                                              |         Quantity          |        Time (Days)        |
+| :------------------------------------------- | :-------------------------------------------------------- | :-----------------------: | :-----------------------: |
+| Verapamil <sup>QL</sup>                      | Verapamil HCI Tab (all strengths)                         |            408            |            102            |
 | Verapamil CR (generic Calan) <sup>QL</sup>   | Verapamil HCI CR Tab (all strengths)                      |            204            |            102            |
 | Verapamil ER (generic Verelan) <sup>QL</sup> | Verapamil HCI SR Cap (all strengths excl 200 MG & 240 MG) |            102            |            102            |
 | Verapamil ER (generic Verelan) <sup>QL</sup> | Verapamil HCI SR Cap 200 MG & 240 MG                      |            204            |            102            |
@@ -16,9 +21,9 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Non-Preferred
 
-| Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
-| Emgality <sup>QL</sup>  |     Galcanezumab Subcutaneous Inj (all strengths & formulations) | Determined pursuant to PA | Determined pursuant to PA |
+| Non-Preferred          | Generic Name                                                 |         Quantity          |        Time (Days)        |
+| :--------------------- | :----------------------------------------------------------- | :-----------------------: | :-----------------------: |
+| Emgality <sup>QL</sup> | Galcanezumab Subcutaneous Inj (all strengths & formulations) | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Length of Authorizations
 
@@ -47,7 +52,6 @@ Must be prescribed in accordance with FDA approved labeling
 **QL** - Emgality: 3 doses per 30 days (for initial loading dose only), then 1 dose per 30 days thereafter
 
 ## Links
-
 
 [Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=27)
 

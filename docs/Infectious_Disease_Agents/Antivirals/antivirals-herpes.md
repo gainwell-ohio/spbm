@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Herpes
 
 This is a subcategory of Infectious Disease Agents.

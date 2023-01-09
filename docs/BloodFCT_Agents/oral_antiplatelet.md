@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Oral Antiplatelet
 
 This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
@@ -6,13 +11,13 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Preferred
 
-| Preferred               | Generic Name | Quantity | Time (Days) |
-| :---------------------- | :----------- | :------: | :---------: |
-| Aspirin                 |              |          |             |
-| Aspirin/Dipyridamole ER |              |          |             |
-| Brilinta                |              |          |             |
-| Clopidogrel             |              |          |             |
-| Prasugrel <sup>QL</sup>             |  Prasugrel HCI Tab (all strengths          |  102        |   102          |
+| Preferred               | Generic Name                     | Quantity | Time (Days) |
+| :---------------------- | :------------------------------- | :------: | :---------: |
+| Aspirin                 |                                  |          |             |
+| Aspirin/Dipyridamole ER |                                  |          |             |
+| Brilinta                |                                  |          |             |
+| Clopidogrel             |                                  |          |             |
+| Prasugrel <sup>QL</sup> | Prasugrel HCI Tab (all strengths |   102    |     102     |
 
 ### Non-Preferred
 

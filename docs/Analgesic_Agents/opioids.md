@@ -15,7 +15,7 @@ This is a subcategory of Analgesic Agents.
 
 | Preferred                                               | Generic Name                                               |         Quantity          |        Time (Days)        |
 | :------------------------------------------------------ | :--------------------------------------------------------- | :-----------------------: | :-----------------------: |
-| Acetaminophen / Codeine <sup>QL</sup>                     | Acetaminophen w/ Codeine Tab 300-15 MG                     |            408            |            34             |
+| Acetaminophen / Codeine <sup>QL</sup>                   | Acetaminophen w/ Codeine Tab 300-15 MG                     |            408            |            34             |
 | Acetaminophen / Codeine <sup>QL</sup>                   | Acetaminophen w/ Codeine Tab 300-30 MG                     |            204            |            34             |
 | Acetaminophen / Codeine <sup>QL</sup>                   | Acetaminophen w/ Codeine Tab 300-60 MG                     |            102            |            34             |
 | Acetaminophen / Codeine <sup>QL</sup>                   | Acetaminophen w/ Codeine Soln 120-12 MG / 5 ML             |           2822            |            34             |
@@ -60,34 +60,34 @@ This is a subcategory of Analgesic Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                         | Generic Name                                                       |         Quantity          |        Time (Days)        |
-| :------------------------------------ | :----------------------------------------------------------------- | :-----------------------: | :-----------------------: |
-| Acetaminophen / Caffeine / Dihydrocodone <sup>QL</sup>       | Acetaminophen / Caffeine / Dihydrocodone Cap / Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Belbuca <sup>QL</sup>                        | Buprenorphine Buccal Film (all strengths)                          | Determined pursuant to PA | Determined pursuant to PA |
-| Benzhydrocodone / Acetaminophen <sup>QL</sup>              | Benzhydrocodone / Acetaminophen (all strengths)                     | Determined pursuant to PA | Determined pursuant to PA |
-| Buprenorphine TD Patch Weekly <sup>QL</sup>                   | Buprenorphine TD Patch Weekly (all strengths)                      | Determined pursuant to PA | Determined pursuant to PA |
+| Non-Preferred                                                                      | Generic Name                                                       |         Quantity          |        Time (Days)        |
+| :--------------------------------------------------------------------------------- | :----------------------------------------------------------------- | :-----------------------: | :-----------------------: |
+| Acetaminophen / Caffeine / Dihydrocodone <sup>QL</sup>                             | Acetaminophen / Caffeine / Dihydrocodone Cap / Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Belbuca <sup>QL</sup>                                                              | Buprenorphine Buccal Film (all strengths)                          | Determined pursuant to PA | Determined pursuant to PA |
+| Benzhydrocodone / Acetaminophen <sup>QL</sup>                                      | Benzhydrocodone / Acetaminophen (all strengths)                    | Determined pursuant to PA | Determined pursuant to PA |
+| Buprenorphine TD Patch Weekly <sup>QL</sup>                                        | Buprenorphine TD Patch Weekly (all strengths)                      | Determined pursuant to PA | Determined pursuant to PA |
 | Butalbital / Acetaminophen / Caffeine / Codeine 50 / 300 / 40 / 30mg <sup>QL</sup> | Butalbital-APAP-Caffeine w/ Codeine Cap 50-325-40-30 MG            |            238            |            34             |
-| Dsuvia <sup>QL</sup>                                | Sufentanil Sublingual Tab (all strengths)                          | Determined pursuant to PA | Determined pursuant to PA |
-| Fentanyl <sup>QL</sup>                              | Fentanyl TD Patch (all strengths)                                  | Determined pursuant to PA | Determined pursuant to PA |
-| Hydrocodone Bitartrate ER 12HR Cap <sup>QL</sup> |                                                                    |                           |                           |
-| Hydrocodone Bitartrate ER 24HR Tab <sup>QL</sup> |                                                                    |                           |                           |
-| Hydrocodone / Acetaminophen <sup>QL</sup>                   | Hydrocodone/Acetaminophen 5-300 MG                                 | Determined pursuant to PA | Determined pursuant to PA |
-| Hydrocodone / Acetaminophen <sup>QL</sup>                   | Hydrocodone/Acetaminophen 7.5-300 MG                               | Determined pursuant to PA | Determined pursuant to PA |
-| Hydrocodone / Acetaminophen <sup>QL</sup>                   | Hydrocodone/Acetaminophen 10-300 MG                                | Determined pursuant to PA | Determined pursuant to PA |
-| Hydrocodone / Ibuprofen <sup>QL</sup>              |  Hydrocodone / Ibuprofen Tab (all strengths)                                                                  |     Determined pursuant to PA                      | Determined pursuant to PA                          |
-| Hydromorphone ER <sup>QL</sup>                   |                                                                    |                           |                           |
-| Levorphanol <sup>QL</sup>                           | Levorphanol Tab (all strengths)                                    | Determined pursuant to PA | Determined pursuant to PA |
-| Meperidine <sup>QL</sup>                            | Meperidine HCI (all strengths & formulations)                      | Determined pursuant to PA | Determined pursuant to PA |
-| Methadone <sup>QL</sup>                            | Methadone Concentrate Soln / Tab                              | Determined pursuant to PA | Determined pursuant to PA |
-| Morphine ER 24HR Cap QL               |                                                                    |                           |                           |
-| Oxaydo <sup>QL</sup>                               | | | |
-| Oxycodone ER <sup>QL</sup>                       |                                                                    |                           |                           |
-| Oxycodone/Ibuprofen QL                |  Oxycodone / Ibuprofen (all strengths)                                                                 |        Determined pursuant to PA                   |  Determined pursuant to PA                         |
-| Oxymorphone IR, ER <sup>QL</sup>                       | Oxymorphone HCI Tab IR / ER (all strengths)                                | Determined pursuant to PA | Determined pursuant to PA |
-| Pentazocine / Naloxone <sup>QL</sup>               | Pentazocine / Naloxone Tab (all strengths)                         | Determined pursuant to PA | Determined pursuant to PA |
-| Seglentis <sup>QL</sup>                         |  Celecoxib / Tramadol (all strengths)                                                                  | Determined pursuant to PA                  |  Determined pursuant to PA                         |
-| Tramadol ER <sup>QL</sup>                       | Tramadol HCI ER / Soln (all strengths)                                                                   | Determined pursuant to PA                | Determined pursuant to PA                           |
-| Xtampza ER <sup>QL</sup>                           | Oxycodone ER Cap (all strengths)                                   | Determined pursuant to PA | Determined pursuant to PA |
+| Dsuvia <sup>QL</sup>                                                               | Sufentanil Sublingual Tab (all strengths)                          | Determined pursuant to PA | Determined pursuant to PA |
+| Fentanyl <sup>QL</sup>                                                             | Fentanyl TD Patch (all strengths)                                  | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone Bitartrate ER 12HR Cap <sup>QL</sup>                                   |                                                                    |                           |                           |
+| Hydrocodone Bitartrate ER 24HR Tab <sup>QL</sup>                                   |                                                                    |                           |                           |
+| Hydrocodone / Acetaminophen <sup>QL</sup>                                          | Hydrocodone/Acetaminophen 5-300 MG                                 | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone / Acetaminophen <sup>QL</sup>                                          | Hydrocodone/Acetaminophen 7.5-300 MG                               | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone / Acetaminophen <sup>QL</sup>                                          | Hydrocodone/Acetaminophen 10-300 MG                                | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone / Ibuprofen <sup>QL</sup>                                              | Hydrocodone / Ibuprofen Tab (all strengths)                        | Determined pursuant to PA | Determined pursuant to PA |
+| Hydromorphone ER <sup>QL</sup>                                                     |                                                                    |                           |                           |
+| Levorphanol <sup>QL</sup>                                                          | Levorphanol Tab (all strengths)                                    | Determined pursuant to PA | Determined pursuant to PA |
+| Meperidine <sup>QL</sup>                                                           | Meperidine HCI (all strengths & formulations)                      | Determined pursuant to PA | Determined pursuant to PA |
+| Methadone <sup>QL</sup>                                                            | Methadone Concentrate Soln / Tab                                   | Determined pursuant to PA | Determined pursuant to PA |
+| Morphine ER 24HR Cap QL                                                            |                                                                    |                           |                           |
+| Oxaydo <sup>QL</sup>                                                               |                                                                    |                           |                           |
+| Oxycodone ER <sup>QL</sup>                                                         |                                                                    |                           |                           |
+| Oxycodone/Ibuprofen QL                                                             | Oxycodone / Ibuprofen (all strengths)                              | Determined pursuant to PA | Determined pursuant to PA |
+| Oxymorphone IR, ER <sup>QL</sup>                                                   | Oxymorphone HCI Tab IR / ER (all strengths)                        | Determined pursuant to PA | Determined pursuant to PA |
+| Pentazocine / Naloxone <sup>QL</sup>                                               | Pentazocine / Naloxone Tab (all strengths)                         | Determined pursuant to PA | Determined pursuant to PA |
+| Seglentis <sup>QL</sup>                                                            | Celecoxib / Tramadol (all strengths)                               | Determined pursuant to PA | Determined pursuant to PA |
+| Tramadol ER <sup>QL</sup>                                                          | Tramadol HCI ER / Soln (all strengths)                             | Determined pursuant to PA | Determined pursuant to PA |
+| Xtampza ER <sup>QL</sup>                                                           | Oxycodone ER Cap (all strengths)                                   | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Length of Authorizations
 

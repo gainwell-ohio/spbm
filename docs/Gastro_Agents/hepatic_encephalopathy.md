@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Hepatic Encephalopathy
 
 This is a subcategory of Gastrointestinal Agents.
@@ -6,9 +11,9 @@ This is a subcategory of Gastrointestinal Agents.
 
 ### Preferred
 
-| Preferred  | Generic Name | Quantity | Time (Days) |
-| :--------- | :----------- | :------: | :---------: |
-| Lactulose  |              |          |             |
+| Preferred             | Generic Name | Quantity | Time (Days) |
+| :-------------------- | :----------- | :------: | :---------: |
+| Lactulose             |              |          |             |
 | Xifaxan <sup>ST</sup> |              |          |             |
 
 ### Non-Preferred

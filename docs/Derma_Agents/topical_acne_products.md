@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Topical Acne Products
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -6,51 +11,51 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                             | Generic Name | Quantity | Time (Days) |
-| :------------------------------------ | :----------- | :------: | :---------: |
-| Adapalene Gel 0.1% <sup>AR</sup>                 |              |          |             |
-| Azelex Cream                          |              |          |             |
-| Benzoyl Peroxide                      |              |          |             |
-| Clindamycin Gel                       |              |          |             |
-| Clindamycin Lot                       |              |          |             |
-| Clindamycin Sol                       |              |          |             |
+| Preferred                               | Generic Name | Quantity | Time (Days) |
+| :-------------------------------------- | :----------- | :------: | :---------: |
+| Adapalene Gel 0.1% <sup>AR</sup>        |              |          |             |
+| Azelex Cream                            |              |          |             |
+| Benzoyl Peroxide                        |              |          |             |
+| Clindamycin Gel                         |              |          |             |
+| Clindamycin Lot                         |              |          |             |
+| Clindamycin Sol                         |              |          |             |
 | Clindamycin / Benzoyl Peroxide          |              |          |             |
-| Erythromycin                          |              |          |             |
+| Erythromycin                            |              |          |             |
 | Erythromycin / Benzoyl Peroxide         |              |          |             |
-| Neuac                                 |              |          |             |
-| Sodium Sulfacetamide                  |              |          |             |
+| Neuac                                   |              |          |             |
+| Sodium Sulfacetamide                    |              |          |             |
 | Sodium Sulfacetamide / Sulfur Cream     |              |          |             |
 | Sodium Sulfacetamide / Sulfur Wash Susp |              |          |             |
-| Tretinoin <sup>AR</sup>                          |              |          |             |
+| Tretinoin <sup>AR</sup>                 |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                   | Generic Name | Quantity | Time (Days) |
-| :------------------------------ | :----------- | :------: | :---------: |
-| Adapalene Cream, Sol 0.1% <sup>AR</sup>    |              |          |             |
-| Adapalene Gel 0.3% <sup>AR</sup>          |              |          |             |
-| Adapalene/Benzoyl Peroxide <sup>AR</sup>   |              |          |             |
-| Aklief <sup>AR</sup>                       |              |          |             |
-| Altreno <sup>AR</sup>                      |              |          |             |
-| Amzeeq                          |              |          |             |
-| Arazlo <sup>AR</sup>                       |              |          |             |
-| Azelaic Acid Gel                |              |          |             |
-| Benzoyl Peroxide Foam           |              |          |             |
-| Clindacin Kit                   |              |          |             |
-| Clindamycin Foam                |              |          |             |
-| Clindamycin Swabs               |              |          |             |
-| Clindamycin / Tretinoin <sup>AR</sup>       |              |          |             |
-| Dapsone Gel                     |              |          |             |
-| Finacea Foam                    |              |          |             |
-| Onexton Gel                     |              |          |             |
-| Ovace Plus                      |              |          |             |
-| Plixda <sup>AR</sup>                       |              |          |             |
-| Sodium Sulfacetamide / Sulfur Gel |              |          |             |
-| Sodium Sulfaetamide Pads        |              |          |             |
-| Tazarotene Cream 0.1% <sup>AR</sup>        |              |          |             |
-| Tazarotene Foam 0.1% <sup>AR</sup>         |              |          |             |
-| Twyneo <sup>AR</sup>                       |              |          |             |
-| Winlevi                         |              |          |             |
+| Non-Preferred                            | Generic Name | Quantity | Time (Days) |
+| :--------------------------------------- | :----------- | :------: | :---------: |
+| Adapalene Cream, Sol 0.1% <sup>AR</sup>  |              |          |             |
+| Adapalene Gel 0.3% <sup>AR</sup>         |              |          |             |
+| Adapalene/Benzoyl Peroxide <sup>AR</sup> |              |          |             |
+| Aklief <sup>AR</sup>                     |              |          |             |
+| Altreno <sup>AR</sup>                    |              |          |             |
+| Amzeeq                                   |              |          |             |
+| Arazlo <sup>AR</sup>                     |              |          |             |
+| Azelaic Acid Gel                         |              |          |             |
+| Benzoyl Peroxide Foam                    |              |          |             |
+| Clindacin Kit                            |              |          |             |
+| Clindamycin Foam                         |              |          |             |
+| Clindamycin Swabs                        |              |          |             |
+| Clindamycin / Tretinoin <sup>AR</sup>    |              |          |             |
+| Dapsone Gel                              |              |          |             |
+| Finacea Foam                             |              |          |             |
+| Onexton Gel                              |              |          |             |
+| Ovace Plus                               |              |          |             |
+| Plixda <sup>AR</sup>                     |              |          |             |
+| Sodium Sulfacetamide / Sulfur Gel        |              |          |             |
+| Sodium Sulfaetamide Pads                 |              |          |             |
+| Tazarotene Cream 0.1% <sup>AR</sup>      |              |          |             |
+| Tazarotene Foam 0.1% <sup>AR</sup>       |              |          |             |
+| Twyneo <sup>AR</sup>                     |              |          |             |
+| Winlevi                                  |              |          |             |
 
 ## Length of Authorizations
 

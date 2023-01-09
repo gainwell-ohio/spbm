@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Hereditary Angioedema
 
 This is a subcategory of Respiratory Agents.

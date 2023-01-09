@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Progestin Agents
 
 This is a subcategory of Endocrine Agents.
@@ -6,15 +11,15 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Non-Preferred                   | Generic Name | Quantity | Time (Days) |
-| :------------------------------ | :----------- | :------: | :---------: |
-| Hydroxyprogesterone Caproate <sup>QL</sup>   |              |          |             |
-| Makena <sup>QL</sup>                         |              |          |             |
-| Medroxyprogesterone Acetate Tab |              |          |             |
-| Megestrol                       |              |          |             |
-| Norethindrone Acetate           |              |          |             |
-| Progesterone                    |              |          |             |
-| Progesterone In Oil             |              |          |             |
+| Non-Preferred                              | Generic Name                                                  | Quantity | Time (Days) |
+| :----------------------------------------- | :------------------------------------------------------------ | :------: | :---------: |
+| Hydroxyprogesterone Caproate <sup>QL</sup> | Hydroxprogesterone Caproate IM in Oil 250 MG / ML             |    4     |     28      |
+| Makena <sup>QL</sup>                       | Hydroxyprogesterone Caproate 275 MG / 1.1 ML IM Auto-Injector |   4.4    |     28      |
+| Medroxyprogesterone Acetate Tab            |                                                               |          |             |
+| Megestrol                                  |                                                               |          |             |
+| Norethindrone Acetate                      |                                                               |          |             |
+| Progesterone                               |                                                               |          |             |
+| Progesterone In Oil                        |                                                               |          |             |
 
 ### Non-Preferred
 

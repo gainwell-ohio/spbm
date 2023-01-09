@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Movement Disorders
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -6,11 +11,11 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred        | Generic Name | Quantity | Time (Days) |
-| :--------------- | :----------- | :------: | :---------: |
-| Austedo <sup>PA ST</sup>       |              |          |             |
+| Preferred                   | Generic Name | Quantity | Time (Days) |
+| :-------------------------- | :----------- | :------: | :---------: |
+| Austedo <sup>PA ST</sup>    |              |          |             |
 | Ingrezza <sup>PA</sup>      |              |          |             |
-| Tetrabenazine <sup>PA</sup>  |              |          |             |
+| Tetrabenazine <sup>PA</sup> |              |          |             |
 
 ### Non-Preferred
 

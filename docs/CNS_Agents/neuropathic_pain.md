@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Neuropathic Pain
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -12,14 +17,14 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Carbamazepine                      |              |          |             |
 | Desipramine                        |              |          |             |
 | Doxepin 10, 25, 50, 75, 100, 150mg |              |          |             |
-| Doxepin Sol                 |              |          |             |
-| Duloxetine <sup>QL</sup>                         |              |          |             |
-| Gabapentin <sup>QL</sup>                        |              |          |             |
+| Doxepin Sol                        |              |          |             |
+| Duloxetine <sup>QL</sup>           |              |          |             |
+| Gabapentin <sup>QL</sup>           |              |          |             |
 | Imipramine                         |              |          |             |
 | Lidocaine Patch                    |              |          |             |
 | Nortriptyline                      |              |          |             |
 | Oxcarbazepine                      |              |          |             |
-| Pregabalin <sup>QL</sup>                         |              |          |             |
+| Pregabalin <sup>QL</sup>           |              |          |             |
 
 ### Non-Preferred
 

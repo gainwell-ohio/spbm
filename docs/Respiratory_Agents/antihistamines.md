@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Antihistamines – Second Generation
 
 This is a subcategory of Respiratory Agents.
@@ -6,25 +11,25 @@ This is a subcategory of Respiratory Agents.
 
 ### Preferred
 
-| Preferred                  | Generic Name | Quantity | Time (Days) |
-| :------------------------- | :----------- | :------: | :---------: |
-| Cetirizine Syr <sup>QL</sup>             |              |          |             |
-| Cetirizine Tab <sup>QL</sup>             |              |          |             |
-| Cetirizine / Pseudoephedrine |              |          |             |
-| Loratadine Rapid Dissolve <sup>QL</sup> |              |          |             |
-| Loratadine Syr <sup>QL</sup>            |              |          |             |
-| Loratadine Tab <sup>QL</sup>             |              |          |             |
-| Loratadine / Pseudoephedrine |              |          |             |
+| Preferred                               | Generic Name                           | Quantity | Time (Days) |
+| :-------------------------------------- | :------------------------------------- | :------: | :---------: |
+| Cetirizine Syr <sup>QL</sup>            |                                        |          |             |
+| Cetirizine Tab <sup>QL</sup>            | Cetirizine HCI Tabs (all strengths)    |   102    |     102     |
+| Cetirizine / Pseudoephedrine            |                                        |          |             |
+| Loratadine Rapid Dissolve <sup>QL</sup> | Loratadine Rapidly ODT (all strengths) |   102    |     102     |
+| Loratadine Syr <sup>QL</sup>            | Loratadine Syrup (all strengths)       |   1020   |     102     |
+| Loratadine Tab <sup>QL</sup>            | Loratadine Tab (all strengths)         |   102    |     102     |
+| Loratadine / Pseudoephedrine            |                                        |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred       | Generic Name | Quantity | Time (Days) |
-| :------------------ | :----------- | :------: | :---------: |
-| Cetirizine Chewable <sup>AR</sup>|              |          |             |
-| Clarinex-D          |              |          |             |
-| Desloratadine       |              |          |             |
-| Fexofenadine        |              |          |             |
-| Levocetirizine      |              |          |             |
+| Non-Preferred                     | Generic Name | Quantity | Time (Days) |
+| :-------------------------------- | :----------- | :------: | :---------: |
+| Cetirizine Chewable <sup>AR</sup> |              |          |             |
+| Clarinex-D                        |              |          |             |
+| Desloratadine                     |              |          |             |
+| Fexofenadine                      |              |          |             |
+| Levocetirizine                    |              |          |             |
 
 ## Length of Authorizations
 

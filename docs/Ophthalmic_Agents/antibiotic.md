@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Antibiotic and Antibiotic-Steroid Combination Drops and Ointments
 
 This is a subcategory of Ophthalmic Agents.
@@ -6,41 +11,41 @@ This is a subcategory of Ophthalmic Agents.
 
 ### Preferred
 
-| Preferred                                    | Generic Name | Quantity | Time (Days) |
-| :------------------------------------------- | :----------- | :------: | :---------: |
-| Bacitracin-Polymyxin                         |              |          |             |
-| Ciloxan                                      |              |          |             |
-| Ciprofloxacin                                |              |          |             |
-| Erythromycin                                 |              |          |             |
-| Gentamicin                                   |              |          |             |
-| Moxifloxacin                                 |              |          |             |
-| Neomycin / Polymyxin / Bacitracin                |              |          |             |
-| Neomycin / Polymyxin / Bacitracin / Hydrocortisone |              |          |             |
-| Neomycin / Polymyxin / Dexamethasone             |              |          |             |
-| Neomycin / Polymyxin / Gramicidin                |              |          |             |
-| Ofloxacin                                    |              |          |             |
-| Polymyxin / Trimethoprim                       |              |          |             |
-| Sulfacetamide Sodium Ophth Sol 10%           |              |          |             |
-| Sulfacetamide / Prednisolone                   |              |          |             |
-| Tobradex <sup>BvG</sup>                                 |              |          |             |
-| Tobramycin                                   |              |          |             |
+| Preferred                                          | Generic Name                               |         Quantity          |        Time (Days)        |
+| :------------------------------------------------- | :----------------------------------------- | :-----------------------: | :-----------------------: |
+| Bacitracin-Polymyxin                               |                                            |                           |                           |
+| Ciloxan                                            |                                            |                           |                           |
+| Ciprofloxacin                                      |                                            |                           |                           |
+| Erythromycin                                       |                                            |                           |                           |
+| Gentamicin                                         |                                            |                           |                           |
+| Moxifloxacin                                       |                                            |                           |                           |
+| Neomycin / Polymyxin / Bacitracin                  |                                            |                           |                           |
+| Neomycin / Polymyxin / Bacitracin / Hydrocortisone |                                            |                           |                           |
+| Neomycin / Polymyxin / Dexamethasone               |                                            |                           |                           |
+| Neomycin / Polymyxin / Gramicidin                  |                                            |                           |                           |
+| Ofloxacin                                          |                                            |                           |                           |
+| Polymyxin / Trimethoprim                           |                                            |                           |                           |
+| Sulfacetamide Sodium Ophth Sol 10%                 |                                            |                           |                           |
+| Sulfacetamide / Prednisolone                       |                                            |                           |                           |
+| Tobradex <sup>BvG</sup>                            |                                            |                           |                           |
+| Tobramycin                                         | Tobramycin Nebulizing Soln (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 
 ### Non-Preferred
 
-| Non-Preferred                     | Generic Name | Quantity | Time (Days) |
-| :-------------------------------- | :----------- | :------: | :---------: |
-| Azasite                           |              |          |             |
-| Bacitracin                        |              |          |             |
-| Besivance                         |              |          |             |
-| Blephamide                        |              |          |             |
-| Gatifloxacin                      |              |          |             |
-| Levofloxacin                      |              |          |             |
-| Moxifloxacin (Generic of Moxeza)  |              |          |             |
+| Non-Preferred                         | Generic Name | Quantity | Time (Days) |
+| :------------------------------------ | :----------- | :------: | :---------: |
+| Azasite                               |              |          |             |
+| Bacitracin                            |              |          |             |
+| Besivance                             |              |          |             |
+| Blephamide                            |              |          |             |
+| Gatifloxacin                          |              |          |             |
+| Levofloxacin                          |              |          |             |
+| Moxifloxacin (Generic of Moxeza)      |              |          |             |
 | Neomycin / Polymyxin / Hydrocortisone |              |          |             |
-| Pred-G                            |              |          |             |
-| Tobradex ST <sup>BvG</sup>                   |              |          |             |
-| Tobramycin/Dexamethasone 0.3/0.1% |              |          |             |
-| Zylet                             |              |          |             |
+| Pred-G                                |              |          |             |
+| Tobradex ST <sup>BvG</sup>            |              |          |             |
+| Tobramycin/Dexamethasone 0.3/0.1%     |              |          |             |
+| Zylet                                 |              |          |             |
 
 ## Length of Authorizations
 

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Quinolones
 
 This is a subcategory of Infectious Disease Agents.
@@ -6,11 +11,11 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Preferred
 
-| Preferred             | Generic Name | Quantity | Time (Days) |
-| :-------------------- | :----------- | :------: | :---------: |
-| Ciprofloxacin         |              |          |             |
+| Preferred                        | Generic Name | Quantity | Time (Days) |
+| :------------------------------- | :----------- | :------: | :---------: |
+| Ciprofloxacin                    |              |          |             |
 | Ciprofloxacin Susp <sup>AR</sup> |              |          |             |
-| Levofloxacin          |              |          |             |
+| Levofloxacin                     |              |          |             |
 
 ### Non-Preferred
 

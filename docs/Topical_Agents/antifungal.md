@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Antifungals
 
 This is a subcategory of Topical Agents.
@@ -6,34 +11,34 @@ This is a subcategory of Topical Agents.
 
 ### Preferred
 
-| Preferred                  | Generic Name | Quantity | Time (Days) |
-| :------------------------- | :----------- | :------: | :---------: |
-| Alevazol                   |              |          |             |
-| Ciclopirox                 |              |          |             |
-| Clotrimazole               |              |          |             |
+| Preferred                    | Generic Name | Quantity | Time (Days) |
+| :--------------------------- | :----------- | :------: | :---------: |
+| Alevazol                     |              |          |             |
+| Ciclopirox                   |              |          |             |
+| Clotrimazole                 |              |          |             |
 | Clotrimazole / Betamethasone |              |          |             |
-| Econazole                  |              |          |             |
-| Ketoconazole               |              |          |             |
-| Miconazole                 |              |          |             |
-| Nystatin                   |              |          |             |
+| Econazole                    |              |          |             |
+| Ketoconazole                 |              |          |             |
+| Miconazole                   |              |          |             |
+| Nystatin                     |              |          |             |
 | Nystatin / Triamcinolone     |              |          |             |
-| Terbinafine                |              |          |             |
-| Tolnaftate                 |              |          |             |
+| Terbinafine                  |              |          |             |
+| Tolnaftate                   |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                               | Generic Name | Quantity | Time (Days) |
-| :------------------------------------------ | :----------- | :------: | :---------: |
-| Butenafine                                  |              |          |             |
-| Ciclopirox Kit                              |              |          |             |
-| Ertaczo                                     |              |          |             |
-| Jublia                                      |              |          |             |
-| Ketoconazole Foam                           |              |          |             |
-| Luliconazole                                |              |          |             |
+| Non-Preferred                                   | Generic Name | Quantity | Time (Days) |
+| :---------------------------------------------- | :----------- | :------: | :---------: |
+| Butenafine                                      |              |          |             |
+| Ciclopirox Kit                                  |              |          |             |
+| Ertaczo                                         |              |          |             |
+| Jublia                                          |              |          |             |
+| Ketoconazole Foam                               |              |          |             |
+| Luliconazole                                    |              |          |             |
 | Miconazole / Zinc Oxide / White Petrolatum Oint |              |          |             |
-| Naftifine                                   |              |          |             |
-| Oxiconazole                                 |              |          |             |
-| Tavaborole                                  |              |          |             |
+| Naftifine                                       |              |          |             |
+| Oxiconazole                                     |              |          |             |
+| Tavaborole                                      |              |          |             |
 
 ## Length of Authorizations
 

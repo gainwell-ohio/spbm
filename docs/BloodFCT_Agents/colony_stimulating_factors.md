@@ -11,36 +11,36 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Preferred
 
-| Preferred    | Generic Name | Quantity | Time (Days) |
-| :----------- | :----------- | :------: | :---------: |
-| Neupogen <sup>PA</sup>  |              |          |             |
-| Nivestym <sup>PA</sup>   |              |          |             |
+| Preferred              | Generic Name | Quantity | Time (Days) |
+| :--------------------- | :----------- | :------: | :---------: |
+| Neupogen <sup>PA</sup> |              |          |             |
+| Nivestym <sup>PA</sup> |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred    | Generic Name | Quantity | Time (Days) |
-| :--------------- | :----------- | :------: | :---------: |
-| Fulphila        |              |          |             |
-| Granix          |              |          |             |
-| Leukine         |              |          |             |
-| Neulasta        |              |          |             |
-| Nyvepria        |              |          |             |
-| Releuko         |              |          |             | 
-| Udenyca         |              |          |             |
-| Zarxio          |              |          |             |
-| Ziextenzo       |              |          |             |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+| :------------ | :----------- | :------: | :---------: |
+| Fulphila      |              |          |             |
+| Granix        |              |          |             |
+| Leukine       |              |          |             |
+| Neulasta      |              |          |             |
+| Nyvepria      |              |          |             |
+| Releuko       |              |          |             |
+| Udenyca       |              |          |             |
+| Zarxio        |              |          |             |
+| Ziextenzo     |              |          |             |
 
 ## Length of Authorizations
 
 Dependent upon diagnosis below
 
-| Diagnosis  | Approval Length |
-|---|---|
-| Acute Myeloid Leukemia (AML) | 14 days or duration of chemotherapy regimen |
-| Malignancy at risk for febrile neutropenia or undergoing myeloablative chemotherapy prior to allogeneic or autologous bone marrow transplantation | 14 days or duration of chemotherapy regimen |
-| Myeloid Engraftment for bone marrow transplant (BMT) | 30 days |
-| Severe, chronic neutropenia with absolute neutrophil count (ANC) of less than 500/mm3 and have symptoms associated with neutropenia (e.g. fever, infections, oropharyngeal ulcers). | 30 days |
-| Hematopoietic radiation injury syndrome | 30 days |
+| Diagnosis                                                                                                                                                                           | Approval Length                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| Acute Myeloid Leukemia (AML)                                                                                                                                                        | 14 days or duration of chemotherapy regimen |
+| Malignancy at risk for febrile neutropenia or undergoing myeloablative chemotherapy prior to allogeneic or autologous bone marrow transplantation                                   | 14 days or duration of chemotherapy regimen |
+| Myeloid Engraftment for bone marrow transplant (BMT)                                                                                                                                | 30 days                                     |
+| Severe, chronic neutropenia with absolute neutrophil count (ANC) of less than 500/mm3 and have symptoms associated with neutropenia (e.g. fever, infections, oropharyngeal ulcers). | 30 days                                     |
+| Hematopoietic radiation injury syndrome                                                                                                                                             | 30 days                                     |
 
 ### All Authorizations
 

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Multiple Sclerosis
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -6,16 +11,16 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred         | Generic Name | Quantity | Time (Days) |
-| :---------------- | :----------- | :------: | :---------: |
-| Aubagio           |              |          |             |
-| Avonex            |              |          |             |
-| Betaseron         |              |          |             |
-| Copaxone <sup>BvG</sup>      |              |          |             |
-| Dalfampridine     |              |          |             |
-| Dimethyl Fumarate |              |          |             |
-| Gilenya           |              |          |             |
-| Rebif             |              |          |             |
+| Preferred               | Generic Name | Quantity | Time (Days) |
+| :---------------------- | :----------- | :------: | :---------: |
+| Aubagio                 |              |          |             |
+| Avonex                  |              |          |             |
+| Betaseron               |              |          |             |
+| Copaxone <sup>BvG</sup> |              |          |             |
+| Dalfampridine           |              |          |             |
+| Dimethyl Fumarate       |              |          |             |
+| Gilenya                 |              |          |             |
+| Rebif                   |              |          |             |
 
 ### Non-Preferred
 

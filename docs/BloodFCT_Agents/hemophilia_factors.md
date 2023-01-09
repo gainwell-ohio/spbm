@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Hemophilia Factors
 
 This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
@@ -7,12 +12,12 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Preferred
 
-| Preferred       | Generic Name | Quantity | Time (Days) |
-| :-------------- | :----------- | :------: | :---------: |
+| Preferred                  | Generic Name | Quantity | Time (Days) |
+| :------------------------- | :----------- | :------: | :---------: |
 | Advate <sup>PA</sup>       |              |          |             |
 | Adynovate <sup>PA</sup>    |              |          |             |
 | Afstyla <sup>PA</sup>      |              |          |             |
-| Alphanate <sup>PA</sup>   |              |          |             |
+| Alphanate <sup>PA</sup>    |              |          |             |
 | Alphanine SD <sup>PA</sup> |              |          |             |
 | Alprolix <sup>PA</sup>     |              |          |             |
 | Benefix <sup>PA</sup>      |              |          |             |
@@ -27,14 +32,14 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 | Ixinity <sup>PA</sup>      |              |          |             |
 | Koate <sup>PA</sup>        |              |          |             |
 | Kogenate FS <sup>PA</sup>  |              |          |             |
-| Mononine <sup>PA</sup>    |              |          |             |
+| Mononine <sup>PA</sup>     |              |          |             |
 | Novoeight <sup>PA</sup>    |              |          |             |
 | Novoseven RT <sup>PA</sup> |              |          |             |
 | Profilnine <sup>PA</sup>   |              |          |             |
-| Recombinate <sup>PA</sup> |              |          |             |
-| Rixubis <sup>PA</sup>     |              |          |             |
+| Recombinate <sup>PA</sup>  |              |          |             |
+| Rixubis <sup>PA</sup>      |              |          |             |
 | Wilate <sup>PA</sup>       |              |          |             |
-| Xyntha <sup>PA</sup>      |              |          |             |
+| Xyntha <sup>PA</sup>       |              |          |             |
 
 ### Non-Preferred
 

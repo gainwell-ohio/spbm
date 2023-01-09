@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Sedative-Hypnotics, Non-Barbiturate
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -6,26 +11,26 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred          | Generic Name | Quantity | Time (Days) |
-| :----------------- | :----------- | :------: | :---------: |
-| Estazolam <sup>QL</sup>          |              |          |             |
+| Preferred                         | Generic Name | Quantity | Time (Days) |
+| :-------------------------------- | :----------- | :------: | :---------: |
+| Estazolam <sup>QL</sup>           |              |          |             |
 | Temazepam 15, 30 MG <sup>QL</sup> |              |          |             |
-| Zaleplon <sup>QL</sup>          |              |          |             |
-| Zolpidem <sup>QL</sup>          |              |          |             |
+| Zaleplon <sup>QL</sup>            |              |          |             |
+| Zolpidem <sup>QL</sup>            |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred       | Generic Name | Quantity | Time (Days) |
-| :------------------ | :----------- | :------: | :---------: |
-| Belsomra            |              |          |             |
-| Dayvigo             |              |          |             |
-| Doxepin 3, 6 MG     |              |          |             |
-| Eszopiclone <sup>QL</sup>         |              |          |             |
-| Intermezzo          |              |          |             |
-| Quviviq |                       |               |             |
-| Ramelteon           |              |          |             |
+| Non-Preferred                      | Generic Name | Quantity | Time (Days) |
+| :--------------------------------- | :----------- | :------: | :---------: |
+| Belsomra                           |              |          |             |
+| Dayvigo                            |              |          |             |
+| Doxepin 3, 6 MG                    |              |          |             |
+| Eszopiclone <sup>QL</sup>          |              |          |             |
+| Intermezzo                         |              |          |             |
+| Quviviq                            |              |          |             |
+| Ramelteon                          |              |          |             |
 | Temazepam 7.5, 22 MG <sup>QL</sup> |              |          |             |
-| Zolpidem ER, SL  |              |          |             |
+| Zolpidem ER, SL                    |              |          |             |
 
 ## Length of Authorizations
 

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Anti-Migraine Agents, Prophylaxis
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -6,22 +11,22 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                                                | Generic Name | Quantity | Time (Days) |
-| :------------------------------------------------------- | :----------- | :------: | :---------: |
-| Aimovig <sup>QL ST</sup>                                           | Erenumab Subcutaneous Inj (all strengths & formulations)             |   Determined pursuant to PA       |     Determined pursuant to PA        |
-| Ajovy <sup>QL ST</sup>                                                 | Fremanezumab Subcutaneous Inj 225 MG / 1.5 ML             |       Determined pursuant to PA   |     Determined pursuant to PA        |
-| Cardiovascular Agents: Beta-Blockers                     |              |          |             |
-| CNS Agents: Anticonvulsants                              |              |          |             |
-| CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors |              |          |             |
-| CNS Agents: Tricyclic Antidepressants                    |              |          |             |
+| Preferred                                                | Generic Name                                             |         Quantity          |        Time (Days)        |
+| :------------------------------------------------------- | :------------------------------------------------------- | :-----------------------: | :-----------------------: |
+| Aimovig <sup>QL ST</sup>                                 | Erenumab Subcutaneous Inj (all strengths & formulations) | Determined pursuant to PA | Determined pursuant to PA |
+| Ajovy <sup>QL ST</sup>                                   | Fremanezumab Subcutaneous Inj 225 MG / 1.5 ML            | Determined pursuant to PA | Determined pursuant to PA |
+| Cardiovascular Agents: Beta-Blockers                     |                                                          |                           |                           |
+| CNS Agents: Anticonvulsants                              |                                                          |                           |                           |
+| CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors |                                                          |                           |                           |
+| CNS Agents: Tricyclic Antidepressants                    |                                                          |                           |                           |
 
 ### Non-Preferred
 
-| Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
-| Emgality <sup>QL</sup>     |   Galcanezumab Subcutaneous Inj (all strengths & formulations)      |     Determined pursuant to PA     |       Determined pursuant to PA      |
-| Nurtec ODT <sup>QL</sup>   |   Rimegepant ODT (all strengths)  |  Determined pursuant to PA        |     Determined pursuant to PA        |
-| Qulipta <sup>QL</sup>      |     Atogepant Tab (all strengths)    |   Determined pursuant to PA       | Determined pursuant to PA            |
+| Non-Preferred            | Generic Name                                                 |         Quantity          |        Time (Days)        |
+| :----------------------- | :----------------------------------------------------------- | :-----------------------: | :-----------------------: |
+| Emgality <sup>QL</sup>   | Galcanezumab Subcutaneous Inj (all strengths & formulations) | Determined pursuant to PA | Determined pursuant to PA |
+| Nurtec ODT <sup>QL</sup> | Rimegepant ODT (all strengths)                               | Determined pursuant to PA | Determined pursuant to PA |
+| Qulipta <sup>QL</sup>    | Atogepant Tab (all strengths)                                | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Length of Authorizations
 

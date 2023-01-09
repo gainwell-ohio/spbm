@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Ulcerative Colitis
 
 This is a subcategory of Gastrointestinal Agents.
@@ -6,24 +11,24 @@ This is a subcategory of Gastrointestinal Agents.
 
 ### Preferred
 
-| Preferred            | Generic Name | Quantity | Time (Days) |
-| :------------------- | :----------- | :------: | :---------: |
-| Balsalazide Disodium |              |          |             |
-| Budesonide ER Tab <sup>QL<sup> |              |          |             |
-| Mesalamine DR Cap, Tab   |              |          |             |
-| Mesalamine Enema     |              |          |             |
-| Mesalamine ER        |              |          |             |
-| Pentasa <sup>BvG<sup>          |              |          |             |
-| Sulfasalazine        |              |          |             |
+| Preferred                      | Generic Name           | Quantity | Time (Days) |
+| :----------------------------- | :--------------------- | :------: | :---------: |
+| Balsalazide Disodium           |                        |          |             |
+| Budesonide ER Tab <sup>QL<sup> | Budesonide Tab ER 9 MG |    56    |     90      |
+| Mesalamine DR Cap, Tab         |                        |          |             |
+| Mesalamine Enema               |                        |          |             |
+| Mesalamine ER                  |                        |          |             |
+| Pentasa <sup>BvG<sup>          |                        |          |             |
+| Sulfasalazine                  |                        |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred     | Generic Name | Quantity | Time (Days) |
-| :---------------- | :----------- | :------: | :---------: |
-| Dipentum          |              |          |             |
-| Mesalamine Supp   |              |          |             |
-| Uceris Foam <sup>QL<sup>      |              |          |             |
-| Zeposia           |              |          |             |
+| Non-Preferred            | Generic Name              |         Quantity          | Time (Days) |
+| :----------------------- | :------------------------ | :-----------------------: | :---------: |
+| Dipentum                 |                           |                           |             |
+| Mesalamine Supp          |                           |                           |             |
+| Uceris Foam <sup>QL<sup> | Budesonide Aer 2 MG / ACT | Determined pursuant to PA |             |
+| Zeposia                  |                           |                           |             |
 
 ## Length of Authorizations
 

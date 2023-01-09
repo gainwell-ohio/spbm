@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # NSAIDs
 
 This is a subcategory of Ophthalmic Agents.

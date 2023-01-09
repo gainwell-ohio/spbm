@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Unspecified GI
 
 This is a subcategory of Gastrointestinal Agents.
@@ -6,37 +11,37 @@ This is a subcategory of Gastrointestinal Agents.
 
 ### Preferred
 
-| Preferred                    | Generic Name | Quantity | Time (Days) |
-| :--------------------------- | :----------- | :------: | :---------: |
-| Amitiza <sup>BvG ST</sup>               |              |          |             |
-| Bisacodyl                    |              |          |             |
-| Casanthranol / Docusate Sodium |              |          |             |
-| Dicyclomine                  |              |          |             |
-| Diphenoxylate / Atropine       |              |          |             |
-| Lactulose                    |              |          |             |
-| Linzess <sup>ST</sup> 145, 290 MCG       |              |          |             |
-| Loperamide                   |              |          |             |
-| Movantik <sup>ST</sup>                 |              |          |             |
-| Polyethylene Glycol          |              |          |             |
-| Psyllium Fiber               |              |          |             |
-| Senna                        |              |          |             |
-| Trulance <sup>ST</sup>       |             |           |          |
-| Xifaxan <sup>ST</sup>                  |              |          |             |
+| Preferred                          | Generic Name                  | Quantity | Time (Days) |
+| :--------------------------------- | :---------------------------- | :------: | :---------: |
+| Amitiza <sup>BvG ST</sup>          |                               |          |             |
+| Bisacodyl                          |                               |          |             |
+| Casanthranol / Docusate Sodium     |                               |          |             |
+| Dicyclomine                        |                               |          |             |
+| Diphenoxylate / Atropine           |                               |          |             |
+| Lactulose                          |                               |          |             |
+| Linzess <sup>ST</sup> 145, 290 MCG |                               |          |             |
+| Loperamide                         | Loperamide HCI Cap & Tab 2 MG |    80    |     34      |
+| Movantik <sup>ST</sup>             |                               |          |             |
+| Polyethylene Glycol                |                               |          |             |
+| Psyllium Fiber                     |                               |          |             |
+| Senna                              |                               |          |             |
+| Trulance <sup>ST</sup>             |                               |          |             |
+| Xifaxan <sup>ST</sup>              |                               |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
-| Aemcolo       |              |          |             |
-| Gattex        |              |          |             |
-| Ibsrela       |              |          |             |
+| Non-Preferred  | Generic Name | Quantity | Time (Days) |
+| :------------- | :----------- | :------: | :---------: |
+| Aemcolo        |              |          |             |
+| Gattex         |              |          |             |
+| Ibsrela        |              |          |             |
 | Linzess 72 MCG |              |          |             |
-| Lubiprostone  |              |          |             |
-| Motegrity     |              |          |             |
-| Mytesi        |              |          |             |
-| Relistor      |              |          |             |
-| Symproic      |              |          |             |
-| Zorbitive     |              |          |             |
+| Lubiprostone   |              |          |             |
+| Motegrity      |              |          |             |
+| Mytesi         |              |          |             |
+| Relistor       |              |          |             |
+| Symproic       |              |          |             |
+| Zorbitive      |              |          |             |
 
 ## Length of Authorizations
 

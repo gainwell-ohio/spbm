@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Antidepressants
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -6,51 +11,51 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                               | Generic Name | Quantity | Time (Days) |
-| :-------------------------------------- | :----------- | :------: | :---------: |
-| Bupropion <sup>QL</sup>                             |              |          |             |
+| Preferred                                             | Generic Name | Quantity | Time (Days) |
+| :---------------------------------------------------- | :----------- | :------: | :---------: |
+| Bupropion <sup>QL</sup>                               |              |          |             |
 | Bupropion SR (generic of Wellbutrin SR) <sup>QL</sup> |              |          |             |
 | Bupropion XL (generic of Wellbutrin XL) <sup>QL</sup> |              |          |             |
-| Citalopram <sup>QL</sup>                            |              |          |             |
-| Duloxetine 20, 30, 60 MG <sup>QL</sup>            |              |          |             |
-| Escitalopram <sup>QL</sup>                   |              |          |             |
-| Fluoxetine 10, 20, 40 MG <sup>QL</sup>                            |              |          |             |
-| Fluoxetine Sol <sup>QL</sup>                            |              |          |             |
-| Fluvoxamine <sup>QL</sup>                         |              |          |             |
-| Mirtazapine <sup>QL</sup>                         |              |          |             |
+| Citalopram <sup>QL</sup>                              |              |          |             |
+| Duloxetine 20, 30, 60 MG <sup>QL</sup>                |              |          |             |
+| Escitalopram <sup>QL</sup>                            |              |          |             |
+| Fluoxetine 10, 20, 40 MG <sup>QL</sup>                |              |          |             |
+| Fluoxetine Sol <sup>QL</sup>                          |              |          |             |
+| Fluvoxamine <sup>QL</sup>                             |              |          |             |
+| Mirtazapine <sup>QL</sup>                             |              |          |             |
 | Nefazodone <sup>QL</sup>                              |              |          |             |
-| Paroxetine IR Tab, Sol <sup>QL</sup>                             |              |          |             |
-| Sertraline                           |              |          |             |
-| Tranylcypromine                         |              |          |             |
-| Trazodone 50mg, 100mg, 150mg <sup>QL</sup>           |              |          |             |
-| Venlafaxine ER Cap <sup>QL</sup>                     |              |          |             |
-| Venlafaxine IR Tab <sup>QL</sup>                        |              |          |             |
+| Paroxetine IR Tab, Sol <sup>QL</sup>                  |              |          |             |
+| Sertraline                                            |              |          |             |
+| Tranylcypromine                                       |              |          |             |
+| Trazodone 50mg, 100mg, 150mg <sup>QL</sup>            |              |          |             |
+| Venlafaxine ER Cap <sup>QL</sup>                      |              |          |             |
+| Venlafaxine IR Tab <sup>QL</sup>                      |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                        | Generic Name | Quantity | Time (Days) |
-| :----------------------------------- | :----------- | :------: | :---------: |
-| Aplenzin                             |              |          |             |
-| Brisdelle                            |              |          |             |
+| Non-Preferred                                      | Generic Name | Quantity | Time (Days) |
+| :------------------------------------------------- | :----------- | :------: | :---------: |
+| Aplenzin                                           |              |          |             |
+| Brisdelle                                          |              |          |             |
 | Bupropion XL (generic of Forfivo XL) <sup>QL</sup> |              |          |             |
-| Clomipramine                         |              |          |             |
-| Desvenlafaxine                       |              |          |             |
-| Drizalma Sprinkle                    |              |          |             |
-| Duloxetine 40mg <sup>QL</sup>                     |              |          |             |
-| Emsam                                |              |          |             |
-| Fetzima                              |              |          |             |
-| Fluoxetine 60mg <sup>QL</sup>                     |              |          |             |
-| Fluoxetine DR <sup>QL</sup>                      |              |          |             |
+| Clomipramine                                       |              |          |             |
+| Desvenlafaxine                                     |              |          |             |
+| Drizalma Sprinkle                                  |              |          |             |
+| Duloxetine 40mg <sup>QL</sup>                      |              |          |             |
+| Emsam                                              |              |          |             |
+| Fetzima                                            |              |          |             |
+| Fluoxetine 60mg <sup>QL</sup>                      |              |          |             |
+| Fluoxetine DR <sup>QL</sup>                        |              |          |             |
 | Fluvoxamine ER <sup>QL</sup>                       |              |          |             |
-| Marplan                              |              |          |             |
-| Paroxetine Cap                     |              |          |             |
-| Paroxetine ER Tab                       |              |          |             |
-| Pexeva                               |              |          |             |
-| Phenelzine                           |              |          |             |
-| Trazodone 300mg <sup>QL</sup>                     |              |          |             |
-| Trintellix                           |              |          |             |
-| Venlafaxine ER Tab                   |              |          |             |
-| Viibryd <sup>BvG</sup>                         |              |          |             |
+| Marplan                                            |              |          |             |
+| Paroxetine Cap                                     |              |          |             |
+| Paroxetine ER Tab                                  |              |          |             |
+| Pexeva                                             |              |          |             |
+| Phenelzine                                         |              |          |             |
+| Trazodone 300mg <sup>QL</sup>                      |              |          |             |
+| Trintellix                                         |              |          |             |
+| Venlafaxine ER Tab                                 |              |          |             |
+| Viibryd <sup>BvG</sup>                             |              |          |             |
 
 ## Length of Authorizations
 

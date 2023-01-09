@@ -6,29 +6,29 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                  | Generic Name | Quantity | Time (Days) |
-| :------------------------- | :----------- | :------: | :---------: |
-| Baclofen Tab               |              |          |             |
+| Preferred                               | Generic Name | Quantity | Time (Days) |
+| :-------------------------------------- | :----------- | :------: | :---------: |
+| Baclofen Tab                            |              |          |             |
 | Chlorzoxazone 250, 500 MG <sup>QL</sup> |              |          |             |
 | Cyclobenzaprine 5, 10 MG <sup>QL</sup>  |              |          |             |
-| Dantrolene                 |              |          |             |
+| Dantrolene                              |              |          |             |
 | Methocarbamol <sup>QL</sup>             |              |          |             |
 | Tizanidine Tab <sup>QL</sup>            |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred              | Generic Name | Quantity | Time (Days) |
-| :------------------------- | :----------- | :------: | :---------: |
-| Baclofen Solution          |              |          |             |
-| Carisoprodol               |              |          |             |
+| Non-Preferred                           | Generic Name | Quantity | Time (Days) |
+| :-------------------------------------- | :----------- | :------: | :---------: |
+| Baclofen Solution                       |              |          |             |
+| Carisoprodol                            |              |          |             |
 | Chlorzoxazone 375, 750 MG <sup>QL</sup> |              |          |             |
-| Cyclobenzaprine 7.5 MG <sup>QL</sup>      |              |          |             |
-| Cyclobenzaprine ER <sup>QL</sup>         |              |          |             |
-| Fleqsuvy                   |              |          |             |
-| Lyvispah                  |                   |        |         |
-| Metaxalone                 |              |          |             |
-| Orphenadrine               |              |          |             |
-| Tizanidine Cap             |              |          |             |
+| Cyclobenzaprine 7.5 MG <sup>QL</sup>    |              |          |             |
+| Cyclobenzaprine ER <sup>QL</sup>        |              |          |             |
+| Fleqsuvy                                |              |          |             |
+| Lyvispah                                |              |          |             |
+| Metaxalone                              |              |          |             |
+| Orphenadrine                            |              |          |             |
+| Tizanidine Cap                          |              |          |             |
 
 ## Length of Authorizations
 

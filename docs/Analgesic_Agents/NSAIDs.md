@@ -92,7 +92,6 @@ Subsequent Authorization Criteria
 
 **AR** - Naproxen Suspension: a PA is required for patients 12 years and older
 
-
 ## Links
 
 [Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=9)

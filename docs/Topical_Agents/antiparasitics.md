@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Antiparasitics
 
 This is a subcategory of Topical Agents.
@@ -6,10 +11,10 @@ This is a subcategory of Topical Agents.
 
 ### Preferred
 
-| Preferred                     | Generic Name | Quantity | Time (Days) |
-| :---------------------------- | :----------- | :------: | :---------: |
-| Natroba <sup>BvG</sup>                  |              |          |             |
-| Permethrin                    |              |          |             |
+| Preferred                       | Generic Name | Quantity | Time (Days) |
+| :------------------------------ | :----------- | :------: | :---------: |
+| Natroba <sup>BvG</sup>          |              |          |             |
+| Permethrin                      |              |          |             |
 | Piperonyl Butoxide / Pyrethrins |              |          |             |
 
 ### Non-Preferred

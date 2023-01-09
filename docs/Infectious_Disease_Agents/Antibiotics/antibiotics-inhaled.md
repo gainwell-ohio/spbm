@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Inhaled
 
 This is a subcategory of Infectious Disease Agents.
@@ -6,19 +11,19 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Preferred
 
-| Preferred        | Generic Name | Quantity | Time (Days) |
-| :--------------- | :----------- | :------: | :---------: |
-| Tobramycin <sup>PA QL</sup> |              |          |             |
+| Preferred                   | Generic Name                               |         Quantity          |        Time (Days)        |
+| :-------------------------- | :----------------------------------------- | :-----------------------: | :-----------------------: |
+| Tobramycin <sup>PA QL</sup> | Tobramycin Nebulizing Soln (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 
 ### Non-Preferred
 
-| Non-Preferred    | Generic Name | Quantity | Time (Days) |
-| :--------------- | :----------- | :------: | :---------: |
-| Arikayce   |              |          |             |
-| Bethkis <sup> QL</sup>       |              |          |             |
-| Cayston      |              |          |             |
-| Kitabis Pak <sup> QL</sup>    |              |          |             |
-| Tobi Podhaler <sup> QL</sup> |              |          |             |
+| Non-Preferred                | Generic Name                               |         Quantity          |        Time (Days)        |
+| :--------------------------- | :----------------------------------------- | :-----------------------: | :-----------------------: |
+| Arikayce                     |                                            |                           |                           |
+| Bethkis <sup> QL</sup>       | Tobramycin Nebulizing Soln (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Cayston                      |                                            |                           |                           |
+| Kitabis Pak <sup> QL</sup>   |                                            |                           |                           |
+| Tobi Podhaler <sup> QL</sup> |                                            |                           |                           |
 
 ## Length of Authorizations
 

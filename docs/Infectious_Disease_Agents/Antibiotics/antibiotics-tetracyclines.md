@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Tetracyclines
 
 This is a subcategory of Infectious Disease Agents.
@@ -6,23 +11,23 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Preferred
 
-| Preferred             | Generic Name | Quantity | Time (Days) |
-| :-------------------- | :----------- | :------: | :---------: |
-| Doxycycline 50, 100 MG |              |          |             |
-| Doxycycline Syr <sup>AR</sup>       |              |          |             |
-| Minocycline Cap       |              |          |             |
-| Tetracycline          |              |          |             |
-| Vibramycin Susp <sup>AR</sup>    |              |          |             |
+| Preferred                     | Generic Name | Quantity | Time (Days) |
+| :---------------------------- | :----------- | :------: | :---------: |
+| Doxycycline 50, 100 MG        |              |          |             |
+| Doxycycline Syr <sup>AR</sup> |              |          |             |
+| Minocycline Cap               |              |          |             |
+| Tetracycline                  |              |          |             |
+| Vibramycin Susp <sup>AR</sup> |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                 | Generic Name | Quantity | Time (Days) |
-| :---------------------------- | :----------- | :------: | :---------: |
-| Demeclocycline                |             |           |             |
+| Non-Preferred                  | Generic Name | Quantity | Time (Days) |
+| :----------------------------- | :----------- | :------: | :---------: |
+| Demeclocycline                 |              |          |             |
 | Doxycycline 20, 40, 75, 150 MG |              |          |             |
-| Doxycycline DR                |              |          |             |
-| Minocycline IR, ER Tab               |              |          |             |
-| Nuzyra                        |              |          |             |
+| Doxycycline DR                 |              |          |             |
+| Minocycline IR, ER Tab         |              |          |             |
+| Nuzyra                         |              |          |             |
 
 ## Length of Authorizations
 

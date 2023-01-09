@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Ophthalmic Steroids
 
 This is a subcategory of Ophthalmic Agents.
@@ -8,16 +13,16 @@ This is a subcategory of Ophthalmic Agents.
 
 | Preferred                      | Generic Name | Quantity | Time (Days) |
 | :----------------------------- | :----------- | :------: | :---------: |
-| Alrex <sup>BvG</sup>    |              |          |             |
+| Alrex <sup>BvG</sup>           |              |          |             |
 | Dexamethasone Sodium Phosphate |              |          |             |
-| Durezol <sup>BvG</sup>                    |              |          |             |
-| Flarex        |              |          |             |
+| Durezol <sup>BvG</sup>         |              |          |             |
+| Flarex                         |              |          |             |
 | Fluorometholone                |              |          |             |
 | Fml Forte                      |              |          |             |
-| Fml S.O.P.                     |              |          |             | 
-| Lotemax <sup>BvG</sup>   |              |          |             | 
-| Maxidex <sup>BvG</sup>      |              |          |             |
-| Pred Forte                    |              |           |            |
+| Fml S.O.P.                     |              |          |             |
+| Lotemax <sup>BvG</sup>         |              |          |             |
+| Maxidex <sup>BvG</sup>         |              |          |             |
+| Pred Forte                     |              |          |             |
 | Pred Mild                      |              |          |             |
 | Prednisolone Acetate           |              |          |             |
 | Prednisolone Sodium Phosphate  |              |          |             |

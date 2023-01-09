@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Oral Acne Products
 
 This is a subcategory of Dermatological Agents.
@@ -6,14 +11,14 @@ This is a subcategory of Dermatological Agents.
 
 ### Preferred
 
-| Preferred       | Generic Name | Quantity | Time (Days) |
-| :-------------- | :----------- | :------: | :---------: |
+| Preferred                  | Generic Name | Quantity | Time (Days) |
+| :------------------------- | :----------- | :------: | :---------: |
 | Accutane <sup>PA</sup>     |              |          |             |
-| Amnesteem <sup>PA</sup>     |              |          |             |
-| Claravis <sup>PA</sup>      |              |          |             |
-| Isotretinoin <sup>PA</sup>  |              |          |             |
-| Myorisan <sup>PA</sup>      |              |          |             |
-| Zenatane <sup>PA</sup>      |              |          |             |
+| Amnesteem <sup>PA</sup>    |              |          |             |
+| Claravis <sup>PA</sup>     |              |          |             |
+| Isotretinoin <sup>PA</sup> |              |          |             |
+| Myorisan <sup>PA</sup>     |              |          |             |
+| Zenatane <sup>PA</sup>     |              |          |             |
 
 ### Non-Preferred
 

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Uterine Fibroids
 
 This is a subcategory of Endocrine Agents.
@@ -6,17 +11,17 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred                     | Generic Name | Quantity | Time (Days) |
-| :---------------------------- | :----------- | :------: | :---------: |
-| Lupron Depot <sup>PA</sup> 3.75, 11.25mg |              |          |             |
-| Oriahnn <sup>PA QL</sup>                    |              |          |             |
-| Myfembree <sup>PA QL</sup>    |              |          |             |
+| Preferred                                | Generic Name                                                                |         Quantity          |        Time (Days)        |
+| :--------------------------------------- | :-------------------------------------------------------------------------- | :-----------------------: | :-----------------------: |
+| Lupron Depot <sup>PA</sup> 3.75, 11.25mg | Leuprolide Acetate for Depot IM Susp 3.75 MG & 11.25 MG                     | Determined pursuant to PA | Determined pursuant to PA |
+| Oriahnn <sup>PA QL</sup>                 | Elagolix / Estradiol / Norethindrone Acetate & Elagolix Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Myfembree <sup>PA QL</sup>               | Relugolix / Estradiol / Norethindrone Acetate Tab (all strengths)           | Determined pursuant to PA | Determined pursuant to PA |
 
 ### Non-Preferred
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
 | :------------ | :----------- | :------: | :---------: |
-|      |              |          |             |
+|               |              |          |             |
 
 ## Length of Authorizations
 

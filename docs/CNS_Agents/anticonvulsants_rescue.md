@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Anticonvulsants Rescue
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -6,12 +11,12 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred    | Generic Name | Quantity | Time (Days) |
-| :----------- | :----------- | :------: | :---------: |
-| Diastat  |              |          |             |
-| Diazepam Gel |              |          |             |
-| Nayzilam <sup>AR</sup>  |              |          |             |
-| Valtoco <sup>AR</sup>    |              |          |             |
+| Preferred              | Generic Name | Quantity | Time (Days) |
+| :--------------------- | :----------- | :------: | :---------: |
+| Diastat                |              |          |             |
+| Diazepam Gel           |              |          |             |
+| Nayzilam <sup>AR</sup> |              |          |             |
+| Valtoco <sup>AR</sup>  |              |          |             |
 
 ### Non-Preferred
 
@@ -43,7 +48,6 @@ Must be prescribed in accordance with FDA approved labeling
 **AR** - Nayzilam: a PA is required for patients younger than 12 years old
 
 ## Links
-
 
 [Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=32)
 

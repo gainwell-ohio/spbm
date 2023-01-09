@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Anti-Migraine Agents, Acute
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -6,33 +11,33 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred     | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
-| Imitrex Nasal Spray <sup>BvG QL</sup>  |         Sumatriptan Succinate Nasal Spray (all strengths)    |    8      |             30 |
-| Naratriptan <sup>QL</sup>   |   Naratriptan HCI Tab (all strengths)  |  9        |  30           |
-| Nurtec ODT <sup>QL ST</sup> |    Rimegepant ODT (all strengths) |  Determined pursuant to PA        |     Determined pursuant to PA        |
-| Rizatriptan <sup>QL</sup>   | Rizatriptan Benzoate (all strengths and formulations)   |   9       |  30           |
-| Sumatriptan Inj <sup>QL</sup>   |    Sumatriptan Succinate Subcutaneous Inj (all strengths)     |     4     |  30           |
-| Sumatriptan Tab <sup>QL</sup>   |    Sumatriptan Succinate Tab (all strengths)    |   9       |  30           |
-| Tosymra <sup>QL</sup>   |  Sumatriptan Succinate Nasal Spray (all strengths)      |  8        | 30            |
+| Preferred                             | Generic Name                                           |         Quantity          |        Time (Days)        |
+| :------------------------------------ | :----------------------------------------------------- | :-----------------------: | :-----------------------: |
+| Imitrex Nasal Spray <sup>BvG QL</sup> | Sumatriptan Succinate Nasal Spray (all strengths)      |             8             |            30             |
+| Naratriptan <sup>QL</sup>             | Naratriptan HCI Tab (all strengths)                    |             9             |            30             |
+| Nurtec ODT <sup>QL ST</sup>           | Rimegepant ODT (all strengths)                         | Determined pursuant to PA | Determined pursuant to PA |
+| Rizatriptan <sup>QL</sup>             | Rizatriptan Benzoate (all strengths and formulations)  |             9             |            30             |
+| Sumatriptan Inj <sup>QL</sup>         | Sumatriptan Succinate Subcutaneous Inj (all strengths) |             4             |            30             |
+| Sumatriptan Tab <sup>QL</sup>         | Sumatriptan Succinate Tab (all strengths)              |             9             |            30             |
+| Tosymra <sup>QL</sup>                 | Sumatriptan Succinate Nasal Spray (all strengths)      |             8             |            30             |
 
 ### Non-Preferred
 
-| Non-Preferred        | Generic Name | Quantity | Time (Days) |
-| :------------------- | :----------- | :------: | :---------: |
-| Almotriptan          |              |          |             |
-| Dihydroergotamine    |              |          |             |
-| Eletriptan           |              |          |             |
-| Ergomar              |              |          |             |
-| Frovatriptan         |              |          |             |
-| Migergot             |              |          |             |
-| Onzetra Xsail <sup>QL</sup>       |     Sumatriptan Succinate Nasal Powder (all strengths)         |  Determined pursuant to PA        |  Determined pursuant to PA           |
-| Reyvow               |              |          |             |
-| Sumatriptan / Naproxen |              |          |             |
-| Sumatriptan Nasal Spray <sup>QL</sup>              | Sumatriptan Succinate Nasal Spray (all strengths) |  Determined pursuant to PA        |  Determined pursuant to PA           |
-| Trudhesa             |              |          |             |
-| Ubrelvy              |              |          |             |
-| Zolmitriptan         |              |          |             |
+| Non-Preferred                         | Generic Name                                       |         Quantity          |        Time (Days)        |
+| :------------------------------------ | :------------------------------------------------- | :-----------------------: | :-----------------------: |
+| Almotriptan                           |                                                    |                           |                           |
+| Dihydroergotamine                     |                                                    |                           |                           |
+| Eletriptan                            |                                                    |                           |                           |
+| Ergomar                               |                                                    |                           |                           |
+| Frovatriptan                          |                                                    |                           |                           |
+| Migergot                              |                                                    |                           |                           |
+| Onzetra Xsail <sup>QL</sup>           | Sumatriptan Succinate Nasal Powder (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Reyvow                                |                                                    |                           |                           |
+| Sumatriptan / Naproxen                |                                                    |                           |                           |
+| Sumatriptan Nasal Spray <sup>QL</sup> | Sumatriptan Succinate Nasal Spray (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
+| Trudhesa                              |                                                    |                           |                           |
+| Ubrelvy                               |                                                    |                           |                           |
+| Zolmitriptan                          |                                                    |                           |                           |
 
 ## Length of Authorizations
 

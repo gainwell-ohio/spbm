@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Inhaled Agents
 
 This is a subcategory of Respiratory Agents.
@@ -6,63 +11,65 @@ This is a subcategory of Respiratory Agents.
 
 ### Preferred
 
-| Preferred                                       | Generic Name | Quantity | Time (Days) |
-| :---------------------------------------------- | :----------- | :------: | :---------: |
-| Advair Diskus <sup>BvG</sup>                                |              |          |             |
-| Advair HFA                                      |              |          |             |
-| Albuterol Nebulizer Sol 0.021% (0.63 MG / 3 mL), 0.042% (1.25 MG / 3 ML) <sup>AR</sup>       |              |          |          |
-| Albuterol Nebulizer Sol 0.083% (2.5 MG / 3 ML), 0.5% (5 MG / ML) Conc |              |          |             |
-| Anoro Ellipta                                   |              |          |             |
-| Asmanex Twisthaler                              |              |          |             |
-| Atrovent HFA <sup>QL</sup>                                    |              |          |             |
-| Budesonide Nebulizer Sol <sup>AR QL</sup>                     |              |          |             |
-| Combivent Respimat                              |              |          |             |
-| Cromolyn Neb Sol                                |              |          |             |
-| Dulera                                          |              |          |             |
-| Flovent <sup>BvG QL</sup>                                     |              |          |             |
-| Incruse Ellipta                                 |              |          |             |
-| Ipratropium                                     |              |          |             |
-| Ipratropium/Albuterol Nebulizer Sol <sup>QL</sup>             |              |          |             |
-| ProAir HFA <sup>BvG</sup>                                |              |          |             |
-| Pulmicort Flexhaler <sup>QL</sup>                             |              |          |             |
-| Serevent Diskus                                 |              |          |             |
-| Spiriva <sup>QL</sup>                                         |              |          |             |
-| Stiolto                                         |              |          |             |
-| Striverdi Respimat                              |              |          |             |
-| Symbicort <sup>BvG QL</sup>                                   |              |          |             |
-| Ventolin HFA <sup>BvG</sup>                               |              |          |             |
+| Preferred                                                                              | Generic Name                                                  | Quantity | Time (Days) |
+| :------------------------------------------------------------------------------------- | :------------------------------------------------------------ | :------: | :---------: |
+| Advair Diskus <sup>BvG</sup>                                                           |                                                               |          |             |
+| Advair HFA                                                                             |                                                               |          |             |
+| Albuterol Nebulizer Sol 0.021% (0.63 MG / 3 mL), 0.042% (1.25 MG / 3 ML) <sup>AR</sup> |                                                               |          |             |
+| Albuterol Nebulizer Sol 0.083% (2.5 MG / 3 ML), 0.5% (5 MG / ML) Conc                  |                                                               |          |             |
+| Anoro Ellipta                                                                          |                                                               |          |             |
+| Asmanex Twisthaler                                                                     |                                                               |          |             |
+| Atrovent HFA <sup>QL</sup>                                                             | Ipramtropium Bromide Inhalation HFA                           |    88    |     102     |
+| Budesonide Nebulizer Sol <sup>AR QL</sup>                                              | Budesonide Inhalation Susp (all strengths excl 1 MG / 2 ML)   |   408    |     102     |
+| Budesonide Nebulizer Sol <sup>AR QL</sup>                                              | Budesonide Inhalation Susp 1 MG / 2 ML                        |   204    |     102     |
+| Combivent Respimat                                                                     |                                                               |          |             |
+| Cromolyn Neb Sol                                                                       |                                                               |          |             |
+| Dulera                                                                                 |                                                               |          |             |
+| Flovent <sup>BvG QL</sup>                                                              |                                                               |          |             |
+| Incruse Ellipta                                                                        |                                                               |          |             |
+| Ipratropium                                                                            | Ipratropium Bromide Inhalation Soln 0.02%                     |   1020   |     102     |
+| Ipratropium/Albuterol Nebulizer Sol <sup>QL</sup>                                      | Ipratropium / Albuterol Nebulizing Soln 0.5-2.5 (3) MG / 3 ML |   1836   |     102     |
+| ProAir HFA <sup>BvG</sup>                                                              |                                                               |          |             |
+| Pulmicort Flexhaler <sup>QL</sup>                                                      | Budesonide Inhalation Aerosol Powder 90 MCG / ACT             |    9     |     102     |
+| Pulmicort Flexhaler <sup>QL</sup>                                                      | Budesonide Inhalation Aerosol Powder 180 MCG / ACT            |    5     |     102     |
+| Serevent Diskus                                                                        |                                                               |          |             |
+| Spiriva <sup>QL</sup>                                                                  | Tiotropium Bromide Monohydrate Inhalation Cap (all strengths) |   102    |     102     |
+| Stiolto                                                                                |                                                               |          |             |
+| Striverdi Respimat                                                                     |                                                               |          |             |
+| Symbicort <sup>BvG QL</sup>                                                            | Budesonide / Formoterol Fumarate Aerosol (all strengths)      |  69.36   |     102     |
+| Ventolin HFA <sup>BvG</sup>                                                            |                                                               |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred              | Generic Name | Quantity | Time (Days) |
-| :------------------------- | :----------- | :------: | :---------: |
-| Aerospan HFA               |              |          |             |
-| Airduo Digihaler           |              |          |             |
-| Airduo Respiclick          |              |          |             |
-| Albuterol HFA              |              |          |             |
-| Alvesco                    |              |          |             |
-| Armonair Digihaler         |              |          |             |
-| Armonair Respiclick        |              |          |             |
-| Arnuity Ellipta            |              |          |             |
-| Asmanex HFA                |              |          |             |
-| Bevespi Aerosphere         |              |          |             |
-| Breo Ellipta <sup>BvG</sup>           |              |          |             |
-| Breztri Aerosphere         |              |          |             |
-| Brovana <sup>BvG</sup>                |              |          |             |
-| Budesonide/Formoterol <sup>QL</sup>     |              |          |             |
-| Duaklir Pressair           |              |          |             |
-| Fluticasone/Salmeterol     |              |          |             |
-| Formoterol Fumarate Nebulizer Sol | | | |
-| Levalbuterol Nebulizer Sol |              |          |             |
-| Lonhala Magnair            |              |          |             |
-| Proair Digihaler          |              |          |             |
-| Proair Respiclick          |              |          |             |
-| Qvar <sup>QL</sup>                       |              |          |             |
-| Trelegy Ellipta            |              |          |             |
-| Tudorza                    |              |          |             |
-| Wixela Inhub               |              |          |             |
-| Xopenex HFA                |              |          |             |
-| Yupelri                    |              |          |             |
+| Non-Preferred                       | Generic Name                                  |         Quantity          |        Time (Days)        |
+| :---------------------------------- | :-------------------------------------------- | :-----------------------: | :-----------------------: |
+| Aerospan HFA                        |                                               |                           |                           |
+| Airduo Digihaler                    |                                               |                           |                           |
+| Airduo Respiclick                   |                                               |                           |                           |
+| Albuterol HFA                       |                                               |                           |                           |
+| Alvesco                             |                                               |                           |                           |
+| Armonair Digihaler                  |                                               |                           |                           |
+| Armonair Respiclick                 |                                               |                           |                           |
+| Arnuity Ellipta                     |                                               |                           |                           |
+| Asmanex HFA                         |                                               |                           |                           |
+| Bevespi Aerosphere                  |                                               |                           |                           |
+| Breo Ellipta <sup>BvG</sup>         |                                               |                           |                           |
+| Breztri Aerosphere                  |                                               |                           |                           |
+| Brovana <sup>BvG</sup>              |                                               |                           |                           |
+| Budesonide/Formoterol <sup>QL</sup> | Budesonide-Formoterol Aerosol (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Duaklir Pressair                    |                                               |                           |                           |
+| Fluticasone/Salmeterol              |                                               |                           |                           |
+| Formoterol Fumarate Nebulizer Sol   |                                               |                           |                           |
+| Levalbuterol Nebulizer Sol          |                                               |                           |                           |
+| Lonhala Magnair                     |                                               |                           |                           |
+| Proair Digihaler                    |                                               |                           |                           |
+| Proair Respiclick                   |                                               |                           |                           |
+| Qvar <sup>QL</sup>                  | Qvar Aerosol (all strengths)                  | Determined pursuant to PA | Determined pursuant to PA |
+| Trelegy Ellipta                     |                                               |                           |                           |
+| Tudorza                             |                                               |                           |                           |
+| Wixela Inhub                        |                                               |                           |                           |
+| Xopenex HFA                         |                                               |                           |                           |
+| Yupelri                             |                                               |                           |                           |
 
 ## Length of Authorizations
 

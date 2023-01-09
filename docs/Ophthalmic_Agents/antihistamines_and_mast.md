@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Antihistamines & Mast Cell Stabilizers
 
 This is a subcategory of Ophthalmic Agents.
@@ -6,13 +11,13 @@ This is a subcategory of Ophthalmic Agents.
 
 ### Preferred
 
-| Preferred   | Generic Name | Quantity | Time (Days) |
-| :---------- | :----------- | :------: | :---------: |
-| Azelastine  |              |          |             |
-| Bepreve <sup>BvG</sup>   |              |          |             |
-| Cromolyn    |              |          |             |
-| Ketotifen   |              |          |             |
-| Olopatadine |              |          |             |
+| Preferred              | Generic Name | Quantity | Time (Days) |
+| :--------------------- | :----------- | :------: | :---------: |
+| Azelastine             |              |          |             |
+| Bepreve <sup>BvG</sup> |              |          |             |
+| Cromolyn               |              |          |             |
+| Ketotifen              |              |          |             |
+| Olopatadine            |              |          |             |
 
 ### Non-Preferred
 

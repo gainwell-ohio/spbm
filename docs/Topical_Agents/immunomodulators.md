@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Immunomodulators
 
 This is a subcategory of Topical Agents.
@@ -6,19 +11,19 @@ This is a subcategory of Topical Agents.
 
 ### Preferred
 
-| Preferred        | Generic Name | Quantity | Time (Days) |
-| :--------------- | :----------- | :------: | :---------: |
+| Preferred                   | Generic Name | Quantity | Time (Days) |
+| :-------------------------- | :----------- | :------: | :---------: |
 | Elidel <sup>AR BvG ST</sup> |              |          |             |
-| Tacrolimus <sup>AR ST</sup>   |              |          |             |
+| Tacrolimus <sup>AR ST</sup> |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
-| Eucrisa       |              |          |             |
-| Opzelura      |              |          |             |
-| Pimecrolimus <sup>AR</sup>  |              |          |             |
-| Vtama          |        |             |          |
+| Non-Preferred              | Generic Name | Quantity | Time (Days) |
+| :------------------------- | :----------- | :------: | :---------: |
+| Eucrisa                    |              |          |             |
+| Opzelura                   |              |          |             |
+| Pimecrolimus <sup>AR</sup> |              |          |             |
+| Vtama                      |              |          |             |
 
 ## Length of Authorizations
 

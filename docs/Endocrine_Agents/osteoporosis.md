@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Osteoporosis – Bone Ossification Enhancers
 
 This is a subcategory of Endocrine Agents.
@@ -6,21 +11,21 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred         | Generic Name | Quantity | Time (Days) |
-| :---------------- | :----------- | :------: | :---------: |
-| Alendronate Tab   |              |          |             |
-| Calcitonin-Salmon |              |          |             |
-| Forteo <sup>QL</sup>           |              |          |             |
-| Ibandronate       |              |          |             |
+| Preferred            | Generic Name                                   | Quantity | Time (Days) |
+| :------------------- | :--------------------------------------------- | :------: | :---------: |
+| Alendronate Tab      |                                                |          |             |
+| Calcitonin-Salmon    |                                                |          |             |
+| Forteo <sup>QL</sup> | Teriparatide Subcutaneous Inj 600 MCG / 2.4 ML |   62.4   |     730     |
+| Ibandronate          |                                                |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred    | Generic Name | Quantity | Time (Days) |
-| :--------------- | :----------- | :------: | :---------: |
-| Alendronate Susp |              |          |             |
-| Fosamax Plus D   |              |          |             |
-| Risedronate      |              |          |             |
-| Tymlos <sup>QL</sup>          |              |          |             |
+| Non-Preferred        | Generic Name                                        |         Quantity          |        Time (Days)        |
+| :------------------- | :-------------------------------------------------- | :-----------------------: | :-----------------------: |
+| Alendronate Susp     |                                                     |                           |                           |
+| Fosamax Plus D       |                                                     |                           |                           |
+| Risedronate          |                                                     |                           |                           |
+| Tymlos <sup>QL</sup> | Abaloparatide Soln Subcutaneous Inj (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Length of Authorizations
 

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Nasal Preparations
 
 This is a subcategory of Respiratory Agents.
@@ -6,26 +11,26 @@ This is a subcategory of Respiratory Agents.
 
 ### Preferred
 
-| Preferred                        | Generic Name | Quantity | Time (Days) |
-| :------------------------------- | :----------- | :------: | :---------: |
-| Azelastine                       |              |          |             |
-| Flunisolide                      |              |          |             |
-| Fluticasone (Generic of Flonase) |              |          |             |
-| Ipratropium <sup>QL</sup>                     |              |          |             |
-| Olopatadine                      |              |          |             |
+| Preferred                        | Generic Name                              | Quantity | Time (Days) |
+| :------------------------------- | :---------------------------------------- | :------: | :---------: |
+| Azelastine                       |                                           |          |             |
+| Flunisolide                      |                                           |          |             |
+| Fluticasone (Generic of Flonase) |                                           |          |             |
+| Ipratropium <sup>QL</sup>        | Ipratropium Bromide Inhalation Soln 0.02% |   1020   |     102     |
+| Olopatadine                      |                                           |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                | Generic Name | Quantity | Time (Days) |
-| :--------------------------- | :----------- | :------: | :---------: |
+| Non-Preferred                  | Generic Name | Quantity | Time (Days) |
+| :----------------------------- | :----------- | :------: | :---------: |
 | Azelastine / Fluticasone Spray |              |          |             |
-| Beconase AQ                  |              |          |             |
-| Budesonide                   |              |          |             |
-| Mometasone                   |              |          |             |
-| Omnaris                      |              |          |             |
-| Qnasl                        |              |          |             |
-| Xhance                       |              |          |             |
-| Zetonna                      |              |          |             |
+| Beconase AQ                    |              |          |             |
+| Budesonide                     |              |          |             |
+| Mometasone                     |              |          |             |
+| Omnaris                        |              |          |             |
+| Qnasl                          |              |          |             |
+| Xhance                         |              |          |             |
+| Zetonna                        |              |          |             |
 
 ## Length of Authorizations
 

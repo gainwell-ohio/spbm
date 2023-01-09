@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Antiarrhythmics
 
 This is a subcategory of Cardiovascular Agents.
@@ -6,26 +11,26 @@ This is a subcategory of Cardiovascular Agents.
 
 ### Preferred
 
-| Preferred    | Generic Name | Quantity | Time (Days) |
-| :--------------- | :----------- | :------: | :---------: |
-| Amiodarone 200mg <sup>QL</sup> | Amiodarone HCI Tab 200 MG| 816 | 102 |
-| Disopyramide <sup>QL</sup>   | Disopyramide Phosphate Cap (all strengths) | 816 | 102 |
-| Dofetilide       ||||
-| Flecainide <sup>QL</sup>      | Flecainide Acetate Tab (all strengths excl 100 MG) | 306 | 102 |
-| Flecainide <sup>QL</sup>      | Flecainide Acetate Tab 100 MG | 612 | 102 |
-| Mexiletine <sup>QL</sup>      | Mexiletine HCI Cap (all strengths excl 150 MG) | 306 | 102 |
-| Mexiletine <sup>QL</sup>      | Mexiletine HCI Cap 150 MG | 408 | 102 |
-| Norpace CR <sup>QL</sup>       | Disopyramide Phosphate ER Cap (all strengths excl 150 MG) | 612 | 102 |
-| Norpace CR <sup>QL</sup>       | Disopyramide Phosphate ER Cap R 150 MG | 408 | 102 |
-| Propafenone IR, ER <sup>QL</sup> | |||
-| Quinidine IR, ER <sup>QL</sup>    ||||
+| Preferred                        | Generic Name                                              | Quantity | Time (Days) |
+| :------------------------------- | :-------------------------------------------------------- | :------: | :---------: |
+| Amiodarone 200mg <sup>QL</sup>   | Amiodarone HCI Tab 200 MG                                 |   816    |     102     |
+| Disopyramide <sup>QL</sup>       | Disopyramide Phosphate Cap (all strengths)                |   816    |     102     |
+| Dofetilide                       |                                                           |          |             |
+| Flecainide <sup>QL</sup>         | Flecainide Acetate Tab (all strengths excl 100 MG)        |   306    |     102     |
+| Flecainide <sup>QL</sup>         | Flecainide Acetate Tab 100 MG                             |   612    |     102     |
+| Mexiletine <sup>QL</sup>         | Mexiletine HCI Cap (all strengths excl 150 MG)            |   306    |     102     |
+| Mexiletine <sup>QL</sup>         | Mexiletine HCI Cap 150 MG                                 |   408    |     102     |
+| Norpace CR <sup>QL</sup>         | Disopyramide Phosphate ER Cap (all strengths excl 150 MG) |   612    |     102     |
+| Norpace CR <sup>QL</sup>         | Disopyramide Phosphate ER Cap R 150 MG                    |   408    |     102     |
+| Propafenone IR, ER <sup>QL</sup> |                                                           |          |             |
+| Quinidine IR, ER <sup>QL</sup>   |                                                           |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred    | Generic Name | Quantity | Time (Days) |
-| :--------------- | :----------- | :------: | :---------: |
+| Non-Preferred                            | Generic Name                                   |         Quantity          |        Time (Days)        |
+| :--------------------------------------- | :--------------------------------------------- | :-----------------------: | :-----------------------: |
 | Amiodarone 100mg and 400mg <sup>QL</sup> | Amiodarone HCI Tab (all strengths excl 200 MG) | Determined pursuant to PA | Determined pursuant to PA |
-| Multaq                     ||||
+| Multaq                                   |                                                |                           |                           |
 
 ## Length of Authorizations
 

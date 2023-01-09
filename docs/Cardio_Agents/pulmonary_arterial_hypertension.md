@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Pulmonary Arterial Hypertension
 
 This is a subcategory of Cardiovascular Agents.
@@ -6,13 +11,13 @@ This is a subcategory of Cardiovascular Agents.
 
 ### Preferred
 
-| Preferred             | Generic Name | Quantity | Time (Days) |
-| :-------------------- | :----------- | :------: | :---------: |
+| Preferred                        | Generic Name | Quantity | Time (Days) |
+| :------------------------------- | :----------- | :------: | :---------: |
 | Ambrisentan <sup>PA</sup>        |              |          |             |
-| Sildenafil <sup>PA</sup>        |              |          |             |
+| Sildenafil <sup>PA</sup>         |              |          |             |
 | Sildenafil Susp <sup>AR PA</sup> |              |          |             |
 | Tadalafil <sup>PA</sup>          |              |          |             |
-| Tracleer Tab <sup>BvG PA</sup>      |              |          |             |
+| Tracleer Tab <sup>BvG PA</sup>   |              |          |             |
 
 ### Non-Preferred
 

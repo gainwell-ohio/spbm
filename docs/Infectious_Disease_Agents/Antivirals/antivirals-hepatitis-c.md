@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Hepatitis C
 
 This is a subcategory of Infectious Disease Agents.
@@ -6,22 +11,22 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Preferred
 
-| Preferred                 | Generic Name | Quantity | Time (Days) |
-| :------------------------ | :----------- | :------: | :---------: |
-| Mavyret <sup>PA</sup>          |              |          |             |
-| Pegasys <sup>PA</sup>               |              |          |             |
-| Ribavirin <sup>PA</sup>             |              |          |             |
+| Preferred                              | Generic Name | Quantity | Time (Days) |
+| :------------------------------------- | :----------- | :------: | :---------: |
+| Mavyret <sup>PA</sup>                  |              |          |             |
+| Pegasys <sup>PA</sup>                  |              |          |             |
+| Ribavirin <sup>PA</sup>                |              |          |             |
 | Sofosbuvir / Velpatasvir <sup>PA</sup> |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                       | Generic Name | Quantity | Time (Days) |
-| :---------------------------------- | :----------- | :------: | :---------: |
-| Harvoni |              |          |             |
-| Ledipasvir / Sofosbuvir               |              |          |             |
-| Sovaldi                             |              |          |             |
-| Vosevi                              |              |          |             |
-| Zepatier                            |              |          |             |
+| Non-Preferred           | Generic Name | Quantity | Time (Days) |
+| :---------------------- | :----------- | :------: | :---------: |
+| Harvoni                 |              |          |             |
+| Ledipasvir / Sofosbuvir |              |          |             |
+| Sovaldi                 |              |          |             |
+| Vosevi                  |              |          |             |
+| Zepatier                |              |          |             |
 
 ## Length of Authorizations
 

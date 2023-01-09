@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Atypical Antipsychotics
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -6,48 +11,48 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred            | Generic Name | Quantity | Time (Days) |
-| :------------------- | :----------- | :------: | :---------: |
-| Abilify Maintena <sup>QL</sup>     |              |          |             |
-| Aripiprazole <sup>QL</sup>         |              |          |             |
-| Aristada <sup>QL</sup>             |              |          |             |
-| Aristada Initio      |              |          |             |
-| Clozapine            |              |          |             |
-| Fanapt <sup>ST</sup>             |              |          |             |
-| Geodon <sup>QL</sup>              |              |          |             |
-| Invega Tab <sup>BvG</sup>            |              |          |             |
-| Invega Hafyera ER <sup>PA</sup>  |              |          |             |
-| Invega Sustenna <sup>QL</sup>       |              |          |             |
-| Invega Trinza <sup>QL</sup>        |              |          |             |
-| Latuda <sup>ST QL</sup>            |              |          |             |
-| Olanzapine <sup>QL</sup>           |              |          |             |
-| Perseris             |              |          |             |
-| Quetiapine IR <sup>QL</sup>           |              |          |             |
-| Quetiapine ER <sup>QL</sup>         |              |          |             |
-| Risperdal Consta <sup>QL</sup>      |              |          |             |
-| Risperidone <sup>QL</sup>          |              |          |             |
+| Preferred                       | Generic Name | Quantity | Time (Days) |
+| :------------------------------ | :----------- | :------: | :---------: |
+| Abilify Maintena <sup>QL</sup>  |              |          |             |
+| Aripiprazole <sup>QL</sup>      |              |          |             |
+| Aristada <sup>QL</sup>          |              |          |             |
+| Aristada Initio                 |              |          |             |
+| Clozapine                       |              |          |             |
+| Fanapt <sup>ST</sup>            |              |          |             |
+| Geodon <sup>QL</sup>            |              |          |             |
+| Invega Tab <sup>BvG</sup>       |              |          |             |
+| Invega Hafyera ER <sup>PA</sup> |              |          |             |
+| Invega Sustenna <sup>QL</sup>   |              |          |             |
+| Invega Trinza <sup>QL</sup>     |              |          |             |
+| Latuda <sup>ST QL</sup>         |              |          |             |
+| Olanzapine <sup>QL</sup>        |              |          |             |
+| Perseris                        |              |          |             |
+| Quetiapine IR <sup>QL</sup>     |              |          |             |
+| Quetiapine ER <sup>QL</sup>     |              |          |             |
+| Risperdal Consta <sup>QL</sup>  |              |          |             |
+| Risperidone <sup>QL</sup>       |              |          |             |
 | Saphris <sup>BvG ST</sup>       |              |          |             |
-| Ziprasidone <sup>QL</sup>          |              |          |             |
+| Ziprasidone <sup>QL</sup>       |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred         | Generic Name | Quantity | Time (Days) |
-| :-------------------- | :----------- | :------: | :---------: |
-| Abilify Mycite        |              |          |             |
-| Aripiprazole Sol      |              |          |             |
-| Asenapine             |              |          |             |
-| Caplyta               |              |          |             |
-| Clozapine ODT Rapdis  |              |          |             |
-| Fluoxetine/Olanzapine |              |          |             |
-| Lybalvi               |              |          |             |
-| Nuplazid              |              |          |             |
-| Olanzapine ODT        |              |          |             |
-| Paliperidone          |              |          |             |
-| Rexulti               |              |          |             |
-| Secuado               |              |          |             |
-| Versacloz             |              |          |             |
-| Vraylar               |              |          |             |
-| Zyprexa Relprevv <sup>QL</sup>      |              |          |             |
+| Non-Preferred                  | Generic Name | Quantity | Time (Days) |
+| :----------------------------- | :----------- | :------: | :---------: |
+| Abilify Mycite                 |              |          |             |
+| Aripiprazole Sol               |              |          |             |
+| Asenapine                      |              |          |             |
+| Caplyta                        |              |          |             |
+| Clozapine ODT Rapdis           |              |          |             |
+| Fluoxetine/Olanzapine          |              |          |             |
+| Lybalvi                        |              |          |             |
+| Nuplazid                       |              |          |             |
+| Olanzapine ODT                 |              |          |             |
+| Paliperidone                   |              |          |             |
+| Rexulti                        |              |          |             |
+| Secuado                        |              |          |             |
+| Versacloz                      |              |          |             |
+| Vraylar                        |              |          |             |
+| Zyprexa Relprevv <sup>QL</sup> |              |          |             |
 
 ## Length of Authorizations
 

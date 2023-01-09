@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Lipotropics
 
 This is a subcategory of Cardiovascular Agents.
@@ -6,58 +11,58 @@ This is a subcategory of Cardiovascular Agents.
 
 ### Preferred
 
-| Preferred                    | Generic Name | Quantity | Time (Days) |
-| :--------------------------- | :----------- | :------: | :---------: |
-| Atorvastatin <sup>QL</sup>           | Atorvastatin Calcium Tab (all strengths           | 102         | 102            |
-| Cholestyramine Regular, Light        |              |          |             |
-| Colestipol Tab               |              |          |             |
-| Ezetimibe                    |              |          |             |
-| Fenofibrate 48 and 145mg Tab <sup>QL</sup> | Fenofibrate Tab 48 MG & 145 MG            | 102         |   102          |
-| Gemfibrozil <sup>QL</sup>                  |  Gemfibrozil Tab            |   204       |   102          |
-| Lovastatin <sup>QL</sup>                  |  Lovastatin Tab (all strengths)      |   204       |    102         |
-| Omega-3-Acid Ethyl Esters    |              |          |             |
-| Niacin IR, ER OTC <sup>QL</sup>                   | Niacin ER Tab (all strengths excl 500 MG)             | 204         |         102    |
-| Niacin IR, ER OTC <sup>QL</sup>                   | Niacin ER Tab 500 MG             |   306       |  102           |
-| Praluent <sup>PA</sup>                 |              |          |             |
-| Pravastatin                  | Pravastatin Sodium (all strengths)           | 102         |  102           |
-| Prevalite                    |              |          |             |
-| Repatha <sup>PA</sup>                   |              |          |             |
-| Rosuvastatin <sup>QL</sup>                |  Rosuvastatin Calcium Tab (all strengths)            | 102         |             102 |
-| Simvastatin <sup>QL</sup>                | Simvastatin Tab (all strengths)       | 102         |  102           |
+| Preferred                                  | Generic Name                              | Quantity | Time (Days) |
+| :----------------------------------------- | :---------------------------------------- | :------: | :---------: |
+| Atorvastatin <sup>QL</sup>                 | Atorvastatin Calcium Tab (all strengths   |   102    |     102     |
+| Cholestyramine Regular, Light              |                                           |          |             |
+| Colestipol Tab                             |                                           |          |             |
+| Ezetimibe                                  |                                           |          |             |
+| Fenofibrate 48 and 145mg Tab <sup>QL</sup> | Fenofibrate Tab 48 MG & 145 MG            |   102    |     102     |
+| Gemfibrozil <sup>QL</sup>                  | Gemfibrozil Tab                           |   204    |     102     |
+| Lovastatin <sup>QL</sup>                   | Lovastatin Tab (all strengths)            |   204    |     102     |
+| Omega-3-Acid Ethyl Esters                  |                                           |          |             |
+| Niacin IR, ER OTC <sup>QL</sup>            | Niacin ER Tab (all strengths excl 500 MG) |   204    |     102     |
+| Niacin IR, ER OTC <sup>QL</sup>            | Niacin ER Tab 500 MG                      |   306    |     102     |
+| Praluent <sup>PA</sup>                     |                                           |          |             |
+| Pravastatin                                | Pravastatin Sodium (all strengths)        |   102    |     102     |
+| Prevalite                                  |                                           |          |             |
+| Repatha <sup>PA</sup>                      |                                           |          |             |
+| Rosuvastatin <sup>QL</sup>                 | Rosuvastatin Calcium Tab (all strengths)  |   102    |     102     |
+| Simvastatin <sup>QL</sup>                  | Simvastatin Tab (all strengths)           |   102    |     102     |
 
 ### Non-Preferred
 
-| Non-Preferred                                          | Generic Name | Quantity | Time (Days) |
-| :----------------------------------------------------- | :----------- | :------: | :---------: |
-| Altoprev                                               |              |          |             |
-| Amlodipine / Atorvastatin                                |              |          |             |
-| Colesevelam                                            |              |          |             |
-| Colestipol Granules                                    |              |          |             |
-| Ezetimibe / Simvastatin                                  |              |          |             |
-| Ezallor                                                |              |          |             |
-| Fenofibrate Cap <sup>QL</sup>                                      |  Fenofibrate Cap (all strengths)            | Determined pursuant to PA         |  Determined pursuant to PA           |
-| Fenofibrate 40, 54, 120 and 160mg Tab <sup>QL</sup>                 |    Fenofibrate Tab (all strengths excl 48 MG & 145 MG)          |      Determined pursuant to PA    |     Determined pursuant to PA        |
-| Fenofibric Acid <sup>QL</sup>                                       | Fenofibric Acid Tab (all strengths)             |        Determined pursuant to PA |  Determined pursuant to PA           |
-| Fenofibric Acid DR <sup>QL</sup>                                       |   Choline Fenofibrate DR Cap (all strengths)           | 102         |  102           |
-| Fluvastatin                                            |              |          |             |
-| Juxtapid                                                |             |          |             |
-| Livalo                                                 |              |          |             |
-| Nexletol                                               |              |          |             |
-| Nexlizet                                               |              |          |             |
-| Niacin ER Tab <sup>QL</sup>                                          | Niacin ER Tab (all strengths excl 200 MG)            |      204    | 102            |
-| Niacin ER Tab <sup>QL</sup>                                          | Niacin ER Tab 500 MG          |  408        |             102 |
-| Vascepa                                                |              |          |             |
-| Zypitamag                                              |              |          |             |
+| Non-Preferred                                       | Generic Name                                        |         Quantity          |        Time (Days)        |
+| :-------------------------------------------------- | :-------------------------------------------------- | :-----------------------: | :-----------------------: |
+| Altoprev                                            |                                                     |                           |                           |
+| Amlodipine / Atorvastatin                           |                                                     |                           |                           |
+| Colesevelam                                         |                                                     |                           |                           |
+| Colestipol Granules                                 |                                                     |                           |                           |
+| Ezetimibe / Simvastatin                             |                                                     |                           |                           |
+| Ezallor                                             |                                                     |                           |                           |
+| Fenofibrate Cap <sup>QL</sup>                       | Fenofibrate Cap (all strengths)                     | Determined pursuant to PA | Determined pursuant to PA |
+| Fenofibrate 40, 54, 120 and 160mg Tab <sup>QL</sup> | Fenofibrate Tab (all strengths excl 48 MG & 145 MG) | Determined pursuant to PA | Determined pursuant to PA |
+| Fenofibric Acid <sup>QL</sup>                       | Fenofibric Acid Tab (all strengths)                 | Determined pursuant to PA | Determined pursuant to PA |
+| Fenofibric Acid DR <sup>QL</sup>                    | Choline Fenofibrate DR Cap (all strengths)          |            102            |            102            |
+| Fluvastatin                                         |                                                     |                           |                           |
+| Juxtapid                                            |                                                     |                           |                           |
+| Livalo                                              |                                                     |                           |                           |
+| Nexletol                                            |                                                     |                           |                           |
+| Nexlizet                                            |                                                     |                           |                           |
+| Niacin ER Tab <sup>QL</sup>                         | Niacin ER Tab (all strengths excl 200 MG)           |            204            |            102            |
+| Niacin ER Tab <sup>QL</sup>                         | Niacin ER Tab 500 MG                                |            408            |            102            |
+| Vascepa                                             |                                                     |                           |                           |
+| Zypitamag                                           |                                                     |                           |                           |
 
 ## Length of Authorizations
 
 See below
 
-|        |                               |
-| --------------------------- | ------------------------------------------------- |
-| Juxtapid (Initial)  | 180 days |
-| Vascepa, Lovaza, ACL inhibitors (Initial) | 84 days |
-| All others (Initial and Subsequent) | 365 days |
+|                                           |          |
+| ----------------------------------------- | -------- |
+| Juxtapid (Initial)                        | 180 days |
+| Vascepa, Lovaza, ACL inhibitors (Initial) | 84 days  |
+| All others (Initial and Subsequent)       | 365 days |
 
 ## All Authorizations 
 

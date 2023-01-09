@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Crohn’s Disease
 
 This is a subcategory of Gastrointestinal Agents.

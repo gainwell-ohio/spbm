@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Androgens
 
 This is a subcategory of Endocrine Agents.
@@ -6,26 +11,26 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred               | Generic Name | Quantity | Time (Days) |
-| :-------------------------- | :----------- | :------: | :---------: |
+| Preferred                                 | Generic Name | Quantity | Time (Days) |
+| :---------------------------------------- | :----------- | :------: | :---------: |
 | Androderm <sup>AR PA</sup>                |              |          |             |
 | Testosterone Gel 1% <sup>AR PA</sup>      |              |          |             |
 | Testosterone Gel 1% Pump <sup>AR PA</sup> |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred             | Generic Name | Quantity | Time (Days) |
-| :------------------------ | :----------- | :------: | :---------: |
-| Jatenzo <sup>AR</sup>                  |              |          |             |
-| Methyltestosterone <sup>AR</sup>       |              |          |             |
-| Natesto <sup>AR</sup>                  |              |          |             |
-| Testopel <sup>AR</sup>                  |              |          |             |
-| Testosterone Cypionate <sup>AR</sup>   |              |          |             |
-| Testosterone Gel 1.62% <sup>AR</sup>   |              |          |             |
-| Testosterone Gel 2% <sup>AR</sup>      |              |          |             |
+| Non-Preferred                              | Generic Name | Quantity | Time (Days) |
+| :----------------------------------------- | :----------- | :------: | :---------: |
+| Jatenzo <sup>AR</sup>                      |              |          |             |
+| Methyltestosterone <sup>AR</sup>           |              |          |             |
+| Natesto <sup>AR</sup>                      |              |          |             |
+| Testopel <sup>AR</sup>                     |              |          |             |
+| Testosterone Cypionate <sup>AR</sup>       |              |          |             |
+| Testosterone Gel 1.62% <sup>AR</sup>       |              |          |             |
+| Testosterone Gel 2% <sup>AR</sup>          |              |          |             |
 | Testosterone Sol 30 MG / ACT <sup>AR</sup> |              |          |             |
-| Tlando <sup>AR</sup>                   |              |          |             |
-| Xyosted <sup>AR</sup>                  |              |          |             |
+| Tlando <sup>AR</sup>                       |              |          |             |
+| Xyosted <sup>AR</sup>                      |              |          |             |
 
 ## Length of Authorizations
 

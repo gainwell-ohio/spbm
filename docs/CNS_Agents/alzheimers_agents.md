@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Alzheimer’s Agents
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -6,27 +11,27 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred    | Generic Name | Quantity | Time (Days) |
-| :--------------- | :----------- | :------: | :---------: |
-| Donepezil 5mg, 10mg Tab <sup>AR QL</sup> | Donepezil Hydrochloride Tab (all strengths excl 23 MG)     | 102 | 102 |
-| Donepezil ODT <sup>AR QL</sup>          | Donepezil Hydrochloride ODT (all strengths)     | 102 | 102 |
-| Exelon Patch <sup>AR BvG</sup>        |      |||
-| Galantamine IR Tab <sup>AR QL</sup>         | Galantamin Hydrobromide Tab (all strengths)     | 204 | 102 |
-| Galantamine ER Cap <sup>AR QL</sup>     |   Galantamine Hydrobromide ER Cap (all strengths)   | 102 | 102 |
-| Memantine Tab <sup>AR</sup>       |      |||
-| Rivastigmine Cap <sup>AR QL</sup>      | Rivastigmine Tartrate Cap (all strengths)  | 204 | 102 |
+| Preferred                                | Generic Name                                           | Quantity | Time (Days) |
+| :--------------------------------------- | :----------------------------------------------------- | :------: | :---------: |
+| Donepezil 5mg, 10mg Tab <sup>AR QL</sup> | Donepezil Hydrochloride Tab (all strengths excl 23 MG) |   102    |     102     |
+| Donepezil ODT <sup>AR QL</sup>           | Donepezil Hydrochloride ODT (all strengths)            |   102    |     102     |
+| Exelon Patch <sup>AR BvG</sup>           |                                                        |          |             |
+| Galantamine IR Tab <sup>AR QL</sup>      | Galantamin Hydrobromide Tab (all strengths)            |   204    |     102     |
+| Galantamine ER Cap <sup>AR QL</sup>      | Galantamine Hydrobromide ER Cap (all strengths)        |   102    |     102     |
+| Memantine Tab <sup>AR</sup>              |                                                        |          |             |
+| Rivastigmine Cap <sup>AR QL</sup>        | Rivastigmine Tartrate Cap (all strengths)              |   204    |     102     |
 
 ### Non-Preferred
 
-| Non-Preferred    | Generic Name | Quantity | Time (Days) |
-| :--------------- | :----------- | :------: | :---------: |
-| Adlarity <sup>AR</sup> | | | |
-| Donepezil 23mg Tab <sup>AR QL</sup> | Donepezil Hydrochloride Tab 23 MG | Determined pursuant to PA | Determined pursuant to PA |
-| Galantamine Sol <sup>AR QL</sup>    | Galantamine Hydrobromide Oral Soln (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Memantine ER <sup>AR</sup>    ||||
-| Memantine Sol <sup>AR</sup>      ||||
-| Namzaric <sup>AR</sup>          | Memantine HCI / Donepezil HCI ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Rivastigmine Patch <sup>AR</sup> ||||
+| Non-Preferred                       | Generic Name                                         |         Quantity          |        Time (Days)        |
+| :---------------------------------- | :--------------------------------------------------- | :-----------------------: | :-----------------------: |
+| Adlarity <sup>AR</sup>              |                                                      |                           |                           |
+| Donepezil 23mg Tab <sup>AR QL</sup> | Donepezil Hydrochloride Tab 23 MG                    | Determined pursuant to PA | Determined pursuant to PA |
+| Galantamine Sol <sup>AR QL</sup>    | Galantamine Hydrobromide Oral Soln (all strengths)   | Determined pursuant to PA | Determined pursuant to PA |
+| Memantine ER <sup>AR</sup>          |                                                      |                           |                           |
+| Memantine Sol <sup>AR</sup>         |                                                      |                           |                           |
+| Namzaric <sup>AR</sup>              | Memantine HCI / Donepezil HCI ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Rivastigmine Patch <sup>AR</sup>    |                                                      |                           |                           |
 
 ## Length of Authorizations
 

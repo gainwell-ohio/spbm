@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Benign Prostatic Hyperplasia
 
 This is a subcategory of Genitourinary Agents.
@@ -6,24 +11,24 @@ This is a subcategory of Genitourinary Agents.
 
 ### Preferred
 
-| Preferred             | Generic Name | Quantity | Time (Days) |
-| :-------------------- | :----------- | :------: | :---------: |
-| Alfuzosin             |              |          |             |
-| Doxazosin             |              |          |             |
-| Dutasteride           |              |          |             |
-| Finasteride           |              |          |             |
-| Prazosin              |              |          |             |
+| Preferred                         | Generic Name | Quantity | Time (Days) |
+| :-------------------------------- | :----------- | :------: | :---------: |
+| Alfuzosin                         |              |          |             |
+| Doxazosin                         |              |          |             |
+| Dutasteride                       |              |          |             |
+| Finasteride                       |              |          |             |
+| Prazosin                          |              |          |             |
 | Tadalafil <sup>PA</sup> 2.5, 5 MG |              |          |             |
-| Tamsulosin            |              |          |             |
-| Terazosin             |              |          |             |
+| Tamsulosin                        |              |          |             |
+| Terazosin                         |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred          | Generic Name | Quantity | Time (Days) |
-| :--------------------- | :----------- | :------: | :---------: |
-| Cardura XL             |              |          |             |
+| Non-Preferred            | Generic Name | Quantity | Time (Days) |
+| :----------------------- | :----------- | :------: | :---------: |
+| Cardura XL               |              |          |             |
 | Dutasteride / Tamsulosin |              |          |             |
-| Silodosin              |              |          |             |
+| Silodosin                |              |          |             |
 
 ## Length of Authorizations
 

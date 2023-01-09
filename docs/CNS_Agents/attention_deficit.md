@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Attention Deficit Hyperactivity Disorder Agents
 
 This is a subcategory of Central Nervous System (CNS) Agents.
@@ -6,50 +11,50 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                                                             | Generic Name | Quantity | Time (Days) |
-| :-------------------------------------------------------------------- | :----------- | :------: | :---------: |
-| Amphetamine/Dextroamphetamine ER <sup>AR QL</sup>                                    |              |          |             |
+| Preferred                                                                              | Generic Name | Quantity | Time (Days) |
+| :------------------------------------------------------------------------------------- | :----------- | :------: | :---------: |
+| Amphetamine/Dextroamphetamine ER <sup>AR QL</sup>                                      |              |          |             |
 | Amphetamine/Dextroamphetamine IR <sup>AR QL</sup>                                      |              |          |             |
-| Atomoxetine Cap <sup>AR QL</sup>                                                     |              |          |             |
-| Clonidine ER                                                           |              |          |             |
+| Atomoxetine Cap <sup>AR QL</sup>                                                       |              |          |             |
+| Clonidine ER                                                                           |              |          |             |
 | Concerta <sup>AR QL</sup>                                                              |              |          |             |
 | Dexmethylphenidate Tab <sup>AR QL</sup>                                                |              |          |             |
-| Dexmethylphenidate ER (generic of Focalin XR) <sup>AR QL</sup>                        |              |          |             |
-| Dextroamphetamine ER Cap <sup>AR QL</sup>                                             |              |          |             |
-| Dextroamphetamine Sol AR <sup>AR QL</sup>                                             |              |          |             |
-| Dextroamphetamine IR Tab <sup>AR QL</sup>                                                |              |          |             |
-| Dyanavel XR <sup>AR</sup>                              |              |          |             |
-| Guanfacine ER <sup>QL</sup>                                                          |              |          |             |
+| Dexmethylphenidate ER (generic of Focalin XR) <sup>AR QL</sup>                         |              |          |             |
+| Dextroamphetamine ER Cap <sup>AR QL</sup>                                              |              |          |             |
+| Dextroamphetamine Sol AR <sup>AR QL</sup>                                              |              |          |             |
+| Dextroamphetamine IR Tab <sup>AR QL</sup>                                              |              |          |             |
+| Dyanavel XR <sup>AR</sup>                                                              |              |          |             |
+| Guanfacine ER <sup>QL</sup>                                                            |              |          |             |
 | Methylphenidate ER Cap <sup>AR QL</sup> (generic of Metadate CD, Ritalin LA)           |              |          |             |
 | Methylphenidate ER Tab <sup>AR QL</sup> (generic of Concerta, Methylin ER, Ritalin SR) |              |          |             |
-| Methylphenidate Sol <sup>AR QL</sup>                                                 |              |          |             |
-| Methylphenidate Tab <sup>AR QL</sup>                                                    |              |          |             |
-| Procentra <sup>AR</sup>                        |              | | |
-| Qelbree <sup>ST</sup>                                                             |              |          |             |
-| Quillichew ER <sup>AR</sup>                                                        |              |          |             |
-| Quillivant XR <sup>AR</sup>                                                          |              |          |             |
+| Methylphenidate Sol <sup>AR QL</sup>                                                   |              |          |             |
+| Methylphenidate Tab <sup>AR QL</sup>                                                   |              |          |             |
+| Procentra <sup>AR</sup>                                                                |              |          |             |
+| Qelbree <sup>ST</sup>                                                                  |              |          |             |
+| Quillichew ER <sup>AR</sup>                                                            |              |          |             |
+| Quillivant XR <sup>AR</sup>                                                            |              |          |             |
 | Ritalin LA <sup>AR QL</sup>                                                            |              |          |             |
-| Vyvanse Cap <sup>QL</sup>                                                           |              |          |             |
+| Vyvanse Cap <sup>QL</sup>                                                              |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                                         | Generic Name | Quantity | Time (Days) |
-| :---------------------------------------------------- | :----------- | :------: | :---------: |
-| Adhansia XR <sup>AR</sup>                                           |              |          |             |
-| Adzenys ER                                            |              |          |             |
-| Adzenys XR ODT                                        |              |          |             |
-| Amphetamine Tab                                       |              |          |             |
-| Azstarys <sup>AR</sup>                                             |              |          |             |
-| Cotempla XR ODT <sup>AR</sup>                                      |              |          |             |
-| Daytrana <sup>AR BvG</sup>                                          |              |          |             |
-| Evekeo ODT                                            |              |          |             |
-| Jornay PM <sup>AR</sup>                                            |              |          |             |
-| Methamphetamine                                       |              |          |             |
-| Methylphenidate Chewable Tab <sup>AR QL</sup>                          |              |          |             |
+| Non-Preferred                                                         | Generic Name | Quantity | Time (Days) |
+| :-------------------------------------------------------------------- | :----------- | :------: | :---------: |
+| Adhansia XR <sup>AR</sup>                                             |              |          |             |
+| Adzenys ER                                                            |              |          |             |
+| Adzenys XR ODT                                                        |              |          |             |
+| Amphetamine Tab                                                       |              |          |             |
+| Azstarys <sup>AR</sup>                                                |              |          |             |
+| Cotempla XR ODT <sup>AR</sup>                                         |              |          |             |
+| Daytrana <sup>AR BvG</sup>                                            |              |          |             |
+| Evekeo ODT                                                            |              |          |             |
+| Jornay PM <sup>AR</sup>                                               |              |          |             |
+| Methamphetamine                                                       |              |          |             |
+| Methylphenidate Chewable Tab <sup>AR QL</sup>                         |              |          |             |
 | Methylphenidate ER <sup>AR QL</sup>(generic of Aptensio XR, Relexxii) |              |          |             |
 | Mydayis <sup>AR QL</sup>                                              |              |          |             |
-| Vyvanse Chewable Tab                                  |              |          |             |
-| Zenzedi <sup>AR QL</sup>                                               |              |          |             |
+| Vyvanse Chewable Tab                                                  |              |          |             |
+| Zenzedi <sup>AR QL</sup>                                              |              |          |             |
 
 ## Length of Authorizations
 

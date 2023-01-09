@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Urinary Antispasmodics
 
 This is a subcategory of Genitourinary Agents.
@@ -6,26 +11,28 @@ This is a subcategory of Genitourinary Agents.
 
 ### Preferred
 
-| Preferred         | Generic Name | Quantity | Time (Days) |
-| :---------------- | :----------- | :------: | :---------: |
-| Gelnique          |              |          |             |
-| Myrbetriq Tab     |              |          |             |
-| Oxybutynin <sup>QL</sup>        |              |          |             |
-| Oxytrol For Women |              |          |             |
-| Solifenacin <sup>QL</sup>        |              |          |             |
-| Toviaz <sup>BvG</sup>         |              |          |             |
+| Preferred                   | Generic Name                                         | Quantity | Time (Days) |
+| :-------------------------- | :--------------------------------------------------- | :------: | :---------: |
+| Gelnique                    |                                                      |          |             |
+| Myrbetriq Tab               |                                                      |          |             |
+| Oxybutynin <sup>QL</sup>    | Oxybutynin Chloride Tab 5 MG                         |   408    |     102     |
+| Oxybutynin ER <sup>QL</sup> | Oxybutynin Chloride ER Tab (all strengths excl 5 MG) |   204    |     102     |
+| Oxybutynin ER <sup>QL</sup> | Oxybutynin Chloride ER Tab 5 MG                      |   102    |     102     |
+| Oxytrol For Women           |                                                      |          |             |
+| Solifenacin <sup>QL</sup>   | Solifenacin Succinate Tab (all strengths)            |   102    |     102     |
+| Toviaz <sup>BvG</sup>       |                                                      |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred         | Generic Name | Quantity | Time (Days) |
-| :-------------------- | :----------- | :------: | :---------: |
-| Darifenacin <sup>QL</sup>           |              |          |             |
-| Fesoterodine          |              |          |             |
-| Gemtesa               |              |          |             |
-| Myrbetriq Granules <sup>AR</sup>  |              |          |             |
-| Tolterodine           |              |          |             |
-| Trospium <sup>QL</sup>           |              |          |             |
-| Vesicare LS <sup>AR</sup>        |              |          |             |
+| Non-Preferred                    | Generic Name                                    |         Quantity          |        Time (Days)        |
+| :------------------------------- | :---------------------------------------------- | :-----------------------: | :-----------------------: |
+| Darifenacin <sup>QL</sup>        | Darifenacin Hydrobromide ER Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Fesoterodine                     |                                                 |                           |                           |
+| Gemtesa                          |                                                 |                           |                           |
+| Myrbetriq Granules <sup>AR</sup> |                                                 |                           |                           |
+| Tolterodine                      |                                                 |                           |                           |
+| Trospium <sup>QL</sup>           | Trospium Chloride Tab (all strengths)           | Determined pursuant to PA | Determined pursuant to PA |
+| Vesicare LS <sup>AR</sup>        |                                                 |                           |                           |
 
 ## Length of Authorizations
 

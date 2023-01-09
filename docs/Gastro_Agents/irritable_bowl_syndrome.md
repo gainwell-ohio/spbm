@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Irritable Bowel Syndrome (IBS) with Diarrhea
 
 This is a subcategory of Gastrointestinal Agents.
@@ -6,11 +11,11 @@ This is a subcategory of Gastrointestinal Agents.
 
 ### Preferred
 
-| Preferred              | Generic Name | Quantity | Time (Days) |
-| :--------------------- | :----------- | :------: | :---------: |
-| Diphenoxylate/Atropine |              |          |             |
-| Loperamide <sup>QL</sup>            |              |          |             |
-| Xifaxan <sup>ST</sup>             |              |          |             |
+| Preferred                | Generic Name                  | Quantity | Time (Days) |
+| :----------------------- | :---------------------------- | :------: | :---------: |
+| Diphenoxylate/Atropine   |                               |          |             |
+| Loperamide <sup>QL</sup> | Loperamide HCI Cap & Tab 2 MG |    80    |     34      |
+| Xifaxan <sup>ST</sup>    |                               |          |             |
 
 ### Non-Preferred
 

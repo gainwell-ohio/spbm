@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Oral Anticoagulants
 
 This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
@@ -6,13 +11,13 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Preferred
 
-| Preferred   | Generic Name | Quantity | Time (Days) |
-| :---------- | :----------- | :------: | :---------: |
-| Eliquis     |              |          |             |
-| Pradaxa <sup>BvG</sup> |              |          |             |
-| Warfarin    |              |          |             |
-| Xarelto Tab <sup>QL</sup>    |  Rivaroxaban Tab (all strengths excl 15 MG)           |  102        |  102           |
-| Xarelto Tab <sup>QL</sup>    |  Rivaroxaban Tab 15 MG            |        204  |    102         |
+| Preferred                 | Generic Name                               | Quantity | Time (Days) |
+| :------------------------ | :----------------------------------------- | :------: | :---------: |
+| Eliquis                   |                                            |          |             |
+| Pradaxa <sup>BvG</sup>    |                                            |          |             |
+| Warfarin                  |                                            |          |             |
+| Xarelto Tab <sup>QL</sup> | Rivaroxaban Tab (all strengths excl 15 MG) |   102    |     102     |
+| Xarelto Tab <sup>QL</sup> | Rivaroxaban Tab 15 MG                      |   204    |     102     |
 
 ### Non-Preferred
 
@@ -20,7 +25,7 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 | :------------ | :----------- | :------: | :---------: |
 | Dabigatran    |              |          |             |
 | Savaysa       |              |          |             |
-| Xarelto Susp  |              |          |             | 
+| Xarelto Susp  |              |          |             |
 
 ## Length of Authorizations
 
@@ -47,3 +52,5 @@ Must be prescribed in accordance with FDA approved labeling
 [Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=17)
 
 [Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=10)
+
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

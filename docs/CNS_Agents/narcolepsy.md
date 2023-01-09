@@ -6,14 +6,14 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                     | Generic Name | Quantity | Time (Days) |
-| :---------------------------- | :----------- | :------: | :---------: |
+| Preferred                                            | Generic Name | Quantity | Time (Days) |
+| :--------------------------------------------------- | :----------- | :------: | :---------: |
 | Amphetamine / Dextroamphetamine IR, ER <sup>AR</sup> |              |          |             |
-| Armodafinil                   |              |          |             |
-| Dextroamphetamine ER <sup>AR</sup>          |              |          |             |
-| Methylphenidate ER <sup>AR</sup>           |              |          |             |
-| Methylphenidate Tab <sup>AR</sup>          |              |          |             |
-| Modafinil                     |              |          |             |
+| Armodafinil                                          |              |          |             |
+| Dextroamphetamine ER <sup>AR</sup>                   |              |          |             |
+| Methylphenidate ER <sup>AR</sup>                     |              |          |             |
+| Methylphenidate Tab <sup>AR</sup>                    |              |          |             |
+| Modafinil                                            |              |          |             |
 
 ### Non-Preferred
 

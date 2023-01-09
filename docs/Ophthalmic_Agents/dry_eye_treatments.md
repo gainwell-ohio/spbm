@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Dry Eye Treatments
 
 This is a subcategory of Ophthalmic Agents.
@@ -6,8 +11,8 @@ This is a subcategory of Ophthalmic Agents.
 
 ### Preferred
 
-| Preferred             | Generic Name | Quantity | Time (Days) |
-| :-------------------- | :----------- | :------: | :---------: |
+| Preferred                        | Generic Name | Quantity | Time (Days) |
+| :------------------------------- | :----------- | :------: | :---------: |
 | Restasis Trays <sup>BvG ST</sup> |              |          |             |
 
 ### Non-Preferred

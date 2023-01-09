@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Endometriosis
 
 This is a subcategory of Endocrine Agents.
@@ -6,15 +11,15 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred                     | Generic Name | Quantity | Time (Days) |
-| :---------------------------- | :----------- | :------: | :---------: |
-| Danazol <sup>ST</sup>                    |              |          |             |
-| Depo-Subq Provera 104 <sup>ST</sup>      |              |          |             |
-| Lupaneta Pack <sup>ST</sup>              |              |          |             |
-| Lupron Depot <sup>QL ST</sup> 3.75, 11.25 MG |              |          |             |
-| Myfembree <sup>QL ST</sup>                 |             |         |           |
-| Orilissa <sup>ST</sup>                   |              |          |             |
-| Zoladex <sup>ST</sup>                    |              |          |             |
+| Preferred                                    | Generic Name                                                      |         Quantity          |        Time (Days)        |
+| :------------------------------------------- | :---------------------------------------------------------------- | :-----------------------: | :-----------------------: |
+| Danazol <sup>ST</sup>                        |                                                                   |                           |                           |
+| Depo-Subq Provera 104 <sup>ST</sup>          |                                                                   |                           |                           |
+| Lupaneta Pack <sup>ST</sup>                  |                                                                   |                           |                           |
+| Lupron Depot <sup>QL ST</sup> 3.75, 11.25 MG | Leuprolide Acetate for Depot IM Susp 3.75 MG & 11.25 MG           | Determined pursuant to PA | Determined pursuant to PA |
+| Myfembree <sup>QL ST</sup>                   | Relugolix / Estradiol / Norethindrone Acetate Tab (all strengths) | Determined pusuant to PA  | Determined pursuant to PA |
+| Orilissa <sup>ST</sup>                       |                                                                   |                           |                           |
+| Zoladex <sup>ST</sup>                        |                                                                   |                           |                           |
 
 ### Non-Preferred
 

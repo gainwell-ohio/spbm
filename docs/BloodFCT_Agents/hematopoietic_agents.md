@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2 
+---
+
 # Hematopoietic Agents
 
 This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
@@ -6,8 +11,8 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Preferred
 
-| Preferred   | Generic Name | Quantity | Time (Days) |
-| :---------- | :----------- | :------: | :---------: |
+| Preferred              | Generic Name | Quantity | Time (Days) |
+| :--------------------- | :----------- | :------: | :---------: |
 | Epogen <sup>PA</sup>   |              |          |             |
 | Mircera <sup>PA</sup>  |              |          |             |
 | Retacrit <sup>PA</sup> |              |          |             |
