@@ -69,11 +69,11 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Venlafaxine ER Tab                                 |                                                               |                           |                           |
 | Viibryd <sup>BvG</sup>                             |                                                               |                           |                           |
 
-## Length of Authorizations
+## Authorizations
 
-365 Days
+**Length of Authorizations**: 365 Days
 
-## Grandfathering
+### Grandfathering
 
 Patients who have a claim for a non-preferred drug, in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug previously but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
 
@@ -85,12 +85,13 @@ Prescribers (as identified below) are exempt from prior authorization of any non
 
 **MCOs**: Physicians with a specialty in psychiatry, nurse practitioners certified in psychiatric mental health, or clinical nurse specialists certified in psychiatric mental health, who are credentialed via the Medicaid managed care plan
 
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-## All Authorizations
+## Criteria
 
-Must be prescribed in accordance with FDA approved labeling
+### Non-Preferred
 
-## Non-Preferred Criteria
+Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -98,7 +99,9 @@ Must be prescribed in accordance with FDA approved labeling
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization
+
+Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 

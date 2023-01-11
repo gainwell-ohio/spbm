@@ -54,9 +54,9 @@ This is a subcategory of Cardiovascular Agents.
 | Vascepa                                             |                                                     |                           |                           |
 | Zypitamag                                           |                                                     |                           |                           |
 
-## Length of Authorizations
+## Authorizations
 
-See below
+**Length of Authorizations**: See below
 
 |                                           |          |
 | ----------------------------------------- | -------- |
@@ -64,24 +64,26 @@ See below
 | Vascepa, Lovaza, ACL inhibitors (Initial) | 84 days  |
 | All others (Initial and Subsequent)       | 365 days |
 
-## All Authorizations 
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-Must be prescribed in accordance with FDA approved labeling
+## Criteria
 
-## Clinical PA Criteria
+### Clinical PA
+
+Clinical PA Criteria
 
 - Must provide documentation of baseline labs **AND** have documented adherence to **90 days** of prescribed lipid lowering medications
 - Must have had an inadequate clinical response of at least **90 days AND** unable to reach goal LDL-C (see below) despite treatment with maximally tolerated dose of highpotency statin and ezetimibe (or a clinical reason that these drugs cannot be utilized)
 
-## Non-Preferred Criteria
+### Non-Preferred
+
+Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
 - Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** drug
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
-
-## Additional Criteria
 
 ### Lovastatin ER (Altoprev), Pitavastatin (Livalo), Fluvastatin (Lescol)
 
@@ -109,13 +111,15 @@ Additional Lomitapide (Juxtapid) & ATP Citrate Lysase (ACL) Inhibitor Criteria
 - Must provide documentation of baseline labs **AND** have documented adherence to **90 days** of prescribed lipid lowering medications
 - Must have had inadequate clinical response of at least **90 days AND** unable to reach goal LDL-C with high-potency statin, ezetimibe and PCSK9 inhibitor (or a clinical reason that these drugs cannot be utilized)
 
-## Additional Information
+### Additional Information
 
 - High potency statins: atorvastatin (Lipitor) 40-80mg & rosuvastatin (Crestor) 20-40mg
 - LDL goals for **Familial Hypercholesterolemia** (includes Heterozygous & Homozygous FH): LDL ≤ 100mg/dL for adults or LDL ≤ 110mg/dL for those < 18 years of age
 - LDL goals for **Clinical Atherosclerotic Cardiovascular Disease (ASCVD)**: LDL ≤ 70mg/dL
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization
+
+Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 

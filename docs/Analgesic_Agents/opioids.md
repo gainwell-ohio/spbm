@@ -89,13 +89,13 @@ This is a subcategory of Analgesic Agents.
 | Tramadol ER <sup>QL</sup>                                                          | Tramadol HCI ER / Soln (all strengths)                             | Determined pursuant to PA | Determined pursuant to PA |
 | Xtampza ER <sup>QL</sup>                                                           | Oxycodone ER Cap (all strengths)                                   | Determined pursuant to PA | Determined pursuant to PA |
 
-## Length of Authorizations
+## Authorizations
 
-For the course of therapy, up to 180 days
+**Length of Authorizations**: For the course of therapy, up to 180 days
 
 **All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-## Additional Criteria
+## Criteria
 
 ### Buprenorphine Topical (Butrans)
 
@@ -111,6 +111,8 @@ Morphine Sulfate ER (Kadian, MS Contin) & Tapentadol ER (Nucynta) Criteria
 - Must provide documentation of an inadequate clinical response of at least **60 consecutive days** with at least **one** immediate release opioid formulation
 
 ### Non-Preferred
+
+Non-Preferred Criteria
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -166,7 +168,6 @@ Additional LONG-ACTING Opioids Criteria
         -   Requests for a daily dose \>100 MED must be prescribed by pain specialist or anesthesiologist consultation
 
 ### Transmucosal Fentanyl 
-
 
 Additional Transmucosal Fentanyl Criteria
 

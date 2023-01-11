@@ -34,15 +34,17 @@ This is a subcategory of Gastrointestinal Agents.
 | Prilosec Susp                   |              |          |             |
 | Rabeprazole                     |              |          |             |
 
-## Length of Authorizations
+## Authorizations 
 
-180 days, except as listed under additional criteria
+**Length of Authorizations**: 180 days, except as listed under additional criteria
 
-## All Authorizations
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-Must be prescribed in accordance with FDA approved labeling
+## Criteria
 
-## Non-Preferred Criteria
+### Non-Preferred
+
+Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -50,7 +52,7 @@ Must be prescribed in accordance with FDA approved labeling
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## PPI Doses Greater than Once Daily
+### PPI Doses Greater than Once Daily
 
 Additional Criteria for PPI Doses Greater than Once Daily
 
@@ -59,11 +61,13 @@ Additional Criteria for PPI Doses Greater than Once Daily
 - For any of the following diagnoses: carcinoma of GI tract, COPD, Crest Syndrome, dyspepsia, esophageal varices, gastritis, gastroparesis, scleroderma, symptomatic uncomplicated Barret’s Esophagus, systemic mastocytosis, or Zollinger Ellison Syndrome: Must provide documentation of diagnosis **AND** must have failed once-daily dosing of the requested drug
     - Authorization length: 365 days
 
-## Additional Information
+### Additional Information
 
 - Request may be authorized If the drug was initiated in the hospital for the treatment of a condition such as a GI bleed or the presence of a gastrostomy and/or jejunostomy (G, GJ, J-tube)
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization 
+
+Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 

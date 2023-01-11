@@ -71,15 +71,17 @@ This is a subcategory of Respiratory Agents.
 | Xopenex HFA                         |                                               |                           |                           |
 | Yupelri                             |                                               |                           |                           |
 
-## Length of Authorizations
+## Authorizations
 
-365 Days
+**Length of Authorizations**: 365 Days
 
-## All Authorizations
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-Must be prescribed in accordance with FDA approved labeling
+## Criteria
 
-## Non-Preferred Criteria
+### Non-Preferred
+
+Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -87,14 +89,18 @@ Must be prescribed in accordance with FDA approved labeling
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Steroid-Containing Inhaler
+### Steroid-Containing Inhaler
+
+Steroid-Containing Inhaler Criteria
 
 - May be authorized if documentation of one of the following is provided:
     -   Patient is 12 years or younger OR is disabled and is unable to use a preferred inhaler
 - Patient has been non-compliant on a preferred inhaler due to taste, dry mouth, or infection
 - Patient is clinically unstable, as defined by current guidelines in terms of oral steroid use or patient’s current symptomatology
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization
+
+Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 

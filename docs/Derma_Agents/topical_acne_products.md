@@ -57,17 +57,17 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Twyneo <sup>AR</sup>                     |              |          |             |
 | Winlevi                                  |              |          |             |
 
-## Length of Authorizations
+## Authorizations
 
-365 Days
+**Length of Authorizations**: 365 Days
 
-**All Authorizations**
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-Must be prescribed in accordance with FDA approved labeling
-
-## Additonal Criteria
+## Criteria
 
 ### Non-Preferred
+
+Non-Preferred Criteria
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -87,6 +87,8 @@ Additional Tretinoin/Benzoyl Peroxide (Twyneo) Criteria
 -   Tazarotene (Tazorac) – May be authorized with a diagnosis or psoriasis
 
 ### Subsequent Authorization
+
+Subsequent Authorization Criteria
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
 

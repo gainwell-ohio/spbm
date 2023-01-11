@@ -27,23 +27,23 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Buprenorphine          |                                |                           |                           |
 | Lucemyra <sup>QL</sup> | Lofexidine Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 
-## Length of Authorizations
+## Authorizations
 
-365 Days
+**Length of Authorizations**: 365 Days
 
-## All Authorizations
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-Must be prescribed in accordance with FDA approved labeling
+## Criteria
 
-## Non-Preferred Criteria
+### Non-Preferred
+
+Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
 - Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
-
-## Additional Criteria
 
 ### Lofexidine (Lucemyra)
 
@@ -63,12 +63,14 @@ Buprenorphine Safety Edits and Drug Utilization Review Criteria
 - Buprenorphine sublingual tablets (generic Subutex) will be restricted to pregnancy, breastfeeding, or contraindication to preferred products
 - Buprenorphine injection (Sublocade) dosing schedule will be limited to 300mg/30 days
 
-## Additional Information
+### Additional Information
 
 - Vivitrol and Sublocade may be billed by the pharmacy if it is not dispensed directly to the patient. If not administered by the pharmacist, the drug must be released only to the administering provider or administering provider's staff, following all regulationsfor a Prescription Pick-Up Station as described by the Ohio Board of Pharmacy.
 
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization
+
+Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 

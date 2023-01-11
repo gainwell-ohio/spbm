@@ -32,15 +32,17 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Temazepam 7.5, 22 MG <sup>QL</sup> | Temazepam Cap 7.5 MG & 22.5 MG  | Determined pursuant to PA | Determined pursuant to PA |
 | Zolpidem ER, SL                    |                                 |                           |                           |
 
-## Length of Authorizations
+## Authorizations
 
-180 Days
+**Length of Authorizations**: 180 Days
 
-## All Authorizations
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-Must be prescribed in accordance with FDA approved labeling
+## Criteria
 
-## Non-Preferred Criteria
+### Non-Preferred
+
+Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -48,12 +50,14 @@ Must be prescribed in accordance with FDA approved labeling
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Additional Information
+### Additional Information
 
 - Non-controlled medications may be authorized if the prescriber indicates the patient has a history of addiction
 - The P&T Committee does not recommend the use of flurazepam (Dalmane) or triazolam (Halcion)
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization
+
+Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 

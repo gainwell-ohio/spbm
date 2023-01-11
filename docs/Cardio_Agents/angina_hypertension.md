@@ -147,27 +147,29 @@ This is a subcategory of Cardiovascular Agents.
 | Verapamil 200, 300mg ER 24HR <sup>QL</sup> |              |          |             |
 | Verquvo                                    |              |          |             |
 
-## Length of Authorizations
+## Authorizations
 
-365 Days except nimodipine: 21 days
+**Length of Authorizations**: 365 Days except nimodipine: 21 days
 
-## All Authorizations
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-Must be prescribed in accordance with FDA approved labeling
+## Criteria
 
-## Propranol Oral Solution (Hemangeol)
+### Propranol Oral Solution (Hemangeol)
 
 Propranol Oral Solution (Hemangeol) Criteria
 
 - Must provide documentation of the patient's weight
 
-## Sacubitril / Valsartan (Entresto)
+### Sacubitril / Valsartan (Entresto)
 
 Sacubitril / Valsartan (Entresto) Criteria
 
 - Must provie documentation of chronic heart failure classified as either NYHA Class II-IV or ACC / AHA Stage B-D
 
-## Non-Preferred Criteria
+### Non-Preferred
+
+Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -175,21 +177,21 @@ Sacubitril / Valsartan (Entresto) Criteria
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Finerenone (Kerendia)
+### Finerenone (Kerendia)
 
 Additional Finerenone (Kerendia) Criteria
 
 - Must be on a maximally tolerated dose of an angiotensin-converting enzyme inhibitor or angiotensin receptor blocker
 - Must provide documentation of an inadequate clinical response to a SGLT2 Inhibitor **OR** provide documentation of medical necessity beyond convenience for why the patient cannot try a SGLT2 inhibitor (i.e., chronic kidney disease diagnosis)
 
-## Mavacamten (Camzyos)
+### Mavacamten (Camzyos)
 
 Additional Mavacamten (Camzyos) Criteria
 
 - Must be prescribed by or in consultation with a cardiologist
 - Must provide documentation of NYHA Class II-III symptoms and left ventricular ejection fraction ≥55%
 
-## Vericiguat (Verquvo)
+### Vericiguat (Verquvo)
 
 Additional Vericiguat (Verquvo) Criteria
 
@@ -200,11 +202,9 @@ Additional Vericiguat (Verquvo) Criteria
     - Beta-blocker
     - Aldosterone antagonist and/or SGLT2 inhibitor as appropriate for renal function
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization
 
-- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
-
-## Subsequent Authorization Criteria
+Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 

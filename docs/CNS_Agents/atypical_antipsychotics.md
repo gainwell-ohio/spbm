@@ -71,11 +71,11 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Zyprexa Relprevv <sup>QL</sup> | Olanzapine Pamoate ER Susp IM 300 MG (all formulations)    |    6     |     84      |
 | Zyprexa Relprevv <sup>QL</sup> | Olanzapine Pamoate ER Susp IM 405 MG (all formulations)    |    3     |     84      |
 
-## Length of Authorizations
+## Authorizations
 
-365 Days
+**Length of Authorizations**: 365 Days
 
-## Grandfathering
+### Grandfathering
 
 Patients who have a claim for a non-preferred drug, or drug requiring step therapy, in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug in the previously, but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
 
@@ -87,11 +87,11 @@ Providers (as identified below) are exempt from prior authorization of any non-p
 
 **MCOs**: Physicians with a specialty in psychiatry, nurse practitioners certified in psychiatric mental health, or clinical nurse specialists certified in psychiatric mental health, who are credentialed via the Medicaid managed care plan
 
-## All Authorizations
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-Must be prescribed in accordance with FDA approved labeling
+## Criteria
 
-## Paliperidone Palmitate (Invega Hafyera)
+### Paliperidone Palmitate (Invega Hafyera)
 
 Paliperidone Palmitate (Invega Hafyera) Criteria
 
@@ -99,19 +99,19 @@ Paliperidone Palmitate (Invega Hafyera) Criteria
 
 ### Step Therapy
 
-Step Therapy Approval
+Step Therapy Approval Criteria
 
 - Must have had an inadequate clinical response of at least **30 days** with at least **one preferred** drug
 
-## Non-Preferred Criteria
+### Non-Preferred
+
+Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
 - Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
-
-## Additional Criteria
 
 ### Aripiprazole (Abilify Mycite)
 
@@ -141,11 +141,13 @@ Additional Fluoxetine / Olanzapine (Symbyax) Criteria
 
 - Must provide documentation for patient’s inability to use the individual drugs
 
-## Additional Information
+### Additional Information
 
 - Long-acting injectable antipsychotics may be billed by the pharmacy if they are not dispensed directly to the patient. If not administered by the pharmacist, the drug must be released only to the administering provider or administering provider’s staff, following all regulations for a Prescription Pick-Up Station as described by the Ohio Board of Pharmacy
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization
+
+Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 

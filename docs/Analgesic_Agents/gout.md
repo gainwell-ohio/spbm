@@ -27,28 +27,30 @@ This is a subcategory of Analgesic Agents.
 | Gloperba Susp <sup>QL</sup>         | Colchicine Soln (all strengths)              | Determined pursuant to PA | Determined pursuant to PA |
 | Probenecid/Colchicine <sup>QL</sup> | Probenecid w/ Colchicine Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 
-## Length of Authorizations
+## Authorizations
 
-365 days except 180 days for Familial Mediterranean Fever
+**Length of Authorizations** : 365 days except 180 days for Familial Mediterranean Fever
 
-## All Authorizations
+**All Authorizations** : Must be prescribed in accordance with FDA approved labeling
 
-Must be prescribed in accordance with FDA approved labeling
+## Criteria
 
-## Clinical PA Criteria:
+### Clinical PA
+
+Clinical PA Criteria
 
 -   Must have had an inadequate clinical response with an NSAID and oral corticosteroid within the last 30 days for acute gout diagnosis **OR**
 -   Must have had an inadequate clinical response of at least 30 days with the maximally tolerated xanthine oxidase inhibitor dose for chronic gout diagnosis
 
-## Non-Preferred Criteria
+### Non-Preferred
+
+Non-Preferred Criteria
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
 -   Must have had an inadequate clinical response of at least **30 days** with at least **one preferred** drug
     -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
-
-## Additional Criteria
 
 ### Colchicine Capsule (Mitigare)
 
@@ -62,7 +64,7 @@ Additional Colchicine Solution (Gloperba) Criteria
 
 -   Must be unable to swallow tablets or capsules for authorization of colchicine solution
 
-## Subsequent Authorization
+### Subsequent Authorization
 
 Subsequent Authorization Criteria
 

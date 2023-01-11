@@ -46,20 +46,24 @@ This is a subcategory of Endocrine Agents.
 | Novolin N U-100                |                                                                         |                           |                           |
 | Novolin R U-100                |                                                                         |                           |                           |
 
-## Length of Authorizations
+## Authorizations
 
-365 Days
+**Length of Authorizations**: 365 Days
 
-## All Authorizations
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-Must be prescribed in accordance with FDA approved labeling
+## Criteria
 
-## Step Therapy Criteria
+### Step Therapy
+
+Step Therapy Approval Criteria
 
 - Must have had an inadequate clinical response of at least **120 days** with at least **one
 preferred** drug having a similar duration of action 
 
-## Non-Preferred Criteria
+### Non-Preferred
+
+Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -67,19 +71,21 @@ preferred** drug having a similar duration of action
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Inhaled Insulin (Afrezza)
+### Inhaled Insulin (Afrezza)
 
 Additional Inhaled Insulin (Afrezza) Criteria
 
 - Must provide documentation of spirometry testing prior to initiation with a predicted FEV1 ≥70% - Will not be authorized for patients with asthma or COPD
 - Must provide documentation of being nicotine-free for at least 180 days
 
-## Additional Information
+### Additional Information
 
 - An inadequate clinical response is defined as the inability to reach A1C goal after at least 120 days of current regimen with documented adherence and appropriate dose escalation.
 - Requests may be authorized for patients with a condition that is difficult to control (i.e., prone to ketoacidosis, hypoglycemia)
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization
+
+Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 

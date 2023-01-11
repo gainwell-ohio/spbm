@@ -82,15 +82,17 @@ This is a subcategory of Endocrine Agents.
 | Xigduo XR                                        |                                                  |          |             |
 | Xultophy                                         |                                                  |          |             |
 
-## Length of Authorizations
+## Authorizations 
 
-365 Days
+**Length of Authorizations**: 365 Days
 
-## All Authorizations
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-Must be prescribed in accordance with FDA approved labeling
+## Criteria
 
-## Non-Preferred Criteria
+### Non-Preferred
+
+Non-Preffered Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -98,7 +100,7 @@ Must be prescribed in accordance with FDA approved labeling
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Oral and Injectable Combination Drugs
+### Oral and Injectable Combination Drugs
 
 Additional Oral and Injectable Combination Drugs Criteria
 
@@ -106,13 +108,15 @@ Additional Oral and Injectable Combination Drugs Criteria
 documentation of medical necessity beyond convenience for patient’s inability to use
 the individual drugs
 
-## Additional Information
+### Additional Information
 
 - An inadequate clinical response is defined as the inability to reach A1C goal after at least 120 days of current regimen with documented adherence and appropriate dose escalation.
 - Requests may be authorized for patients with a condition that is difficult to control (i.e., prone to ketoacidosis, hypoglycemia)
 - For non-preferred drugs that have preferred drugs in the same drug class: must provide documentation that there was at least one inadequate clinical response with a drug in same drug class
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization
+
+Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 

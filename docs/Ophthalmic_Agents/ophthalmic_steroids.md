@@ -36,15 +36,17 @@ This is a subcategory of Ophthalmic Agents.
 | Lotemax SM    |              |          |             |
 | Loteprednol   |              |          |             |
 
-## Length of Authorizations
+## Authorizations
 
-30 Days
+**Length of Authorizations**: 30 Days
 
-## All Authorizations
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-Must be prescribed in accordance with FDA approved labeling
+## Criteria 
 
-## Non-Preferred Criteria
+### Non-Preferred
+
+**Non-Preferred Criteria**
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation

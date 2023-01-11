@@ -32,21 +32,23 @@ This is a subcategory of Endocrine Agents.
 | Tlando <sup>AR</sup>                       |              |          |             |
 | Xyosted <sup>AR</sup>                      |              |          |             |
 
-## Length of Authorizations
+## Authorizations
 
-365 Days
+**Length of Authorizations**: 365 Days
 
-**All Authorizations**
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-Must be prescribed in accordance with FDA approved labeling
-
-## Additional Criteria
+## Criteria
 
 ### Clinical PA
+
+Clinical PA Criteria
 
 -   Must provide documentation of lab work to support the need for testosterone supplementation
 
 ### Non-Preferred
+
+Non-Preferred Criteria
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred dug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage
@@ -55,6 +57,8 @@ Must be prescribed in accordance with FDA approved labeling
     -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
 ### Subsequent Authorization
+
+Subsequent Authorization Criteria
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring (i.e., testosterone and hematocrit)
 

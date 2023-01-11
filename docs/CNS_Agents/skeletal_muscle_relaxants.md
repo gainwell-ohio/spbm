@@ -32,17 +32,17 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Orphenadrine                            |                                            |                           |                           |
 | Tizanidine Cap                          |                                            |                           |                           |
 
-## Length of Authorizations
+## Authorizations
 
-365 Days
+**Length of Authorizations**: 365 Days
 
-**All Authorizations**
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-Must be prescribed in accordance with FDA approved labeling
+## Criteria
 
-## Additional Criteria
+### Non-Preferred
 
-### Non-Preferred Criteria
+Non-Preferred Criteria
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -63,6 +63,8 @@ Additional Carisoprodol (Soma) Criteria
 -   Must provide medical justification that no other muscle relaxant or agent to treat fibromyalgia, or any musculoskeletal condition, would serve the clinical needs of the patient
 
 ### Subsequent Authorization
+
+Subsequent Authorization Criteria
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
 

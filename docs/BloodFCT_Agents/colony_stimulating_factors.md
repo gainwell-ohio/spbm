@@ -30,9 +30,9 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 | Zarxio        |              |          |             |
 | Ziextenzo     |              |          |             |
 
-## Length of Authorizations
+## Authorizations
 
-Dependent upon diagnosis below
+**Length of Authorizations**: Dependent upon diagnosis below
 
 | Diagnosis                                                                                                                                                                           | Approval Length                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
@@ -42,13 +42,13 @@ Dependent upon diagnosis below
 | Severe, chronic neutropenia with absolute neutrophil count (ANC) of less than 500/mm3 and have symptoms associated with neutropenia (e.g. fever, infections, oropharyngeal ulcers). | 30 days                                     |
 | Hematopoietic radiation injury syndrome                                                                                                                                             | 30 days                                     |
 
-### All Authorizations
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-Must be prescribed in accordance with FDA approved labeling
-
-## Additional Criteria
+## Criteria
 
 ### Non-Preferred
+
+Non-Preferred Criteria
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -57,6 +57,8 @@ Must be prescribed in accordance with FDA approved labeling
     -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
 ### Subsequent Authorization
+
+Subsequent Authorization Criteria
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
 

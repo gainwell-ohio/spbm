@@ -28,17 +28,17 @@ This is a subcategory of Endocrine Agents.
 | Skytrofa      |              |          |             |
 | Zomacton      |              |          |             |
 
-## Length of Authorizations
+## Authorizations
 
-Initial: 180 days
+**Length of Authorizations**: Initial: 180 days; Subsequent: 365 days
 
-Subsequent: 365 days
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-## All Authorizations
+## Criteria
 
-Must be prescribed in accordance with FDA approved labeling
+### Clinical PA
 
-## Clinical PA Criteria
+Clincial PA Criteria
 
 **Pediatric Approvals (under 18 years of age):**
 
@@ -53,7 +53,9 @@ Must be prescribed in accordance with FDA approved labeling
 - Must provide documentation of baseline evaluation of the following clinical indicators: (1) insulin-like growth factor (IGF-1); (2) fasting lipid profile; (3) BUN; (4) fasting glucose; (5) electrolytic levels; (6) evaluation of any new osteoarthritis and joint pain; (7) bone density test
 - Must have had other hormonal deficiencies addressed with adequate replacement therapy
 
-## Non-Preferred Criteria
+### Non-Preferred
+
+Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -61,7 +63,9 @@ Must be prescribed in accordance with FDA approved labeling
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization
+
+Subsequent Authorization Criteria
 
 - Must provide documentation of patient’s clinical response to treatment and ongoingcsafety monitoring (i.e., height, weight gain, improved body composition) For adults: must provide documentation by endocrinologist that discontinuing agent would have a detrimental effect on body composition or other metabolic parameters
 

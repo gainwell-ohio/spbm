@@ -33,23 +33,27 @@ This is a subcategory of Cardiovascular Agents.
 | Uptravi       |              |          |             |
 | Ventavis      |              |          |             |
 
-## Length of Authorizations
+## Authorizations
 
-365 Days
+**Length of Authorizations**: 365 Days
 
-## Grandfathering
+### Grandfathering
 
 Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug previously but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
 
-## All Authorizations
+**All Authorizations**: Must be precribed in accordance with FDA approved labeling
 
-Must be precribed in accordance with FDA approved labeling
+## Criteria
 
-## Clinical PA Criteria
+### Clinical PA
+
+Clinical PA Criteria
 
 Must provide documentation of NYHA Functional Class for Pulmonary Hypertension and symptoms experienced by patient
 
-## Non-Preferred Criteria
+### Non-Preferred
+
+Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -57,11 +61,13 @@ Must provide documentation of NYHA Functional Class for Pulmonary Hypertension a
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Additional Information
+### Additional Information
 
 - Patients who have class III or IV symptoms defined by the NYHA Functional Class for Pulmonary Hypertension may be authorized for inhalation or intravenous agents
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization
+
+Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 

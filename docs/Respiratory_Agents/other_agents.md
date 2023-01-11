@@ -21,17 +21,17 @@ This is a subcategory of Respiratory Agents.
 | :---------------------- | :----------- | :------: | :---------: |
 | Daliresp <sup>BvG</sup> |              |          |             |
 
-## Length of Authorizations
+## Authorizations
 
-Initial: 90 days
+**Length of Authorizations**: Initial: 90 days; Subsequent: 180 days
 
-Subsequent: 180 days
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
-## All Authorizations
+## Criteria
 
-Must be prescribed in accordance with FDA approved labeling
+### Non-Preferred
 
-## Non-Preferred Criteria
+Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
@@ -39,13 +39,15 @@ Must be prescribed in accordance with FDA approved labeling
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-## Roflumilast (Daliresp)
+### Roflumilast (Daliresp)
 
 Additional Roflumilast (Daliresp) Criteria
 
 - Must be used in addition to a long-acting beta agonist AND a long-acting muscarinic antagonist-containing inhalers 
 
-## Subsequent Authorization Criteria
+### Subsequent Authorization
+
+Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment, adherence to maintenance inhaler per pharmacy claims, and ongoing safety monitoring
 
