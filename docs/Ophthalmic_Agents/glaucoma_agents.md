@@ -2,6 +2,7 @@
 search:
   boost: 2 
 ---
+
 # Glaucoma Agents
 
 This is a subcategory of Ophthalmic Agents.
@@ -10,27 +11,27 @@ This is a subcategory of Ophthalmic Agents.
 
 ### Preferred
 
-| Preferred                       | Generic Name                                  | Quantity | Time (Days) |
-| :------------------------------ | :-------------------------------------------- | :------: | :---------: |
-| Alphagan P 0.1%                 |                                               |          |             |
-| Alphagan P 0.15% <sup>BvG</sup> |                                               |          |             |
-| Azopt <sup>BvG ST</sup>         |                                               |          |             |
-| Betaxolol                       | Betaxolol HCI Tab (all strengths excl 20 MG)  |   102    |     102     |
-| Betaxolol                       | Betaxolol HCI Tab 20 MG                       |   204    |     102     |
-| Brimonidine 0.2%                |                                               |          |             |
-| Carteolol                       |                                               |          |             |
-| Combigan <sup>BvG ST</sup>      |                                               |          |             |
-| Dorzolamide                     |                                               |          |             |
-| Dorzolamide / Timolol           |                                               |          |             |
-| Latanaprost                     |                                               |          |             |
-| Levobunolol                     |                                               |          |             |
-| Metipranolol                    |                                               |          |             |
-| Rhopressa                       |                                               |          |             |
-| Rocklatan                       |                                               |          |             |
-| Simbrinza                       |                                               |          |             |
-| Timolol                         | Timolol Maleate Tab (all strengths excl 5 MG) |   306    |     102     |
-| Timolol                         | Timolol Maleate Tab 5 MG                      |   204    |     102     |
-| Travatan Z <sup>BvG ST</sup>    |                                               |          |             |
+| Preferred                       | Generic Name | Quantity | Time (Days) |
+| :------------------------------ | :----------- | :------: | :---------: |
+| Alphagan P 0.1%                 |              |          |             |
+| Alphagan P 0.15% <sup>BvG</sup> |              |          |             |
+| Azopt <sup>BvG ST</sup>         |              |          |             |
+| Betaxolol                       |              |          |             |
+| Betaxolol                       |              |          |             |
+| Brimonidine 0.2%                |              |          |             |
+| Carteolol                       |              |          |             |
+| Combigan <sup>BvG ST</sup>      |              |          |             |
+| Dorzolamide                     |              |          |             |
+| Dorzolamide / Timolol           |              |          |             |
+| Latanaprost                     |              |          |             |
+| Levobunolol                     |              |          |             |
+| Metipranolol                    |              |          |             |
+| Rhopressa                       |              |          |             |
+| Rocklatan                       |              |          |             |
+| Simbrinza                       |              |          |             |
+| Timolol                         |              |          |             |
+| Timolol                         |              |          |             |
+| Travatan Z <sup>BvG ST</sup>    |              |          |             |
 
 ### Non-Preferred
 
