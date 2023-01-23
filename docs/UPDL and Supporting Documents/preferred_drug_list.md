@@ -1,75 +1,81 @@
 # Preferred Drug List
 
-Analgesic Agents: Gout
+## Analgesic Agents
 
-| Preferred                | Non-Preferred     |
-| ------------------------ | ----------------- |
-| Allopurinol              | Colchicine Cap QL |
-| Colchicine Tab PA QL     | Gloperba Susp QL  |
-| Probenecid               | Uloric BvG        |
-| Probenecid/Colchicine PA |                   |
+**Gout**
+
+| Preferred                    | Non-Preferred                          |
+| ---------------------------- | -------------------------------------- |
+| Allopurinol <sup>QL</sup>    | Mitigare <sup>BvG QL</sup>             |
+| Colchicine Tab PA QL         | Febuxostat                             |
+| Colcrys Tab <sup>PA QL</sup> | Gloperba Susp <sup>QL</sup>            |
+| Probenecid <sup>QL</sup>     | Probenecid / Colchicine  <sup>QL</sup> |
  
 [Link to Criteria: Analgesic Agents: Gout](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=6)
 
-Analgesic Agents: NSAIDS    
+## Analgesic Agents
 
-| Preferred         | Non-Preferred                      |
-| ----------------- | ---------------------------------- |
-| Celecoxib         | Diclofenac/Misoprostol             |
-| Diclofenac        | Diclofenac Patch 1.3%              |
-| Diclofenac DR     | Diclotrex                          |
-| Diclofenac ER     | Elyxyb                             |
-| Diclofenac Gel 1% | Fenoprofen 400mg                   |
-| Etodolac          | Ibuprofen/Famotidine               |
-| Fenoprofen 600mg  | Ketorolac Tromethamine Nasal Spray |
-| Flurbiprofen      | Ketoprofen                         |
-| Ibuprofen         | Licart Patch                       |
-| Indocin           | Meloxicam Cap                      |
-| Indomethacin      | Naproxen CR                        |
-| Ketoprofen ER     | Naproxen DR                        |
-| Ketorolac         | Naproxen ER                        |
-| Meclofenamate     | Naproxen EC                        |
-| Mefenamic Acid    | Naproxen/Esomeprazole              |
-| Meloxicam Tab     | Pennsaid BvG                       |
-| Nabumetone        | Qmiiz ODT                          |
-| Naproxen IR       | Relafen DS                         |
-| Naproxen Susp AR  | Zipsor BvG                         |
-| Oxaprozin         | Zorvolex                           |
-| Piroxicam         |                                    |
-| Sulindac          |                                    |
+**NSAIDS**    
+
+| Preferred                   | Non-Preferred                      |
+| --------------------------- | ---------------------------------- |
+| Celecoxib <sup>QL</sup>     | Diclofenac / Misoprostol           |
+| Diclofenac IR               | Diclofenac Patch 1.3%              |
+| Diclofenac DR               | Diclotrex                          |
+| Diclofenac ER               | Elyxyb                             |
+| Diclofenac Gel 1%           | Fenoprofen 400mg                   |
+| Etodolac                    | Ibuprofen / Famotidine             |
+| Fenoprofen 600mg            | Ketorolac Tromethamine Nasal Spray |
+| Flurbiprofen                | Ketoprofen                         |
+| Ibuprofen                   | Licart Patch                       |
+| Indocin                     | Meloxicam Cap                      |
+| Indomethacin                | Naproxen CR                        |
+| Ketoprofen ER               | Naproxen DR                        |
+| Ketorolac                   | Naproxen ER                        |
+| Meclofenamate               | Naproxen EC                        |
+| Mefenamic Acid              | Naproxen / Esomeprazole            |
+| Meloxicam Tab               | Pennsaid <sup>BvG</sup>            |
+| Nabumetone                  | Qmiiz ODT                          |
+| Naproxen IR                 | Relafen DS                         |
+| Naproxen Susp <sup>AR</sup> | Zipsor <sup>BvG</sup>              |
+| Oxaprozin                   | Zorvolex                           |
+| Piroxicam                   |                                    |
+| Sulindac                    |                                    |
 
 [Link to Criteria: Analgesic Agents: NSAIDS](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=7)
  
-Analgestic Agents: Opioids
+## Analgestic Agents
 
-| Preferred                                    | Non-Preferred                                              |
-| -------------------------------------------- | ---------------------------------------------------------- |
-| Acetaminophen/Codeine QL                     | Acetaminophen/Caffeine/Dihydrocodeine QL                   |
-| Butalbital/Acetaminophen/Caffeine/Codeine QL | Belbuca QL                                                 |
-| Butalbital/Aspirin/Caffeine/Codeine QL       | Benzhydrocodone/Acetaminophen QL                           |
-| Butorphanol QL                               | Buprenorphine TD Patch Weekly QL                           |
-| Butrans BvG PA QL                            | Butalbital/Acetaminophen/Caffeine/Codeine 50-300-40-30mgQL |
-| Codeine QL                                   | Dsuvia QL                                                  |
-| Hydrocodone/Acetaminophen QL                 | Fentanyl QL                                                |
-| Hydromorphone IR QL                          | Hydrocodone Bitartrate ER 12HR Cap QL                      |
-| Morphine ER Tab PA QL                        | Hydrocodone Bitartrate ER 24HR Tab QL                      |
-| Morphine Sol QL                              | Hydrocodone/Acetaminophen 5-300, 7.5-300, 10-300mg QL      |
-| Morphine Tab QL                              | Hydrocodone/Ibuprofen QL                                   |
-| Oxycodone Cap QL                             | Hydromorphone ER QL                                        |
-| Oxycodone Sol QL                             | Levorphanol QL                                             |
-| Oxycodone Tab QL                             | Meperidine QL                                              |
-| Oxycodone/Acetaminophen QL                   | Methadone QL                                               |
-| Tramadol QL                                  | Morphine ER 24HR Cap QL                                    |
-| Tramadol/Acetaminophen QL                    | Nucynta, ER QL                                             |
-| Oxaydo QL                                    |                                                            |
-| Oxycodone ER QL                              |                                                            |
-| Oxycodone/Ibuprofen QL                       |                                                            |
-| Oxymorphone, ER QL                           |                                                            |
-| Pentazocine/Naloxone QL                      |                                                            |
-| Seglentis QL                                 |                                                            |
-| Tramadol ER QL                               |                                                            |
-| Tramadol Sol QL                              |                                                            |
-| Xtampza ER QL                                |                                                            |
+**Opioids**
+
+| Preferred                                                     | Non-Preferred                                                                 |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Acetaminophen / Codeine <sup>QL</sup>                         | Acetaminophen / Caffeine / Dihydrocodeine <sup>QL</sup>                       |
+| Butalbital / Acetaminophen / Caffeine / Codeine <sup>QL</sup> | Belbuca <sup>QL</sup>                                                         |
+| Butalbital / Aspirin / Caffeine / Codeine <sup>QL</sup>       | Benzhydrocodone / Acetaminophen <sup>QL</sup>                                 |
+| Butorphanol <sup>QL</sup>                                     | Buprenorphine TD Patch Weekly <sup>QL</sup>                                   |
+| Butrans <sup>BvG PA QL</sup>                                  | Butalbital / Acetaminophen / Caffeine / Codeine 50-300-40-30 MG <sup>QL</sup> |
+| Codeine <sup>QL</sup>                                         | Dsuvia <sup>QL</sup>                                                          |
+| Hydrocodone / Acetaminophen <sup>QL</sup>                     | Fentanyl <sup>QL</sup>                                                        |
+| Hydromorphone IR <sup>QL</sup>                                | Hydrocodone Bitartrate ER 12HR Cap <sup>QL</sup>                              |
+| Morphine IR Tab <sup>QL</sup>                                 | Hydrocodone Bitartrate ER 24HR Tab <sup>QL</sup>                              |
+| Morphine IR Sol <sup>QL</sup>                                 | Hydrocodone/Acetaminophen 5-300, 7.5-300, 10-300 MG <sup>QL</sup>             |
+| Morphine ER Tab <sup>PA QL</sup>                              | Hydrocodone / Ibuprofen <sup>QL</sup>                                         |
+| Nucynta IR <sup>QL</sup>                                      | Hydromorphone ER <sup>QL</sup>                                                |
+| Nucynta ER <sup>PA QL</sup>                                   | Levorphanol <sup>QL</sup>                                                     |
+| Oxycodone Cap <sup>QL</sup>                                   | Meperidine <sup>QL</sup>                                                      |
+| Oxycodone Sol <sup>QL</sup>                                   | Methadone <sup>QL</sup>                                                       |
+| Oxycodone Tab <sup>QL</sup>                                   | Morphine ER 24HR Cap <sup>QL</sup>                                            |
+| Oxycodone / Acetaminophen <sup>QL</sup>                       | Oxaydo <sup>QL</sup>                                                          |
+| Tramadol <sup>QL</sup>                                        | Oxycodone ER <sup>QL</sup>                                                    |
+| Tramadol / Acetaminophen <sup>QL</sup>                        | Oxycodone / Ibuprofen <sup>QL</sup>                                           |
+|                                                               | Oxymorphone IR <sup>QL</sup>                                                  |
+|                                                               | Oxymorphone ER <sup>QL</sup>                                                  |
+|                                                               | Pentazocine / Naloxone <sup>QL</sup>                                          |
+|                                                               | Seglentis <sup>QL</sup>                                                       |
+|                                                               | Tramadol ER <sup>QL</sup>                                                     |
+|                                                               | Tramadol Sol <sup>QL</sup>                                                    |
+|                                                               | Xtampza ER <sup>QL</sup>                                                      |              
 
 [Link to Criteria: Analgesic Agents: Opioids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=8)
 
