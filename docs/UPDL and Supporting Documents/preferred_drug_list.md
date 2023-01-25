@@ -253,210 +253,218 @@
 
 [Link to Criteria: Cardiovascular Agents: Angina, Hypertension & Heart Failure](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=16)
 
-Cardiovascular Agents: Antiarrhythmics
+**Antiarrhythmics**
 
-| Preferred        | Non-Preferred              |
-| ---------------- | -------------------------- |
-| Amiodarone 200mg | Amiodarone 100mg and 400mg |
-| Disopyramide     | Multaq                     |
-| Dofetilide       |                            |
-| Flecainide       |                            |
-| Mexiletine       |                            |
-| Norpace CR       |                            |
-| Propafenone, ER  |                            |
-| Quinidine, ER    |                            |
+| Preferred                       | Non-Preferred                              |
+| ------------------------------- | ------------------------------------------ |
+| Amiodarone 200 MG <sup>QL</sup> | Amiodarone 100 MG and 400 MG <sup>QL</sup> |
+| Disopyramide <sup>QL</sup>      | Multaq                                     |
+| Dofetilide                      |                                            |
+| Flecainide <sup>QL</sup>        |                                            |
+| Mexiletine <sup>QL</sup>        |                                            |
+| Norpace CR <sup>QL</sup>        |                                            |
+| Propafenone IR <sup>QL</sup>    |                                            |
+| Propafenone ER <sup>QL</sup>    |                                            |
+| Quinidine IR <sup>QL</sup>      |                                            |
+| Quinidine ER <sup>QL</sup>      |                                            |
   
 [Link to Criteria: Cardiovascular Agents: Antiarrhythmics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=18)
 
-Cardiovascular Agents: Lipotropics
+**Lipotropics**
 
-| Preferred                    | Non-Preferred                                          |
-| ---------------------------- | ------------------------------------------------------ |
-| Atorvastatin                 | Altoprev                                               |
-| Cholestyramine, Light        | Amlodipine/Atorvastatin                                |
-| Colestipol Tab               | Colesevelam                                            |
-| Ezetimibe                    | Colestipol Granules                                    |
-| Fenofibrate 48 and 145mg Tab | Ezetimibe/Simvastatin                                  |
-| Gemfibrozil                  | Ezallor                                                |
-| Lovastatin                   | Fenofibrate 30, 43, 50, 67, 90, 130, 134 and 150mg Cap |
-| Omega-3-Acid Ethyl Esters    | Fenofibrate 40, 54, 120 and 160mg Tab                  |
-| Niacin OTC                   | Fenofibric Acid                                        |
-| Niacin ER OTC                | Fluvastatin                                            |
-| Praluent PA                  | Juxtapid                                               |
-| Pravastatin                  | Livalo                                                 |
-| Prevalite                    | Nexletol                                               |
-| Repatha PA                   | Nexlizet                                               |
-| Rosuvastatin                 | Niacin ER Tab                                          |
-| Simvastatin                  | Vascepa Zypitamag                                      |
+| Preferred                                   | Non-Preferred                                        |
+| ------------------------------------------- | ---------------------------------------------------- |
+| Atorvastatin <sup>QL</sup>                  | Altoprev                                             |
+| Cholestyramine Regular, Light               | Amlodipine / Atorvastatin                            |
+| Colestipol Tab                              | Colesevelam                                          |
+| Ezetimibe                                   | Colestipol Granules                                  |
+| Fenofibrate 48 and 145 MG Tab <sup>QL</sup> | Ezetimibe / Simvastatin                              |
+| Gemfibrozil <sup>QL</sup>                   | Ezallor                                              |
+| Lovastatin <sup>QL</sup>                    | Fenofibrate Cap <sup>QL</sup>                        |
+| Omega-3-Acid Ethyl Esters                   | Fenofibrate 40, 54, 120 and 160 MG Tab <sup>QL</sup> |
+| Niacin IR OTC <sup>QL</sup>                 | Fenofibric Acid <sup>QL</sup>                        |
+| Niacin ER OTC <sup>QL</sup>                 | Fluvastatin                                          |
+| Praluent <sup>PA</sup>                      | Juxtapid                                             |
+| Pravastatin                                 | Livalo                                               |
+| Prevalite                                   | Nexletol                                             |
+| Repatha <sup>PA</sup>                       | Nexlizet                                             |
+| Rosuvastatin <sup>QL</sup>                  | Niacin ER Tab <sup>QL</sup>                          |
+| Simvastatin <sup>QL</sup>                   | Vascepa                                              |
+|                                             | Zypitamag                                            |
 
 [Link to Criteria: Cardiovascular Agents: Lipotropics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=19)
   
-Cardiovascular Agents: Pulmonary Arterial Hypertension*
+**Pulmonary Arterial Hypertension***
 
-| Preferred             | Non-Preferred |
-| --------------------- | ------------- |
-| Ambrisentan PA        | Adempas       |
-| Sildenafil PA         | Bosentan      |
-| Sildenafil Susp AR PA | Epoprostenol  |
-| Tadalafil PA          | Opsumit       |
-| Tracleer Tab BvG PA   | Tracleer Susp |
-|                       | Treprostinil  |
-|                       | Tyvaso        |
-|                       | Uptravi       |
-|                       | Ventavis      |
+| Preferred                        | Non-Preferred |
+| -------------------------------- | ------------- |
+| Ambrisentan <sup>PA</sup>        | Adempas       |
+| Sildenafil <sup>PA</sup>         | Bosentan      |
+| Sildenafil Susp <sup>AR PA</sup> | Epoprostenol  |
+| Tadalafil <sup>PA</sup>          | Opsumit       |
+| Tracleer Tab <sup>BvG PA</sup>   | Tracleer Susp |
+|                                  | Treprostinil  |
+|                                  | Tyvaso        |
+|                                  | Uptravi       |
+|                                  | Ventavis      |
 
 [Link to Criteria: Cardiovascular Agents: Pulmonary Arterial Hypertension](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=21)
 
-Central Nervous System (CNS) Agents: Alzheimer's Agents*
+## Central Nervous System (CNS) Agents
 
-| Preferred               | Non-Preferred      |
-| ----------------------- | ------------------ |
-| Donepezil 5mg, 10mg Tab | Donepezil 23mg Tab |
-| Donepezil ODT           | Galantamine Sol    |
-| Exelon Patch BvG        | Memantine ER       |
-| Galantamine Tab         | Memantine Sol      |
-| Galantamine ER Cap      | Namzaric           |
-| Memantine Tab           | Rivastigmine Patch |
-| Rivastigmine Cap        |
+**Alzheimer's Agents***
+
+| Preferred                                 | Non-Preferred                        |
+| ----------------------------------------- | ------------------------------------ |
+| Donepezil 5mg, 10 MG Tab <sup>AR QL</sup> | Adlarity <sup>AR</sup>               |
+| Donepezil ODT <sup>AR QL</sup>            | Donepezil 23 MG Tab <sup>AR QL</sup> |
+| Exelon Patch <sup>AR BvG</sup>            | Galantamine Sol <sup>AR QL</sup>     |
+| Galantamine IR Tab <sup>AR QL</sup>       | Memantine ER <sup>AR</sup>           |
+| Galantamine ER Cap <sup>AR QL</sup>       | Memantine Sol <sup>AR</sup>          |
+| Memantine Tab <sup>AR</sup>               | Namzaric <sup>AR</sup>               |
+| Rivastigmine Cap <sup>AR QL</sup>         | Rivastigmine Patch <sup>AR</sup>     |
  
 [Link to Criteria: Central Nervous System (CNS) Agents: Alzheimer's Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=22)
 
-Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute
+**Anti-Migraine Agents, Acute**
 
-| Preferred         | Non-Preferred        |
-| ----------------- | -------------------- |
-| Naratriptan QL    | Almotriptan          |
-| Nurtec ODT QL, ST | Dihydroergotamine    |
-| Rizatriptan QL    | Eletriptan           |
-| Sumatriptan QL    | Ergomar              |
-|                   | Frovatriptan         |
-|                   | Migergot             |
-|                   | Onzetra Xsail QL     |
-|                   | Reyvow               |
-|                   | Sumatriptan/Naproxen |
-|                   | Tosymra QL           |
-|                   | Trudhesa             |
-|                   | Ubrelvy              |
-|                   | Zolmitriptan         |
+| Preferred                             | Non-Preferred                         |
+| ------------------------------------- | ------------------------------------- |
+| Imitrex Nasal Spray <sup>BvG QL</sup> | Almotriptan                           |
+| Naratriptan <sup>QL</sup>             | Dihydroergotamine                     |
+| Nurtec ODT <sup>QL ST</sup>           | Eletriptan                            |
+| Rizatriptan <sup>QL</sup>             | Ergomar                               |
+| Sumatriptan <sup>QL</sup>             | Frovatriptan                          |
+| Tosymra <sup>QL</sup>                 | Migergot                              |
+|                                       | Onzetra Xsail <sup>QL</sup>           |
+|                                       | Reyvow                                |
+|                                       | Sumatriptan / Naproxen                |
+|                                       | Sumatriptan Nasal Spray <sup>QL</sup> |
+|                                       | Trudhesa                              |
+|                                       | Ubrelvy                               |
+|                                       | Zolmitriptan                          |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=23)
 
-Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache
+Anti-Migraine Agents, Cluster Headache
 
-| Preferred | Non-Preferred |
-| --------- | ------------- |
-| Verapamil | Emgality      |
+| Preferred               | Non-Preferred          |
+| ----------------------- | ---------------------- |
+| Verapamil <sup>QL</sup> | Emgality <sup>QL</sup> |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=24)
+ 
+**Anti-Migraine Agents, Prophylaxis**
 
-Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis
-
-| Preferred                                                | Non-Preferred |
-| -------------------------------------------------------- | ------------- |
-| Aimovig QL ST                                            | Emgality      |
-| Ajovy ST                                                 | Nurtec ODT QL |
-| Cardiovascular Agents: Beta-Blockers                     | Qulipta       |
+| Preferred                                                | Non-Preferred            |
+| -------------------------------------------------------- | ------------------------ |
+| Aimovig <sup>QL ST</sup>                                 | Emgality <sup>QL</sup>   |
+| Ajovy <sup>QL ST</sup>                                   | Nurtec ODT <sup>QL</sup> |
+| Cardiovascular Agents: Beta-Blockers                     | Qulipta <sup>QL</sup>    |
 | CNS Agents: Anticonvulsants                              |
 | CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors |
 | CNS Agents: Tricyclic Antidepressants                    |
  
 [Link to Criteria: Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=25)
 
-Central Nervous System (CNS) Agents: Anticonvulsants
+**Anticonvulsants**
 
-| Preferred            | Non-Preferred              |
-| -------------------- | -------------------------- |
-| Banzel Tab BvG       | Aptiom                     |
-| Carbamazepine        | Briviact                   |
-| Clobazam             | Celontin                   |
-| Clonazepam           | Clonazepam ODT             |
-| Diacomit PA QL       | Elepsia XR                 |
-| Divalproex           | Felbamate                  |
-| Divalproex ER        | Fintepla                   |
-| Epidiolex PA QL      | Lacosamide                 |
-| Eprontia AR          | Lamotrigine ER             |
-| Ethosuximide         | Lamotrigine ODT            |
-| Fycompa ST           | Levetiracetam ER Tab       |
-| Gabapentin           | Oxtellar XR                |
-| Lamotrigine          | Peganone                   |
-| Levetiracetam IR Tab | Rufinamide Tab, Soln       |
-| Levetiracetam Sol    | Spritam                    |
-| Oxcarbazepine        | Sympazan                   |
-| Phenobarbital        | Tiagabine                  |
-| Phenytoin            | Topiramate ER Sprinkle Cap |
-| Pregabalin           | Topiramate Sprinkle Cap    |
-| Primidone            | Trokendi XR                |
-| Topiramate           | Vigabatrin                 |
-| Valproic Acid        | Vigabatrin Powder AR       |
-| Vimpat BvG ST        | Xcopri                     |
-| Zonisamide           |                            |
+| Preferred                     | Non-Preferred                   |
+| ----------------------------- | ------------------------------- |
+| Banzel Tab <sup>BvG</sup>     | Aptiom                          |
+| Carbamazepine                 | Briviact                        |
+| Clobazam                      | Celontin                        |
+| Clonazepam                    | Clonazepam ODT                  |
+| Diacomit <sup> PA QL</sup>    | Elepsia XR                      |
+| Divalproex IR                 | Felbamate                       |
+| Divalproex ER                 | Fintepla                        |
+| Epidiolex <sup>ST QL</sup>    | Lamotrigine ER                  |
+| Eprontia <sup>AR</sup>        | Lamotrigine ODT                 |
+| Ethosuximide                  | Levetiracetam ER Tab            |
+| Fycompa <sup>ST</sup>         | Oxtellar XR                     |
+| Gabapentin <sup>QL</sup>      | Qudexy XR <sup>BvG</sup>        |
+| Lamictal ODT <sup>BvG</sup>   | Peganone                        |
+| Lamotrigine                   | Rufinamide Tab, Soln            |
+| Levetiracetam IR Tab          | Spritam                         |
+| Levetiracetam Sol             | Sympazan                        |
+| Oxcarbazepine Tab             | Tiagabine                       |
+| Phenobarbital                 | Topiramate Sprinkle Cap         |
+| Phenytoin                     | Trokendi XR                     |
+| Pregabalin <sup>QL</sup>      | Vigabatrin                      |
+| Primidone                     | Vigabatrin Powder <sup>AR</sup> |
+| Topiramate                    | Xcopri                          |
+| Trileptal Susp <sup>BvG</sup> |                                 |
+| Valproic Acid                 |                                 |
+| Lacosamide <sup>ST</sup>      |                                 |
+| Zonisamide                    |                                 |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Anticonvulsants](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=27)
 
-Central Nervous Systems (CNS) Agents: Anticonvulsants Rescue
+**Anticonvulsants Rescue**
 
-| Preferred     | Non-Preferred |
-| ------------- | ------------- |
-| Diastat       |               |
-| Diazempan Gel |               |
-| Nayzilam AR   |               |
-| Valtoco AR    |               |
+| Preferred              | Non-Preferred |
+| ---------------------- | ------------- |
+| Diastat                |               |
+| Diazempan Gel          |               |
+| Nayzilam <sup>AR</sup> |               |
+| Valtoco <sup>AR</sup>  |               |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Anticonvulsants Rescue](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=29)
 
-Central Nervous System (CNS) Agents: Antidepressants*
+**Antidepressants***
 
-| Preferred                               | Non-Preferred                        |
-| --------------------------------------- | ------------------------------------ |
-| Bupropion                               | Aplenzin                             |
-| Bupropion SR (generic of Wellbutrin SR) | Brisdelle                            |
-| Bupropion XL (generic of Wellbutrin XL) | Bupropion XL (generic of Forfivo XL) |
-| Citalopram                              | Clomipramine                         |
-| Duloxetine 20, 30, 60mg                 | Desvenlafaxine                       |
-| Escitalopram                            | Drizalma Sprinkle                    |
-| Fluoxetine                              | Duloxetine 40mg                      |
-| Fluvoxamine                             | Emsam                                |
-| Mirtazapine                             | Fetzima                              |
-| Nefazodone                              | Fluoxetine 60mg                      |
-| Paroxetine                              | Fluoxetine DR                        |
-| Sertraline                              | Fluvoxamine ER                       |
-| Tranylcypromine                         | Marplan                              |
-| Trazodone 50mg, 100mg, 150mg            | Paroxetine 7.5mg                     |
-| Venlafaxine ER Cap                      | Paroxetine ER                        |
-| Venlafaxine Tab                         | Pexeva                               |
-|                                         | Phenelzine                           |
-|                                         | Trazodone 300mg                      |
-|                                         | Trintellix                           |
-|                                         | Venlafaxine ER Tab                   |
-|                                         | Viibryd BvG                          |
+| Preferred                                             | Non-Preferred                                      |
+| ----------------------------------------------------- | -------------------------------------------------- |
+| Bupropion <sup>QL</sup>                               | Aplenzin                                           |
+| Bupropion SR (generic of Wellbutrin SR) <sup>QL</sup> | Brisdelle                                          |
+| Bupropion XL (generic of Wellbutrin XL) <sup>QL</sup> | Bupropion XL (generic of Forfivo XL) <sup>QL</sup> |
+| Citalopram <sup>QL</sup>                              | Clomipramine                                       |
+| Duloxetine 20, 30, 60 MG <sup>QL</sup>                | Desvenlafaxine                                     |
+| Escitalopram <sup>QL</sup>                            | Drizalma Sprinkle                                  |
+| Fluoxetine 10, 20, 40 MG <sup>QL</sup>                | Duloxetine 40 MG <sup>QL</sup>                     |
+| Fluoxetine Sol <sup>QL</sup>                          | Emsam                                              |
+| Fluvoxamine <sup>QL</sup>                             | Fetzima                                            |
+| Mirtazapine <sup>QL</sup>                             | Fluoxetine 60 MG <sup>QL</sup>                     |
+| Nefazodone <sup>QL</sup>                              | Fluoxetine DR <sup>QL</sup>                        |
+| Paroxetine IR Tab <sup>QL</sup>                       | Fluvoxamine ER <sup>QL</sup>                       |
+| Paroxetine Sol <sup>QL</sup>                          | Marplan                                            |
+| Sertraline                                            | Paroxetine Cap                                     |
+| Tranylcypromine                                       | Paroxetine ER Tab                                  |
+| Trazodone 50, 100, 150 MG <sup>QL</sup>               | Pexeva                                             |
+| Venlafaxine IR Tab <sup>QL</sup>                      | Phenelzine                                         |
+| Venlafaxine ER Cap <sup>QL</sup>                      | Trazodone 300 MG <sup>QL</sup>                     |
+|                                                       | Trintellix                                         |
+|                                                       | Venlafaxine ER Tab                                 |
+|                                                       | Viibryd <sup>BvG</sup>                             |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Antidepressants](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=30)
 
-Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents
+**Attention Deficit Hyperactivity Disorder Agents**
 
-| Preferred                                                             | Non-Preferred                                                 |
-| --------------------------------------------------------------------- | ------------------------------------------------------------- |
-| Amphetamine/Dextroamphetamine ER                                      | Adhansia XR                                                   |
-| Amphetamine/Dextroamphetamine IR                                      | Adzenys ER                                                    |
-| Atomoxetine Cap                                                       | Adzenys XR ODT                                                |
-| Clonidine ER                                                          | Amphetamine Tab                                               |
-| Concerta                                                              | Azstarys                                                      |
-| Dexmethylphenidate Tab                                                | Cotempla XR ODT                                               |
-| Dexmethylphenidate ER (generic of Focalin XR)                         | Daytrana BvG                                                  |
-| Dextroamphetamine ER Cap                                              | Dyanavel XR                                                   |
-| Dextroamphetamine Sol AR                                              | Evekeo ODT                                                    |
-| Dextroamphetamine Tab                                                 | Jornay PM                                                     |
-| Focalin XR                                                            | Methamphetamine                                               |
-| Guanfacine ER                                                         | Methylphenidate Chewable Tab                                  |
-| Methylphenidate ER Cap (generic of Metadate CD, Ritalin LA)           | Methylphenidate ER (generic of Aptensio XR, Relexxii) Mydayis |
-| Methylphenidate ER Tab (generic of Concerta, Methylin ER, Ritalin SR) | Vyvanse Chewable Tab                                          |
-| Methylphenidate Sol AR                                                | Zenzedi                                                       |
-| Methylphenidate Tab                                                   |                                                               |
-| Qelbree ST                                                            |                                                               |
-| Quillichew ER                                                         |                                                               |
-| Quillivant XR                                                         |                                                               |
-| Ritalin LA                                                            |                                                               |
-| Vyvanse Cap                                                           |                                                               |
+| Preferred                                                                              | Non-Preferred                                                          |
+| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Amphetamine / Dextroamphetamine ER <sup>AR QL</sup>                                    | Adhansia XR <sup>AR</sup>                                              |
+| Amphetamine / Dextroamphetamine IR <sup>AR QL</sup>                                    | Adzenys ER                                                             |
+| Atomoxetine Cap <sup>AR QL</sup>                                                       | Adzenys XR ODT                                                         |
+| Clonidine ER                                                                           | Amphetamine Tab                                                        |
+| Concerta <sup>AR QL</sup>                                                              | Azstarys <sup>AR</sup>                                                 |
+| Dexmethylphenidate Tab <sup>AR QL</sup>                                                | Cotempla XR ODT <sup>AR</sup>                                          |
+| Dexmethylphenidate ER (generic of Focalin XR) <sup>AR QL</sup>                         | Daytrana <sup>AR BvG</sup>                                             |
+| Dextroamphetamine ER Cap <sup>AR QL</sup>                                              | Evekeo ODT                                                             |
+| Dextroamphetamine IR Tab <sup>AR QL</sup>                                              | Jornay PM <sup>AR</sup>                                                |
+| Dextroamphetamine Sol <sup>AR</sup>                                                    | Methamphetamine                                                        |
+| Dyanavel XR <sup>AR</sup>                                                              | Methylphenidate Chewable Tab <sup>AR QL</sup>                          |
+| Guanfacine ER <sup>QL</sup>                                                            | Methylphenidate ER <sup>AR QL</sup> (generic of Aptensio XR, Relexxii) |
+| Methylphenidate ER Cap <sup>AR QL</sup> (generic of Metadate CD, Ritalin LA)           | Mydayis <sup>AR QL</sup>                                               |
+| Methylphenidate ER Tab <sup>AR QL</sup> (generic of Concerta, Methylin ER, Ritalin SR) | Vyvanse Chewable Tab                                                   |
+| Methylphenidate Sol <sup>AR QL</sup>                                                   | Zenzedi <sup>AR QL</sup>                                               |
+| Methylphenidate Tab <sup>AR QL</sup>                                                   |                                                                        |
+| Procentra <sup>AR</sup>                                                                |                                                                        |
+| Qelbree <sup>ST</sup>                                                                  |                                                                        |
+| Quillichew ER <sup>AR</sup>                                                            |                                                                        |
+| Quillivant XR <sup>AR</sup>                                                            |                                                                        |
+| Ritalin LA <sup>AR QL</sup>                                                            |                                                                        |
+| Vyvanse Cap <sup>QL</sup>                                                              |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=31)
 
