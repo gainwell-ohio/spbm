@@ -699,90 +699,91 @@
 
 [Link to Criteria: Dermatological: Topical Acne Products](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=47) 
 
-Endocrine Agents: Androgens
+## Endocrine Agents
 
-| Preferred                   | Non-Preferred             |
-| --------------------------- | ------------------------- |
-| Androderm PA                | Jatenzo                   |
-| Testosterone Gel 1% PA      | Methyltestosterone        |
-| Testosterone Gel 1% Pump PA | Natesto                   |
-|                             | Testopel                  |
-|                             | Testosterone Cypionate    |
-|                             | Testosterone Gel 1.62%    |
-|                             | Testosterone Gel 2%       |
-|                             | Testosterone Sol 30mg/ACT |
-|                             | Tlando                    |
-|                             | Xyosted                   |
+**Androgens**
+
+| Preferred                                 | Non-Preferred                              |
+| ----------------------------------------- | ------------------------------------------ |
+| Androderm <sup>AR PA</sup>                | Jatenzo <sup>AR</sup>                      |
+| Testosterone Gel 1% <sup>AR PA</sup>      | Methyltestosterone <sup>AR</sup>           |
+| Testosterone Gel 1% Pump <sup>AR PA</sup> | Natesto <sup>AR</sup>                      |
+|                                           | Testopel <sup>AR</sup>                     |
+|                                           | Testosterone Cypionate <sup>AR</sup>       |
+|                                           | Testosterone Gel 1.62% <sup>AR</sup>       |
+|                                           | Testosterone Gel 2% <sup>AR</sup>          |
+|                                           | Testosterone Sol 30 MG / ACT <sup>AR</sup> |
+|                                           | Tlando <sup>AR</sup>                       |
+|                                           | Xyosted <sup>AR</sup>                      |
 
 [Link to Criteria: Endocrine Agents: Androgens](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=48)
 
-Endocrine Agents: Diabetes - Hypoglycemia Treatments
+**Diabetes - Hypoglycemia Treatments**
 
-| Preferred                             | Non-Preferred                                 |
-| ------------------------------------- | --------------------------------------------- |
-| Baqsimi QL                            | Glucagon Emerg Kit [Labeler 00548 & 63323] QL |
-| Glucagen Hypokit QL                   |                                               |
-| Glucagon Emerg Kit [Labeler 00002] QL |                                               |
-| Gvoke Hypopen QL                      |                                               |
-| Gvoke PFS QL                          |                                               |
-| Zegalogue QL                          |                                               |
+| Preferred                                        | Non-Preferred                                            |
+| ------------------------------------------------ | -------------------------------------------------------- |
+| Baqsimi <sup>QL</sup>                            | Glucagon Emerg Kit [Labeler 00548 & 63323] <sup>QL</sup> |
+| Glucagen Hypokit <sup>QL</sup>                   |                                                          |
+| Glucagon Emerg Kit [Labeler 00002] <sup>QL</sup> |                                                          |
+| Gvoke <sup>QL</sup>                              |                                                          |
+| Zegalogue <sup>QL</sup>                          |                                                          |
 
 [Link to Criteria: Endocrine Agents: Diabetes - Hypoglycemia Treatments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=49)
 
-Endocrine Agents: Diabetes - Insulin
+**Diabetes - Insulin**
 
-| Preferred                               | Non-Preferred    |
-| --------------------------------------- | ---------------- |
-| Apidra                                  | Admelog          |
-| Humalog 50-50                           | Afrezza          |
-| Humalog 75-25                           | Basaglar         |
-| Humalog U-100                           | Fiasp            |
-| Humulin 70-30                           | Humalog U-200    |
-| Humulin R U-500                         | Humulin N U-100  |
-| Insulin Aspart                          | Humulin R U-100  |
-| Insulin Aspart Protamine/Insulin Aspart | Insulin glargine |
-| Insulin Lispro                          | Lyumjev          |
-| Lantus BvG                              | Novolin 70-30    |
-| Levemir                                 | Novolin N U-100  |
-| Novolog 70-30                           | Novolin R U-100  |
-| Novolog U-100                           |                  |
-| Toujeo                                  |                  |
-| Tresiba BvG ST                          |                  |
+| Preferred                                 | Non-Preferred    |
+| ----------------------------------------- | ---------------- |
+| Apidra                                    | Admelog          |
+| Humalog 50-50                             | Afrezza          |
+| Humalog 75-25                             | Basaglar         |
+| Humalog U-100 <sup>QL</sup>               | Fiasp            |
+| Humulin 70-30                             | Humalog U-200    |
+| Humulin R U-500 <sup>QL</sup>             | Humulin N U-100  |
+| Insulin Aspart <sup>QL</sup>              | Humulin R U-100  |
+| Insulin Aspart Protamine / Insulin Aspart | Insulin glargine |
+| Insulin Lispro <sup>QL</sup>              | Lyumjev          |
+| Lantus <sup>BvG QL</sup>                  | Novolin 70-30    |
+| Levemir                                   | Novolin N U-100  |
+| Novolog 70-30                             | Novolin R U-100  |
+| Novolog U-100 <sup>QL</sup>               |                  |
+| Toujeo                                    |                  |
+| Tresiba <sup>ST</sup>                     |                  |
 
 [Link to Criteria: Endocrine Agents: Diabetes - Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=50)
 
-Endocrine Agents: Diabetes - Non-Insulin
+**Diabetes - Non-Insulin**
 
-| Preferred                               | Non-Preferred                      |
-| --------------------------------------- | ---------------------------------- |
-| Acarbose                                | Adlyxin                            |
-| Actoplus Met XR                         | Alogliptin                         |
-| Byetta                                  | Alogliptin/Metformin               |
-| Farxiga                                 | Bydureon Bcise                     |
-| Glimepiride                             | Glimepiride/Pioglitazone           |
-| Glipizide                               | Glucophage                         |
-| Glipizide/Metformin                     | Glyxambi                           |
-| Glyburide                               | Invokamet XR                       |
-| Glyburide/Metformin                     | Jentadueto XR                      |
-| Invokamet                               | Kombiglyze XR                      |
-| Invokana                                | Metformin ER (Generic of Fortamet) |
-| Janumet                                 | Metformin Sol                      |
-| Janumet XR                              | Onglyza                            |
-| Januvia                                 | Ozempic                            |
-| Jardiance                               | Pioglitazone/Alogliptin            |
-| Jentadueto                              | Qtern                              |
-| Metformin                               | Rybelsus                           |
-| Metformin ER (Generic of Glucophage XR) | Segluromet                         |
-| Miglitol                                | Soliqua                            |
-| Nateglinide                             | Steglatro                          |
-| Pioglitazone                            | Steglujan                          |
-| Pioglitazone/Metformin                  | Symlinpen                          |
-| Repaglinide                             | Synjardy XR                        |
-| Repaglinide/Metformin                   | Trijardy XR                        |
-| Synjardy                                | Xigduo XR                          |
-| Tradjenta                               | Xultophy                           |
-| Trulicity QL                            |                                    |
-| Victoza                                 |                                    |
+| Preferred                                             | Non-Preferred                                              |
+| ----------------------------------------------------- | ---------------------------------------------------------- | 
+| Acarbose <sup>QL</sup>                                | Adlyxin                                                    |
+| Actoplus Met XR                                       | Alogliptin                                                 |
+| Byetta                                                | Alogliptin / Metformin                                     |
+| Farxiga                                               | Bydureon Bcise                                             |
+| Glimepiride <sup>QL</sup>                             | Glimepiride / Pioglitazone                                 |
+| Glipizide <sup>QL</sup>                               | Glucophage                                                 |
+| Glipizide / Metformin <sup>QL</sup>                   | Glyxambi                                                   |
+| Glyburide <sup>QL</sup>                               | Invokamet XR                                               |
+| Glyburide / Metformin <sup>QL</sup>                   | Jentadueto XR                                              |
+| Invokamet                                             | Kombiglyze XR                                              |
+| Invokana                                              | Metformin ER <sup>QL</sup> (Generic of Fortamet, Glumetza) |
+| Janumet                                               | Metformin Sol                                              |
+| Janumet XR                                            | Mounjaro                                                   |
+| Januvia                                               | Onglyza                                                    |
+| Jardiance                                             | Ozempic                                                    |
+| Jentadueto                                            | Pioglitazone / Alogliptin                                  |
+| Metformin IR <sup>QL</sup>                            | Qtern                                                      |
+| Metformin ER <sup>QL</sup> (Generic of Glucophage XR) | Rybelsus                                                   |
+| Miglitol                                              | Segluromet                                                 |
+| Nateglinide <sup>QL</sup>                             | Soliqua                                                    |
+| Pioglitazone <sup>QL</sup>                            | Steglatro                                                  |
+| Pioglitazone / Metformin <sup>QL</sup>                | Steglujan                                                  |
+| Repaglinide                                           | Symlinpen                                                  |
+| Repaglinide / Metformin                               | Synjardy XR                                                |
+| Synjardy                                              | Trijardy XR                                                |
+| Tradjenta                                             | Xigduo XR                                                  |
+| Trulicity <sup>QL</sup>                               | Xultophy                                                   |
+| Victoza <sup>QL</sup>                                 |                                                            |
 
 [Link to Criteria: Endocrine Agents: Diabetes - Non-Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=51)
 
