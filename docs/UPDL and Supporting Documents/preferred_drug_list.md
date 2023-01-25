@@ -346,7 +346,7 @@
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=23)
 
-Anti-Migraine Agents, Cluster Headache
+**Anti-Migraine Agents, Cluster Headache**
 
 | Preferred               | Non-Preferred          |
 | ----------------------- | ---------------------- |
@@ -468,140 +468,139 @@ Anti-Migraine Agents, Cluster Headache
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=31)
 
-Central Nervous System (CNS) Agents: Atypical Antipsychotics*
+**Atypical Antipsychotics***
 
-| Preferred            | Non-Preferred         |
-| -------------------- | --------------------- |
-| Abilify Maintena     | Abilify Mycite        |
-| Aripiprazole         | Aripiprazole Sol      |
-| Aristada             | Asenapine             |
-| Aristada Initio      | Caplyta               |
-| Clozapine            | Clozapine ODT Rapdis  |
-| Fanapt ST            | Fluoxetine/Olanzapine |
-| Geodon               | Lybalvi               |
-| Invega Tab BvG       | Nuplazid              |
-| Invega Hafyera ER PA | Olanzapine ODT        |
-| Invega Sustenna      | Paliperidone          |
-| Invega Trinza        | Rexulti               |
-| Latuda ST            | Secuado               |
-| Olanzapine           | Versacloz             |
-| Perseris             | Vraylar               |
-| Quetiapine           | Zyprexa Relprevv      |
-| Quetiapine ER        |                       |
-| Risperdal            |                       |
-| Risperdal Consta     |                       |
-| Risperidone          |                       |
-| Saphris BvG ST       |                       |
-| Ziprasidone          |                       |
+| Preferred                       | Non-Preferred                  |
+| ------------------------------- | ------------------------------ |
+| Abilify Maintena <sup>QL</sup>  | Abilify Mycite                 |
+| Aripiprazole <sup>QL</sup>      | Aripiprazole Sol               |
+| Aristada <sup>QL</sup>          | Asenapine                      |
+| Aristada Initio                 | Caplyta                        |
+| Clozapine                       | Clozapine ODT Rapdis           |
+| Fanapt <sup>ST</sup>            | Fluoxetine / Olanzapine        |
+| Geodon <sup>QL</sup>            | Lybalvi                        |
+| Invega Tab <sup>BvG</sup>       | Nuplazid                       |
+| Invega Hafyera ER <sup>PA</sup> | Olanzapine ODT                 |
+| Invega Sustenna <sup>QL</sup>   | Paliperidone                   |
+| Invega Trinza <sup>QL</sup>     | Rexulti                        |
+| Latuda <sup>QL ST</sup>         | Secuado                        |
+| Olanzapine <sup>QL</sup>        | Versacloz                      |
+| Perseris                        | Vraylar                        |
+| Quetiapine IR <sup>QL</sup>     | Zyprexa Relprevv <sup>QL</sup> |
+| Quetiapine ER <sup>QL</sup>     |                                |
+| Risperdal Consta <sup>QL</sup>  |                                |
+| Risperidone <sup>QL</sup>       |                                |
+| Saphris <sup>BvG ST</sup>       |                                |
+| Ziprasidone <sup>QL</sup>       |                                |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Atypical Antipsychotics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=32)
 
-Central Nervous System (CNS) Agents: Fibromyalgia Agents
+**Fibromyalgia Agents**
 
-| Preferred  | Non-Preferred |
-| ---------- | ------------- |
-| Pregabalin | Savella       |
+| Preferred                | Non-Preferred |
+| ------------------------ | ------------- |
+| Pregabalin <sup>QL</sup> | Savella       |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Fibromyalgia Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=34)
 
-Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction
+**Medication Assisted Treatment of Opioid Addiction**
 
-| Preferred              | Non-Preferred |
-| ---------------------- | ------------- |
-| Buprenorphine/Naloxone | Buprenorphine |
-| Clonidine              | Lucemyra QL   |
-| Sublocade QL           |               |
-| Suboxone               |               |
-| Vivitrol               |               |
-| Zubsolv                |               |
+| Preferred                | Non-Preferred            |
+| ------------------------ | ------------------------ |
+| Buprenorphine / Naloxone | Buprenorphine            |
+| Clonidine                | Lucemyra <sup>QL</sup>   |
+| Sublocade <sup>QL</sup>  |                          |
+| Suboxone                 |                          |
+| Vivitrol                 |                          |
+| Zubsolv                  |                          |
  
 [Link to Criteria: Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=35)
 
-Central Nervous System (CNS) Agents: Movement Disorders
+**Movement Disorders**
 
-| Preferred        | Non-Preferred |
-| ---------------- | ------------- |
-| Austedo PA QL    |               |
-| Ingrezza PA      |               |
-| Tetrabenazine PA |               |
+| Preferred                   | Non-Preferred |
+| --------------------------- | ------------- |
+| Austedo <sup>PA ST</sup>    |               |
+| Ingrezza <sup>PA</sup>      |               |
+| Tetrabenazine <sup>PA</sup> |               |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Movement Disorders](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=37)
 
-Central Nervous System (CNS) Agents: Multiple Sclerosis*
+**Multiple Sclerosis***
 
-| Preferred         | Non-Preferred |
-| ----------------- | ------------- |
-| Aubagio           | Bafiertam     |
-| Avonex            | Extavia       |
-| Betaseron         | Glatiramer    |
-| Copaxone BvG      | Glatopa       |
-| Dalfampridine     | Kesimpta      |
-| Dimethyl Fumarate | Mavenclad     |
-| Gilenya           | Mayzent QL    |
-| Rebif             | Plegridy      |
-|                   | Ponvory       |
-|                   | Vumerity      |
-|                   | Zeposia       |
+| Preferred               | Non-Preferred |
+| ----------------------- | ------------- |
+| Aubagio                 | Bafiertam     |
+| Avonex                  | Extavia       |
+| Betaseron               | Glatiramer    |
+| Copaxone <sup>BvG</sup> | Glatopa       |
+| Dalfampridine           | Kesimpta      |
+| Dimethyl Fumarate       | Mavenclad     |
+| Gilenya                 | Mayzent       |
+| Rebif                   | Plegridy      |
+|                         | Ponvory       |
+|                         | Vumerity      |
+|                         | Zeposia       |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Multiple Sclerosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=38)
 
-Central Nervous System (CNS) Agents: Narcolepsy
+**Narcolepsy**
 
-| Preferred                     | Non-Preferred |
-| ----------------------------- | ------------- |
-| Amphetamine/Dextroamphetamine | Sunosi        |
-| Armodafinil                   | Wakix         |
-| Dextroamphetamine ER          | Xyrem         |
-| Methylphenidate ER            | Xywav         |
-| Methylphenidate Tab           |               |
-| Modafinil                     |               |
+| Preferred                                             | Non-Preferred |
+| ----------------------------------------------------- | ------------- |
+| Amphetamine / Dextroamphetamine IR / ER <sup>AR</sup> | Sunosi        |
+| Armodafinil                                           | Wakix         |
+| Dextroamphetamine ER <sup>AR</sup>                    | Xyrem         |
+| Methylphenidate ER <sup>AR</sup>                      | Xywav         |
+| Methylphenidate Tab <sup>AR</sup>                     |               |
+| Modafinil                                             |               |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Narcolepsy](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=39)
 
-Central Nervous System (CNS) Agents: Neuropathic Pain
+**Neuropathic Pain**
 
-| Preferred                          | Non-Preferred |
-| ---------------------------------- | ------------- |
-| Amitriptyline                      | Gralise       |
-| Carbamazepine                      | Horizant      |
-| Desipramine                        | Pregabalin ER |
-| Doxepin 10, 25, 50, 75, 100, 150mg | Ztlido        |
-| Doxepin 10mg/mL Sol                |               |
-| Duloxetine                         |               |
-| Gabapentin                         |               |
-| Imipramine                         |               |
-| Lidocaine Patch                    |               |
-| Nortriptyline                      |               |
-| Oxcarbazepine                      |               |
-| Pregabalin                         |               |
+| Preferred                           | Non-Preferred |
+| ----------------------------------- | ------------- |
+| Amitriptyline                       | Gralise       |
+| Carbamazepine                       | Horizant      |
+| Desipramine                         | Pregabalin ER |
+| Doxepin 10, 25, 50, 75, 100, 150 MG | Ztlido        |
+| Doxepin Sol                         |               |
+| Duloxetine <sup>QL</sup>            |               |
+| Gabapentin <sup>QL</sup>            |               |
+| Imipramine                          |               |
+| Lidocaine Patch                     |               |
+| Nortriptyline                       |               |
+| Oxcarbazepine                       |               |
+| Pregabalin <sup>QL</sup>            |               |
  
 [Link to Criteria: Central Nervous System (CNS) Agents: Neuropathic Pain](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=40)
 
-Central Nervous System (CNS) Agents: Parkinson's Agents
+**Parkinson's Agents**
 
-| Preferred          | Non-Preferred                      |
-| ------------------ | ---------------------------------- |
-| Amantadine         | Apokyn                             |
-| Carbidopa          | Carbidopa/Levodopa Dispersible Tab |
-| Carbidopa/Levodopa | Carbidopa/Levodopa/Entacapone      |
-| Entacapone         | Gocovri                            |
-| Pramipexole        | Inbrija                            |
-| Ropinirole         | Kynmobi                            |
-| Selegiline         | Neupro                             |
-|                    | Nourianz                           |
-|                    | Ongentys                           |
-|                    | Osmolex ER                         |
-|                    | Pramipexole ER                     |
-|                    | Rasagiline                         |
-|                    | Ropinirole ER                      |
-|                    | Rytary                             |
-|                    | Tolcapone                          |
-|                    | Xadago                             |
-|                    | Zelapar                            |
+| Preferred            | Non-Preferred                        |
+| -------------------- | ------------------------------------ |
+| Amantadine           | Apokyn                               |
+| Carbidopa            | Carbidopa / Levodopa Dispersible Tab |
+| Carbidopa / Levodopa | Carbidopa / Levodopa / Entacapone    |
+| Entacapone           | Gocovri                              |
+| Pramipexole          | Inbrija                              |
+| Ropinirole           | Kynmobi                              |
+| Selegiline           | Neupro                               |
+|                      | Nourianz                             |
+|                      | Ongentys                             |
+|                      | Osmolex ER                           |
+|                      | Pramipexole ER                       |
+|                      | Rasagiline                           |
+|                      | Ropinirole ER                        |
+|                      | Rytary                               |
+|                      | Tolcapone                            |
+|                      | Xadago                               |
+|                      | Zelapar                              |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Parkinson's Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=41)
 
-Central Nervous System (CNS) Agents: Restless Legs Syndrome
+**Restless Legs Syndrome**
 
 | Preferred   | Non-Preferred |
 | ----------- | ------------- |
@@ -610,89 +609,93 @@ Central Nervous System (CNS) Agents: Restless Legs Syndrome
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Restless Legs Syndrome](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=42)
 
-Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate
+**Sedative-Hypnotics, Non-Barbiturate**
 
-| Preferred          | Non-Preferred       |
-| ------------------ | ------------------- |
-| Estazolam          | Belsomra            |
-| Temazepam 15, 30mg | Dayvigo             |
-| Zaleplon           | Doxepin 3, 6mg      |
-| Zolpidem           | Eszopiclone         |
-|                    | Intermezzo          |
-|                    | Ramelteon           |
-|                    | Temazepam 7.5, 22mg |
-|                    | Zolpidem ER and SL  |
+| Preferred                         | Non-Preferred                      |
+| --------------------------------- | ---------------------------------- |
+| Estazolam <sup>QL</sup>           | Belsomra                           |
+| Temazepam 15, 30 MG <sup>QL</sup> | Dayvigo                            |
+| Zaleplon <sup>QL</sup>            | Doxepin 3, 6 MG                    |
+| Zolpidem <sup>QL</sup>            | Eszopiclone <sup>QL</sup>          |
+|                                   | Intermezzo                         |
+|                                   | Quviviq                            |
+|                                   | Ramelteon                          |
+|                                   | Temazepam 7.5, 22 MG <sup>QL</sup> |
+|                                   | Zolpidem ER, SL                    |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=43)
 
-Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine
+**Skeletal Muscle Relaxants, Non-Benzodiazepine**
 
-| Preferred                  | Non-Preferred              |
-| -------------------------- | -------------------------- |
-| Baclofen Tab               | Baclofen Solution          |
-| Chlorzoxazone 250mg, 500mg | Carisoprodol               |
-| Cyclobenzaprine 5, 10mg    | Chlorzoxazone 375mg, 750mg |
-| Dantrolene                 | Cyclobenzaprine 7.5mg      |
-| Methocarbamol              | Cyclobenzaprine ER         |
-| Tizanidine Tab             | Fleqsuvy                   |
-|                            | Metaxalone                 |
-|                            | Orphenadrine               |
-|                            | Tizanidine Cap             |
+| Preferred                               | Non-Preferred                           |  
+| --------------------------------------- | --------------------------------------- |
+| Baclofen Tab                            | Baclofen Solution                       |
+| Chlorzoxazone 250, 500 MG <sup>QL</sup> | Carisoprodol                            |
+| Cyclobenzaprine 5, 10 MG <sup>QL</sup>  | Chlorzoxazone 375, 750 MG <sup>QL</sup> |
+| Dantrolene                              | Cyclobenzaprine 7.5 MG <sup>QL</sup>    |
+| Methocarbamol <sup>QL</sup>             | Cyclobenzaprine ER <sup>QL</sup>        |
+| Tizanidine Tab <sup>QL</sup>            | Fleqsuvy                                |
+|                                         | Lyvispah                                |
+|                                         | Metaxalone                              |
+|                                         | Orphenadrine                            |
+|                                         | Tizanidine Cap                          |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=44)
 
-Central Nervous System (CNS) Agents: Smoking Deterrents
+**Smoking Deterrents**
 
-| Preferred   | Non-Preferred |
-| ----------- | ------------- |
-| Nicotine    |               |
-| Bupropion   |               |
-| Chantix     |               |
-| Varenicline |               |
+| Preferred                 | Non-Preferred |
+| ------------------------- | ------------- |
+| Nicotine <sup>QL</sup>    |               |
+| Bupropion <sup>QL</sup>   |               |
+| Chantix <sup>QL</sup>     |               |
+| Varenicline <sup>QL</sup> |               |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Smoking Deterrents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=45)
 
-Dermatological: Oral Acne Products
+## Dermatological Agents
 
-| Preferred       | Non-Preferred |
-| --------------- | ------------- |
-| Accutane PA     | Absorica      |
-| Amnesteem PA    | Absorica LD   |
-| Claravis PA     |
-| Isotretinoin PA |
-| Myorisan PA     |
-| Zenatane PA     |
+**Oral Acne Products**
+
+| Preferred                  | Non-Preferred |
+| -------------------------- | ------------- |
+| Accutane <sup>PA</sup>     | Absorica      |
+| Amnesteem <sup>PA</sup>    | Absorica LD   |
+| Claravis <sup>PA</sup>     |               |
+| Isotretinoin <sup>PA</sup> |               |
+| Myorisan <sup>PA</sup>     |               |
+| Zenatane <sup>PA</sup>     |               |
 
 [Link to Criteria: Dermatological: Oral Acne Products](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=46)
 
-Dermatological: Topical Acne Products
+**Topical Acne Products**
 
-| Preferred                             | Non-Preferred                   |
-| ------------------------------------- | ------------------------------- |
-| Adapalene Gel 0.1% AR                 | Adapalene Cream, Sol 0.1% AR    |
-| Azelex Cream                          | Adapalene Gel 0.3%  AR          |
-| Benzoyl Peroxide                      | Adapalene/Benzoyl Peroxide AR   |
-| Clindamycin Gel                       | Aklief AR                       |
-| Clindamycin Lot                       | Altreno AR                      |
-| Clindamycin Sol                       | Amzeeq                          |
-| Clindamycin/Benzoyl Peroxide          | Arazlo AR                       |
-| Erythromycin                          | Azelaic Acid Gel                |
-| Erythromycin/Benzoyl Peroxide         | Benzoyl Peroxide Foam           |
-| Neuac                                 | Clindacin Kit                   |
-| Sodium Sulfacetamide                  | Clindamycin Foam                |
-| Sodium Sulfacetamide/Sulfur Cream     | Clindamycin Swabs               |
-| Sodium Sulfacetamide/Sulfur Wash Susp | Clindamycin/Tretinoin AR        |
-| Tretinoin AR                          | Dapsone Gel                     |
-|                                       | Finacea Foam                    |
-|                                       | Onexton Gel                     |
-|                                       | Ovace Plus                      |
-|                                       | Plixda AR                       |
-|                                       | Sodium Sulfacetamide/Sulfur Gel |
-|                                       | Sodium Sulfacetamide Pads       |
-|                                       | Tazarotene Cream 0.1% AR        |
-|                                       | Tazarotene Foam 0.1% AR         |
-|                                       | Twyneo AR                       |
-|                                       | Winlevi                         |
+| Preferred                               | Non-Preferred                              |
+| --------------------------------------- | ------------------------------------------ |
+| Adapalene Gel 0.1% <sup>AR</sup         | Adapalene Cream, Sol 0.1% <sup>AR</sup>    |
+| Azelex Cream                            | Adapalene Gel 0.3%  <sup>AR</sup>          |
+| Benzoyl Peroxide                        | Adapalene / Benzoyl Peroxide <sup>AR</sup> |
+| Clindamycin Gel                         | Aklief <sup>AR</sup>                       |
+| Clindamycin Lot                         | Altreno <sup>AR</sup>                      |
+| Clindamycin Sol                         | Amzeeq                                     |
+| Clindamycin / Benzoyl Peroxide          | Arazlo <sup>AR</sup>                       |
+| Erythromycin                            | Azelaic Acid Gel                           |
+| Erythromycin / Benzoyl Peroxide         | Benzoyl Peroxide Foam                      |
+| Neuac                                   | Clindacin Kit                              |
+| Sodium Sulfacetamide                    | Clindamycin Foam                           |
+| Sodium Sulfacetamide / Sulfur Cream     | Clindamycin Swabs                          |
+| Sodium Sulfacetamide / Sulfur Wash Susp | Clindamycin/Tretinoin <sup>AR</sup>        |
+| Tretinoin <sup>AR</sup>                 | Dapsone Gel                                |
+|                                         | Epsolay                                    |
+|                                         | Finacea Foam                               |
+|                                         | Onexton Gel                                |
+|                                         | Ovace Plus                                 |
+|                                         | Plixda <sup>AR</sup>                       |
+|                                         | Sodium Sulfacetamide / Sulfur Gel          |
+|                                         | Sodium Sulfacetamide Pads                  |
+|                                         | Tazarotene Cream, Foam 0.1% <sup>AR</sup>  |
+|                                         | Twyneo <sup>AR</sup>                       |
+|                                         | Winlevi                                    |
 
 [Link to Criteria: Dermatological: Topical Acne Products](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=47) 
 
