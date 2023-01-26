@@ -787,106 +787,113 @@
 
 [Link to Criteria: Endocrine Agents: Diabetes - Non-Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=51)
 
-Endocrine Agents: Endometriosis
+**Endometriosis**
 
-| Preferred                     | Non-Preferred |
-| ----------------------------- | ------------- |
-| Danazol ST                    | Synarel       |
-| Depo-Subq Provera 104 ST      |               |
-| Lupaneta Pack ST              |               |
-| Lupron Depot ST 3.75, 11.25mg |               |
-| Orilissa ST                   |               |
-| Zoladex ST                    |               |
+| Preferred                                    | Non-Preferred |
+| -------------------------------------------- | ------------- |
+| Danazol <sup>ST</sup>                        | Synarel       |
+| Depo-Subq Provera 104 <sup>ST</sup>          |               |
+| Lupaneta Pack <sup>ST</sup>                  |               |
+| Lupron Depot <sup>QL ST</sup> 3.75, 11.25 MG |               |
+| Myfembree <sup>QL ST</sup>                   |               |
+| Orilissa <sup>ST</sup>                       |               |
+| Zoladex <sup>ST</sup>                        |               |
 
 [Link to Criteria: Endocrine Agents: Endometriosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=52)
 
-Endocrine Agents: Estrogenic Agents
+**Estrogenic Agents**
 
-| Prefered                                | Non-Preferred                   |
-| --------------------------------------- | ------------------------------- |
-| Climara Pro                             | Angeliq                         |
-| Combipatch                              | Divigel                         |
-| Estradiol                               | Duavee                          |
-| Estring                                 | Estradiol 10mcg Vag Tab         |
-| Ethinyl Estradiol/Norethindrone Acetate | Estradiol/Norethindrone Acetate |
-| Menest                                  | Evamist                         |
-| Premarin                                | Femring                         |
-| Premphase                               | Menostar                        |
-| Prempro                                 | Minivelle                       |
-|                                         | Prefest                         |
+| Prefered                                  | Non-Preferred                     |
+| ----------------------------------------- | --------------------------------- |
+| Climara Pro <sup>QL</sup>                 | Angeliq                           |
+| Combipatch <sup>QL</sup>                  | Climara <sup>QL</sup>             |
+| Dotti <sup>QL</sup>                       | Divigel                           |
+| Estradiol Cream, Tab                      | Duavee                            |
+| Estradiol Patch <sup>QL</sup>             | Estradiol 10 MCG Vag Tab          |
+| Lyllana <sup>QL</sup>                     | Estradiol / Norethindrone Acetate |
+| Estring <sup>QL</sup>                     | Evamist                           |
+| Ethinyl Estradiol / Norethindrone Acetate | Femring                           |
+| Menest                                    | Menostar <sup>QL</sup>            |
+| Premarin                                  | Minivelle <sup>QL</sup>           |
+| Premphase                                 | Prefest                           |
+| Prempro                                   | Vivelle-Dot <sup>QL</sup>         |
 
 [Link to Criteria: Endocrine Agents: Estrogenic Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=53)
 
-Endocrine Agents: Growth Hormone
+**Growth Hormone**
 
-| Preferred      | Non-Preferred |
-| -------------- | ------------- |
-| Norditropin PA | Genotropin    |
-| Omnitrope PA   | Humatrope     |
-|                | Nutropin      |
-|                | Saizen        |
-|                | Serostim      |
-|                | Skytrofa      |
-|                | Zomacton      |
+| Preferred                 | Non-Preferred |
+| ------------------------- | ------------- |
+| Genotropin <sup>PA</sup>  | Humatrope     |
+| Norditropin <sup>PA</sup> | Nutropin      |
+|                           | Omnitrope     |
+|                           | Saizen        |
+|                           | Serostim      |
+|                           | Skytrofa      |
+|                           | Zomacton      |
 
 [Link to Criteria: Endocrine Agents: Growth Hormone](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=54)
 
-Endocrine Agents: Osteoporosis- Bone Ossification Enhancers
+**Bone Ossification Enhancers**
 
-| Preferred         | Non-Preferred    |
-| ----------------- | ---------------- |
-| Alendronate Tab   | Alendronate Susp |
-| Calcitonin-Salmon | Fosamax Plus D   |
-| Forteo            | Risedronate      |
-| Ibandronate       | Tymlos           |
+| Preferred            | Non-Preferred    |
+| -------------------- | ---------------- |
+| Alendronate Tab      | Alendronate Susp |
+| Calcitonin-Salmon    | Fosamax Plus D   |
+| Forteo <sup>QL</sup> | Risedronate      |
+| Ibandronate          | Tymlos           |
 
 [Link to Criteria: Endocrine Agents: Osteoporosis - Bone Ossification Enhancers](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=57)
 
-Endocrine Agents: Progestin Agents
+**Progestin Agents**
 
-| Preferred                       | Non-Preferred |
-| ------------------------------- | ------------- |
-| Hydroxyprogesterone Caproate    |               |
-| Makena                          |               |
-| Medroxyprogesterone Acetate Tab |               |
-| Megestrol                       |               |
-| Norethindrone Acetate           |               |
-| Progesterone                    |               |
-| Progesterone In Oil             |               |
+| Preferred                                  | Non-Preferred |
+| ------------------------------------------ | ------------- |
+| Hydroxyprogesterone Caproate <sup>QL</sup> |               |
+| Makena <sup>QL</sup>                       |               |
+| Medroxyprogesterone Acetate Tab            |               |
+| Megestrol                                  |               |
+| Norethindrone Acetate                      |               |
+| Progesterone                               |               |
+| Progesterone In Oil                        |               |
 
 [Link to Criteria: Endocrine Agents: Progestin Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=58)
 
-Endocrine Agents: Uterine Fibroids
+**Uterine Fibroids**
 
-| Preferred                      | Non-Preferred |
-| ------------------------------ | ------------- |
-| Lupron Depot PA 3.75, 11.25 mg | Myfembree     |
-| Oriahnn PA                     |               |
+| Preferred                                 | Non-Preferred |
+| ----------------------------------------- | ------------- |
+| Lupron Depot <sup>PA</sup> 3.75, 11.25 MG |               |
+| Myfembree <sup>PA QL</sup>                |               |
+| Oriahnn <sup>PA QL</sup>                  |               |
 
 [Link to Criteria: Endocrine Agents: Uterine Fibroids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=59)
 
-Gastrointestinal Agents: Anti-Emetics
+## Gastrointestinal Agents
 
-| Preferred                  | Non-Preferred                   |
-| -------------------------- | ------------------------------- |
-| Aprepitant 40mg, 125mg     | Aprepitant 80 mg                |
-| Diclegis BvG               | Aprepitant TriPac               |
-| Dimenhydrinate             | Bonjesta                        |
-| Diphenhydramine            | Doxylamine/Pyridoxine 10mg/10mg |
-| Emend 125mg Susp           | Metoclopramide ODT              |
-| Emend 80mg BvG             | Sancuso                         |
-| Emend TriPac BvG Meclizine | Zuplenz                         |
-| Metoclopramide             |                                 |
-| Ondansetron                |                                 |
-| Phosphorated Carbohydrate  |                                 |
-| Prochlorperazine           |                                 |
-| Promethazine               |                                 |
-| Scopolamine                |                                 |
-| Trimethobenzamide          |                                 |
+**Anti-Emetics**
+
+| Preferred                   | Non-Preferred           |
+| --------------------------- | ----------------------- |
+| Aprepitant 40, 125 MG       | Aprepitant 80 MG        |
+| Diclegis <sup>BvG</sup>     | Aprepitant TriPac       |
+| Dimenhydrinate              | Bonjesta                |
+| Diphenhydramine             | Doxylamine / Pyridoxine |
+| Emend 125 MG Susp           | Metoclopramide ODT      |
+| Emend 80 MG <sup>BvG</sup>  | Sancuso                 |
+| Emend TriPac <sup>BvG</sup> | Zuplenz                 |
+| Meclizine                   |                         |
+| Metoclopramide              |                         |
+| Ondansetron                 |                         |
+| Phosphorated Carbohydrate   |                         |
+| Prochlorperazine            |                         |
+| Promethazine                |                         |
+| Scopolamine                 |                         |
+| Trimethobenzamide           |                         |
 
 [Link to Criteria: Gastrointestinal Agents: Anti-Emetics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=60)
 
-Gastrointestinal Agents: Crohn's Disease
+**Crohn's Disease**
 
 | Preferred         | Non-Preferred |
 | ----------------- | ------------- |
@@ -898,26 +905,26 @@ Gastrointestinal Agents: Crohn's Disease
 
 [Link to Criteria: Gastrointestinal Agents: Crohn's Disease](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=61)
 
-Gastrointestinal Agents: Hepatic Encephalopathy
+**Hepatic Encephalopathy**
 
-| Preferred  | Non-Preferred |
-| ---------- | ------------- |
-| Lactulose  |               |
-| Xifaxan ST |               |
+| Preferred             | Non-Preferred |
+| --------------------- | ------------- |
+| Lactulose             |               |
+| Xifaxan <sup>ST</sup> |               |
 
 [Link to Criteria: Gastrointestinal Agents: Hepatic Encephalopathy](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=62)
 
-Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea
+**Irritable Bowel Syndrome (IBS) with Diarrhea**
 
-| Preferred              | Non-Preferred |
-| ---------------------- | ------------- |
-| Diphenoxylate/Atropine | Alosetron     |
-| Loperamide             | Viberzi       |
-| Xifaxan ST             |               |
+| Preferred                | Non-Preferred |
+| ------------------------ | ------------- |
+| Diphenoxylate / Atropine | Alosetron     |
+| Loperamide <sup>QL</sup> | Viberzi       |
+| Xifaxan <sup>ST</sup>    |               |
 
 [Link to Criteria: Gastrointestinal Agents: Irritable Bowel Sydrome (IBS) with Diarrhea](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=63)
 
-Gastrointestinal Agents: Pancreatic Enzymes
+**Pancreatic Enzymes**
 
 | Preferred | Non-Preferred |
 | --------- | ------------- |
@@ -927,60 +934,62 @@ Gastrointestinal Agents: Pancreatic Enzymes
 
 [Link to Criteria: Gastrointestinal Agents: Pancreatic Enzymes](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=64)
 
-Gastrointestinal Agents: Proton Pump Inhibitors
+**Proton Pump Inhibitors**
 
-| Preferred           | Non-Preferred                 |
-| ------------------- | ----------------------------- |
-| Lansoprazole Cap    | Aciphex                       |
-| Nexium Granules BvG | Dexilant BvG                  |
-| Omeprazole Cap      | Esomeprazole                  |
-| Pantoprazole Tab    | Esomeprazole Granules         |
-| Protonix Pak AR BvG | Lansoprazole ODT              |
-|                     | Omeprazole Tab                |
-|                     | Omeprazole/Sodium Bicarbonate |
-|                     | Pantoprazole Packet           |
-|                     | Prilosec Susp                 |
-|                     | Protonix Susp AR              |
-|                     | Rabeprazole                   |
+| Preferred                      | Non-Preferred                   |
+| ------------------------------ | ------------------------------- |
+| Lansoprazole Cap               | Aciphex                         |
+| Nexium Granules <sup>BvG</sup> | Dexilant <sup>BvG</sup>         |
+| Omeprazole Cap <sup>AR</sup>   | Esomeprazole                    |
+| Pantoprazole Tab <sup>AR</sup> | Esomeprazole Granules           |
+| Protonix Pak <sup>AR BvG</sup> | Lansoprazole ODT                |
+|                                | Omeprazole Tab <sup>AR</sup>    |
+|                                | Omeprazole / Sodium Bicarbonate |
+|                                | Pantoprazole Packet             |
+|                                | Prilosec Susp                   |
+|                                | Rabeprazole                     |
 
 [Link to Criteria: Gastrointestinal Agents: Proton Pump Inhibitors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=65)
 
-Gastrointestinal Agents: Ulcerative Colitis
+**Ulcerative Colitis**
 
-| Preferred            | Non-Preferred     |
-| -------------------- | ----------------- |
-| Balsalazide Disodium | Dipentum          |
-| Budesonide ER Tab QL | Mesalamine DR Tab |
-| Lialda BvG           | Mesalamine Supp   |
-| Mesalamine DR Cap    | Uceris Foam       |
-| Mesalamine Enema     | Zeposia           |
-| Mesalamine ER        |                   |
-| Pentasa BvG          |                   |
-| Sulfasalazine        |                   |
+| Preferred                       | Non-Preferred             |
+| ------------------------------- | ------------------------- |
+| Balsalazide Disodium            | Dipentum                  |
+| Budesonide ER Tab <sup>QL</sup> | Mesalamine Supp           |
+| Mesalamine DR Cap               | Uceris Foam <sup>QL</sup> |
+| Mesalamine DR Tab               | Zeposia                   |
+| Mesalamine Enema                |                           |
+| Mesalamine ER                   |                           |
+| Pentasa <sup>BvG</sup>          |                           |
+| Sulfasalazine                   |                           |
 
 [Link to Criteria: Gastrointestinal Agents: Ulcerative Colitis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=66)
 
-Gastrointestinal Agents: Unspecified GI
+**Unspecified GI**
 
-| Preferred                    | Non-Preferred |
-| ---------------------------- | ------------- |
-| Amitiza BvG ST               | Aemcolo       |
-| Bisacodyl                    | Gattex        |
-| Casanthranol/Docusate Sodium | Ibsrela       |
-| Dicyclomine                  | Linzess 72mcg |
-| Diphenoxylate/Atropine       | Lubiprostone  |
-| Lactulose                    | Motegrity     |
-| Linzess ST 145, 290mcg       | Mytesi        |
-| Loperamide                   | Relistor      |
-| Movantik ST                  | Symproic      |
-| Polyethylene Glycol          | Trulance      |
-| Psyllium Fiber               | Zorbtive      |
-| Senna                        |               |
-| Xifaxan ST                   |               |
+| Preferred                          | Non-Preferred  |
+| ---------------------------------- | -------------- |
+| Amitiza <sup>BvG ST</sup>          | Aemcolo        |
+| Bisacodyl                          | Gattex         |
+| Casanthranol / Docusate Sodium     | Ibsrela        |
+| Dicyclomine                        | Linzess 72 MCG |
+| Diphenoxylate / Atropine           | Lubiprostone   |
+| Lactulose                          | Motegrity      |
+| Linzess <sup>ST</sup> 145, 290 MCG | Mytesi         |
+| Loperamide                         | Relistor       |
+| Movantik <sup>ST</sup>             | Symproic       |
+| Polyethylene Glycol                | Zorbtive       |
+| Psyllium Fiber                     |                |
+| Senna                              |                |
+| Trulance <sup>ST</sup>             |                |
+| Xifaxan ST                         |                |
  
 [Link to Criteria: Gastrointestinal Agents: Unspecified GI](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=67)
 
-Genitourinary Agents: Benign Prostatic Hyperplasia
+Genitourinary Agents: 
+
+Benign Prostatic Hyperplasia
 
 | Preferred             | Non-Preferred          |
 | --------------------- | ---------------------- |
