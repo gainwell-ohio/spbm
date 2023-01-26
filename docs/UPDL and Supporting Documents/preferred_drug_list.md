@@ -987,68 +987,69 @@
  
 [Link to Criteria: Gastrointestinal Agents: Unspecified GI](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=67)
 
-Genitourinary Agents: 
+## Genitourinary Agents 
 
-Benign Prostatic Hyperplasia
+**Benign Prostatic Hyperplasia**
 
-| Preferred             | Non-Preferred          |
-| --------------------- | ---------------------- |
-| Alfuzosin             | Cardura XL             |
-| Doxazosin             | Dutasteride/Tamsulosin |
-| Dutasteride           | Silodosin              |
-| Finasteride           |                        |
-| Prazosin              |                        |
-| Tadalafil PA 2.5, 5mg |                        |
-| Tamsulosin            |                        |
-| Terazosin             |                        |
+| Preferred                         | Non-Preferred            |
+| --------------------------------- | ------------------------ |
+| Alfuzosin                         | Cardura XL               |
+| Doxazosin                         | Dutasteride / Tamsulosin |
+| Dutasteride                       | Silodosin                |
+| Finasteride                       |                          |
+| Prazosin                          |                          |
+| Tadalafil <sup>PA</sup> 2.5, 5 MG |                          |
+| Tamsulosin                        |                          |
+| Terazosin                         |                          |
 
 [Link to Criteria: Genitourinary Agents: Benign Prostatic Hyperplasia](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=68)
 
-Genitourinary Agents: Electrolyte Depleter Agents
+**Electrolyte Depleter Agents**
 
 | Preferred          | Non-Preferred       |
 | ------------------ | ------------------- |
 | Calcium Acetate    | Auryzia             |
 | Calcium Carbonate  | Lanthanum Carbonate |
-| Phoslyra Sevelamer | Velphoro            |
+| Phoslyra           | Velphoro            |
+| Sevelamer          |                     |
 
 [Link to Criteria: Genitourinary Agents: Electrolyte Depleter Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=69)
 
 Genitourinary Agents: Urinary Antispasmodics
 
-| Preferred         | Non-Preferred         |
-| ----------------- | --------------------- |
-| Gelnique          | Darifenacin           |
-| Myrbetriq Tab     | Fesoterodine          |
-| Oxybutynin        | Gemtesa               |
-| Oxytrol For Women | Myrbetriq Granules AR |
-| Solifenacin       | Tolterodine           |
-| Toviaz BvG        | Trospium              |
-|                   | Vesicare LS AR        |
+| Preferred                 | Non-Preferred                    |
+| ------------------------- | -------------------------------- |
+| Gelnique                  | Darifenacin <sup>QL</sup>        |
+| Myrbetriq Tab             | Fesoterodine                     |
+| Oxybutynin <sup>QL</sup>  | Gemtesa                          |
+| Oxytrol                   | Myrbetriq Granules <sup>AR</sup> |
+| Solifenacin <sup>QL</sup> | Tolterodine                      |
+| Toviaz <sup>BvG</sup>     | Trospium <sup>QL</sup>           |
+|                           | Vesicare LS <sup>AR</sup>        |
 
 [Link to Criteria: Genitourinary Agents: Urinary Antispasmodics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=70)
 
-Immunomodulator Agents for Systemic Inflammatory Disease
+## Immunomodulator Agents
 
-| Preferred     | Non-Preferred   |
-| ------------- | --------------- |
-| Enbrel PA     | Actemra         |
-| Humira PA     | Adbry           |
-| Kineret PA    | Cibinqo         |
-| Otezla PA     | Cimzia          |
-| Taltz PA ST   | Cosentyx        |
-| Xeljanz IR PA | Dupixent        |
-|               | Ilumya          |
-|               | Kevzara         |
-|               | Olumiant        |
-|               | Orencia         |
-|               | Rinvoq          |
-|               | Siliq           |
-|               | Simponi         |
-|               | Skyrizi         |
-|               | Stelara         |
-|               | Tremfya         |
-|               | Xeljanz Sol, XR |
+**Systemic Inflammatory Disease**
+
+| Preferred                | Non-Preferred   |
+| ------------------------ | --------------- |
+| Adbry <sup>PA</sup>      | Actemra         |
+| Enbrel <sup>PA</sup>     | Cibinqo         |
+| Dupixent <sup>PA</sup>   | Cimzia          |
+| Humira <sup>PA</sup>     | Cosentyx        |
+| Kineret <sup>PA</sup>    | Ilumya          |
+| Otezla <sup>PA</sup>     | Kevzara         |
+| Taltz <sup>PA ST</sup>   | Olumiant        |
+| Xeljanz IR <sup>PA</sup> | Orencia         |
+|                          | Rinvoq          |
+|                          | Siliq           |
+|                          | Simponi         |
+|                          | Skyrizi         |
+|                          | Stelara         |
+|                          | Tremfya         |
+|                          | Xeljanz Sol, XR |
 
 [Link to Criteria: Immunomodulator Agents for Systemic Inflammatory Disease](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=71)
 
