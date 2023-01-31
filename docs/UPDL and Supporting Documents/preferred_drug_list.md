@@ -1015,7 +1015,7 @@
 
 [Link to Criteria: Genitourinary Agents: Electrolyte Depleter Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=69)
 
-Genitourinary Agents: Urinary Antispasmodics
+**Urinary Antispasmodics**
 
 | Preferred                 | Non-Preferred                    |
 | ------------------------- | -------------------------------- |
@@ -1053,67 +1053,71 @@ Genitourinary Agents: Urinary Antispasmodics
 
 [Link to Criteria: Immunomodulator Agents for Systemic Inflammatory Disease](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=71)
 
-Infectious Disease Agents: Antibiotics - Cephalosporins
+## Infectious Disease Agents
 
-| Preferred             | Non-Preferred          |
-| --------------------- | ---------------------- |
-| Cefadroxil            | Cephalexin 750mg       |
-| Cephalexin 250, 500mg | Cefpodoxime            |
-| Cefaclor              | Cefixime Cap           |
-| Cefaclor ER           | Cefixime Susp AR       |
-| Cefaclor Susp AR      | Suprax Chewable Tab AR |
-| Cefprozil             |                        |
-| Cefprozil Susp AR     |                        |
-| Cefuroxime            |                        |
-| Cefdinir              |                        |
+**Antibiotics - Cephalosporins**
+
+| Preferred                    | Non-Preferred                     |
+| ---------------------------- | --------------------------------- |
+| Cefadroxil                   | Cephalexin 750 MG                 |
+| Cephalexin 250, 500 MG       | Cefpodoxime                       |
+| Cefaclor IR                  | Cefixime Cap                      |
+| Cefaclor ER                  | Cefixime Susp <sup>AR</sup>       |
+| Cefaclor Susp <sup>AR</sup>  | Suprax Chewable Tab <sup>AR</sup> |
+| Cefprozil                    |                                   |
+| Cefprozil Susp <sup>AR</sup> |                                   |
+| Cefuroxime                   |                                   |
+| Cefdinir                     |                                   |
 
 [Link to Criteria: Infectious Disease Agents: Antibiotics - Cephalosporins](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=73)
 
-Infectious Disease Agents: Antibiotics - Inhaled
+**Antibiotics - Inhaled**
 
-| Preferred        | Non-Preferred    |
-| ---------------- | ---------------- |
-| Arikayce PA QL   | Bethkis AR       |
-| Tobramycin AR PA | Cayston AR       |
-|                  | Kitabis Pak AR   |
-|                  | Tobi Podhaler AR |
+| Preferred                   | Non-Preferred               |
+| --------------------------- | --------------------------- |
+| Tobramycin <sup>PA QL</sup> | Arikayce                    |
+|                             | Bethkis <sup>QL</sup>       |
+|                             | Cayston                     |
+|                             | Kitabis Pak <sup>QL</sup>   |
+|                             | Tobi Podhaler <sup>QL</sup> |
 
 [Link to Criteria: Infectious Disease Agents: Antibiotics - Inhaled](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=74)
  
-Infectious Disease Agents: Antibiotics - Macrolides
+**Antibiotics - Macrolides**
 
 | Preferred      | Non-Preferred       |
 | -------------- | ------------------- |
-| Azithromycin   | Baxdela             |
+| Azithromycin   | Eryped              |
 | Clarithromycin | Erythrocin Stearate |
 |                | Erythromycin        |
 
 [Link to Criteria: Infectious Disease Agents: Antibiotics - Macrolides](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=75)
 
-Infectious Disease Agents: Antibiotics - Quinolones
+**Antibiotics - Quinolones**
 
-| Preferred             | Non-Preferred    |
-| --------------------- | ---------------- |
-| Ciprofloxacin         | Baxdela          |
-| Ciprofloxacin Susp AR | Ciprofloxacin ER |
-| Levofloxacin          | Moxifloxacin     |
-|                       | Ofloxacin        |
+| Preferred                        | Non-Preferred    |
+| -------------------------------- | ---------------- |
+| Ciprofloxacin                    | Baxdela          |
+| Ciprofloxacin Susp <sup>AR</sup> | Ciprofloxacin ER |
+| Levofloxacin                     | Moxifloxacin     |
+|                                  | Ofloxacin        |
 
 [Link to Criteria: Infectious Disease Agents: Antibiotics - Quinolones](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=76)
 
-Infectious Disease Agents: Antibiotics - Tetracyclines
+**Antibiotics - Tetracyclines**
 
-| Preferred             | Non-Preferred                 |
-| --------------------- | ----------------------------- |
-| Doxycycline 50, 100mg | Doxycycline 20, 40, 75, 150mg |
-| Doxycycline Syr       | Doxycycline DR                |
-| Minocycline Cap       | Minocycline ER                |
-| Tetracycline          | Minocycline Tab               |
-| Vibramycin Susp AR    | Nuzyra                        |
+| Preferred                     | Non-Preferred                  |
+| ----------------------------- | ------------------------------ |
+| Doxycycline 50, 100 MG        | Demeclocycline                 |
+| Doxycycline Syr <sup>AR</sup> | Doxycycline 20, 40, 75, 150 MG |
+| Minocycline Cap               | Doxycycline DR                 |
+| Tetracycline                  | Minocycline IR                 |
+| Vibramycin Susp <sup>AR</sup> | Minocycline ER Tab             |
+|                               | Nuzyra                         |
 
 [Link to Criteria: Infectious Disease Agents: Antibiotics - Tetracyclines](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=77)
 
-Infectious Disease Agents: Antifungals
+**Antifungals**
 
 | Preferred    | Non-Preferred |
 | ------------ | ------------- |
@@ -1128,19 +1132,19 @@ Infectious Disease Agents: Antifungals
 
 [Link to Criteria: Infectious Disease Agents: Antifungals](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=78)
 
-Infectious Disease Agents: Antivirals - Hepatitis C Agents
+**Antivirals - Hepatitis C Agents**
 
-| Preferred                 | Non- Preferred                      |
-| ------------------------- | ----------------------------------- |
-| Mavyret PA                | Harvoni 33.75-150, 45-200, 90-400mg |
-| Pegasys PA                | Ledipasvir/Sofosbuvir               |
-| Ribavirin PA              | Sovaldi                             |
-| Sofosbuvir/Velpatasvir PA | Vosevi                              |
-|                           | Zepatier                            |
+| Preferred                              | Non-Preferred           |
+| -------------------------------------- | ----------------------- |
+| Mavyret <sup>PA</sup>                  | Harvoni                 |
+| Pegasys <sup>PA</sup>                  | Ledipasvir / Sofosbuvir |
+| Ribavirin <sup>PA</sup>                | Sovaldi                 |
+| Sofosbuvir / Velpatasvir <sup>PA</sup> | Vosevi                  |
+|                                        | Zepatier                |
 
 [Link to Criteria: Infectious Disease Agents: Antivirals - Hepatitis C Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=79)
 
-Infectious Disease Agents: Antivirals - Herpes
+**Antivirals - Herpes**
 
 | Preferred    | Non-Preferred |
 | ------------ | ------------- |
@@ -1149,122 +1153,125 @@ Infectious Disease Agents: Antivirals - Herpes
 
 [Link to Criteria: Infectious Disease Agents: Antivirals - Herpes](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=80)
 
-Infectious Disease Agents: Antivirals - HIV*
+**Antivirals - HIV***
 
-| Preferred                                   | Non-Preferred                                      |
-| ------------------------------------------- | -------------------------------------------------- |
-| Abacavir Sulfate                            | Abacavir Susp                                      |
-| Abacavir/Lamivudine                         | Abacavir/Lamivudine/Zidovudine                     |
-| Atazanavir Sulfate                          | Aptivus                                            |
-| Biktarvy                                    | Didanosine                                         |
-| Cimduo                                      | Edurant                                            |
-| Complera                                    | Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate |
-| Delstrigo                                   | Emtricitabine                                      |
-| Descovy                                     | Fosamprenavir                                      |
-| Dovato                                      | Fuzeon                                             |
-| Efavirenz                                   | Intelence BvG                                      |
-| Efavirenz/Emtricitabine/Tenofovir           | Lamivudine                                         |
-| Emtricitabine/Tenofovir Disoproxil Fumarate | Lamivudine/Zidovudine                              |
-| Emtriva BvG                                 | Lopinavir/Ritonavir                                |
-| Evotaz                                      | Nevirapine                                         |
-| Genvoya                                     | Norvir Powder, Sol                                 |
-| Isentress Chew Tab AR                       | Ritonavir Tab                                      |
-| Isentress                                   | Selzentry BvG                                      |
-| Juluca                                      | Stavudine                                          |
-| Kaletra Tab BvG                             | Stribild                                           |
-| Norvir Tab BvG                              | Symtuza                                            |
-| Odefsey                                     | Tybost                                             |
-| Pifeltro                                    | Viracept                                           |
-| Prezcobix                                   |                                                    |
-| Prezista                                    |                                                    |
-| Rukobia ER PA                               |                                                    |
-| Symfi BvG                                   |                                                    |
-| Symfi Lo BvG                                |                                                    |
-| Temixys                                     |                                                    |
-| Tenofovir Disoproxil 300mg                  |                                                    |
-| Tivicay                                     |                                                    |
-| Tivicay PD                                  |                                                    |
-| Triumeq                                     |                                                    |
-| Triumeq PD PA                               |                                                    |
-| Viread                                      |                                                    |
-| Viread Oral Powder                          |                                                    |
-| Zidovudine                                  |                                                    |
+| Preferred                                     | Non-Preferred                                          |
+| --------------------------------------------- | ------------------------------------------------------ |
+| Abacavir Sulfate                              | Abacavir Susp                                          |
+| Abacavir / Lamivudine                         | Abacavir / Lamivudine / Zidovudine                     |
+| Atazanavir Sulfate                            | Aptivus                                                |
+| Biktarvy                                      | Didanosine                                             |
+| Cimduo                                        | Edurant                                                |
+| Complera                                      | Efavirenz / Lamivudine / Tenofovir Disoproxil Fumarate |
+| Delstrigo                                     | Emtricitabine                                          |
+| Descovy                                       | Fosamprenavir                                          |
+| Dovato                                        | Fuzeon                                                 |
+| Efavirenz                                     | Intelence <sup>BvG</sup>                               |
+| Efavirenz / Emtricitabine / Tenofovir         | Lamivudine Tab                                         |
+| Emtricitabine / Tenofovir Disoproxil Fumarate | Lamivudine Sol <sup>AR</sup>                           |
+| Emtriva <sup>BvG</sup>                        | Lamivudine / Zidovudine                                |
+| Evotaz                                        | Nevirapine IR                                          |
+| Genvoya                                       | Nevirapine ER Tab                                      |
+| Isentress Chew Tab <sup>AR</sup>              | Nevirapine Sol <sup>AR</sup>                           |
+| Isentress                                     | Norvir Powder, Sol                                     |
+| Juluca                                        | Selzentry <sup>BvG</sup>                               |
+| Lopinavir / Ritonavir                         | Stavudine                                              |
+| Odefsey                                       | Stribild                                               |
+| Pifeltro                                      | Tybost                                                 |
+| Prezcobix                                     | Viracept                                               |
+| Prezista                                      |                                                        |
+| Ritonavir Tab                                 |                                                        |
+| Rukobia ER <sup>PA</sup>                      |                                                        |
+| Symfi <sup>BvG</sup>                          |                                                        |
+| Symfi Lo <sup>BvG</sup>                       |                                                        |
+| Symtuza                                       |                                                        |
+| Temixys                                       |                                                        |
+| Tenofovir Disoproxil Fumarate 300 MG          |                                                        |
+| Tivicay                                       |                                                        |
+| Tivicay PD                                    |                                                        |
+| Triumeq                                       |                                                        |
+| Triumeq PD <sup>PA</sup>                      |                                                        |
+| Viread Tab                                    |                                                        |
+| Viread Powder                                 |                                                        |
+| Zidovudine                                    |                                                        |
 
 
 [Link to Criteria: Infectious Disease Agents: Antivirals - HIV](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=81)
 
-Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments
+## Ophthalmic Agents
 
-| Preferred                                    | Non-Preferred                     |
-| -------------------------------------------- | --------------------------------- |
-| Bacitracin-Polymyxin                         | Azasite                           |
-| Ciloxan                                      | Bacitracin                        |
-| Ciprofloxacin                                | Besivance                         |
-| Erythromycin                                 | Blephamide                        |
-| Gentamicin                                   | Gatifloxacin                      |
-| Moxifloxacin                                 | Levofloxacin                      |
-| Neomycin/Polymyxin/Bacitracin                | Moxifloxacin (Generic of Moxeza)  |
-| Neomycin/Polymyxin/Bacitracin/Hydrocortisone | Neomycin/Polymyxin/Hydrocortisone |
-| Neomycin/Polymyxin/Dexamethasone             | Pred-G                            |
-| Neomycin/Polymyxin/Gramicidin                | Tobradex ST BvG                   |
-| Ofloxacin                                    | Tobramycin/Dexamethasone 0.3/0.1% |
-| Polymyxin/Trimethoprim                       | Zylet                             |
-| Sulfacetamide Sodium Ophth Sol 10%           |                                   |
-| Sulfacetamide/Prednisolone                   |                                   |
-| Tobradex BvG                                 |                                   |
-| Tobramycin                                   |                                   |
+**Antibiotic and Antibiotic-Steroid Combination Drops and Ointments**
+
+| Preferred                                          | Non-Preferred                         |
+| -------------------------------------------------- | ------------------------------------- |
+| Bacitracin-Polymyxin                               | Azasite                               |
+| Ciloxan                                            | Bacitracin                            |
+| Ciprofloxacin                                      | Besivance                             |
+| Erythromycin                                       | Blephamide                            |
+| Gentamicin                                         | Gatifloxacin                          |
+| Moxifloxacin                                       | Levofloxacin                          |
+| Neomycin / Polymyxin / Bacitracin                  | Moxifloxacin (Generic of Moxeza)      |
+| Neomycin / Polymyxin / Bacitracin / Hydrocortisone | Neomycin / Polymyxin / Hydrocortisone |
+| Neomycin / Polymyxin / Dexamethasone               | Pred-G                                |
+| Neomycin / Polymyxin / Gramicidin                  | Sulfacetamide Sodium Ophth Oint 10%   |
+| Ofloxacin                                          | Tobradex ST <sup>BvG</sup>            |
+| Polymyxin / Trimethoprim                           | Tobramycin / Dexamethasone 0.3 / 0.1% |
+| Sulfacetamide Sodium Ophth Sol 10%                 | Zylet                                 |
+| Sulfacetamide / Prednisolone                       |                                       |
+| Tobradex <sup>BvG</sup>                            |                                       |
+| Tobramycin                                         |                                       |
  
 [Link to Criteria: Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=82)
  
-Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers
+**Antihistamines & Mast Cell Stabilizers**
 
-| Preferred   | Non-Preferred |
-| ----------- | ------------- |
-| Azelastine  | Alocril       |
-| Cromolyn    | Alomide       |
-| Ketotifen   | Bepreve BvG   |
-| Olopatadine | Epinastine    |
-|             | Zerviate      |
+| Preferred              | Non-Preferred |
+| ---------------------- | ------------- |
+| Azelastine             | Alocril       |
+| Bepreve <sup>BvG</sup> | Alomide       |
+| Cromolyn               | Epinastine    |
+| Ketotifen              | Zerviate      |
+| Olopatadine            |               |
 
 [Link to Criteria: Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=83)
 
-Ophthalmic Agents: Dry Eye Treatments
+**Dry Eye Treatments**
 
-| Preferred             | Non-Preferred       |
-| --------------------- | ------------------- |
-| Restasis Trays BvG ST | Cequa               |
-|                       | Eysuvis             |
-|                       | Restasis Multi-Dose |
-|                       | Tyrvaya             |
-|                       | Xiidra              |
+| Preferred                        | Non-Preferred       |
+| -------------------------------- | ------------------- |
+| Restasis Trays <sup>BvG ST</sup> | Cequa               |
+|                                  | Eysuvis             |
+|                                  | Restasis Multi-Dose |
+|                                  | Tyrvaya             |
+|                                  | Xiidra              |
 
 [Link to Criteria: Ophthalmic Agents: Dry Eye Treatments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=84)
 
-Ophthalmic Agents: Glaucoma Agents
+**Glaucoma Agents**
 
-| Preferred            | Non-Preferred     |
-| -------------------- | ----------------- |
-| Alphagan P 0.1% ST   | Apraclonidine     |
-| Alphagan P 0.15% BvG | Betoptic S        |
-| Azopt BvG ST         | Bimatoprost       |
-| Betaxolol            | Brimonidine 0.15% |
-| Brimonidine 0.2%     | Brinzolamide      |
-| Carteolol            | Iopidine          |
-| Combigan BvG ST      | Istalol           |
-| Dorzolamide          | Lumigan           |
-| Dorzolamide/Timolol  | Travoprost        |
-| Latanoprost          | Vyzulta           |
-| Levobunolol          | Xelpros           |
-| Metipranolol         | Zioptan           |
-| Rhopressa            |                   |
-| Rocklatan            |                   |
-| Simbrinza            |                   |
-| Timolol              |                   |
-| Travatan Z BvG ST    |                   |
+| Preferred                       | Non-Preferred     |
+| ------------------------------- | ----------------- |
+| Alphagan P 0.1%                 | Apraclonidine     |
+| Alphagan P 0.15% <sup>BvG</sup> | Betoptic S        |
+| Azopt <sup>BvG ST</sup>         | Bimatoprost       |
+| Betaxolol                       | Brimonidine 0.15% |
+| Brimonidine 0.2%                | Brinzolamide      |
+| Carteolol                       | Iopidine          |
+| Combigan <sup>BvG ST</sup>      | Istalol           |
+| Dorzolamide                     | Lumigan           |
+| Dorzolamide / Timolol           | Travoprost        |
+| Latanoprost                     | Vyzulta           |
+| Levobunolol                     | Xelpros           |
+| Metipranolol                    | Zioptan           |
+| Rhopressa                       |                   |
+| Rocklatan                       |                   |
+| Simbrinza                       |                   |
+| Timolol                         |                   |
+| Travatan Z <sup>BvG ST</sup>    |                   |
 
 [Link to Criteria: Ophthalmic Agents: Glaucoma Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=85)
 
-Ophthalmic Agents: NSAIDs
+**NSAIDs**
 
 | Preferred    | Non-Preferred |
 | ------------ | ------------- |
@@ -1277,30 +1284,37 @@ Ophthalmic Agents: NSAIDs
 
 [Link to Criteria: Ophthalmic Agents: NSAIDs](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=86)
 
-Ophthalmic Agents: Ophthalmic Steroids
+**Ophthalmic Steroids**
 
 | Preferred                      | Non-Preferred |
 | ------------------------------ | ------------- |
-| Dexamethasone Sodium Phosphate | Alrex BvG     |
-| Durezol BvG                    | Difluprednate |
-| Fluorometholone                | Flarex        |
-| Fml Forte                      | Inveltys      |
-| Fml S.O.P.                     | Lotemax BvG   |
-| Pred Mild                      | Lotemax SM    |
-| Prednisolone Acetate           | Loteprednol   |
-| Prednisolone Sodium Phosphate  | Maxidex       |
+| Alrex <sup>BvG</sup>           | Difluprednate |
+| Dexamethasone Sodium Phosphate | Inveltys      |
+| Durezol <sup>BvG</sup>         | Lotemax SM    |
+| Flarex                         | Loteprednol   |
+| Fluorometholone                |               |
+| Fml Forte                      |               |
+| Fml S.O.P.                     |               |
+| Lotemax <sup>BvG</sup>         |               |
+| Maxidex <sup>BvG</sup>         |               |
+| Pred Forte                     |               |
+| Pred Mild                      |               |
+| Prednisolone Acetate           |               |
+| Prednisolone Sodium Phosphate  |               |
 
 [Link to Criteria: Ophthalmic Agents: Ophthalmic Steroids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=87)
 
-Otic Agents: Antibacterial and Antibacterial/Steroid Combinations
+## Otic Agents
 
-| Preferred                           | Non-Preferred               |
-| ----------------------------------- | --------------------------- |
-| Cipro HC                            | Ciprofloxacin               |
-| Ciprodex BvG                        | Ciprofloxacin/Dexamethasone |
-| Cortisporin-TC                      | Ciprofloxacin/Fluocinolone  |
-| Neomycin/Polymyxin B/Hydrocortisone |                             |
-| Ofloxacin                           |                             |
+**Antibacterial and Antibacterial/Steroid Combinations**
+
+| Preferred                           | Non-Preferred                 |
+| ----------------------------------- | ----------------------------- |
+| Cipro HC                            | Ciprofloxacin                 |
+| Ciprodex <sup>BvG</sup>             | Ciprofloxacin / Dexamethasone |
+| Cortisporin-TC                      | Ciprofloxacin / Fluocinolone  |
+| Neomycin/Polymyxin B/Hydrocortisone |                               |
+| Ofloxacin                           |                               |
 
 [Link to Criteria: Otic Agents: Antibacterial and Antibacterial/Steroid Combinations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=88)
 
