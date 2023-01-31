@@ -58,7 +58,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Elepsia XR                      |                                          |                           |                           |
 | Felbamate                       |                                          |                           |                           |
 | Fintepla                        |                                          |                           |                           |
-| Lacosamide                      |                                          |                           |                           |
 | Lacosamide Soln                 | Lacosamide Oral Solution (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 | Lamotrigine ER                  |                                          |                           |                           |
 | Lamotrigine ODT                 |                                          |                           |                           |
