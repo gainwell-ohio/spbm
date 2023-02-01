@@ -4,12 +4,12 @@
 
 **Gout**
 
-| Preferred                    | Non-Preferred                          |
-| ---------------------------- | -------------------------------------- |
-| Allopurinol <sup>QL</sup>    | Mitigare <sup>BvG QL</sup>             |
-| Colchicine Tab PA QL         | Febuxostat                             |
-| Colcrys Tab <sup>PA QL</sup> | Gloperba Susp <sup>QL</sup>            |
-| Probenecid <sup>QL</sup>     | Probenecid / Colchicine  <sup>QL</sup> |
+| Preferred                       | Non-Preferred                          |
+| ------------------------------- | -------------------------------------- |
+| Allopurinol <sup>QL</sup>       | Mitigare <sup>BvG QL</sup>             |
+| Colchicine Tab <sup>PA QL</sup> | Febuxostat                             |
+| Colcrys Tab <sup>PA QL</sup>    | Gloperba Susp <sup>QL</sup>            |
+| Probenecid <sup>QL</sup>        | Probenecid / Colchicine  <sup>QL</sup> |
  
 [Link to Criteria: Analgesic Agents: Gout](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=6)
 
@@ -21,9 +21,9 @@
 | Diclofenac IR               | Diclofenac Patch 1.3%              |
 | Diclofenac DR               | Diclotrex                          |
 | Diclofenac ER               | Elyxyb                             |
-| Diclofenac Gel 1%           | Fenoprofen 400mg                   |
+| Diclofenac Gel 1%           | Fenoprofen 400 MG                  |
 | Etodolac                    | Ibuprofen / Famotidine             |
-| Fenoprofen 600mg            | Ketorolac Tromethamine Nasal Spray |
+| Fenoprofen 600 MG           | Ketorolac Tromethamine Nasal Spray |
 | Flurbiprofen                | Ketoprofen                         |
 | Ibuprofen                   | Licart Patch                       |
 | Indocin                     | Meloxicam Cap                      |
@@ -167,6 +167,7 @@
 | Prasugrel <sup>QL</sup>   |               |
 
 [Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=15)
+## Cardiovascular Agents
 
 **Angina, Hypertension and Heart Failure**
 
@@ -1318,32 +1319,34 @@
 
 [Link to Criteria: Otic Agents: Antibacterial and Antibacterial/Steroid Combinations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=88)
 
-Respiratory Agents: Antihistamines - Second Generation
+## Respiratory Agents
 
-| Preferred                  | Non-Preferred       |
-| -------------------------- | ------------------- |
-| Cetirizine Syr             | Cetirizine Chewable |
-| Cetirizine Tab             | Clarinex-D          |
-| Cetirizine/Pseudoephedrine | Desloratadine       |
-| Loratadine Rapid Dissolve  | Fexofenadine        |
-| Loratadine Syr             | Levocetirizine      |
-| Loratadine Tab             |                     |
-| Loratadine/Pseudoephedrine |                     |
+**Antihistamines - Second Generation**
+
+| Preferred                               | Non-Preferred                     |
+| --------------------------------------- | --------------------------------- |
+| Cetirizine Syr <sup>QL</sup>            | Cetirizine Chewable <sup>AR</sup> |
+| Cetirizine Tab <sup>QL</sup>            | Clarinex-D                        |
+| Cetirizine / Pseudoephedrine            | Desloratadine                     |
+| Loratadine Rapid Dissolve <sup>QL</sup> | Fexofenadine                      |
+| Loratadine Syr <sup>QL</sup>            | Levocetirizine                    |
+| Loratadine Tab <sup>QL</sup>            |                                   |
+| Loratadine / Pseudoephedrine            |                                   |
 
 [Link to Criteria: Respiratory Agents: Antihistamines - Second Generation](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=89)
 
-Respiratory Agents: Cystic Fibrosis
+**Cystic Fibrosis**
 
-| Preferred   | Non-Preferred |
-| ----------- | ------------- |
-| Kalydeco PA | Bronchitol    |
-| Orkambi PA  |               |
-| Symdeko PA  |               |
-| Trikafta PA |               |
+| Preferred                 | Non-Preferred |
+| ------------------------- | ------------- |
+| Kalydeco <sup>PA QL</sup> | Bronchitol    |
+| Orkambi <sup>PA QL</sup>  |               |
+| Symdeko <sup>PA QL</sup>  |               |
+| Trikafta <sup>PA</sup>    |               |
 
 [Link to Criteria: Respiratory Agents: Cystic Fibrosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=90)
 
-Respiratory Agents: Eninephrine Auto-Injectors
+**Eninephrine Auto-Injectors**
 
 | Preferred                   | Non-Preferred |
 | --------------------------- | ------------- |
@@ -1352,157 +1355,160 @@ Respiratory Agents: Eninephrine Auto-Injectors
 
 [Link to Criteria: Respiratory Agents: Eninephrine Auto-Injectors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=91)
 
-Respiratory Agents: Hereditary Angioedema
+**Hereditary Angioedema**
 
-| Preferred   | Non-Preferred     |
-| ----------- | ----------------- |
-| Haegarda PA | Berinert          |
-| Ruconest PA | Cinryze           |
-| Takhzyro PA | Icatibant Acetate |
-|             | Kalbitor          |
+| Preferred              | Non-Preferred     |
+| ---------------------- | ----------------- |
+| Haegarda <sup>PA</sup> | Berinert          |
+| Ruconest <sup>PA</sup> | Cinryze           |
+| Takhzyro <sup>PA</sup> | Icatibant Acetate |
+|                        | Kalbitor          |
 
 [Link to Criteria: Respiratory Agents: Hereditary Angioedema](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=92)
 
-Respiratory Agents: Inhaled Agents
+**Inhaled Agents**
 
-| Preferred                                       | Non-Preferred              |
-| ----------------------------------------------- | -------------------------- |
-| Advair Diskus BvG                               | Aerospan HFA               |
-| Advair HFA                                      | Airduo Digihaler           |
-| Albuterol Nebulizer Sol 0.083%, 0.5% Conc       | Airduo Respiclick          |
-| Albuterol Nebulizer Sol 0.42mg/ml, 0.63mg/ml AR | Albuterol HFA              |
-| Anoro Ellipta                                   | Alvesco                    |
-| Asmanex Twisthaler                              | Armonair Digihaler         |
-| Atrovent HFA                                    | Armonair Respiclick        |
-| Budesonide Nebulizer Sol AR                     | Arnuity Ellipta            |
-| Combivent Respimat                              | Asmanex HFA                |
-| Cromolyn Neb Sol                                | Bevespi Aerosphere         |
-| Dulera                                          | Breo Ellipta BvG           |
-| Flovent BvG                                     | Breztri Aerosphere         |
-| Incruse Ellipta                                 | Brovana BvG                |
-| Ipratropium                                     | Budesonide/Formoterol      |
-| Ipratropium/Albuterol Nebulizer Sol             | Duaklir Pressair           |
-| Proventil HFA BvG                               | Fluticasone/Salmeterol     |
-| Pulmicort Flexhaler                             | Levalbuterol Nebulizer Sol |
-| Serevent Diskus                                 | Lonhala Magnair            |
-| Spiriva                                         | Perforomist BvG            |
-| Stiolto                                         | Proair Digihaler           |
-| Striverdi Respimat                              | Proair Respiclick          |
-| Symbicort BvG                                   | Qvar                       |
-| Ventolin HFA BvG                                | Trelegy Ellipta            |
-|                                                 | Tudorza                    |
-|                                                 | Wixela Inhub               |
-|                                                 | Xopenex HFA                |
-|                                                 | Yupelri                    |
+| Preferred                                                                              | Non-Preferred                         |
+| -------------------------------------------------------------------------------------- | ------------------------------------- |
+| Advair Diskus <sup>BvG</sup>                                                           | Aerospan HFA                          |
+| Advair HFA                                                                             | Airduo Digihaler                      |
+| Albuterol Nebulizer Sol 0.021% (0.63 MG / 3 ML), 0.042% (1.25 MG / 3 ML) <sup>AR</sup> | Airduo Respiclick                     |
+| Albuterol Nebulizer Sol 0.083% (2.5 MG / 3 ML), 0.5% (5 MG / ML) Conc                  | Albuterol HFA                         |
+| Anoro Ellipta                                                                          | Alvesco                               |
+| Asmanex Twisthaler                                                                     | Armonair Digihaler                    |
+| Atrovent HFA <sup>QL</sup>                                                             | Armonair Respiclick                   |
+| Budesonide Nebulizer Sol <sup>AR QL</sup>                                              | Arnuity Ellipta                       |
+| Combivent Respimat                                                                     | Asmanex HFA                           |  
+| Cromolyn Neb Sol                                                                       | Bevespi Aerosphere                    |
+| Dulera                                                                                 | Breo Ellipta <sup>BvG</sup>           |
+| Flovent <sup>BvG QL</sup>                                                              | Breztri Aerosphere                    |
+| Incruse Ellipta                                                                        | Brovana <sup>BvG</sup>                |
+| Ipratropium                                                                            | Budesonide / Formoterol <sup>QL</sup> |
+| Ipratropium / Albuterol Nebulizer Sol <sup>QL</sup>                                    | Duaklir Pressair                      |
+| Proventil HFA <sup>BvG</sup>                                                           | Fluticasone / Salmeterol              |
+| Pulmicort Flexhaler <sup>QL</sup>                                                      | Formoterol Fumarate Nebulizer Sol     |
+| Serevent Diskus                                                                        | Levalbuterol Nebulizer Sol            |
+| Spiriva <sup>QL</sup>                                                                  | Lonhala Magnair                       |
+| Stiolto                                                                                | Proair Digihaler                      |
+| Striverdi Respimat                                                                     | Proair Respiclick                     |
+| Symbicort <sup>BvG QL</sup>                                                            | Qvar <sup>QL</sup>                    |
+| Ventolin HFA <sup>BvG</sup>                                                            | Trelegy Ellipta                       |
+|                                                                                        | Tudorza                               |
+|                                                                                        | Wixela Inhub                          |
+|                                                                                        | Xopenex HFA                           |
+|                                                                                        | Yupelri                               |
 
 [Link to Criteria: Respiratory Agents Inhaled Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=93)
 
-Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors
+**Leukotriene Receptor Modifiers & Inhibitors**
 
-| Preferred      | Non-Preferred |
-| -------------- | ------------- |
-| Montelukast    | Zileuton      |
-| Zafirlukast ST | Zyflo         |
+| Preferred                 | Non-Preferred |
+| ------------------------- | ------------- |
+| Montelukast <sup>QL</sup> | Zileuton      |
+| Zafirlukast <sup>ST</sup> | Zyflo         |
 
 [Link to Criteria: Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=94)
 
-Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE
+**Monoclonal Antibodies-Anti-IL/Anti-IgE**
 
-| Preferred  | Non-Preferred |
-| ---------- | ------------- |
-| Fasenra PA | Dupixent      |
-| Nucala PA  | Tezspire      |
-| Xolair PA  |               |
+| Preferred              | Non-Preferred |
+| ---------------------- | ------------- |
+| Fasenra <sup>PA</sup>  | Nucala        |
+| Dupixent <sup>PA</sup> | Tezspire      |
+| Xolair <sup>PA</sup>   |               |
 
 [Link to Criteria: Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=95)
 
-Respiratory Agents: Nasal Preparations
+**Nasal Preparations**
 
-| Preferred                        | Non-Preferred                |
-| -------------------------------- | ---------------------------- |
-| Azelastine                       | Azelastine/Fluticasone Spray |
-| Flunisolide                      | Beconase AQ                  |
-| Fluticasone (Generic of Flonase) | Budesonide                   |
-| Ipratropium                      | Mometasone                   |
-| Olopatadine                      | Omnaris                      |
-|                                  | Qnasl                        |
-|                                  | Xhance                       |
-|                                  | Zetonna                      |
+| Preferred                        | Non-Preferred                  |
+| -------------------------------- | ------------------------------ |
+| Azelastine                       | Azelastine / Fluticasone Spray |
+| Flunisolide                      | Beconase AQ                    |
+| Fluticasone (Generic of Flonase) | Budesonide                     |
+| Ipratropium <sup>QL</sup>        | Mometasone                     |
+| Olopatadine                      | Omnaris                        |
+|                                  | Qnasl                          |
+|                                  | Xhance                         |
+|                                  | Zetonna                        |
 
 [Link to Criteria: Respiratory Agents: Nasal Preparations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=96)
 
-Respiratory Agents: Other Agents
+**Other Agents**
 
-| Preferred | Non-Preferred |
-| --------- | ------------- |
-|           | Daliresp      |
+| Preferred | Non-Preferred              |
+| --------- | -------------------------- |
+|           | Daliresp <sup>BvG</sup>    |
 
 [Link to Criteria: Respiratory Agents: Other Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=97)
 
-Topical Agents: Antifungals
+## Topical Agents
 
-| Preferred                  | Non-Preferred                               |
-| -------------------------- | ------------------------------------------- |
-| Alevazol                   | Butenafine                                  |
-| Ciclopirox                 | Ciclopirox Kit                              |
-| Clotrimazole               | Ertaczo                                     |
-| Clotrimazole/Betamethasone | Jublia                                      |
-| Econazole                  | Ketoconazole Foam                           |
-| Ketoconazole               | Luliconazole                                |
-| Miconazole                 | Miconazole/Zinc Oxide/White Petrolatum Oint |
-| Nystatin                   | Naftifine                                   |
-| Nystatin/Triamcinolone     | Oxiconazole                                 |
-| Terbinafine                | Tavaborole                                  |
-| Tolnaftate                 |                                             |
+**Antifungals**
+
+| Preferred                    | Non-Preferred                                   |
+| ---------------------------- | ----------------------------------------------- |
+| Alevazol                     | Butenafine                                      |
+| Ciclopirox                   | Ciclopirox Kit                                  |
+| Clotrimazole                 | Ertaczo                                         |
+| Clotrimazole / Betamethasone | Jublia                                          |
+| Econazole                    | Ketoconazole Foam                               |
+| Ketoconazole                 | Luliconazole                                    |
+| Miconazole                   | Miconazole / Zinc Oxide / White Petrolatum Oint |
+| Nystatin                     | Naftifine                                       |
+| Nystatin / Triamcinolone     | Oxiconazole                                     |
+| Terbinafine                  | Tavaborole                                      | 
+| Tolnaftate                   |                                                 | 
  
 [Link to Criteria: Topical Agents: Antifungals](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=98)
 
-Topical Agents: Antiparasitics
+**Antiparasitics**
 
-| Preferred                     | Non-Preferred |
-| ----------------------------- | ------------- |
-| Natroba BvG                   | Eurax         |
-| Permethrin                    | Malathion     |
-| Piperonyl Butoxide/Pyrethrins | Sklice        |
-|                               | Spinosad      |
+| Preferred                       | Non-Preferred |
+| ------------------------------- | ------------- |
+| Natroba <sup>BvG</sup>          | Eurax         |
+| Permethrin                      | Malathion     |
+| Piperonyl Butoxide / Pyrethrins | Sklice        |
+|                                 | Spinosad      |
 
 [Link to Criteria: Topical Agents: Antiparasitics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=99)
 
-Topical Agents: Corticosteroids
+**Corticosteroids**
 
-| Preferred                            | Non-Preferred                                 |
-| ------------------------------------ | --------------------------------------------- |
-| Amcinonide                           | Alclometasone                                 |
-| Betamethasone Dip/Calcipotriene Oint | Apexicon E                                    |
-| Betamethasone Valerate               | Betamethasone Dipropionate                    |
-| Clobetasol Propionate                | Betamethasone Dipropionate/Calcipotriene Susp |
-| Derma-Smoothe/FS BvG                 | Betamethasone Valerate Aerosol Foam           |
-| Desonide Cream, Oint                 | Bryhali                                       |
-| Diflorasone Diacetate                | Clocortolone Pivalate                         |
-| Fluocinolone Acetonide 0.01% Sol     | Cordran Tape                                  |
-| Fluocinonide Acetonide 0.05%         | Desonate Gel                                  |
-| Flurandrenolide                      | Desonide Lotion                               |
-| Fluticasone Propionate Cream, Oint   | Desoximetasone                                |
-| Hydrocortisone                       | Fluocinolone Acetonide 0.01% Oil              |
-| Mometasone Furoate                   | Fluocinolone Acetonide 0.025%                 |
-| Prednicarbate                        | Fluocinonide Acetonide 0.1%                   |
-| Triamcinolone                        | Fluticasone Propionate Lotion                 |
-|                                      | Halcinonide Cream                             |
-|                                      | Halobetasol Propionate                        |
-|                                      | Hydrocortisone Butyrate                       |
-|                                      | Hydrocortisone Valerate                       |
-|                                      | Halog                                         |
-|                                      | Impeklo                                       |
-|                                      | Pandel                                        |
+| Preferred                              | Non-Preferred                                   |
+| -------------------------------------- | ----------------------------------------------- |
+| Amcinonide                             | Alclometasone                                   |
+| Betamethasone Dip / Calcipotriene Oint | Apexicon E                                      |
+| Betamethasone Valerate                 | Betamethasone Dipropionate                      |
+| Clobetasol Propionate                  | Betamethasone Dipropionate / Calcipotriene Susp |
+| Derma-Smoothe / FS <sup>BvG</sup>      | Betamethasone Valerate Aerosol Foam             |
+| Desonide Cream, Oint                   | Bryhali                                         |
+| Diflorasone Diacetate                  | Clocortolone Pivalate                           |
+| Fluocinolone Acetonide 0.01% Cream     | Cordran Tape                                    |
+| Fluocinonide Acetonide Sol             | Desonate Gel                                    |
+| Fluocinolone Acetonide 0.05%           | Desonide Lotion                                 |
+| Flurandrenolide                        | Desoximetasone                                  |
+| Fluticasone Propionate Cream, Oint     | Fluocinolone Acetonide 0.01% Oil                |
+| Hydrocortisone                         | Fluocinolone Acetonide 0.025%                   |
+| Mometasone Furoate                     | Fluocinonide Acetonide 0.1%                     |
+| Prednicarbate                          | Fluticasone Propionate Lotion                   |
+| Triamcinolone                          | Halcinonide Cream                               |
+|                                        | Halobetasol Propionate                          |
+|                                        | Hydrocortisone Butyrate                         |
+|                                        | Hydrocortisone Valerate                         |
+|                                        | Halog                                           |
+|                                        | Impeklo                                         |
+|                                        | Pandel                                          |
 
 [Link to Criteria: Topical Agents: Corticosteroids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=100)
 
-Topical Agents: Immunomodulators
+**Immunomodulators**
 
-| Preferred        | Non-Preferred |
-| ---------------- | ------------- |
-| Elidel AR BvG ST | Eucrisa       |
-| Tacrolimus AR ST | Opzelura      |
-|                  | Pimecrolimus  |
+| Preferred                   | Non-Preferred              |
+| --------------------------- | -------------------------- |
+| Elidel <sup>AR BvG ST</sup> | Eucrisa                    |
+| Tacrolimus <sup>AR ST</sup> | Opzelura                   |
+|                             | Pimecrolimus <sup>AR</sup> |
+|                             | Vtama                      |
 
 [Link to Criteria: Topical Agents: Immunomodulators](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=101)
