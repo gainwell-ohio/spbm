@@ -66,11 +66,11 @@ This is a subcategory of Analgesic Agents.
 
 **Length of Authorizations**: Dependent upon the table below
 
-|                      | Approval Duration |
-| :------------------: | :---------------: |
-| H. Pylori Treatment  |      30 days      |
-| Transdermal/Topical  |      90 days      |
-| All Other Treatments |     365 days      |
+|                      | Authorization Length |
+| :------------------: | :------------------: |
+| H. Pylori Treatment  |      30 days         |
+| Transdermal/Topical  |      90 days         |
+| All Other Treatments |     365 days         |
 
 **All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
