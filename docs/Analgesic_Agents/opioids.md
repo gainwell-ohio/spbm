@@ -120,11 +120,11 @@ Non-Preferred Criteria
     -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-### Short-Acting for New Starts
+### Short-Acting
 
-Additional SHORT-ACTING Opioids Criteria for New Starts
+Additional SHORT-ACTING Opioids Criteria
 
--   The system defines a “new start” as having no opioid claims in the previous 90 days
+-   The system defines an “initial request” as having no opioid claims in the previous 90 days
 -   **Initial short-acting requests** can be authorized up to 90 days
     -   Length of authorization is dependent on indication, previous patient utilization, and requested length of therapy (could be more restrictive)
     -   To exceed acute opioid limits, documentation of the following must be provided:
@@ -148,6 +148,7 @@ Effective July 1, 2018, patients with short acting opioid therapy will be limite
 
 Additional LONG-ACTING Opioids Criteria
 
+- The system defines an "inital request" as having no opioid claims in the previous 90 days
 -   **Initial long-acting requests** can be authorized up to 90 days
     -   Documentation of the following must be provided:
         -   Request is a daily dose equivalent of ≤ 80 MED
@@ -181,8 +182,6 @@ Additional Transmucosal Fentanyl Criteria
 | ≥ 30 mg oral oxycodone/day       | Equianalgesic dose of another opioid |
 
 **QL** – Transmucosal Fentanyl: 4 doses per day
-
-Effective July 1, 2018, patients with short acting opioid therapy will be limited to 30 MED per prescription and a maximum of 7 days per prescription. Prior authorization will be required to exceed these limits
 
 ## Links
 
