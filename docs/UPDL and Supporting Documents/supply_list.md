@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1 
+---
+
 ## 2022 Preferred Diabetic Supply List
 
 [Preferred Diabetic Supply List](https://pharmacy.medicaid.ohio.gov/sites/default/files/OH_July_2022_PDSL.pdf#overlay-context=drug-coverage)

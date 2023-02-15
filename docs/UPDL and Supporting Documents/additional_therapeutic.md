@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1 
+---
+
 # Additional Therapeutic Classes with Clinical Criteria
 
 [Additional Therapeutic Classes with Clinical Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_AdditionalTherapeuticClasses.pdf#overlay-context=drug-coverage)

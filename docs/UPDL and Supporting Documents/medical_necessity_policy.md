@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1 
+---
+
 # Medical Necessity Policy and Prodedures
 
 Ohio Department of Medicaid (ODM)

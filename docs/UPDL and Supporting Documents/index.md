@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1 
+---
+
 # Index
 
 Medicaid Fee-for-Service and Managed Care Plans

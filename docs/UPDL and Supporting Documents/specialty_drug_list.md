@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1 
+---
+
 # Specialty Drug List by Therapeutic Class
 
 [Specialty Drug List by Therapeutic Class](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/Specialty%20Drug%20List/Specialty%20Drug%20List%2012.05.22.pdf)
