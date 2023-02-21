@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 3
+  exclude:true
 ---
 
 # OTC List
