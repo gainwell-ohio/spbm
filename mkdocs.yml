@@ -1,7 +1,7 @@
-site_name: "Ohio SPBM Demo"
+site_name: "Ohio SPBM"
 site_url: http://spbm.ohio.gainwelltechnologies.com/
 repo_url: https://github.com/gainwell-ohio/spbm/
-repo_name: Evergreen
+repo_name: Ohio State Pharmacy Benefit Management
 edit_uri: "edit/main/docs/"
 plugins:
   - search
@@ -38,3 +38,7 @@ markdown_extensions:
         toc_depth: 3
 #extra_css:
   #- stylesheets/extra.css
+extra:
+  analytics:
+    provider: custom
+    property: matomo
