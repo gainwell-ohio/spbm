@@ -7,7 +7,7 @@ plugins:
   - search
   - exclude-search:
       exclude:
-        - otc_list.md
+        - docs/*/otc_list.md
 theme:
   icon:
       edit: material/pencil
