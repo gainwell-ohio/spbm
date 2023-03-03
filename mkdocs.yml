@@ -5,9 +5,6 @@ repo_name: Evergreen
 edit_uri: "edit/main/docs/"
 plugins:
   - search
-  - exclude-search:
-      exclude:
-        - OTC List.md
 theme:
   icon:
       edit: material/pencil
