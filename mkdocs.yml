@@ -8,7 +8,6 @@ plugins:
   - exclude-search:
       exclude:
         - docs/UPDL and Supporting Documents/otc_list.md
-        - */otc_list.md
 theme:
   icon:
       edit: material/pencil
