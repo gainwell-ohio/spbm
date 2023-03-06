@@ -7,7 +7,8 @@ The purpose of this collection of learning material is to walk users through cre
 There is a Powerpoint included within this learning resource as well as many walk-through videos. These videos are broken up into sections to aid in accelerated learning and ease in finding specific information. These sections include:
 
 - Overview and Prerequisites
-  - Course Overview
+
+    - Course Overview
   - Prerequisites (contains additional learning resource)
   - Creating a GitHub Account
   - Basic Terminology and Navigation
