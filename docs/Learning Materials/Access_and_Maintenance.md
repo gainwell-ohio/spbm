@@ -7,26 +7,25 @@ The purpose of this collection of learning material is to walk users through cre
 There is a Powerpoint included within this learning resource as well as many walk-through videos. These videos are broken up into sections to aid in accelerated learning and ease in finding specific information. These sections include:
 
 - Overview and Prerequisites
-
     - Course Overview
-  - Prerequisites (contains additional learning resource)
-  - Creating a GitHub Account
-  - Basic Terminology and Navigation
+    - Prerequisites (contains additional learning resource)
+    - Creating a GitHub Account
+    - Basic Terminology and Navigation
 - Contributing Changes to the Documentation
-  - Navigating from Site to Documentation
-  - Editing a File
-  - Creating an Additional Section
-  - Markdown
+    - Navigating from Site to Documentation
+    - Editing a File
+    - Creating an Additional Section
+    - Markdown
 - Managing Approvals
-  - Navigation of Pull Requests
-  - Creating a Pull Request
-  - Reviewing Files Changed
-  - Reverting a Merged Change
-  - Alternate Method to Approve Requests
+    - Navigation of Pull Requests
+    - Creating a Pull Request
+    - Reviewing Files Changed
+    - Reverting a Merged Change
+    - Alternate Method to Approve Requests
 - Explanation of Automation Pipeline
-  - GitHub Actions
-  - Branches
-  - GitHub Pages 
+    - GitHub Actions
+    - Branches
+    - GitHub Pages 
 
 ## PowerPoint
 
