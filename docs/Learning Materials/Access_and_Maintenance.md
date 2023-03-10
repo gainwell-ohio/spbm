@@ -14,6 +14,7 @@ There is a Powerpoint included within this learning resource as well as many wal
 - Contributing Changes to the Documentation
     - Navigating from Site to Documentation
     - Editing a File
+    - Committing a Change
     - Creating an Additional Section
     - Markdown
 - Managing Approvals
@@ -50,4 +51,10 @@ There is a Powerpoint included within this learning resource as well as many wal
 [Editing a File](https://mygainwell-my.sharepoint.com/:v:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EdRGPRYjEi9HoCW6LXypAK4B5MazvtzrQiIe8LxT6JK-tQ?e=5bzHJd)
 
 [Committing a Change](https://mygainwell-my.sharepoint.com/:v:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EbnqG2wQDaxPooEOnBrVoD8BmQwBmKE9acVadrwGx-rFlQ?e=Zbwai1)
+
+[Creating an Additional Section](https://mygainwell-my.sharepoint.com/:v:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ERsieY0cHqZCvEdjWw7S7ycBRcQY-ck0HQPKvvFDh8abhg?e=63I8iO)
+
+## Managing Approvals
+
+[Section Overview](https://mygainwell-my.sharepoint.com/:v:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EUrS-rJap99EtYHuz6HcXzEBSDHK9JxMNNnamR7bDRdFNQ?e=0gKiIL)
 
