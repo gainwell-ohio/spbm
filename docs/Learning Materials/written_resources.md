@@ -26,7 +26,7 @@ To obtain access to the Evergreen repository, a GitHub account must be created. 
 
 [Join GitHub](https://github.com/join)
 
-![](img/Prerequisites/joining_github.PNG)
+![](joining_github.PNG)
 
 Once an account is made, users are then able to be added into the repository.
 
@@ -34,11 +34,11 @@ Once an account is made, users are then able to be added into the repository.
 
 Those with permission can add users to the repository. The user is able to be added individually or into a team. Going to "Settings" and then "Collaborators and teams" will navigate the user to the page where access can be given. If this page is not available, the user does not have permission to add and manage users. 
 
-![](img/Prerequisites/user_access.png)
+![](user_access.png)
 
 Roles can also be assigned to each user and team through the drop-down menu of "Role". Each level of roles gives different permissions pertaining to viewing, contributing, approving, and managing settings. A more in-depth breakdown of roles can be view by clicking "View role details". 
 
-![](img/Prerequisites/accessibility.PNG)
+![](accessibility.PNG)
 
 ## Contributing Changes to the Documentation
 
