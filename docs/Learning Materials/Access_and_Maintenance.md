@@ -29,7 +29,7 @@ There is a Powerpoint included within this learning resource as well as many wal
 
 ## PowerPoint
 
-[Evergreen Access and Maintenance PowerPoint Presentation](https://mygainwell-my.sharepoint.com/:p:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EefK7pE3g01IpSBOHMJF2J4Bq_yYX6a1tszSta3xt36BcA?e=d8eeh6)
+[Evergreen Access and Maintenance PowerPoint Presentation](https://mygainwell-my.sharepoint.com/:p:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EefK7pE3g01IpSBOHMJF2J4Bq_yYX6a1tszSta3xt36BcA?e=czcGj9)
 
 ## Overview and Prequisites
 
