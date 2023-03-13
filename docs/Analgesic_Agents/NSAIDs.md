@@ -7,6 +7,10 @@ search:
 
 This is a subcategory of Analgesic Agents.
 
+## Decision Tree
+
+[Analgesic Agents -NSAID](link)
+
 ## Formulary
 
 ### Preferred
