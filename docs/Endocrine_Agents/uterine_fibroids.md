@@ -7,6 +7,12 @@ search:
 
 This is a subcategory of Endocrine Agents.
 
+## Decision Tree
+
+[Endocrine Agents Uterine Fibroids - Lupron Depot](link)
+
+[Endocrine Agents Uterine Fibroids - Myfembree, Oriahnn](link)
+
 ## Formulary
 
 ### Preferred
