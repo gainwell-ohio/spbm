@@ -7,6 +7,10 @@ search:
 
 This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
+## Decision Tree
+
+[Blood Products - Colony Stimulating Factors](link)
+
 ## Formulary
 
 ### Preferred
