@@ -7,6 +7,14 @@ search:
 
 This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
+## Decision Tree
+
+[Hematopoietic Agents - Epogen, Mircera, Retacrit](link)
+
+[Hematopoietic Agents - Procrit](link)
+
+[Hematopoietic Agents - Aranesp](link)
+
 ## Formulary
 
 ### Preferred
