@@ -7,6 +7,12 @@ search:
 
 This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
+## Decision Tree
+
+[Blood Products - Hemophilia Factors - Preferred Agents (All Require PA)](link)
+
+[Blood Products - Hemophilia Factors - Non-Preferred Agents](link)
+
 ## Formulary
 
 ### Preferred
