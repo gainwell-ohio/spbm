@@ -7,6 +7,10 @@ search:
 
 This is a subcategory of Otic Agents.
 
+## Decision Tree
+
+- [Antibacterial & Antibacterial Steroid Combinations - Ciprofloxacin, Ciprofloxacin/Dexamethasone*, Ciprofloxacin/Fluocinolone](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURjEzRU1XTk9DRkJSV1I2VUYxOEYzVDZBMiQlQCN0PWcu&topview=Preview)
+
 ## Formulary
 
 ### Preferred

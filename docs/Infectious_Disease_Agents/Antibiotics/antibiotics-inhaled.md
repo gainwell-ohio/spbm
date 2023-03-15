@@ -7,6 +7,11 @@ search:
 
 This is a subcategory of Infectious Disease Agents.
 
+## Decision Trees
+
+- [Antibiotics - Inhaled- Non-Preferred - Arikayce, Bethkis, Cayston, Kitabis Pak, Tobi Podhaler](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNklGMlY2WTJUTFRMWENTNkxXQVVEUUVFRyQlQCN0PWcu&topview=Preview)
+- [Antibiotics - Inhaled- Preferred - Tobramycin](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNFlXQ05YUlRLVjA2RzU0OUYwUUhHQktGVCQlQCN0PWcu&topview=Preview)
+
 ## Formulary
 
 ### Preferred

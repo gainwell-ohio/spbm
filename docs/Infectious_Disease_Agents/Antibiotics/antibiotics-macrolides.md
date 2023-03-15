@@ -7,6 +7,10 @@ search:
 
 This is a subcategory of Infectious Disease Agents.
 
+## Decision Tree
+
+- [Antibiotics - Macrolides - Eryped, Erythrocin Stearate, Erythromycin](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNlAyMjA5RVVPSlQzVkVUM1lJSERIWDJESCQlQCN0PWcu&topview=Preview)
+
 ## Formulary
 
 Infectious Disease Agents: Antibiotics – Macrolides

@@ -7,6 +7,11 @@ search:
 
 This is a subcategory of Respiratory Agents.
 
+## Decision Trees
+
+- [Cystic Fibrosis- Non-Preferred - Bronchitol](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNEdPQ1hZVEs0TEdDNjRSSlBFVEk1STZZTSQlQCN0PWcu&topview=Preview)
+- [Cystic Fibrosis- Preferred - Kalydeco, Orkambi, Symdeko, Trikafta](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOVI4OFFZUDZQVFdIN1Y0TlpBOExWWEtGUCQlQCN0PWcu&topview=Preview)
+
 ## Formulary
 
 ### Preferred

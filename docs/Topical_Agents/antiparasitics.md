@@ -9,7 +9,7 @@ This is a subcategory of Topical Agents.
 
 ## Decision Tree
 
-[Antiparasitics - NP - Eurax, Malathion, Sklice, Spinosad** - Preferred has BvG designation](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&sessionid=9e41314a-bfaf-4dfa-9bfc-7fcc04c53b6e&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUN01CT1Q3WU9OUTlUMjYzUExKWDA1WFg1SCQlQCN0PWcu&topview=Preview)
+[Antiparasitics - NP - Eurax, Malathion, Sklice, Spinosad*](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUN01CT1Q3WU9OUTlUMjYzUExKWDA1WFg1SCQlQCN0PWcu&topview=Preview)
 
 ## Formulary
 

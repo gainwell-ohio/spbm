@@ -7,6 +7,10 @@ search:
 
 This is a subcategory of Ophthalmic Agents.
 
+## Decision Tree
+
+- [NSAIDS - Non-Preferred Criteria - Acuvail, Bromfenac, Bromsite, Ilevro, Nevanac, Prolensa](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQVZUMTlJVllURFZNNFZVWkhUVjhJOTdHMiQlQCN0PWcu&topview=Preview)
+
 ## Formulary
 
 ### Preferred

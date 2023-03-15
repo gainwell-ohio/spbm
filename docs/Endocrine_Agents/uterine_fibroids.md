@@ -7,6 +7,10 @@ search:
 
 This is a subcategory of Endocrine Agents.
 
+## Decision Tree
+
+[Uterine Fibroids - Myfembree, Oriahnn](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOUxBTElONUxXUVdWRzdLTzY0Qzg3SkEyUyQlQCN0PWcu&topview=Preview)
+
 ## Formulary
 
 ### Preferred

@@ -7,6 +7,10 @@ search:
 
 This is a subcategory of Gastrointestinal Agents.
 
+## Decision Tree
+
+- [Crohn's Disease - Orkitos ER](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM0pVU0k0M1UxRFpOVTFVRjBZSk1UUkszVSQlQCN0PWcu&topview=Preview)
+
 ## Formulary
 
 ### Preferred

@@ -7,6 +7,15 @@ search:
 
 This is a subcategory of Infectious Disease Agents.
 
+## Decision Trees
+
+- [Antivirals - HIV- Agents with BvG - Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate, Selzentry, Maraviroc, Intelence, Etravirine, Emtricitabine](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNzJYUlFMU1RCN0FaUDhCTFkzUFM0WVdHQSQlQCN0PWcu&topview=Preview)
+- [Antivirals - HIV- Non-Preferred (Age Restricted) - Lamivudine Sol, Nevirapine Sol](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNU5TWTJXRFdINzdXUzZYMzhSVUNTSE9HQyQlQCN0PWcu&topview=Preview)
+- [Antivirals - HIV- Non-Preferred - Abacavir Susp, Abacavir/Lamivudine/Zidovudine, Aptivus, Didanosine, Edurant, Fosamprenavir, Fuzeon, Lamivudine Tab, Lamivudine/Zidovudine, Nevirapine IR, Nevirapine ER Tab, Norvir Powder, Norvir Sol, Stavudine, Stribild, Tybost, Viracept](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOTQxMVRGMVBLTjQ3TEI3SEZSNElFTFhMMiQlQCN0PWcu&topview=Preview)
+- [Antivirals - HIV- Preferred (Age Restricted) - Isentress Chew Tab](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNExRSUtaTkQ0NzJJS1kzRFkyVzNPUE5aWSQlQCN0PWcu&topview=Preview)
+- [Antivirals - HIV- Preferred (PA) - Rukobia ER](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUME5LS1ZPNjAySElZQlFMTDZMOE0zMEs2VSQlQCN0PWcu&topview=Preview)
+- [Antivirals - HIV- Preferred (PA) - Triumeq PD](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM1ZOQ1RQR05WUkVRRjA4NU9SSlo1M0IxNiQlQCN0PWcu&topview=Preview)
+
 ## Formulary
 
 ### Preferred

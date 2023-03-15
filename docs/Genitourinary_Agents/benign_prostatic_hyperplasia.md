@@ -7,6 +7,12 @@ search:
 
 This is a subcategory of Genitourinary Agents.
 
+## Decision Tree
+
+- [Benign Prostatic Hyperplasia- Non-Preferred - Cardura XL, Silodosin](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNDhQUkMyNUdBTVNBN0FGUkhYMURDR1UyQSQlQCN0PWcu&topview=Preview)
+- [Benign Prostatic Hyperplasia- Non-Preferred- Dutasteride/Tamsulosin](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQklRWUMzMFFFQkM4VzE4Q1hBSzlZU1NDWCQlQCN0PWcu&topview=Preview)
+- [Benign Prostatic Hyperplasia - Tadalafil 2.5mg, 5mg](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUs2SzRXTU9MTVhSVjc4NDdPNVRYQUJCNiQlQCN0PWcu&topview=Preview)
+
 ## Formulary
 
 ### Preferred
