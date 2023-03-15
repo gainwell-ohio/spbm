@@ -7,6 +7,13 @@ search:
 
 This is a subcategory of Immunomodulator Agents.
 
+## Decision Trees
+
+- [Systemic Inflammatory Disease- Non-Preferred - Actemra, Cibinqo, Cimzia, Cosentyx, Ilumya, Kevzara, Olumiant, Orencia, Rinvoq, Siliq, Simponi, Skyrizi, Stelara, Tremfya, Xeljanz Sol, Xeljanz XR](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOElXNVFQTk5BQ0RBWUowTjFPQklMVjFVNyQlQCN0PWcu&topview=Preview)
+- [Systemic Inflammatory Disease- Preferred (PA) - Adbry, Enbrel, Dupixent, Humira, Kineret, Otezla, Xeljanz IR](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOEo4SUtSTTE4M0YzTUpLWFpYS0hRQ0JWNyQlQCN0PWcu&topview=Preview)
+- [Systemic Inflammatory Disease- Preferred (Step Therapy) - Taltz](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMFFaNE9JWjU1MTBOS001MFc2OUw5VVBKQSQlQCN0PWcu&topview=Preview)
+
+
 ## Formulary
 
 ### Preferred
