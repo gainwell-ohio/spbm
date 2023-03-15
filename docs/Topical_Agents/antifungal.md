@@ -7,6 +7,11 @@ search:
 
 This is a subcategory of Topical Agents.
 
+## Decision Trees
+
+- [Antifungals - Butenafine, Ciclopirox Kit, Ertaczo, Ketoconazole Foam, Luliconazole, Miconazole/Zinc Oxide/White Petrolatum Oint, Naftifine, Oxiconazole, Tavaborole](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=kaelyn.dobbins%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=9e41314a-bfaf-4dfa-9bfc-7fcc04c53b6e&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNE1TMlVOVVc1NlRTSUYwRlVSSVM5MjRTNSQlQCN0PWcu&topview=Preview)
+- [Antifungals - Jublia](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=kaelyn.dobbins%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=9e41314a-bfaf-4dfa-9bfc-7fcc04c53b6e&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMEI0QzNPTkxRV1dLM0lOTDQxOU5VWlg1WSQlQCN0PWcu&topview=Preview)
+
 ## Formulary
 
 ### Preferred
