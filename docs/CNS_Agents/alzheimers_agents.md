@@ -7,6 +7,13 @@ search:
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
+## Decision Tree
+[Alzheimer's Agents - Adlarity, Memantine ER Sol, Namzaric, Rivastigmine Patch, Exelon Patch](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQjMzVFlKOTdBRTFNVjA1VkxDMElKWFdYViQlQCN0PWcu&topview=Preview)
+
+[Alzheimer's Agents - Donepezil](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURUFCTUtJVFNTS1lBSUVFWDlaVDFHVDVJUyQlQCN0PWcu&topview=Preview)
+
+[Alzheimer's Agents - Galantamine Sol](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURE5JNlU1VTdNOFo5MEVaRjRFVE5EOFhKNyQlQCN0PWcu&topview=Preview)
+
 ## Formulary
 
 ### Preferred
