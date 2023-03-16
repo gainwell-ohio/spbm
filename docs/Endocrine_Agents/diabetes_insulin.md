@@ -7,12 +7,12 @@ search:
 
 This is a subcategory of Endocrine Agents.
 
-## Decision Tree
-[Diabetes - Insulin- Non-Preferred Agents - Admelog, Basaglar, Fiasp, Humalog U-200, Humulin N U-100, Humulin R U-100, Insulin Glargine (Lantus (Preferred)), Lyumjev, Novolin 70-30, Novolin N U-100, Novolin R U-100](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQlFCQUYzNFJMWk9JTTQyVUJOODBJREkwRSQlQCN0PWcu&topview=Preview)
+## Decision Trees
+- [Diabetes - Insulin- Non-Preferred Agents - Admelog, Basaglar, Fiasp, Humalog U-200, Humulin N U-100, Humulin R U-100, Insulin Glargine (Lantus (Preferred)), Lyumjev, Novolin 70-30, Novolin N U-100, Novolin R U-100](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQlFCQUYzNFJMWk9JTTQyVUJOODBJREkwRSQlQCN0PWcu&topview=Preview)
 
-[Diabetes - Insulin- Non-Preferred Agents-Inhaled Insulin - Afrezza](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQTc2TExZWEIyWEhaMEtERTlVU1RBMExaWCQlQCN0PWcu&topview=Preview)
+- [Diabetes - Insulin- Non-Preferred Agents-Inhaled Insulin - Afrezza](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQTc2TExZWEIyWEhaMEtERTlVU1RBMExaWCQlQCN0PWcu&topview=Preview)
 
-[Diabetes - Insulin- Preferred (Step Therapy) - Tresiba](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQk9HTkYxMTg5VElSNjJPQVExRVYzQThITCQlQCN0PWcu&topview=Preview)
+- [Diabetes - Insulin- Preferred (Step Therapy) - Tresiba](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQk9HTkYxMTg5VElSNjJPQVExRVYzQThITCQlQCN0PWcu&topview=Preview)
 
 ## Formulary
 
