@@ -71,6 +71,7 @@ This is a subcategory of Endocrine Agents.
 | Metformin ER <sup>QL</sup> (Generic of Fortamet) | Metformin HCI SR Tab (all strengths excl 500 MG) |   204    |     102     |
 | Metformin ER <sup>QL</sup> (Generic of Fortamet) | Metformin HCI SR Tab 500 MG                      |   408    |     102     |
 | Metformin Sol                                    |                                                  |          |             |
+| Mounjaro                                         |                                                  |          |             |
 | Onglyza                                          |                                                  |          |             |
 | Ozempic                                          |                                                  |          |             |
 | Pioglitazone / Alogliptin                        |                                                  |          |             |
