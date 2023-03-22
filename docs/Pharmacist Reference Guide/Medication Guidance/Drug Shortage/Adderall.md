@@ -1,4 +1,4 @@
-# Adderall XR shortage![image]
+# Adderall XR shortage!
 
 [Guidance for Brand request for Adderall XR Email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Guidance%20for%20Brand%20request%20for%20Adderall%20XR.msg?csf=1&web=1&e=kZJPle)
 
