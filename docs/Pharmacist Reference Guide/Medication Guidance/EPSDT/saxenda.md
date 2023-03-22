@@ -1,7 +1,6 @@
 # Saxenda EPSDT
 
-[Saxenda EPSDT EMAIL]([Saxenda EPSDT![image](https://user-images.githubusercontent.com/122046056/227047156-3444d04e-8cfa-4a05-8e28-f849d223b4c2.png)
-](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Saxenda%20EPSDT%20.msg?csf=1&web=1&e=7stnnn))
+[Saxenda EPSDT EMAIL](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Saxenda%20EPSDT%20.msg?csf=1&web=1&e=7stnnn)
 
 If you wanted to deny for a request for more information (and it hasn’t been supplied already), Saxenda is indicated as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management, so chart notes outlining that plan would be appropriate.
  
@@ -12,4 +11,4 @@ I am sure EPSDT will be an ongoing conversation with ODM as we iron out some of 
  
 Thanks,
  
-Jason Foote, PharmD, MSHI![image](https://user-images.githubusercontent.com/122046056/227047243-6a7f3784-982d-4b0b-b0e5-448b1a556215.png)
+Jason Foote, PharmD, MSHI
