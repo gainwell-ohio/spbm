@@ -20,3 +20,7 @@ Brian Synagis – hicl approval for amount required, ie weight is 8.9 kg, dosage
 ½/2023
 I am making note here of an approval by HICL for Oxycodone ER tabs – RCarpenter 
 
+[HICL PA and DAW Email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20HICL%20PA%20processing%20DAW_%20correct%20procedure_.msg?csf=1&web=1&e=KgNtnn)
+
+
+![image](https://user-images.githubusercontent.com/122046056/227077827-07ee2e1e-b359-4bdb-8324-c07889d13d6c.png)
