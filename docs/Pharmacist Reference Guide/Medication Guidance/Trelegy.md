@@ -5,7 +5,7 @@
 
 - Once-daily TRELEGY is a prescription medicine used long term to treat COPD, including chronic bronchitis, emphysema, or both and to treat asthma in adults. 
 
-      o TRELEGY 100/62.5/25 mcg is the only strength approved for COPD. 
+      - TRELEGY 100/62.5/25 mcg is the only strength approved for COPD. 
 - Trelegy Ellipta is an orally inhaled medicine that contains three medications in one inhaler.
 - Trelegy combines the inhaled corticosteroid fluticasone with two long-acting bronchodilators: vilanterol, a long-acting beta-2 agonist (LABA), and umeclidinium, a long-acting muscarinic antagonist (anticholinergic).
 - Trelegy is the first FDA-approved, single inhaler, triple therapy for once-daily maintenance treatment of both asthma and chronic obstructive pulmonary disease (COPD) in adults.
