@@ -21,16 +21,17 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Non-Preferred
 
-| Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
-| Brexafemme    |              |          |             |
-| Cresemba      |              |          |             |
-| Itraconazole  |              |          |             |
-| Noxafil Susp  |              |          |             |
-| Oravig        |              |          |             |
-| Posaconazole  |              |          |             |
-| Tolsura       |              |          |             |
-| Voriconazole  |              |          |             |
+| Non-Preferred        | Generic Name | Quantity | Time (Days) |
+| :------------------- | :----------- | :------: | :---------: |
+| Brexafemme           |              |          |             |
+| Cresemba             |              |          |             |
+| Itraconazole         |              |          |             |
+| Noxafil Susp         |              |          |             |
+| Oravig               |              |          |             |
+| Posaconazole         |              |          |             |
+| Tolsura              |              |          |             |
+| Vivjoa <sup>PA</sup> |
+| Voriconazole         |              |          |             |
 
 ## Authorizations
 
