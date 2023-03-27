@@ -34,6 +34,7 @@ This is a subcategory of Genitourinary Agents.
 | :----------------------- | :----------- | :------: | :---------: |
 | Cardura XL               |              |          |             |
 | Dutasteride / Tamsulosin |              |          |             |
+| Entadfi <sup>PA</sup>    |              |          |             |
 | Silodosin                |              |          |             |
 
 ## Authorizations
