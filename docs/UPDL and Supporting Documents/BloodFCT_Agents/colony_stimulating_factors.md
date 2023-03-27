@@ -15,12 +15,12 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Preferred
 
-| Preferred              | Generic Name | Quantity | Time (Days) |
-| :--------------------- | :----------- | :------: | :---------: |
-| Neupogen <sup>PA</sup> |              |          |             |
-| Nivestym <sup>PA</sup> |              |          |             |
-| Nyvepria               |              |          |             |
-| Ziextenzo              |              |          |             |
+| Preferred               | Generic Name | Quantity | Time (Days) |
+| :---------------------- | :----------- | :------: | :---------: |
+| Neupogen <sup>PA</sup>  |              |          |             |
+| Nivestym <sup>PA</sup>  |              |          |             |
+| Nyvepria <sup>PA</sup>  |              |          |             |
+| Ziextenzo <sup>PA</sup> |              |          |             |
 
 ### Non-Preferred
 
