@@ -24,15 +24,16 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Non-Preferred
 
-| Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
-| Fulphila      |              |          |             |
-| Granix        |              |          |             |
-| Leukine       |              |          |             |
-| Neulasta      |              |          |             |
-| Releuko       |              |          |             |
-| Udenyca       |              |          |             |
-| Zarxio        |              |          |             |
+| Non-Preferred          | Generic Name | Quantity | Time (Days) |
+| :--------------------- | :----------- | :------: | :---------: |
+| Fulphila               |              |          |             |
+| Fylnetra <sup>PA</sup> |              |          |             |
+| Granix                 |              |          |             |
+| Leukine                |              |          |             |
+| Neulasta               |              |          |             |
+| Releuko                |              |          |             |
+| Udenyca                |              |          |             |
+| Zarxio                 |              |          |             |
 
 ## Authorizations
 
