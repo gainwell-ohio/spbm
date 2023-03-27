@@ -74,6 +74,8 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Vigabatrin                      |                                          |                           |                           |
 | Vigabatrin Powder <sup>AR</sup> |                                          |                           |                           |
 | Xcopri                          |                                          |                           |                           |
+| Zonisade Susp <sup>PA</sup>     |                                          |                           |                           |
+| Ztalmy <sup>PA</sup>            |                                          |                           |
 
 ## Authorizations
 
