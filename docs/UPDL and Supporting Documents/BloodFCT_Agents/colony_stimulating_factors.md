@@ -19,6 +19,8 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 | :--------------------- | :----------- | :------: | :---------: |
 | Neupogen <sup>PA</sup> |              |          |             |
 | Nivestym <sup>PA</sup> |              |          |             |
+| Nyvepria               |              |          |             |
+| Ziextenzo              |              |          |             |
 
 ### Non-Preferred
 
@@ -28,11 +30,9 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 | Granix        |              |          |             |
 | Leukine       |              |          |             |
 | Neulasta      |              |          |             |
-| Nyvepria      |              |          |             |
 | Releuko       |              |          |             |
 | Udenyca       |              |          |             |
 | Zarxio        |              |          |             |
-| Ziextenzo     |              |          |             |
 
 ## Authorizations
 
