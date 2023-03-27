@@ -24,6 +24,7 @@ This is a subcategory of Topical Agents.
 | Opzelura                   |              |          |             |
 | Pimecrolimus <sup>AR</sup> |              |          |             |
 | Vtama                      |              |          |             |
+| Zoryve <sup>PA<sup>        |              |          |             |
 
 ## Authorizations
 
