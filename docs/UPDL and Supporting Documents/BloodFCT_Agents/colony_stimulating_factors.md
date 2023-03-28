@@ -51,6 +51,12 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ## Criteria
 
+### Clinical PA
+
+Clinical PA Criteria
+
+- Must provide documentation of diagnosis, patient's weight, and duration of treatment
+
 ### Non-Preferred
 
 Non-Preferred Criteria
