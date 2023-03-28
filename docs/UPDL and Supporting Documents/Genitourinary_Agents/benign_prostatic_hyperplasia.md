@@ -55,9 +55,9 @@ Non-Preferred Criteria
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-### Dutasteride / Tamsulosin (Jalyn)
+### Dutasteride / Tamsulosin (Jalyn) & Finasteride / Tadalafil (Entadfi)
 
-Additional Dutasteride / Tamsulosin (Jalyn) Criteria
+Additional Dutasteride / Tamsulosin (Jalyn) & Finasteride / Tadalafil (Entadfi) Criteria
 
 - Must provide documentation for patient’s inability to use the individual drugs
 
