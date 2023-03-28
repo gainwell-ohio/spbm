@@ -307,7 +307,7 @@ search:
 | Sildenafil <sup>PA</sup>         | Bosentan      |
 | Sildenafil Susp <sup>AR PA</sup> | Epoprostenol  |
 | Tadliq <sup>PA</sup>             | Opsumit       |
-| Tadalafil <sup>PA</sup>          | Tracleer Susp |
+| Tadalafil <sup>AR PA</sup>       | Tracleer Susp |
 | Tracleer Tab <sup>BvG PA</sup>   | Treprostinil  |
 |                                  | Tyvaso        |
 |                                  | Uptravi       |
