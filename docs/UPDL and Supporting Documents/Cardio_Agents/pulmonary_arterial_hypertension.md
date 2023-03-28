@@ -25,7 +25,7 @@ This is a subcategory of Cardiovascular Agents.
 | Sildenafil <sup>PA</sup>         |              |          |             |
 | Sildenafil Susp <sup>AR PA</sup> |              |          |             |
 | Tadalafil <sup>PA</sup>          |              |          |             |
-| Tadliq <sup>PA</sup>             |              |          |             |            
+| Tadliq <sup>AR PA</sup>             |              |          |             |            
 | Tracleer Tab <sup>BvG PA</sup>   |              |          |             |
 
 ### Non-Preferred
@@ -80,7 +80,7 @@ Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-**AR** - Sildenafil Oral Solution: a PA is required for patients 6 years and older
+**AR** - Sildenafil Susp and Tadliq: a PA is required for patients 6 years and older
 
 ## Links
 
