@@ -1,6 +1,6 @@
 # Ozempic
 
-[Ozempic Denial Language Email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20Urgent%203_3_23%20afternoon%20Queue%20Guidance.msg?csf=1&web=1&e=jQGFKp)
+[Ozempic Denial Language Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20Urgent%203_3_23%20afternoon%20Queue%20Guidance.msg?csf=1&web=1&e=jQGFKp){ .md-button .md-button--primary }
 
 SEMAGLUTIDE can show up in our system for various different drugs, which you already know. To be consistent as a group, please use the following guidance:
 

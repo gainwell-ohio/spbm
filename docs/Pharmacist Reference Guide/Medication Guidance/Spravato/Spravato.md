@@ -1,19 +1,21 @@
 # Spravato 1.5.23
 
-[Spravato not by psych email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Spravato%20NOT%20by%20a%20psychiatrist.msg?csf=1&web=1&e=J6yBXh)
+[Spravato not by psych email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Spravato%20NOT%20by%20a%20psychiatrist.msg?csf=1&web=1&e=J6yBXh){ .md-button .md-button--primary }
 
 Hello,
 It as been brought to my attention that there are several rural outpatient centers that are not able to have a psych specialist due to location and are able to be registered as a REMS certified center.
+
 In this we are really not able to enforce a psychiatrist prescribing since they are approved as REMS and no specific criteria for this in indications/package insert or lacking criteria from ODM.
+
 So the updated guidance for Spravato looks as this:
  
 1. Member is 18 
  
-2. Medication is administered in a Spravato REMS certified center (psychiatrist no longer required)
+2. **Medication is administered in a Spravato REMS certified center** (psychiatrist no longer required)
  
-3. Member/Prescriber plans to or is adhering to be monitored for at least 2 hours at each treatment session, followed by an assessment to determine when the member is considered clinically stable and ready to leave the healthcare setting 
+3. Member / Prescriber plans to or is adhering to be monitored for at least 2 hours at each treatment session, followed by an assessment to determine when the member is considered clinically stable and ready to leave the healthcare setting 
  
-4. Member has tried/failed 2 medications in Central Nervous System (CNS) Agents: Antidepressants and will concurrently using an antidepressant while in treatment. 
+4. Member has tried / failed 2 medications in Central Nervous System (CNS) Agents: Antidepressants and will concurrently using an antidepressant while in treatment. 
  
 5. Pharmacy 70 supplier must be providing medication 
  
@@ -33,13 +35,16 @@ TRD – Dosing is either 56 or 84mg once or every 2 weeks. Member must have conc
  
 Approval Text: This prior authorization is approved for Spravato 56mg and 84mg dosages. For renewal, member must have concurrently used antidepressants and shown improvement from the member’s baseline depression status using an appropriate rating scale [for example: Patient Health Questionnaire (PHQ-9), Beck Depression Inventory (BDI), Quick Inventory of Depressive Symptomatology (QIDS), Montgomery-Åsberg Depression Rating Scale (MADRS), Hamilton Rating Scale for Depression (HAM-D)]. 
  
-****The above text is only for TRD, MDD with suicidal ideation is on an episode by episode basis, no renewal information to be given.****
+**The above text is only for TRD, MDD with suicidal ideation is on an episode by episode basis, no renewal information to be given.**
  
 The one note will be updated, please ask if any questions
+
 Thanks,
  
 Justin Collingwood
+
 Prior Authorization Pharmacist
+
 justin.collingwood@gainwelltechnologies.com
  
 

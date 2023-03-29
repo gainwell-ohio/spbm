@@ -1,6 +1,6 @@
 # Missing Image on PA
 
-[Missing Image Email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20INC0022507%20can%20be%20resolved_closed.msg?csf=1&web=1&e=YYwVet)
+[Missing Image Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20INC0022507%20can%20be%20resolved_closed.msg?csf=1&web=1&e=YYwVet){ .md-button .md-button--primary }
 
 Also, 
 

@@ -1,6 +1,6 @@
 # Opioids- Short Acting
 
-[Opioids- Short Acting Email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Short%20Acting%20Opioid%20information.msg?csf=1&web=1&e=DtTdeD)
+[Opioids- Short Acting Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Short%20Acting%20Opioid%20information.msg?csf=1&web=1&e=DtTdeD){ .md-button .md-button--primary }
 
 Hello,
 
