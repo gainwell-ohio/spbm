@@ -15,7 +15,7 @@ This is a subcategory of Endocrine Agents.
 | :------------------- | :--------------------------------------------- | :------: | :---------: |
 | Alendronate Tab      |                                                |          |             |
 | Calcitonin-Salmon    |                                                |          |             |
-| Forteo <sup>QL</sup> | Teriparatide Subcutaneous Inj 600 MCG / 2.4 ML |   62.4   |     730     |
+| Forteo <sup>PA QL</sup> | Teriparatide Subcutaneous Inj 600 MCG / 2.4 ML |   62.4   |     730     |
 | Ibandronate          |                                                |          |             |
 
 ### Non-Preferred
@@ -44,6 +44,13 @@ Non-Preferred Criteria
 - Must have had an inadequate clinical response of at least **365 days** with at least **one preferred** drug within the same drug class
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+### Teriparatide (Forteo <sup>TM</sup>)
+
+Teriparatide (Forteo <sup>TM</sup>) Criteria
+
+- Must have had an inadequate clinical response of at least **365 days** with **one** bisphosphonate
+- A total lifetime duration of therapy of 730 days will be authorized between any parathyroid analog
 
 ### Abaloparatide (Tymlos <sup>TM</sup>)
 

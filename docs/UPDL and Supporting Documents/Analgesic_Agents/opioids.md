@@ -80,7 +80,6 @@ This is a subcategory of Analgesic Agents.
 | Meperidine <sup>QL</sup>                                                           | Meperidine HCI (all strengths & formulations)                      | Determined pursuant to PA | Determined pursuant to PA |
 | Methadone <sup>QL</sup>                                                            | Methadone Concentrate Soln / Tab                                   | Determined pursuant to PA | Determined pursuant to PA |
 | Morphine ER 24HR Cap QL                                                            |                                                                    |                           |                           |
-| Oxaydo <sup>QL</sup>                                                               |                                                                    |                           |                           |
 | Oxycodone ER <sup>QL</sup>                                                         |                                                                    |                           |                           |
 | Oxycodone/Ibuprofen QL                                                             | Oxycodone / Ibuprofen (all strengths)                              | Determined pursuant to PA | Determined pursuant to PA |
 | Oxymorphone IR, ER <sup>QL</sup>                                                   | Oxymorphone HCI Tab IR / ER (all strengths)                        | Determined pursuant to PA | Determined pursuant to PA |

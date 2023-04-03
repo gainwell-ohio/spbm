@@ -32,23 +32,24 @@ This is a subcategory of Immunomodulator Agents.
 
 ### Non-Preferred
 
-| Non-Preferred   | Generic Name | Quantity | Time (Days) |
-| :-------------- | :----------- | :------: | :---------: |
-| Actemra         |              |          |             |
-| Cibinqo         |              |          |             |
-| Cimzia          |              |          |             |
-| Cosentyx        |              |          |             |
-| Ilumya          |              |          |             |
-| Kevzara         |              |          |             |
-| Olumiant        |              |          |             |
-| Orencia         |              |          |             |
-| Rinvoq          |              |          |             |
-| Siliq           |              |          |             |
-| Simponi         |              |          |             |
-| Skyrizi         |              |          |             |
-| Stelara         |              |          |             |
-| Tremfya         |              |          |             |
-| Xeljanz Sol, XR |              |          |             |
+| Non-Preferred         | Generic Name | Quantity | Time (Days) |
+| :-------------------- | :----------- | :------: | :---------: |
+| Actemra               |              |          |             |
+| Cibinqo               |              |          |             |
+| Cimzia                |              |          |             |
+| Cosentyx              |              |          |             |
+| Ilumya                |              |          |             |
+| Kevzara               |              |          |             |
+| Olumiant              |              |          |             |
+| Orencia               |              |          |             |
+| Rinvoq                |              |          |             |
+| Siliq                 |              |          |             |
+| Simponi               |              |          |             |
+| Skyrizi               |              |          |             |
+| Sotyktu <sup>PA</sup> |              |          |             |
+| Stelara               |              |          |             |
+| Tremfya               |              |          |             |
+| Xeljanz Sol, XR       |              |          |             |
 
 ## Authorizations
 
