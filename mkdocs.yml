@@ -24,7 +24,7 @@ theme:
   features:
     - navigation.instant
     # - navigation.sections
-    # - navigation.tabs
+    - navigation.tabs
     - navigation.prune
     - search.highlighting
     - content.action.edit

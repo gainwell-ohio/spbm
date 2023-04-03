@@ -1,5 +1,7 @@
 # About
 
+This is a digital documentation example for Gainwell Technologies, in support of the Ohio State Pharmacy Benefit Management activity.
+
 ## Delivery Enablement
 
 Gainwell Technologies COO, Steve Hilton, has commissioned Delivery Enablement, led by Tim Henderson, to aggressively drive operational improvement and efficiency into the delivery organizations and to partner with the product and account organizations.
@@ -14,16 +16,15 @@ Maximize scale and efficiency of Gainwell’s staffing through creative automati
 
 Digital workforce focuses on three pillars of work, of which this work product falls within.
 
+## Technologies Incorporated
 
-## Training
+* [MkDocs](https://www.mkdocs.org/)
+* [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
+## Project layout
 
-
-Laura Allen
-
-Justin Collingwood
-
-Kaelyn Dobbins
-
-Cassandra Roach
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
 

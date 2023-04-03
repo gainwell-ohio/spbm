@@ -2,14 +2,13 @@
 
 This is a digital documentation example for Gainwell Technologies, in support of the Ohio State Pharmacy Benefit Management activity.
 
-## Technologies Incorporated
+## Recent Updates (as of )
 
-* [MkDocs](https://www.mkdocs.org/)
-* [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+- Addition of top of page navigation panel to condense information on the left-hand side table of contents
+- Addition of contents from Ohio Pharmacy Reference OneNote
+- Addition of Decision Tree documents as well as links to access the forms
 
-## Project layout
+## Upcoming Updates
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Updates to UPDL going into effect 4/1/2023
+- Addition of Ohio Clinical and Technical Helpdesk OneNote Information
