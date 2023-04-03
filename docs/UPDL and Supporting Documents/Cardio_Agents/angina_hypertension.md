@@ -78,9 +78,9 @@ This is a subcategory of Cardiovascular Agents.
 | Nicardipine <sup>QL</sup>                                | Nicardipine HCI Cap 30 MG                                  |   306    |     102     |
 | Nifedipine <sup>QL</sup>                                 | Nifedipine Cap 10 MG                                       |   918    |     102     |
 | Nifedipine <sup>QL</sup>                                 | Nifedipine Cap 20 MG                                       |   612    |     102     |
-| Nifedipine ER (generic Adalat / Procardia) <sup>QL</sup> | Nifedipine ER Tab Osmotic (all strengths excl 90 MG)       |   204    |     102     |
-| Nifedipine ER generic Adalat) <sup>QL</sup>              | Nifedipine SR Tab 90 MG                                    |   102    |     102     |
-| Nifedipine ER (generic Procardia) <sup>QL</sup>          | Nifedipine ER Tab Osmotic Release 90 MG                    |   102    |     102     |
+| Nifedipine ER <sup>QL</sup> (generic Adalat / Procardia) | Nifedipine ER Tab Osmotic (all strengths excl 90 MG)       |   204    |     102     |
+| Nifedipine ER <sup>QL</sup> (generic Adalat)             | Nifedipine SR Tab 90 MG                                    |   102    |     102     |
+| Nifedipine ER <sup>QL</sup> (generic Procardia)          | Nifedipine ER Tab Osmotic Release 90 MG                    |   102    |     102     |
 | Perindopril                                              |                                                            |          |             |
 | Pindolol <sup>QL</sup>                                   | Pindolol Tab 5 MG                                          |   204    |     102     |
 | Pindolol <sup>QL</sup>                                   | Pindolol Tab 10 MG                                         |   612    |     102     |
@@ -95,9 +95,9 @@ This is a subcategory of Cardiovascular Agents.
 | Quinapril/HCTZ                                           |                                                            |          |             |
 | Ramipril                                                 |                                                            |          |             |
 | Ranolazine                                               |                                                            |          |             |
-| Sotalol (generic Sorine / Betapace) <sup>QL</sup>        | Sotalol HCI Tab (all strengths excl 240 MG)                |   204    |     102     |
-| Sotalol (generic Sorine / Betapace) <sup>QL</sup>        | Sotalol HCI Tab 240 MG                                     |   102    |     102     |
-| Sotalol AF (generic Betapace AF) <sup>QL</sup>           | Sotalol HCI (AFIB / AFL) Tab (all strengths)               |   204    |     102     |
+| Sotalol <sup>QL</sup> (generic Sorine / Betapace)        | Sotalol HCI Tab (all strengths excl 240 MG)                |   204    |     102     |
+| Sotalol <sup>QL</sup> (generic Sorine / Betapace)        | Sotalol HCI Tab 240 MG                                     |   102    |     102     |
+| Sotalol AF <sup>QL</sup> (generic Betapace AF)           | Sotalol HCI (AFIB / AFL) Tab (all strengths)               |   204    |     102     |
 | Spironolactone                                           |                                                            |          |             |
 | Spironolactone/HCTZ                                      |                                                            |          |             |
 | Telmisartan/Amlodipine                                   |                                                            |          |             |
@@ -115,37 +115,39 @@ This is a subcategory of Cardiovascular Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                              | Generic Name | Quantity | Time (Days) |
-| :----------------------------------------- | :----------- | :------: | :---------: |
-| Aliskiren                                  |              |          |             |
-| Aspruzyo Sprinkle                          |              |          |             |
-| Camzyos                                    |              |          |             |
-| Candesartan                                |              |          |             |
-| Candesartan/HCTZ                           |              |          |             |
-| Carospir                                   |              |          |             |
-| Carvedilol ER                              |              |          |             |
-| Corlanor                                   |              |          |             |
-| Edarbi                                     |              |          |             |
-| Diltiazem 24HR ER Tabs <sup>QL</sup>       |              |          |             |
-| Edarbyclor                                 |              |          |             |
-| Hydralazine/HCTZ                           |              |          |             |
-| Innopran XL                                |              |          |             |
-| Isradipine                                 |              |          |             |
-| Kapspargo                                  |              |          |             |
-| Katerzia                                   |              |          |             |
-| Kerendia                                   |              |          |             |
-| Nebivolol                                  |              |          |             |
-| Nimodipine                                 |              |          |             |
-| Nisoldipine                                |              |          |             |
-| Norliqva                                   |              |          |             |
-| Nymalize                                   |              |          |             |
-| Qbrelis                                    |              |          |             |
-| Sotylize <sup>AR</sup>                     |              |          |             |
-| Tekturna / HCTZ                            |              |          |             |
-| Telmisartan                                |              |          |             |
-| Telmisartan / HCTZ                         |              |          |             |
-| Verapamil 200, 300mg ER 24HR <sup>QL</sup> |              |          |             |
-| Verquvo                                    |              |          |             |
+| Non-Preferred                                       | Generic Name | Quantity | Time (Days) |
+| :-------------------------------------------------- | :----------- | :------: | :---------: |
+| Aliskiren                                           |              |          |             |
+| Aspruzyo Sprinkle                                   |              |          |             |
+| Camzyos                                             |              |          |             |
+| Candesartan                                         |              |          |             |
+| Candesartan/HCTZ                                    |              |          |             |
+| Carospir                                            |              |          |             |
+| Carvedilol ER                                       |              |          |             |
+| Clonidine ER <sup>PA</sup> (generic of Nexiclon XR) |              |          |             |
+| Corlanor                                            |              |          |             |
+| Edarbi                                              |              |          |             |
+| Diltiazem 24HR ER Tabs <sup>QL</sup>                |              |          |             |
+| Edarbyclor                                          |              |          |             |
+| Hydralazine/HCTZ                                    |              |          |             |
+| Innopran XL                                         |              |          |             |
+| Isradipine                                          |              |          |             |
+| Kapspargo                                           |              |          |             |
+| Katerzia                                            |              |          |             |
+| Kerendia                                            |              |          |             |
+| Levamlodipine <sup>PA</sup>                         |              |          |             |
+| Nebivolol                                           |              |          |             |
+| Nimodipine                                          |              |          |             |
+| Nisoldipine                                         |              |          |             |
+| Norliqva                                            |              |          |             |
+| Nymalize                                            |              |          |             |
+| Qbrelis                                             |              |          |             |
+| Sotylize <sup>AR</sup>                              |              |          |             |
+| Tekturna / HCTZ                                     |              |          |             |
+| Telmisartan                                         |              |          |             |
+| Telmisartan / HCTZ                                  |              |          |             |
+| Verapamil 200, 300mg ER 24HR <sup>QL</sup>          |              |          |             |
+| Verquvo                                             |              |          |             |
 
 ## Authorizations
 

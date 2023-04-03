@@ -15,24 +15,25 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Preferred
 
-| Preferred              | Generic Name | Quantity | Time (Days) |
-| :--------------------- | :----------- | :------: | :---------: |
-| Neupogen <sup>PA</sup> |              |          |             |
-| Nivestym <sup>PA</sup> |              |          |             |
+| Preferred               | Generic Name | Quantity | Time (Days) |
+| :---------------------- | :----------- | :------: | :---------: |
+| Neupogen <sup>PA</sup>  |              |          |             |
+| Nivestym <sup>PA</sup>  |              |          |             |
+| Nyvepria <sup>PA</sup>  |              |          |             |
+| Ziextenzo <sup>PA</sup> |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
-| Fulphila      |              |          |             |
-| Granix        |              |          |             |
-| Leukine       |              |          |             |
-| Neulasta      |              |          |             |
-| Nyvepria      |              |          |             |
-| Releuko       |              |          |             |
-| Udenyca       |              |          |             |
-| Zarxio        |              |          |             |
-| Ziextenzo     |              |          |             |
+| Non-Preferred          | Generic Name | Quantity | Time (Days) |
+| :--------------------- | :----------- | :------: | :---------: |
+| Fulphila               |              |          |             |
+| Fylnetra <sup>PA</sup> |              |          |             |
+| Granix                 |              |          |             |
+| Leukine                |              |          |             |
+| Neulasta               |              |          |             |
+| Releuko                |              |          |             |
+| Udenyca                |              |          |             |
+| Zarxio                 |              |          |             |
 
 ## Authorizations
 
@@ -49,6 +50,12 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 **All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
 ## Criteria
+
+### Clinical PA
+
+Clinical PA Criteria
+
+- Must provide documentation of diagnosis, patient's weight, and duration of treatment
 
 ### Non-Preferred
 

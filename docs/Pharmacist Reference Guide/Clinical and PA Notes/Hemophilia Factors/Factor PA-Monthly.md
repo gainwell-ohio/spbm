@@ -1,18 +1,16 @@
 # Processing Factor PAs
 
-[HICLSeqNo Approval Info  Email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/HclSeqNo%20Approval%20information.msg?csf=1&web=1&e=mjAgIk)
+[HICLSeqNo Approval Info  Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/HclSeqNo%20Approval%20information.msg?csf=1&web=1&e=mjAgIk){ .md-button .md-button--primary }
 
 There is an identified issue with approving things by Hicl, that the medication does not show up.  Please either at this time approve by GCNSeqNo whenever possible. If Hicl anything is the only route option, the name of the drug requested must be put in the approval notes for the people who receive the letter will know that this is the medication that is being approved or denied. 
  
 At this time as well, if we receive a Factor PA, please enter the PA’s for the totally quantity needed per month at maintenance and we will use edit overrides to allow the prn doses when required. 
 
-
-
 When using HICL- please put the name of the medication in the Letter TEXT 
 
 Letter Text: sample
-***APPROVED MEDICATION: ELOCTATE***
 
+***APPROVED MEDICATION: ELOCTATE***
 
 ***Potential issues using monthly dosing:***
 
@@ -53,9 +51,8 @@ Approved by Person:
 ***When using HICL- please put the name of the medication in the Letter TEXT*** (Problem with PAs processed by HICL INC0021786)
 
 Letter Text: sample
+
 APPROVED MEDICATION: ELOCTATE
-
-
 
 ***Note: *1895 is less than any PRN bleed doses and therefore any PRN doses will reject with Edit 7215.  Workaround pending***
 

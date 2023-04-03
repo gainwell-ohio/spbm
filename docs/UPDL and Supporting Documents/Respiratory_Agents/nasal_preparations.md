@@ -33,6 +33,7 @@ This is a subcategory of Respiratory Agents.
 | Mometasone                     |              |          |             |
 | Omnaris                        |              |          |             |
 | Qnasl                          |              |          |             |
+| Ryaltris <sup>PA</sup>         |              |          |             |
 | Xhance                         |              |          |             |
 | Zetonna                        |              |          |             |
 

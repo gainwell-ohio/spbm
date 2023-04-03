@@ -67,10 +67,9 @@ search:
 | Oxycodone Cap <sup>QL</sup>                                   | Meperidine <sup>QL</sup>                                                      |
 | Oxycodone Sol <sup>QL</sup>                                   | Methadone <sup>QL</sup>                                                       |
 | Oxycodone Tab <sup>QL</sup>                                   | Morphine ER 24HR Cap <sup>QL</sup>                                            |
-| Oxycodone / Acetaminophen <sup>QL</sup>                       | Oxaydo <sup>QL</sup>                                                          |
-| Tramadol <sup>QL</sup>                                        | Oxycodone ER <sup>QL</sup>                                                    |
-| Tramadol / Acetaminophen <sup>QL</sup>                        | Oxycodone / Ibuprofen <sup>QL</sup>                                           |
-|                                                               | Oxymorphone IR <sup>QL</sup>                                                  |
+| Oxycodone / Acetaminophen <sup>QL</sup>                       | Oxycodone ER <sup>QL</sup>                                                    |
+| Tramadol <sup>QL</sup>                                        | Oxycodone / Ibuprofen <sup>QL</sup>                                           |
+| Tramadol / Acetaminophen <sup>QL</sup>                        | Oxymorphone IR <sup>QL</sup>                                                  |
 |                                                               | Oxymorphone ER <sup>QL</sup>                                                  |
 |                                                               | Pentazocine / Naloxone <sup>QL</sup>                                          |
 |                                                               | Seglentis <sup>QL</sup>                                                       |
@@ -84,17 +83,16 @@ search:
 
 **Colony Stimulating Factors**
 
-| Preferred              | Non-Preferred |
-| ---------------------- | ------------- |
-| Neupogen <sup>PA</sup> | Fulphila      |
-| Nivestym <sup>PA</sup> | Granix        |
-|                        | Leukine       |
-|                        | Neulasta      |
-|                        | Nyvepria      |
-|                        | Releuko       |
-|                        | Udenyca       |
-|                        | Zarxio        |
-|                        | Ziextenzo     |
+| Preferred               | Non-Preferred          |
+| ----------------------- | ---------------------- |
+| Neupogen <sup>PA</sup>  | Fulphila               |
+| Nivestym <sup>PA</sup>  | Fylnetra <sup>PA</sup> |
+| Nyvepria <sup>PA</sup>  | Granix                 |
+| Ziextenzo <sup>PA</sup> | Leukine                |
+|                         | Neulasta               |
+|                         | Releuko                |
+|                         | Udenyca                |
+|                         | Zarxio                 |
 
 [Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=10)
 
@@ -172,89 +170,90 @@ search:
 | Prasugrel <sup>QL</sup>   |               |
 
 [Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=15)
+
 ## Cardiovascular Agents
 
 **Angina, Hypertension and Heart Failure**
 
-| Preferred                             | Non-Preferred                               |
-| ------------------------------------- | ------------------------------------------- |
-| Acebutolol <sup>QL</sup>              | Aliskiren                                   |
-| Amlodipine <sup>QL</sup>              | Aspruzyo Sprinkle                           |
-| Amlodipine / Benazepril               | Camzyos                                     |
-| Amlodipine / Olmesartan <sup>QL</sup> | Candesartan                                 |
-| Amlodipine / Valsartan                | Candesartan / HCTZ                          |
-| Amlodipine /Valsartan / HCTZ          | Corospir                                    |
-| Atenolol <sup>QL</sup>                | Carvedilol ER                               |
-| Atenolol / Chlorthalidone             | Corlanor                                    |
-| Benazepril                            | Diltiazem 24 HR ER Tabs <sup>QL</sup>       |
-| Benazepril / HCTZ                     | Edarbi                                      |
-| Betaxolol <sup>QL</sup>               | Edarbyclor                                  |
-| Bisoprolol <sup>QL</sup>              | Hydralazine / HCTZ                          |
-| Bisoprolol / HCTZ                     | Innopran XL                                 |
-| Bystolic <sup>BvG</sup>               | Isradipine                                  |
-| Captopril                             | Kapspargo                                   |
-| Captopril / HCTZ                      | Katerzia                                    |
-| Cartia XT                             | Kerendia                                    |
-| Carvedilol <sup>QL</sup>              | Nebivolol                                   |
-| Clonidine                             | Nimodipine                                  |
-| Diltiazem <sup>QL</sup>               | Nisoldipine                                 |
-| Diltiazem 12HR ER Cap <sup>QL</sup>   | Norliqva                                    |
-| Diltiazem 24HR ER Cap <sup>QL</sup>   | Nymalize                                    |
-| Doxazosin                             | Qbrelis                                     |
-| Dutoprol                              | Sotylize <sup>AR</sup>                      |
-| Enalapril Tab                         | Tekturna/HCTZ                               |
-| Enalapril / HCTZ                      | Telmisartan                                 |
-| Entresto <sup>PA</sup>                | Telmisartan / HCTZ                          |
-| Enalapril Sol                         | Verapamil 200, 300mg ER 24 HR <sup>QL</sup> |
-| Eplerenone                            | Verquvo                                     |
-| Felodipine ER <sup>QL</sup>           |                                             |
-| Fosinopril                            |                                             |
-| Fosinopril / HCTZ                     |                                             |
-| Guanfacine                            |                                             |
-| Hemangeol <sup>AR</sup>               |                                             |
-| Hydralazine                           |                                             |
-| Irbesartan <sup>QL</sup>              |                                             |
-| Irbesartan / HCTZ <sup>QL</sup>       |                                             |
-| Labetalol <sup>QL</sup>               |                                             |
-| Lisinopril                            |                                             |
-| Lisinopril / HCTZ                     |                                             |
-| Losartan <sup>QL</sup>                |                                             |
-| Losartan / HCTZ                       |                                             |
-| Olmesartan                            |                                             |
-| Olmesartan /Amlodipine / HCTZ         |                                             |
-| Olmesartan / HCTZ                     |                                             |
-| Methyldopa                            |                                             |
-| Methyldopa / HCTZ                     |                                             |
-| Metoprolol Succinate <sup>QL</sup>    |                                             |
-| Metoprolol Tartrate <sup>QL</sup>     |                                             |
-| Metoprolol / HCTZ <sup>QL</sup>       |                                             |
-| Minoxidil                             |                                             |
-| Moexipril                             |                                             |
-| Nadolol <sup>QL</sup>                 |                                             |
-| Nadolol / Bendroflumethiazide         |                                             |
-| Nicardipine <sup>QL</sup>             |                                             |
-| Nifedipine <sup>QL</sup>              |                                             |
-| Perindopril                           |                                             |
-| Pindolol <sup>QL</sup>                |                                             |
-| Prazosin                              |                                             |
-| Propranolol                           |                                             |
-| Propranolol / HCTZ                    |                                             |
-| Quinapril                             |                                             |
-| Quinapril / HCTZ                      |                                             |
-| Ramipril                              |                                             |
-| Ranolazine                            |                                             |
-| Sotalol <sup>QL</sup>                 |                                             |
-| Spironolactone                        |                                             |
-| Spironolactone / HCTZ                 |                                             |
-| Telmisartan / Amlodipine              |                                             |
-| Terazosin                             |                                             |
-| Timolol <sup>QL</sup>                 |                                             |
-| Trandolapril                          |                                             |
-| Trandolapril / Verapamil              |                                             |
-| Valsartan <sup>QL</sup>               |                                             |
-| Valsartan / HCTZ <sup>QL</sup>        |                                             |
-| Verapamil IR <sup>QL</sup>            |                                             |
-| Verapamil SR <sup>QL</sup>            |                                             |
+| Preferred                             | Non-Preferred                                       |
+| ------------------------------------- | --------------------------------------------------- |
+| Acebutolol <sup>QL</sup>              | Aliskiren                                           |
+| Amlodipine <sup>QL</sup>              | Aspruzyo Sprinkle                                   |
+| Amlodipine / Benazepril               | Camzyos                                             |
+| Amlodipine / Olmesartan <sup>QL</sup> | Candesartan                                         |
+| Amlodipine / Valsartan                | Candesartan / HCTZ                                  |
+| Amlodipine /Valsartan / HCTZ          | Corospir                                            |
+| Atenolol <sup>QL</sup>                | Carvedilol ER                                       |
+| Atenolol / Chlorthalidone             | Clonidine ER <sup>PA</sup> (generic of Nexiclon XR) |
+| Benazepril                            | Corlanor                                            |
+| Benazepril / HCTZ                     | Diltiazem 24 HR ER Tabs <sup>QL</sup>               |
+| Betaxolol <sup>QL</sup>               | Edarbi                                              |
+| Bisoprolol <sup>QL</sup>              | Edarbyclor                                          |
+| Bisoprolol / HCTZ                     | Hydralazine / HCTZ                                  |
+| Bystolic <sup>BvG</sup>               | Innopran XL                                         |
+| Captopril                             | Isradipine                                          |
+| Captopril / HCTZ                      | Kapspargo                                           |
+| Cartia XT                             | Katerzia                                            |
+| Carvedilol <sup>QL</sup>              | Kerendia                                            |
+| Clonidine                             | Levamlodipine <sup>PA</sup>                         |
+| Diltiazem <sup>QL</sup>               | Nebivolol                                           |
+| Diltiazem 12HR ER Cap <sup>QL</sup>   | Nimodipine                                          |
+| Diltiazem 24HR ER Cap <sup>QL</sup>   | Nisoldipine                                         |
+| Doxazosin                             | Norliqva                                            |
+| Dutoprol                              | Nymalize                                            |
+| Enalapril Tab                         | Qbrelis                                             |
+| Enalapril / HCTZ                      | Sotylize <sup>AR</sup>                              |
+| Entresto <sup>PA</sup>                | Tekturna/HCTZ                                       |
+| Enalapril Sol                         | Telmisartan                                         |
+| Eplerenone                            | Telmisartan / HCTZ                                  |
+| Felodipine ER <sup>QL</sup>           | Verapamil 200, 300mg ER 24 HR <sup>QL</sup>         |
+| Fosinopril                            | Verquvo                                             |
+| Fosinopril / HCTZ                     |                                                     |
+| Guanfacine                            |                                                     |
+| Hemangeol <sup>AR</sup>               |                                                     |
+| Hydralazine                           |                                                     |
+| Irbesartan <sup>QL</sup>              |                                                     |
+| Irbesartan / HCTZ <sup>QL</sup>       |                                                     |
+| Labetalol <sup>QL</sup>               |                                                     |
+| Lisinopril                            |                                                     |
+| Lisinopril / HCTZ                     |                                                     |
+| Losartan <sup>QL</sup>                |                                                     |
+| Losartan / HCTZ                       |                                                     |
+| Olmesartan                            |                                                     |
+| Olmesartan /Amlodipine / HCTZ         |                                                     |
+| Olmesartan / HCTZ                     |                                                     |
+| Methyldopa                            |                                                     |
+| Methyldopa / HCTZ                     |                                                     |
+| Metoprolol Succinate <sup>QL</sup>    |                                                     |
+| Metoprolol Tartrate <sup>QL</sup>     |                                                     |
+| Metoprolol / HCTZ <sup>QL</sup>       |                                                     |
+| Minoxidil                             |                                                     |
+| Moexipril                             |                                                     |
+| Nadolol <sup>QL</sup>                 |                                                     |
+| Nadolol / Bendroflumethiazide         |                                                     |
+| Nicardipine <sup>QL</sup>             |                                                     |
+| Nifedipine <sup>QL</sup>              |                                                     |
+| Perindopril                           |                                                     |
+| Pindolol <sup>QL</sup>                |                                                     |
+| Prazosin                              |                                                     |
+| Propranolol                           |                                                     |
+| Propranolol / HCTZ                    |                                                     |
+| Quinapril                             |                                                     |
+| Quinapril / HCTZ                      |                                                     |
+| Ramipril                              |                                                     |
+| Ranolazine                            |                                                     |
+| Sotalol <sup>QL</sup>                 |                                                     |
+| Spironolactone                        |                                                     |
+| Spironolactone / HCTZ                 |                                                     |
+| Telmisartan / Amlodipine              |                                                     |
+| Terazosin                             |                                                     |
+| Timolol <sup>QL</sup>                 |                                                     |
+| Trandolapril                          |                                                     |
+| Trandolapril / Verapamil              |                                                     |
+| Valsartan <sup>QL</sup>               |                                                     |
+| Valsartan / HCTZ <sup>QL</sup>        |                                                     |
+| Verapamil IR <sup>QL</sup>            |                                                     |
+| Verapamil SR <sup>QL</sup>            |                                                     |
 
 
 [Link to Criteria: Cardiovascular Agents: Angina, Hypertension & Heart Failure](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=16)
@@ -307,9 +306,9 @@ search:
 | Ambrisentan <sup>PA</sup>        | Adempas       |
 | Sildenafil <sup>PA</sup>         | Bosentan      |
 | Sildenafil Susp <sup>AR PA</sup> | Epoprostenol  |
-| Tadalafil <sup>PA</sup>          | Opsumit       |
-| Tracleer Tab <sup>BvG PA</sup>   | Tracleer Susp |
-|                                  | Treprostinil  |
+| Tadliq <sup>PA</sup>             | Opsumit       |
+| Tadalafil <sup>AR PA</sup>       | Tracleer Susp |
+| Tracleer Tab <sup>BvG PA</sup>   | Treprostinil  |
 |                                  | Tyvaso        |
 |                                  | Uptravi       |
 |                                  | Ventavis      |
@@ -399,8 +398,8 @@ search:
 | Pregabalin <sup>QL</sup>      | Vigabatrin                      |
 | Primidone                     | Vigabatrin Powder <sup>AR</sup> |
 | Topiramate                    | Xcopri                          |
-| Trileptal Susp <sup>BvG</sup> |                                 |
-| Valproic Acid                 |                                 |
+| Trileptal Susp <sup>BvG</sup> | Zonisade Susp <sup>PA</sup>     |
+| Valproic Acid                 | Ztalmy <sup>PA</sup>            |
 | Lacosamide <sup>ST</sup>      |                                 |
 | Zonisamide                    |                                 |
 
@@ -422,23 +421,24 @@ search:
 | Preferred                                             | Non-Preferred                                      |
 | ----------------------------------------------------- | -------------------------------------------------- |
 | Bupropion <sup>QL</sup>                               | Aplenzin                                           |
-| Bupropion SR (generic of Wellbutrin SR) <sup>QL</sup> | Brisdelle                                          |
-| Bupropion XL (generic of Wellbutrin XL) <sup>QL</sup> | Bupropion XL (generic of Forfivo XL) <sup>QL</sup> |
-| Citalopram <sup>QL</sup>                              | Clomipramine                                       |
-| Duloxetine 20, 30, 60 MG <sup>QL</sup>                | Desvenlafaxine                                     |
-| Escitalopram <sup>QL</sup>                            | Drizalma Sprinkle                                  |
-| Fluoxetine 10, 20, 40 MG <sup>QL</sup>                | Duloxetine 40 MG <sup>QL</sup>                     |
-| Fluoxetine Sol <sup>QL</sup>                          | Emsam                                              |
-| Fluvoxamine <sup>QL</sup>                             | Fetzima                                            |
-| Mirtazapine <sup>QL</sup>                             | Fluoxetine 60 MG <sup>QL</sup>                     |
-| Nefazodone <sup>QL</sup>                              | Fluoxetine DR <sup>QL</sup>                        |
-| Paroxetine IR Tab <sup>QL</sup>                       | Fluvoxamine ER <sup>QL</sup>                       |
-| Paroxetine Sol <sup>QL</sup>                          | Marplan                                            |
-| Sertraline                                            | Paroxetine Cap                                     |
-| Tranylcypromine                                       | Paroxetine ER Tab                                  |
-| Trazodone 50, 100, 150 MG <sup>QL</sup>               | Pexeva                                             |
-| Venlafaxine IR Tab <sup>QL</sup>                      | Phenelzine                                         |
-| Venlafaxine ER Cap <sup>QL</sup>                      | Trazodone 300 MG <sup>QL</sup>                     |
+| Bupropion SR (generic of Wellbutrin SR) <sup>QL</sup> | Auvelity <sup>PA</sup>                             |
+| Bupropion XL (generic of Wellbutrin XL) <sup>QL</sup> | Brisdelle                                          |
+| Citalopram <sup>QL</sup>                              | Bupropion XL (generic of Forfivo XL) <sup>QL</sup> |
+| Duloxetine 20, 30, 60 MG <sup>QL</sup>                | Clomipramine                                       |
+| Escitalopram <sup>QL</sup>                            | Desvenlafaxine                                     |
+| Fluoxetine 10, 20, 40 MG <sup>QL</sup>                | Drizalma Sprinkle                                  |
+| Fluoxetine Sol <sup>QL</sup>                          | Duloxetine 40 MG <sup>QL</sup>                     |
+| Fluvoxamine <sup>QL</sup>                             | Emsam                                              |
+| Mirtazapine <sup>QL</sup>                             | Fetzima                                            |
+| Nefazodone <sup>QL</sup>                              | Fluoxetine 60 MG <sup>QL</sup>                     |
+| Paroxetine IR Tab <sup>QL</sup>                       | Fluoxetine DR <sup>QL</sup>                        |
+| Paroxetine Sol <sup>QL</sup>                          | Fluvoxamine ER <sup>QL</sup>                       |
+| Sertraline                                            | Marplan                                            |
+| Tranylcypromine                                       | Paroxetine Cap                                     |
+| Trazodone 50, 100, 150 MG <sup>QL</sup>               | Paroxetine ER Tab                                  |
+| Venlafaxine IR Tab <sup>QL</sup>                      | Pexeva                                             |
+| Venlafaxine ER Cap <sup>QL</sup>                      | Phenelzine                                         |
+|                                                       | Trazodone 300 MG <sup>QL</sup>                     |
 |                                                       | Trintellix                                         |
 |                                                       | Venlafaxine ER Tab                                 |
 |                                                       | Viibryd <sup>BvG</sup>                             |
@@ -840,14 +840,14 @@ search:
 
 [Link to Criteria: Endocrine Agents: Growth Hormone](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=54)
 
-**Bone Ossification Enhancers**
+**Osteoporosis - Bone Ossification Enhancers**
 
-| Preferred            | Non-Preferred    |
-| -------------------- | ---------------- |
-| Alendronate Tab      | Alendronate Susp |
-| Calcitonin-Salmon    | Fosamax Plus D   |
-| Forteo <sup>QL</sup> | Risedronate      |
-| Ibandronate          | Tymlos           |
+| Preferred               | Non-Preferred    |
+| ----------------------- | ---------------- |
+| Alendronate Tab         | Alendronate Susp |
+| Calcitonin-Salmon       | Fosamax Plus D   |
+| Forteo <sup>PA QL</sup> | Risedronate      |
+| Ibandronate             | Tymlos           |
 
 [Link to Criteria: Endocrine Agents: Osteoporosis - Bone Ossification Enhancers](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=57)
 
@@ -1001,6 +1001,7 @@ search:
 | --------------------------------- | ------------------------ |
 | Alfuzosin                         | Cardura XL               |
 | Doxazosin                         | Dutasteride / Tamsulosin |
+|                                   | Entadfi <sup>PA</sup>    |
 | Dutasteride                       | Silodosin                |
 | Finasteride                       |                          |
 | Prazosin                          |                          |
@@ -1039,23 +1040,24 @@ search:
 
 **Systemic Inflammatory Disease**
 
-| Preferred                | Non-Preferred   |
-| ------------------------ | --------------- |
-| Adbry <sup>PA</sup>      | Actemra         |
-| Enbrel <sup>PA</sup>     | Cibinqo         |
-| Dupixent <sup>PA</sup>   | Cimzia          |
-| Humira <sup>PA</sup>     | Cosentyx        |
-| Kineret <sup>PA</sup>    | Ilumya          |
-| Otezla <sup>PA</sup>     | Kevzara         |
-| Taltz <sup>PA ST</sup>   | Olumiant        |
-| Xeljanz IR <sup>PA</sup> | Orencia         |
-|                          | Rinvoq          |
-|                          | Siliq           |
-|                          | Simponi         |
-|                          | Skyrizi         |
-|                          | Stelara         |
-|                          | Tremfya         |
-|                          | Xeljanz Sol, XR |
+| Preferred                | Non-Preferred         |
+| ------------------------ | --------------------- |
+| Adbry <sup>PA</sup>      | Actemra               |
+| Enbrel <sup>PA</sup>     | Cibinqo               |
+| Dupixent <sup>PA</sup>   | Cimzia                |
+| Humira <sup>PA</sup>     | Cosentyx              |
+| Kineret <sup>PA</sup>    | Ilumya                |
+| Otezla <sup>PA</sup>     | Kevzara               |
+| Taltz <sup>PA ST</sup>   | Olumiant              |
+| Xeljanz IR <sup>PA</sup> | Orencia               |
+|                          | Rinvoq                |
+|                          | Siliq                 |
+|                          | Simponi               |
+|                          | Sotyktu <sup>PA</sup> |
+|                          | Skyrizi               |
+|                          | Stelara               |
+|                          | Tremfya               |
+|                          | Xeljanz Sol, XR       |
 
 [Link to Criteria: Immunomodulator Agents for Systemic Inflammatory Disease](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=71)
 
@@ -1125,16 +1127,17 @@ search:
 
 **Antifungals**
 
-| Preferred    | Non-Preferred |
-| ------------ | ------------- |
-| Fluconazole  | Brexafemme    |
-| Flucytosine  | Cresemba      |
-| Griseofulvin | Itraconazole  |
-| Ketoconazole | Noxafil Susp  |
-| Terbinafine  | Oravig        |
-|              | Posaconazole  |
-|              | Tolsura       |
-|              | Voriconazole  |
+| Preferred    | Non-Preferred        |
+| ------------ | -------------------- |
+| Fluconazole  | Brexafemme           |
+| Flucytosine  | Cresemba             |
+| Griseofulvin | Itraconazole         |
+| Ketoconazole | Noxafil Susp         |
+| Terbinafine  | Oravig               |
+|              | Posaconazole         |
+|              | Tolsura              |
+|              | Vivjoa <sup>PA</sup> |
+|              | Voriconazole         |
 
 [Link to Criteria: Infectious Disease Agents: Antifungals](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=78)
 
@@ -1434,6 +1437,7 @@ search:
 | Ipratropium <sup>QL</sup>        | Mometasone                     |
 | Olopatadine                      | Omnaris                        |
 |                                  | Qnasl                          |
+|                                  | Ryaltris <sup>PA</sup>         |
 |                                  | Xhance                         |
 |                                  | Zetonna                        |
 
@@ -1515,5 +1519,6 @@ search:
 | Tacrolimus <sup>AR ST</sup> | Opzelura                   |
 |                             | Pimecrolimus <sup>AR</sup> |
 |                             | Vtama                      |
+|                             | Zoryve <sup>PA</sup>       |
 
 [Link to Criteria: Topical Agents: Immunomodulators](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=101)

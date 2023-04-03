@@ -23,12 +23,17 @@ theme:
         name: Switch to light mode
   features:
     - navigation.instant
-    # - navigation.sections
+    - navigation.sections
     - navigation.tabs
     - navigation.prune
-    - search.highlighting
+    - search.highlight
     - content.action.edit
 markdown_extensions:
+    - attr_list
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+
     - toc:
         permalink: True
         separator: "_"

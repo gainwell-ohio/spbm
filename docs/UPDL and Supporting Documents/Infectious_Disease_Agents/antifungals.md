@@ -21,16 +21,17 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Non-Preferred
 
-| Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
-| Brexafemme    |              |          |             |
-| Cresemba      |              |          |             |
-| Itraconazole  |              |          |             |
-| Noxafil Susp  |              |          |             |
-| Oravig        |              |          |             |
-| Posaconazole  |              |          |             |
-| Tolsura       |              |          |             |
-| Voriconazole  |              |          |             |
+| Non-Preferred        | Generic Name | Quantity | Time (Days) |
+| :------------------- | :----------- | :------: | :---------: |
+| Brexafemme           |              |          |             |
+| Cresemba             |              |          |             |
+| Itraconazole         |              |          |             |
+| Noxafil Susp         |              |          |             |
+| Oravig               |              |          |             |
+| Posaconazole         |              |          |             |
+| Tolsura              |              |          |             |
+| Vivjoa <sup>PA</sup> |
+| Voriconazole         |              |          |             |
 
 ## Authorizations
 
@@ -49,6 +50,14 @@ Non-Preferred Criteria
 - Must have had an inadequate clinical response of at least **7 days** with at least **one preferred** drug
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+### Oteseconazole (Vivjoa)
+
+Additional Oteseconazole (Vivjoa) Criteria
+
+- Must provide documentation of at least three symptomatic episodes of vulvovaginal candidiasis in the past 12 months
+- Must provide documentation of non-reproductive potential (i.e, post-menopausal)
+- Must have had an inadequate clinical response of at least **180 day** maintenance course with oral fluconazole shown by documentation of more than **one** breakthrough infection 
 
 ### Additional Information
 

@@ -13,4 +13,7 @@ The criteria for hormonal therapy is not quite as strict as the criteria for sur
 	determined hormone treatment to be appropriate
  
 Sending them all to appeal is fine, as at this point we really need better guidance from ODM on how they want these cases handled.
-heart 2![image](https://user-images.githubusercontent.com/122046056/227100049-35ae5dc8-6134-4503-abe7-bdb58c4e9224.png)
+
+heart 2
+
+![image](https://user-images.githubusercontent.com/122046056/227100049-35ae5dc8-6134-4503-abe7-bdb58c4e9224.png)

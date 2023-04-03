@@ -1,8 +1,6 @@
 # DESI Drugs
 
-[Desi Drug Situations](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Desi%20Drug%20Situations.msg?csf=1&web=1&e=EdsfRG)
-
-
+[Desi Drug Situations Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Desi%20Drug%20Situations.msg?csf=1&web=1&e=EdsfRG){ .md-button .md-button--primary }
 
 After further defining why there are green payable drugs in the NDC Maintenance tile from Tyler – 
 
@@ -18,7 +16,7 @@ I did get an example of a payable NDC not rejecting for DESI status in a typical
  
 So as of now, If we get prior authorizations for what was once thought totally DESI, if there are green payable NDCs in that GCNSeqNO, I would not deny for admin denial DESI criteria, but process as a normal PA would be and strongly suggest if approving to include something like this in the APPROVAL LETTER Letter Text section:
  
-Please note that claims must be processed for a payable NDC to provide a successful claim submission
+**Please note that claims must be processed for a payable NDC to provide a successful claim submission**
  
 There may be questions from pharmacies/providers about if a PA gets approved for this situation but I imagine they will need to use a payable NDC, which can be found in an NDC tile GCNSeqNO search. There maybe issues where if they are older approvals and NDCs used that pharmacies my not be able to acquire a payable one, but this is similar to any situation involving supply issues of payable medications.
 
