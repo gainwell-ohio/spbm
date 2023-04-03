@@ -4,7 +4,6 @@
 
 SEMAGLUTIDE can show up in our system for various different drugs, which you already know. To be consistent as a group, please use the following guidance:
 
-
 For SEMAGLUTIDE (OZEMPIC and Rybelsus) requests:
 
 1.	If using for weight loss – Admin denial
@@ -12,7 +11,6 @@ For SEMAGLUTIDE (OZEMPIC and Rybelsus) requests:
  
  ![image](https://user-images.githubusercontent.com/122046056/227429570-c73d21b0-2d13-4bd3-a36e-b416d949bb00.png)
 
- 
 - Preferred agents in the same class include: Byetta, Trulicity and Victoza. 
 - Need 3 trials (120 days each) of 3 preferred medications (one of which must be Byetta Trulicity or Victoza).
 

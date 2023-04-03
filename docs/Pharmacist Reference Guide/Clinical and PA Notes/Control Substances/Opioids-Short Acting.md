@@ -11,7 +11,7 @@ As always, in general practice please refer to all our resources like the UPDL a
  
 From the UPDL - 
 
-***Effective July 1, 2018, patients with short acting opioid therapy will be limited to 30 MED per prescription and a maximum of 7 days per prescription. Prior authorization will be required to exceed these limits***
+**Effective July 1, 2018, patients with short acting opioid therapy will be limited to 30 MED per prescription and a maximum of 7 days per prescription. Prior authorization will be required to exceed these limits**
  
 This means any pharmacy or provider or member call questioning any situation that is beyond the statement above, requires a PA
  

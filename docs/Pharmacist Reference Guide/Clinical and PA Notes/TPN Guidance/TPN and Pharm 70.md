@@ -3,8 +3,8 @@
 [TPN and all medications dispensed for provider 70 :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/TPN%20and%20all%20medications%20dispensed%20for%20provider%2070.msg?csf=1&web=1&e=EKbUZ6){ .md-button .md-button--primary }
 
 Hello, 
-T
-here have been some recent questions associated with TPN billing/prior authorizations.
+
+There have been some recent questions associated with TPN billing/prior authorizations.
 
 This Email is to stress the importance in verifying all meds, TPN or otherwise, that when being dispensed from a 70 provider pharmacy, are paid for through the SPBM and information found in OAC and SPBM handbook
 
