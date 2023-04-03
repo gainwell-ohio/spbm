@@ -1,12 +1,12 @@
 # Drug Shortage
 
-[Medication Shortages Email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Medication%20Shortages.msg?csf=1&web=1&e=uJY9mh)
+[Medication Shortages Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Medication%20Shortages.msg?csf=1&web=1&e=uJY9mh){ .md-button .md-button--primary }
 
 Here is the general for shortage issues:
 If it is a known shortage ( Check the AHSP website) and if listed-
-	· Have the pharmacy process for a DAW 4 or 8
-	· If still having a rejection, place an EO or PA for the time stated of shortage, up to 3 months
- 
+
+- Have the pharmacy process for a DAW 4 or 8
+- If still having a rejection, place an EO or PA for the time stated of shortage, up to 3 months
  
 If there is an unknown shortage,(still check AHSP website)
 
@@ -16,4 +16,5 @@ If there is an unknown shortage,(still check AHSP website)
 - The documents of the invoices need to be able to be sent in when pharmacies are open, and attached to a PA or EO as required, verified and approved so members can get their medication.
  
 Thanks, Please ask if any questions
+
 Justin Collingwood

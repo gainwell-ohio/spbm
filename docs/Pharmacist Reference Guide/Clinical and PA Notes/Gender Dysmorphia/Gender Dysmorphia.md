@@ -8,16 +8,21 @@ References:
 
 Approval for 18yo and up
 
-
 [Gender Affirming Treatment](file:///C:/Users/cnguyen/AppData/Local/Packages/Microsoft.Office.OneNote_8wekyb3d8bbwe/LocalState/EmbeddedFileFolder/7/Gender-Affirming%20Therapy.pdf)
+
 [Transgender Medicine](file:///C:/Users/cnguyen/AppData/Local/Packages/Microsoft.Office.OneNote_8wekyb3d8bbwe/LocalState/EmbeddedFileFolder/8/AACE%20Transgender%20Health%20Slide%20Set%20v3.pdf)
 
-Feminizing Hormone Therapy:  
+Feminizing Hormone Therapy:
+
 Typically, you'll begin feminizing hormone therapy by taking the diuretic spironolactone (Aldactone) at doses of 100 to 200 milligrams daily. This blocks male sex hormone (androgen) receptors and can suppress testosterone production.
+
 After four to eight weeks, you'll begin taking estrogen to decrease testosterone production and induce feminization. Estrogen can be taken in a variety of methods, including as a pill, by injection or in skin preparations, such as a cream, gel, spray or patch. Don't take estrogen orally, however, if you have a personal or family history of venous thrombosis. Use of gonadotropin-releasing hormone (Gn-RH) analogs to suppress testosterone production might allow you to take lower estrogen doses and wouldn't require the use of spironolactone. However, Gn-RH analogs are more expensive.
+
 Additional therapies might include:
-	• Progesterone that's been reduced to tiny particles (micronized), which might improve breast development
-	• Finasteride (Propecia) or topical minoxidil (Rogaine) or both for people prone to male-pattern baldness
+
+- Progesterone that's been reduced to tiny particles (micronized), which might improve breast development
+- Finasteride (Propecia) or topical minoxidil (Rogaine) or both for people prone to male-pattern baldness
+
 From <https://www.mayoclinic.org/tests-procedures/feminizing-hormone-therapy/about/pac-20385096> 
 
 American Association of Clinical Endocrinology
