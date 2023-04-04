@@ -1,6 +1,6 @@
 # Buprenorphine Criteria
 
-[Buprenorphine Criteria Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Bup/FW%20Buprenorphine%20Criteria.msg?csf=1&web=1&e=av1FPF){ .md-button .md-button--primary }
+[Buprenorphine Criteria Email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Bup/FW%20Buprenorphine%20Criteria.msg?csf=1&web=1&e=av1FPF){ .md-button .md-button--primary }
 
 **Recommended ODM PA Criteria**
 
@@ -41,3 +41,19 @@ Code rule 4731-33-03 Office based treatment for opioid addiction.
 Members should not be allowed to take both injectable buprenorphine and oral buprenorphine concomitantly
 
 Each PA request (whether initiation or maintenance) must meet the buprenorphine approval criteria (pregnancy, breastfeeding, etc) and this needs to be confirmed on each PA authorization
+
+## Buprenorphine peer to peer and appeals requests
+
+[Buprenorphine peer to peer and appeals requests](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Buprenorphine%20peer%20to%20peer%20and%20appeals%20requests.msg?csf=1&web=1&e=q7ZrtZ)
+
+Hello, 
+I am and have given the PA pharmacists the following directive involving re-review situations for generic Subutex.
+
+
+Any appeal or p2p information we receive for buprenorphine mono product for opioid dependence (generic subutex), please assess if new information is provided (pregnancy, breastfeeding, IGE mediated reactions) that will allow approval, if not we are to involve the medical director to get a second opinion at this time if it involves going against the directive we have been given. We have been given the directive to deny but they may have a different perspective and can further clinically assess each situation as it comes to them. They are aware of our specific directive from ODM. We are to defer to the medical directors expertise in these situations and proceed as directed. Please include OH_MCD_PBM_clinical <OH_MCD_PBM_clinical@gainwelltechnologies.com> on all p2p and appeals for buprenorphine involving medical director in case of state hearings.
+
+Any questions please ask,
+Thanks,
+
+Justin Collingwood
+
