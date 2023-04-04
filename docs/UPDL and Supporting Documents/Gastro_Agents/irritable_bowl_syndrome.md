@@ -18,7 +18,7 @@ This is a subcategory of Gastrointestinal Agents.
 
 | Preferred                | Generic Name                  | Quantity | Time (Days) |
 | :----------------------- | :---------------------------- | :------: | :---------: |
-| Diphenoxylate/Atropine   |                               |          |             |
+| Diphenoxylate / Atropine   |                               |          |             |
 | Loperamide <sup>QL</sup> | Loperamide HCI Cap & Tab 2 MG |    80    |     34      |
 | Xifaxan <sup>ST</sup>    |                               |          |             |
 
@@ -62,8 +62,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=65)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=66)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=23)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=23)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

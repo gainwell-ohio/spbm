@@ -12,7 +12,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 ### Preferred
 
 | Preferred                                             | Generic Name                                                  |         Quantity          |        Time (Days)        |
-| :---------------------------------------------------- | :------------------------------------------------------------ | :-----------------------: | :-----------------------: |
+|:------------------------------------------------------|:--------------------------------------------------------------|:-------------------------:|:-------------------------:|
 | Bupropion <sup>QL</sup>                               | Bupropion HCI Tab (all strengths)                             |            306            |            102            |
 | Bupropion SR (generic of Wellbutrin SR) <sup>QL</sup> | Bupropion HCI SR Tab 12 HR (all strengths)                    |            204            |            102            |
 | Bupropion XL (generic of Wellbutrin XL) <sup>QL</sup> | Bupropion HCI SR Tab 24 HR (all strengths)                    |            102            |            102            |
@@ -46,9 +46,9 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 ### Non-Preferred
 
 | Non-Preferred                                      | Generic Name                                                  |         Quantity          |        Time (Days)        |
-| :------------------------------------------------- | :------------------------------------------------------------ | :-----------------------: | :-----------------------: |
+|:---------------------------------------------------|:--------------------------------------------------------------|:-------------------------:|:-------------------------:|
 | Aplenzin                                           |                                                               |                           |                           |
-| Auvelity <sup>PA</sup>                             |                                                               |                           |                           |
+| Auvelity                                           |                                                               |                           |                           |
 | Brisdelle                                          |                                                               |                           |                           |
 | Bupropion XL (generic of Forfivo XL) <sup>QL</sup> | Bupropion HCI SR Tab 24 HR (all strengths)                    |            102            |            102            |
 | Clomipramine                                       |                                                               |                           |                           |
@@ -74,7 +74,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 **Length of Authorizations**: 365 Days
 
-### Grandfathering
+### Grandfathering*
 
 Patients who have a claim for a non-preferred drug, in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug previously but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
 
@@ -108,8 +108,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=33)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=33)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=15)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=15)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

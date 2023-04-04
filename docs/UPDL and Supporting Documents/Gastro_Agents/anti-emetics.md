@@ -18,7 +18,7 @@ Gastrointestinal Agents: Anti-Emetics
 ### Preferred
 
 | Preferred                   | Generic Name | Quantity | Time (Days) |
-| :-------------------------- | :----------- | :------: | :---------: |
+|:----------------------------|:-------------|:--------:|:-----------:|
 | Aprepitant 40mg, 125 MG     |              |          |             |
 | Diclegis <sup>BvG</sup>     |              |          |             |
 | Dimenhydrinate              |              |          |             |
@@ -37,15 +37,15 @@ Gastrointestinal Agents: Anti-Emetics
 
 ### Non-Preferred
 
-| Non-Preferred                   | Generic Name | Quantity | Time (Days) |
-| :------------------------------ | :----------- | :------: | :---------: |
-| Aprepitant 80 mg                |              |          |             |
-| Aprepitant TriPac               |              |          |             |
-| Bonjesta                        |              |          |             |
-| Doxylamine/Pyridoxine 10mg/10mg |              |          |             |
-| Metoclopramide ODT              |              |          |             |
-| Sancuso                         |              |          |             |
-| Zuplenz                         |              |          |             |
+| Non-Preferred           | Generic Name | Quantity | Time (Days) |
+|:------------------------|:-------------|:--------:|:-----------:|
+| Aprepitant 80 mg        |              |          |             |
+| Aprepitant TriPac       |              |          |             |
+| Bonjesta                |              |          |             |
+| Doxylamine / Pyridoxine |              |          |             |
+| Metoclopramide ODT      |              |          |             |
+| Sancuso                 |              |          |             |
+| Zuplenz                 |              |          |             |
 
 ## Authorizations
 
@@ -73,8 +73,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=62)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=63)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=23)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=23)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

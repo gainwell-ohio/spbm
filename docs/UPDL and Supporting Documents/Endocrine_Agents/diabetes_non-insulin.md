@@ -8,6 +8,7 @@ search:
 This is a subcategory of Endocrine Agents.
 
 ## Decision Trees
+
 - [Diabetes - Non-Insulin- Non-Preferred Agents- Adlyxin, Alogliptin, Bydureon Bcise, Glucophage, Metformin ER (Generic of Fortamet, Glumetza), Metformin Sol, Mounjaro, Onglyza, Ozempic, Rybelsus, Steglatro, Symlinpen](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMVIwMlBWT1M5STNTNkdPTFBUVE5OQUdESyQlQCN0PWcu&topview=Preview)
 - [Diabetes - Non-Insulin- Non-Preferred Agents – Combination Agents- Alogliptin/Metformin, Glimepiride/Pioglitazone, Glyxambi, Invokamet XR, Jentadueto XR, Kombiglyze XR, Pioglitazone/Alogliptin, Qtern, Segluromet, Soliqua, Steglujan, Synjardy XR, Trijardy XR, Xigduo XR, Xultophy](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUIzRENINzhMNkpFQlQ1Rzc3NENUQVI5OCQlQCN0PWcu&topview=Preview)
 
@@ -117,7 +118,7 @@ the individual drugs
 
 - An inadequate clinical response is defined as the inability to reach A1C goal after at least 120 days of current regimen with documented adherence and appropriate dose escalation.
 - Requests may be authorized for patients with a condition that is difficult to control (i.e., prone to ketoacidosis, hypoglycemia)
-- For non-preferred drugs that have preferred drugs in the same drug class: must provide documentation that there was at least one inadequate clinical response with a drug in same drug class
+- For non-preferred drugs that have preferred drugs in the same drug class: must provide documentation that there was at least **one** inadequate clinical response with a drug in same drug class
 
 ### Subsequent Authorization
 
@@ -127,8 +128,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=54)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=55)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=21)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=21)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

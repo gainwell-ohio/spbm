@@ -18,8 +18,8 @@ This is a subcategory of Endocrine Agents.
 | Preferred                                | Generic Name                                                                |         Quantity          |        Time (Days)        |
 | :--------------------------------------- | :-------------------------------------------------------------------------- | :-----------------------: | :-----------------------: |
 | Lupron Depot <sup>PA</sup> 3.75, 11.25mg | Leuprolide Acetate for Depot IM Susp 3.75 MG & 11.25 MG                     | Determined pursuant to PA | Determined pursuant to PA |
-| Oriahnn <sup>PA QL</sup>                 | Elagolix / Estradiol / Norethindrone Acetate & Elagolix Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 | Myfembree <sup>PA QL</sup>               | Relugolix / Estradiol / Norethindrone Acetate Tab (all strengths)           | Determined pursuant to PA | Determined pursuant to PA |
+| Oriahnn <sup>PA QL</sup>                 | Elagolix / Estradiol / Norethindrone Acetate & Elagolix Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 
 ### Non-Preferred
 
@@ -34,6 +34,12 @@ This is a subcategory of Endocrine Agents.
 **All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
 ## Criteria
+
+### Clinical PA
+
+Clinical PA Criteria
+
+- Must have had an inadequate clinical response of at least **90 days** with at least **one preferred** oral contraceptive
 
 ### Non-Preferred
 
@@ -57,8 +63,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=61)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=62)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=22)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=22)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

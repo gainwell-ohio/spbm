@@ -12,7 +12,7 @@ This is a subcategory of Endocrine Agents.
 ### Preferred
 
 | Preferred                                 | Generic Name                                                    | Quantity | Time (Days) |
-| :---------------------------------------- | :-------------------------------------------------------------- | :------: | :---------: |
+|:------------------------------------------|:----------------------------------------------------------------|:--------:|:-----------:|
 | Climara Pro <sup>QL</sup>                 |                                                                 |          |             |
 | Combipatch <sup>QL</sup>                  | Estradiol-Norethindrone Acetate TD Twice Weekly (all strengths) |    8     |     28      |
 | Dotti <sup>QL</sup>                       | Estradiol TD Patch Twice Weekly (all strengths)                 |    8     |     28      |
@@ -30,13 +30,15 @@ This is a subcategory of Endocrine Agents.
 ### Non-Preferred
 
 | Non-Preferred                     | Generic Name                                    |         Quantity          |        Time (Days)        |
-| :-------------------------------- | :---------------------------------------------- | :-----------------------: | :-----------------------: |
+|:----------------------------------|:------------------------------------------------|:-------------------------:|:-------------------------:|
 | Angeliq                           |                                                 |                           |                           |
 | Climara <sup>QL</sup>             | Estradiol TD Patch Once Weekly (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
-| Divigel                           |                                                 |                           |                           |
+| Divigel <sup>BvG</sup>            |                                                 |                           |                           |
 | Duavee                            |                                                 |                           |                           |
+| Elestrin <sup>BvG</sup>           |                                                 |                           |                           |
 | Estradiol 10mcg Vag Tab           |                                                 |                           |                           |
 | Estradiol / Norethindrone Acetate |                                                 |                           |                           |
+| Estrogel <sup>BvG</sup>           |                                                 |                           |                           |
 | Evamist                           |                                                 |                           |                           |
 | Femring                           |                                                 |                           |                           |
 | Menostar <sup>QL</sup>            |                                                 |                           |                           |
@@ -74,8 +76,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=56)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=57)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=21)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=21)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

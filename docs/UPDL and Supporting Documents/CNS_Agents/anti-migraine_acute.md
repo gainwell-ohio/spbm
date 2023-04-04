@@ -19,7 +19,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Rizatriptan <sup>QL</sup>             | Rizatriptan Benzoate (all strengths and formulations)  |             9             |            30             |
 | Sumatriptan Inj <sup>QL</sup>         | Sumatriptan Succinate Subcutaneous Inj (all strengths) |             4             |            30             |
 | Sumatriptan Tab <sup>QL</sup>         | Sumatriptan Succinate Tab (all strengths)              |             9             |            30             |
-| Tosymra <sup>QL</sup>                 | Sumatriptan Succinate Nasal Spray (all strengths)      |             8             |            30             |
+| Tosymra <sup>BvG QL</sup>                 | Sumatriptan Succinate Nasal Spray (all strengths)      |             8             |            30             |
 
 ### Non-Preferred
 
@@ -78,8 +78,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=26)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=26)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=13)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=13)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

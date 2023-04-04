@@ -16,7 +16,7 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 ### Preferred
 
 | Preferred               | Generic Name | Quantity | Time (Days) |
-| :---------------------- | :----------- | :------: | :---------: |
+|:------------------------|:-------------|:--------:|:-----------:|
 | Neupogen <sup>PA</sup>  |              |          |             |
 | Nivestym <sup>PA</sup>  |              |          |             |
 | Nyvepria <sup>PA</sup>  |              |          |             |
@@ -24,23 +24,23 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Non-Preferred
 
-| Non-Preferred          | Generic Name | Quantity | Time (Days) |
-| :--------------------- | :----------- | :------: | :---------: |
-| Fulphila               |              |          |             |
-| Fylnetra <sup>PA</sup> |              |          |             |
-| Granix                 |              |          |             |
-| Leukine                |              |          |             |
-| Neulasta               |              |          |             |
-| Releuko                |              |          |             |
-| Udenyca                |              |          |             |
-| Zarxio                 |              |          |             |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+|:--------------|:-------------|:--------:|:-----------:|
+| Fulphila      |              |          |             |
+| Fylnetra      |              |          |             |
+| Granix        |              |          |             |
+| Leukine       |              |          |             |
+| Neulasta      |              |          |             |
+| Releuko       |              |          |             |
+| Udenyca       |              |          |             |
+| Zarxio        |              |          |             |
 
 ## Authorizations
 
 **Length of Authorizations**: Dependent upon diagnosis below
 
 | Diagnosis                                                                                                                                                                           | Approval Length                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
 | Acute Myeloid Leukemia (AML)                                                                                                                                                        | 14 days or duration of chemotherapy regimen |
 | Malignancy at risk for febrile neutropenia or undergoing myeloablative chemotherapy prior to allogeneic or autologous bone marrow transplantation                                   | 14 days or duration of chemotherapy regimen |
 | Myeloid Engraftment for bone marrow transplant (BMT)                                                                                                                                | 30 days                                     |
@@ -75,8 +75,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=13)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=13)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=9)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=9)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

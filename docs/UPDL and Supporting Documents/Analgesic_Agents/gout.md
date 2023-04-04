@@ -11,17 +11,18 @@ This is a subcategory of Analgesic Agents.
 
 ### Preferred
 
-| Preferred                 | Generic Name                    | Quantity                  | Time (Days)               |
-| ------------------------- | ------------------------------- | ------------------------- | ------------------------- |
-| Allopurinol <sup>QL</sup> | Allopurinol Tab (all strengths) | 204                       | 102                       |
-| Colchicine Tab            | Colchicine Tab (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
-| Colcrys <sup>PA QL</sup>  | Colchicine Tab (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
-| Probenecid <sup>QL</sup>  | Probenecid Tab (all strengths)  | 408                       | 102                       |
+| Preferred                             | Generic Name                    | Quantity                  | Time (Days)               |
+|---------------------------------------|---------------------------------|---------------------------|---------------------------|
+| Allopurinol 100, 300 MG <sup>QL</sup> | Allopurinol Tab (all strengths) | 204                       | 102                       |
+| Colchicine Tab <sup>PA QL</sup>       | Colchicine Tab (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
+| Colcrys Tab <sup>PA QL</sup>              | Colchicine Tab (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
+| Probenecid <sup>QL</sup>              | Probenecid Tab (all strengths)  | 408                       | 102                       |
 
 ### Non-Preferred
 
 | Non-Preferred                       | Generic Name                                 | Quantity                  | Time (Days)               |
-| ----------------------------------- | -------------------------------------------- | ------------------------- | ------------------------- |
+|-------------------------------------|----------------------------------------------|---------------------------|---------------------------|
+| Allopurinol 200 MG <sup>QL</sup>    | Allopurinol Tab (all strengths)              | 204                       | 102                       |                                    |                           |
 | Mitigare <sup>BvG QL</sup>          | Colchicine Cap (all strengths)               | Determined pursuant to PA | Determined pursuant to PA |
 | Febuxostat                          |                                              |                           |                           |
 | Gloperba Susp <sup>QL</sup>         | Colchicine Soln (all strengths)              | Determined pursuant to PA | Determined pursuant to PA |
@@ -40,7 +41,7 @@ This is a subcategory of Analgesic Agents.
 Clinical PA Criteria
 
 -   Must have had an inadequate clinical response with an NSAID and oral corticosteroid within the last 30 days for acute gout diagnosis **OR**
--   Must have had an inadequate clinical response of at least 30 days with the maximally tolerated xanthine oxidase inhibitor dose for chronic gout diagnosis
+-   Must have had an inadequate clinical response of at least **30 days** with the maximally tolerated xanthine oxidase inhibitor dose for chronic gout diagnosis
 
 ### Non-Preferred
 
@@ -56,7 +57,7 @@ Non-Preferred Criteria
 
 Additional Colchicine Capsule (Mitigare) Criteria
 
--   Must have had an inadequate clinical response of 30 days with colchicine tablets
+-   Must have had an inadequate clinical response of **30 days** with colchicine tablets
 
 ### Colchicine Solution (Gloperba)
 
@@ -74,8 +75,9 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=8)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=8)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=8)
+
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=8)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf#overlay-context=drug-coverage)

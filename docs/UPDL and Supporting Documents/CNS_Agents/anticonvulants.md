@@ -12,7 +12,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 ### Preferred
 
 | Preferred                       | Generic Name                                        |         Quantity          |        Time (Days)        |
-| :------------------------------ | :-------------------------------------------------- | :-----------------------: | :-----------------------: |
+|:--------------------------------|:----------------------------------------------------|:-------------------------:|:-------------------------:|
 | Banzel Tab <sup>BvG</sup>       |                                                     |                           |                           |
 | Carbamazepine                   |                                                     |                           |                           |
 | Clobazam                        |                                                     |                           |                           |
@@ -49,39 +49,38 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                   | Generic Name                             |         Quantity          |        Time (Days)        |
-| :------------------------------ | :--------------------------------------- | :-----------------------: | :-----------------------: |
-| Aptiom                          |                                          |                           |                           |
-| Briviact                        |                                          |                           |                           |
-| Celontin                        |                                          |                           |                           |
-| Clonazepam ODT                  |                                          |                           |                           |
-| Elepsia XR                      |                                          |                           |                           |
-| Felbamate                       |                                          |                           |                           |
-| Fintepla                        |                                          |                           |                           |
-| Lacosamide Soln                 | Lacosamide Oral Solution (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Lamotrigine ER                  |                                          |                           |                           |
-| Lamotrigine ODT                 |                                          |                           |                           |
-| Levetiracetam ER Tab            |                                          |                           |                           |
-| Oxtellar XR                     |                                          |                           |                           |
-| Peganone                        |                                          |                           |                           |
-| Qudexy XR <sup>BvG</sup>        |                                          |                           |                           |
-| Rufinamide Tab, Soln            |                                          |                           |                           |
-| Spritam                         |                                          |                           |                           |
-| Sympazan                        |                                          |                           |                           |
-| Tiagabine                       |                                          |                           |                           |
-| Topiramate Sprinkle Cap         |                                          |                           |                           |
-| Trokendi XR                     |                                          |                           |                           |
-| Vigabatrin                      |                                          |                           |                           |
-| Vigabatrin Powder <sup>AR</sup> |                                          |                           |                           |
-| Xcopri                          |                                          |                           |                           |
-| Zonisade Susp <sup>PA</sup>     |                                          |                           |                           |
-| Ztalmy <sup>PA</sup>            |                                          |                           |
+| Non-Preferred                   | Generic Name | Quantity | Time (Days) |
+|:--------------------------------|:-------------|:--------:|:-----------:|
+| Aptiom                          |              |          |             |
+| Briviact                        |              |          |             |
+| Celontin                        |              |          |             |
+| Clonazepam ODT                  |              |          |             |
+| Elepsia XR                      |              |          |             |
+| Felbamate                       |              |          |             |
+| Fintepla                        |              |          |             |
+| Lamotrigine ER                  |              |          |             |
+| Lamotrigine ODT                 |              |          |             |
+| Levetiracetam ER Tab            |              |          |             |
+| Oxtellar XR                     |              |          |             |
+| Peganone                        |              |          |             |
+| Qudexy XR <sup>BvG</sup>        |              |          |             |
+| Rufinamide Tab, Soln            |              |          |             |
+| Spritam                         |              |          |             |
+| Sympazan                        |              |          |             |
+| Tiagabine                       |              |          |             |
+| Topiramate Sprinkle Cap         |              |          |             |
+| Trokendi XR <sup>BvG</sup>      |              |          |             |
+| Vigabatrin                      |              |          |             |
+| Vigabatrin Powder <sup>AR</sup> |              |          |             |
+| Xcopri                          |              |          |             |
+| Zonisade Susp                   |              |          |             |
+| Ztalmy                          |              |          |             |
 
 ## Authorizations
 
 **Length of Authorizations**: 365 Days except Epidiolex and Diacomit - Initial: 180 days
 
-### Grandfathering
+### Grandfathering* (except Diacomit)
 
 Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug previously, but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
 
@@ -126,19 +125,22 @@ Non-Preferred Criteria
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
+- Prescriptions submitted from a prescriber who is registered as a neurology specialty with Ohio Medicaid AND for drugs that are used only for seizures, there must have been an inadequate clinical response of at least **30 days** with **one preferred** drug. This provision applies only to the standard tablet / capsule dosage form and does not apply to brand products with available generic alternatives.
+
 ### Subsequent Authorization
 
 Subsequent Authorization Criteria
 
-- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring (i.e., documented reduction in average number of seizure days per month [measured monthly or quarterly])
 
 **AR** - Vigabatrin Powder: a PA is required for patients 3 years and older
+
 **AR** - Eprontia Solution: a PA is required for patients 12 years and older
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=30)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=30)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=14)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=14)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

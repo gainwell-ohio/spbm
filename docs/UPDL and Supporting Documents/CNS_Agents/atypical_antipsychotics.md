@@ -34,7 +34,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 410 MG / 1.32 ML (all formulations)   |           1.32            |            84             |
 | Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 546 MG / 1.75 ML (all formulations)   |           1.75            |            84             |
 | Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 819 MG / 2.63 ML (all formulations)   |           2.63            |            84             |
-| Latuda <sup>ST QL</sup>         | Lurasidone HCI Tab (all strengths)                                   | Determined pursuant to PA | Determined pursuant to PA |
+| Latuda <sup>BvG ST QL</sup>         | Lurasidone HCI Tab (all strengths)                                   | Determined pursuant to PA | Determined pursuant to PA |
 | Olanzapine <sup>QL</sup>        | Olanzapine Tab (all strengths)                                       |            102            |            102            |
 | Perseris                        |                                                                      |                           |                           |
 | Quetiapine IR <sup>QL</sup>     | Quetiapine Fumarate Tab 25 MG & 50 MG & 100 MG                       |            306            |            102            |
@@ -75,7 +75,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 **Length of Authorizations**: 365 Days
 
-### Grandfathering
+### Grandfathering*
 
 Patients who have a claim for a non-preferred drug, or drug requiring step therapy, in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug in the previously, but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
 
@@ -153,8 +153,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=35)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=36)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=16)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=16)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
