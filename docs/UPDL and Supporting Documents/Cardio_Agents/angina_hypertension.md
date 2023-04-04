@@ -12,7 +12,7 @@ This is a subcategory of Cardiovascular Agents.
 ### Preferred
 
 | Preferred                                                | Generic Name                                               | Quantity | Time (Days) |
-| :------------------------------------------------------- | :--------------------------------------------------------- | :------: | :---------: |
+|:---------------------------------------------------------|:-----------------------------------------------------------|:--------:|:-----------:|
 | Acebutolol <sup>QL</sup>                                 | Acebutolol HCI Cap 200 MG                                  |   612    |     102     |
 | Acebutolol <sup>QL</sup>                                 | Acebutolol HCI Cap 400 MG                                  |   306    |     102     |
 | Amlodipine <sup>QL</sup>                                 | Amlodipine Besylate Tab (all strengths excl 5 MG           |   102    |     102     |
@@ -36,7 +36,7 @@ This is a subcategory of Cardiovascular Agents.
 | Cartia XT                                                | Diltiazem HCI Coated Beads SR Cap (all strengths)          |   102    |     102     |
 | Carvedilol <sup>QL</sup>                                 | Carvedilol Tab (all strengths excl 25 MG)                  |   204    |     102     |
 | Carvedilol <sup>QL</sup>                                 | Carvedilol Tab 25 MG                                       |   408    |     102     |
-| Clonidine                                                |                                                            |          |             |
+| Clonidine IR, Patch                                      |                                                            |          |             |
 | Diltiazem <sup>QL</sup>                                  | Diltiazem HCI Tab (all strengths)                          |   408    |     102     |
 | Diltiazem 12HR ER Cap <sup>QL</sup>                      |                                                            |          |             |
 | Diltiazem 24HR ER Cap <sup>QL</sup>                      |                                                            |          |             |
@@ -115,39 +115,39 @@ This is a subcategory of Cardiovascular Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                                       | Generic Name | Quantity | Time (Days) |
-| :-------------------------------------------------- | :----------- | :------: | :---------: |
-| Aliskiren                                           |              |          |             |
-| Aspruzyo Sprinkle                                   |              |          |             |
-| Camzyos                                             |              |          |             |
-| Candesartan                                         |              |          |             |
-| Candesartan/HCTZ                                    |              |          |             |
-| Carospir                                            |              |          |             |
-| Carvedilol ER                                       |              |          |             |
-| Clonidine ER <sup>PA</sup> (generic of Nexiclon XR) |              |          |             |
-| Corlanor                                            |              |          |             |
-| Edarbi                                              |              |          |             |
-| Diltiazem 24HR ER Tabs <sup>QL</sup>                |              |          |             |
-| Edarbyclor                                          |              |          |             |
-| Hydralazine/HCTZ                                    |              |          |             |
-| Innopran XL                                         |              |          |             |
-| Isradipine                                          |              |          |             |
-| Kapspargo                                           |              |          |             |
-| Katerzia                                            |              |          |             |
-| Kerendia                                            |              |          |             |
-| Levamlodipine <sup>PA</sup>                         |              |          |             |
-| Nebivolol                                           |              |          |             |
-| Nimodipine                                          |              |          |             |
-| Nisoldipine                                         |              |          |             |
-| Norliqva                                            |              |          |             |
-| Nymalize                                            |              |          |             |
-| Qbrelis                                             |              |          |             |
-| Sotylize <sup>AR</sup>                              |              |          |             |
-| Tekturna / HCTZ                                     |              |          |             |
-| Telmisartan                                         |              |          |             |
-| Telmisartan / HCTZ                                  |              |          |             |
-| Verapamil 200, 300mg ER 24HR <sup>QL</sup>          |              |          |             |
-| Verquvo                                             |              |          |             |
+| Non-Preferred                              | Generic Name | Quantity | Time (Days) |
+|:-------------------------------------------|:-------------|:--------:|:-----------:|
+| Aliskiren                                  |              |          |             |
+| Aspruzyo Sprinkle                          |              |          |             |
+| Camzyos                                    |              |          |             |
+| Candesartan                                |              |          |             |
+| Candesartan/HCTZ                           |              |          |             |
+| Carospir                                   |              |          |             |
+| Carvedilol ER                              |              |          |             |
+| Clonidine ER (generic of Nexiclon XR)      |              |          |             |
+| Corlanor                                   |              |          |             |
+| Edarbi                                     |              |          |             |
+| Diltiazem 24HR ER Tabs <sup>QL</sup>       |              |          |             |
+| Edarbyclor                                 |              |          |             |
+| Hydralazine/HCTZ                           |              |          |             |
+| Innopran XL                                |              |          |             |
+| Isradipine                                 |              |          |             |
+| Kapspargo                                  |              |          |             |
+| Katerzia                                   |              |          |             |
+| Kerendia                                   |              |          |             |
+| Levamlodipine                              |              |          |             |
+| Nebivolol                                  |              |          |             |
+| Nimodipine                                 |              |          |             |
+| Nisoldipine                                |              |          |             |
+| Norliqva                                   |              |          |             |
+| Nymalize                                   |              |          |             |
+| Qbrelis                                    |              |          |             |
+| Sotylize <sup>AR</sup>                     |              |          |             |
+| Tekturna / HCTZ                            |              |          |             |
+| Telmisartan                                |              |          |             |
+| Telmisartan / HCTZ                         |              |          |             |
+| Verapamil 200, 300mg ER 24HR <sup>QL</sup> |              |          |             |
+| Verquvo                                    |              |          |             |
 
 ## Authorizations
 
@@ -210,11 +210,13 @@ Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
+**AR** - Sotylize Solution: a PA is required for patients 6 years and older
+
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=19)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=19)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=11)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=10)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
 

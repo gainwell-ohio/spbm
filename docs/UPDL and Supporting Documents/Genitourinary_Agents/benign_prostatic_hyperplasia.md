@@ -18,7 +18,7 @@ This is a subcategory of Genitourinary Agents.
 ### Preferred
 
 | Preferred                         | Generic Name | Quantity | Time (Days) |
-| :-------------------------------- | :----------- | :------: | :---------: |
+|:----------------------------------|:-------------|:--------:|:-----------:|
 | Alfuzosin                         |              |          |             |
 | Doxazosin                         |              |          |             |
 | Dutasteride                       |              |          |             |
@@ -31,10 +31,10 @@ This is a subcategory of Genitourinary Agents.
 ### Non-Preferred
 
 | Non-Preferred            | Generic Name | Quantity | Time (Days) |
-| :----------------------- | :----------- | :------: | :---------: |
+|:-------------------------|:-------------|:--------:|:-----------:|
 | Cardura XL               |              |          |             |
 | Dutasteride / Tamsulosin |              |          |             |
-| Entadfi <sup>PA</sup>    |              |          |             |
+| Entadfi                  |              |          |             |
 | Silodosin                |              |          |             |
 
 ## Authorizations
@@ -44,6 +44,12 @@ This is a subcategory of Genitourinary Agents.
 **All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
 ## Criteria
+
+### Tadalafil (Cialis)
+
+Tadalafil (Cialis) Criteria
+
+- Must have had an inadequate clinical response of at least **30 days** with at least **one** alpha-1 adrenergic blocker and at least **90 days** of finasteride
 
 ### Non-Preferred
 
@@ -69,8 +75,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=70)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=71)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=24)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=24)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

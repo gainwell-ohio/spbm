@@ -68,8 +68,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=43)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=44)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=17)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=17)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

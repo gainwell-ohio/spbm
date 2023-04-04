@@ -20,7 +20,7 @@ This is a subcategory of Immunomodulator Agents.
 ### Preferred
 
 | Preferred                | Generic Name | Quantity | Time (Days) |
-| :----------------------- | :----------- | :------: | :---------: |
+|:-------------------------|:-------------|:--------:|:-----------:|
 | Adbry <sup>PA</sup>      |              |          |             |
 | Enbrel <sup>PA</sup>     |              |          |             |
 | Dupixent <sup>PA</sup>   |              |          |             |
@@ -32,24 +32,24 @@ This is a subcategory of Immunomodulator Agents.
 
 ### Non-Preferred
 
-| Non-Preferred         | Generic Name | Quantity | Time (Days) |
-| :-------------------- | :----------- | :------: | :---------: |
-| Actemra               |              |          |             |
-| Cibinqo               |              |          |             |
-| Cimzia                |              |          |             |
-| Cosentyx              |              |          |             |
-| Ilumya                |              |          |             |
-| Kevzara               |              |          |             |
-| Olumiant              |              |          |             |
-| Orencia               |              |          |             |
-| Rinvoq                |              |          |             |
-| Siliq                 |              |          |             |
-| Simponi               |              |          |             |
-| Skyrizi               |              |          |             |
-| Sotyktu <sup>PA</sup> |              |          |             |
-| Stelara               |              |          |             |
-| Tremfya               |              |          |             |
-| Xeljanz Sol, XR       |              |          |             |
+| Non-Preferred   | Generic Name | Quantity | Time (Days) |
+|:----------------|:-------------|:--------:|:-----------:|
+| Actemra         |              |          |             |
+| Cibinqo         |              |          |             |
+| Cimzia          |              |          |             |
+| Cosentyx        |              |          |             |
+| Ilumya          |              |          |             |
+| Kevzara         |              |          |             |
+| Olumiant        |              |          |             |
+| Orencia         |              |          |             |
+| Rinvoq          |              |          |             |
+| Siliq           |              |          |             |
+| Simponi         |              |          |             |
+| Skyrizi         |              |          |             |
+| Sotyktu         |              |          |             |
+| Stelara         |              |          |             |
+| Tremfya         |              |          |             |
+| Xeljanz Sol, XR |              |          |             |
 
 ## Authorizations
 
@@ -111,8 +111,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=73)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=74)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=25)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=25)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

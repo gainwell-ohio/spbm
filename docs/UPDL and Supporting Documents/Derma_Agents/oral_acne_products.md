@@ -44,7 +44,7 @@ This is a subcategory of Dermatological Agents.
 
 Clinical PA Criteria
 
-- Must have had an inadequate clinical response of at least 90 days with at least **one preferred** topical **AND one preferred** oral antibiotic for acne
+- Must have had an inadequate clinical response of at least **90 days** with at least **one preferred** topical **AND one preferred** oral antibiotic for acne
 - Must be absent of oral tretinoin in the past 56 days
 - Patient must be registered and meet all of the requirements of the iPLEDGE program
 
@@ -71,8 +71,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=49)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=50)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=19)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=19)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

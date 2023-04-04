@@ -45,23 +45,23 @@ Non-Preferred Criteria
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-### Teriparatide (Forteo <sup>TM</sup>)
+### Teriparatide (Forteo<sup>TM</sup>)
 
-Teriparatide (Forteo <sup>TM</sup>) Criteria
+Teriparatide (Forteo<sup>TM</sup>) Criteria
 
 - Must have had an inadequate clinical response of at least **365 days** with **one** bisphosphonate
 - A total lifetime duration of therapy of 730 days will be authorized between any parathyroid analog
 
-### Abaloparatide (Tymlos <sup>TM</sup>)
+### Abaloparatide (Tymlos<sup>TM</sup>)
 
-Additional Abaloparatide (Tymlos <sup>TM</sup>) Criteria
+Additional Abaloparatide (Tymlos<sup>TM</sup>) Criteria
 
-Must have had an inadequate clinical response of at least **365 days** with **one** bisphosphonate
+- Must have had an inadequate clinical response of at least **365 days** with **one** bisphosphonate
+- A total lifetime duration of therapy of 730 days will be authorized between any parathyroid analog
 
 ### Additional Information
 
 - Patients should only be on ONE of the therapeutic classes (bisphosphonates, calcitonin-salmon)
-- A total lifetime duration of therapy of 730 days with any parathyroid analog will be authorized
 
 ### Subsequent Authorization
 
@@ -71,8 +71,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=59)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=60)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=13)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=22)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

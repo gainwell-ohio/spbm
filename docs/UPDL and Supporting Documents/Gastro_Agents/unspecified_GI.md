@@ -12,7 +12,7 @@ This is a subcategory of Gastrointestinal Agents.
 ### Preferred
 
 | Preferred                          | Generic Name                  | Quantity | Time (Days) |
-| :--------------------------------- | :---------------------------- | :------: | :---------: |
+|:-----------------------------------|:------------------------------|:--------:|:-----------:|
 | Amitiza <sup>BvG ST</sup>          |                               |          |             |
 | Bisacodyl                          |                               |          |             |
 | Casanthranol / Docusate Sodium     |                               |          |             |
@@ -31,7 +31,7 @@ This is a subcategory of Gastrointestinal Agents.
 ### Non-Preferred
 
 | Non-Preferred  | Generic Name | Quantity | Time (Days) |
-| :------------- | :----------- | :------: | :---------: |
+|:---------------|:-------------|:--------:|:-----------:|
 | Aemcolo        |              |          |             |
 | Gattex         |              |          |             |
 | Ibsrela        |              |          |             |
@@ -41,7 +41,7 @@ This is a subcategory of Gastrointestinal Agents.
 | Mytesi         |              |          |             |
 | Relistor       |              |          |             |
 | Symproic       |              |          |             |
-| Zorbitive      |              |          |             |
+| Zorbtive       |              |          |             |
 
 ## Authorizations
 
@@ -55,7 +55,7 @@ This is a subcategory of Gastrointestinal Agents.
 
 Step Therapy Approval Criteria
 
-- Must have had an inadequate clinical response to at least **14 days** with at least two preferred drugs
+- Must have had an inadequate clinical response to at least **14 days** with at least **two preferred** drugs
 
 ### Non-Preferred
 
@@ -91,12 +91,12 @@ Additional Somatropin Injection (Zorbtive) and Tedloglutide (Gattex) Criteria
 
 Subsequent Authorization Criteria
 
-- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring (i.e., decreased frequency of specialized nutrition support or improvement in symptoms)
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=69)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=70)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=24)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=24)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

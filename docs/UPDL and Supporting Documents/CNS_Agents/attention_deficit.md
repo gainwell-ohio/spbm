@@ -12,7 +12,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 ### Preferred
 
 | Preferred                                                                              | Generic Name                                                  | Quantity | Time (Days) |
-| :------------------------------------------------------------------------------------- | :------------------------------------------------------------ | :------: | :---------: |
+|:---------------------------------------------------------------------------------------|:--------------------------------------------------------------|:--------:|:-----------:|
 | Amphetamine/Dextroamphetamine ER <sup>AR QL</sup>                                      | Amphetamine-Dextroamphetamine ER Cap (all strengths)          |    34    |     34      |
 | Amphetamine/Dextroamphetamine IR <sup>AR QL</sup>                                      | Amphetamine-Dextroamphetamine Tab (all strengths excl 30 MG)  |   102    |     34      |
 | Amphetamine/Dextroamphetamine IR <sup>AR QL</sup>                                      | Amphetamine-Dextroamphetamine Tab 30 MG                       |    68    |     34      |
@@ -26,7 +26,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Dextroamphetamine ER Cap <sup>AR QL</sup>                                              | Dextroamphetamine Sulfate ER Cap (all strengths excl 15 MG)   |    34    |     34      |
 | Dextroamphetamine ER Cap <sup>AR QL</sup>                                              | Dextroamphetamine Sulfate ER Cap 15 MG                        |   136    |     34      |
 | Dextroamphetamine IR Tab <sup>AR QL</sup>                                              | Dextroamphetamine Sulfate Tab (all strengths)                 |   102    |     34      |
-| Dextroamphetamine Sol AR <sup>AR QL</sup>                                              |                                                               |          |             |
+| Dextroamphetamine Sol <sup>AR</sup>                                                    |                                                               |          |             |
 | Dyanavel XR <sup>AR</sup>                                                              |                                                               |          |             |
 | Guanfacine ER <sup>QL</sup>                                                            | Guanfacine HCI ER Tab (all strengths)                         |    34    |     34      |
 | Methylphenidate ER Cap <sup>AR QL</sup> (generic of Metadate CD, Ritalin LA)           |                                                               |          |             |
@@ -44,7 +44,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 ### Non-Preferred
 
 | Non-Preferred                                                         | Generic Name                                                 |         Quantity          |        Time (Days)        |
-| :-------------------------------------------------------------------- | :----------------------------------------------------------- | :-----------------------: | :-----------------------: |
+|:----------------------------------------------------------------------|:-------------------------------------------------------------|:-------------------------:|:-------------------------:|
 | Adhansia XR <sup>AR</sup>                                             |                                                              |                           |                           |
 | Adzenys ER                                                            |                                                              |                           |                           |
 | Adzenys XR ODT                                                        |                                                              |                           |                           |
@@ -57,7 +57,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Methamphetamine                                                       |                                                              |                           |                           |
 | Methylphenidate Chewable Tab <sup>AR QL</sup>                         | Methylphenidate HCI Chew Tab (all strengths)                 | Determined pursuant to PA | Determined pursuant to PA |
 | Methylphenidate ER <sup>AR QL</sup>(generic of Aptensio XR, Relexxii) |                                                              |                           |                           |
-| Mydayis <sup>AR QL</sup>                                              | Amphetamin / Dextroamphetamine 3-Bead ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Mydayis <sup>QL</sup>                                                 | Amphetamin / Dextroamphetamine 3-Bead ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 | Vyvanse Chewable Tab                                                  |                                                              |                           |                           |
 | Zenzedi <sup>AR QL</sup>                                              | Dextroamphetamine Sulfate Tab (all strengths)                | Determined pursuant to PA | Determined pursuant to PA |
 
@@ -96,14 +96,18 @@ Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-AR - Dextroamphetamine Solution: a PA is required for patients over 12 years old
+**AR** - Adderall, Dexedrine, & Zenzedi IR: a PA is required for patients younger than 3 years
 
-AR - Methylphenidate Solution: a PA is required for patients over 12 years old
+**AR** - Adderall XR, Atomoxetine, Cotempla XR-ODT, Daytrana, Dexedrine ER, Dexmethylphenidate & Methylphenidate IR & ER: a PA is required for patients younger than 6 years
+
+**AR** - Dextroamphetamine Solution: a PA is required for patients over 12 years old
+
+**AR** - Methylphenidate Solution: a PA is required for patients younger than 6 years and 12 years and older
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=34)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#overlay-context=drug-coverage#page=35)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=15)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=15)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

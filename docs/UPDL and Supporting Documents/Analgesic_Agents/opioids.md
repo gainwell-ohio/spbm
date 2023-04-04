@@ -14,7 +14,7 @@ This is a subcategory of Analgesic Agents.
 ### Preferred
 
 | Preferred                                               | Generic Name                                               |         Quantity          |        Time (Days)        |
-| :------------------------------------------------------ | :--------------------------------------------------------- | :-----------------------: | :-----------------------: |
+|:--------------------------------------------------------|:-----------------------------------------------------------|:-------------------------:|:-------------------------:|
 | Acetaminophen / Codeine <sup>QL</sup>                   | Acetaminophen w/ Codeine Tab 300-15 MG                     |            408            |            34             |
 | Acetaminophen / Codeine <sup>QL</sup>                   | Acetaminophen w/ Codeine Tab 300-30 MG                     |            204            |            34             |
 | Acetaminophen / Codeine <sup>QL</sup>                   | Acetaminophen w/ Codeine Tab 300-60 MG                     |            102            |            34             |
@@ -61,7 +61,7 @@ This is a subcategory of Analgesic Agents.
 ### Non-Preferred
 
 | Non-Preferred                                                                      | Generic Name                                                       |         Quantity          |        Time (Days)        |
-| :--------------------------------------------------------------------------------- | :----------------------------------------------------------------- | :-----------------------: | :-----------------------: |
+|:-----------------------------------------------------------------------------------|:-------------------------------------------------------------------|:-------------------------:|:-------------------------:|
 | Acetaminophen / Caffeine / Dihydrocodone <sup>QL</sup>                             | Acetaminophen / Caffeine / Dihydrocodone Cap / Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 | Belbuca <sup>QL</sup>                                                              | Buprenorphine Buccal Film (all strengths)                          | Determined pursuant to PA | Determined pursuant to PA |
 | Benzhydrocodone / Acetaminophen <sup>QL</sup>                                      | Benzhydrocodone / Acetaminophen (all strengths)                    | Determined pursuant to PA | Determined pursuant to PA |
@@ -85,7 +85,7 @@ This is a subcategory of Analgesic Agents.
 | Oxymorphone IR, ER <sup>QL</sup>                                                   | Oxymorphone HCI Tab IR / ER (all strengths)                        | Determined pursuant to PA | Determined pursuant to PA |
 | Pentazocine / Naloxone <sup>QL</sup>                                               | Pentazocine / Naloxone Tab (all strengths)                         | Determined pursuant to PA | Determined pursuant to PA |
 | Seglentis <sup>QL</sup>                                                            | Celecoxib / Tramadol (all strengths)                               | Determined pursuant to PA | Determined pursuant to PA |
-| Tramadol ER <sup>QL</sup>                                                          | Tramadol HCI ER / Soln (all strengths)                             | Determined pursuant to PA | Determined pursuant to PA |
+| Tramadol ER, Sol <sup>QL</sup>                                                     | Tramadol HCI ER / Soln (all strengths)                             | Determined pursuant to PA | Determined pursuant to PA |
 | Xtampza ER <sup>QL</sup>                                                           | Oxycodone ER Cap (all strengths)                                   | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Authorizations
@@ -175,7 +175,7 @@ Additional Transmucosal Fentanyl Criteria
 -   Must be concurrently taking a long-acting opioid at a therapeutic dose of any of the following for at least **7 days** without adequate pain relief:
 
 |                                  |                                      |
-| -------------------------------- | ------------------------------------ |
+|----------------------------------|--------------------------------------|
 | ≥ 60 mg oral morphine/day        | ≥ 8 mg oral hydromorphone/day        |
 | ≥ 25 mcg/hr transdermal fentanyl | ≥ 25 mg oral oxymorphone/day         |
 | ≥ 30 mg oral oxycodone/day       | Equianalgesic dose of another opioid |
@@ -184,8 +184,8 @@ Additional Transmucosal Fentanyl Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_Criteria_APPROVED.pdf#page=8)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=10)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_UPDL_APPROVED_.pdf#page=7)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=9)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

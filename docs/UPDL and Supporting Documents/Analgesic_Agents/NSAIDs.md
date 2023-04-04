@@ -16,7 +16,7 @@ This is a subcategory of Analgesic Agents.
 ### Preferred
 
 | Preferred                   | Generic Name                              | Quantity | Time (Days) |
-| :-------------------------- | :---------------------------------------- | :------: | :---------: |
+|:----------------------------|:------------------------------------------|:--------:|:-----------:|
 | Celecoxib <sup>QL</sup>     | Celecoxib Cap (all strengths excl 400 MG) |    68    |     34      |
 | Celecoxib <sup>QL</sup>     | Celecoxib Cap 400 MG                      |    34    |     34      |
 | Diclofenac IR               |                                           |          |             |
@@ -43,38 +43,37 @@ This is a subcategory of Analgesic Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                      | Generic Name | Quantity | Time (Days) |
-| :--------------------------------- | :----------- | :------: | :---------: |
-| Diclofenac / Misoprostol           |              |          |             |
-| Diclofenac Patch 1.3%              |              |          |             |
-| Diclotrex                          |              |          |             |
-| Elyxyb                             |              |          |             |
-| Fenoprofen 400mg                   |              |          |             |
-| Ibuprofen / Famotidine             |              |          |             |
-| Ketorolac Tromethamine Nasal Spray |              |          |             |
-| Ketoprofen                         |              |          |             |
-| Licart Patch                       |              |          |             |
-| Meloxicam Cap                      |              |          |             |
-| Naproxen CR                        |              |          |             |
-| Naproxen DR                        |              |          |             |
-| Naproxen ER                        |              |          |             |
-| Naproxen EC                        |              |          |             |
-| Naproxen / Esomeprazole            |              |          |             |
-| Pennsaid <sup>BvG</sup>            |              |          |             |
-| Qmiiz ODT                          |              |          |             |
-| Relafen DS                         |              |          |             |
-| Zipsor <sup>BvG</sup>              |              |          |             |
-| Zorvolex                           |              |          |             |
+| Non-Preferred                                | Generic Name | Quantity | Time (Days) |
+|:---------------------------------------------|:-------------|:--------:|:-----------:|
+| Diclofenac / Misoprostol                     |              |          |             |
+| Diclofenac Patch Gel 3%, Patch 1.3%, Soln 2% |              |          |             |
+| Diclotrex                                    |              |          |             |
+| Elyxyb                                       |              |          |             |
+| Fenoprofen 400mg                             |              |          |             |
+| Ibuprofen / Famotidine                       |              |          |             |
+| Ketorolac Tromethamine Nasal Spray           |              |          |             |
+| Ketoprofen                                   |              |          |             |
+| Licart Patch                                 |              |          |             |
+| Meloxicam Cap                                |              |          |             |
+| Naproxen CR                                  |              |          |             |
+| Naproxen DR                                  |              |          |             |
+| Naproxen ER                                  |              |          |             |
+| Naproxen EC                                  |              |          |             |
+| Naproxen / Esomeprazole                      |              |          |             |
+| Pennsaid <sup>BvG</sup>                      |              |          |             |
+| Qmiiz ODT                                    |              |          |             |
+| Relafen DS                                   |              |          |             |
+| Zorvolex                                     |              |          |             |
 
 ## Authorizations
 
 **Length of Authorizations**: Dependent upon the table below
 
 |                      | Authorization Length |
-| :------------------: | :------------------: |
-| H. Pylori Treatment  |      30 days         |
-| Transdermal/Topical  |      90 days         |
-| All Other Treatments |     365 days         |
+|:--------------------:|:--------------------:|
+| H. Pylori Treatment  |       30 days        |
+| Transdermal/Topical  |       90 days        |
+| All Other Treatments |       365 days       |
 
 **All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
@@ -100,8 +99,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=9)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=9)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=8)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=8)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf#overlay-context=drug-coverage)
