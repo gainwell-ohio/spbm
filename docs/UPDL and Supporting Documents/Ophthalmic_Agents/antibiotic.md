@@ -47,6 +47,7 @@ This is a subcategory of Ophthalmic Agents.
 | Moxifloxacin (Generic of Moxeza)      |              |          |             |
 | Neomycin / Polymyxin / Hydrocortisone |              |          |             |
 | Pred-G                                |              |          |             |
+| Sulfacetamide Sodium Ophth Oint 10%   |
 | Tobradex ST <sup>BvG</sup>            |              |          |             |
 | Tobramycin/Dexamethasone 0.3/0.1%     |              |          |             |
 | Zylet                                 |              |          |             |
@@ -77,8 +78,8 @@ Non-Preferred Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=84)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=85)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=28)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=28)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

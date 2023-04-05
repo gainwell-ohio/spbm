@@ -16,7 +16,7 @@ This is a subcategory of Ophthalmic Agents.
 ### Preferred
 
 | Preferred                      | Generic Name | Quantity | Time (Days) |
-| :----------------------------- | :----------- | :------: | :---------: |
+|:-------------------------------|:-------------|:--------:|:-----------:|
 | Alrex <sup>BvG</sup>           |              |          |             |
 | Dexamethasone Sodium Phosphate |              |          |             |
 | Durezol <sup>BvG</sup>         |              |          |             |
@@ -25,7 +25,7 @@ This is a subcategory of Ophthalmic Agents.
 | Fml Forte                      |              |          |             |
 | Fml S.O.P.                     |              |          |             |
 | Lotemax <sup>BvG</sup>         |              |          |             |
-| Maxidex <sup>BvG</sup>         |              |          |             |
+| Maxidex                        |              |          |             |
 | Pred Forte                     |              |          |             |
 | Pred Mild                      |              |          |             |
 | Prednisolone Acetate           |              |          |             |
@@ -34,7 +34,7 @@ This is a subcategory of Ophthalmic Agents.
 ### Non-Preferred
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
+|:--------------|:-------------|:--------:|:-----------:|
 | Difluprednate |              |          |             |
 | Inveltys      |              |          |             |
 | Lotemax SM    |              |          |             |
@@ -60,8 +60,8 @@ This is a subcategory of Ophthalmic Agents.
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=89)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=90)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=29)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=29)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

@@ -9,7 +9,8 @@ This is a subcategory of Topical Agents.
 
 ## Decision Trees
 
-- [Antifungals - Butenafine, Ciclopirox Kit, Ertaczo, Ketoconazole Foam, Luliconazole, Miconazole/Zinc Oxide/White Petrolatum Oint, Naftifine, Oxiconazole, Tavaborole](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNE1TMlVOVVc1NlRTSUYwRlVSSVM5MjRTNSQlQCN0PWcu&topview=Preview)
+- [Antifungals - Butenafine, Ciclopirox Kit, Ertaczo, Ketoconazole Foam, Luliconazole, Miconazole/Zinc Oxide/White Petrolatum Oint, Naftifine, Oxiconazole, Tavaborole](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNE1TMlVOVVc1NlRTSUYwRlVSSVM5MjRTNSQlQCN0PWcu&topview=Preview){:target="_blank" rel="noopener"}
+
 - [Antifungals - Jublia](https://forms.office.com.mcas.ms/?redirecturl=https%3a%2f%2fforms.office.com%2fpages%2fdesignpagev2.aspx%3fauth_pvr%3dOrgId%26auth_upn%3danttwaniqua.greer%2540gainwelltechnologies.com%26origin%3dOfficeDotCom%26lang%3den-US%26sessionid%3ddba554c2-2c78-4f60-bee3-f837172c2546%26route%3dGroupForms%26subpage%3ddesign%26id%3dnPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMEI0QzNPTkxRV1dLM0lOTDQxOU5VWlg1WSQlQCN0PWcu%26topview%3dPreview&auth_pvr=OrgId&auth_upn=anttwaniqua.greer@gainwelltechnologies.com&McasTsid=27548)
 
 ## Formulary
@@ -82,8 +83,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=100)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=101)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=32)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=32)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

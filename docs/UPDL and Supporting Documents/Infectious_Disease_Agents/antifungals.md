@@ -12,7 +12,7 @@ This is a subcategory of Infectious Disease Agents.
 ### Preferred
 
 | Preferred    | Generic Name | Quantity | Time (Days) |
-| :----------- | :----------- | :------: | :---------: |
+|:-------------|:-------------|:--------:|:-----------:|
 | Fluconazole  |              |          |             |
 | Flucytosine  |              |          |             |
 | Griseofulvin |              |          |             |
@@ -21,17 +21,17 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Non-Preferred
 
-| Non-Preferred        | Generic Name | Quantity | Time (Days) |
-| :------------------- | :----------- | :------: | :---------: |
-| Brexafemme           |              |          |             |
-| Cresemba             |              |          |             |
-| Itraconazole         |              |          |             |
-| Noxafil Susp         |              |          |             |
-| Oravig               |              |          |             |
-| Posaconazole         |              |          |             |
-| Tolsura              |              |          |             |
-| Vivjoa <sup>PA</sup> |
-| Voriconazole         |              |          |             |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+|:--------------|:-------------|:--------:|:-----------:|
+| Brexafemme    |              |          |             |
+| Cresemba      |              |          |             |
+| Itraconazole  |              |          |             |
+| Noxafil Susp  |              |          |             |
+| Oravig        |              |          |             |
+| Posaconazole  |              |          |             |
+| Tolsura       |              |          |             |
+| Vivjoa        |              |          |             |
+| Voriconazole  |              |          |             |
 
 ## Authorizations
 
@@ -74,8 +74,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=80)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=81)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=26)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=26)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

@@ -21,9 +21,9 @@ This is a subcategory of Infectious Disease Agents.
 ### Preferred
 
 | Preferred                                     | Generic Name | Quantity | Time (Days) |
-| :-------------------------------------------- | :----------- | :------: | :---------: |
+|:----------------------------------------------|:-------------|:--------:|:-----------:|
 | Abacavir Sulfate                              |              |          |             |
-| Abacavir/Lamivudine                           |              |          |             |
+| Abacavir / Lamivudine                         |              |          |             |
 | Atazanavir Sulfate                            |              |          |             |
 | Biktarvy                                      |              |          |             |
 | Cimduo                                        |              |          |             |
@@ -51,7 +51,7 @@ This is a subcategory of Infectious Disease Agents.
 | Symfi Lo <sup>BvG</sup>                       |              |          |             |
 | Symtuza                                       |              |          |             |
 | Temixys                                       |              |          |             |
-| Tenofovir Disoproxil 300 MG                   |              |          |             |
+| Tenofovir Disoproxil Fumarate 300 MG          |              |          |             |
 | Tivicay                                       |              |          |             |
 | Tivicay PD                                    |              |          |             |
 | Triumeq                                       |              |          |             |
@@ -63,7 +63,7 @@ This is a subcategory of Infectious Disease Agents.
 ### Non-Preferred
 
 | Non-Preferred                                          | Generic Name | Quantity | Time (Days) |
-| :----------------------------------------------------- | :----------- | :------: | :---------: |
+|:-------------------------------------------------------|:-------------|:--------:|:-----------:|
 | Abacavir Susp                                          |              |          |             |
 | Abacavir / Lamivudine / Zidovudine                     |              |          |             |
 | Aptivus                                                |              |          |             |
@@ -90,7 +90,7 @@ This is a subcategory of Infectious Disease Agents.
 
 **Length of Authorizations**: 365 Days
 
-### Grandfathering
+### Grandfathering*
 
 Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug previously, but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
 
@@ -104,12 +104,6 @@ Abacavir/Dolutegravir/Lamivudine (Triumeq PD) Criteria
 
 -   Must provide documentation of patient’s weight (only authorized for those 10 – 25 kg)
 
-### Fostemsavir
-
-Fostemsavir (Rukobia ER) Criteria
-
--   Must provide documentation of a multidrug-resistant HIV-1 infection
-
 ### Non-Preferred
 
 Non-Preferred Criteria
@@ -119,12 +113,6 @@ Non-Preferred Criteria
 -   Must have had an inadequate clinical response of at least **30 days** with at least **one preferred** drug. If applicable, the request must address the inability to use the individual components.
     -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
-
-### Darunavir/Cobicistat/Emtricitabine/Tenofovir
-
-Additional Darunavir/Cobicistat/Emtricitabine/Tenofovir (Symtuza) Criteria
-
--   Must provide documentation for patient’s inability to use the individual drugs (Prezcobix and Descovy)
 
 ### Subsequent Authorization
 
@@ -140,8 +128,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=83)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=84)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=27)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=27)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
