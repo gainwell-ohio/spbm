@@ -17,7 +17,7 @@ This is a subcategory of Ophthalmic Agents.
 ### Preferred
 
 | Preferred                       | Generic Name | Quantity | Time (Days) |
-| :------------------------------ | :----------- | :------: | :---------: |
+|:--------------------------------|:-------------|:--------:|:-----------:|
 | Alphagan P 0.1%                 |              |          |             |
 | Alphagan P 0.15% <sup>BvG</sup> |              |          |             |
 | Azopt <sup>BvG ST</sup>         |              |          |             |
@@ -34,26 +34,26 @@ This is a subcategory of Ophthalmic Agents.
 | Rhopressa                       |              |          |             |
 | Rocklatan                       |              |          |             |
 | Simbrinza                       |              |          |             |
-| Timolol                         |              |          |             |
-| Timolol                         |              |          |             |
+| Timolol 0.5% Gel, Soln          |              |          |             |
 | Travatan Z <sup>BvG ST</sup>    |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred     | Generic Name | Quantity | Time (Days) |
-| :---------------- | :----------- | :------: | :---------: |
-| Apraclonidine     |              |          |             |
-| Betoptic S        |              |          |             |
-| Bimatoprost       |              |          |             |
-| Brimonidine 0.15% |              |          |             |
-| Brinzolamide      |              |          |             |
-| Iopidine          |              |          |             |
-| Istalol           |              |          |             |
-| Lumigan           |              |          |             |
-| Travoprost        |              |          |             |
-| Vyzulta           |              |          |             |
-| Xelpros           |              |          |             |
-| Zioptan           |              |          |             |
+| Non-Preferred                 | Generic Name | Quantity | Time (Days) |
+|:------------------------------|:-------------|:--------:|:-----------:|
+| Apraclonidine                 |              |          |             |
+| Betoptic S                    |              |          |             |
+| Bimatoprost                   |              |          |             |
+| Brimonidine 0.15%             |              |          |             |
+| Brinzolamide                  |              |          |             |
+| Iopidine                      |              |          |             |
+| Istalol                       |              |          |             |
+| Lumigan                       |              |          |             |
+| Timoptic 0.25% <sup>BvG</sup> |              |          |             |
+| Travoprost                    |              |          |             |
+| Vyzulta                       |              |          |             |
+| Xelpros                       |              |          |             |
+| Zioptan <sup>BvG</sup>        |              |          |             |
 
 ## Authorizations
 
@@ -67,8 +67,7 @@ This is a subcategory of Ophthalmic Agents.
 
 Step Therapy Approval Criteria
 
-- Must have had an inadequate clinical response of at least 30 days with at least one
-preferred drug in the same class, if available
+- Must have had an inadequate clinical response of at least **30 days** with at least **one preferred** drug in the same class, if available
 
 ### Non-Preferred
 
@@ -88,8 +87,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=87)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=88)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=29)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=29)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

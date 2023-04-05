@@ -12,7 +12,7 @@ This is a subcategory of Topical Agents.
 ### Preferred
 
 | Preferred                               | Generic Name | Quantity | Time (Days) |
-| :-------------------------------------- | :----------- | :------: | :---------: |
+|:----------------------------------------|:-------------|:--------:|:-----------:|
 | Amcinonide                              |              |          |             |
 | Betamethasone Dip / Calcipotriene Oint  |              |          |             |
 | Betamethasone Valerate                  |              |          |             |
@@ -32,7 +32,7 @@ This is a subcategory of Topical Agents.
 ### Non-Preferred
 
 | Non-Preferred                                   | Generic Name | Quantity | Time (Days) |
-| :---------------------------------------------- | :----------- | :------: | :---------: |
+|:------------------------------------------------|:-------------|:--------:|:-----------:|
 | Alclometasone                                   |              |          |             |
 | Apexicon E                                      |              |          |             |
 | Betamethasone Dipropionate                      |              |          |             |
@@ -44,8 +44,8 @@ This is a subcategory of Topical Agents.
 | Desonate Gel                                    |              |          |             |
 | Desonide Lotion                                 |              |          |             |
 | Desoximetasone                                  |              |          |             |
-| Fluocinolone Acetonide 0.025%                   |              |          |             |
-| Fluocinonide Acetonide 0.1%                     |              |          |             |
+| Fluocinolone Acetonide 0.01% Oil                |              |          |             |
+| Fluocinonide Acetonide 0.025%, 0.1%             |              |          |             |
 | Fluticasone Propionate Lotion                   |              |          |             |
 | Halcinonide Cream                               |              |          |             |
 | Halobetasol Propionate                          |              |          |             |
@@ -81,8 +81,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=102)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=103)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=32)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=32)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

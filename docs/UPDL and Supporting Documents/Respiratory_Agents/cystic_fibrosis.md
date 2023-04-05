@@ -32,7 +32,7 @@ This is a subcategory of Respiratory Agents.
 
 ## Authorizations
 
-**Length of Authorizations**: Initial authorization 90 days; Subsequent authorization 365 days
+**Length of Authorizations**: Initial 90 days; Subsequent 365 days
 
 **All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
@@ -73,8 +73,8 @@ monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL%20_Criteria_APPROVED.pdf#page=92)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=93)
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_UPDL_APPROVED_12.13.22.pdf#page=30)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=30)
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)

@@ -1,6 +1,6 @@
 # Buprenorphine Criteria
 
-[Buprenorphine Criteria Email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Bup/FW%20Buprenorphine%20Criteria.msg?csf=1&web=1&e=av1FPF)
+[Buprenorphine Criteria Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Bup/FW%20Buprenorphine%20Criteria.msg?csf=1&web=1&e=av1FPF){ .md-button .md-button--primary }
 
 **Recommended ODM PA Criteria**
 
