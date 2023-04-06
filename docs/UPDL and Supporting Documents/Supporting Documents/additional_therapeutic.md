@@ -102,13 +102,12 @@ Clinical Criteria:
 - Must have completed a comprehensive diabetes education program within the previous 365 days
 - Must submit a letter or documentation indicating patient regularly works with a certified diabetes educator
 - Must meet ONE of the following criteria while compliant with insulin regimen:
-
-  - HgA1C > 7%
-  - History of recurrent hypoglycemia
-  - Wide fluctuations in blood glucose before mealtime
-  - A marked early morning increase in fasting blood sugar (dawn phenomenon glucose level exceeds 200mg/dL)
-  - History of ketoacidosis
-  - A history of severe glycemic excursions
+    - HgA1C > 7%
+    - History of recurrent hypoglycemia
+    - Wide fluctuations in blood glucose before mealtime
+    - A marked early morning increase in fasting blood sugar (dawn phenomenon glucose level exceeds 200mg/dL)
+    - History of ketoacidosis
+    - A history of severe glycemic excursions
   
 **Subsequent authorizations** require documentation of objective evidence of improvement in control of diabetes relative to baseline
 
