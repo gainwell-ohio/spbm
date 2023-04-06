@@ -44,7 +44,7 @@ Each PA request (whether initiation or maintenance) must meet the buprenorphine 
 
 ## Buprenorphine peer to peer and appeals requests
 
-[Buprenorphine peer to peer and appeals requests](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Buprenorphine%20peer%20to%20peer%20and%20appeals%20requests.msg?csf=1&web=1&e=q7ZrtZ){ :target="_blank" rel="noopener"}
+[Buprenorphine peer to peer and appeals requests](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Buprenorphine%20peer%20to%20peer%20and%20appeals%20requests.msg?csf=1&web=1&e=q7ZrtZ){:target="_blank" rel="noopener"}
 
 Hello, 
 I am and have given the PA pharmacists the following directive involving re-review situations for generic Subutex.
