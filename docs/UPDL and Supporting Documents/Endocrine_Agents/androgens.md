@@ -9,8 +9,8 @@ This is a subcategory of Endocrine Agents.
 
 ## Decision Tree
 
-- [Androgens- Non-Preferred Agents (Age Restricted, PA) - Androderm, Testosterone Gel 1%, Testosterone Gel 1% Pump](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQTc1UVI3REpOOENJMkU4Uk9SNVJNWVYzMiQlQCN0PWcu&topview=Preview)
-- [Androgens- Non-Preferred Agents (Age Restricted) - Jatenzo, Methyltestosterone, Natesto, Testopel, Testosterone Cypionate, Testosterone Gel 1.62%, Testosterone Gel 2%, Testosterone Sol 30mg/ACT, Tlando, Xyosted](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNjk0MkRCMVU1MkxZTFlZUjVCUURUWFdGTiQlQCN0PWcu&topview=Preview)
+- [Androgens- Non-Preferred Agents (Age Restricted, PA) - Androderm, Testosterone Gel 1%, Testosterone Gel 1% Pump](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQTc1UVI3REpOOENJMkU4Uk9SNVJNWVYzMiQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Androgens- Non-Preferred Agents (Age Restricted) - Jatenzo, Methyltestosterone, Natesto, Testopel, Testosterone Cypionate, Testosterone Gel 1.62%, Testosterone Gel 2%, Testosterone Sol 30mg/ACT, Tlando, Xyosted](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNjk0MkRCMVU1MkxZTFlZUjVCUURUWFdGTiQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -71,8 +71,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=52)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=52){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=20)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=20){ :target="_blank" rel="noopener"}
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

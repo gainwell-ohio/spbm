@@ -11,18 +11,18 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Preferred
 
-| Preferred               | Generic Name                     | Quantity | Time (Days) |
-| :---------------------- | :------------------------------- | :------: | :---------: |
-| Aspirin                 |                                  |          |             |
-| Aspirin/Dipyridamole ER |                                  |          |             |
-| Brilinta                |                                  |          |             |
-| Clopidogrel             |                                  |          |             |
-| Prasugrel <sup>QL</sup> | Prasugrel HCI Tab (all strengths |   102    |     102     |
+| Preferred               | Generic Name                      | Quantity | Time (Days) |
+|:------------------------|:----------------------------------|:--------:|:-----------:|
+| Aspirin                 |                                   |          |             |
+| Aspirin/Dipyridamole ER |                                   |          |             |
+| Brilinta                |                                   |          |             |
+| Clopidogrel             |                                   |          |             |
+| Prasugrel <sup>QL</sup> | Prasugrel HCI Tab (all strengths) |   102    |     102     |
 
 ### Non-Preferred
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
+|:--------------|:-------------|:--------:|:-----------:|
 | Yosprala      |              |          |             |
 | Zontivity     |              |          |             |
 
@@ -52,9 +52,9 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=18)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=18){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=10)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=10){ :target="_blank" rel="noopener"}
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}
 

@@ -2,15 +2,15 @@
 
 References: 
 
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8907681/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8907681/)
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8907681/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8907681/){ :target="_blank" rel="noopener"}
 
-[https://www.mayoclinic.org/diseases-conditions/gender-dysphoria/diagnosis-treatment/drc-20475262](https://www.mayoclinic.org/diseases-conditions/gender-dysphoria/diagnosis-treatment/drc-20475262)
+[https://www.mayoclinic.org/diseases-conditions/gender-dysphoria/diagnosis-treatment/drc-20475262](https://www.mayoclinic.org/diseases-conditions/gender-dysphoria/diagnosis-treatment/drc-20475262){ :target="_blank" rel="noopener"}
 
 Approval for 18yo and up
 
-[Gender Affirming Treatment](file:///C:/Users/cnguyen/AppData/Local/Packages/Microsoft.Office.OneNote_8wekyb3d8bbwe/LocalState/EmbeddedFileFolder/7/Gender-Affirming%20Therapy.pdf)
+[Gender Affirming Treatment](file:///C:/Users/cnguyen/AppData/Local/Packages/Microsoft.Office.OneNote_8wekyb3d8bbwe/LocalState/EmbeddedFileFolder/7/Gender-Affirming%20Therapy.pdf){ :target="_blank" rel="noopener"}
 
-[Transgender Medicine](file:///C:/Users/cnguyen/AppData/Local/Packages/Microsoft.Office.OneNote_8wekyb3d8bbwe/LocalState/EmbeddedFileFolder/8/AACE%20Transgender%20Health%20Slide%20Set%20v3.pdf)
+[Transgender Medicine](file:///C:/Users/cnguyen/AppData/Local/Packages/Microsoft.Office.OneNote_8wekyb3d8bbwe/LocalState/EmbeddedFileFolder/8/AACE%20Transgender%20Health%20Slide%20Set%20v3.pdf){ :target="_blank" rel="noopener"}
 
 Feminizing Hormone Therapy:
 
@@ -30,5 +30,5 @@ American Association of Clinical Endocrinology
 ![image](https://user-images.githubusercontent.com/122046056/227099613-e0524dcc-0954-4389-9e90-f9af40e0a8da.png)
 ![image](https://user-images.githubusercontent.com/122046056/227099637-e9e9417f-f298-4d0e-952f-8beca3d95907.png)
 
-From UCSF: [Overview of feminizing hormone therapy | Gender Affirming Health Program (ucsf.edu):](https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy)
+From UCSF: [Overview of feminizing hormone therapy | Gender Affirming Health Program (ucsf.edu):](https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy){ :target="_blank" rel="noopener"}
 ![image](https://user-images.githubusercontent.com/122046056/227099773-8697bce4-af37-43b4-af44-f6997611bc9d.png)

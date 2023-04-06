@@ -1,6 +1,6 @@
 # Diabetes Standards of Care ADA 2023
 
-[FYI - ADA 2023 Standards of Care in Diabetes now available online](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FYI%20-%20ADA%202023%20Standards%20of%20Care%20in%20Diabetes%20now%20available%20online.msg?csf=1&web=1&e=sPfrIs)
+[FYI - ADA 2023 Standards of Care in Diabetes now available online](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FYI%20-%20ADA%202023%20Standards%20of%20Care%20in%20Diabetes%20now%20available%20online.msg?csf=1&web=1&e=sPfrIs){ :target="_blank" rel="noopener"}
 
 ![image](https://user-images.githubusercontent.com/122046056/227096563-cf87b4b4-f05d-4224-8cf9-542fe39317f0.png)
 ![image](https://user-images.githubusercontent.com/122046056/227096607-74eddef1-5f95-469c-b5f9-7edd176a1732.png)

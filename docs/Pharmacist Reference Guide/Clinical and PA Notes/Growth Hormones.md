@@ -1,6 +1,6 @@
 # Growth Hormones
 
-[Z-score calculator](https://peditools.org/growthpedi/index.php)
+[Z-score calculator](https://peditools.org/growthpedi/index.php){ :target="_blank" rel="noopener"}
 
 
 - Stature/Height SD (Z-score)=

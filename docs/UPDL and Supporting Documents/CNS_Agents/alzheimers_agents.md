@@ -9,18 +9,18 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ## Decision Trees
 
-- [Alzheimer's Agents - Adlarity, Memantine ER Sol, Namzaric, Rivastigmine Patch, Exelon Patch](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQjMzVFlKOTdBRTFNVjA1VkxDMElKWFdYViQlQCN0PWcu&topview=Preview)
+- [Alzheimer's Agents - Adlarity, Memantine ER Sol, Namzaric, Rivastigmine Patch, Exelon Patch](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQjMzVFlKOTdBRTFNVjA1VkxDMElKWFdYViQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
-- [Alzheimer's Agents - Donepezil](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURUFCTUtJVFNTS1lBSUVFWDlaVDFHVDVJUyQlQCN0PWcu&topview=Preview)
+- [Alzheimer's Agents - Donepezil](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURUFCTUtJVFNTS1lBSUVFWDlaVDFHVDVJUyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
-- [Alzheimer's Agents - Galantamine Sol](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURE5JNlU1VTdNOFo5MEVaRjRFVE5EOFhKNyQlQCN0PWcu&topview=Preview)
+- [Alzheimer's Agents - Galantamine Sol](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURE5JNlU1VTdNOFo5MEVaRjRFVE5EOFhKNyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
 ### Preferred
 
 | Preferred                                | Generic Name                                           | Quantity | Time (Days) |
-| :--------------------------------------- | :----------------------------------------------------- | :------: | :---------: |
+|:-----------------------------------------|:-------------------------------------------------------|:--------:|:-----------:|
 | Donepezil 5mg, 10mg Tab <sup>AR QL</sup> | Donepezil Hydrochloride Tab (all strengths excl 23 MG) |   102    |     102     |
 | Donepezil ODT <sup>AR QL</sup>           | Donepezil Hydrochloride ODT (all strengths)            |   102    |     102     |
 | Exelon Patch <sup>AR BvG</sup>           |                                                        |          |             |
@@ -32,7 +32,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 ### Non-Preferred
 
 | Non-Preferred                       | Generic Name                                         |         Quantity          |        Time (Days)        |
-| :---------------------------------- | :--------------------------------------------------- | :-----------------------: | :-----------------------: |
+|:------------------------------------|:-----------------------------------------------------|:-------------------------:|:-------------------------:|
 | Adlarity <sup>AR</sup>              |                                                      |                           |                           |
 | Donepezil 23mg Tab <sup>AR QL</sup> | Donepezil Hydrochloride Tab 23 MG                    | Determined pursuant to PA | Determined pursuant to PA |
 | Galantamine Sol <sup>AR QL</sup>    | Galantamine Hydrobromide Oral Soln (all strengths)   | Determined pursuant to PA | Determined pursuant to PA |
@@ -74,8 +74,8 @@ Subsequent Authorization Criteria
 ## Links
 
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=25)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=25){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=13)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=13){ :target="_blank" rel="noopener"}
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

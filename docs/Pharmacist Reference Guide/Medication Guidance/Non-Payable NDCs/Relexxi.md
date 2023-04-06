@@ -1,6 +1,6 @@
 # Relexxi- other than 72
 
-[Relexxi Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20Non-payable%20Relexxii%20.msg?csf=1&web=1&e=ts8a3U){ .md-button .md-button--primary }
+[Relexxi Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20Non-payable%20Relexxii%20.msg?csf=1&web=1&e=ts8a3U){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Hi Prachi,  
 

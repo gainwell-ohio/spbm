@@ -11,7 +11,7 @@ Must do a PA for each ingredient in the compound in order to approve it, check c
 How to Enter a Compound in a PA: (???)
 
 
-**Multi-Ingredient Compounds Criteria (From Medical Necessity Policy:**
+**Multi-Ingredient Compounds Criteria From Medical Necessity Policy:**
 
 Multi-ingredient compounds will be considered medically necessary when all the following criteria are met:
 

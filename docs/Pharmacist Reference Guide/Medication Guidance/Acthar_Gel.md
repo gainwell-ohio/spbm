@@ -1,6 +1,6 @@
 # Acthar Gel
 
-[Acthar Gel (Approval Length) Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Acthar%20Gel/Acthar%20Gel%20(Approval%20length).msg?csf=1&web=1&e=LrtfhL){ .md-button .md-button--primary }
+[Acthar Gel (Approval Length) Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Acthar%20Gel/Acthar%20Gel%20(Approval%20length).msg?csf=1&web=1&e=LrtfhL){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 I had reached out to our Medical Director and Clinical team for additional guidance on approval length for the medication Acthar.  
  

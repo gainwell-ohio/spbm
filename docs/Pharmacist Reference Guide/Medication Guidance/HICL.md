@@ -1,6 +1,6 @@
 # Meds processed by HICL
 
-[HICL PA and DAW Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20HICL%20PA%20processing%20DAW_%20correct%20procedure_.msg?csf=1&web=1&e=KgNtnn){ .md-button .md-button--primary }
+[HICL PA and DAW Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20HICL%20PA%20processing%20DAW_%20correct%20procedure_.msg?csf=1&web=1&e=KgNtnn){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Current Medications to approve by HICL
 

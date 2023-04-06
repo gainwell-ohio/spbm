@@ -5,7 +5,7 @@ search:
 
 # Additional Therapeutic Classes with Clinical Criteria
 
-[Additional Therapeutic Classes with Clinical Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_AdditionalTherapeuticClasses.pdf#overlay-context=drug-coverage)
+[Additional Therapeutic Classes with Clinical Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_AdditionalTherapeuticClasses.pdf#overlay-context=drug-coverage){ :target="_blank" rel="noopener"}
 
 Prescribers must provide supporting documentation (chart notes, lab work, medication history) to demonstrate all criteria is satisfied unless specified otherwise. All requests must be in compliance with OAC 5160 & prescribed in accordance with its FDA approved labeling unless specified otherwise.
 
@@ -476,7 +476,7 @@ Drug Name:
 
 Clinical Criteria:
 
-**Aldara® imiquimod)**
+**Aldara® (imiquimod)**
 
 - Must have had an inadequate clincial response to generic imiquimod 5%
 - Authorizations limited to:

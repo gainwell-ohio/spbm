@@ -1,6 +1,6 @@
 # Sucraid
 
-[Sucraid Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Medication%20Guidance-%20Sucraid.msg?csf=1&web=1&e=n5tkyT){ .md-button .md-button--primary }
+[Sucraid Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Medication%20Guidance-%20Sucraid.msg?csf=1&web=1&e=n5tkyT){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Please review the information provided below and use for guidance.
 

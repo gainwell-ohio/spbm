@@ -11,20 +11,19 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                             | Generic Name                                           |         Quantity          |        Time (Days)        |
-| :------------------------------------ | :----------------------------------------------------- | :-----------------------: | :-----------------------: |
-| Imitrex Nasal Spray <sup>BvG QL</sup> | Sumatriptan Succinate Nasal Spray (all strengths)      |             8             |            30             |
-| Naratriptan <sup>QL</sup>             | Naratriptan HCI Tab (all strengths)                    |             9             |            30             |
-| Nurtec ODT <sup>QL ST</sup>           | Rimegepant ODT (all strengths)                         | Determined pursuant to PA | Determined pursuant to PA |
-| Rizatriptan <sup>QL</sup>             | Rizatriptan Benzoate (all strengths and formulations)  |             9             |            30             |
-| Sumatriptan Inj <sup>QL</sup>         | Sumatriptan Succinate Subcutaneous Inj (all strengths) |             4             |            30             |
-| Sumatriptan Tab <sup>QL</sup>         | Sumatriptan Succinate Tab (all strengths)              |             9             |            30             |
-| Tosymra <sup>BvG QL</sup>                 | Sumatriptan Succinate Nasal Spray (all strengths)      |             8             |            30             |
+| Preferred                             | Generic Name                                           | Quantity | Time (Days) |
+|:--------------------------------------|:-------------------------------------------------------|:--------:|:-----------:|
+| Imitrex Nasal Spray <sup>BvG QL</sup> | Sumatriptan Succinate Nasal Spray (all strengths)      |    8     |     30      |
+| Naratriptan <sup>QL</sup>             | Naratriptan HCI Tab (all strengths)                    |    9     |     30      |
+| Nurtec ODT <sup>QL</sup>              | Rizatriptan Benzoate (all strengths and formulations)  |    9     |     30      |
+| Sumatriptan Inj <sup>QL</sup>         | Sumatriptan Succinate Subcutaneous Inj (all strengths) |    4     |     30      |
+| Sumatriptan Tab <sup>QL</sup>         | Sumatriptan Succinate Tab (all strengths)              |    9     |     30      |
+| Tosymra <sup>BvG QL</sup>             | Sumatriptan Succinate Nasal Spray (all strengths)      |    8     |     30      |
 
 ### Non-Preferred
 
 | Non-Preferred                         | Generic Name                                       |         Quantity          |        Time (Days)        |
-| :------------------------------------ | :------------------------------------------------- | :-----------------------: | :-----------------------: |
+|:--------------------------------------|:---------------------------------------------------|:-------------------------:|:-------------------------:|
 | Almotriptan                           |                                                    |                           |                           |
 | Dihydroergotamine                     |                                                    |                           |                           |
 | Eletriptan                            |                                                    |                           |                           |
@@ -78,8 +77,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=26)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=26){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=13)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=13){ :target="_blank" rel="noopener"}
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

@@ -24,7 +24,7 @@ Prior to utilizing the Evergreen site or repository, there are a few initial tas
 
 To obtain access to the Evergreen repository, a GitHub account must be created. The link below will navigate the user to the correct page to sign up.
 
-[Join GitHub](https://github.com/join)
+[Join GitHub](https://github.com/join){ :target="_blank" rel="noopener"}
 
 ![](joining_github.PNG)
 
@@ -100,11 +100,11 @@ Markdown is the language used in the documentation to better format and add stru
 
 Some beneficial resources for learning more can also be located at the listed links:
 
-[Markdown Guide](https://www.markdownguide.org/)
+[Markdown Guide](https://www.markdownguide.org/){ :target="_blank" rel="noopener"}
 
-[GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax){ :target="_blank" rel="noopener"}
 
-[Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+[Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/){ :target="_blank" rel="noopener"}
 
 ### Headings 
 

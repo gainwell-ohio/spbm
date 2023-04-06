@@ -9,8 +9,8 @@ This is a subcategory of Endocrine Agents.
 
 ## Decision Trees
 
-- [Diabetes - Non-Insulin- Non-Preferred Agents- Adlyxin, Alogliptin, Bydureon Bcise, Glucophage, Metformin ER (Generic of Fortamet, Glumetza), Metformin Sol, Mounjaro, Onglyza, Ozempic, Rybelsus, Steglatro, Symlinpen](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMVIwMlBWT1M5STNTNkdPTFBUVE5OQUdESyQlQCN0PWcu&topview=Preview)
-- [Diabetes - Non-Insulin- Non-Preferred Agents – Combination Agents- Alogliptin/Metformin, Glimepiride/Pioglitazone, Glyxambi, Invokamet XR, Jentadueto XR, Kombiglyze XR, Pioglitazone/Alogliptin, Qtern, Segluromet, Soliqua, Steglujan, Synjardy XR, Trijardy XR, Xigduo XR, Xultophy](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUIzRENINzhMNkpFQlQ1Rzc3NENUQVI5OCQlQCN0PWcu&topview=Preview)
+- [Diabetes - Non-Insulin- Non-Preferred Agents- Adlyxin, Alogliptin, Bydureon Bcise, Glucophage, Metformin ER (Generic of Fortamet, Glumetza), Metformin Sol, Mounjaro, Onglyza, Ozempic, Rybelsus, Steglatro, Symlinpen](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMVIwMlBWT1M5STNTNkdPTFBUVE5OQUdESyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Diabetes - Non-Insulin- Non-Preferred Agents – Combination Agents- Alogliptin/Metformin, Glimepiride/Pioglitazone, Glyxambi, Invokamet XR, Jentadueto XR, Kombiglyze XR, Pioglitazone/Alogliptin, Qtern, Segluromet, Soliqua, Steglujan, Synjardy XR, Trijardy XR, Xigduo XR, Xultophy](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUIzRENINzhMNkpFQlQ1Rzc3NENUQVI5OCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -128,8 +128,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=55)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=55){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=21)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=21){ :target="_blank" rel="noopener"}
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

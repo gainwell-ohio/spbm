@@ -1,6 +1,6 @@
 # Dupixent- small kids
 
-[Dupixent- small kids](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Dupixent%20for%20small%20children.msg?csf=1&web=1&e=ZXvMn9)
+[Dupixent- small kids](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Dupixent%20for%20small%20children.msg?csf=1&web=1&e=ZXvMn9){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Hello,
 An issue has been brought to our attention from Nationwide concerning the processing of Dupixent for small children.

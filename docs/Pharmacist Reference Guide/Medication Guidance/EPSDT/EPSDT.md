@@ -1,8 +1,8 @@
 # EPSDT Procedures
 
-[EPSDT Procedures Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EZ94ZWZLA7VPsSLoKaNq1twBakOP17zNBMwFKo--6toF7Q?e=ozDyOp){ .md-button .md-button--primary }
+[EPSDT Procedures Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EZ94ZWZLA7VPsSLoKaNq1twBakOP17zNBMwFKo--6toF7Q?e=ozDyOp){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
-[EPSDT Background Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/In%20preparation%20of%20the%20EPSDT%20portion%20of%20todays%20RPh%20Updates.msg?csf=1&web=1&e=IrG2Zc){ .md-button .md-button--primary }
+[EPSDT Background Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/In%20preparation%20of%20the%20EPSDT%20portion%20of%20todays%20RPh%20Updates.msg?csf=1&web=1&e=IrG2Zc){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Hello,
 

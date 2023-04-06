@@ -11,8 +11,8 @@ Effective April 15, 2022
 
 ## Helpful Links
 
-- Prior Authorization  [Prior Authorization (PA) Information \| pharmacy.medicaid.ohio.gov](https://pharmacy.medicaid.ohio.gov/prior-authorization) <https://pharmacy.medicaid.ohio.gov/prior-authorization> General Prior Authorization Requirements  PA and Step Therapy Frequently Asked Questions (FAQ)
-- Drug Coverage  [Drug Coverage Information \| pharmacy.medicaid.ohio.gov](https://pharmacy.medicaid.ohio.gov/drug-coverage) <https://pharmacy.medicaid.ohio.gov/drug-coverage> Drug Lookup Tool  UPDL Criteria  Quantity Limits  Preferred Diabetic Supply List
+- Prior Authorization  [Prior Authorization (PA) Information \| pharmacy.medicaid.ohio.gov](https://pharmacy.medicaid.ohio.gov/prior-authorization){ :target="_blank" rel="noopener"} <https://pharmacy.medicaid.ohio.gov/prior-authorization> General Prior Authorization Requirements  PA and Step Therapy Frequently Asked Questions (FAQ)
+- Drug Coverage  [Drug Coverage Information \| pharmacy.medicaid.ohio.gov](https://pharmacy.medicaid.ohio.gov/drug-coverage){ :target="_blank" rel="noopener"} <https://pharmacy.medicaid.ohio.gov/drug-coverage> Drug Lookup Tool  UPDL Criteria  Quantity Limits  Preferred Diabetic Supply List
 
 The Statewide PDL is not an all-inclusive list of drugs covered by Ohio Department of Medicaid.
 

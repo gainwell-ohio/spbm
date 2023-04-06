@@ -5,20 +5,20 @@ search:
 
 # Quantity Limit List
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_Ohio_Medicaid_Quantity_Document.pdf#overlay-context=drug-coverage)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_Ohio_Medicaid_Quantity_Document.pdf#overlay-context=drug-coverage){ :target="_blank" rel="noopener"}
 ## Table of Contents
 
-| | |
-| :--- | ---: |
-| Drug Classes with Allowable Days' Supply Up to 102 Days | Page 2 |
-| Drugs with Quantity Restrictions    | Page 3-19 |
-| Supplies with Quantity Restrictions | Page 20   |
+|                                                         |           |
+|:--------------------------------------------------------|----------:|
+| Drug Classes with Allowable Days' Supply Up to 102 Days |    Page 2 |
+| Drugs with Quantity Restrictions                        | Page 3-19 |
+| Supplies with Quantity Restrictions                     |   Page 20 |
 
 ## Other Helpful Links
 
 ### Drug Coverage
 
-[Drug Coverage Information](pharmacy.medicaid.ohio.gov)
+[Drug Coverage Information](pharmacy.medicaid.ohio.gov){ :target="_blank" rel="noopener"}
 
 - Drug Lookup Tool
 - UPDL Criteria
@@ -27,13 +27,13 @@ search:
 
 ### Unified Preferred Drug List (UPDL)
 
-[Ohio Unified Preferred Drug List](pharmacy.medicaid.ohio.gov)
+[Ohio Unified Preferred Drug List](pharmacy.medicaid.ohio.gov){ :target="_blank" rel="noopener"}
 
 - Unified Preferred Drug List (UPDL)
 
 ### Prior Authorization
 
-[Prior Authorization (PA) Information](pharmacy.medicaid.ohio.gov)
+[Prior Authorization (PA) Information](pharmacy.medicaid.ohio.gov){ :target="_blank" rel="noopener"}
 
 - General Prior Authorization Requirements
 - PA and Step Therapy Frequently Asked Questions (FAQ)
@@ -89,41 +89,41 @@ search:
 
 ## Drugs with Quantity Restrictions
 
-| Dispensed Medication | Generic Name | Quantity | Time (Days) |
-| :--- | :--- | :---: | :---: |
-| Abilify | Aripiprazole Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Abilify Maintena | Aripiprazole ER Susp IM Inj (all strengths & formulations) | 3 | 84 |
-| Abilify Mycite | Aripiprazole Tab with sensor (all strengths) | Determined pursuant to PA | Determined pursuant to PA |  
-| Acarbose | Acarbose Tab (all strengths) | 306 | 102 |
-| Acebutolol | Acebutolol HCl Cap 200 MG | 612 | 102 |
-| Acebutolol | Acebutolol HCl Cap 400 MG | 306 | 102 |
-| APAP/Caffeine/Dihydrocodone | Acetaminophen/Caffeine/Dihydrocodone Cap/Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| APAP/Codeine | Acetaminophen w/ Codeine Tab 300-15 MG | 408 | 34 |
-| APAP/Codeine | Acetaminophen w/ Codeine Tab 300-30 MG | 204 | 34 |
-| APAP/Codeine | Acetaminophen w/ Codeine Tab 300-60 MG | 102 | 34 |
-| APAP/Codeine Soln | Acetaminophen w/ Codeine Soln 120-12 MG/5ML | 2822 | 34 |
-| Actoplus Met | Pioglitazone HCl-Metformin HCl Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Actos | Pioglitazone HCl Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Adderall | Amphetamine-Dextroamphetamine Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Adderall XR | Amphetamine-Dextroamphetamine Cap ER (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Admelog | Insulin Lispro Soln Subcutaneous Inj 100 Unit/ML (all formulations) | Determined pursuant to PA | Determined pursuant to PA |
-| Aldara | Imiquimod (all strengths & formulations) | Determined pursuant to PA | Determined pursuant to PA |
-| Allopurinol | Allopurinol Tab (all strengths) | 204 | 102 |
-| Alora | Estradiol TD Patch Twice Weekly (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Alprazolam | Alprazolam Tab (all strengths) | 136 | 34 |
-| Amaryl | Glimepiride Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Ambien | Zolpidem Tartrate Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Amerge | Naratriptan Hydrochloride Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Amiodarone | Amiodarone HCl Tab (all strengths) | 816 | 102 |
-| Amlodipine | Amlodipine Besylate Tab (all strengths excl 5 MG) | 102 | 102 |
-| Amlodipine | Amlodipine Besylate Tab 5 MG | 153 | 102 |
-| Amlodipine/Olmesartan | Amlodipine Besylate-Olmesartan Medoxomil (all strengths) | 102 | 102 |
-| Amphetamine/Dextroamphet | Amphetamine-Dextroamphetamine Tab (all strengths excl 30 MG) | 102 | 34 |
-| Amphetamine/Dextroamphet | Amphetamine-Dextroamphetamine Tab 30 MG | 68 | 34 |
-| Amphetamine/Dextroamphet | Amphetamine-Dextroamphetamine ER Cap (all strengths) | 34 | 34 |
-| Amrix | Cyclobenzaprine HCl ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Antara | Fenofibrate Micronized Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Apadaz | Benzhydrocodone/Acetaminophen (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Dispensed Medication        | Generic Name                                                        |         Quantity          |        Time (Days)        |
+|:----------------------------|:--------------------------------------------------------------------|:-------------------------:|:-------------------------:|
+| Abilify                     | Aripiprazole Tab (all strengths)                                    | Determined pursuant to PA | Determined pursuant to PA |
+| Abilify Maintena            | Aripiprazole ER Susp IM Inj (all strengths & formulations)          |             3             |            84             |
+| Abilify Mycite              | Aripiprazole Tab with sensor (all strengths)                        | Determined pursuant to PA | Determined pursuant to PA |
+| Acarbose                    | Acarbose Tab (all strengths)                                        |            306            |            102            |
+| Acebutolol                  | Acebutolol HCl Cap 200 MG                                           |            612            |            102            |
+| Acebutolol                  | Acebutolol HCl Cap 400 MG                                           |            306            |            102            |
+| APAP/Caffeine/Dihydrocodone | Acetaminophen/Caffeine/Dihydrocodone Cap/Tab (all strengths)        | Determined pursuant to PA | Determined pursuant to PA |
+| APAP/Codeine                | Acetaminophen w/ Codeine Tab 300-15 MG                              |            408            |            34             |
+| APAP/Codeine                | Acetaminophen w/ Codeine Tab 300-30 MG                              |            204            |            34             |
+| APAP/Codeine                | Acetaminophen w/ Codeine Tab 300-60 MG                              |            102            |            34             |
+| APAP/Codeine Soln           | Acetaminophen w/ Codeine Soln 120-12 MG/5ML                         |           2822            |            34             |
+| Actoplus Met                | Pioglitazone HCl-Metformin HCl Tab (all strengths)                  | Determined pursuant to PA | Determined pursuant to PA |
+| Actos                       | Pioglitazone HCl Tab (all strengths)                                | Determined pursuant to PA | Determined pursuant to PA |
+| Adderall                    | Amphetamine-Dextroamphetamine Tab (all strengths)                   | Determined pursuant to PA | Determined pursuant to PA |
+| Adderall XR                 | Amphetamine-Dextroamphetamine Cap ER (all strengths)                | Determined pursuant to PA | Determined pursuant to PA |
+| Admelog                     | Insulin Lispro Soln Subcutaneous Inj 100 Unit/ML (all formulations) | Determined pursuant to PA | Determined pursuant to PA |
+| Aldara                      | Imiquimod (all strengths & formulations)                            | Determined pursuant to PA | Determined pursuant to PA |
+| Allopurinol                 | Allopurinol Tab (all strengths)                                     |            204            |            102            |
+| Alora                       | Estradiol TD Patch Twice Weekly (all strengths)                     | Determined pursuant to PA | Determined pursuant to PA |
+| Alprazolam                  | Alprazolam Tab (all strengths)                                      |            136            |            34             |
+| Amaryl                      | Glimepiride Tab (all strengths)                                     | Determined pursuant to PA | Determined pursuant to PA |
+| Ambien                      | Zolpidem Tartrate Tab (all strengths)                               | Determined pursuant to PA | Determined pursuant to PA |
+| Amerge                      | Naratriptan Hydrochloride Tab (all strengths)                       | Determined pursuant to PA | Determined pursuant to PA |
+| Amiodarone                  | Amiodarone HCl Tab (all strengths)                                  |            816            |            102            |
+| Amlodipine                  | Amlodipine Besylate Tab (all strengths excl 5 MG)                   |            102            |            102            |
+| Amlodipine                  | Amlodipine Besylate Tab 5 MG                                        |            153            |            102            |
+| Amlodipine/Olmesartan       | Amlodipine Besylate-Olmesartan Medoxomil (all strengths)            |            102            |            102            |
+| Amphetamine/Dextroamphet    | Amphetamine-Dextroamphetamine Tab (all strengths excl 30 MG)        |            102            |            34             |
+| Amphetamine/Dextroamphet    | Amphetamine-Dextroamphetamine Tab 30 MG                             |            68             |            34             |
+| Amphetamine/Dextroamphet    | Amphetamine-Dextroamphetamine ER Cap (all strengths)                |            34             |            34             |
+| Amrix                       | Cyclobenzaprine HCl ER Cap (all strengths)                          | Determined pursuant to PA | Determined pursuant to PA |
+| Antara                      | Fenofibrate Micronized Cap (all strengths)                          | Determined pursuant to PA | Determined pursuant to PA |
+| Apadaz                      | Benzhydrocodone/Acetaminophen (all strengths)                       | Determined pursuant to PA | Determined pursuant to PA |
 | Apo-varenicline | Apo-Varenicline Tartrate | Tab 1 MG | 68 | 34 |
 | Aricept | Donepezil Hydrochloride Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 | Aricept ODT | Donepezil Hydrochloride ODT (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
@@ -675,31 +675,31 @@ Morphine Supp | Morphine Sulfate Suppository 5 MG | 204 | 34 |
 
 ## Supplies with Quantity Restrictions
 
-| Dispensed Medication | Generic Name | Quantity | Time (Days) |
-| :--- | :--- | :---: | :---: |
-| **CGM Supplies** | | | |
-| DexCom Readers | Continuous Blood Glucose System Reader | 1 | 1095 |
-| DexCom Sensors | Continuous Blood Glucose System Sensor | 3 | 30 |
-| DexCom Transmitters | Continuous Blood Glucose System Transmitter | 1 | 90 |
-| Freestyle Libre Readers | Continuous Blood Glucose System Reader | 1 | 1095 |
-| Freestyle Libre Sensors | Continuous Blood Glucose System Sensor | 2 | 28 |
-| | | | |
-| **Diabetic Supplies** | | | |
-| Alcohol pads/swabs | Alcohol pads/swabs | 1020 | 84 |
-| Blood Glucose Lancets | Blood Glucose Lancets Misc. | 714 | 102 |
-| Blood Glucose Meters | Blood Glucose Monitoring Devices | 1 | 720 |
-| Blood Glucose Test Strips | Blood Glucose Test Strip | 714 | 102 |
-| Insulin Pen Needles | Insulin Pen Needles (**all gauges/lengths**) | 714 | 102 |
-| Insulin Syringes | Insulin Syringes Disposable (**all gauges/lengths**) | 714 | 102 |
-| Ketone Test Strips | Ketone Blood Test Strips | 340 | 102 |
-| Ketostix | Acetone Urine Test Strips | 340 | 102 |
-| | | | |
-| **Other Supplies** | | | |
-| COVID-19 At-Home Tests | COVID-19 At Home Antigen Test Kits | 8 | 30 |
-| Spacer Bags | Spacer/Aerosol-Holding Chamber Supplies (**Bags**) | 1 | 365 |
-| Spacer Chambers | Spacer/Aerosol-Holding Chambers (**Chambers**) | 1 | 365 |
-| Spacer Masks | Spacer/Aerosol-Holding Chamber Supplies (**Masks**) | 1 | 365 |
-| Spacer Mouthpieces | Spacer/Aerosol-Holding Chamber Supplies (**Mouthpieces**) | 1 | 365 |
+| Dispensed Medication      | Generic Name                                              | Quantity | Time (Days) |
+|:--------------------------|:----------------------------------------------------------|:--------:|:-----------:|
+| **CGM Supplies**          |                                                           |          |             |
+| DexCom Readers            | Continuous Blood Glucose System Reader                    |    1     |    1095     |
+| DexCom Sensors            | Continuous Blood Glucose System Sensor                    |    3     |     30      |
+| DexCom Transmitters       | Continuous Blood Glucose System Transmitter               |    1     |     90      |
+| Freestyle Libre Readers   | Continuous Blood Glucose System Reader                    |    1     |    1095     |
+| Freestyle Libre Sensors   | Continuous Blood Glucose System Sensor                    |    2     |     28      |
+|                           |                                                           |          |             |
+| **Diabetic Supplies**     |                                                           |          |             |
+| Alcohol pads/swabs        | Alcohol pads/swabs                                        |   1020   |     84      |
+| Blood Glucose Lancets     | Blood Glucose Lancets Misc.                               |   714    |     102     |
+| Blood Glucose Meters      | Blood Glucose Monitoring Devices                          |    1     |     720     |
+| Blood Glucose Test Strips | Blood Glucose Test Strip                                  |   714    |     102     |
+| Insulin Pen Needles       | Insulin Pen Needles (**all gauges/lengths**)              |   714    |     102     |
+| Insulin Syringes          | Insulin Syringes Disposable (**all gauges/lengths**)      |   714    |     102     |
+| Ketone Test Strips        | Ketone Blood Test Strips                                  |   340    |     102     |
+| Ketostix                  | Acetone Urine Test Strips                                 |   340    |     102     |
+|                           |                                                           |          |             |
+| **Other Supplies**        |                                                           |          |             |
+| COVID-19 At-Home Tests    | COVID-19 At Home Antigen Test Kits                        |    8     |     30      |
+| Spacer Bags               | Spacer/Aerosol-Holding Chamber Supplies (**Bags**)        |    1     |     365     |
+| Spacer Chambers           | Spacer/Aerosol-Holding Chambers (**Chambers**)            |    1     |     365     |
+| Spacer Masks              | Spacer/Aerosol-Holding Chamber Supplies (**Masks**)       |    1     |     365     |
+| Spacer Mouthpieces        | Spacer/Aerosol-Holding Chamber Supplies (**Mouthpieces**) |    1     |     365     |
 
 CR - Controlled Release
 DR - Delayed Release

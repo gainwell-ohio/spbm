@@ -9,9 +9,9 @@ This is a subcategory of Respiratory Agents.
 
 ## Decision Trees
 
-- [Monoclonal Antibodies - Anti-IL/Anti-IgE- Non-Preferred Agents – Nucala, Tezspire](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOEwzQ1RWTklSTjVVSFRKQTgwVE9SRzVWNSQlQCN0PWcu&topview=Preview)
-- [Monoclonal Antibodies - Anti-IL/Anti-IgE- Preferred Agent - Dupixent](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMkU0QlpZNDkxTkpDRUNaRjBaU1YyUDNLMSQlQCN0PWcu&topview=Preview)
-- [Monoclonal Antibodies - Anti-IL / Anti-IgE - Preferred Agents (PA) – Fasenra, Xolair](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQVpOMlBRS0RSQjlXV0tZMFZIVjdTNUpRMyQlQCN0PWcu&topview=Preview)
+- [Monoclonal Antibodies - Anti-IL/Anti-IgE- Non-Preferred Agents – Nucala, Tezspire](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOEwzQ1RWTklSTjVVSFRKQTgwVE9SRzVWNSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Monoclonal Antibodies - Anti-IL/Anti-IgE- Preferred Agent - Dupixent](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMkU0QlpZNDkxTkpDRUNaRjBaU1YyUDNLMSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Monoclonal Antibodies - Anti-IL / Anti-IgE - Preferred Agents (PA) – Fasenra, Xolair](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQVpOMlBRS0RSQjlXV0tZMFZIVjdTNUpRMyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -66,8 +66,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=98)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=98){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=31)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=31){ :target="_blank" rel="noopener"}
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

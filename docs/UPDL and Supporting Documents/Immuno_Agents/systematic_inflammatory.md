@@ -8,11 +8,11 @@ search:
 This is a subcategory of Immunomodulator Agents.
 
 ## Decision Tree
-[Systemic Inflammatory Disease- Non-Preferred - Actemra, Cibinqo, Cimzia, Cosentyx, Ilumya, Kevzara, Olumiant, Orencia, Rinvoq, Siliq, Simponi, Skyrizi, Stelara, Tremfya, Xeljanz Sol, Xeljanz XR](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOElXNVFQTk5BQ0RBWUowTjFPQklMVjFVNyQlQCN0PWcu&topview=Preview)
+[Systemic Inflammatory Disease- Non-Preferred - Actemra, Cibinqo, Cimzia, Cosentyx, Ilumya, Kevzara, Olumiant, Orencia, Rinvoq, Siliq, Simponi, Skyrizi, Stelara, Tremfya, Xeljanz Sol, Xeljanz XR](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOElXNVFQTk5BQ0RBWUowTjFPQklMVjFVNyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
-[Systemic Inflammatory Disease- Preferred (PA) - Adbry, Enbrel, Dupixent, Humira, Kineret, Otezla, Xeljanz IR](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOEo4SUtSTTE4M0YzTUpLWFpYS0hRQ0JWNyQlQCN0PWcu&topview=Preview)
+[Systemic Inflammatory Disease- Preferred (PA) - Adbry, Enbrel, Dupixent, Humira, Kineret, Otezla, Xeljanz IR](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOEo4SUtSTTE4M0YzTUpLWFpYS0hRQ0JWNyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
-[Systemic Inflammatory Disease- Preferred (Step Therapy) - Taltz](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMFFaNE9JWjU1MTBOS001MFc2OUw5VVBKQSQlQCN0PWcu&topview=Preview)
+[Systemic Inflammatory Disease- Preferred (Step Therapy) - Taltz](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMFFaNE9JWjU1MTBOS001MFc2OUw5VVBKQSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
 
 ## Formulary
@@ -111,8 +111,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=74)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=74){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=25)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=25){ :target="_blank" rel="noopener"}
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

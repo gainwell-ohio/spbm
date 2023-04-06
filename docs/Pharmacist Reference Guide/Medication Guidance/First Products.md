@@ -1,6 +1,6 @@
 # First Products
 
-[_FIRST PRODUCTS - IMPORTANT (PLEASE READ)_](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/_FIRST%20PRODUCTS%20-%20IMPORTANT%20(PLEASE%20READ)_.msg?csf=1&web=1&e=3Gg3Kt)
+[_FIRST PRODUCTS - IMPORTANT (PLEASE READ)_](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/_FIRST%20PRODUCTS%20-%20IMPORTANT%20(PLEASE%20READ)_.msg?csf=1&web=1&e=3Gg3Kt){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 This is the process for all FIRST products including: First-Omeprazole; First-Lansoprazole, First-Mouthwash BLM, First-Metronidazole, First-Progesterone VGS and First-Baclofen  
  

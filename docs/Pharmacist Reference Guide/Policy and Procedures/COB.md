@@ -6,7 +6,7 @@ COB -COB stands for Coordination of Benefits.  This is when a member has more th
 Medicaid is usually the payer of last resort.  The ONLY exception is if the member has BCMH (Bureau for Children with Medical Handicaps).
 
 ## COB Procedures
-[Edit 7011 Clarification](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW%20Edit%207011%20Clarification.msg?csf=1&web=1&e=1WzJiA){ .md-button .md-button--primary }
+[Edit 7011 Clarification](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW%20Edit%207011%20Clarification.msg?csf=1&web=1&e=1WzJiA){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Good morning.   I just wanted to clarify a process with everyone as I am seeing confusion from the Call Center reps. 
 
@@ -23,5 +23,5 @@ Mandy
 
 
 ## More info
-[COB Training Document](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Coordination%20of%20Benefits%20-%20COB%20-%20Billing%20Instructions%20.docx?d=w473eb3c251a4443eaf3c300b3e5f746b&csf=1&web=1&e=kjQ4o0)
+[COB Training Document](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Coordination%20of%20Benefits%20-%20COB%20-%20Billing%20Instructions%20.docx?d=w473eb3c251a4443eaf3c300b3e5f746b&csf=1&web=1&e=kjQ4o0){:target="_blank" rel="noopener"}
 

@@ -1,6 +1,6 @@
 # Breztri
 
-[Trelegy and Breztri Information Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Trelegy%20and%20Breztri%20Information.msg?csf=1&web=1&e=f6yoUM){ .md-button .md-button--primary }
+[Trelegy and Breztri Information Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Trelegy%20and%20Breztri%20Information.msg?csf=1&web=1&e=f6yoUM){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 **Breztri:**
  

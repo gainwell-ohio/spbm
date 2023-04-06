@@ -9,8 +9,8 @@ This is a subcategory of Infectious Disease Agents.
 
 ## Decision Trees
 
-- [Antibiotics - Inhaled- Non-Preferred - Arikayce, Bethkis, Cayston, Kitabis Pak, Tobi Podhaler](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNklGMlY2WTJUTFRMWENTNkxXQVVEUUVFRyQlQCN0PWcu&topview=Preview)
-- [Antibiotics - Inhaled- Preferred - Tobramycin](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNFlXQ05YUlRLVjA2RzU0OUYwUUhHQktGVCQlQCN0PWcu&topview=Preview)
+- [Antibiotics - Inhaled- Non-Preferred - Arikayce, Bethkis, Cayston, Kitabis Pak, Tobi Podhaler](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNklGMlY2WTJUTFRMWENTNkxXQVVEUUVFRyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Antibiotics - Inhaled- Preferred - Tobramycin](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNFlXQ05YUlRLVjA2RzU0OUYwUUhHQktGVCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -64,8 +64,7 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=77)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=77){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=26)
-
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=26){ :target="_blank" rel="noopener"}
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

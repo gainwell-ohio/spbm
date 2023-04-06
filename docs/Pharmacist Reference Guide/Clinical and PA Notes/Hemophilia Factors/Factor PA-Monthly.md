@@ -1,6 +1,6 @@
 # Processing Factor PAs
 
-[HICLSeqNo Approval Info  Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/HclSeqNo%20Approval%20information.msg?csf=1&web=1&e=mjAgIk){ .md-button .md-button--primary }
+[HICLSeqNo Approval Info  Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/HclSeqNo%20Approval%20information.msg?csf=1&web=1&e=mjAgIk){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 There is an identified issue with approving things by Hicl, that the medication does not show up.  Please either at this time approve by GCNSeqNo whenever possible. If Hicl anything is the only route option, the name of the drug requested must be put in the approval notes for the people who receive the letter will know that this is the medication that is being approved or denied. 
  

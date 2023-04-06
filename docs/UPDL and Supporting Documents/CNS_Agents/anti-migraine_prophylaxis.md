@@ -12,7 +12,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 ### Preferred
 
 | Preferred                                                | Generic Name                                             |         Quantity          |        Time (Days)        |
-| :------------------------------------------------------- | :------------------------------------------------------- | :-----------------------: | :-----------------------: |
+|:---------------------------------------------------------|:---------------------------------------------------------|:-------------------------:|:-------------------------:|
 | Aimovig <sup>QL ST</sup>                                 | Erenumab Subcutaneous Inj (all strengths & formulations) | Determined pursuant to PA | Determined pursuant to PA |
 | Ajovy <sup>QL ST</sup>                                   | Fremanezumab Subcutaneous Inj 225 MG / 1.5 ML            | Determined pursuant to PA | Determined pursuant to PA |
 | Cardiovascular Agents: Beta-Blockers                     |                                                          |                           |                           |
@@ -23,7 +23,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 ### Non-Preferred
 
 | Non-Preferred            | Generic Name                                                 |         Quantity          |        Time (Days)        |
-| :----------------------- | :----------------------------------------------------------- | :-----------------------: | :-----------------------: |
+|:-------------------------|:-------------------------------------------------------------|:-------------------------:|:-------------------------:|
 | Emgality <sup>QL</sup>   | Galcanezumab Subcutaneous Inj (all strengths & formulations) | Determined pursuant to PA | Determined pursuant to PA |
 | Nurtec ODT <sup>QL</sup> | Rimegepant ODT (all strengths)                               | Determined pursuant to PA | Determined pursuant to PA |
 | Qulipta <sup>QL</sup>    | Atogepant Tab (all strengths)                                | Determined pursuant to PA | Determined pursuant to PA |
@@ -84,8 +84,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=28)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=28){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=14)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=14){ :target="_blank" rel="noopener"}
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}
