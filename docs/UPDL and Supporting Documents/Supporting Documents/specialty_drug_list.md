@@ -5,7 +5,7 @@ search:
 
 # Specialty Drug List by Therapeutic Class
 
-[Specialty Drug List by Therapeutic Class](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/Specialty%20Drug%20List/Specialty%20Drug%20List%2012.05.22.pdf)
+[Specialty Drug List by Therapeutic Class](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/Specialty%20Drug%20List/Specialty%20Drug%20List%2012.05.22.pdf){ :target="_blank" rel="noopener"}
 
 ## Analgesics
 

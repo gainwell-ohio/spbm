@@ -1,6 +1,6 @@
 # Canceling no signatures/attestation boxes
 
-[Canceling no signatures_attestation boxes](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Canceling%20no%20signatures_attestation%20boxes.msg?csf=1&web=1&e=NvUCij){ .md-button .md-button--primary }
+[Canceling no signatures_attestation boxes](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Canceling%20no%20signatures_attestation%20boxes.msg?csf=1&web=1&e=NvUCij){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 In an effort to decrease unnecessary denials and since the techs are following this procedure it seems anyway, it has been decided that when we are receiving PAs without signatures or questionable(see below) attestation boxes not checked
 If we do get an not signed PA, similar to other canceling procedures.

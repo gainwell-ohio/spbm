@@ -2,12 +2,12 @@
 
 ![image](https://user-images.githubusercontent.com/122046056/230230675-71ecf0d5-77c7-4000-92b3-dba361305399.png)
 
-[SPBM Member Handbook](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/Manuals/SPBM%20Member%20Handbook.pdf)
+[SPBM Member Handbook](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/Manuals/SPBM%20Member%20Handbook.pdf){:target="_blank" rel="noopener"}
 
-[SPBM Pharmacy Reference Guide](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/User%20Guides/SPBM%20Pharmacy%20Reference%20Guide.pdf)
+[SPBM Pharmacy Reference Guide](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/User%20Guides/SPBM%20Pharmacy%20Reference%20Guide.pdf){:target="_blank" rel="noopener"}
 
 ## Appeals Process
-[Appeals Processing Procedure](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Appeals%20Processing%20for%20pharmacists.docx?d=w237c662b5a1642ca94477766772d1551&csf=1&web=1&e=gLLGJg)
+[Appeals Processing Procedure](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Appeals%20Processing%20for%20pharmacists.docx?d=w237c662b5a1642ca94477766772d1551&csf=1&web=1&e=gLLGJg){:target="_blank" rel="noopener"}
 
 ## Appeal Status Options
 
@@ -33,7 +33,7 @@
 **If overturning the denial, please enter a new PA in Vue360Rx with all information documented referencing the appeal case number and in process manager provide the PA number
 
 ## Appeals in PA Queue
-[Appeal requests in MedReview](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20When%20Pharmacists%20get%20legitimate%20appeals%20in%20PA%20queues.msg?csf=1&web=1&e=guftJO)
+[Appeal requests in MedReview](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20When%20Pharmacists%20get%20legitimate%20appeals%20in%20PA%20queues.msg?csf=1&web=1&e=guftJO){:target="_blank" rel="noopener"}
 
 It has also been decided with the appeals team and Brandon that at the end of the process the PA we have in MEDREVIEW or PENDING should be canceled for the reason that Appeals processing time may go past our TAT and we can be fined daily for each day a PA remains active in our system past that TAT.
  

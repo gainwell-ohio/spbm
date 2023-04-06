@@ -9,15 +9,15 @@ This is a subcategory of Respiratory Agents.
 
 ## Decision Trees
 
-- [Hereditary Angioedema- Non-Preferred - Berinert, Cinryze, Icatibant Acetate, Kalbitor](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUN1pRNjNUSFpETE41UURPTEwwUlJVTlNDUiQlQCN0PWcu&topview=Preview)
-- [Hereditary Angioedema- Preferred - Haegarda, Ruconest, Takhzyro](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURE1EMkxPQzFLUDcxREpQRFU4SU03TzJIVSQlQCN0PWcu&topview=Preview)
+- [Hereditary Angioedema- Non-Preferred - Berinert, Cinryze, Icatibant Acetate, Kalbitor](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUN1pRNjNUSFpETE41UURPTEwwUlJVTlNDUiQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Hereditary Angioedema- Preferred - Haegarda, Ruconest, Takhzyro](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURE1EMkxPQzFLUDcxREpQRFU4SU03TzJIVSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
 ### Preferred
 
-| Preferred   | Generic Name | Quantity | Time (Days) |
-| :---------- | :----------- | :------: | :---------: |
+| Preferred              | Generic Name | Quantity | Time (Days) |
+|:-----------------------|:-------------|:--------:|:-----------:|
 | Haegarda <sup>PA</sup> |              |          |             |
 | Ruconest <sup>PA</sup> |              |          |             |
 | Takhzyro <sup>PA</sup> |              |          |             |
@@ -25,7 +25,7 @@ This is a subcategory of Respiratory Agents.
 ### Non-Preferred
 
 | Non-Preferred     | Generic Name | Quantity | Time (Days) |
-| :---------------- | :----------- | :------: | :---------: |
+|:------------------|:-------------|:--------:|:-----------:|
 | Berinert          |              |          |             |
 | Cinryze           |              |          |             |
 | Icatibant Acetate |              |          |             |
@@ -66,8 +66,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=95)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=95){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=30)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=30){ :target="_blank" rel="noopener"}
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

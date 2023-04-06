@@ -1,6 +1,6 @@
 # Stimate
 
-[Stimate Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Non-payable%20NDC%20-%20Stimate.msg?csf=1&web=1&e=ONdk3F){ .md-button .md-button--primary }
+[Stimate Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Non-payable%20NDC%20-%20Stimate.msg?csf=1&web=1&e=ONdk3F){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Hi Prachi, unfortunately if the NDC is “Termed, no Re-activation”, the prescriber will have to find an alternative. 
 

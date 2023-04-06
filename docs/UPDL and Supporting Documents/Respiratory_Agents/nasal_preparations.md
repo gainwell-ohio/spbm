@@ -9,7 +9,7 @@ This is a subcategory of Respiratory Agents.
 
 ## Decision Tree
 
-- [Nasal Preparations - NP Criteria - Azelastine / Fluticasone Spray, Beconase AQ, Mometason, Omnaris, Qnasl, Xhance, Zetonna](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNjcxMjRWQTRKTzNXNkJEMUdaVjhBNDJMQyQlQCN0PWcu&topview=Preview)
+- [Nasal Preparations - NP Criteria - Azelastine / Fluticasone Spray, Beconase AQ, Mometason, Omnaris, Qnasl, Xhance, Zetonna](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNjcxMjRWQTRKTzNXNkJEMUdaVjhBNDJMQyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -63,8 +63,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=99)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=99){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=31)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=31){ :target="_blank" rel="noopener"}
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

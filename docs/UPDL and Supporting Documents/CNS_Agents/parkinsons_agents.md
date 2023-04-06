@@ -9,8 +9,8 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ## Decision Trees
 
-- [Parkinson's Agents - Apokyn, Inbrija, Kynmobi, Nourianz](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURjNDM1M2TDg5Njk5TlQ3U1pOWVNMSEpLSCQlQCN0PWcu&topview=Preview)
-- [Parkinson's Agents - Carbidopa/Levodopa Dispersible Tab, Carbidopa/Levodopa/Entacapone, Gocovri, Ongentys, Osmolex ER, Pramipexole ER, Rasagiline, Ropinirole ER, Rytary, Tolcapone, Xadago, Zelapar](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQTBKVEMwWVhMVE9UWDBPRUVHSjFBWloxSCQlQCN0PWcu&topview=Preview)
+- [Parkinson's Agents - Apokyn, Inbrija, Kynmobi, Nourianz](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURjNDM1M2TDg5Njk5TlQ3U1pOWVNMSEpLSCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Parkinson's Agents - Carbidopa/Levodopa Dispersible Tab, Carbidopa/Levodopa/Entacapone, Gocovri, Ongentys, Osmolex ER, Pramipexole ER, Rasagiline, Ropinirole ER, Rytary, Tolcapone, Xadago, Zelapar](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQTBKVEMwWVhMVE9UWDBPRUVHSjFBWloxSCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -80,8 +80,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=45)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=45){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=18)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=18){ :target="_blank" rel="noopener"}
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

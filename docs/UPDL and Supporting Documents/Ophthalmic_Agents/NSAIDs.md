@@ -9,7 +9,7 @@ This is a subcategory of Ophthalmic Agents.
 
 ## Decision Tree
 
-- [NSAIDS - Non-Preferred Criteria - Acuvail, Bromfenac, Bromsite, Ilevro, Nevanac, Prolensa](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQVZUMTlJVllURFZNNFZVWkhUVjhJOTdHMiQlQCN0PWcu&topview=Preview)
+- [NSAIDS - Non-Preferred Criteria - Acuvail, Bromfenac, Bromsite, Ilevro, Nevanac, Prolensa](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQVZUMTlJVllURFZNNFZVWkhUVjhJOTdHMiQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -52,8 +52,8 @@ Non-Preferred Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=89)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=89){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=29)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=29){ :target="_blank" rel="noopener"}
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

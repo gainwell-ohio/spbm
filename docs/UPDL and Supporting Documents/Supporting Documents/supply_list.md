@@ -5,7 +5,7 @@ search:
 
 ## 2022 Preferred Diabetic Supply List
 
-[Preferred Diabetic Supply List](https://pharmacy.medicaid.ohio.gov/sites/default/files/OH_July_2022_PDSL.pdf#overlay-context=drug-coverage)
+[Preferred Diabetic Supply List](https://pharmacy.medicaid.ohio.gov/sites/default/files/OH_July_2022_PDSL.pdf#overlay-context=drug-coverage){ :target="_blank" rel="noopener"}
 
 ### Effective 7/1/2022
 

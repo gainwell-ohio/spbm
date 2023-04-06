@@ -1,10 +1,10 @@
 # Early termination 2023
 
-[Synagis Questions Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20Synagis%20questions%20.msg?csf=1&web=1&e=abXwKC){ .md-button .md-button--primary }
+[Synagis Questions Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20Synagis%20questions%20.msg?csf=1&web=1&e=abXwKC){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
-[Synagis Processing Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20Synagis%20process%20from%20now%20until%202_15_23.msg?csf=1&web=1&e=aCvsf5){ .md-button .md-button--primary }
+[Synagis Processing Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20Synagis%20process%20from%20now%20until%202_15_23.msg?csf=1&web=1&e=aCvsf5){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
-[Synagis Appeals Early Termination](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Synagis%20Now%20.msg?csf=1&web=1&e=mzb3gQ)
+[Synagis Appeals Early Termination](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Synagis%20Now%20.msg?csf=1&web=1&e=mzb3gQ){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Hello,
 There were some processing questions regarding Synagis requests after 2/15/23, going off of what was directed to us-

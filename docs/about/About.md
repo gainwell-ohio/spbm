@@ -18,8 +18,8 @@ Digital workforce focuses on three pillars of work, of which this work product f
 
 ## Technologies Incorporated
 
-* [MkDocs](https://www.mkdocs.org/)
-* [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+* [MkDocs](https://www.mkdocs.org/){:target="_blank" rel="noopener"}
+* [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/){:target="_blank" rel="noopener"}
 
 ## Project layout
 

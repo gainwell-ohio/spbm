@@ -1,6 +1,6 @@
 # Loading doses
 
-[Loading doses](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20Initial%20approval%20of%20loading%20dosages.msg?csf=1&web=1&e=Vx7QSq)
+[Loading doses](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20Initial%20approval%20of%20loading%20dosages.msg?csf=1&web=1&e=Vx7QSq){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Hello,
 

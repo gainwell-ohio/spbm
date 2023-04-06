@@ -1,6 +1,6 @@
 # AMICAR shortage
 
-[Amicar shortage Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Brand%20name%20Amicar%20-%20Drug%20Shortage.msg?csf=1&web=1&e=HyC6pB){ .md-button .md-button--primary }
+[Amicar shortage Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Brand%20name%20Amicar%20-%20Drug%20Shortage.msg?csf=1&web=1&e=HyC6pB){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Hi PA team,
  

@@ -41,7 +41,7 @@ This is a subcategory of Infectious Disease Agents.
 Clinical PA Criteria
 
 - Only regimens recommended by the American Association for the Study of Liver Diseases (AASLD) will be authorized
-- Please see the [Hepatitis C Direct Acting Antiviral Prior Authorization Form](https://pharmacy.medicaid.ohio.gov/sites/default/files/HepC_PA_Form_20211119.pdf#overlay-context=prior-authorization) for criteria 
+- Please see the [Hepatitis C Direct Acting Antiviral Prior Authorization Form](https://pharmacy.medicaid.ohio.gov/sites/default/files/HepC_PA_Form_20211119.pdf#overlay-context=prior-authorization){ :target="_blank" rel="noopener"} for criteria 
 
 ### Non-Preferred
 
@@ -61,8 +61,8 @@ Non-Preferred Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=82)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=82){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=27)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=27){ :target="_blank" rel="noopener"}
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

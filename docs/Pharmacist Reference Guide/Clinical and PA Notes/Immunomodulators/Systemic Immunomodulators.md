@@ -16,5 +16,5 @@ STATE OF WEST VIRGINIA DEPARTMENT OF HEALTH AND HUMAN RESOURCES BUREAU FOR MEDIC
 Possible First Line Agents by Diagnosis (Provided by Brian Johnson/Chris Nguyen)
 ![image](https://user-images.githubusercontent.com/122046056/227432845-397db003-13f5-4c7c-a07b-448c72ad5118.png)
 
-This is the link for [Journal of the American Academy of Dermatology - Guidelines of care for the management of atopic dermatitis](https://www.jaad.org/article/S0190-9622(14)01257-2/fulltext#secsectitle0010)
+This is the link for [Journal of the American Academy of Dermatology - Guidelines of care for the management of atopic dermatitis](https://www.jaad.org/article/S0190-9622(14)01257-2/fulltext#secsectitle0010){ :target="_blank" rel="noopener"}
 – RCarpenter RPH

@@ -9,22 +9,22 @@ This is a subcategory of Cardiovascular Agents.
 
 ## Decision Trees
 
-- [Lipotropics- ATP Citrate Lyase (ACL) Inhibitors - Nexletol, Nexlizet](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOFo5N05aUFVBVFY5SERQNVpTSjVNQVgwSyQlQCN0PWcu&topview=Preview)
-- [Lipotropics- Bile Acid Sequestrants – Colesevelam, Colestipol Granules](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMUxSR0VUVzVLOEpOUlBEODhRTlVKODVGNyQlQCN0PWcu&topview=Preview)
-- [Lipotropics- Fibrates - Fenofibrate Cap, Fenofibrate Tab, Fenofibric Acid](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOUc4WUEzTzBBQTVTOEQ2SkFZQ0RWRzc2ViQlQCN0PWcu&topview=Preview)
-- [Lipotropics- HMG-CoA Reductase Inhibitors - Altoprev, Ezallor, Fluvastatin, Livalo, Zypitamag Amlodipine/Atorvastatin, Ezetimibe/Simvastatin](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMTFHS1ZESkJXVk1IUlI3VkswUk0yNTdYVCQlQCN0PWcu&topview=Preview)
-- [Lipotropics - Juxtapid](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNENWSlRHTko5MUNNVlU5SVRPVVBXNlZUVCQlQCN0PWcu&topview=Preview)
-- [Lipotropics- Niacin Derivatives - Niacin ER Tab](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQlRWNDZDU0VCQkNWM0hMNFVGMDM5UEQxOSQlQCN0PWcu&topview=Preview)
-- [Lipotropics- Omega 3 Fatty Acids - Lovaza, Vascepa](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUVVUkVURkRWVEpVMjhLODNGWDMzTFdWWSQlQCN0PWcu&topview=Preview)
-- [Lipotropics- PCSK-9 Inhibitors- Praluent, Repatha](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMVNHSEg4TFFJTDZIWkdTUFY4TVM3NlZXWiQlQCN0PWcu&topview=Preview)
+- [Lipotropics- ATP Citrate Lyase (ACL) Inhibitors - Nexletol, Nexlizet](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOFo5N05aUFVBVFY5SERQNVpTSjVNQVgwSyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Lipotropics- Bile Acid Sequestrants – Colesevelam, Colestipol Granules](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMUxSR0VUVzVLOEpOUlBEODhRTlVKODVGNyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Lipotropics- Fibrates - Fenofibrate Cap, Fenofibrate Tab, Fenofibric Acid](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOUc4WUEzTzBBQTVTOEQ2SkFZQ0RWRzc2ViQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Lipotropics- HMG-CoA Reductase Inhibitors - Altoprev, Ezallor, Fluvastatin, Livalo, Zypitamag Amlodipine/Atorvastatin, Ezetimibe/Simvastatin](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMTFHS1ZESkJXVk1IUlI3VkswUk0yNTdYVCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Lipotropics - Juxtapid](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNENWSlRHTko5MUNNVlU5SVRPVVBXNlZUVCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Lipotropics- Niacin Derivatives - Niacin ER Tab](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQlRWNDZDU0VCQkNWM0hMNFVGMDM5UEQxOSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Lipotropics- Omega 3 Fatty Acids - Lovaza, Vascepa](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUVVUkVURkRWVEpVMjhLODNGWDMzTFdWWSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Lipotropics- PCSK-9 Inhibitors- Praluent, Repatha](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMVNHSEg4TFFJTDZIWkdTUFY4TVM3NlZXWiQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
 ### Preferred
 
 | Preferred                                  | Generic Name                              | Quantity | Time (Days) |
-| :----------------------------------------- | :---------------------------------------- | :------: | :---------: |
-| Atorvastatin <sup>QL</sup>                 | Atorvastatin Calcium Tab (all strengths   |   102    |     102     |
+|:-------------------------------------------|:------------------------------------------|:--------:|:-----------:|
+| Atorvastatin <sup>QL</sup>                 | Atorvastatin Calcium Tab (all strengths)  |   102    |     102     |
 | Cholestyramine Regular, Light              |                                           |          |             |
 | Colestipol Tab                             |                                           |          |             |
 | Ezetimibe                                  |                                           |          |             |
@@ -44,7 +44,7 @@ This is a subcategory of Cardiovascular Agents.
 ### Non-Preferred
 
 | Non-Preferred                                       | Generic Name                                        |         Quantity          |        Time (Days)        |
-| :-------------------------------------------------- | :-------------------------------------------------- | :-----------------------: | :-----------------------: |
+|:----------------------------------------------------|:----------------------------------------------------|:-------------------------:|:-------------------------:|
 | Altoprev                                            |                                                     |                           |                           |
 | Amlodipine / Atorvastatin                           |                                                     |                           |                           |
 | Colesevelam                                         |                                                     |                           |                           |
@@ -70,7 +70,7 @@ This is a subcategory of Cardiovascular Agents.
 **Length of Authorizations**: See below
 
 |                                           |          |
-| ----------------------------------------- | -------- |
+|-------------------------------------------|----------|
 | Juxtapid (Initial)                        | 180 days |
 | Vascepa, Lovaza, ACL inhibitors (Initial) | 84 days  |
 | All others (Initial and Subsequent)       | 365 days |
@@ -136,8 +136,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=22)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=22){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=12)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=12){ :target="_blank" rel="noopener"}
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

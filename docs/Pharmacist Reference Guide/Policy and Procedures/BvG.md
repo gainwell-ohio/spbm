@@ -17,7 +17,7 @@ The following medication [xxxx] has been requested for your patient. The plan co
 
 _________________________________________________________
 
-[Brand vs Generic email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Brand%20over%20Generic.msg?csf=1&web=1&e=Gs3e9a){ .md-button .md-button--primary }
+[Brand vs Generic email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Brand%20over%20Generic.msg?csf=1&web=1&e=Gs3e9a){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 If a call is taken by the call center team by from a pharmacy provider, technician receiving the call can inform the pharmacy that brand is preferred and must be processed correctly instead of generic.
 If a call is taken by the call center team by a prescriber, the technician will inform the prescriber that brand is preferred over generic.

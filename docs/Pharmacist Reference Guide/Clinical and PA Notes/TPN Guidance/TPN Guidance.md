@@ -1,6 +1,6 @@
 # TPN Guidance
 
-[TPN Guidance Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Processing%20TPN%20medications.msg?csf=1&web=1&e=zGViQA){ .md-button .md-button--primary }
+[TPN Guidance Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Processing%20TPN%20medications.msg?csf=1&web=1&e=zGViQA){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Hello,
 
@@ -20,7 +20,7 @@ As in other compound medications all ingredients are listed at the bottom of the
  
 This is very lay person designed but I generally use these sorts of situations for guidance
 
-[Home parenteral nutrition - Mayo Clinic](https://www.mayoclinic.org/tests-procedures/total-parenteral-nutrition/about/pac-20385081)
+[Home parenteral nutrition - Mayo Clinic](https://www.mayoclinic.org/tests-procedures/total-parenteral-nutrition/about/pac-20385081){ :target="_blank" rel="noopener"}
  
 If any questions please ask, Thanks as always
  

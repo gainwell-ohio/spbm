@@ -1,6 +1,6 @@
 # DESI Drugs
 
-[Desi Drug Situations Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Desi%20Drug%20Situations.msg?csf=1&web=1&e=EdsfRG){ .md-button .md-button--primary }
+[Desi Drug Situations Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Desi%20Drug%20Situations.msg?csf=1&web=1&e=EdsfRG){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 After further defining why there are green payable drugs in the NDC Maintenance tile from Tyler – 
 

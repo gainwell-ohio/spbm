@@ -5,7 +5,7 @@ search:
 
 # Payable Active Pharmaceutical Compounding Ingredients and Excipients
 
-[Payable Active Pharmaceutical Compounding Ingredients and Excipients](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220701_Payable_Active_Pharmaceutical_Ingredients_and_Excipients_for_Compounding.pdf#overlay-context=drug-coverage)
+[Payable Active Pharmaceutical Compounding Ingredients and Excipients](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220701_Payable_Active_Pharmaceutical_Ingredients_and_Excipients_for_Compounding.pdf#overlay-context=drug-coverage){ :target="_blank" rel="noopener"}
 
 | Drug Name | Form | Drug Name | Form | Drug Name | Form |
 | :--- | :--- | :--- | :--- | :--- | :--- |

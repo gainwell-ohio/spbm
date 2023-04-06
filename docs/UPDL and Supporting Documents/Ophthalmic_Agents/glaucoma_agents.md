@@ -9,8 +9,8 @@ This is a subcategory of Ophthalmic Agents.
 
 ## Decision Trees
 
-- [Glaucoma Agents- Non-Preferred - Apraclonidine, Betoptic S, Bimatoprost, Brimonidine 0.15%, Brinzolamide, Iopidine, Istalol, Lumigan, Travoprost*, Vyzulta, Xelpros, Zioptan](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURFlFT0ZNMUxFV0tITEdERjYxOFMxTExZSCQlQCN0PWcu&topview=Preview)
-- [Glaucoma Agents- Preferred (Step Therapy) - Azopt, Combigan, Travatan Z](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQkJQSzVNNjBIU0tXN1NTNTFaNDFYM0k1NyQlQCN0PWcu&topview=Preview)
+- [Glaucoma Agents- Non-Preferred - Apraclonidine, Betoptic S, Bimatoprost, Brimonidine 0.15%, Brinzolamide, Iopidine, Istalol, Lumigan, Travoprost*, Vyzulta, Xelpros, Zioptan](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURFlFT0ZNMUxFV0tITEdERjYxOFMxTExZSCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Glaucoma Agents- Preferred (Step Therapy) - Azopt, Combigan, Travatan Z](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQkJQSzVNNjBIU0tXN1NTNTFaNDFYM0k1NyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -87,8 +87,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=88)
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=88){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=29)
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=29){ :target="_blank" rel="noopener"}
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)
+[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}
