@@ -1,6 +1,6 @@
 # Provider Reference Guide
 
-[Provider Reference Guide](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/User%20Guides/SPBM%20Pharmacy%20Reference%20Guide.pdf)
+[Provider Reference Guide](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/User%20Guides/SPBM%20Pharmacy%20Reference%20Guide.pdf){:target="_blank" rel="noopener"}
 
 ![image](https://user-images.githubusercontent.com/122046056/230240219-4bdcfbfe-be1f-4239-b80c-63258673c3c8.png)
 ![image](https://user-images.githubusercontent.com/122046056/230240227-b64970c0-5bc5-4bfd-bfc5-0827a87bebfe.png)

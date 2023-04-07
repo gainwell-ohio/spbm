@@ -1,6 +1,6 @@
 # Trelegy 
 
-[Trelegy and Breztri Information Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Trelegy%20and%20Breztri%20Information.msg?csf=1&web=1&e=iOTd5H){ .md-button .md-button--primary }
+[Trelegy and Breztri Information Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Trelegy%20and%20Breztri%20Information.msg?csf=1&web=1&e=iOTd5H){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 - Once-daily TRELEGY is a prescription medicine used long term to treat COPD, including chronic bronchitis, emphysema, or both and to treat asthma in adults. 
       - TRELEGY 100/62.5/25 mcg is the only strength approved for COPD.
