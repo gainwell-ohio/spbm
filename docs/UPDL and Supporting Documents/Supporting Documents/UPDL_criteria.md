@@ -1623,3 +1623,246 @@ Immunomodulator Agents: **Systemic Inflammatory Disease**
 **Subsequent Authorization Criteria**:
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
+
+## Infectious Disease Agents
+
+Infectious Disease Agents: **Antibiotics - Cephalosporins**
+
+**Length of Authorizations**: Based on indication
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **3 days** with at least **one preferred** antibiotic
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Additional Information**
+
+- Requests may be authorized if:
+    - The infection is caused by an organism resistant to ALL preferred antibiotics (must provide diagnosis and any culture/sensitivity results)
+    - The patient is completing a course of therapy that was started in the hospital or other similar location or was started before Medicaid eligibility, only the remaining course will be authorized
+
+**Subsequent Authorization Criteria**
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring, **AND** medical necessity for continued use
+
+**AR** - Cefaclor Suspension: a PA is required for patients 12 years and older
+
+**AR** - Cefixime Suspension: a PA is required for patients 12 years and older
+
+**AR** - Cefprozil Suspension: a PA is required for patients 12 years and older
+
+**AR** - Suprax Chewable Tablet: a PA is required for patients 12 years and older
+
+Infectious Disease Agents: **Antibiotics - Inhaled**
+
+**Length of Authorizations**: Initial: 180 days; Subsequent 365 days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Clinical PA Criteria**
+
+- Must provide documentation of cultures demonstrating drug is prescribed in alignment with approved indication
+
+**Non-Preferreed Criteria**
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **28 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Subsequent Authorization Criteria**
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring (i.e., culture conversion, symptom improvement)
+
+**QL** - Tobramycin drugs: 56 doses in 56 days
+
+Infectious Disease Agents: **Antibiotics - Macrolides**
+
+**Length of Authorizations**: Based on indication
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **3 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Additional Information**
+
+- Requests may be authorized if:
+    - The infection is caused by an organism resistant to ALL preferred antibiotics (must provide diagnosis and any culture/sensitivity results)
+    - The patient is completing a course of therapy that was started in the hospital or other similar location or was started before Medicaid eligibility, only the remaining course will be authorized
+
+**Subsequent Authorization Criteria**
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring, **AND** medical necessity for continued use
+
+Infectious Disease Agents: **Antibiotics - Quinolones**
+
+**Length of Authorizations**: Based on indication
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **3 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Additional Information**
+
+- Requests may be authorized if:
+    - The infection is caused by an organism resistant to ALL preferred antibiotics (must provide diagnosis and any culture/sensitivity results)
+    - The patient is completing a course of therapy that was started in the hospital or other similar location or was started before Medicaid eligibility, only the remaining course will be authorized
+
+**Subsequent Authorization Criteria**
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring, **AND** medical necessity for continued use
+
+**AR** - Ciprofloxacin Suspension: a PA is required for patients 12 years and older
+
+Infectious Disease Agents: **Antibiotics - Tetracyclines**
+
+**Length of Authorizations**: Based on indication for acute infections or 365 days for acne
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **3 days** with at least **one preferred** drug for acute infections **OR** at least **90 days** with at least **one preferred oral** drug for acne
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Additional Information**
+
+- Requests may be authorized if:
+    - The infection is caused by an organism resistant to ALL preferred antibiotics (must provide diagnosis and any culture/sensitivity results)
+    - The patient is completing a course of therapy that was started in the hospital or other similar location or was started before Medicaid eligibility, only the remaining course will be authorized
+
+**Subsequent Authorization**
+
+Subsequent Authorization Criteria
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring, **AND** medical necessity for continued use
+
+**AR** - Vibramycin Suspension: a PA is required for patients 12 years and older 
+
+**AR** - Doxycycline Syrup: a PA is required for patients 12 years and older
+
+Infectious Disease Agents: **Antifungals**
+
+**Length of Authorizations**: Based on indication
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **7 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Additional Oteseconazole (Vivjoa) Criteria**
+
+- Must provide documentation of at least three symptomatic episodes of vulvovaginal candidiasis in the past 12 months
+- Must provide documentation of non-reproductive potential (i.e, post-menopausal)
+- Must have had an inadequate clinical response of at least **180 day** maintenance course with oral fluconazole shown by documentation of more than **one** breakthrough infection 
+
+**Additional Information**
+
+- Requests may be authorized if:
+    - The infection is caused by an organism resistant to **ALL** preferred antifungals (must provide diagnosis and any culture/sensitivity results)
+    - The patient is completing a course of therapy that was started in the hospital or other similar location or was started before Medicaid eligibility, only the remaining course will be authorized
+
+**Subsequent Authorization Criteria**
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring, **AND** medical necessity for continued use
+
+Infectious Disease Agents: **Antivirals - Hepatitis C Agents**
+
+**Length of Authorizations**: Dependent upon authorized course
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Clinical PA Criteria**
+
+- Only regimens recommended by the American Association for the Study of Liver Diseases (AASLD) will be authorized
+- Please see the [Hepatitis C Direct Acting Antiviral Prior Authorization Form](https://pharmacy.medicaid.ohio.gov/sites/default/files/HepC_PA_Form_20211119.pdf#overlay-context=prior-authorization){ :target="_blank" rel="noopener"} for criteria 
+
+**Non-Preferred Criteria**
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response defined as not achieving SVR with guideline-recommended preferred drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Additional Information**
+
+- Requests for patients established on current therapy with prior payer (i.e., Commercial, Fee-for-Service, Managed Care Plan, etc) will be authorized with documentation
+- Requests for regimens including pegylated Interferons must include close monitoring with periodic clinical and laboratory evaluations
+- Requests for regimens including ribavirins must include documentation of at least two reliable forms of contraception being used during therapy
+
+Infectious Disease Agents: **Antivirals - Herpes**
+
+**Length of Authorizations**: For the duration of the prescription (up to 180 days)
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **3 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Subsequent Authorization Criteria**
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+Infectious Disease Agents: **Antivirals - HIV***
+
+**Length of Authorizations**: 365 Days
+
+**Grandfathering***
+
+Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug previously, but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Abacavir/Dolutegravir/Lamivudine (Triumeq PD) Criteria**
+
+-   Must provide documentation of patient’s weight (only authorized for those 10 – 25 kg)
+
+**Non-Preferred Criteria**
+
+-   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+-   Must have had an inadequate clinical response of at least **30 days** with at least **one preferred** drug. If applicable, the request must address the inability to use the individual components.
+    -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Subsequent Authorization Criteria**
+
+- Must provide information of patient’s clinical response to treatment and ongoing safety monitoring
+
+**AR** – Isentress chewable tablet: a PA is required for patients 12 years and older
+
+**AR** – Lamivudine solution: a PA is required for patients 3 years and older
+
+**AR** – Nevirapine solution: a PA is required for patients 3 years and older
