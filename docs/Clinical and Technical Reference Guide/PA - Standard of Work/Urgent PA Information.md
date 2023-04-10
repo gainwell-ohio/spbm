@@ -1,4 +1,7 @@
-**Procedure**
+# Urgent PA Information
+
+## Procedure
+
 1. Prescriber office calls in, requesting urgent PA and attests waiting would jeopardize member health 
 2. Technician will post the template in their Team's "Questions Chat" 
 3. Lead will post template in "PA Questions Chat" 
@@ -6,13 +9,16 @@
 5. If unable to approve, technician will move PA to "in Process" and in the notes section will add the  "Urgent PA template", including who phones the request in and at what time and the "med review note".  
 6. RPh will review PA.
 
-**Expedited / Urgent PA Review Template** 
+## Expedited / Urgent PA Review Template
 
-**Only a prescriber office can request an urgent PA review** 
+**Only a prescriber office can request an urgent PA review**
+
 - a member or pharmacy cannot 
 
- The prescriber office must verbally attest that waiting the 24 TAT for PA decision will negatively affect member health **and include why waiting jeopardizes member health.**  
-    - **If this does not apply, no urgent PA will be processed and member must wait 24 TAT** 
+The prescriber office must verbally attest that waiting the 24 TAT for PA decision will negatively affect member health **and include why waiting jeopardizes member health.**
+
+- **If this does not apply, no urgent PA will be processed and member must wait 24 TAT** 
+
 - PA #:  
 - Member ID: 
 - Name and Title of office staff requesting urgent review: 
