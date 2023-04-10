@@ -1,7 +1,7 @@
 # Immunomodulators for Systemic Inflammatory Disease DLP
 
-4/10
-[Immunomodulators for Systemic Inflammatory Disease DLP- Email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/_IMPORTANT_%20Immunomodulators%20for%20Systemic%20Inflammatory%20Disease%20DLP.msg?csf=1&web=1&e=vzYNyB){ .md-button .md-button--primary target="_blank" rel="noopener"}
+4/10/23: 
+[Immunomodulators for Systemic Inflammatory Disease DLP- Email](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Immunomodulators%20for%20Systemic%20Inflammatory%20Disease%20DLP%20final.docx?d=w124e0214f29446c08371b9fa0addb582&csf=1&web=1&e=hsJisE){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 [Procedure for Immunomodulators for Systemic Inflammatory Disease](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Immunomodulators%20for%20Systemic%20Inflammatory%20Disease%20DLP_.docx?d=w1bd61a780e50445da38867db308cebf0&csf=1&web=1&e=ycj7WU)
 
@@ -11,7 +11,7 @@
 
 1.	Drugs will be entered and approved at the ***HICL level*** for the initial 90-day authorization ***(except for Xeljanz IR, which will be loaded by GCNSeqNo).*** 
 2.	Daily dose units will be input to reflect the ***highest possible daily dose*** needed to allow for loading doses to pay as instructed on the DLP. 
-3.	Approval will be loaded for ***90 days duration.*** (Exception: Dupixent for small kids) 
+3.	Approval will be loaded for ***90 days duration.*** **Only exception to 90-days is pediatric Dupixent dosing in which may be extended to 120 days due to breaking boxes at the pharmacy.**  
 4.	Letter text in the Approval Letter should reflect the name of the drug approved (specifically to state all strengths have been approved) and approval dates as shown below
 
 ![image](https://user-images.githubusercontent.com/122046056/230942691-e53658f3-f2e6-4376-ae88-42b796a3f762.png)
