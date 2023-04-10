@@ -1,3 +1,5 @@
+[Insert Table of information below]
+
 **Gainwell Processing Information**
 
 BIN: 024251 
@@ -26,4 +28,4 @@ Cardholder ID: Medicare claim number (include letters)
 
 Patient ID (optional field): Medicaid ID or Social Security Number 
 
-1[]()
+![](https://github.com/gainwell-ohio/spbm/blob/Tech-OneNote/docs/Clinical%20and%20Technical%20Reference%20Guide/Calls%20-%20Standard%20of%20Work/LINET.png)
