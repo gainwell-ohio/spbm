@@ -2,7 +2,7 @@
 
 Dosing Guidance:
 
-[Recommendations for Testing, Managing, and Treating Hepatitis C | HCV Guidance](https://www.hcvguidelines.org/){ :target="_blank" rel="noopener"}
+[Recommendations for Testing, Managing, and Treating Hepatitis C | HCV Guidance](https://www.hcvguidelines.org/){:target="_blank" rel="noopener"}
 
 **Viral Load Testing:** 
 
