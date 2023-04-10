@@ -29,3 +29,4 @@ transferring them
 3. Leadership transfers caller to lifeline 
 4. Agent goes offline to create detailed call notes 
 
+![](https://github.com/gainwell-ohio/spbm/blob/Tech-OneNote/docs/Clinical%20and%20Technical%20Reference%20Guide/Calls%20-%20Contact%20List/MRSS%20Mobile%20Response%20Stabilization%20Services.png)
