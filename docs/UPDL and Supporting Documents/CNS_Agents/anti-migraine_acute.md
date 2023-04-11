@@ -15,7 +15,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 |:--------------------------------------|:-------------------------------------------------------|:--------:|:-----------:|
 | Imitrex Nasal Spray <sup>BvG QL</sup> | Sumatriptan Succinate Nasal Spray (all strengths)      |    8     |     30      |
 | Naratriptan <sup>QL</sup>             | Naratriptan HCI Tab (all strengths)                    |    9     |     30      |
-| Nurtec ODT <sup>QL</sup>              | Rizatriptan Benzoate (all strengths and formulations)  |    9     |     30      |
+| Nurtec ODT <sup>QL ST</sup>           | Rizatriptan Benzoate (all strengths and formulations)  |    9     |     30      |
 | Sumatriptan Inj <sup>QL</sup>         | Sumatriptan Succinate Subcutaneous Inj (all strengths) |    4     |     30      |
 | Sumatriptan Tab <sup>QL</sup>         | Sumatriptan Succinate Tab (all strengths)              |    9     |     30      |
 | Tosymra <sup>BvG QL</sup>             | Sumatriptan Succinate Nasal Spray (all strengths)      |    8     |     30      |
