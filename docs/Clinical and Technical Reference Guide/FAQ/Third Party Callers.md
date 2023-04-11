@@ -1,6 +1,8 @@
-**Identifying a Third-Party Caller**
+# Third Party Callers
 
-**What is third Party?** 
+## Identifying a Third-Party Caller
+
+**What is Third Party?** 
 
 A third party is an individual or entity that is involved in the facilitation of a transaction but is neither one of the primary parties.  
 - First party- Gainwell Technologies Pharmacy services. 
@@ -10,7 +12,8 @@ Third-party caller will use a soliciting call tactic. By presenting participle i
 
 A third party might not always identify themselves on a call.  
 
-Technicians will need to listen for clues such as: 
+Technicians will need to listen for clues such as:
+
 - “This is caller name, from Cover my meds” 
 - “I am calling on behalf of” 
 - “This call may be recorded” 
