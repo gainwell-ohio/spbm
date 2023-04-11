@@ -1,6 +1,8 @@
-**MEDICARE**
+# Medicare
 
-It is very important that you understand Medicare.  Medicare plans MUST be billed before Medicaid plans.  If claims are submitted without the pharmacy billing the member’s Medicare plan will be rejected.  Medicare rejections should **NOT** be overridden.   
+## Medicare
+
+It is very important that you understand Medicare.  Medicare plans MUST be billed before Medicaid plans. If claims are submitted without the pharmacy billing the member’s Medicare plan will be rejected.  Medicare rejections should **NOT** be overridden.   
 
 **If you feel a members Medicare eligibility is not correct in VUE360RX, please send an email to SPBMEligibility@gainwelltechnologies.com for verification** 
 
@@ -16,7 +18,7 @@ If a member has Medicare Part A & Part B, they are **required** to obtain a Part
 
 **If you feel a members Medicare eligibility is not correct in VUE360RX, please send an email to SPBMEligibility@gainwelltechnologies.com for verification** 
 
- **DUAL ELIGIBILITY** 
+## Dual Eligibility
 
 The term “dual eligible” refers to members that have both Medicare and Medicaid eligibility.   
 

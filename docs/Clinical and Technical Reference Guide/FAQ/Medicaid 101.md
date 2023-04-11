@@ -1,10 +1,13 @@
-**Ohio Medicaid 101** 
+# Medicaid 101
+
+## Ohio Medicaid 101 
 
 Ohio Medicaid provides health care coverage to over 3 million members in Ohio.  
 
 There are over 130,000 active providers. 
 
-ODM has created a Unified Preferred Drug List (UPDL) to ensure quality patient care while maintaining a financially responsible program.  The UPDL information on the SPBM Web Portal contains: 
+ODM has created a Unified Preferred Drug List (UPDL) to ensure quality patient care while maintaining a financially responsible program.  The UPDL information on the SPBM Web Portal contains:
+
 - Unified Preferred Drug List 
 - Unified Preferred Drug List Criteria 
 - Preferred Diabetic Supply List 
@@ -13,7 +16,7 @@ ODM has created a Unified Preferred Drug List (UPDL) to ensure quality patient c
 - OTC list 
 - Quantity Limits List (also contains maintenance drugs) 
 
-**Medicaid Managed Care** 
+## Medicaid Managed Care
 
 Managed Care provides for delivering Medicaid health benefits and additional services through contracted arrangements between the state of Ohio and Managed Care Entities (MCEs) that accept a set per member per month (capitation) payment for these services.
 
@@ -21,7 +24,7 @@ By contracting with various MCEs to deliver Medicaid healthcare services to thei
 
 Improvement in health plan performance, health care quality, and outcomes are critical objectives of Medicaid Managed Care.  
 
-**Medicaid Managed Care Organizations (MCOs)** 
+## Medicaid Managed Care Organizations (MCOs)
 
 MCOs contract with a separate pharmacy benefit manager (PBM).  The PBM’s role is to improve the management and administration of pharmacy benefits for managed care recipients.    
 
@@ -37,7 +40,8 @@ A member CANNOT have a managed care plan and FFS at the same time.
 
 A member CAN have a managed care plan and OhioRISE at the same time. 
 
-**Managed Care Entities** (All managed care plans are billed through Gainwell SPBM) 
+**Managed Care Entities** (All managed care plans are billed through Gainwell SPBM)
+
 - Buckeye Health Plan 
 - Amerihealth Caritas of Ohio 
 - Anthem Blue Cross Blue Shield 
@@ -45,7 +49,7 @@ A member CAN have a managed care plan and OhioRISE at the same time.
 - Molina Healthcare of Ohio Inc. 
 - Humana Healthy Horizons of Ohio 
 - UnitedHealthcare Community Plan 
-- OhioRISE (Aetna) https://managedcare.medicaid.ohio.gov/managed-care/ohiorise/ohiorise 
+- OhioRISE (Aetna): [https://managedcare.medicaid.ohio.gov/managed-care/ohiorise/ohiorise](https://managedcare.medicaid.ohio.gov/managed-care/ohiorise/ohiorise){:target="_blank" rel="noopener"}
 
 Starting February 1st, 2023, you will begin seeing members have Amerihealth Caritas of Ohio and Humana Healthy Horizons of Ohio. 
 
@@ -55,22 +59,26 @@ Claims written by prescribers not registered with ODM will be rejected.  Gainwel
 
 Pharmacies submitting claims for Ohio Medicaid Managed Care members must be “in network” with Gainwell or the claims will be rejected, however pharmacies submitting claims for Fee for Service members do not have to be in network with Gainwell and will NOT be rejected. 
 
-**COST AVOIDANCE** 
+## COST AVOIDANCE
 
-Medicaid is usually the payer of last resort.  The ONLY exception is when a member has BCMH (Bureau for Children with Medical Handicaps) 
+Medicaid is **usually** the payer of last resort.  The **ONLY** exception is when a member has BCMH (Bureau for Children with Medical Handicaps) 
 
 Gainwell is contractually obligated to ensure that all other possible payers are billed before the member’s Ohio Medicaid plan is billed.  If the member has any other insurance provider (also referred to as a third-party liability or TPL). 
 
-**FEE FOR SERVICE (FFS)** 
+## FEE FOR SERVICE (FFS)
 
-Fee-for-Service pharmacy claims are processed by ODM’s contracted pharmacy benefits administrator (PBA) Change Healthcare.    
+Fee-for-Service pharmacy claims are processed by ODM’s contracted pharmacy benefits administrator (PBA) Change Healthcare.
+
 - BIN- 015863 
 - PCN- OHPOP 
 - GROUP -NONE 
 
 Fee for Service (FFS) Help Desk (obsolete as of July 1, 2023) 
 
-[Insert Table]
+| Department | Contact Information |
+| :--- | :--- |
+| Change Healthcare Technical Helpdesk and Technical Prior Authorizations | <ul><li>1-877-518-1545</li><li>Monday-Friday 8am-8pm (ET)</li></ul> |
+| Change Healthcare Clinical Prior Authorizations | <ul><li>1-877-518-1546</li><li>Fax: 1-800-396-4111</li><li>Monday-Friday 8am-8pm (ET)</li></ul> |
 
 Change Healthcare who is the PBA for Ohio Medicaid’s Fee for Service account is NOT the same as ODJFS (Ohio Department of Job and Family Services).    
 

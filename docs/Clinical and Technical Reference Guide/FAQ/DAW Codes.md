@@ -1,3 +1,9 @@
-![](https://github.com/gainwell-ohio/spbm/blob/Tech-OneNote/docs/Clinical%20and%20Technical%20Reference%20Guide/FAQ/DAW%20Codes%20Description.png)
+# DAW Codes
 
-[Insert Table]
+![Alt text](DAW%20Codes%20Description.png)
+
+| DAW Code(s) | Information |
+| :---: | :--- |
+| 2, 3, 6, 7 | Not accepted and will cause the claim to reject |
+| 1 | To appropriately use, the pharmacy must submit the claim in compliance with Ohio Revised Codes 4729.38. |
+| 9 | ONLY to be used for medications with the BvG tag shown on the UPDL |
