@@ -7,7 +7,7 @@ search:
 
 Ohio Department of Medicaid (ODM)
 
-Ohio Medicaid Enterpris System (OMES)
+Ohio Medicaid Enterprise System (OMES)
 
 Medicaid Management Solutions
 
