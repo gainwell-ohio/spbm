@@ -7,7 +7,8 @@ By Chris for 1/2023 UPDL: Immunodoluators by Dx.xlsx
 
 ***No Preferred agents with the indication for the treatment of Giant Cell Arteritis (Actemra) or Alopecia (Olumiant)***
 
-![image](https://user-images.githubusercontent.com/122046056/227432664-63d236d3-a9e9-4055-81c3-e3e7bca17c10.png)
+![image](https://user-images.githubusercontent.com/122046056/231225880-900f8774-246f-49fa-98c4-4e21592430d3.png)
+
 
 
 STATE OF WEST VIRGINIA DEPARTMENT OF HEALTH AND HUMAN RESOURCES BUREAU FOR MEDICAL SERVICES
