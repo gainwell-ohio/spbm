@@ -2,6 +2,7 @@
 
 [Ozempic email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20Ozempic%20_ENCRYPT_.msg?csf=1&web=1&e=behzsk){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
+## Ozempic and Moujaro Denials
 Please use the following guidance and denial language for Ozempic and Mounjaro requests.
 
 SEMAGLUTIDE can show up in our system for various different drugs, which you already know. To be consistent as a group, please use the following guidance:
@@ -42,4 +43,14 @@ We have been getting a lot of requests from prescribers (specifically Dr. Paul A
 
 Anything questionable on these requests, please forward to Rachel or myself to send on to compliance for further investigation. 
 
+## Mounjaro Approvals
+[HICL - MOUNJARO](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20GLP-1%20medications%20HICL%20-%20MOUNJARO.msg?csf=1&web=1&e=VJaa7Y){ .md-button .md-button--primary target="_blank" rel="noopener"}
+
+Good morning,
+
+I wanted to communicate with the group directive when approving MOUNJARO requests. Similar to Immunomodulators for Systemic Inflammatory Disease drugs, we are to ***approve MOUNJARO requests at the HICL level*** to allow members to titrate between doses (thus preventing additional PA’s and calls). 
+
+Thank you,
+
+Cassandra Roach, PharmD, RPh
 
