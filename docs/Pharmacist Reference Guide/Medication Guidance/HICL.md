@@ -8,6 +8,7 @@ Current Medications to approve by HICL
 - Factor Pas
 - Wakix
 - Immunomodulators for Systemic Inflammatory Disease 4/10
+- Mounjaro 4/13
 
 12/16/2022 - email at 4:45 pm	
 
