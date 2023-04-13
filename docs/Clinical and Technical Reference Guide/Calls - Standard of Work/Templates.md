@@ -1,15 +1,21 @@
-**Callback Template** sent to OHSupervisorsandSr.Techs@mygainwell.onmicrosoft.com  
+# Templates
+
+## Callback Template
+
+sent to OHSupervisorsandSr.Techs@mygainwell.onmicrosoft.com
+
 - Caller Name: 
 - Callback Number: 
-- Date/Time Call Received: (what time did the agent receive the call) 
+- Date/Time Call Received: (*what time did the agent receive the call*) 
 - Member ID:  
 - Member Name/DOB:  
 - Provider/Pharmacy/Member:  
-- Call Back Required? (Yes/No): (this would be if the agent hasn't already called back then I can make the call on their behalf) 
-- Called Back (Date/Time): (when was the callback made if the agent already called back) 
+- Call Back Required? (Yes/No): (*this would be if the agent hasn't already called back then I can make the call on their behalf*) 
+- Called Back (Date/Time): (*when was the callback made if the agent already called back*) 
 - Callback Details:
 
-**Reversals** 
+## Reversals
+
 - Contact name and job title:  
 - Call back number: 
 - Pharmacy: 
@@ -19,7 +25,10 @@
 - Drug Name & Claim ID:  
 - Date of Service to be reversed:
 
-**TEAMS QUESTION** (use this when reaching out to Sr. Techs, Supervisor, RPH) 
+## Teams Question
+
+(use this when reaching out to Sr. Techs, Supervisor, RPH)
+
 - **Caller Info:** 
     - Caller Name/Title:  
     - Relation to Member:

@@ -1,4 +1,6 @@
-**Overrides a Tech can place without reaching out to RPh, Sr. Techs or Supervisors**
+# Edit Overrides
+
+## Overrides a Tech can place without reaching out to RPh, Sr. Techs or Supervisors**
 
 **As of 1/10/23, effective immediately**
 
@@ -13,16 +15,30 @@ ODM changed the vacation override policy yesterday afternoon. It is as follows:
 - Consider the quantity available/left on the prescription 
 
 **No more emailing ODM for approval.**
-- Technicians can approve this overrides themselves.
+
+**Technicians can approve this overrides themselves.**
 
 
 **Lost/stolen/damaged** 
 - Overrides for non-controlled medications (excluding specialty) up to 3 overrides per medication per rolling year.
 
-**Overrides a Tech will reach out to the Sr. Techs and Supervisors**
+## Overrides a Tech will reach out to the Sr. Techs and Supervisors
 
-[Insert Table]
+| | |
+| :--- | :--- |
+| Lost/stolen/damaged | Med overrides for non-controlled medications for over 3 overrides per medication per rolling year |
+| Specialty Meds | Any override for a specialty medication |
+| Dose Increases: non-controlled | Dose increases not rejecting for 7205 |
+| Refill too soon | RTS claims where 80% threshold has not been met and pharmacy says med is needed, if rejecting 7073 |
+| Cost Overrides | |
+| Day Supply Exceeds | |
 
 **Overrides a Tech will reach out to Sr. Tech/Supervisor for RPh contact**
 
-[Insert Table]
+| | |
+| :--- | :--- |
+| Lost/stolen/damaged | Overrides for controlled medications |
+| Out of State | Overrides for controlled medications |
+| Dose Increases | Overrides for controlled medications |
+| Refill too soon | Overrides for controlled medications if rejecting 7073. |
+| At leadership direction | |

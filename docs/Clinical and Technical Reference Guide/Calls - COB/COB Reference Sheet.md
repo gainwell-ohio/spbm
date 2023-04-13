@@ -1,4 +1,6 @@
-**Coordination of Benefits** 
+# COB Reference Sheet
+
+## Coordination of Benefits
 
 [Coordination of Benefits - COB - Billing Instructions 11.18.22.docx](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/g/personal/jessica_cain_gainwelltechnologies_com/EZXs06cDYjRBosZXdgRxCXYBuEO28Mi43BDXn5z6X31tow?e=GeZWGa){:target="_blank" rel="noopener"}
   
@@ -29,7 +31,7 @@ If a member has another insurance (COB Pharmacy) in VUE360RX, and the pharmacy d
 
 **The pharmacy MUST bill with OCC 2, then OCC 3. These steps must be followed if the primary billing information shows in the rejection.** 
 
-**Example Documentation:**
+## Example Documentation:
 
 Spoke with Mandy at the pharmacy.  Verified that primary payer processing information was provided to the pharmacy. Advised pharmacy to bill claim using OCC 3.  Verified that paid claim was received.    
 
