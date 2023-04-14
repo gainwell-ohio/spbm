@@ -1,6 +1,6 @@
 # UPDL Criteria
 
-[UPDL Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_%20UPDL_Criteria_APPROVED_.pdf#overlay-context=drug-coverage)
+[UPDL Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#overlay-context=drug-coverage)
 
 ## Analgesic Agents
 
@@ -1887,4 +1887,411 @@ Ophthalmic Agents: **Antibiotic and Antibiotic-Steroid Combination Drops and Oin
     - The infection is caused by an organism resistant to **ALL** preferred antibiotics (must provide diagnosis and any culture/sensitivity results)
     - The patient is completing a course of therapy that was started in the hospital or other similar location or was started before Medicaid eligibility, only the remaining course will be authorized
 
-    Ophthalmic Agents: **Antihistamines & Mast Cell Stabilizers**
+Ophthalmic Agents: **Antihistamines & Mast Cell Stabilizers**
+
+**Length of Authorizations**: 365 Days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **two preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+Ophthalmic Agents: **Dry Eye Treatments**
+
+**Length of Authorizations**: 14 Days for Eysuvis; 365 Days for all other agents
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Step Therapy Criteria**:
+
+- Must have had an inadequate clinical response of at least **14 days** with **one** artificial tear or OTC dry eye drop in the previous 120 days 
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+Ophthalmic Agents: **Glaucoma Agents**
+
+**Length of Authorizations**: 365 Days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Step Therapy Approval Criteria**:
+
+- Must have had an inadequate clinical response of at least **30 days** with at least **one preferred** drug in the same class, if available
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drugs in the same class, if available
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+Ophthalmic Agents: **NSAIDs**
+
+**Length of Authorizations**: 30 days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **3 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+Ophthalmic Agents: **Ophthalmic Steroids**
+
+**Length of Authorizations**: 30 Days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **14 days** with at least **two preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+## Otic Agents
+
+Otic Agents: **Antibacterial and Antibacterial/Steroid Combinations**
+
+**Length of Authorizations**: 30 days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **7 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+## Respiratory Agents
+
+Respiratory Agents: **Antihistamines - Second Generation**
+
+**Length of Authorizations**: 365 Days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **30 days** with at least **two different preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+**AR** - Cetirizine Chewables: a PA is required for patients 6 years and older
+
+Respiratory Agents: **Cystic Fibrosis**
+
+**Length of Authorizations**: Initial 90 days; Subsequent 365 days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Clinical PA Criteria**:
+
+- Must be prescribed by or in consultation with a pulmonologist or infectious disease specialist
+- Must provide documentation of the genetic mutation
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response of at least **30 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Additional Bronchitol Criteria**:
+
+- Must be used as an add-on maintenance therapy
+- Must provide documentation of a completed Bronchitol Tolerance Test 
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient’s clinical response to treatment (adherence to
+treatment demonstrated by claims history **AND** one or more of the following: FEV1,
+weight gain, sweat chloride, pulmonary exacerbations, etc.) and ongoing safety
+monitoring
+
+Respiratory Agents: **Epinephrine Auto-Injectors**
+
+**Length of Authorizations**: 365 Days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response to at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+Respiratory Agents: **Hereditary Angioedema**
+
+**Length of Authorizations**: Initial: 90 days; Subsequent: 180 days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Clinical PA Criteria**:
+
+- Must provide documentation of diagnosis (i.e., C1-INH deficiency or dysfunction (Type I or
+II HAE)) and whether the drug will be used for prophylaxis or treatment
+- Must provide documentation of at-home administration
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response to at least **60 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+Respiratory Agents: **Inhaled Agents**
+
+**Length of Authorizations**: 365 Days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response to at least **14 days** with at least **two preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Additional Steroid-Containing Inhaler Criteria**:
+
+- May be authorized if documentation of one of the following is provided:
+    -   Patient is 12 years or younger OR is disabled and is unable to use a preferred inhaler
+    - Patient has been non-compliant on a preferred inhaler due to taste, dry mouth, or infection
+    - Patient is clinically unstable, as defined by current guidelines in terms of oral steroid use or patient’s current symptomatology
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+**AR** - Albuterol Nebulizer Solution 0.021% (0.63 MG / 3 ML), 0.042% (1.25 MG / 3 ML): a PA is required for patients 13 years and older 
+
+**AR** - Budesonide Nebulizer Solution: a PA is required for patients 7 years and older
+
+Respiratory Agents: **Leukotriene Receptor Modifiers & Inhibitors**
+
+**Length of Authorizations**: 365 Days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Step Therapy Criteria**:
+
+- Must have had an inadequate clinical response of at least **90 days** with at least **one preferred** drug
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response to at least **90 days** with at least **two preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+Respiratory Agents: **Monoclonal Antibodies-Anti-IL/Anti-IgE**
+
+**Length of Authorizations**: Initial: 180 days; Subsequent: 365 days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Clinical PA Criteria**:
+
+-   Must be prescribed by or in consultation with an applicable specialist (i.e., allergist/immunologist, pulmonologist, or otolaryngologist)
+-   For **Asthma** – Must have had uncontrolled asthma symptoms and/or exacerbations despite at least **30 days** with:
+    -   Medium dose preferred ICS/LABA inhaler for 6 years and older **OR** medium dose preferred ICS/LABA inhaler with tiotropium or high dose ICS/LABA inhaler if 12 years and older
+-   For **Chronic Rhinosinusitis with Nasal Polyposis** – Must have had an inadequate clinical response of at least **30 days** to at least **one oral** corticosteroid AND **one nasal** corticosteroid spray
+-   For **Chronic Urticaria** – Must have had an inadequate clinical response to at least **14 days** with at least **two different** antihistamines
+
+**Non-Preferred Criteria**:
+
+-   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+-   Must have had an inadequate clinical response of at least **90 days** with at least **one preferred** drug
+    -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    -   For non-preferred brand names that have preferred generics, requests must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring (i.e., PFT improvement, reduced affected BSA)
+
+Respiratory Agents: **Nasal Preparations**
+
+**Length of Authorizations**: 365 days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response to at least **30 days** with at least **two preferred** drugs in the same class, if available
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+Respiratory Agents: **Other Agents**
+
+**Length of Authorizations**: Initial: 90 days; Subsequent: 180 days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response to at least **90 days** with at least **one preferred** long-acting beta agonist **AND one preferred** long-acting muscarinic antagonist-containing inhalers
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Additional Roflumilast (Daliresp) Criteria**
+
+- Must be used in addition to a long-acting beta agonist AND a long-acting muscarinic antagonist-containing inhalers 
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient's clinical response to treatment, adherence to maintenance inhaler per pharmacy claims, and ongoing safety monitoring
+
+## Topical Agents
+
+Topical Agents: **Antifungals**
+
+**Length of Authorizations**: Up to 180 days for all agents except 365 days for Jubila
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response to at least **14 days** with at least **two preferred** drugs, if indicated for diagnosis
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Additional Efinaconazole (Jublia) Criteria**:
+
+Must have had an inadequate clinical response of at least **365 days** with at least **one preferred** topical drug AND at least **84 days** with at least **one preferred** oral drug indicated for diagnosis
+
+**Additional Information**:
+
+- Requests may be authorized if:
+    - The infection is caused by an organism resistant to preferred antibiotics drugs (note diagnosis and any culture/sensitivity results)
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+Topical Agents: **Antiparasitics**
+
+**Length of Authorizations**: 14 Days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response to at least **14 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+Topical Agents: **Corticosteroids**
+
+**Length of Authorizations**: 365 days for low and medium potency; 90 days for high and very high potency
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Non-Preferred Criteria**:
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response to at least **14 days** with at least **two preferred** drugs
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+Topical Agents: **Immunomodulators**
+
+**Length of Authorizations**: 365 Days
+
+**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+**Step Therapy Approval Criteria**:
+
+- Must have had an inadequate clinical response of at least **30 days** with at least **two** topical corticosteroids
+
+### Non-Preferred
+
+Non-Preferred Criteria
+
+- Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
+    - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- Must have had an inadequate clinical response to at least **30 days** with at least **one preferred** drug
+    - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
+    - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+**Subsequent Authorization Criteria**:
+
+- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+**AR** - pimecrolimus and tacrolimus: a PA is required for patients younger than 2 years old
