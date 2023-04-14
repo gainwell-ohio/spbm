@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # UPDL Criteria
 
 [UPDL Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#overlay-context=drug-coverage)
