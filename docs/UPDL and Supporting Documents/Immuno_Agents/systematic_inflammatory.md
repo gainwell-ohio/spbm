@@ -84,6 +84,15 @@ Non-Preferred Criteria
     -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
+### Alopecia Areata 
+
+Additional Alopecia Areata criteria:
+
+- Must be prescribed by or in consultation with a specialist (i.e., dermatologist, 
+rheumatologist)
+- Must provide documentation of an inadequate clinical response of at least 90 days 
+with a topical steroid 
+
 ### Atopic Dermatitis
 
 Additional Atopic Dermatitis Criteria
