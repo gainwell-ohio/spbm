@@ -2,7 +2,7 @@
 
 [GLP-1 Directive Email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/REVISED%20-%20_IMPORTANT_%20GLP-1%20Directive.msg?csf=1&web=1&e=XJlYZd){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
-[GLP-1 guidance for pharmacists](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/GLP-1%20guidance%20for%20pharmacists.docx?d=w47a40f8e7e1a4be2871bef7ff17d46d9&csf=1&web=1&e=jnUS29)
+[GLP-1 guidance for pharmacists](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/GLP-1%20guidance%20for%20pharmacists.docx?d=w47a40f8e7e1a4be2871bef7ff17d46d9&csf=1&web=1&e=jnUS29){:target="_blank" rel="noopener"}
 
 ## Wegovy (semaglutide) 
 -	Admin deny for weight loss (consider EPSDT for <21 yo)
