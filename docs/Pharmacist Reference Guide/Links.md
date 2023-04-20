@@ -18,7 +18,28 @@
 
 [Overnight Schedule](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Overnight%20Oncall%20for%20April.msg?csf=1&web=1&e=dtcSuj){:target="_blank" rel="noopener"}
 
+## Templates
+### ***Approved PA***                    
+| Approved PA                   |
+|:-------------------------------|
+| Drug and strength:| 
+| DX:|
+| Approval Duration:|
+| Qty/Day Supply:|
+| Approval Rationale: include reason for approval; please include claims and what was reviewed; Policy/Rule|
+| Verified Coverage Per Enrollments:|
+| Medicaid ID:|
+| Approved by Person, Title: Full Name and Title|
 
+### ***Denied PA***                  
+| Denied PA                   |
+|:-------------------------------|
+| Drug and strength:| 
+| DX:|
+| Denial Rationale: include reason for denial; please include claims and what was reviewed; Policy/Rule|
+| Verified Coverage Per Enrollments:|
+| Medicaid ID:|
+| Approved by Person, Title: Full Name and Title|
 
 
 
