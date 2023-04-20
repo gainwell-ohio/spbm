@@ -1,6 +1,6 @@
 # Buprenorphine Criteria
 
-[Buprenorphine Criteria Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Bup/FW%20Buprenorphine%20Criteria.msg?csf=1&web=1&e=av1FPF){ .md-button .md-button--primary target="_blank" rel="noopener"}
+[Buprenorphine Criteria Email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/_IMPORTANT%20UPDATE_%20FW_%20Buprenorphine%20(Subutex)%20Updates%20as%20of%203_23_23.msg?csf=1&web=1&e=xqhC9c){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 **Recommended ODM PA Criteria**
 
@@ -44,16 +44,30 @@ Each PA request (whether initiation or maintenance) must meet the buprenorphine 
 
 ## Buprenorphine peer to peer and appeals requests
 
-[Buprenorphine peer to peer and appeals requests](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Buprenorphine%20peer%20to%20peer%20and%20appeals%20requests.msg?csf=1&web=1&e=q7ZrtZ){:target="_blank" rel="noopener"}
+***4/3/23***
+
+[Buprenorphine peer to peer and appeals requests](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Buprenorphine%20peer%20to%20peer%20and%20appeals%20requests.msg?csf=1&web=1&e=q7ZrtZ){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Hello, 
 I am and have given the PA pharmacists the following directive involving re-review situations for generic Subutex.
 
 
-Any appeal or p2p information we receive for buprenorphine mono product for opioid dependence (generic subutex), please assess if new information is provided (pregnancy, breastfeeding, IGE mediated reactions) that will allow approval, if not we are to involve the medical director to get a second opinion at this time if it involves going against the directive we have been given. We have been given the directive to deny but they may have a different perspective and can further clinically assess each situation as it comes to them. They are aware of our specific directive from ODM. We are to defer to the medical directors expertise in these situations and proceed as directed. Please include OH_MCD_PBM_clinical <OH_MCD_PBM_clinical@gainwelltechnologies.com> on all p2p and appeals for buprenorphine involving medical director in case of state hearings.
+Any appeal or p2p information we receive for buprenorphine mono product for opioid dependence (generic subutex), please assess if new information is provided (pregnancy, breastfeeding, IGE mediated reactions) that will allow approval, if not, ==we are to involve the medical director== to get a second opinion at this time if it involves going against the directive we have been given. We have been given the directive to deny but they may have a different perspective and can further clinically assess each situation as it comes to them. They are aware of our specific directive from ODM. We are to defer to the medical directors expertise in these situations and proceed as directed. Please include OH_MCD_PBM_clinical <OH_MCD_PBM_clinical@gainwelltechnologies.com> on all p2p and appeals for buprenorphine involving medical director in case of state hearings.
 
 Any questions please ask,
 Thanks,
 
 Justin Collingwood
+
+
+
+***4/20/23***
+
+Good morning!
+
+Adding to below guidelines for Subutex. If you are working G&A and have a review for Subutex in which the member still does NOT meet the strict criteria below on the appeal, ==please reach out to Dr. James Wood (medical director) via email for decisioning.== Please document his response in the internal notes section of the original PA (if upheld) or the new PA (if overturned).
+
+Thank you,
+
+Cassandra Roach, PharmD, RPh
 
