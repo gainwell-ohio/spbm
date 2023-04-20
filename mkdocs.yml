@@ -35,6 +35,9 @@ markdown_extensions:
     - pymdownx.emoji:
         emoji_index: !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.caret
+    - pymdownx.mark
+    - pymdownx.tilde
 
     - toc:
         permalink: True
@@ -42,3 +45,4 @@ markdown_extensions:
         toc_depth: 3
 #extra_css:
   #- stylesheets/extra.css
+
