@@ -1,8 +1,6 @@
 # About
 
-^^This is a digital documentation example for Gainwell Technologies, in support of the Ohio State Pharmacy Benefit Management activity.^^
-
-~~Text to be removed~~
+This is a digital documentation example for Gainwell Technologies, in support of the Ohio State Pharmacy Benefit Management activity.
 
 ## Delivery Enablement
 
