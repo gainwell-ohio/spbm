@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Subsequent Authorization Criteria/Reauthorization
 
 [Subsequent Authorization Criteria_Reauthorization Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Subsequent%20Authorization%20Criteria_Reauthorization.msg?csf=1&web=1&e=dCoRci){ .md-button .md-button--primary target="_blank" rel="noopener"}

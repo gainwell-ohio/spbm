@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Medication PA Status
 
 - When you receive a call asking if a specific medication requires a PA, you can easily access this information from VUE360RX and the NDC Maintenance Tile 

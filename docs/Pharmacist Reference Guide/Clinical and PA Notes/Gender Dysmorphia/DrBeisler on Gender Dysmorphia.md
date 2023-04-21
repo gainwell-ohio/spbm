@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Dr Beisler on Gender Dysmorphia
 
 [1:13 PM] Allen, Erin

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # SPBM Contracted Pharmacies
 
 [FW: SPBM Contracted Phcies as of 4.7.23](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20SPBM%20Contracted%20Phcies%20as%20of%204_7_23.msg?csf=1&web=1&e=bHpZbK){ .md-button .md-button--primary target="_blank" rel="noopener"}

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Spravato Example
 
 [FW_ Re-evaluated Guidelines for Spravato Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Re-evaluated%20Guidelines%20for%20Spravato.msg?csf=1&web=1&e=dIy8pf){ .md-button .md-button--primary target="_blank" rel="noopener"}

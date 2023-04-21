@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Gender Dysmorphia
 
 References: 

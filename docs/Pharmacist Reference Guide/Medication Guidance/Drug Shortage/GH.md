@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Growth Hormone GH shortage- Updated
 
 Growth Hormone Shortage 03062023.pptx (mcas.ms)

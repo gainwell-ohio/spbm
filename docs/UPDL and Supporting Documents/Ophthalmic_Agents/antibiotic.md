@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Antibiotic and Antibiotic-Steroid Combination Drops and Ointments

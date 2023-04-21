@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Fleqsuvy and zonisamide suspension
 
 [Fleqsuvy and zonisamide suspension](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/_encrypt_%20IMPORTANT%20PLEASE%20READ%20FW_%20NCH%20patients%20transitioning%20to%20commercial%20liquid_%20Baclofen%20and%20Zonisamide%20(MCO).msg?csf=1&web=1&e=gZ74Qz){ .md-button .md-button--primary target="_blank" rel="noopener"}

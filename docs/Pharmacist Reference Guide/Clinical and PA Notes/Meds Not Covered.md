@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Medications Not Covered by ODM
 
 Exception: EPSDT

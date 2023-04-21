@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Templates
 
 ## Callback Template

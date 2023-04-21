@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 # Decision Tree Forms
 
 ## Analgesic Agents

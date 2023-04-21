@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # COB Reference Sheet
 
 ## Coordination of Benefits

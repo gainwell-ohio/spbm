@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Monoclonal Antibodies-Anti-IL/Anti-IgE

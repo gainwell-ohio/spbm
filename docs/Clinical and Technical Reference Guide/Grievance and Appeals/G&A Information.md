@@ -1,4 +1,9 @@
-## G&A Information
+---
+search:
+  boost: 1
+---
+
+# G&A Information
 
 ## Time Frames from date Gainwell received complaint 
 | | |

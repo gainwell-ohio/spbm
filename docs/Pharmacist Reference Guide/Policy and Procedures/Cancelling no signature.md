@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Canceling no signatures/attestation boxes
 
 [Canceling no signatures_attestation boxes](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Canceling%20no%20signatures_attestation%20boxes.msg?csf=1&web=1&e=NvUCij){ .md-button .md-button--primary target="_blank" rel="noopener"}

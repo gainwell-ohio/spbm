@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Coordination of Benefits
 
 COB -COB stands for Coordination of Benefits.  This is when a member has more than one plan for their pharmacy benefit. 

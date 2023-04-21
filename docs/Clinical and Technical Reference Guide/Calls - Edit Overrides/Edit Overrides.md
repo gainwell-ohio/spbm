@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Edit Overrides
 
 ## Overrides a Tech can place without reaching out to RPh, Sr. Techs or Supervisors**

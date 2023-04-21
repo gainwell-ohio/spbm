@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Immunomodulators for Systemic Inflammatory Disease DLP
 
 4/10/23: 

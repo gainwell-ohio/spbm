@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Gainwell Contact List
 
 ## Claims Department

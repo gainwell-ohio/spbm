@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Appeals in MedReview Procedure
 
 [Appeals in MedReview Procedure](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Appeals%20in%20MedReview%20Procedure.msg?csf=1&web=1&e=3XcUuh) { .md-button .md-button--primary target="_blank" rel="noopener"}

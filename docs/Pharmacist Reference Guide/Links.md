@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Links
 
 [Productivity Tracker](https://mygainwell-my.sharepoint.com.mcas.ms/:x:/r/personal/christopher_nguyen_gainwelltechnologies_com/_layouts/15/guestaccess.aspx?e=KxvSYp&share=EckFdrT0BkRAhBGjD_rxzP0BeNvjg33BlhiZ8UUpkkUv4Q){:target="_blank" rel="noopener"}

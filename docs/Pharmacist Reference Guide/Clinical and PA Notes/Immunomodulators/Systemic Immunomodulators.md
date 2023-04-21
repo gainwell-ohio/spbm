@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Systemic Immunomodulators
 
 ![image](https://user-images.githubusercontent.com/122046056/227432531-9525f7ae-bd0f-4647-80a5-8d39ac9fa10f.png)

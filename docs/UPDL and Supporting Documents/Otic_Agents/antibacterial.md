@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Antibacterial and Antibacterial/Steroid Combinations

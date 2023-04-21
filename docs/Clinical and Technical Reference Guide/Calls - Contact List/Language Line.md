@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Language Line
 
 ![Alt text](Remote%20Interpreting.png)

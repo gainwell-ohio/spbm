@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Navigating COB Rejects
 
 1. Prescription rejects for member having another primary insurance (7011 edit). 

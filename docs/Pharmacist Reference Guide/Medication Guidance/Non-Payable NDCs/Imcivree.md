@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Imcivree
 
 [Imcivree Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Imcivree%20clinical%20appeal%20review.msg?csf=1&web=1&e=CiQG5h){ .md-button .md-button--primary target="_blank" rel="noopener"}

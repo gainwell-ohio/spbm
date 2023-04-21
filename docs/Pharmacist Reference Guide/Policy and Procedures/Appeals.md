@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Appeals 
 
 ![image](https://user-images.githubusercontent.com/122046056/230230675-71ecf0d5-77c7-4000-92b3-dba361305399.png)

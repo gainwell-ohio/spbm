@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Drug Shortages
 
 **General rule for shortage issues (per Justin Collingwood):**

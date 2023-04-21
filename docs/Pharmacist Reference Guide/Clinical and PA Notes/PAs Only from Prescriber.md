@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # PAs Only from Prescriber
 
 [PAs Only from Prescriber Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20_See%20attached%20order_%20or%20_See%20signature%20on%20File_.msg?csf=1&web=1&e=CzVWpL){ .md-button .md-button--primary target="_blank" rel="noopener"}

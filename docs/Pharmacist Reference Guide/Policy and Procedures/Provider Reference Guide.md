@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Provider Reference Guide
 
 [Provider Reference Guide](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/User%20Guides/SPBM%20Pharmacy%20Reference%20Guide.pdf){:target="_blank" rel="noopener"}

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Denial- PA day supply
 
 [Denial- PA day supply](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/PA%20Denial%20day%20supply%20-%20New%20process.msg?csf=1&web=1&e=Y9H52L){ .md-button .md-button--primary target="_blank" rel="noopener"}

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Acceptable PA Forms
 
 [PA forms Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/ACCEPTABLE%20PA%20FORMS%20as%20of%2011_1_22%20%20_PLEASE%20READ_.msg?csf=1&web=1&e=LTkZAH){ .md-button .md-button--primary target="_blank" rel="noopener"}

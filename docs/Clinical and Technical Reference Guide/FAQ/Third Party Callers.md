@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Third Party Callers
 
 ## Identifying a Third-Party Caller

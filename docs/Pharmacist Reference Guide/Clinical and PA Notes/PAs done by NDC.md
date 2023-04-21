@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # PAs done by NDC
 
 DAW 1 Pas
