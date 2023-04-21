@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 # Medication Assisted Treatment of Opioid Addiction
 

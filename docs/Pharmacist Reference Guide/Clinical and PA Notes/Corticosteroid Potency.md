@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Corticosteroid Potency
 
 [Topical Steroid Potency Chart: National Psoriasis Foundation](https://www.psoriasis.org/potency-chart/){ .md-button .md-button--primary target="_blank" rel="noopener"}

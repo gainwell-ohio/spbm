@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Medicaid 101
 
 ## Ohio Medicaid 101 

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Prescribers: PA Appeal Process
 
 1. Prescriber submits PA 

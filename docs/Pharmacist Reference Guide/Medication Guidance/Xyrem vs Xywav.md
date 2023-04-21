@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Xyrem Vs Xywav additional criteria information
 
 [Xyrem Vs Xywav additional criteria information](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Xyrem%20Vs%20Xywav%20additional%20criteria%20information.msg?csf=1&web=1&e=FJimeO){ .md-button .md-button--primary target="_blank" rel="noopener"}

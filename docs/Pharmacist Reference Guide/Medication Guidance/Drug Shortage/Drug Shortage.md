@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Drug Shortage
 
 [Medication Shortages Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Medication%20Shortages.msg?csf=1&web=1&e=uJY9mh){ .md-button .md-button--primary target="_blank" rel="noopener"}

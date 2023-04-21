@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 1 
+  boost: 2
 ---
 
 # Specialty Drug List by Therapeutic Class

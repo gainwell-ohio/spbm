@@ -1,4 +1,10 @@
+---
+search:
+  boost: 1
+---
+
 # Criteria change Procedure
+
 [Criteria change Procedure](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Criteria%20change%20for%20PA_appeal%20processing.msg?csf=1&web=1&e=wIR0IO){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Hello,

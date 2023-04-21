@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Urgent PA Information
 
 ## Procedure

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Change Notice / Process Updates
 
 | Date | New Process / Change | Why / Process Detail |

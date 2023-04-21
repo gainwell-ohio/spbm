@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Claims Department
 
 The Claims department is able to assist with the following items:

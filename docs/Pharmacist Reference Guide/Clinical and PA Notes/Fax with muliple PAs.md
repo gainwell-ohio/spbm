@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Faxes with Multiple PAs
 
 [Faxes with Multiple PAs Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Faxes%20with%20Multiple%20PA%20s.msg?csf=1&web=1&e=kTqX2N){ .md-button .md-button--primary target="_blank" rel="noopener"}

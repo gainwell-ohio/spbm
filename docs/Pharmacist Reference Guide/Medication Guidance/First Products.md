@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # First Products
 
 [_FIRST PRODUCTS - IMPORTANT (PLEASE READ)_](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/_FIRST%20PRODUCTS%20-%20IMPORTANT%20(PLEASE%20READ)_.msg?csf=1&web=1&e=3Gg3Kt){ .md-button .md-button--primary target="_blank" rel="noopener"}

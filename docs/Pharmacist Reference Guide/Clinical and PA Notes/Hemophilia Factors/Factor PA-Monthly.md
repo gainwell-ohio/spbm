@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Processing Factor PAs
 
 [HICLSeqNo Approval Info  Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/HclSeqNo%20Approval%20information.msg?csf=1&web=1&e=mjAgIk){ .md-button .md-button--primary target="_blank" rel="noopener"}

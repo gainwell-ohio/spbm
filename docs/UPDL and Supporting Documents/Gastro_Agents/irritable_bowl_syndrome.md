@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Irritable Bowel Syndrome (IBS) with Diarrhea

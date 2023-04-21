@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # A1c in Diabetic decisioning
 
 [A1c in Diabetic decisioning](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/A1c%20in%20Diabetic%20decisioning.msg?csf=1&web=1&e=FdBOdU){ .md-button .md-button--primary target="_blank" rel="noopener"}

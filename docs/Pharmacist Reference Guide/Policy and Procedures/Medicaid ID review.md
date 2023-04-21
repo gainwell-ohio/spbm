@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Medicaid ID review
 
 [Medicaid ID review](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20_IMPORTANT_%20PLEASE%20READ%20-%20Medicaid%20ID%20review.msg?csf=1&web=1&e=bdfP8b){ .md-button .md-button--primary target="_blank" rel="noopener"}

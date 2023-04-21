@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # ODM Contact List
 
 | Line | Phone | Hours | Process | Email |

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # PA Drug Shortage Process
 
 ## Shortage Issues

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Call Log Documentation/Templates
 
 **The technician/agent will use the template below to document calls in VUE360RX** 

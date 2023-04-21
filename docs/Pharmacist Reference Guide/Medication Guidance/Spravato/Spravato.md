@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Spravato 1.5.23
 
 [Spravato not by psych email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Spravato%20NOT%20by%20a%20psychiatrist.msg?csf=1&web=1&e=J6yBXh){ .md-button .md-button--primary target="_blank" rel="noopener"}

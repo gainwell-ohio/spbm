@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Verbal PA
 
 If an approved decision tree is available, the technicians are instructed to use them.  

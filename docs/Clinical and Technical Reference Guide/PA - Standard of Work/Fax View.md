@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Fax View
 
 This information is intended to give rules on how to approach fax view and the best practice to reduce the number of PAs that incorrectly make it into the PA queue.

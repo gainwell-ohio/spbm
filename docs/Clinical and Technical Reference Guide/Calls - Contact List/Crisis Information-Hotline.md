@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Crisis Information/Hotline
 
 | National Suicide/Crisis Lifeline: | 988 |

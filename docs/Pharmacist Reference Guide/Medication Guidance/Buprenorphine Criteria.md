@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Buprenorphine Criteria
 
 [Buprenorphine Criteria Email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/_IMPORTANT%20UPDATE_%20FW_%20Buprenorphine%20(Subutex)%20Updates%20as%20of%203_23_23.msg?csf=1&web=1&e=xqhC9c){ .md-button .md-button--primary target="_blank" rel="noopener"}

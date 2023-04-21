@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Compounds
 
 Link to Payable Compounding Ingredients and Excipients:

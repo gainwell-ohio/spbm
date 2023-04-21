@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # MCE Contact List
 
 ## Anthem BCBS

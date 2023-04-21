@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Verbal PA's lacking information
 
 [Verbal PA's lacking information](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Verbal%20PA%27s%20lacking%20information.msg?csf=1&web=1&e=3aPsdd){ .md-button .md-button--primary target="_blank" rel="noopener"}

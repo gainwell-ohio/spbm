@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 1 
+  boost: 2
 ---
 
 ## 2022 Preferred Diabetic Supply List

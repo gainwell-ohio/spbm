@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Eligibility Email Process
 
 **Send eligibility concerns regarding 7772 to** SPBMEligibility@gainwelltechnologies.com

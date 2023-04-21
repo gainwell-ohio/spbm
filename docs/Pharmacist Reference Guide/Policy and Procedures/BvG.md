@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 #  Brand vs Generic BVG
 
 [5:29 AM] Carpenter, Rachel

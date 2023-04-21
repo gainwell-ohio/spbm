@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Processing Information
 
 ## Gainwell Processing Information

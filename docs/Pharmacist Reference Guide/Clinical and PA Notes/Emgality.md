@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Emgality for training
 
 [Emgality for training](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Emgality%20for%20training.msg?csf=1&web=1&e=ZTjpIR){ .md-button .md-button--primary target="_blank" rel="noopener"}

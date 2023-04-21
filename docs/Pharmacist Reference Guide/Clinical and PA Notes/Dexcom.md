@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Dexcom
 
 [RE_ Dexcom G6 Information Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20Dexcom%20G6%20Information.msg?csf=1&web=1&e=jDxm15){ .md-button .md-button--primary target="_blank" rel="noopener"}

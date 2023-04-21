@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Non-formulary test strip approvals
 
 [Non-formulary test strip approvals](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Non-formulary%20test%20strip%20approvals.msg?csf=1&web=1&e=qmPedk){ .md-button .md-button--primary target="_blank" rel="noopener"}

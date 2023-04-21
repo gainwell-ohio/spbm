@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # EPSDT Procedures
 
 [EPSDT Procedures Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EZ94ZWZLA7VPsSLoKaNq1twBakOP17zNBMwFKo--6toF7Q?e=ozDyOp){ .md-button .md-button--primary target="_blank" rel="noopener"}
