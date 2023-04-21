@@ -1,6 +1,6 @@
 ---
 search:
-  exclude: true
+  boost: .1
 ---
 
 # Quantity Limit List
