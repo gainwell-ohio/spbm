@@ -1,0 +1,205 @@
+---
+search:
+  boost: 2
+---
+
+# Automatic MEDREVIEW
+
+==All of the following medications MUST come to MEDREVIEW for a pharmacist to review.==
+
+**It is still the expectation that prior to sending to MEDREVIEW, the technician will look up the criteria for the drug requested and provide the pharmacist with all information pertinent to that criterion.** The technician will then use the appropriate technician note template to formulate their note with this information prior to sending to MEDREVIEW.
+
+- *Any medication not listed on the UPDL
+- *All Prior authorizations requesting for a Compound
+- *All medications administered IV
+- *All oncology (cancer) medications
+- Ablysinol
+- Actemra
+- Acthar
+- Adbry  
+- Adempas  
+- Advate  
+- Adynovate  
+- Aemcolo  
+- Afrezza  
+- Afstyla  
+- Aimovig  
+- Ajovy  
+- Aldara (imiquimod) - 
+- Aliskiren  
+- Alphanate  
+- Alphanine SD  
+- Alprolix  
+- Ambrisentan  
+- Amondys 45  
+- Aranesp  
+- Arikayce  
+- Austedo  
+- Benefix  
+- Bethkis  
+- Bosentan  
+- Bronchitol  
+- ALL Buprenorphine/Subutex 
+- Carnitor (levocarnitine)  
+- Cayston  
+- Cerdelga  
+- Cerezyme
+- Cibinqo
+- Cimzia
+- Corifact 
+- Corlanor
+- Cosentyx  
+- Cubicin  
+- Demeclocycline  
+- Diacomit  
+- Dupixent  
+- Elelyso  
+- Eloctate  
+- Emflaza  
+- Emgality  
+- Enbrel  
+- Entresto  
+- Epidiolex  
+- Epogen  
+- Epoprostenol  
+- Esperoct  
+- Evrysdi  
+- Exondys 51  
+- Fasenra  
+- Feiba  
+- Fulphila  
+- Gattex  
+- Genotropin  
+- Granix  
+- Harvoni  
+- Hemlibra  
+- Hemofil M  
+- Hetlioz  
+- Humate-P  
+- Humatrope  
+- Humira  
+- Idelvion  
+- Ilumya  
+- Increlex  
+- Ixinity  
+- Juxtapid
+- Kalydeco
+- Kerendia
+- Kevzara
+- Kineret
+- Kitabis  
+- Koate  
+- Kogenate FS  
+- Korlym  
+- Ledipasvir/sofosbuvir  
+- Leukine  
+- Lucemyra  
+- Mavyret  
+- Mayzent  
+- Methoxsalen  
+- Mircera  
+- Mononine  
+- Nascobal  
+- Neulasta  
+- Neupogen  
+- Nivestym  
+- Nizatidine  
+- Norditropin  
+- Novoeight  
+- Novoseven RT  
+- Nucala  
+- Nuedexta  
+- Nuplazid  
+- Nurtec ODT  
+- Nutropin  
+- Nuzyra  
+- Nyvepria  
+- Octreotide (Sandostatin LAR)  
+- Olumiant  
+- Omnipod  
+- Omnitrope  
+- Opsumit  
+- Orencia  
+- Orkambi  
+- Otezla  
+- Oxandrolone  
+- Panretin  
+- Pegasys  
+- Praluent
+- Priftin  
+- Profilnine  
+- Procrit  
+- Qbrexza  
+- Qulipta  
+- Recombinate  
+- Rectiv  
+- Releuko  
+- Relistor  
+- Repatha  
+- Retacrit  
+- Revlimid  
+- Ribavirin  
+- Rilutek  
+- Rinvoq  
+- Rixubis  
+- Rukobia ER  
+- Saizen  
+- Sandostatin (octreotide)  
+- Serostim  
+- Signifor  
+- Sildenafil  
+- Siliq  
+- Simponi  
+- Sirturo  
+- Skyrizi  
+- Skytrofa  
+- Sofosbuvir/velpatasvir  
+- Somavert  
+- Sovaldi  
+- Stelara  
+- Stimate  
+- Sunosi 
+- Symdeko  
+- Symproic  
+- Symtuza  
+- Synagis  
+- Tadalafil  
+- Taltz
+- Targretin  
+- Tekturna, Tekturna/HCT  
+- Tezspire  
+- Thalomid  
+- Tobi Podhaler  
+- Tobramycin (inhaled)  
+- Tracleer (tablet and suspension)  
+- Tremfya  
+- Treprostinil  
+- Trikafta  
+- Triumeq PD  
+- Tymlos  
+- Tyvaso  
+- Udenyca  
+- Uptravi  
+- V-Go  
+- Ventavis  
+- Verquvo  
+- Viltepso  
+- Vosevi  
+- Vpriv  
+- Vyondys 53  
+- Wakix  
+- Wilate 
+- Xeljanz IR, XR and solution  
+- Xolair  
+- Xyntha  
+- Xyrem  
+- Xywav  
+- Vonvendi  
+- Zarxio  
+- Zavesca  
+- Zepatier  
+- Ziextenzo  
+- Zomacton  
+- Zorbtive  
+- Zyclara  
+- Zyvox   
