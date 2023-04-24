@@ -26,6 +26,12 @@ HCV RNA tests must have an LLOQ of 25 IU/mL or lower when used to assess treatme
 
 ![](https://user-images.githubusercontent.com/122046056/227419831-b962bf47-e505-427a-8021-fd5b387fd8e5.png)
 
+***FIB-4***
+
+[Assessing Liver Fibrosis Using the FIB4 Index in the Community Setting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8700445/){:target="_blank" rel="noopener"}
+
+The primary outcome was the number of individuals within each risk category for hepatic fibrosis: high risk (FIB4 ≥ 3.25) and low risk (FIB4 < 1.3).
+
 ***Treatment Drugs:***
 DAA drug classes include NS5A polymerase inhibitors, NS5B polymerase inhibitors, and NS3/4A protease inhibitors.
 
