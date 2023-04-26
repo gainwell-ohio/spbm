@@ -1,6 +1,6 @@
 ---
 search:
-  boost: .2
+  boost: 1
 ---
 
 # Automatic MEDREVIEW
@@ -9,6 +9,7 @@ search:
 
 **It is still the expectation that prior to sending to MEDREVIEW, the technician will look up the criteria for the drug requested and provide the pharmacist with all information pertinent to that criterion.** The technician will then use the appropriate technician note template to formulate their note with this information prior to sending to MEDREVIEW.
 
+# List { data-search-exclude }
 - *Any medication not listed on the UPDL
 - *All Prior authorizations requesting for a Compound
 - *All medications administered IV
