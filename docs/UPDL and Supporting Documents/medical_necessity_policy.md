@@ -3,7 +3,7 @@ search:
   boost: 1 
 ---
 
-# Medical Necessity Policy and Prodedures
+# Medical Necessity Policy and Procedures
 
 Ohio Department of Medicaid (ODM)
 
