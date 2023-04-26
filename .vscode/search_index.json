@@ -1,0 +1,15 @@
+{
+  ...
+  "docs": [
+    {
+      "location":"page/",
+      "text":"",
+      "title":"Document title"
+    },
+    {
+      "location":"page/#section-1",
+      "text":"<p>The content of this section is included</p>",
+      "title":"Section 1"
+    }
+  ]
+}
