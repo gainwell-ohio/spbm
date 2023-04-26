@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2
+  boost: .9
 ---
 
 # Automatic MEDREVIEW
