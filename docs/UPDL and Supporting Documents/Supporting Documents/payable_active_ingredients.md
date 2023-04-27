@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2
+  exclude: true
 ---
 
 # Payable Active Pharmaceutical Compounding Ingredients and Excipients
