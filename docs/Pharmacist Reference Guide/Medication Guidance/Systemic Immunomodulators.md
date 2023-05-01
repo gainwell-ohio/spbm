@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 1
+  boost: 3
 ---
 
 # Immunomodulators for Systemic Inflammatory Disease DLP
