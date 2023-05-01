@@ -98,7 +98,7 @@ I received a prior auth recently for Stimate nasal spray for Von Willebrand Dise
 
 ## Boutique Labelers
 
-[FW: Boutique Labelers](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Boutique%20Labelers%20.msg?csf=1&web=1&e=60KP1u)
+[FW: Boutique Labelers](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Boutique%20Labelers%20.msg?csf=1&web=1&e=60KP1u){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Hi PA Team, 
 
