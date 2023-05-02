@@ -97,7 +97,6 @@ with a topical steroid
 
 Additional Atopic Dermatitis Criteria
 
--   Must be prescribed by or in consultation with a dermatologist or allergist/immunologist
 -   Must have at least 10% body surface area (BSA) involvement with **two** of the following: topical corticosteroids, topical calcineurin inhibitors [e.g. Elidel], or topical PDE-4 inhibitors [e.g. Eucrisa] OR atopic dermatitis severe and involves \>25% BSA
 
 ### Plaque Psoriasis
