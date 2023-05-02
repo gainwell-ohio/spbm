@@ -35,7 +35,7 @@ search:
 
 ![image](https://user-images.githubusercontent.com/122046056/230944572-da607d64-48cb-4d37-aa44-c3e3411e9eba.png)
 
-## Dupixent-small kids
+## Dupixent-small kids { data-search-exclude }
 
 [Dupixent- small kids](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Dupixent%20for%20small%20children.msg?csf=1&web=1&e=ZXvMn9){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
