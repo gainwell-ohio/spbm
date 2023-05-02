@@ -97,13 +97,14 @@ with a topical steroid
 
 Additional Atopic Dermatitis Criteria
 
--   Must have at least 10% body surface area (BSA) involvement with **two** of the following: topical corticosteroids, topical calcineurin inhibitors [e.g. Elidel], or topical PDE-4 inhibitors [e.g. Eucrisa] OR atopic dermatitis severe and involves \>25% BSA
+-   Must have at least 10% body surface area (BSA) involvement with two of the following: topical corticosteroids or topical calcineurin inhibitors [e.g., Elidel] unless atopic dermatitis is severe and involves >25% BSA
+
 
 ### Plaque Psoriasis
 
 Additional Plaque Psoriasis Criteria
 
--   For patients currently receiving phototherapy, an inadequate clinical response of at least **90 days** must be shown prior to initial authorization for preferred drugs
+-   For patients currently receiving phototherapy, initial authorization for preferred drugs requires an inadequate clinical response to at least **90 days** of phototherapy
 
 ### Ulcerative Colitis
 
