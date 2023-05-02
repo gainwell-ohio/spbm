@@ -11,7 +11,7 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Non-Preferred                              | Generic Name                                                  | Quantity | Time (Days) |
+| Preferred                              | Generic Name                                                  | Quantity | Time (Days) |
 | :----------------------------------------- | :------------------------------------------------------------ | :------: | :---------: |
 | Hydroxyprogesterone Caproate <sup>QL</sup> | Hydroxprogesterone Caproate IM in Oil 250 MG / ML             |    4     |     28      |
 | Makena <sup>QL</sup>                       | Hydroxyprogesterone Caproate 275 MG / 1.1 ML IM Auto-Injector |   4.4    |     28      |
