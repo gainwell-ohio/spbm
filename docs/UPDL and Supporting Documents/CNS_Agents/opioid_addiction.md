@@ -55,8 +55,8 @@ Non-Preferred Criteria
 Additional Lofexidine (Lucemyra) Criteria
 
 - May be authorized if ALL of the following criteria are met:
-  - Must provide medical justification supporting why an opioid taper (such as with buprenorphine or methadone) cannot be used
-  - Must have had an inadequate clinical response or contraindication to clonidine
+    - Must provide medical justification supporting why an opioid taper (such as with buprenorphine or methadone) cannot be used
+    - Must have had an inadequate clinical response or contraindication to clonidine
 - Must provide documentation that the drug was initiated in an inpatient setting to be exempt from the above criteria
 
 ### Buprenorphine
