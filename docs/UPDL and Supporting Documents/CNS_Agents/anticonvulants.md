@@ -36,7 +36,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Lamotrigine                     |                                                     |                           |                           |
 | Levetiracetam IR Tab            |                                                     |                           |                           |
 | Levetiracetam Sol               |                                                     |                           |                           |
-| Oxcarbazepine                   |                                                     |                           |                           |
+| Oxcarbazepine Tab                   |                                                     |                           |                           |
 | Phenobarbital                   |                                                     |                           |                           |
 | Phenytoin                       |                                                     |                           |                           |
 | Pregabalin <sup>QL</sup>        | Pregabalin Cap (all strengths excl 225 MG & 300 MG) |            102            |            34             |
@@ -61,6 +61,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Lamotrigine ER                  |              |          |             |
 | Lamotrigine ODT                 |              |          |             |
 | Levetiracetam ER Tab            |              |          |             |
+| Oxcarbazepine Susp              |              |          |             |
 | Oxtellar XR                     |              |          |             |
 | Peganone                        |              |          |             |
 | Qudexy XR <sup>BvG</sup>        |              |          |             |
