@@ -130,9 +130,9 @@ Additonal Olanzapine / Samidorphan (Lybalvi) Criteria
 Additional Pimavanserin (Nuplazid) Criteria
 
 - For Parkinson-related Hallucinations & Delusions ALL of the following must be met:
-  - Psychotic symptoms are severe and frequent enough to warrant treatment with an antipsychotic AND are not related to dementia or delirium
-  - The patient’s other Parkinson’s Disease drugs have been reduced or adjusted and psychotic symptoms persist OR patient is unable to tolerate adjustment of these other drugs
-  - Must have been inadequate clinical response or contraindication to at least 30 days of either quetiapine or clozapine
+    - Psychotic symptoms are severe and frequent enough to warrant treatment with an antipsychotic AND are not related to dementia or delirium
+    - The patient’s other Parkinson’s Disease drugs have been reduced or adjusted and psychotic symptoms persist OR patient is unable to tolerate adjustment of these other drugs
+    - Must have been inadequate clinical response or contraindication to at least 30 days of either quetiapine or clozapine
 - An exemption to the criteria will be authorized for prescribers with a neurology specialty to a patient with a history of the related condition
 
 ### Fluoxetine / Olanzapine (Symbyax)
