@@ -20,6 +20,10 @@ search:
 ## Schedule
 
 [Schedule- Flex, PTO, Switches](https://mygainwell-my.sharepoint.com.mcas.ms/:x:/r/personal/cassandra_roach_gainwelltechnologies_com/_layouts/15/doc2.aspx?sourcedoc=%7B18F055B7-E916-4C9D-8FFD-57510789B0F9%7D&file=New%2012%20week%20base%20schedule%20start%203-20%20-%20master%20copy.xlsx&action=default&mobileredirect=true&cid=339f2504-cb61-4204-aa9a-31252e311a3f){:target="_blank" rel="noopener"}
+- ***PTO*** – once your PTO has been approved in SAP, it is your responsibility to notate it (notate as “PTO”) on the schedule in GREEN.
+- ***Flexes*** – Please message me in Teams with your flex request. ==Once I have given you approval==, please update it on the schedule in BLUE.
+- ***Switches*** – If you have found your switch, there is no need to email me as long as you both mutually agree. Each of you must update the switch on the schedule in RED. 
+
 
 [Sign up for O/N, Holiday](https://mygainwell-my.sharepoint.com.mcas.ms/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVsbwDWlIg5KsDj-gR8UjkgBV4QYb9AUI5B8Jlbpk7SjeA?e=4%3AXMs5Gp&at=9&CID=5CCE8570-00ED-4C3F-A4B0-109F1B77EA06&wdLOR=c56C50853-6098-4DA1-AE17-FC1333C71951){:target="_blank" rel="noopener"}
 
