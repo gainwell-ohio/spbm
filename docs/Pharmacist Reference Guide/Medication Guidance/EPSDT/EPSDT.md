@@ -25,7 +25,7 @@ We are also to ensure it meets generally accepted standards of medical practice;
  
 If we receive a PA for one of these non-payable cases for a member under the age of 21 that is appropriate to approve, the procedure is as follows:
 
-1. Use the approval template and include verbiage in internal notes – Approving per medical necessity for EPSDT member
+1. Use the approval template and include verbiage in internal notes – ***Approving per medical necessity for EPSDT member***
 2. Approve the PA for standard amount of time for treatment, if chronic condition 365 days is acceptable 
 3. Enter in the Edit Override for the necessary edits that are firing in these situations, I forsee 7106 and 7104 being used mostly, if there is an edit that needs to be overridden in these cases that we are not able to select please contact Rachel Carpenter, Cassandra Roach, or I, and we will try to find the best way for the member to get their medication (I don’t have solid figures but I do not believe this should happen often)
  
