@@ -98,7 +98,7 @@ Subsequent Authorization Criteria
 
 **AR** - Adderall, Dexedrine, & Zenzedi IR: a PA is required for patients younger than 3 years
 
-**AR** - Adderall XR, Atomoxetine, Cotempla XR-ODT, Daytrana, Dexedrine ER, Dexmethylphenidate & Methylphenidate IR & ER: a PA is required for patients younger than 6 years
+**AR** - Adderall XR, Atomoxetine, Cotempla XR-ODT, Daytrana, Dexedrine ER, Dexmethylphenidate, Methylphenidate IR & ER, and Quillichew ER: a PA is required for patients younger than 6 years
 
 **AR** - Dextroamphetamine Solution: a PA is required for patients over 12 years old
 
@@ -106,7 +106,7 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#overlay-context=drug-coverage#page=35){ :target="_blank" rel="noopener"}
+[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=35){ :target="_blank" rel="noopener"}
 
 [Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=15){ :target="_blank" rel="noopener"}
 
