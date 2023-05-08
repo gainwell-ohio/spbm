@@ -78,6 +78,8 @@ Cassandra Roach, PharmD, RPh
 
 ## Rejecting in Appeals Denial Language
 
+[weekly email 4/28/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/weeklyemail42823.docx?d=wc2d2297e447242f6a310e1aa4e002d2b&csf=1&web=1&e=G87tJQ){ .md-button .md-button--primary target="_blank" rel="noopener"}
+
 If rejecting an appeal for this medication when the medical director was contacted, please use the following appeal denial language and not the normal denial language for a PA:
 
 - The appeal request has been reviewed. The Gainwell Medical Director has been consulted for additional information involving this case. The original denial has been upheld based upon guidance that intolerances are not approvable as reasons to use mono product as opposed to the preferred combination products like Suboxone or Zubsolv. Serious adverse reactions do not include symptoms such as headache, nausea/vomiting, dizziness, or diarrhea. The side effect profile for both mono and combination products are similar, including nausea and headaches. Please use the preferred combination products.
