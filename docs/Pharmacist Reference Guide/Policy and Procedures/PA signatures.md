@@ -1,0 +1,33 @@
+# PA Signatures
+
+[weekly email 4/28/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/weeklyemail42823.docx?d=wc2d2297e447242f6a310e1aa4e002d2b&csf=1&web=1&e=G87tJQ){ .md-button .md-button--primary target="_blank" rel="noopener"}
+
+PA signatures
+
+^^Anything with signature^^
+- ^^Signature only^^ (does not matter if we can read it) = ***accept*** (this is the prescriber submitting and box does NOT need checked)
+- ^^Signature^^ and printed name = ***accept*** (this is prescriber submitting and box does NOT need checked)
+- ^^Signature^^, printed name and box checked = ***accept*** (this is prescriber’s agent submitting since the box is checked)
+
+Anything ^^without^^ a signature
+- Nothing filled out and no box checked = ***Reject with fax back***
+- No signature = ***Reject with fax back***
+- Printed name only with no signature = ***Reject with fax back***
+- Box checked and no signature or printed name = ***Reject with fax back***
+
+Signature with job title indicating that they are an AGENT of the prescriber [Ex: PA specialist, RN, MA, LPN – does not apply to APRN or PA’s (Physician assistants)], printed name and no box checked = Reject with fax back
+                Example:  
+                ![image](https://user-images.githubusercontent.com/122046056/236885975-d7d816e3-841d-413e-ab31-897ae462c258.png)
+
+
+Signature with job title indicating that they are an AGENT of the prescriber [Ex: PA specialist, RN, MA, LPN – does not apply to APRN or PA’s (Physician assistants)],  no printed name and no box checked = Reject with fax back
+                Example:  
+                ![image](https://user-images.githubusercontent.com/122046056/236886009-99d4d221-a87c-4fbf-9cad-19e37c3eda10.png)
+
+
+Signature with job title indicating that they are an AGENT of the prescriber [Ex: PA specialist, RN, MA, LPN – does not apply to APRN or PA’s (Physician assistants)],  no printed name and box checked = Reject with fax back
+                Example:  
+                ![image](https://user-images.githubusercontent.com/122046056/236886019-85c91fc0-b5c1-4d1f-b538-ee25e56f146d.png)
+
+
+
