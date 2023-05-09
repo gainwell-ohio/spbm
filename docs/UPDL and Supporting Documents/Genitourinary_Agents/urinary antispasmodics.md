@@ -29,15 +29,15 @@ This is a subcategory of Genitourinary Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                    | Generic Name                                    |         Quantity          |        Time (Days)        |
-|:---------------------------------|:------------------------------------------------|:-------------------------:|:-------------------------:|
-| Darifenacin <sup>QL</sup>        | Darifenacin Hydrobromide ER Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Fesoterodine                     |                                                 |                           |                           |
-| Gemtesa                          |                                                 |                           |                           |
-| Myrbetriq Granules <sup>AR</sup> |                                                 |                           |                           |
-| Tolterodine                      |                                                 |                           |                           |
-| Trospium <sup>QL</sup>           | Trospium Chloride Tab (all strengths)           | Determined pursuant to PA | Determined pursuant to PA |
-| Vesicare LS <sup>AR</sup>        |                                                 |                           |                           |
+| Non-Preferred                                                                          | Generic Name                                    |         Quantity          |        Time (Days)        |
+|:---------------------------------------------------------------------------------------|:------------------------------------------------|:-------------------------:|:-------------------------:|
+| Darifenacin <sup>QL</sup>                                                              | Darifenacin Hydrobromide ER Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| <span title = "Brand Preferred: Toviaz">Fesoterodine</span> <sup>Brand Preferred</sup> |                                                 |                           |                           |
+| Gemtesa                                                                                |                                                 |                           |                           |
+| Myrbetriq Granules <sup>AR</sup>                                                       |                                                 |                           |                           |
+| Tolterodine                                                                            |                                                 |                           |                           |
+| Trospium <sup>QL</sup>                                                                 | Trospium Chloride Tab (all strengths)           | Determined pursuant to PA | Determined pursuant to PA |
+| Vesicare LS <sup>AR</sup>                                                              |                                                 |                           |                           |
 
 ## Authorizations
 

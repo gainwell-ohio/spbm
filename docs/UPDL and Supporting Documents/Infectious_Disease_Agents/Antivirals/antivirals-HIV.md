@@ -62,29 +62,29 @@ This is a subcategory of Infectious Disease Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                                          | Generic Name | Quantity | Time (Days) |
-|:-------------------------------------------------------|:-------------|:--------:|:-----------:|
-| Abacavir Susp                                          |              |          |             |
-| Abacavir / Lamivudine / Zidovudine                     |              |          |             |
-| Aptivus                                                |              |          |             |
-| Didanosine                                             |              |          |             |
-| Edurant                                                |              |          |             |
-| Efavirenz / Lamivudine / Tenofovir Disoproxil Fumarate |              |          |             |
-| Emtricitabine                                          |              |          |             |
-| Fosamprenavir                                          |              |          |             |
-| Fuzeon                                                 |              |          |             |
-| Intelence <sup>BvG</sup>                               |              |          |             |
-| Lamivudine Tab                                         |              |          |             |
-| Lamivudine Sol <sup>AR</sup>                           |              |          |             |
-| Lamivudine / Zidovudine                                |              |          |             |
-| Nevirapine IR, ER Tab                                  |              |          |             |
-| Nevirapine Sol <sup>AR</sup>                           |              |          |             |
-| Norvir Powder, Sol                                     |              |          |             |
-| Selzentry <sup>BvG</sup>                               |              |          |             |
-| Stavudine                                              |              |          |             |
-| Stribild                                               |              |          |             |
-| Tybost                                                 |              |          |             |
-| Viracept                                               |              |          |             |
+| Non-Preferred                                                                                                                              | Generic Name | Quantity | Time (Days) |
+|:-------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Abacavir Susp                                                                                                                              |              |          |             |
+| Abacavir / Lamivudine / Zidovudine                                                                                                         |              |          |             |
+| Aptivus                                                                                                                                    |              |          |             |
+| Didanosine                                                                                                                                 |              |          |             |
+| Edurant                                                                                                                                    |              |          |             |
+| <span title = "Brands Preferred: Symfi, Symfi Lo">Efavirenz / Lamivudine / Tenofovir Disoproxil Fumarate</span> <sup>Brand Preferred</sup> |              |          |             |
+| <span title = "Brand Preferred: Emtriva">Emtricitabine</span> <sup>Brand Preferred</sup>                                                   |              |          |             |
+| Fosamprenavir                                                                                                                              |              |          |             |
+| Fuzeon                                                                                                                                     |              |          |             |
+| Intelence <sup>BvG</sup>                                                                                                                   |              |          |             |
+| Lamivudine Tab                                                                                                                             |              |          |             |
+| Lamivudine Sol <sup>AR</sup>                                                                                                               |              |          |             |
+| Lamivudine / Zidovudine                                                                                                                    |              |          |             |
+| Nevirapine IR, ER Tab                                                                                                                      |              |          |             |
+| Nevirapine Sol <sup>AR</sup>                                                                                                               |              |          |             |
+| Norvir Powder, Sol                                                                                                                         |              |          |             |
+| Selzentry <sup>BvG</sup>                                                                                                                   |              |          |             |
+| Stavudine                                                                                                                                  |              |          |             |
+| Stribild                                                                                                                                   |              |          |             |
+| Tybost                                                                                                                                     |              |          |             |
+| Viracept                                                                                                                                   |              |          |             |
 
 ## Authorizations
 

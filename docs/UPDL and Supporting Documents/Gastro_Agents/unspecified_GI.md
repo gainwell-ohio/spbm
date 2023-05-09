@@ -30,18 +30,18 @@ This is a subcategory of Gastrointestinal Agents.
 
 ### Non-Preferred
 
-| Non-Preferred  | Generic Name | Quantity | Time (Days) |
-|:---------------|:-------------|:--------:|:-----------:|
-| Aemcolo        |              |          |             |
-| Gattex         |              |          |             |
-| Ibsrela        |              |          |             |
-| Linzess 72 MCG |              |          |             |
-| Lubiprostone   |              |          |             |
-| Motegrity      |              |          |             |
-| Mytesi         |              |          |             |
-| Relistor       |              |          |             |
-| Symproic       |              |          |             |
-| Zorbtive       |              |          |             |
+| Non-Preferred                                                                           | Generic Name | Quantity | Time (Days) |
+|:----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Aemcolo                                                                                 |              |          |             |
+| Gattex                                                                                  |              |          |             |
+| Ibsrela                                                                                 |              |          |             |
+| Linzess 72 MCG                                                                          |              |          |             |
+| <span title = "Brand Preferred: Amitiza">Lubiprostone</span> <sup>Brand Preferred</sup> |              |          |             |
+| Motegrity                                                                               |              |          |             |
+| Mytesi                                                                                  |              |          |             |
+| Relistor                                                                                |              |          |             |
+| Symproic                                                                                |              |          |             |
+| Zorbtive                                                                                |              |          |             |
 
 ## Authorizations
 

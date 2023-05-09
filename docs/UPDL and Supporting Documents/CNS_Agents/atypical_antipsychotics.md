@@ -12,7 +12,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 ### Preferred
 
 | Preferred                       | Generic Name                                                         |         Quantity          |        Time (Days)        |
-| :------------------------------ | :------------------------------------------------------------------- | :-----------------------: | :-----------------------: |
+|:--------------------------------|:---------------------------------------------------------------------|:-------------------------:|:-------------------------:|
 | Abilify Maintena <sup>QL</sup>  | Aripiprazole ER Susp IM Inj (all strengths & formulations)           |             3             |            84             |
 | Aripiprazole <sup>QL</sup>      | Aripiprazole Tab (all strengths)                                     |            102            |            102            |
 | Aristada <sup>QL</sup>          | Aripiprazole Lauroxil ER Susp IM 441 MG / 1.6 ML (all formulations)  |            4.8            |            84             |
@@ -34,7 +34,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 410 MG / 1.32 ML (all formulations)   |           1.32            |            84             |
 | Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 546 MG / 1.75 ML (all formulations)   |           1.75            |            84             |
 | Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 819 MG / 2.63 ML (all formulations)   |           2.63            |            84             |
-| Latuda <sup>BvG ST QL</sup>         | Lurasidone HCI Tab (all strengths)                                   | Determined pursuant to PA | Determined pursuant to PA |
+| Latuda <sup>BvG ST QL</sup>     | Lurasidone HCI Tab (all strengths)                                   | Determined pursuant to PA | Determined pursuant to PA |
 | Olanzapine <sup>QL</sup>        | Olanzapine Tab (all strengths)                                       |            102            |            102            |
 | Perseris                        |                                                                      |                           |                           |
 | Quetiapine IR <sup>QL</sup>     | Quetiapine Fumarate Tab 25 MG & 50 MG & 100 MG                       |            306            |            102            |
@@ -51,25 +51,25 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                  | Generic Name                                               | Quantity | Time (Days) |
-| :----------------------------- | :--------------------------------------------------------- | :------: | :---------: |
-| Abilify Mycite                 | Aripiprazole ER Susp IM Inj (all strengths & formulations) |    3     |     84      |
-| Aripiprazole Sol               |                                                            |          |             |
-| Asenapine                      |                                                            |          |             |
-| Caplyta                        |                                                            |          |             |
-| Clozapine ODT Rapdis           |                                                            |          |             |
-| Fluoxetine/Olanzapine          |                                                            |          |             |
-| Lybalvi                        |                                                            |          |             |
-| Nuplazid                       |                                                            |          |             |
-| Olanzapine ODT                 |                                                            |          |             |
-| Paliperidone                   |                                                            |          |             |
-| Rexulti                        |                                                            |          |             |
-| Secuado                        |                                                            |          |             |
-| Versacloz                      |                                                            |          |             |
-| Vraylar                        |                                                            |          |             |
-| Zyprexa Relprevv <sup>QL</sup> | Olanzapine Pamoate ER Susp IM 210 MG (all formulations)    |    7     |     98      |
-| Zyprexa Relprevv <sup>QL</sup> | Olanzapine Pamoate ER Susp IM 300 MG (all formulations)    |    6     |     84      |
-| Zyprexa Relprevv <sup>QL</sup> | Olanzapine Pamoate ER Susp IM 405 MG (all formulations)    |    3     |     84      |
+| Non-Preferred                                                                              | Generic Name                                               | Quantity | Time (Days) |
+|:-------------------------------------------------------------------------------------------|:-----------------------------------------------------------|:--------:|:-----------:|
+| Abilify Mycite                                                                             | Aripiprazole ER Susp IM Inj (all strengths & formulations) |    3     |     84      |
+| Aripiprazole Sol                                                                           |                                                            |          |             |
+| <span title = "Brand Preferred: Saphris">Asenapine</span> <sup>Brand Preferred</sup>       |                                                            |          |             |
+| Caplyta                                                                                    |                                                            |          |             |
+| Clozapine ODT Rapdis                                                                       |                                                            |          |             |
+| Fluoxetine/Olanzapine                                                                      |                                                            |          |             |
+| Lybalvi                                                                                    |                                                            |          |             |
+| Nuplazid                                                                                   |                                                            |          |             |
+| Olanzapine ODT                                                                             |                                                            |          |             |
+| <span title = "Brand Preferred: Invega Tab">Paliperidone</span> <sup>Brand Preferred</sup> |                                                            |          |             |
+| Rexulti                                                                                    |                                                            |          |             |
+| Secuado                                                                                    |                                                            |          |             |
+| Versacloz                                                                                  |                                                            |          |             |
+| Vraylar                                                                                    |                                                            |          |             |
+| Zyprexa Relprevv <sup>QL</sup>                                                             | Olanzapine Pamoate ER Susp IM 210 MG (all formulations)    |    7     |     98      |
+| Zyprexa Relprevv <sup>QL</sup>                                                             | Olanzapine Pamoate ER Susp IM 300 MG (all formulations)    |    6     |     84      |
+| Zyprexa Relprevv <sup>QL</sup>                                                             | Olanzapine Pamoate ER Susp IM 405 MG (all formulations)    |    3     |     84      |
 
 ## Authorizations
 

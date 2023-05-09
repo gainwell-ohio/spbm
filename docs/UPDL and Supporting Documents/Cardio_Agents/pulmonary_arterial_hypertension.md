@@ -30,17 +30,17 @@ This is a subcategory of Cardiovascular Agents.
 
 ### Non-Preferred
 
-| Non-Preferred | Generic Name | Quantity | Time (Days) |
-|:--------------|:-------------|:--------:|:-----------:|
-| Adempas       |              |          |             |
-| Bosentan      |              |          |             |
-| Epoprostenol  |              |          |             |
-| Opsumit       |              |          |             |
-| Tracleer Susp |              |          |             |
-| Treprostinil  |              |          |             |
-| Tyvaso        |              |          |             |
-| Uptravi       |              |          |             |
-| Ventavis      |              |          |             |
+| Non-Preferred                                                                            | Generic Name | Quantity | Time (Days) |
+|:-----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Adempas                                                                                  |              |          |             |
+| <span title = "Brand Preferred: Tracleer Tab">Bosentan</span> <sup>Brand Preferred</sup> |              |          |             |
+| Epoprostenol                                                                             |              |          |             |
+| Opsumit                                                                                  |              |          |             |
+| Tracleer Susp                                                                            |              |          |             |
+| Treprostinil                                                                             |              |          |             |
+| Tyvaso                                                                                   |              |          |             |
+| Uptravi                                                                                  |              |          |             |
+| Ventavis                                                                                 |              |          |             |
 
 ## Authorizations
 

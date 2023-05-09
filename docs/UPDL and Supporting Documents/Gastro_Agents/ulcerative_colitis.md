@@ -16,7 +16,7 @@ This is a subcategory of Gastrointestinal Agents.
 ### Preferred
 
 | Preferred                      | Generic Name           | Quantity | Time (Days) |
-| :----------------------------- | :--------------------- | :------: | :---------: |
+|:-------------------------------|:-----------------------|:--------:|:-----------:|
 | Balsalazide Disodium           |                        |          |             |
 | Budesonide ER Tab <sup>QL<sup> | Budesonide Tab ER 9 MG |    56    |     90      |
 | Mesalamine DR Cap, Tab         |                        |          |             |
@@ -27,12 +27,12 @@ This is a subcategory of Gastrointestinal Agents.
 
 ### Non-Preferred
 
-| Non-Preferred            | Generic Name              |         Quantity          | Time (Days) |
-| :----------------------- | :------------------------ | :-----------------------: | :---------: |
-| Dipentum                 |                           |                           |             |
-| Mesalamine Supp          |                           |                           |             |
-| Uceris Foam <sup>QL<sup> | Budesonide Aer 2 MG / ACT | Determined pursuant to PA |             |
-| Zeposia                  |                           |                           |             |
+| Non-Preferred                                                                              | Generic Name              |         Quantity          | Time (Days) |
+|:-------------------------------------------------------------------------------------------|:--------------------------|:-------------------------:|:-----------:|
+| Dipentum                                                                                   |                           |                           |             |
+| <span title = "Brand Preferred: Pentasa">Mesalamine Supp</span> <sup>Brand Preferred</sup> |                           |                           |             |
+| Uceris Foam <sup>QL<sup>                                                                   | Budesonide Aer 2 MG / ACT | Determined pursuant to PA |             |
+| Zeposia                                                                                    |                           |                           |             |
 
 ## Authorizations
 

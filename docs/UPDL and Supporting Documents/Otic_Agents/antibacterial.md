@@ -20,7 +20,7 @@ This is a subcategory of Otic Agents.
 | Cipro HC                                |              |          |             |
 | Ciprodex <sup>BvG</sup>                 |              |          |             |
 | Cortisporin-TC                          |              |          |             |
-| Neomycin / Polymyxin B / Hydrocortisone |              |          |             |
+| Neomycin/Polymyxin B/Hydrocortisone |              |          |             |
 | Ofloxacin                               |              |          |             |
 
 ### Non-Preferred
@@ -28,8 +28,8 @@ This is a subcategory of Otic Agents.
 | Non-Preferred                 | Generic Name | Quantity | Time (Days) |
 | :---------------------------- | :----------- | :------: | :---------: |
 | Ciprofloxacin                 |              |          |             |
-| Ciprofloxacin / Dexamethasone |              |          |             |
-| Ciprofloxacin / Fluocinolone  |              |          |             |
+| <span title = "Brand Preferred: Ciprodex">Ciprofloxacin/Dexamethasone</span> <sup>Brand Preferred</sup> |              |          |             |
+| Ciprofloxacin/Fluocinolone  |              |          |             |
 
 ## Authorizations
 

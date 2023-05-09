@@ -16,7 +16,7 @@ This is a subcategory of Ophthalmic Agents.
 ### Preferred
 
 | Preferred                                          | Generic Name                               |         Quantity          |        Time (Days)        |
-| :------------------------------------------------- | :----------------------------------------- | :-----------------------: | :-----------------------: |
+|:---------------------------------------------------|:-------------------------------------------|:-------------------------:|:-------------------------:|
 | Bacitracin-Polymyxin                               |                                            |                           |                           |
 | Ciloxan                                            |                                            |                           |                           |
 | Ciprofloxacin                                      |                                            |                           |                           |
@@ -36,21 +36,21 @@ This is a subcategory of Ophthalmic Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                         | Generic Name | Quantity | Time (Days) |
-| :------------------------------------ | :----------- | :------: | :---------: |
-| Azasite                               |              |          |             |
-| Bacitracin                            |              |          |             |
-| Besivance                             |              |          |             |
-| Blephamide                            |              |          |             |
-| Gatifloxacin                          |              |          |             |
-| Levofloxacin                          |              |          |             |
-| Moxifloxacin (Generic of Moxeza)      |              |          |             |
-| Neomycin / Polymyxin / Hydrocortisone |              |          |             |
-| Pred-G                                |              |          |             |
-| Sulfacetamide Sodium Ophth Oint 10%   |
-| Tobradex ST <sup>BvG</sup>            |              |          |             |
-| Tobramycin/Dexamethasone 0.3/0.1%     |              |          |             |
-| Zylet                                 |              |          |             |
+| Non-Preferred                                                                                                 | Generic Name | Quantity | Time (Days) |
+|:--------------------------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Azasite                                                                                                       |              |          |             |
+| Bacitracin                                                                                                    |              |          |             |
+| Besivance                                                                                                     |              |          |             |
+| Blephamide                                                                                                    |              |          |             |
+| Gatifloxacin                                                                                                  |              |          |             |
+| Levofloxacin                                                                                                  |              |          |             |
+| Moxifloxacin (Generic of Moxeza)                                                                              |              |          |             |
+| Neomycin / Polymyxin / Hydrocortisone                                                                         |              |          |             |
+| Pred-G                                                                                                        |              |          |             |
+| Sulfacetamide Sodium Ophth Oint 10%                                                                           |              |          |             |
+| Tobradex ST <sup>BvG</sup>                                                                                    |              |          |             |
+| <span title = "Brand Preferred: Tobradex">Tobramycin/Dexamethasone 0.3/0.1%</span> <sup>Brand Preferred</sup> |              |          |             |
+| Zylet                                                                                                         |              |          |             |
 
 ## Authorizations
 

@@ -115,39 +115,39 @@ This is a subcategory of Cardiovascular Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                              | Generic Name | Quantity | Time (Days) |
-|:-------------------------------------------|:-------------|:--------:|:-----------:|
-| Aliskiren                                  |              |          |             |
-| Aspruzyo Sprinkle                          |              |          |             |
-| Camzyos                                    |              |          |             |
-| Candesartan                                |              |          |             |
-| Candesartan/HCTZ                           |              |          |             |
-| Carospir                                   |              |          |             |
-| Carvedilol ER                              |              |          |             |
-| Clonidine ER (generic of Nexiclon XR)      |              |          |             |
-| Corlanor                                   |              |          |             |
-| Edarbi                                     |              |          |             |
-| Diltiazem 24HR ER Tabs <sup>QL</sup>       |              |          |             |
-| Edarbyclor                                 |              |          |             |
-| Hydralazine/HCTZ                           |              |          |             |
-| Innopran XL                                |              |          |             |
-| Isradipine                                 |              |          |             |
-| Kapspargo                                  |              |          |             |
-| Katerzia                                   |              |          |             |
-| Kerendia                                   |              |          |             |
-| Levamlodipine                              |              |          |             |
-| Nebivolol                                  |              |          |             |
-| Nimodipine                                 |              |          |             |
-| Nisoldipine                                |              |          |             |
-| Norliqva                                   |              |          |             |
-| Nymalize                                   |              |          |             |
-| Qbrelis                                    |              |          |             |
-| Sotylize <sup>AR</sup>                     |              |          |             |
-| Tekturna / HCTZ                            |              |          |             |
-| Telmisartan                                |              |          |             |
-| Telmisartan / HCTZ                         |              |          |             |
-| Verapamil 200, 300mg ER 24HR <sup>QL</sup> |              |          |             |
-| Verquvo                                    |              |          |             |
+| Non-Preferred                                                                         | Generic Name | Quantity | Time (Days) |
+|:--------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Aliskiren                                                                             |              |          |             |
+| Aspruzyo Sprinkle                                                                     |              |          |             |
+| Camzyos                                                                               |              |          |             |
+| Candesartan                                                                           |              |          |             |
+| Candesartan/HCTZ                                                                      |              |          |             |
+| Carospir                                                                              |              |          |             |
+| Carvedilol ER                                                                         |              |          |             |
+| Clonidine ER (generic of Nexiclon XR)                                                 |              |          |             |
+| Corlanor                                                                              |              |          |             |
+| Edarbi                                                                                |              |          |             |
+| Diltiazem 24HR ER Tabs <sup>QL</sup>                                                  |              |          |             |
+| Edarbyclor                                                                            |              |          |             |
+| Hydralazine/HCTZ                                                                      |              |          |             |
+| Innopran XL                                                                           |              |          |             |
+| Isradipine                                                                            |              |          |             |
+| Kapspargo                                                                             |              |          |             |
+| Katerzia                                                                              |              |          |             |
+| Kerendia                                                                              |              |          |             |
+| Levamlodipine                                                                         |              |          |             |
+| <span title = "Brand Preferred: Bystolic">Nebivolol</span> <sup>Brand Preferred</sup> |              |          |             |
+| Nimodipine                                                                            |              |          |             |
+| Nisoldipine                                                                           |              |          |             |
+| Norliqva                                                                              |              |          |             |
+| Nymalize                                                                              |              |          |             |
+| Qbrelis                                                                               |              |          |             |
+| Sotylize <sup>AR</sup>                                                                |              |          |             |
+| Tekturna / HCTZ                                                                       |              |          |             |
+| Telmisartan                                                                           |              |          |             |
+| Telmisartan / HCTZ                                                                    |              |          |             |
+| Verapamil 200, 300mg ER 24HR <sup>QL</sup>                                            |              |          |             |
+| Verquvo                                                                               |              |          |             |
 
 ## Authorizations
 
