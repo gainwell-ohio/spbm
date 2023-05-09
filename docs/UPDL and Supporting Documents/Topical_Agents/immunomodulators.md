@@ -22,7 +22,7 @@ This is a subcategory of Topical Agents.
 |:---------------------------|:-------------|:--------:|:-----------:|
 | Eucrisa                    |              |          |             |
 | Opzelura                   |              |          |             |
-| Pimecrolimus <sup>AR</sup> |              |          |             |
+| <span title = "Brand Preferred: Elidel">Pimecrolimus</span> <sup>AR, Brand Preferred</sup> |              |          |             |
 | Vtama                      |              |          |             |
 | Zoryve                     |              |          |             |
 

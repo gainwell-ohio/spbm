@@ -37,15 +37,15 @@ Gastrointestinal Agents: Anti-Emetics
 
 ### Non-Preferred
 
-| Non-Preferred           | Generic Name | Quantity | Time (Days) |
-|:------------------------|:-------------|:--------:|:-----------:|
-| Aprepitant 80 mg        |              |          |             |
-| Aprepitant TriPac       |              |          |             |
-| Bonjesta                |              |          |             |
-| Doxylamine / Pyridoxine |              |          |             |
-| Metoclopramide ODT      |              |          |             |
-| Sancuso                 |              |          |             |
-| Zuplenz                 |              |          |             |
+| Non-Preferred                                                                                     | Generic Name | Quantity | Time (Days) |
+|:--------------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| <span title = "Brand Preferred: Emend 80 MG">Aprepitant 80 MG</span> <sup>Brand Preferred</sup>   |              |          |             |
+| <span title = "Brand Preferred: Emend TriPac">Aprepitant TriPac</span> <sup>Brand Preferred</sup> |              |          |             |
+| Bonjesta                                                                                          |              |          |             |
+| <span title = "Brand Preferred: Diclegis">Doxylamine/Pyridoxine</span> <sup>Brand Preferred</sup> |              |          |             |
+| Metoclopramide ODT                                                                                |              |          |             |
+| Sancuso                                                                                           |              |          |             |
+| Zuplenz                                                                                           |              |          |             |
 
 ## Authorizations
 

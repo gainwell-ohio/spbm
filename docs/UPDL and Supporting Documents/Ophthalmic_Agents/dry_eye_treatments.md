@@ -12,18 +12,18 @@ This is a subcategory of Ophthalmic Agents.
 ### Preferred
 
 | Preferred                        | Generic Name | Quantity | Time (Days) |
-| :------------------------------- | :----------- | :------: | :---------: |
+|:---------------------------------|:-------------|:--------:|:-----------:|
 | Restasis Trays <sup>BvG ST</sup> |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred       | Generic Name | Quantity | Time (Days) |
-| :------------------ | :----------- | :------: | :---------: |
-| Cequa               |              |          |             |
-| Eysuvis             |              |          |             |
-| Restasis Multi-Dose |              |          |             |
-| Tyrvaya             |              |          |             |
-| Xiidra              |              |          |             |
+| Non-Preferred                                                                            | Generic Name | Quantity | Time (Days) |
+|:-----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Cequa                                                                                    |              |          |             |
+| Eysuvis                                                                                  |              |          |             |
+| Restasis Multi-Dose                                                                      |              |          |             |
+| Tyrvaya                                                                                  |              |          |             |
+| <span title = "Brand Preferred: Restasis Trays">Xiidra</span> <sup>Brand Preferred</sup> |              |          |             |
 
 ## Authorizations
 

@@ -33,12 +33,12 @@ This is a subcategory of Ophthalmic Agents.
 
 ### Non-Preferred
 
-| Non-Preferred | Generic Name | Quantity | Time (Days) |
-|:--------------|:-------------|:--------:|:-----------:|
-| Difluprednate |              |          |             |
-| Inveltys      |              |          |             |
-| Lotemax SM    |              |          |             |
-| Loteprednol   |              |          |             |
+| Non-Preferred                                                                                  | Generic Name | Quantity | Time (Days) |
+|:-----------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| <span title = "Brand Preferred: Durezol">Difluprednate</span> <sup>Brand Preferred</sup>       |              |          |             |
+| Inveltys                                                                                       |              |          |             |
+| Lotemax SM                                                                                     |              |          |             |
+| <span title = "Brands Preferred: Alrex, Lotemax">Loteprednol</span> <sup>Brand Preferred</sup> |              |          |             |
 
 ## Authorizations
 

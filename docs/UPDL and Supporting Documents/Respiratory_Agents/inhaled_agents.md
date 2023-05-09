@@ -41,35 +41,35 @@ This is a subcategory of Respiratory Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                         | Generic Name                                  |         Quantity          |        Time (Days)        |
-|:--------------------------------------|:----------------------------------------------|:-------------------------:|:-------------------------:|
-| Aerospan HFA                          |                                               |                           |                           |
-| Airduo Digihaler                      |                                               |                           |                           |
-| Airduo Respiclick                     |                                               |                           |                           |
-| Albuterol HFA                         |                                               |                           |                           |
-| Alvesco                               |                                               |                           |                           |
-| Armonair Digihaler                    |                                               |                           |                           |
-| Armonair Respiclick                   |                                               |                           |                           |
-| Arnuity Ellipta                       |                                               |                           |                           |
-| Asmanex HFA                           |                                               |                           |                           |
-| Bevespi Aerosphere                    |                                               |                           |                           |
-| Breo Ellipta <sup>BvG</sup>           |                                               |                           |                           |
-| Breztri Aerosphere                    |                                               |                           |                           |
-| Brovana <sup>BvG</sup>                |                                               |                           |                           |
-| Budesonide / Formoterol <sup>QL</sup> | Budesonide-Formoterol Aerosol (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Duaklir Pressair                      |                                               |                           |                           |
-| Fluticasone / Salmeterol              |                                               |                           |                           |
-| Formoterol Fumarate Nebulizer Sol     |                                               |                           |                           |
-| Levalbuterol Nebulizer Sol            |                                               |                           |                           |
-| Lonhala Magnair                       |                                               |                           |                           |
-| Proair Digihaler                      |                                               |                           |                           |
-| Proair Respiclick                     |                                               |                           |                           |
-| Qvar <sup>QL</sup>                    | Qvar Aerosol (all strengths)                  | Determined pursuant to PA | Determined pursuant to PA |
-| Trelegy Ellipta                       |                                               |                           |                           |
-| Tudorza                               |                                               |                           |                           |
-| Wixela Inhub                          |                                               |                           |                           |
-| Xopenex HFA                           |                                               |                           |                           |
-| Yupelri                               |                                               |                           |                           |
+| Non-Preferred                                                                                                        | Generic Name                                  |         Quantity          |        Time (Days)        |
+|:---------------------------------------------------------------------------------------------------------------------|:----------------------------------------------|:-------------------------:|:-------------------------:|
+| Aerospan HFA                                                                                                         |                                               |                           |                           |
+| Airduo Digihaler                                                                                                     |                                               |                           |                           |
+| Airduo Respiclick                                                                                                    |                                               |                           |                           |
+| <span title = "Brands Preferred: ProAir HFA, Ventolin HFA">Albuterol HFA</span> <sup>Brand Preferred</sup>                          |                                               |                           |                           |
+| Alvesco                                                                                                              |                                               |                           |                           |
+| Armonair Digihaler                                                                                                   |                                               |                           |                           |
+| Armonair Respiclick                                                                                                  |                                               |                           |                           |
+| Arnuity Ellipta                                                                                                      |                                               |                           |                           |
+| Asmanex HFA                                                                                                          |                                               |                           |                           |
+| Bevespi Aerosphere                                                                                                   |                                               |                           |                           |
+| Breo Ellipta <sup>BvG</sup>                                                                                          |                                               |                           |                           |
+| Breztri Aerosphere                                                                                                   |                                               |                           |                           |
+| Brovana <sup>BvG</sup>                                                                                               |                                               |                           |                           |
+| <span title = "Brand Preferred: Symbicort">Budesonide/Formoterol</span> <sup>QL, Brand Preferred</sup>               | Budesonide-Formoterol Aerosol (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Duaklir Pressair                                                                                                     |                                               |                           |                           |
+| <span title = "Brands Preferred: Advair Diskus, Advair HFA">Fluticasone/Salmeterol</span> <sup>Brand Preferred</sup> |                                               |                           |                           |
+| Formoterol Fumarate Nebulizer Sol                                                                                    |                                               |                           |                           |
+| Levalbuterol Nebulizer Sol                                                                                           |                                               |                           |                           |
+| Lonhala Magnair                                                                                                      |                                               |                           |                           |
+| Proair Digihaler                                                                                                     |                                               |                           |                           |
+| Proair Respiclick                                                                                                    |                                               |                           |                           |
+| Qvar <sup>QL</sup>                                                                                                   | Qvar Aerosol (all strengths)                  | Determined pursuant to PA | Determined pursuant to PA |
+| Trelegy Ellipta                                                                                                      |                                               |                           |                           |
+| Tudorza                                                                                                              |                                               |                           |                           |
+| Wixela Inhub                                                                                                         |                                               |                           |                           |
+| Xopenex HFA                                                                                                          |                                               |                           |                           |
+| Yupelri                                                                                                              |                                               |                           |                           |
 
 ## Authorizations
 

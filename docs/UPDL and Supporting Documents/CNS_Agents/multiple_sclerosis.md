@@ -28,19 +28,19 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Non-Preferred
 
-| Non-Preferred | Generic Name | Quantity | Time (Days) |
-|:--------------|:-------------|:--------:|:-----------:|
-| Bafiertam     |              |          |             |
-| Extavia       |              |          |             |
-| Fingolimod    |              |          |             |
-| Glatiramer    |              |          |             |
-| Glatopa       |              |          |             |
-| Kesimpta      |              |          |             |
-| Mavenclad     |              |          |             |
-| Mayzent       |              |          |             |
-| Plegridy      |              |          |             |
-| Ponvory       |              |          |             |
-| Teriflunomide |
+| Non-Preferred                                                                          | Generic Name | Quantity | Time (Days) |
+|:---------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Bafiertam                                                                              |              |          |             |
+| Extavia                                                                                |              |          |             |
+| <span title = "Brand Preferred: Gilenya">Fingolimod</span> <sup>Brand Preferred</sup>  |              |          |             |
+| <span title = "Brand Preferred: Copaxone">Glatiramer</span> <sup>Brand Preferred</sup> |              |          |             |
+| Glatopa                                                                                |              |          |             |
+| Kesimpta                                                                               |              |          |             |
+| Mavenclad                                                                              |              |          |             |
+| Mayzent                                                                                |              |          |             |
+| Plegridy                                                                               |              |          |             |
+| Ponvory                                                                                |              |          |             |
+|<span title = "Brand Preferred: Aubagio">Teriflunomide</span> <sup>Brand Preferred</sup> |
 | Vumerity      |              |          |             |
 | Zeposia       |              |          |             |
 

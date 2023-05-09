@@ -32,25 +32,25 @@ This is a subcategory of Endocrine Agents.
 | Novolog 70-30                             |                                                                         |          |             |
 | Novolog U-100 <sup>QL</sup>               |                                                                         |          |             |
 | Toujeo                                    |                                                                         |          |             |
-| Tresiba <sup>BvG ST</sup>                |                                                                         |          |             |
+| Tresiba <sup>BvG ST</sup>                 |                                                                         |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred               | Generic Name                                                            |         Quantity          |        Time (Days)        |
-|:----------------------------|:------------------------------------------------------------------------|:-------------------------:|:-------------------------:|
-| Admelog <sup>QL</sup>       | Insulin Lispro Soln Subcutaneous Inj 100 Unit / ML (all formulations)   | Determined pursuant to PA | Determined pursuant to PA |
-| Afrezza                     |                                                                         |                           |                           |
-| Basaglar <sup>QL</sup>      | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) | Determined pursuant to PA | Determined pursuant to PA |
-| Fiasp <sup>QL</sup>         | Insulin Aspart Soln Subcutaneous Inj 100 Unit / ML (all formulations)   | Determined pursuant to PA | Determined pursuant to PA |
-| Humalog U-200 <sup>QL</sup> | Insulin Lispro Soln Subcutaneous Inj 200 Unit / ML (all formulations)   | Determined pursuant to PA | Determined purusant to PA |
-| Humulin N U-100             |                                                                         |                           |                           |
-| Humulin R U-100             |                                                                         |                           |                           |
-| Insulin Degludec            |                                                                         |                           |                           |
-| Lyumjev                     |                                                                         |                           |                           |
-| Novolin 70-30               |                                                                         |                           |                           |
-| Novolin N U-100             |                                                                         |                           |                           |
-| Novolin R U-100             |                                                                         |                           |                           |
-| Semglee <sup>BvG QL</sup>   | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) | Determined pursuant to PA | Determined pursuant to PA |
+| Non-Preferred                                                                               | Generic Name                                                            |         Quantity          |        Time (Days)        |
+|:--------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|:-------------------------:|:-------------------------:|
+| Admelog <sup>QL</sup>                                                                       | Insulin Lispro Soln Subcutaneous Inj 100 Unit / ML (all formulations)   | Determined pursuant to PA | Determined pursuant to PA |
+| Afrezza                                                                                     |                                                                         |                           |                           |
+| Basaglar <sup>QL</sup>                                                                      | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) | Determined pursuant to PA | Determined pursuant to PA |
+| Fiasp <sup>QL</sup>                                                                         | Insulin Aspart Soln Subcutaneous Inj 100 Unit / ML (all formulations)   | Determined pursuant to PA | Determined pursuant to PA |
+| Humalog U-200 <sup>QL</sup>                                                                 | Insulin Lispro Soln Subcutaneous Inj 200 Unit / ML (all formulations)   | Determined pursuant to PA | Determined purusant to PA |
+| Humulin N U-100                                                                             |                                                                         |                           |                           |
+| Humulin R U-100                                                                             |                                                                         |                           |                           |
+| <span title = "Brand Preferred: Tresiba">Insulin Degludec</span> <sup>Brand Preferred</sup> |                                                                         |                           |                           |
+| Lyumjev                                                                                     |                                                                         |                           |                           |
+| Novolin 70-30                                                                               |                                                                         |                           |                           |
+| Novolin N U-100                                                                             |                                                                         |                           |                           |
+| Novolin R U-100                                                                             |                                                                         |                           |                           |
+| Semglee <sup>BvG QL</sup>                                                                   | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Authorizations
 

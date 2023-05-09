@@ -34,7 +34,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Onzetra Xsail <sup>QL</sup>           | Sumatriptan Succinate Nasal Powder (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 | Reyvow                                |                                                    |                           |                           |
 | Sumatriptan / Naproxen                |                                                    |                           |                           |
-| Sumatriptan Nasal Spray <sup>QL</sup> | Sumatriptan Succinate Nasal Spray (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
+|<span title = "Brands Preferred: Imitrex Nasal Spray, Tosymra">Sumatriptan Nasal Spray</span> <sup>QL, Brand Preferred</sup>| Sumatriptan Succinate Nasal Spray (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
 | Trudhesa                              |                                                    |                           |                           |
 | Ubrelvy                               |                                                    |                           |                           |
 | Zolmitriptan                          |                                                    |                           |                           |

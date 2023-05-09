@@ -23,12 +23,12 @@ This is a subcategory of Topical Agents.
 
 ### Non-Preferred
 
-| Non-Preferred  | Generic Name | Quantity | Time (Days) |
-|:---------------|:-------------|:--------:|:-----------:|
-| Eurax          |              |          |             |
-| Ivermectin Lot |              |          |             |
-| Malathion      |              |          |             |
-| Spinosad       |              |          |             |
+| Non-Preferred                                                                           | Generic Name | Quantity | Time (Days) |
+|:----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Eurax                                                                                   |              |          |             |
+| Ivermectin Lot                                                                          |              |          |             |
+| Malathion                                                                               |              |          |             |
+| <span title = "Brand Preferred: Natroba">Spinosad</span> <sup>Brand Preferred</sup> |              |          |             |
 
 ## Authorizations 
 

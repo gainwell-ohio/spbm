@@ -12,7 +12,7 @@ This is a subcategory of Gastrointestinal Agents.
 ### Preferred
 
 | Preferred                      | Generic Name | Quantity | Time (Days) |
-| :----------------------------- | :----------- | :------: | :---------: |
+|:-------------------------------|:-------------|:--------:|:-----------:|
 | Lansoprazole Cap               |              |          |             |
 | Nexium Granules <sup>BvG</sup> |              |          |             |
 | Omeprazole Cap <sup>AR</sup>   |              |          |             |
@@ -21,18 +21,18 @@ This is a subcategory of Gastrointestinal Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                   | Generic Name | Quantity | Time (Days) |
-| :------------------------------ | :----------- | :------: | :---------: |
-| Aciphex                         |              |          |             |
-| Dexilant <sup>BvG</sup>         |              |          |             |
-| Esomeprazole                    |              |          |             |
-| Esomeprazole Granules           |              |          |             |
-| Lansoprazole ODT                |              |          |             |
-| Omeprazole Tab <sup>AR</sup>    |              |          |             |
-| Omeprazole / Sodium Bicarbonate |              |          |             |
-| Pantoprazole Packet             |              |          |             |
-| Prilosec Susp                   |              |          |             |
-| Rabeprazole                     |              |          |             |
+| Non-Preferred                                                                                            | Generic Name | Quantity | Time (Days) |
+|:---------------------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Aciphex                                                                                                  |              |          |             |
+| Dexilant <sup>BvG</sup>                                                                                  |              |          |             |
+| Esomeprazole                                                                                             |              |          |             |
+| <span title = "Brand Preferred: Nexium Granules">Esomeprazole Granules</span> <sup>Brand Preferred</sup> |              |          |             |
+| Lansoprazole ODT                                                                                         |              |          |             |
+| Omeprazole Tab <sup>AR</sup>                                                                             |              |          |             |
+| Omeprazole / Sodium Bicarbonate                                                                          |              |          |             |
+| <span title = "Brand Preferred: Protonix Pak">Pantoprazole Packet</span> <sup>Brand Preferred</sup>      |              |          |             |
+| Prilosec Susp                                                                                            |              |          |             |
+| Rabeprazole                                                                                              |              |          |             |
 
 ## Authorizations 
 
