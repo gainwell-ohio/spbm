@@ -5,11 +5,13 @@
 PA signatures
 
 ^^Anything with signature^^
+
 - ^^Signature only^^ (does not matter if we can read it) = ***accept*** (this is the prescriber submitting and box does NOT need checked)
 - ^^Signature^^ and printed name = ***accept*** (this is prescriber submitting and box does NOT need checked)
 - ^^Signature^^, printed name and box checked = ***accept*** (this is prescriber’s agent submitting since the box is checked)
 
 Anything ^^without^^ a signature
+
 - Nothing filled out and no box checked = ***Reject with fax back***
 - No signature = ***Reject with fax back***
 - Printed name only with no signature = ***Reject with fax back***
