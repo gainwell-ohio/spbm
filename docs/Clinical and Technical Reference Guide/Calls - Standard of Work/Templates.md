@@ -7,7 +7,7 @@ search:
 
 ## Callback Template
 
-sent to SPBMCallbackss@mygainwell.onmicrosoft.com
+sent to SPBMCallbacks@mygainwell.onmicrosoft.com
 
 - Contact ID:
 - Caller Name: 
