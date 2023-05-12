@@ -7,8 +7,9 @@ search:
 
 ## Callback Template
 
-sent to OHSupervisorsandSr.Techs@mygainwell.onmicrosoft.com
+sent to SPBMCallbackss@mygainwell.onmicrosoft.com
 
+- Contact ID:
 - Caller Name: 
 - Callback Number: 
 - Date/Time Call Received: (*what time did the agent receive the call*) 
