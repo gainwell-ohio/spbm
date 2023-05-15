@@ -59,11 +59,8 @@ Verified Coverage Per Enrollments: **please add the Plan name and dates**
 - Dx: ------- 
 - Qty/day supply: ------- 
 - Approval duration: ------- 
-- Approved per meeting criteria: ------- 
-- Trials of medications:------- 
-- Noted trials on PA form: ------- 
-- Claims of trials (drug name(s), dates paid, qty & d/s): ------- 
-- Reason for Approval: ------- 
+- Drug Name and Claim ID of Trials: -------
+- Reason for Approval (cite criteria): ------- 
 - Decision Tree Notes: -------
 
 ## Verbal PA
