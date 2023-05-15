@@ -16,14 +16,20 @@ Good morning!
 Please see communication below surrounding requests for brand name Adderall due to generic shortage. At this time, brand name will not hit for PA required, but will still hit for DAW 4 (Edit 7282) and 8 (Edit 7515) which may result in calls in to the call center. We can enter these overrides in and approve x 90 days if we receive a call for brand name requested.
 
 ^^Call center direction (calls received for brand name due to generic shortage)^^:
-1.	Please place edit override approval x 90 days for DAW 4 (Edit 7282) and/or 8 (Edit 7515) depending on how the claim is rejecting.
-2.	Have the pharmacy reprocess to get a paid claim.
+
+1. Please place edit override approval x 90 days for DAW 4 (Edit 7282) and/or 8 (Edit 7515) depending on how the claim is rejecting.
+
+2. Have the pharmacy reprocess to get a paid claim.
 
 ^^PA operations direction (PA’s received for brand name due to generic shortage)^^:
-1.	Look at PA and rejected claims to see if request is for brand name due to generic shortage (will reject for 7282 or 7515).
-2.	If rejecting for 7282 or 7515, please enter the appropriate ***edit override*** (7282 or 7515) and approve x 90 days. Please note internally on the EO that you are placing approval due to generic shortage.
-3.	Since you have placed the edit override to allow the claim to pay, you can select “Not required” for the PA and note ^^internally^^ that you have placed the appropriate EO to allow the brand name to pay for the member.
-4.	If the request is for a DAW1 situation (7235), please send to MEDREVIEW for pharmacist to determine if it is a true DAW1 request. If a true DAW1 request, the pharmacist will review against the medical necessity policy.
+
+1. Look at PA and rejected claims to see if request is for brand name due to generic shortage (will reject for 7282 or 7515).
+
+2. If rejecting for 7282 or 7515, please enter the appropriate ***edit override*** (7282 or 7515) and approve x 90 days. Please note internally on the EO that you are placing approval due to generic shortage.
+
+3. Since you have placed the edit override to allow the claim to pay, you can select “Not required” for the PA and note ^^internally^^ that you have placed the appropriate EO to allow the brand name to pay for the member.
+
+4. If the request is for a DAW1 situation (7235), please send to MEDREVIEW for pharmacist to determine if it is a true DAW1 request. If a true DAW1 request, the pharmacist will review against the medical necessity policy.
 
 Any questions, please don’t hesitate to reach out.
 
