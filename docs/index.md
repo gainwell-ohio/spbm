@@ -2,6 +2,12 @@
 
 This is a digital documentation example for Gainwell Technologies, in support of the Ohio State Pharmacy Benefit Management activity.
 
+==New to Evergreen?==
+
+For those who are new to Evergreen, there is an introduction video available that displays many of the site's current tools and features. It can be found by clicking "Learning Materials" on the top navigation panel.
+
+See the photo below for a visual explaing where to find this walkthrough video.
+
 ==Recent Update== (5/9/2023)
 
 Documents under "UPDL and Supporting Documents" now contain new information pertaining to the drugs labeled, "BvG" (Brand Preferred over the Generic). 
