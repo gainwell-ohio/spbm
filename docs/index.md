@@ -10,6 +10,8 @@ See the photo below for a visual explaing where to find this walkthrough video.
 
 ==Recent Update== (5/9/2023)
 
+![](new_to_evergreen.png)
+
 Documents under "UPDL and Supporting Documents" now contain new information pertaining to the drugs labeled, "BvG" (Brand Preferred over the Generic). 
 
 If a drug in the "preferred drugs" category is listed as "BvG", then the generic drug in the "non-preferred drugs" category will be listed as "Brand Preferred". Hovering over a drug that is labeled with "Brand Preferred" will also display the brand preferred drug associated with it.
