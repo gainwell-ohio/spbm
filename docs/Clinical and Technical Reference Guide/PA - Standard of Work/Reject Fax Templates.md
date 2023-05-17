@@ -23,4 +23,32 @@ search:
 
 ## Faxing a Reject Fax Process
 
-[Faxing a Reject Fax Process](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/g/personal/jessica_cain_gainwelltechnologies_com/EaELyV48HzdPtt0MYisjkSoBVUXey8O2X3eqx5lnqxXOKg?e=M9FGoE){:target="_blank" rel="noopener"}
+[Faxing a Reject Fax to Cancel a PA in the PA Queue](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EdecAOUIQB9FrG4x_QsjAAgBjXos8-nsfhqsSG9i83JqEQ?e=9iwXbj){:target="_blank" rel="noopener"}
+
+When working from the PA Queue, you may come across PA’s that need to be cancelled for the following reasons:
+
+- Member not eligible/Member has FFS
+-	Not a Pharmacy Benefit/Needs to go through Medical
+-	Duplicate PA on file
+
+In these cases, you will need to use the “Reject Fax” and complete the form by using the “Reject Fax Templates” located in the “Ohio Pharmacy Call Centers Notebook” in OneNote. 
+
+Before sending your fax, please copy you Reject Fax Template documentation from the fax and paste into your Notes section on the PA and state that a fax was sent. Then change the status to cancel and hit Submit.
+
+Once you have prepared the Reject Fax with proper documentation, you should save the document to your One Drive. Now you can send the fax using Open Text. [https://myportal.opentext.com/XddsPortal/](https://myportal.opentext.com/XddsPortal/){:target="_blank" rel="noopener"}
+
+-	Use Gainwell email as username and reset password if you don't have it
+-	Add appropriate Fax Number below Additional Recipients
+
+![](reject_fax1.png)
+
+-	Upload your Reject Fax by clicking on the plus sign next to the Attach Documents box
+
+![](reject_fax2.png)
+
+-	Choose Send Now for Delivery Schedule
+
+![](reject_fax3.png)
+
+-	Then click on Review & Send in the top right corner and then Submit
+-	You can then go to Check Job Status to make sure your fax goes through
