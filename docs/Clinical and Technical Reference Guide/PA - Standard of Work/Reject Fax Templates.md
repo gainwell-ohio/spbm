@@ -40,7 +40,15 @@ Once you have prepared the Reject Fax with proper documentation, you should save
 -	Use Gainwell email as username and reset password if you don't have it
 -	Add appropriate Fax Number below Additional Recipients
 
+![](reject_fax1.png)
 
+-	Upload your Reject Fax by clicking on the plus sign next to the Attach Documents box
 
+![](reject_fax2.png)
 
+-	Choose Send Now for Delivery Schedule
 
+![](reject_fax3.png)
+
+-	Then click on Review & Send in the top right corner and then Submit
+-	You can then go to Check Job Status to make sure your fax goes through
