@@ -7,6 +7,10 @@ search:
 
 This is a subcategory of Infectious Disease Agents.
 
+## Decision Tree
+
+- [Antivirals - Hepatitis C](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMTY5QzZMMjg1VTdPOFo0Uk5QRVdYSDFCTCQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
 ## Formulary
 
 ### Preferred

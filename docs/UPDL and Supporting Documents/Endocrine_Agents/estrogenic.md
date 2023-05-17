@@ -7,6 +7,10 @@ search:
 
 This is a subcategory of Endocrine Agents.
 
+## Decision Tree
+
+- [Endocrine - Estrogenic - Climara, Menostar, Minivelle, Vivelle-Dot](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNzNGUDA0R1ZQN005TkxQRTBFU1pXRlZCQiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
 ## Formulary
 
 ### Preferred

@@ -7,6 +7,14 @@ search:
 
 This is a subcategory of Endocrine Agents.
 
+## Decision Trees
+
+- [Endocrine - Osteoporosis - Alendronate Susp, Fosamax Plus D, Risedronate](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUODZTREFZRjc1RFE5QkRQSTUyNlo2UVFIUiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
+- [Endocrine - Osteoporosis - Forteo](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURUIxVVpFNzZDMFJXTTIzRU80WVU0OU1DTiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
+- [Endocrine - Osteoporosis - Tymlos](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQjJYTDdRTzBEWUgwVDQ5WEU5N1dXQUtMTyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
 ## Formulary
 
 ### Preferred

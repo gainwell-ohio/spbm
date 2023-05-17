@@ -9,7 +9,7 @@ This is a subcategory of Infectious Disease Agents.
 
 ## Decision Tree
 
-- [Antivirals - Herpes - Non-Preferred - Famciclovir, Sitavig](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURFQ1V1M0OVZBUFJUWVFTQzNSNzRaMDVKOSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Antivirals - Herpes - Non-Preferred - Famciclovir, Sitavig](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURFQ1V1M0OVZBUFJUWVFTQzNSNzRaMDVKOSQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 

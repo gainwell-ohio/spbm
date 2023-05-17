@@ -7,9 +7,15 @@ search:
 
 This is a subcategory of Analgesic Agents.
 
-## Decision Tree
+## Decision Trees
 
-- [Analgesic Agents - NSAID](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURVE2VUlEMVVWSFZVRjNHWUhSWEFIVlVDWiQlQCN0PWcu&topview=Preview){:target="_blank" rel="noopener"}
+- [Analgesic Agents - NSAID](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURVE2VUlEMVVWSFZVRjNHWUhSWEFIVlVDWiQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - NSAID - Naproxen Susp](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOVZUWVZISTc3N1o0MjRPQU83WUxJOE5KTyQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - NSAID - Pennsaid](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNlNCVzUwWTg2MUtLRzVQNUk5TTMyTDE1MSQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - NSAID - Diclofenac/Misoprostol, Diclofenac Gel 3%, Diclofenac Patch 1.3%, Diclotrex, Elyxyb, Fenoprofen 400mg, Ibuprofen/Famotidine, Ketorolac Tromethamine Nasal Spray, Ketoprofen, Licart Patch, Meloxicam Cap, Naproxen CR, Naproxen DR, Naproxen ER, Naproxen EC, Naproxen/Esomeprazole, Qmiiz ODT, Relafen DS, Zorvolex](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMTNVRUlNVFNFTjU2VFI5RDJERUY5QVQ5TiQlQCN0PWcu){:target="_blank" rel="noopener"}
 
 ## Formulary
 

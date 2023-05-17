@@ -7,6 +7,16 @@ search:
 
 This is a subcategory of Respiratory Agents.
 
+## Decision Trees
+
+- [Respiratory - Inhaled - Non-Preferred Anticholinergics - Lonhala Magnair, Tudorza, Yupelri, Preferred: Atrovent HFA, Combivent Respimat, Incruse Ellipta, Ipratropium, Ipratropium/Albuterol Nebulizer Sol, Spiriva](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNTNHVEFTQks1UjJPWDdHQzZYVEVTOERJNiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
+- [Respiratory - Inhaled - Non-Preferred Glucocorticoids - Aerospan HFA, Alvesco, Armonair Digihaler, Armonair Respiclick, Arnuity Ellipta, Asmanex HFA, Qvar (QL), Fluticasone HFA](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQVZETk1DMDMyNzZNRU1CVDdPVDJYRk9FVyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
+- [Respiratory - Inhaled - Non-Preferred ICS with LABAs - Airduo Digihaler, Airduo Respiclick, Breo Ellipta, Budesonide/Formoterol, Fluticasone/Salmeterol, Wixela Inhub](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOVRNR0JDODNNTDlXME9KNkQ4QUw3UVVFSiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
+- [Respiratory - Inhaled - Non-Preferred SABAs - Albuterol HFA, Levalbuterol Nebulizer Sol, Proair Digihaler, Proair Respiclick, Xopenex HFA](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM0lNNlczTEg1TVM3Slc5VTdFNVhYQTROTSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
 ## Formulary
 
 ### Preferred

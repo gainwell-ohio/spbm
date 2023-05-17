@@ -9,6 +9,18 @@ This is a subcategory of Analgesic Agents.
 
 **Ohio law requires prescribers to request and review an OARRS report before initially prescribing or personally furnishing any controlled substance, such as an opioid analgesic or a benzodiazepine, and gabapentin**
 
+## Decision Trees
+
+- [Analgesic Agents - Opioids - Butrans, Morphine Sulphate ER Tab, Nucynta](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNElUNVJKUFFOUTNSNkhXSUkxTjU3Nk1CRyQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - Opioids - Non-Preferred Products - Long Acting](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURVQwUlRYV1lXUlRPWUdRMEVPTzhTRzVQMyQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - Opioids - Preferred Products - Short Acting](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM0NJUkFUQUg4RlhMT1ZQWDJFVTExWEhNSSQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - Opioids - 6a v6 Short Acting](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMUNXTjhTT0tSTDRZMkY2RkJER1NUTFdaNCQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - Opioids - Transmucosal Fentanyl Products](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNk9QOFIxQ0szR0lPTjA1Tk1aRlBHTkE4QSQlQCN0PWcu){:target="_blank" rel="noopener"}
+
 ## Formulary
 
 ### Preferred

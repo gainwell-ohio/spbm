@@ -7,9 +7,9 @@ search:
 
 This is a subcategory of Ophthalmic Agents.
 
-## Decision Trees
+## Decision Tree
 
-- [Antihistamines & Mast Cell Stabilizers- Non-Preferred - Alocril, Alomide, Bepotastine*, Epinastine, Zerviate](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUODFHRkdIM1VVVVZIOTJLS0hYWE5UNk9USyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Ophthalmic - Antihistamines & Mast Cell Stabilizers- Non-Preferred - Alocril, Alomide, Bepotastine*, Epinastine, Zerviate](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUODFHRkdIM1VVVVZIOTJLS0hYWE5UNk9USyQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 

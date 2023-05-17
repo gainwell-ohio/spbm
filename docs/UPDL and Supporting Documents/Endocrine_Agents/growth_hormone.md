@@ -8,8 +8,10 @@ search:
 This is a subcategory of Endocrine Agents.
 
 ## Decision Trees
-- [Growth Hormone- Non-Preferred Agents - Humatrope, Nutropin, Omnitrope, Saizen, Serostim, Skytrofa, Zomacton](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURFdFUkQ4Q0lTM0FYVFU1QjdRNTg5QzI4SSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Growth Hormone- Preferred Agents - Genotropin, Norditropin](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNDQ0NDBBT1JPRTZLTDdWM0RGUFRIN1JaOSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+
+- [Endocrine - Growth Hormone- Non-Preferred Agents - Humatrope, Nutropin, Omnitrope, Saizen, Serostim, Skytrofa, Zomacton](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURFdFUkQ4Q0lTM0FYVFU1QjdRNTg5QzI4SSQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Endocrine - Growth Hormone- Preferred Agents - Genotropin, Norditropin](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNDQ0NDBBT1JPRTZLTDdWM0RGUFRIN1JaOSQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
