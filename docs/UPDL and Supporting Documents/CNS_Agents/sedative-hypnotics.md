@@ -9,8 +9,9 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ## Decision Trees
 
-- [Sedative-Hypnotics, Non-Barbiturate- Controlled Medications – Belsomra, Dayvigo, Eszopiclone, Intermezzo, Quviviq, Temazepam 7.5, Temazepam 22mg, Zolpidem ER, Zolpidem SL](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMlpFWDc3MDExSjg2S1hUOUY4TU5LNjRHNiQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Sedative-Hypnotics, Non-Barbiturate- Non-Controlled Medications – Doxepin, Ramelteon](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURTBUS0tFOUZGUlpYTkpJMVNGS09RR0YyTSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [CNS - Sedative-Hypnotics, Non-Barbiturate - Controlled Medications – Belsomra, Dayvigo, Eszopiclone, Intermezzo, Quviviq, Temazepam 7.5, Temazepam 22mg, Zolpidem ER, Zolpidem SL](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMlpFWDc3MDExSjg2S1hUOUY4TU5LNjRHNiQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [CNS - Sedative-Hypnotics, Non-Barbiturate - Non-Controlled Medications – Doxepin 3 and 6mg, Ramelteon](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURTBUS0tFOUZGUlpYTkpJMVNGS09RR0YyTSQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 

@@ -7,6 +7,18 @@ search:
 
 This is a subcategory of Analgesic Agents.
 
+## Decision Trees
+
+- [Analgesic Agents - Gout - Mitigare](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQldMQ1JLVlg4UEJKOUlBOTdYTE1DWlhHRSQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - Gout - Colchicine Tablets, Colcrys Tab](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUODMwUDJNWE9MMzBMRDdMVllJWEpBWU9JRCQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - Gout - Febuxostat, Allopurinol 200mg](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOUlUQjlSTUIxNjRaNExLMjZFN0RUNTlZRSQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - Gout - Gloperba Susp](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM0tTRVpKOVNCQUNNQU1OMkhOWDU4UlVXTyQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - Gout - Probenecid/Colchicine](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMUVWMjlORzhKVjk3TEoyQVpXVjM2NVVFRyQlQCN0PWcu){:target="_blank" rel="noopener"}
+
 ## Formulary
 
 ### Preferred

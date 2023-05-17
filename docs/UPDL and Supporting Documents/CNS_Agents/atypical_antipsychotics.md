@@ -7,6 +7,24 @@ search:
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
+## Decision Trees
+
+- [CNS - Atypical Antipsychotics - Non-Preferred- Aripiprazole Sol, Asenapine, Caplyta, Clozapine ODT Rapdis, Lurasidone, Olanzapine ODT, Paliperidone, Rexulti, Secuado, Versacloz, Vraylar](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMzYwVjA5NVhMMEtCQlFRR05CNUs0QldLWiQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [CNS - Atypical Antipsychotics - Abilify Mycite](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMTE5Q01HTVBJNzFVQlRWVlZPRUFBMEE5NyQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [CNS - Atypical Antipsychotics -Fluoxetine/Olanzapine](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMURVR0dISVBVSFhOUDM4UDdSNFROR1U3OSQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [CNS - Atypical Antipsychotics - Invega Hafyera](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNU0wVThMU1A2RUFUVjRLRlBLNkpNMkNVTiQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [CNS - Atypical Antipsychotics - Lybalvi](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNEpCUFJXQ1lLQkczWDI5Vk9BMzNWRUdJMCQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [CNS - Atypical Antipsychotics - Nuplazid](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNkhEUkUwRzlRTVJUOE5SVzc5SU5CVEVHWSQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [CNS - Atypical Antipsychotics - Step Therapy Products](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQTZNWVlDN05YTFc1REtTMUs4VjgxUkVXVCQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [CNS - Atypical Antipsychotics - Zyprexa Relprevv](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURUMxV09QUEI2REhWTEhUQkExRUY5Q01PRiQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
 ## Formulary
 
 ### Preferred

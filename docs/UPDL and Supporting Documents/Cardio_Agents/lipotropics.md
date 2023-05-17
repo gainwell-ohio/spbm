@@ -9,14 +9,21 @@ This is a subcategory of Cardiovascular Agents.
 
 ## Decision Trees
 
-- [Lipotropics- ATP Citrate Lyase (ACL) Inhibitors - Nexletol, Nexlizet](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOFo5N05aUFVBVFY5SERQNVpTSjVNQVgwSyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Lipotropics- Bile Acid Sequestrants – Colesevelam, Colestipol Granules](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMUxSR0VUVzVLOEpOUlBEODhRTlVKODVGNyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Lipotropics- Fibrates - Fenofibrate Cap, Fenofibrate Tab, Fenofibric Acid](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOUc4WUEzTzBBQTVTOEQ2SkFZQ0RWRzc2ViQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Lipotropics- HMG-CoA Reductase Inhibitors - Altoprev, Ezallor, Fluvastatin, Livalo, Zypitamag Amlodipine/Atorvastatin, Ezetimibe/Simvastatin](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMTFHS1ZESkJXVk1IUlI3VkswUk0yNTdYVCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Lipotropics - Juxtapid](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNENWSlRHTko5MUNNVlU5SVRPVVBXNlZUVCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Lipotropics- Niacin Derivatives - Niacin ER Tab](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQlRWNDZDU0VCQkNWM0hMNFVGMDM5UEQxOSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Lipotropics- ATP Citrate Lyase (ACL) Inhibitors - Nexletol, Nexlizet](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOFo5N05aUFVBVFY5SERQNVpTSjVNQVgwSyQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Lipotropics- Bile Acid Sequestrants – Colesevelam, Colestipol Granules](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMUxSR0VUVzVLOEpOUlBEODhRTlVKODVGNyQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Lipotropics- Fibrates - Fenofibrate Cap, Fenofibrate 40, 54, 120, 160mg Tab, Fenofibric Acid](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOUc4WUEzTzBBQTVTOEQ2SkFZQ0RWRzc2ViQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Lipotropics- HMG-CoA Reductase Inhibitors - Altoprev, Ezallor, Fluvastatin, Livalo, Zypitamag Amlodipine/Atorvastatin, Ezetimibe/Simvastatin](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMTFHS1ZESkJXVk1IUlI3VkswUk0yNTdYVCQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Lipotropics - Juxtapid](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNENWSlRHTko5MUNNVlU5SVRPVVBXNlZUVCQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Lipotropics- Niacin Derivatives - Niacin ER Tab](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQlRWNDZDU0VCQkNWM0hMNFVGMDM5UEQxOSQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
 - [Lipotropics- Omega 3 Fatty Acids - Lovaza, Vascepa](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUVVUkVURkRWVEpVMjhLODNGWDMzTFdWWSQlQCN0PWcu){ :target="_blank" rel="noopener"}
-- [Lipotropics- PCSK-9 Inhibitors- Praluent, Repatha](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMVNHSEg4TFFJTDZIWkdTUFY4TVM3NlZXWiQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+
+- [Lipotropics- PCSK-9 Inhibitors- Praluent, Repatha](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMVNHSEg4TFFJTDZIWkdTUFY4TVM3NlZXWiQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 

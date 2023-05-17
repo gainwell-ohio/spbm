@@ -9,8 +9,9 @@ This is a subcategory of Endocrine Agents.
 
 ## Decision Trees
 
-- [Diabetes - Non-Insulin- Non-Preferred Agents- Adlyxin, Alogliptin, Bydureon Bcise, Glucophage, Metformin ER (Generic of Fortamet, Glumetza), Metformin Sol, Mounjaro, Onglyza, Ozempic, Rybelsus, Steglatro, Symlinpen](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMVIwMlBWT1M5STNTNkdPTFBUVE5OQUdESyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Diabetes - Non-Insulin- Non-Preferred Agents – Combination Agents- Alogliptin/Metformin, Glimepiride/Pioglitazone, Glyxambi, Invokamet XR, Jentadueto XR, Kombiglyze XR, Pioglitazone/Alogliptin, Qtern, Segluromet, Soliqua, Steglujan, Synjardy XR, Trijardy XR, Xigduo XR, Xultophy](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUIzRENINzhMNkpFQlQ1Rzc3NENUQVI5OCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Endocrine - Diabetes - Non-Insulin- Non-Preferred Agents- Adlyxin, Alogliptin, Bydureon Bcise, Glucophage, Metformin ER (Generic of Fortamet, Glumetza), Metformin Sol, Mounjaro, Onglyza, Ozempic, Rybelsus, Steglatro, Symlinpen](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMVIwMlBWT1M5STNTNkdPTFBUVE5OQUdESyQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Endocrine - Diabetes - Non-Insulin- Non-Preferred Agents – Combination Agents- Alogliptin/Metformin, Glimepiride/Pioglitazone, Glyxambi, Invokamet XR, Jentadueto XR, Kombiglyze XR, Pioglitazone/Alogliptin, Qtern, Segluromet, Soliqua, Steglujan, Synjardy XR, Trijardy XR, Xigduo XR, Xultophy](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUIzRENINzhMNkpFQlQ1Rzc3NENUQVI5OCQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 

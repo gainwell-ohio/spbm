@@ -9,7 +9,7 @@ This is a subcategory of Respiratory Agents.
 
 ## Decision Tree
 
-- [Nasal Preparations - NP Criteria - Azelastine / Fluticasone Spray, Beconase AQ, Mometason, Omnaris, Qnasl, Xhance, Zetonna](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNjcxMjRWQTRKTzNXNkJEMUdaVjhBNDJMQyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Respiratory - Nasal Preparations - NP Criteria - Azelastine/Fluticasone Spray, Beconase AQ, Mometason, Omnaris, Qnasl, Xhance, Zetonna](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNjcxMjRWQTRKTzNXNkJEMUdaVjhBNDJMQyQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 

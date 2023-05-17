@@ -7,6 +7,12 @@ search:
 
 This is a subcategory of Infectious Disease Agents.
 
+## Decision Trees
+
+- [Antifungals - Non-Preferred – Brexafemme, Cresemba, Itraconazole, Noxafil Susp, Oravig, Posaconazole, Tolsura, Voriconazole](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNzZUUFFaSlQ0WkZWSjVQMTM3Ujc1RzYwSiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
+- [Antifungals - Vivjoa](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQjZQSEpaT1BJREUzQU5OT1BCVzE2WkRWRiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
 ## Formulary
 
 ### Preferred
