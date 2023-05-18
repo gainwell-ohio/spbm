@@ -77,7 +77,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Oxtellar XR                                                                                          |              |          |             |
 | Peganone                                                                                             |              |          |             |
 | Qudexy XR <sup>BvG</sup>                                                                             |              |          |             |
-| <span title = "Brand Pre ferred: Banzel Tab">Rufinamide Tab, Soln</span> <sup>Brand Preferred</sup>  |              |          |             |
+| <span title = "Brand Pre ferred: Banzel Tab">Rufinamide Tab, Soln</span> <sup>Brand Preferred Tab only</sup>  |              |          |             |
 | Spritam                                                                                              |              |          |             |
 | Sympazan                                                                                             |              |          |             |
 | Tiagabine                                                                                            |              |          |             |
