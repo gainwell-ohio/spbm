@@ -78,7 +78,7 @@ Verified Coverage Per Enrollments: **please add the Plan name and dates**
 - Previously approved:  ------- 
 - Claims of requested drug:  ------- 
 - Claims of trials:  ------- 
-- Noted trails on PA form:  -------- 
+- Noted trials on PA form:  -------- 
 - Diagnosis (+ ICD 10 code): -------- 
 - Notes:  ------- 
 - Decision Tree Notes: ------- 
