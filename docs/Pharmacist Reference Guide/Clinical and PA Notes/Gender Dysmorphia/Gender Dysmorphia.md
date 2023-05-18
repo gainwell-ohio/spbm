@@ -13,9 +13,9 @@ References:
 
 Approval for 18yo and up
 
-[Gender Affirming Treatment](file:///C:/Users/cnguyen/AppData/Local/Packages/Microsoft.Office.OneNote_8wekyb3d8bbwe/LocalState/EmbeddedFileFolder/7/Gender-Affirming%20Therapy.pdf){ :target="_blank" rel="noopener"}
+[Gender Affirming Treatment](https://mygainwell-my.sharepoint.com/:b:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Gender-Affirming%20Therapy.pdf?csf=1&web=1&e=P5UIWV){ :target="_blank" rel="noopener"}
 
-[Transgender Medicine](file:///C:/Users/cnguyen/AppData/Local/Packages/Microsoft.Office.OneNote_8wekyb3d8bbwe/LocalState/EmbeddedFileFolder/8/AACE%20Transgender%20Health%20Slide%20Set%20v3.pdf){ :target="_blank" rel="noopener"}
+[Transgender Medicine](https://mygainwell-my.sharepoint.com/:b:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/AACE%20Transgender%20Health%20Slide%20Set%20v3.pdf?csf=1&web=1&e=6neFS5){ :target="_blank" rel="noopener"}
 
 Feminizing Hormone Therapy:
 
