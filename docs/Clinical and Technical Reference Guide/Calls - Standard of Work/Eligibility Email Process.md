@@ -5,7 +5,11 @@ search:
 
 # Eligibility Email Process
 
-**Send eligibility concerns regarding 7772 to** SPBMEligibility@gainwelltechnologies.com
+-	Agents will complete the Callback procedure and add eligibility template 
+- The Callback Team will be taking the lead on eligibility from now on. 
+- CC your leads and for Alorica CC your chat SME who is helping you and your GM 
+
+**Send eligibility concerns regarding 7772 to ** SPBMEligibility@gainwelltechnologies.com
 
 **Please ensure when you are sending ANY eligibility concerns to this email box you are:**
 
