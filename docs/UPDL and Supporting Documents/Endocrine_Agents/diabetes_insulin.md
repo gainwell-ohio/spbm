@@ -8,6 +8,7 @@ search:
 This is a subcategory of Endocrine Agents.
 
 ## Decision Trees
+
 - [Endocrine - Diabetes - Insulin- Non-Preferred Agents - Admelog, Basaglar, Fiasp, Humalog U-200, Humulin N U-100, Humulin R U-100, Insulin Glargine (Lantus (Preferred)), Lyumjev, Novolin 70-30, Novolin N U-100, Novolin R U-100, Semglee](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQlFCQUYzNFJMWk9JTTQyVUJOODBJREkwRSQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 - [Endocrine - Diabetes - Insulin- Non-Preferred Agents - Inhaled Insulin - Afrezza](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQTc2TExZWEIyWEhaMEtERTlVU1RBMExaWCQlQCN0PWcu){ :target="_blank" rel="noopener"}
