@@ -9,7 +9,7 @@ This is a subcategory of Cardiovascular Agents.
 
 ## Decision Trees
 
-- [Antiarrhythmics Cardiovascular - Amiodarone 100, 400mg](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM1lMQjdHVFZOQVBYMjREQkdEUDYxSzRJMSQlQCN0PWcu){ :target="_blank" rel="noopener"}
+- [Cardiovascular - Antiarrhythmics - Amiodarone 100, 400mg](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM1lMQjdHVFZOQVBYMjREQkdEUDYxSzRJMSQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 - [Cardiovascular Antiarrhythmics - Multaq](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMFhJVUhGNE9CWklFUEdDODVJUElRSEFSSCQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
