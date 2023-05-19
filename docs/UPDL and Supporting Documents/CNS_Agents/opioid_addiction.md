@@ -9,6 +9,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 ## Decision Trees
 
 - [CNS - Medication Assisted Treatment of Opioid Addiction - Buprenorphine](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUODI2WDdYQTlKUlY3MkxUNjIzVTEzOVROTCQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
 - [CNS - Medication Assisted Treatment of Opioid Addiction - Lucemyra](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNzBLTExYQTlGTVFXUFZRWVpUWDNUNEFJRiQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
