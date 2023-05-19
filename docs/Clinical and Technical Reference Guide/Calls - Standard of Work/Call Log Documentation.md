@@ -13,7 +13,7 @@ search:
 - Address:  
 - Member phone number:  
 - Authorization form on file:  
-- Prescriber/Pharmacy/Facility:  
+- Prescriber/Pharmacy/Facility/Member:  
 - NPI:  
 - Phone number:  
 - Reason for call:  
