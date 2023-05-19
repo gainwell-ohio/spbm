@@ -5,9 +5,9 @@ search:
 
 # Eligibility Email Process
 
-**•	Agents will complete the Callback procedure and add eligibility template 
-•	The Callback Team will be taking the lead on eligibility from now on. 
-•	CC your leads and for Alorica CC your chat SME who is helping you and your GM 
+-	Agents will complete the Callback procedure and add eligibility template 
+- The Callback Team will be taking the lead on eligibility from now on. 
+- CC your leads and for Alorica CC your chat SME who is helping you and your GM 
 
 **Send eligibility concerns regarding 7772 to ** SPBMEligibility@gainwelltechnologies.com
 
