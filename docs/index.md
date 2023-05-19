@@ -8,9 +8,9 @@ For those who are new to Evergreen, there is an introduction video available tha
 
 See the photo below for a visual explaing where to find this walkthrough video.
 
-==Recent Update== (5/9/2023)
-
 ![](new_to_evergreen.png)
+
+==Recent Update== (5/9/2023)
 
 Documents under "UPDL and Supporting Documents" now contain new information pertaining to the drugs labeled, "BvG" (Brand Preferred over the Generic). 
 
