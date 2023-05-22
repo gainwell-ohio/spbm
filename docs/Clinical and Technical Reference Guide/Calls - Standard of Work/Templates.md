@@ -31,7 +31,7 @@ sent to SPBMCallbacks@mygainwell.onmicrosoft.com
 - Drug Name & Claim ID:  
 - Date of Service to be reversed:
 
-## Teams Question
+## Teams Question/Call Log Documentation
 
 (use this when reaching out to Sr. Techs, Supervisor, RPH)
 
