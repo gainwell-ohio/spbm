@@ -33,7 +33,7 @@ sent to SPBMCallbacks@mygainwell.onmicrosoft.com
 
 ## Teams Question/Call Log Documentation
 
-(use this when reaching out to Sr. Techs, Supervisor, RPH)
+(use this when logging calls in Vue360rx or reaching out to Sr. Techs, Supervisor, and RPH)
 
 - **Caller Info:** 
     - Caller Name/Title:  
