@@ -7,7 +7,7 @@
 - The supervisor will need to be the one to determine if this is an isolated issue, or potentially widespread prior to submitting the ticket (we need as much information as possible to submit these).
 
 2.	Once the supervisor/lead has gathered all of the pertinent information to be submitted, please follow these instructions below:
--	Submit the ticket to [OH_MITS_Service_Desk](ohio_mits_servicedesk_group@gainwelltechnologies.com){:target="_blank" rel="noopener"}
+-	Submit the ticket to OH_MITS_Service_Desk: ohio_mits_servicedesk_group@gainwelltechnologies.com
 -	CC the following individuals: Aaron Banks, Cassandra Roach, Denise Olusula, OH SPBM PA Pharmacist, OH Supervisors and Sr. Techs, Dan Gonos, Chad Rogers, Angie Stevens and Melissa Rutledge.
 -	If the email contains any PHI, please send encrypted!
 -	Include as much information as possible so that the service desk has everything they need to know
