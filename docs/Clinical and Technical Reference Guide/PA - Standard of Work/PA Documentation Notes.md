@@ -112,5 +112,4 @@ Verified Coverage Per Enrollments: **please add the Plan name and dates**
 - Alternate Fax # Verified (Y/N):  ------- 
 - Drug name: ------- 
 - Previously approved/received PA(s): Auth ID: ------- 
-- Reason: ------- 
-- OpenText job number: ------- 
+- Reason: -------  
