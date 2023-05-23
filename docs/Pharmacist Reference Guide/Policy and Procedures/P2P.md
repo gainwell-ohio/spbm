@@ -10,3 +10,21 @@ search:
 Director: Dr. James Wood 
 
 james.wood@gainwelltechnologies.com
+
+## Information to be attached for a P2P Medical Director Request
+
+Dr. Wood asked me to remind the group to please include as much documentation as possible when sending him P2P requests. He does NOT have access to VUE360Rx; he is unable to see prior denials and/or subsequent upheld appeals. 
+
+***Documentation should include the following:*** 
+- name and DOB of member 
+- provider name and phone number
+- medical records (chart/progress notes, if available) 
+- denial rationale (your note) 
+- preferred medications (if applicable) 
+
+
+Thank you.
+
+___________________________________________
+Brian Moore, BS, PharmD
+
