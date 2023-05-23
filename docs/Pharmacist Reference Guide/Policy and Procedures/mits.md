@@ -1,6 +1,8 @@
-# Directions for submission of MITS tickets
+# MITS tickets
 
 [Directions for submission of MITS tickets 5/23/23](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Directions%20for%20submission%20of%20MITS%20tickets%20.msg?csf=1&web=1&e=wSUz1u){ .md-button .md-button--primary target="_blank" rel="noopener"}
+
+## Directions for submission of MITS tickets 5/23/23
 
 1.	Report the issue your immediate supervisor/supervisor on duty via Teams chat (tech supervisors/leads are available 24/7). Please provide as much detail as possible surrounding your issue (when it started, VPN you are using, browser you are using, etc.). If you do not report anything, we assume that your system is working correctly for you.
 - Pharmacists – please outreach Justin, Rachel or myself. If we happen to not be available via Teams chat, after 11pm, please place the ticket yourself (use below instructions).
