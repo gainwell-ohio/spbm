@@ -19,12 +19,10 @@ search:
 
 ## Schedule
 
-[Schedule- Flex, PTO, Switches](https://mygainwell-my.sharepoint.com.mcas.ms/:x:/r/personal/cassandra_roach_gainwelltechnologies_com/_layouts/15/doc2.aspx?sourcedoc=%7B18F055B7-E916-4C9D-8FFD-57510789B0F9%7D&file=New%2012%20week%20base%20schedule%20start%203-20%20-%20master%20copy.xlsx&action=default&mobileredirect=true&cid=339f2504-cb61-4204-aa9a-31252e311a3f){:target="_blank" rel="noopener"}
+[Schedule- Flex, PTO, Switches](https://mygainwell-my.sharepoint.com.mcas.ms/:x:/g/personal/jeanine_heedles_gainwelltechnologies_com/ESETEoJ3IXJEruWcatNK-UMBRqV7it4INq0VlYqE4ObSxQ?ovuser=c663f89c-ef9b-418f-bd3d-41e46c0ce068%2Cjeanine.heedles%40gainwelltechnologies.com&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA0MDIwMjcwNSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D){:target="_blank" rel="noopener"}
 
-- ***PTO*** – once your PTO has been approved in SAP, it is your responsibility to notate it (notate as “PTO”) on the schedule in ^^GREEN^^. [Procedure to request PTO 5/19/23](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/__IMPORTANT%20-%20PLEASE%20READ%20__%20ALL%20PTO%20REQUESTS.msg?csf=1&web=1&e=ib8Rvz){ .md-button .md-button--primary target="_blank" rel="noopener"}
-- ***Flexes*** – Please message me in Teams with your flex request. ==Once your supervisor has given you approval==, please update it on the schedule in ^^BLUE^^.
-- ***Switches*** – If you have found your switch, there is no need to email me as long as you both mutually agree. Each of you must update the switch on the schedule in ^^RED^^. 
-
+- [Procedure to request Schedule Changes 5/19/23](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/__IMPORTANT%20-%20PLEASE%20READ%20__%20ALL%20PTO%20REQUESTS.msg?csf=1&web=1&e=ib8Rvz){ .md-button .md-button--primary target="_blank" rel="noopener"}
+- Please notify Cassandra, Justin and Jeanine when requesting scheduling updates
 
 [Sign up for O/N, Holiday](https://mygainwell-my.sharepoint.com.mcas.ms/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVsbwDWlIg5KsDj-gR8UjkgBV4QYb9AUI5B8Jlbpk7SjeA?e=4%3AXMs5Gp&at=9&CID=5CCE8570-00ED-4C3F-A4B0-109F1B77EA06&wdLOR=c56C50853-6098-4DA1-AE17-FC1333C71951){:target="_blank" rel="noopener"}
 
