@@ -48,6 +48,7 @@ sent to SPBMCallbacks@mygainwell.onmicrosoft.com
   - NPI:
   - Drug Name:  
   - Reason for Call:  
+  - Auth ID number:
   - Claim ID:  
   - Rejection Reason/Edit:  
   - Claims Hx:  
