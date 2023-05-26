@@ -9,7 +9,7 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 
 ## Note sent to RPH for MEDREVIEW
 
-- Verified Coverage Per Enrollments: **please add the Plan name and dates** 
+- Verified Coverage Per Enrollments: ****please add the Plan name and dates** **
 - Medicaid ID Match? (Y/N):  ------- 
 - Alternate Fax # Verified (Y/N):  ------- 
 - Dx: ------- 
@@ -49,7 +49,7 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 
 ## Approval Notes for PA**
 
-- Verified Coverage Per Enrollments: **please add the Plan name and dates**
+- Verified Coverage Per Enrollments: ****please add the Plan name and dates****
 - Medicaid ID Match? (Y/N):  ------- 
 - Alternate Fax # Verified (Y/N):  ------- 
 - Drug name: ------- 
@@ -62,7 +62,7 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 
 ## Verbal PA
  
-- Verified Coverage Per Enrollments: **please add the Plan name and dates**
+- Verified Coverage Per Enrollments:** **please add the Plan name and dates****
 - Medicaid ID Match? (Y/N):  ------- 
 - Alternate Fax # Verified (Y/N):  ------- 
 - Drug name:  ------- 
@@ -81,7 +81,7 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 
 ## Canceled PA Template
 
-- Verified Coverage Per Enrollments: **please add the Plan name and dates**
+- Verified Coverage Per Enrollments: ****please add the Plan name and dates****
 - Medicaid ID Match? (Y/N):  ------- 
 - Alternate Fax # Verified (Y/N):  ------- 
 - Drug name: ------- 
@@ -91,7 +91,7 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 
 ## Admin Denial Note sent to MEDREVIEW
 
-- Verified Coverage Per Enrollments: **please add the Plan name and dates**
+- Verified Coverage Per Enrollments: ****please add the Plan name and dates****
 - Medicaid ID Match? (Y/N):  ------- 
 - Alternate Fax # Verified (Y/N):  ------- 
 - Drug name: ------- 
@@ -100,7 +100,7 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 
 ## Not Required Template**
 
-- Verified Coverage Per Enrollments: **please add the Plan name and dates**
+- Verified Coverage Per Enrollments: ****please add the Plan name and dates****
 - Medicaid ID Match? (Y/N):  ------- 
 - Alternate Fax # Verified (Y/N):  ------- 
 - Drug name: ------- 
