@@ -9,8 +9,7 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 
 ## Note sent to RPH for MEDREVIEW
 
-Verified Coverage Per Enrollments: **please add the Plan name and dates** 
-
+- Verified Coverage Per Enrollments: **please add the Plan name and dates** 
 - Medicaid ID Match? (Y/N):  ------- 
 - Alternate Fax # Verified (Y/N):  ------- 
 - Dx: ------- 
@@ -39,8 +38,7 @@ Verified Coverage Per Enrollments: **please add the Plan name and dates**
 
 ## Brand Request sent to MEDREVIEW**
 
-Verified Coverage Per Enrollments: **please add the Plan name and dates**
-
+- Verified Coverage Per Enrollments: **please add the Plan name and dates**
 - Medicaid ID Match? (Y/N):  ------- 
 - Alternate Fax # Verified (Y/N):  ------- 
 - Drug name:  ------- 
@@ -51,8 +49,7 @@ Verified Coverage Per Enrollments: **please add the Plan name and dates**
 
 ## Approval Notes for PA**
 
-Verified Coverage Per Enrollments: **please add the Plan name and dates**
-
+- Verified Coverage Per Enrollments: **please add the Plan name and dates**
 - Medicaid ID Match? (Y/N):  ------- 
 - Alternate Fax # Verified (Y/N):  ------- 
 - Drug name: ------- 
@@ -65,8 +62,7 @@ Verified Coverage Per Enrollments: **please add the Plan name and dates**
 
 ## Verbal PA
  
-Verified Coverage Per Enrollments: **please add the Plan name and dates**
-
+- Verified Coverage Per Enrollments: **please add the Plan name and dates**
 - Medicaid ID Match? (Y/N):  ------- 
 - Alternate Fax # Verified (Y/N):  ------- 
 - Drug name:  ------- 
@@ -85,8 +81,7 @@ Verified Coverage Per Enrollments: **please add the Plan name and dates**
 
 ## Canceled PA Template
 
-Verified Coverage Per Enrollments: **please add the Plan name and dates**
-
+- Verified Coverage Per Enrollments: **please add the Plan name and dates**
 - Medicaid ID Match? (Y/N):  ------- 
 - Alternate Fax # Verified (Y/N):  ------- 
 - Drug name: ------- 
@@ -96,8 +91,7 @@ Verified Coverage Per Enrollments: **please add the Plan name and dates**
 
 ## Admin Denial Note sent to MEDREVIEW
 
-Verified Coverage Per Enrollments: **please add the Plan name and dates**
-
+- Verified Coverage Per Enrollments: **please add the Plan name and dates**
 - Medicaid ID Match? (Y/N):  ------- 
 - Alternate Fax # Verified (Y/N):  ------- 
 - Drug name: ------- 
@@ -106,8 +100,7 @@ Verified Coverage Per Enrollments: **please add the Plan name and dates**
 
 ## Not Required Template**
 
-Verified Coverage Per Enrollments: **please add the Plan name and dates**
-
+- Verified Coverage Per Enrollments: **please add the Plan name and dates**
 - Medicaid ID Match? (Y/N):  ------- 
 - Alternate Fax # Verified (Y/N):  ------- 
 - Drug name: ------- 
