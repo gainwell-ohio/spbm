@@ -19,12 +19,16 @@ meaning the plan prefers the medication. For diabetic testing supplies, all the 
 Again, when moving from fax/pending or anywhere else in Vue360rx, please use GCNseqNO, and if approving please use the guidance for the appropriate times. If you have questions in specificity
 for processing/approving/denying(pharmacists), please contact your leads.
 
-#DRUGS LOADED BY HICL
+<img width="494" alt="HICL" src="https://github.com/gainwell-ohio/spbm/assets/131285555/881e06bb-5c9f-4ae3-8bc7-b7e76dd7359f">
+
+##DRUGS LOADED BY HICL
 
 Dupixent
+
 Rinvoq
 
-Adbry                    
+Adbry
+
 Siliq
 
 Enbrel                   
