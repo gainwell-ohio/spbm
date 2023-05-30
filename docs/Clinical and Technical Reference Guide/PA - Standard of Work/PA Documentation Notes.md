@@ -56,7 +56,7 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 - Dx: ------- 
 - Qty/day supply: ------- 
 - Approval duration: ------- 
-- Drug Name and Claim ID of Trials: -------
+- Claims of trials (drug name(s), dates paid, qty & d/s): -------
 - Reason for Approval (cite criteria): ------- 
 - Decision Tree Notes: -------
 
