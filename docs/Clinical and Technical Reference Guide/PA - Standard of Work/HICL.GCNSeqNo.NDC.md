@@ -21,39 +21,67 @@ for processing/approving/denying(pharmacists), please contact your leads.
 
 **DRUGS LOADED BY HICL
 
--Dupixent           -Rinvoq
--Adbry              -Siliq
--Enbrel             -Simponi
--Kineret            -Skyrizi 
--Otezla             -Sotyktu                                      
--Taltz              -Stelara
--Actemra            -Tremfya
--Cibinqo            -Humira
--Cimzia             -Factor PAs
--Cosentyx           -Spravato
--Ilumya             -Mounjaro
--Kevzara            -Growth hormones (for shortage)
--Olumiant           -Brand Drugs with multiple dosages (Synthroid 100mcg 6 days a week, and 125 mcg one day)
--Orencia            -Synagis 100 and 50 vials when using a dosage between 100 and 150 to use both vials to get dosage 
+Dupixent
+Rinvoq
+Adbry                    
+Siliq
+Enbrel                   
+Simponi
+Kineret                  
+Skyrizi 
+Otezla  
+Sotyktu                                      
+Taltz
+Stelara
+Actemra
+Tremfya
+Cibinqo 
+Humira
+Cimzia
+Factor PAs
+Cosentyx
+Spravato
+Ilumya
+Mounjaro
+Kevzara
+Growth hormones (for shortage)
+Olumiant
+Orencia   
+Brand Drugs with multiple dosages (Synthroid 100mcg 6 days a week, and 125 mcg one day)
+Synagis 100 and 50 vials when using a dosage between 100 and 150 to use both vials to get dosage 
 
 
 **DRUGS LOADED BY NDC
-
--Divigel            -Infectious Disease Agents: Antibiotics - Inhaled 
--Epogen             -Elestrin
--MItigare           -Estrogel
--Pennsaid           -Dexilant
--Butrans            -Intelence
--Vascepa            -Selzentry
--Tracleer           -Tobradex ST
--Qudexy             -Restasis Trays
--Trokendi XR        -Timoptic
--Viibryd            -Zioptan
--Daytrana           -Breo Ellipta
--Latuda             -Brovana
--Saphris            -Daliresp
--Xyrem              -Elidel
--Semglee            -Specific Testing supplies being requested (freestyle products vs one touch).
+Divigel
+Infectious Disease Agents: Antibiotics - Inhaled 
+Epogen
+Breo Ellipta
+Daliresp
+Brovana
+Elidel
+MItigare          
+Pennsaid           
+Butrans            
+Vascepa            
+Tracleer           
+Qudexy             
+Trokendi XR 
+Zioptan
+Viibryd            
+Daytrana           
+Latuda             
+Saphris           
+Xyrem              
+Semglee
+Elestrin
+Estrogel
+Dexilant
+Timoptic
+Intelence
+Restasis Trays
+Tobradex ST
+Selzentry
+Specific Testing supplies being requested (freestyle products vs one touch).
 
 **General Rule - If any drug has a brand vs generic, and requires a PA for step therapy or non-preferred or for any reason, then it must be entered at
                  NDC level with pharmacy processing DAW 9, or DAW 1 or specific NDC must be used has context menu.
