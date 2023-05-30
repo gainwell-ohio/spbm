@@ -7,7 +7,7 @@ search:
 
 [add HICL, GCN, and NDC situations to the letter!](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20I%20forgot%20to%20add%20HICL_%20GCN_%20and%20NDC%20situations%20to%20the%20letter!.msg?csf=1&web=1&e=zazAvw){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
-<img width="494" alt="hicl" src="https://github.com/gainwell-ohio/spbm/assets/122046056/6262b890-82a2-48fb-9d7e-6243d2817084">
+![image](https://github.com/gainwell-ohio/spbm/assets/122046056/5bbfb441-ceb4-4e33-a728-90accba680e6)
 
 
 This was also sent out in the past for helpful directive
@@ -95,7 +95,7 @@ NDC – this is when a specific NDC is needed to be approved or denied, as in th
 Again, when moving from fax/pending or anywhere else in Vue360rx, please use GCNseqNO, and if approving please use the guidance for the appropriate times. If you have questions in specificity for processing/approving/denying(pharmacists), please contact your leads.
 
 
-<img width="494" alt="hicl" src="https://github.com/gainwell-ohio/spbm/assets/122046056/600bd4d0-2c2b-46c9-88be-0f2944a50316">
+![image](https://github.com/gainwell-ohio/spbm/assets/122046056/56bf73e1-b7b3-470f-bceb-574eabf72aea)
 
  
 
