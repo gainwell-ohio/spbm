@@ -30,7 +30,7 @@ This is a subcategory of Gastrointestinal Agents.
 | Non-Preferred                                                                              | Generic Name              |         Quantity          | Time (Days) |
 |:-------------------------------------------------------------------------------------------|:--------------------------|:-------------------------:|:-----------:|
 | Dipentum                                                                                   |                           |                           |             |
-| <span title = "Brand Preferred: Pentasa">Mesalamine Supp</span> <sup>Brand Preferred</sup> |                           |                           |             |
+| Mesalamine Supp |                           |                           |             |
 | Uceris Foam <sup>QL<sup>                                                                   | Budesonide Aer 2 MG / ACT | Determined pursuant to PA |             |
 | Zeposia                                                                                    |                           |                           |             |
 
