@@ -19,7 +19,7 @@ meaning the plan prefers the medication. For diabetic testing supplies, all the 
 Again, when moving from fax/pending or anywhere else in Vue360rx, please use GCNseqNO, and if approving please use the guidance for the appropriate times. If you have questions in specificity
 for processing/approving/denying(pharmacists), please contact your leads.
 
-![Capture](https://github.com/gainwell-ohio/spbm/assets/131285555/4f7aa309-8e19-4665-8435-69973334a99b)
+![Capture.png](https://github.com/gainwell-ohio/spbm/assets/131285555/4f7aa309-8e19-4665-8435-69973334a99b)
 
 
 ##DRUGS LOADED BY HICL
