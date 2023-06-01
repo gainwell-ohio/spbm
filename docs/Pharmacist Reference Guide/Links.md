@@ -24,9 +24,10 @@ search:
 - [Procedure to request Schedule Changes 5/19/23](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/__IMPORTANT%20-%20PLEASE%20READ%20__%20ALL%20PTO%20REQUESTS.msg?csf=1&web=1&e=ib8Rvz){ .md-button .md-button--primary target="_blank" rel="noopener"}
 - Please notify Cassandra, Justin and Jeanine when requesting scheduling updates
 
-[Sign up for O/N, Holiday](https://mygainwell-my.sharepoint.com.mcas.ms/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVsbwDWlIg5KsDj-gR8UjkgBV4QYb9AUI5B8Jlbpk7SjeA?e=4%3AXMs5Gp&at=9&CID=5CCE8570-00ED-4C3F-A4B0-109F1B77EA06&wdLOR=c56C50853-6098-4DA1-AE17-FC1333C71951){:target="_blank" rel="noopener"}
 
 [Overnight Schedule and After Hours Pharmacist Log](https://mygainwell-my.sharepoint.com.mcas.ms/:x:/r/personal/justin_collingwood_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7B73FCF431-8AD6-4200-AABD-7CEC536F211D%7D&file=Copy%20of%20After%20Hours%20Pharmacist%20Log_FINALcopy.xlsx&action=default&mobileredirect=true&cid=9f42f43b-4f3d-4a4e-8181-526c01a0bb91){:target="_blank" rel="noopener"}
+- [Sign up for O/N, Holiday](https://mygainwell-my.sharepoint.com.mcas.ms/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVsbwDWlIg5KsDj-gR8UjkgBV4QYb9AUI5B8Jlbpk7SjeA?e=4%3AXMs5Gp&at=9&CID=5CCE8570-00ED-4C3F-A4B0-109F1B77EA06&wdLOR=c56C50853-6098-4DA1-AE17-FC1333C71951){:target="_blank" rel="noopener"}
+
 
 ## Templates
 ### ***Approved PA***                    
@@ -51,6 +52,11 @@ search:
 | Medicaid ID:|
 | Approved by Person, Title: Full Name and Title|
 
-
+### ***EO Approved:***
+| EO Approved:    |
+|:-------------------------------|
+| Approval Reason: |
+| Additional Notes: |
+| Approving Person, Title: |
 
 
