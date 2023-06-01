@@ -31,4 +31,13 @@ Signature with job title indicating that they are an AGENT of the prescriber [Ex
                 ![image](https://user-images.githubusercontent.com/122046056/236886019-85c91fc0-b5c1-4d1f-b538-ee25e56f146d.png)
 
 
+## Additional info 6/1/23: Prescriber Names
+
+[Prescriber Names](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Prescriber%20Names.msg?csf=1&web=1&e=ktMCCV){ .md-button .md-button--primary target="_blank" rel="noopener"}
+
+
+Per Cassandra this is acceptable. Prescriber last name on the form, and NPI matches, please do not reject
+
+![image](https://github.com/gainwell-ohio/spbm/assets/122046056/4fdee547-3351-44ad-b33b-b64df975447b)
+
 
