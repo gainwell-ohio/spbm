@@ -8,7 +8,7 @@ Used when an attachment has multiple members OR the request is for the same memb
 	
   Open the attachment ***>*** Hit the printer icon ***>*** Click “more settings” ***>*** Click “print using system dialog” ***>*** Select the pages you are wanting to save (under page range) ***>*** Click “Print” ***>*** Rename the file ***>*** Save to computer/desktop 
 	
-	^^option 2^^: download file – open in Adobe Reader ***>*** click printer icon ***>*** enter the pages you want to save ***>*** click “print” ***>*** name the file ***>*** save to computer/desktop 
+- ^^option 2^^: download file – open in Adobe Reader ***>*** click printer icon ***>*** enter the pages you want to save ***>*** click “print” ***>*** name the file ***>*** save to computer/desktop 
   
 2. ***Step Two – Unlink the document from the current PA***
 	
