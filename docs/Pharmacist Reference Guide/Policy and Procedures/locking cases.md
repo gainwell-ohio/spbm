@@ -1,8 +1,14 @@
-# Locking Cases Procedures
+# Locking Cases Procedures 6/6/23
+
+[Assigning PAs Best Practices](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Assigning%20PAs%20Best%20Practice.docx?d=wd46f3e00c840469b991a4371b4952a83&csf=1&web=1&e=Qpve0g){:target="_blank" rel="noopener"}
+
+
+![image](https://github.com/gainwell-ohio/spbm/assets/122046056/5a632989-ff24-45c7-ba6f-5b7e4efd345b)
+
 
 [Locking cases email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/URGENT%20-%20PLEASE%20READ%20AND%20ACT%20ON%20IMMEDIATELY%20.msg?csf=1&web=1&e=lldgEB){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
-## Locking cases (this process must be followed on EVERY CASE) in the Vue360Rx system
+### (Archived) Locking cases (this process must be followed on EVERY CASE) in the Vue360Rx system 5/30/23
 
 1.	Wait for the screen to refresh.
 
