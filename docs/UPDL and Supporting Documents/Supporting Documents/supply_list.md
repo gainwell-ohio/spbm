@@ -3,11 +3,11 @@ search:
   boost: 2
 ---
 
-## 2022 Preferred Diabetic Supply List
+## 2023 Preferred Diabetic Supply List
 
-[Preferred Diabetic Supply List](https://pharmacy.medicaid.ohio.gov/sites/default/files/OH_July_2022_PDSL.pdf#overlay-context=drug-coverage){ :target="_blank" rel="noopener"}
+[Preferred Diabetic Supply List](https://pharmacy.medicaid.ohio.gov/sites/default/files/OH_January_2023_PDSL_v1.pdf){ :target="_blank" rel="noopener"}
 
-### Effective 7/1/2022
+### Effective 1/1/2023
 
 ### Blood Glucose Test Strips
 
