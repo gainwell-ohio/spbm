@@ -75,8 +75,8 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 - Qty/day supply: ------- 
 - Previously approved:  ------- 
 - Claims of requested drug:  ------- 
-- Claims of trials:  ------- 
 - Noted trials on PA form:  -------- 
+- Claims of trials:  ------- 
 - Diagnosis (+ ICD 10 code): -------- 
 - Notes:  ------- 
 - Decision Tree Notes: ------- 
