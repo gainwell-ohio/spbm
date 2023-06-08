@@ -18,8 +18,8 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 - Prescriber Specialty:  ------- 
 - Previously approved PA(s) (include dates and reason if given): ------- 
 - Claims of requested drug (drug name, dates paid, qty & d/s): ------- 
-- Claims of trials (drug name(s), dates paid, qty & d/s):  ------- 
 - Noted trials on PA form:  ------- 
+- Claims of trials (drug name(s), dates paid, qty & d/s):  ------- 
 - Pertinent labs per criteria and page number of fax (if applicable): ------- 
 - MME value if applicable:  ------- 
 - Notes (pg # of note):  ------- 
