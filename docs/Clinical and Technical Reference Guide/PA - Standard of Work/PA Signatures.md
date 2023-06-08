@@ -1,6 +1,5 @@
 # PA Signatures
 
-[weekly email 4/28/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/weeklyemail42823.docx?d=wc2d2297e447242f6a310e1aa4e002d2b&csf=1&web=1&e=G87tJQ){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 PA signatures
 
@@ -32,8 +31,6 @@ Signature with job title indicating that they are an AGENT of the prescriber [Ex
 
 
 ## Additional info 6/1/23: Prescriber Names
-
-[Prescriber Names](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Prescriber%20Names.msg?csf=1&web=1&e=ktMCCV){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 
 Per Cassandra this is acceptable. Prescriber last name on the form, and NPI matches, please do not reject
