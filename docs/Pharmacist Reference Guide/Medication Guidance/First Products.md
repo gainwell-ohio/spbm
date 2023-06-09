@@ -21,7 +21,7 @@ This is the process for all FIRST products including: First-Omeprazole; First-La
 	 
 3. Enter Internal notes using the following template (please do not deviate from this template):
     - Drug and strength requested
-    - Denial Rationale – FIRST products are not FDA approved drugs and do not meet the definition of a Medicaid Covered Outpatient Drug
+    - ***Denial Rationale*** – FIRST products are not FDA approved drugs and do not meet the definition of a Medicaid Covered Outpatient Drug
     - Denied by Person, Title: Full Name and Title
 		 
 4. In the Prior Authorization Letter: Choose ***ADMIN DENIAL LETTER***
