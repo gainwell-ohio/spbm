@@ -44,8 +44,8 @@ ODM changed the vacation override policy yesterday afternoon. It is as follows:
 **Example 1: Controlled Substance - Stolen**
 - Step 1: Is there a police report and is prescriber aware? – Yes (go to Step 2), No (go to Step 3)
 - Step 2: Is the dispensing pharmacist okay with dispensing early? – Yes (Approve and place appropriate EO’s), No (go to Step 4)
-- Step 3: No police report provided and/or prescriber aware. – Advise caller that provider must be aware and a police report is needed
-- Step 4: If dispensing pharmacist is not okay with dispensing early. – Outreach needed to pharmacy and EO can be placed by the senior tech. It will be up to the dispensing pharmacist to determined when they want to dispense.
+- Step 3: No police report provided and/or prescriber is not aware – Advise caller that provider must be aware and a police report is needed
+- Step 4: If dispensing pharmacist is not okay with dispensing early - It is up to the dispensing pharmacist to determined when they want to dispense and there is nothing more we can do unless the member goes to a different pharmacy
  
 
 **Example 2: Controlled Substance – Dose Increase**
@@ -55,7 +55,7 @@ ODM changed the vacation override policy yesterday afternoon. It is as follows:
  
 
 **Example 3: Controlled substance - lost or damaged**
-- Step 1: Is the pharmacy calling for the early refill override and the pharmacist is okay with dispensing early? – Yes (go to Step 2), No (go to Step 3)
+- Step 1: Is the pharmacy calling for the early refill override and the pharmacist is okay with dispensing early – Yes (go to Step 2), No (go to Step 3)
 - Step 2: Place one-time EO, document name of pharmacist/pharmacy tech calling.
 - Step 3: If the member is calling and not the pharmacist, please outreach the pharmacy/pharmacist to explain the situation. If the pharmacist agrees to a early fill, please place one-time EO.
  
