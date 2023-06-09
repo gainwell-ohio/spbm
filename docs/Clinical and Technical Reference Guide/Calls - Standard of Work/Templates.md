@@ -28,7 +28,7 @@ sent to SPBMCallbacks@mygainwell.onmicrosoft.com
 - NPI:
 - Member Name:
 - Member ID number:
-- Drug Name & Claim ID:
+- Drug Name & Paid Claim ID:
 - Date of Service to be reversed:
 - Reason for reversal:
 - Has pharmacy tried to reverse?
