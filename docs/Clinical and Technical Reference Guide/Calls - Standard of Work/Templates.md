@@ -22,14 +22,16 @@ sent to SPBMCallbacks@mygainwell.onmicrosoft.com
 
 ## Reversals
 
-- Contact name and job title:  
-- Call back number: 
-- Pharmacy: 
-- NPI: 
-- Member Name: 
-- Member ID number:  
-- Drug Name & Claim ID:  
+- Contact name and job title:
+- Call back number:
+- Is the pharmacy who ran the original claim calling?
+- NPI:
+- Member Name:
+- Member ID number:
+- Drug Name & Claim ID:
 - Date of Service to be reversed:
+- Reason for reversal:
+- Has pharmacy tried to reverse?
 
 ## Teams Question/Call Log Documentation
 
