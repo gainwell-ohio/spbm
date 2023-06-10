@@ -37,3 +37,8 @@ American Association of Clinical Endocrinology
 
 From UCSF: [Overview of feminizing hormone therapy | Gender Affirming Health Program (ucsf.edu):](https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy){ :target="_blank" rel="noopener"}
 ![image](https://user-images.githubusercontent.com/122046056/227099773-8697bce4-af37-43b4-af44-f6997611bc9d.png)
+
+## Therapies and dosing
+
+[Hormonal Therapy for Gender Dysmorphia](https://www.sfdph.org/dph/files/THS/HormoneTxAllinOne.pdf){:target="_blank" rel="noopener"}
+
