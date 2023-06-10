@@ -39,6 +39,7 @@ Here is the new process when we encounter an appeals in Medreview.  In these sit
 ![image](https://user-images.githubusercontent.com/122046056/231279399-c7d22e70-d0f1-41db-8eb0-fcfd5cf5d80a.png)
 
 7.	***Delete the document off your computer.***
+8.	Cancel the PA in Vue360rx and notate that the documents have been submitted to process manager for the appeals team.
 
 Let me know if there are any questions. This will be updated in Evergreen under Policy and Procedures.
 
