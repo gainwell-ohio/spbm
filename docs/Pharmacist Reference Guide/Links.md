@@ -60,4 +60,7 @@ search:
 | Additional Notes: |
 | Approving Person, Title: |
 
+### Vue360Rx Password Reset and Account Locked
+
+[Vue360Rx Password Reset and Account Locked](https://gpr.slhcare.com:8889/){:target="_blank" rel="noopener"}
 
