@@ -48,6 +48,19 @@ Please advise all teams that under no circumstance should a PA be cancelled if a
 
 ![](Signature2.png)
 
+### Pharmacists as agent of the office 6/7/23
+
+[Pharmacists as agent of the office](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/URGENT%20-%20Pharmacists%20as%20agent%20of%20the%20office.msg?csf=1&web=1&e=6QNge8){ .md-button .md-button--primary target="_blank" rel="noopener"}
+
+Team – Please forward on to your individual teams ASAP! 
+
+Pharmacists and technicians:
+
+Please advise all teams that ^^under no circumstance should a PA be cancelled if a pharmacist is signing as the agent for the office.^^ This continues to happen and will be an automatic failure from a quality standpoint moving forward for technicians and pharmacists. Often times pharmacists work in the office along side the provider and they are the authorized agent, similar to the nurse, MA, etc. Below is a recent example of another cancellation we have seen. ODM is continuing to call these out as well. We must correctly decision these ASAP.
+
+![image](https://github.com/gainwell-ohio/spbm/assets/122046056/5476d3aa-2ffd-429c-ad27-31171ab82af9)
+
+![image](https://github.com/gainwell-ohio/spbm/assets/122046056/b09c8306-c6ce-4383-b05a-1c1104716cb9)
 
 
 
