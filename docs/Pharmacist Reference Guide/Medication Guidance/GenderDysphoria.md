@@ -45,22 +45,6 @@ ongoing safety monitoring
 ![image](https://github.com/gainwell-ohio/spbm/assets/122046056/84f6be02-e78f-4eea-b895-751fd3a30537)
 
 
-### Dr Beisler on Gender Dysmorphia
-
-[1:13 PM] Allen, Erin
-
-I was asking Brian M and Janelle about appeals for under age 18. Brian suggested that I email Dr Beisler.  (I had a Lupron for a 15 yo.)  Here is his response:
- 
-The criteria for hormonal therapy is not quite as strict as the criteria for surgery. That said, it should be approved if they have:
- 
-1. Diagnosis of gender dysphoria as defined by Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5)
-
-2. If patient is 17 years of age or younger:
-	a. pediatric endocrinologist or other clinician experienced in pubertal assessment has
-	determined hormone treatment to be appropriate
- 
-Sending them all to appeal is fine, as at this point we really need better guidance from ODM on how they want these cases handled.
-
 
 ### Additional Clinical References
 
