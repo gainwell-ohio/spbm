@@ -7,7 +7,7 @@ search:
 
 [add HICL, GCN, and NDC situations to the letter!](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20I%20forgot%20to%20add%20HICL_%20GCN_%20and%20NDC%20situations%20to%20the%20letter!.msg?csf=1&web=1&e=zazAvw){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/5bbfb441-ceb4-4e33-a728-90accba680e6)
+![image](hicl.png)
 
 
 This was also sent out in the past for helpful directive
