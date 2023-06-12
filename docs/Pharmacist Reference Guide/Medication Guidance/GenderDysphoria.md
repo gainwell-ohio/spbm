@@ -42,7 +42,7 @@ ongoing safety monitoring
 
 [WPATH Standard of Care Guidelines](https://www.tandfonline.com/doi/pdf/10.1080/26895269.2022.2100644){:target="_blank" rel="noopener"}
 
-![wpath](https://github.com/gainwell-ohio/spbm/assets/122046056/a12e9d17-a222-42c2-8bea-18b5279844da)
+![wpath](https://github.com/gainwell-ohio/spbm/assets/122046056/bd50474f-50f3-4431-9ee2-0f9007fd1274)
 
 
 
