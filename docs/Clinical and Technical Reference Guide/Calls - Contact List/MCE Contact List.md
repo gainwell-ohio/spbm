@@ -99,7 +99,7 @@ Caller will then be routed, caller will potentially hear any prequeue/queue mess
     - To return to the main menu, press * 
     - To repeat options, press pound
 
-**Hours**:
+## Hours
 
 - M-F 7:00am to 7:00pm
 
