@@ -87,6 +87,8 @@ search:
 | Ziextenzo <sup>PA</sup> | Leukine                |
 |                         | Neulasta               |
 |                         | Releuko                |
+|                         | Rolvedon               |
+|                         | Stimufend              |
 |                         | Udenyca                |
 |                         | Zarxio                 |
 
@@ -124,6 +126,7 @@ search:
 | Ixinity <sup>PA</sup>      |               |
 | Koate <sup>PA</sup>        |               |
 | Kogenate FS <sup>PA</sup>  |               |
+| Kovaltry <sup>PA</sup>     |               |
 | Mononine <sup>PA</sup>     |               |
 | Novoeight <sup>PA</sup>    |               |
 | Novoseven RT <sup>PA</sup> |               |
@@ -438,20 +441,18 @@ search:
 | Preferred                                                                              | Non-Preferred                                                          |
 |----------------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | Amphetamine/Dextroamphetamine IR, ER <sup>AR QL</sup>                                  | Adhansia XR <sup>AR</sup>                                              |
-|                                                                                        | Adzenys ER, XR ODT                                                     |
-| Atomoxetine Cap <sup>AR QL</sup>                                                       | Amphetamine Tab                                                        |
-| Clonidine ER                                                                           | Azstarys <sup>AR</sup>                                                 |
-| Concerta <sup>AR QL</sup>                                                              | Cotempla XR ODT <sup>AR</sup>                                          |
-| Dexmethylphenidate Tab <sup>AR QL</sup>                                                | Daytrana <sup>AR BvG</sup>                                             |
-| Dexmethylphenidate ER (generic of Focalin XR) <sup>AR QL</sup>                         | Evekeo ODT                                                             |
-| Dextroamphetamine IR Tab, ER Cap <sup>AR QL</sup>                                      | Jornay PM <sup>AR</sup>                                                |
-| Dextroamphetamine Sol <sup>AR</sup>                                                    | Methamphetamine                                                        |
-| Dyanavel XR <sup>AR</sup>                                                              | Methylphenidate Chewable Tab <sup>AR QL</sup>                          |
-| Guanfacine ER <sup>QL</sup>                                                            | Methylphenidate ER <sup>AR QL</sup> (generic of Aptensio XR, Relexxii) |
-| Methylphenidate ER Cap <sup>AR QL</sup> (generic of Metadate CD, Ritalin LA)           | Mydayis <sup>QL</sup>                                                  |
-| Methylphenidate ER Tab <sup>AR QL</sup> (generic of Concerta, Methylin ER, Ritalin SR) | Vyvanse Chewable Tab                                                   |
-| Methylphenidate Sol <sup>AR QL</sup>                                                   | Zenzedi <sup>AR QL</sup>                                               |
-| Methylphenidate Tab <sup>AR QL</sup>                                                   |                                                                        |
+| Atomxetine Cap <sup>AR QL</sup>                                                        | Adzenys ER, XR ODT                                                     |
+| Clonidine ER                                                                           | Amphetamine Tab                                                        |
+| Concerta <sup>AR QL</sup>                                                              | Azstarys <sup>AR</sup>                                                 |                                                                                                         | Dexmethylphenidate Tab <sup>AR QL</sup>                                                | Cotempla XR ODT <sup>AR</sup>                                          |
+| Dexmethylphenidate ER (generic of Focalin XR) <sup>AR QL</sup>                         | Daytrana <sup>AR BvG</sup>                                             |
+| Dextroamphetamine IR Tab, ER Cap <sup>AR QL</sup>                                      | Evekeo ODT                                                             |
+| Dextroamphetamine Sol <sup>AR</sup>                                                    | Jornay PM <sup>AR</sup>                                                |
+| Dyanavel XR (sup)AR</sup>                                                              | Methamphetamine                                                        |
+| Guanfacine ER <sup>QL</sup>                                                            | Methylphenidate Chewable Tab <sup>AR QL</sup>                          |
+| Methylphenidate ER Cap <sup>AR QL</sup> (generic of Metadate CD, Ritalin LA)           | Methylphenidate ER <sup>AR QL</sup> (generic of Aptensio XR, Relexxii) |
+| Methylphenidate ER Cap <sup>AR QL</sup> (generic of Concerta, Methylin ER, Ritalin SR) | Mydayis <sup>QL</sup>                                                  |
+| Methylphenidate Sol <sup>AR QL</sup>                                                   | Vyvanse Chewable Tab                                                   |
+| Methylphenidate Tab <sup>AR QL</sup>                                                   | Zenzedi <sup>AR QL</sup>                                               |
 | Procentra <sup>AR</sup>                                                                |                                                                        |
 | Qelbree <sup>ST</sup>                                                                  |                                                                        |
 | Quillichew ER <sup>AR</sup>                                                            |                                                                        |
@@ -477,8 +478,9 @@ search:
 | Invega Sustenna <sup>QL</sup>   | Paliperidone                   |
 | Invega Trinza <sup>QL</sup>     | Rexulti                        |
 | Latuda <sup>BvG QL ST</sup>     | Secuado                        |
-| Olanzapine <sup>QL</sup>        | Versacloz                      |
-| Perseris                        | Vraylar                        |
+| Lurasidone <sup>QL</sup>        | Versacloz                      |
+| Olanzapine <sup>QL</sup>        | Vraylar                        |
+| Perseris                        | Xelstrym <sup>AR</sup>         |
 | Quetiapine IR, ER <sup>QL</sup> | Zyprexa Relprevv <sup>QL</sup> |
 | Risperdal Consta <sup>QL</sup>  |                                |
 | Risperidone <sup>QL</sup>       |                                |
@@ -543,10 +545,10 @@ search:
 | Preferred                                         | Non-Preferred        |
 |---------------------------------------------------|----------------------|
 | Amphetamine/Dextroamphetamine IR/ER <sup>AR</sup> | Sunosi               |
-| Armodafinil                                       | Wakix                |
-| Dextroamphetamine ER <sup>AR</sup>                | Xyrem <sup>BvG</sup> |
-| Methylphenidate ER <sup>AR</sup>                  | Xywav                |
-| Methylphenidate Tab <sup>AR</sup>                 |                      |
+| Armodafinil                                       | Tascenso ODT         |
+| Dextroamphetamine ER <sup>AR</sup>                | Wakix                |
+| Methylphenidate ER <sup>AR</sup>                  | Xyrem <sup>BvG</sup> |
+| Methylphenidate Tab <sup>AR</sup>                 | Xywav                |
 | Modafinil                                         |                      |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Narcolepsy](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=43){ :target="_blank" rel="noopener"}
@@ -638,12 +640,12 @@ search:
 
 **Smoking Deterrents**
 
-| Preferred                 | Non-Preferred |
-|---------------------------|---------------|
-| Nicotine <sup>QL</sup>    |               |
-| Bupropion <sup>QL</sup>   |               |
-| Chantix <sup>QL</sup>     |               |
-| Varenicline <sup>QL</sup> |               |
+| Preferred                 | Non-Preferred            |
+|---------------------------|--------------------------|
+| Nicotine <sup>QL</sup>    | Fleqsuvy <sup>BvG></sup> |
+| Bupropion <sup>QL</sup>   |                          |
+| Chantix <sup>QL</sup>     |                          |
+| Varenicline <sup>QL</sup> |                          |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Smoking Deterrents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=49){ :target="_blank" rel="noopener"}
 
@@ -729,18 +731,20 @@ search:
 | Apidra                                  | Admelog <sup>QL</sup>       |
 | Humalog 50-50                           | Afrezza                     |
 | Humalog 75-25                           | Basaglar <sup>QL</sup>      |
-| Humalog U-100 <sup>QL</sup>             | Fiasp <sup>QL</sup>         |
-| Humulin 70-30                           | Humalog U-200 <sup>QL</sup> |
-| Humulin R U-500 <sup>QL</sup>           | Humulin N U-100             |
-| Insulin Aspart <sup>QL</sup>            | Humulin R U-100             |
-| Insulin Aspart Protamine/Insulin Aspart | Insulin Degludec            |
-| Insulin Lispro <sup>QL</sup>            | Lyumjev                     |
-| Lantus <sup>BvG QL</sup>                | Novolin 70-30               |
-| Levemir                                 | Novolin N U-100             |
-| Novolog 70-30                           | Novolin R U-100             |
-| Novolog U-100 <sup>QL</sup>             | Semglee <sup>BvG QL</sup>   |
-| Toujeo                                  |                             |
-| Tresiba <sup>BvG ST</sup>               |                             |
+| Humalog U-100 <sup>QL</sup>             | Basaglar Tempo Pen          |
+| Humulin 70-30                           | Fiasp <sup>QL</sup>         |
+| Humulin R U-500 <sup>QL</sup>           | Humalog U-100 Tempo Pen     |
+| Insulin Aspart <sup>QL</sup>            | Humalog U-200 <sup>QL</sup> |
+| Insulin Aspart Protamine/Insulin Aspart | Humulin N U-100             |
+| Insulin Lispro <sup>QL</sup>            | Humulin R U-100             |
+| Lantus <sup>BvG QL</sup>                | Insulin Degludec            |
+| Levemir                                 | Lyumjev                     |
+| Novolog 70-30                           | Lyumjey Tempo Pen           |   
+| Novolog U-100 <sup>QL</sup>             | Novolin 70-30               |
+| Toujeo                                  | Novolin N U-100             |
+| Tresiba <sup>BvG ST</sup>               | Novolin R U-100             |
+|                                         | Semglee <sup>BvG QL</sup>   |
+
 
 [Link to Criteria: Endocrine Agents: Diabetes - Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=54){ :target="_blank" rel="noopener"}
 
@@ -961,22 +965,22 @@ search:
 
 **Unspecified GI**
 
-| Preferred                         | Non-Preferred |
-|-----------------------------------|---------------|
-| Amitiza <sup>BvG ST</sup>         | Aemcolo       |
-| Bisacodyl                         | Gattex        |
-| Casanthranol/Docusate Sodium      | Ibsrela       |
-| Dicyclomine                       | Linzess 72mcg |
-| Diphenoxylate/Atropine            | Lubiprostone  |
-| Lactulose                         | Motegrity     |
-| Linzess <sup>ST</sup> 145, 290mcg | Mytesi        |
-| Loperamide                        | Relistor      |
-| Movantik <sup>ST</sup>            | Symproic      |
-| Polyethylene Glycol               | Zorbtive      |
-| Psyllium Fiber                    |               |
-| Senna                             |               |
-| Trulance <sup>ST</sup>            |               |
-| Xifaxan <sup>ST</sup>             |               |
+| Preferred                         | Non-Preferred                 |
+|-----------------------------------|-------------------------------|
+| Amitiza <sup>BvG ST</sup>         | Aemcolo                       |
+| Bisacodyl                         | Gattex                        |
+| Casanthranol/Docusate Sodium      | Ibsrela                       |
+| Dicyclomine                       | Linzess 72mcg                 |
+| Diphenoxylate/Atropine            | Lubiprostone                  |
+| Lactulose                         | Motegrity                     |
+| Linzess <sup>ST</sup> 145, 290mcg | Mytesi                        |
+| Loperamide                        | Relistor                      |
+| Movantik <sup>ST</sup>            | Symproic                      |
+| Polyethylene Glycol               | Uceris Foam <sup>BvG QL</sup> |
+| Psllium Fiber                     | Zorbtive                      |
+| Senna                             |                               |
+| Trulance <sup>ST</sup>            |                               |
+| Xifaxan <sup>ST</sup>             |                               |
  
 [Link to Criteria: Gastrointestinal Agents: Unspecified GI](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=70){ :target="_blank" rel="noopener"}
 
@@ -1491,7 +1495,8 @@ search:
 | Preferred                   | Non-Preferred              |
 |-----------------------------|----------------------------|
 | Elidel <sup>AR BvG ST</sup> | Eucrisa                    |
-| Tacrolimus <sup>AR ST</sup> | Opzelura                   |
+| Tacrolimus <sup>AR ST</sup> | Hyftor                     |
+|                             | Opzelura                   |
 |                             | Pimecrolimus <sup>AR</sup> |
 |                             | Vtama                      |
 |                             | Zoryve                     |
