@@ -534,7 +534,7 @@ Central Nervous System Agents: **Anti-Migraine Agents, Cluster Headache**
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-**QL** - Emgality: 3 doses per 30 days (for initial loading dose only), then 1 dose per 30 days thereafter
+**QL** - Emgality: 3 doses per 30 days
 
 Central Nervous System Agents: **Anti-Migraine Agents, Prophylaxis**
 
@@ -746,6 +746,13 @@ Providers (as identified below) are exempt from prior authorization of any non-p
 
 - Must be prescribed by or in consultation with a psychiatrist following an aripiprazole serum blood level draw indicating need for further investigation of adherence
 
+**Additional Auvelity Criteria**:
+
+-Must have an inadequate clinical response of at least 30 days with **ALL** of the following: 
+  **ONE** dopamine/norepinephrine reuptake inhibitor (DNRI)
+  **ONE** selective norepinephrine reuptake inhibitor (SNRI)
+  **TWO** selective serotonin reuptake inhibitors (SSRIs)(ONE of which must be either vilazodone (Viibryd) OR vortioxetine (Trintellix)
+  
 **Additonal Olanzapine / Samidorphan (Lybalvi) Criteria**:
 
 -  Must provide documentation that patient is not using opioids or undergoing acute opioid withdrawal
@@ -1147,7 +1154,8 @@ preferred** drug having a similar duration of action
 - Must have had an inadequate clinical response of at least **120 days** with at least **two preferred** drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
-
+- Must have had an inaqequate clinical response or documentation of medical necessity beyond convenience for why the patient cannot use the corresponding FlexPens or Kwikpens
+- 
 **Additional Inhaled Insulin (Afrezza) Criteria**:
 
 - Must provide documentation of spirometry testing prior to initiation with a predicted FEV1 ≥70% - Will not be authorized for patients with asthma or COPD
@@ -2300,3 +2308,4 @@ Non-Preferred Criteria
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 **AR** - pimecrolimus and tacrolimus: a PA is required for patients younger than 2 years old
+
