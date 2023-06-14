@@ -708,6 +708,13 @@ Central Nervous System Agents: **Attention Hyperactivity Disorder Agents**
 **AR** - Dextroamphetamine Solution & Dyanavel XR: a PA is required for patients 12 years and older
 **AR** - Methylphenidate solutions / suspension: a PA is required for patients younger than 6 years and 12 years and older
 
+**Additional Auvelity Criteria**:
+
+-Must have an inadequate clinical response of at least 30 days with **ALL** of the following: 
+  **ONE** dopamine/norepinephrine reuptake inhibitor (DNRI)
+  **ONE** selective norepinephrine reuptake inhibitor (SNRI)
+  **TWO** selective serotonin reuptake inhibitors (SSRIs)(ONE of which must be either vilazodone (Viibryd) OR vortioxetine (Trintellix)
+  
 Central Nervous System Agents: **Atypical Antipsychotics***
 
 **Length of Authorizations**: 365 Days
@@ -745,13 +752,6 @@ Providers (as identified below) are exempt from prior authorization of any non-p
 **Additional Aripiprazole (Abilify Mycite) Criteria**:
 
 - Must be prescribed by or in consultation with a psychiatrist following an aripiprazole serum blood level draw indicating need for further investigation of adherence
-
-**Additional Auvelity Criteria**:
-
--Must have an inadequate clinical response of at least 30 days with **ALL** of the following: 
-  **ONE** dopamine/norepinephrine reuptake inhibitor (DNRI)
-  **ONE** selective norepinephrine reuptake inhibitor (SNRI)
-  **TWO** selective serotonin reuptake inhibitors (SSRIs)(ONE of which must be either vilazodone (Viibryd) OR vortioxetine (Trintellix)
   
 **Additonal Olanzapine / Samidorphan (Lybalvi) Criteria**:
 
