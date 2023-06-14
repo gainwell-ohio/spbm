@@ -711,9 +711,9 @@ Central Nervous System Agents: **Attention Hyperactivity Disorder Agents**
 **Additional Auvelity Criteria**:
 
 -Must have an inadequate clinical response of at least 30 days with **ALL** of the following: 
-  **ONE** dopamine/norepinephrine reuptake inhibitor (DNRI)
-  **ONE** selective norepinephrine reuptake inhibitor (SNRI)
-  **TWO** selective serotonin reuptake inhibitors (SSRIs)(ONE of which must be either vilazodone (Viibryd) OR vortioxetine (Trintellix)
+   - **ONE** dopamine/norepinephrine reuptake inhibitor (DNRI)
+   - **ONE** selective norepinephrine reuptake inhibitor (SNRI)
+   - **TWO** selective serotonin reuptake inhibitors (SSRIs)(ONE of which must be either vilazodone (Viibryd) OR vortioxetine (Trintellix)
   
 Central Nervous System Agents: **Atypical Antipsychotics***
 
