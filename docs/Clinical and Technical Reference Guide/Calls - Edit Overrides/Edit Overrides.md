@@ -39,30 +39,48 @@ ODM changed the vacation override policy yesterday afternoon. It is as follows:
 | Day Supply Exceeds | |
 
 ## Overrides a Sr. Tech can resolve without an RPh:
--if the issue is not covered below, the Sr. Tech must reach out to the RPh via the RPh Consult Chat
+-**If the issue is not covered below, the Sr. Tech must reach out to the RPh via the RPh Consult Chat**
 
 **Example 1: Controlled Substance - Stolen**
-- Step 1: Is there a police report and is prescriber aware? – Yes (go to Step 2), No (go to Step 3)
-- Step 2: Is the dispensing pharmacist okay with dispensing early? – Yes (Approve and place appropriate EO’s), No (go to Step 4)
-- Step 3: No police report provided and/or prescriber is not aware – Advise caller that provider must be aware and a police report is needed
-- Step 4: If dispensing pharmacist is not okay with dispensing early - It is up to the dispensing pharmacist to determined when they want to dispense and there is nothing more we can do unless the member goes to a different pharmacy
+- Step 1: Is there a police report and is prescriber aware? 
+  - YES (go to Step 2)
+  - NO (go to Step 3)
+- Step 2: Is the dispensing pharmacist okay with dispensing early? 
+  - YES (Approve and place appropriate EO’s)
+  - NO (go to Step 4)
+- Step 3: No police report provided and/or prescriber is not aware
+  - Advise caller that provider must be aware and a police report is needed
+- Step 4: If dispensing pharmacist is not okay with dispensing early
+  - It is up to the dispensing pharmacist to determined when they want to dispense and there is nothing more we can do unless the member goes to a different pharmacy
  
 
 **Example 2: Controlled Substance – Dose Increase**
-- Step 1: Does the medication require a PA? -  Yes (go to Step 2), No (go to Step 3)
-- Step 2: If the medication requires PA, check profile for active PA and determine if the current PA will cover the dose increase. If the PA does NOT cover the dose increase, please advise the caller that the prescriber will need to submit a new PA for the dose increase.
-- Step 3: If the medication is preferred, check to see if there is a quantity limit on the medication. If there is a quantity limit and the request exceeds this, advise caller PA is required. If not exceeded, please place appropriate EO’s to let the drug pay.
+- Step 1: Does the medication require a PA?
+  - YES (go to Step 2)
+  - NO (go to Step 3)
+- Step 2: If the medication requires PA, check profile for active PA and determine if the current PA will cover the dose increase.
+  - If the PA DOES cover the dose increase, please place EO (This would mostly apply if there was an error with the entered dose)
+  - If the PA does NOT cover the dose increase, please advise the caller that the prescriber will need to submit a new PA for the dose increase.
+- Step 3: If the medication is preferred, check to see if there is a quantity limit on the medication.
+  - If there is a quantity limit and the request exceeds this, advise caller PA is required. 
+  - If quanity limit is not exceeded, please place appropriate EO’s to let the drug pay.
  
 
 **Example 3: Controlled substance - lost or damaged**
-- Step 1: Is the pharmacy calling for the early refill override and the pharmacist is okay with dispensing early – Yes (go to Step 2), No (go to Step 3)
+- Step 1: Is the pharmacy calling for the early refill override and the pharmacist is okay with dispensing early
+  - YES (go to Step 2)
+  - NO (go to Step 3)
 - Step 2: Place one-time EO, document name of pharmacist/pharmacy tech calling.
 - Step 3: If the member is calling and not the pharmacist, please outreach the pharmacy/pharmacist to explain the situation. If the pharmacist agrees to a early fill, please place one-time EO.
  
  
 **Example 4: Daily dose error on existing PA**
-- Step 1: Is the pharmacy calling due to an incorrect daily dose placed on a PA? – Yes (go to Step 2), No (go to Step 3)
-- Step 2: Does the daily dose pharmacy is requesting match the PA request on file? – Yes (go to Step 4), No (go to Step 5)
+- Step 1: Is the pharmacy calling due to an incorrect daily dose placed on a PA?
+  - YES (go to Step 2)
+  - NO (go to Step 3)
+- Step 2: Does the daily dose pharmacy is requesting match the PA request on file?
+  - YES (go to Step 4)
+  - NO (go to Step 5)
 - Step 3: The pharmacy or the provider’s office (not the member) should be calling on these requests.
 - Step 4: If the daily dose requested matches the PA request on file and we had the incorrect daily dose on our end on the approval, please update the PA and verify that it is paying at the pharmacy.
 - Step 5: If the daily dose requested does not match the approved PA request on file or there is a dose increase, a new PA will be needed (like example 2 above). 
