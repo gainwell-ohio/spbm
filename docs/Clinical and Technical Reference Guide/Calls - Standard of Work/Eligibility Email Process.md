@@ -20,7 +20,7 @@ search:
 
 Always **encrypt** your email 
 
-**To: kayla.georgio@gainwelltechnologies.com**   
+**To: OHSPBMCallBack@gainwelltechnologies.com**   
 
 **Subject:** brief description of issue (Incorrect DOB, No active coverage, Gap in coverage, Etc.) 
 
