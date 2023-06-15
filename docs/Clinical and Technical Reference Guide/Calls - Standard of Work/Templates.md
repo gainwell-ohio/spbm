@@ -7,7 +7,7 @@ search:
 
 ## Callback Template
 
-sent to kayla.georgio@gainwelltechnologies.com
+sent to OHSPBMCallBack@gainwelltechnologies.com
 
 - Contact ID:
 - Caller Name: 
