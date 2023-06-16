@@ -1,6 +1,6 @@
 # Splitting Faxes
 
-[Splitting Faxes](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Splitting%20faxes%20in%20Vue360Rx.msg?csf=1&web=1&e=bOS1k2){ .md-button .md-button--primary target="_blank" rel="noopener"}
+[Splitting Faxes](Splitting%20faxes%20in%20Vue360Rx.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Used when an attachment has multiple members OR the request is for the same member but with multiple medications needing loaded to separate PA’s
  
