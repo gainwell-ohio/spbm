@@ -3,9 +3,7 @@ search:
   boost: 1
 ---
 
-# Psych Exemption
-
-[DAW and psych exempt email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20DAW%201%20and%20psych%20exempt.msg?csf=1&web=1&e=03y2hg){ .md-button .md-button--primary target="_blank" rel="noopener"}
+# Psych Exemption 2/7/23
 
 Hello,
 
