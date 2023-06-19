@@ -5,7 +5,7 @@ search:
 
 # TPN and all medications dispensed for provider 70
 
-[TPN and all medications dispensed for provider 70 :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/TPN%20and%20all%20medications%20dispensed%20for%20provider%2070.msg?csf=1&web=1&e=EKbUZ6){ .md-button .md-button--primary target="_blank" rel="noopener"}
+
 
 Hello, 
 
@@ -24,3 +24,7 @@ Any questions regarding the billing and processing the prior authorizations of t
 Thanks,
  
 Justin Collingwood
+
+### Reference
+
+[TPN and all medications dispensed for provider 70 :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/TPN%20and%20all%20medications%20dispensed%20for%20provider%2070.msg?csf=1&web=1&e=EKbUZ6){ .md-button .md-button--primary target="_blank" rel="noopener"}
