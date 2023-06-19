@@ -5,7 +5,7 @@ search:
 
 # Corticosteroid Potency
 
-[Topical Steroid Potency Chart: National Psoriasis Foundation](https://www.psoriasis.org/potency-chart/){ .md-button .md-button--primary target="_blank" rel="noopener"}
+[Topical Steroid Potency Chart: National Psoriasis Foundation](https://www.psoriasis.org/potency-chart/){:target="_blank" rel="noopener"}
 
 ![image](https://user-images.githubusercontent.com/122046056/227092824-334547cb-75fe-4a91-b111-ddfbc8000aec.png)
 ![image](https://user-images.githubusercontent.com/122046056/227092843-937b3cb0-af23-45db-a889-ece7219ddcde.png)
