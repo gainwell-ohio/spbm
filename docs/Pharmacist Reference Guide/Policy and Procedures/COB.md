@@ -11,7 +11,7 @@ COB -COB stands for Coordination of Benefits.  This is when a member has more th
 Medicaid is usually the payer of last resort.  The ONLY exception is if the member has BCMH (Bureau for Children with Medical Handicaps).
 
 ## COB Procedures
-[Edit 7011 Clarification](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW%20Edit%207011%20Clarification.msg?csf=1&web=1&e=1WzJiA){ .md-button .md-button--primary target="_blank" rel="noopener"}
+[Edit 7011 Clarification](FW%20Edit%207011%20Clarification.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Good morning.   I just wanted to clarify a process with everyone as I am seeing confusion from the Call Center reps. 
 
@@ -28,7 +28,7 @@ Mandy
 
 ## COB billing guide
 
-[Updated COB billing guide](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Updated%20COB%20billing%20guide.msg?csf=1&web=1&e=x4UzVP){ .md-button .md-button--primary target="_blank" rel="noopener"}
+[Updated COB billing guide](Updated%20COB%20billing%20guide.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 How to navigate COB rejects
  
@@ -36,7 +36,7 @@ How to navigate COB rejects
 2. Instruct pharmacy to bill the primary insurance BIN, PCN and ID (enrollment ID shown next to primary) that shows up in a rejection as the primary insurance and Gainwell as secondary
 3. Once the primary is billed and the claim rejects, see the following rejection codes and next steps:
  
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/34f676b2-9ae0-4c86-9e28-bb855c3e7017)
+![Alt text](cob_1.png)
 
 4. Once you determine why claim rejecting, if an email to the Eligibility Team is needed, you can help the pharmacy override primary in their system:
 - Pharmacy bill with "OCC 1"- only if pharmacy sure no other insurance coverage since Medicare payer of last resort. Meaning all other insurance coverage needs to be billed before Medicaid

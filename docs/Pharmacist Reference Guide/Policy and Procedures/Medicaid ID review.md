@@ -5,8 +5,7 @@ search:
 
 # Medicaid ID review
 
-[Medicaid ID review](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20_IMPORTANT_%20PLEASE%20READ%20-%20Medicaid%20ID%20review.msg?csf=1&web=1&e=bdfP8b){ .md-button .md-button--primary target="_blank" rel="noopener"}
-  
+[Medicaid ID review](FW%20IMPORTANT%20PLEASE%20READ%20-%20Medicaid%20ID%20review.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
   
 Good afternoon!!! 
 
@@ -24,4 +23,3 @@ Good afternoon!!!
   4. CANCEL in the Vue360Rx system
 
 Please let me know if you have any questions!
-  

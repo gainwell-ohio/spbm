@@ -5,7 +5,7 @@ search:
 
 # Appeals 
 
-![image](https://user-images.githubusercontent.com/122046056/230230675-71ecf0d5-77c7-4000-92b3-dba361305399.png)
+![Alt text](appeals_1.png)
 
 [SPBM Member Handbook](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/Manuals/SPBM%20Member%20Handbook.pdf){:target="_blank" rel="noopener"}
 
@@ -38,7 +38,7 @@ search:
 **If overturning the denial, please enter a new PA in Vue360Rx with all information documented referencing the appeal case number and in process manager provide the PA number
 
 ## Appeals in PA Queue
-[Appeal requests in MedReview](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20When%20Pharmacists%20get%20legitimate%20appeals%20in%20PA%20queues.msg?csf=1&web=1&e=guftJO){:target="_blank" rel="noopener"}
+[Appeal requests in MedReview](FW%20When%20Pharmacists%20get%20legitimate%20appeals%20in%20PA%20queues.htm){:target="_blank" rel="noopener"}
 
 It has also been decided with the appeals team and Brandon that at the end of the process the PA we have in MEDREVIEW or PENDING should be canceled for the reason that Appeals processing time may go past our TAT and we can be fined daily for each day a PA remains active in our system past that TAT.
  
@@ -52,7 +52,8 @@ Hello,
 There have been some general questions when we are receiving appeals in the general PA working.
  
 First to define what is to be sent to appeals. Specifically an appeal needs to be requested, usually with a letter of necessity. Like the example below
-![image](https://user-images.githubusercontent.com/122046056/230231878-e844e815-b7a1-42cf-bcd7-b83d305e7ff0.png)
+
+![Alt text](appeals_2.png)
 
 Hit the download button, save as PDF, then send it to the G&A mailbox at 
  
@@ -61,7 +62,8 @@ OH_MCD_PBM_GA@gainwelltechnologies.com
 Please send encrypted, and then delete from your computer all saved information like the PDF containing HIPAA information.
 
 ## Appeals during UPDL Changes
-![image](https://user-images.githubusercontent.com/122046056/230232234-9db9dcf0-339d-4a34-b60e-9386857dcd2d.png)
+
+![Alt text](appeals_3.png)
 
 Hello,
 
@@ -69,13 +71,15 @@ As of 1/1/23 there have been updates to the UPDL, and it has been discussed what
 It has been decided that as of the time of the 30 day notice being posted vs actual implementation of the criteria can be used as a sort of leeway period for use of criteria that is to be vs prior.
  
 If an appeal or PA comes in with backdating prior to this date, the date that the world was informed of the changes, then we use the criteria as before, which can be accessed at 
-https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001%20UPDL_APPROVED_10.7.22.pdf#overlay-context=unified-pdl
- 
+[https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001%20UPDL_APPROVED_10.7.22.pdf#overlay-context=unified-pdl](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001%20UPDL_APPROVED_10.7.22.pdf#overlay-context=unified-pdl)
+
  
 In the event of an appeal based on criteria that is changed as of 1/1/23 and is approvable now, we will uphold the initial decision, essentially denying the appeal based on information at the time and inform them that a new PA will be placed to replace the denied one, and then enter in the new PA with the date requested of the original that falls within the 30 day notice information.
  
 Please for consistency’s sake we all must follow this process if it arises.
+
 Any questions please ask,
+
 Thanks,
  
 Justin Collingwood

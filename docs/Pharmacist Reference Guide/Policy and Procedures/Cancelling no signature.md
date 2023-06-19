@@ -3,9 +3,9 @@ search:
   boost: 1
 ---
 
-# Canceling no signatures/attestation boxes
+# Canceling no Signatures/Attestation Boxes
 
-[Canceling no signatures_attestation boxes](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Canceling%20no%20signatures_attestation%20boxes.msg?csf=1&web=1&e=NvUCij){ .md-button .md-button--primary target="_blank" rel="noopener"}
+[Canceling no signatures_attestation boxes](Canceling%20no%20signaturesattestation%20boxes.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 In an effort to decrease unnecessary denials and since the techs are following this procedure it seems anyway, it has been decided that when we are receiving PAs without signatures or questionable(see below) attestation boxes not checked
 If we do get an not signed PA, similar to other canceling procedures.
@@ -22,4 +22,5 @@ ____________________________________
 Please note – I believe the attestation box was put in place to weed out people who are not generally working for the prescriber as in our “see signed orders” examples or specialty/ltc pharmacies. In general I try to form a complete picture in my mind of the situation being presented, as in if you are pretty sure that it is a member of the staff, as in a nurse, CNP, physician assistant, or generally someone who would NOT  be generally working for the previous examples, and of course the prescriber themselves, I would use my clinical judgement to assess the entirity of the situation and apply that they probably just didn’t check the box. If it is not signed that is a clear cancel and fax back, please use your own discretion with the attestation box and use prior denial language given for the situations described above.
  
 Thanks,
+
 Justin Collingwood
