@@ -1,6 +1,5 @@
 # PA Signatures
 
-[weekly email 4/28/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/weeklyemail42823.docx?d=wc2d2297e447242f6a310e1aa4e002d2b&csf=1&web=1&e=G87tJQ){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 PA signatures
 
@@ -29,6 +28,10 @@ Signature with job title indicating that they are an AGENT of the prescriber [Ex
 Signature with job title indicating that they are an AGENT of the prescriber [Ex: PA specialist, RN, MA, LPN – does not apply to APRN or PA’s (Physician assistants)],  no printed name and box checked = Reject with fax back
                 Example:  
                 ![image](https://user-images.githubusercontent.com/122046056/236886019-85c91fc0-b5c1-4d1f-b538-ee25e56f146d.png)
+
+### Reference
+
+[weekly email 4/28/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/weeklyemail42823.docx?d=wc2d2297e447242f6a310e1aa4e002d2b&csf=1&web=1&e=G87tJQ){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 
 ## Additional info 6/1/23: Prescriber Names
