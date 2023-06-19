@@ -3,9 +3,9 @@ search:
   boost: 1
 ---
 
-# Criteria change Procedure
+# Criteria change Procedure 1/5/23
 
-[Criteria change Procedure](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Criteria%20change%20for%20PA_appeal%20processing.msg?csf=1&web=1&e=wIR0IO){ .md-button .md-button--primary target="_blank" rel="noopener"}
+
 
 Hello,
 As of 1/1/23 there have been updates to the UPDL, and it has been discussed what to do when something communicated prior to the implementation of the new criteria vs the old happens.
