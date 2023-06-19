@@ -5,7 +5,7 @@ search:
 
 # TPN Guidance
 
-[TPN Guidance Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Processing%20TPN%20medications.msg?csf=1&web=1&e=zGViQA){ .md-button .md-button--primary target="_blank" rel="noopener"}
+
 
 Hello,
 
@@ -30,4 +30,8 @@ This is very lay person designed but I generally use these sorts of situations f
 If any questions please ask, Thanks as always
  
 Justin Collingwood
+
+### Reference
+
+[TPN Guidance Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Processing%20TPN%20medications.msg?csf=1&web=1&e=zGViQA){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
