@@ -1,6 +1,4 @@
-# PA Guidance for medications with no preferred alternatives
-
-[PA Guidance for Ztalmy, Hyftor and Nucala 5/23/23](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/PA%20Guidance%20for%20Ztalmy_%20Hyftor%20and%20Nucala.msg?csf=1&web=1&e=UGwy7p){ .md-button .md-button--primary target="_blank" rel="noopener"}
+# PA Guidance for medications with no preferred alternatives 5/23/23
 
 Good morning!!
 
