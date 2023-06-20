@@ -34,7 +34,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Chlorzoxazone 375, 750 MG <sup>QL</sup> | Chlorzoxazone Tab 375 MG & 750 MG          | Determined pursuant to PA | Determined pursuant to PA |
 | Cyclobenzaprine 7.5 MG <sup>QL</sup>    | Cyclobenzaprine HCI Tab 7.5 MG             | Determined pursuant to PA | Determined pursuant to PA |
 | Cyclobenzaprine ER <sup>QL</sup>        | Cyclobenzaprine HCI ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Fleqsuvy                                |                                            |                           |                           |
+| Fleqsuvy <sup>BvG</sup>                 |                                            |                           |                           |
 | Lyvispah                                |                                            |                           |                           |
 | Metaxalone                              |                                            |                           |                           |
 | Orphenadrine                            |                                            |                           |                           |
