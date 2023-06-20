@@ -26,7 +26,7 @@ Cassandra Roach, PharmD, RPh
 
 [Submitting MITS tickets!](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Submitting%20MITTS%20tickets.msg?csf=1&web=1&e=j5gGwa){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
-[Email Service Desk Group!](mailto:ohio_mits_servicedesk@gainwelltechnologies.com){ .md-button .md-button--primary target="_blank" rel="noopener"}
+Email: Ohio_MITS_ServiceDesk_Group (ohio_mits_servicedesk@gainwelltechnologies.com)
 
 When you are noticing an issue
 
