@@ -5,8 +5,6 @@ search:
 
 # Non-formulary test strip approvals
 
-[Non-formulary test strip approvals](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Non-formulary%20test%20strip%20approvals.msg?csf=1&web=1&e=qmPedk){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 Good morning team! 
 
 I wanted to follow up on a topic in a meeting with ODM yesterday involving the approval of non-formulary test strips. It appears that we have had a lot of approvals for non-formulary test strips, specifically the Freestyle Precision Neo that is compatible with the Freestyle Libre CGM system. Many of these PA’s are stating they are requesting as member has Libre and   this is the only compatible test strip for this system.

@@ -20,11 +20,11 @@ For each patient, the result can be described as either a "high" viral load, whi
 
 HCV RNA tests must have an LLOQ of 25 IU/mL or lower when used to assess treatment response with DAAs.
 
-![](https://user-images.githubusercontent.com/122046056/227419702-1156cdba-5bfb-41e6-9bf7-1b02313bb751.png)
+![Alt text](hepatitis_c_1.png)
 
 ***Liver Fibrosis:***
 
-![](https://user-images.githubusercontent.com/122046056/227419831-b962bf47-e505-427a-8021-fd5b387fd8e5.png)
+![Alt text](hepatitis_c_2.png)
 
 ***FIB-4***
 
@@ -39,12 +39,12 @@ Patients with no evidence of cirrhosis who are treatment naïve may be considere
 
 First line HCV DAA Medications: 
 
-![image](https://user-images.githubusercontent.com/122046056/227420175-f998e332-81eb-46f8-864b-8a502f382a8f.png)
+![Alt text](hepatitis_c_3.png)
 
 
 HCV DAA Treatment Regimens by Class:  
 
-![image](https://user-images.githubusercontent.com/122046056/227420292-b01eb526-53bd-40d2-af78-32d83d377474.png)
+![Alt text](hepatitis_c_4.png)
 
 **Treatment Naïve:**
 
@@ -57,7 +57,6 @@ Ex: genotype 1a patients who are treatment naive should be RAV tested before sta
 RAV tests are done in most patients who have failed a prior DAA-containing regimen before they initiate re-treatment w/ another DAA regimen.
 
 Ex: genotype 3 patients are recommended to have RAV testing if they are treatment experienced before starting re-treatment with sofosbuvir/velpatasvir and to determine whether ribavirin is needed.
-
 
 Acronyms:
 - CTP - Child-Turcotte-Pugh

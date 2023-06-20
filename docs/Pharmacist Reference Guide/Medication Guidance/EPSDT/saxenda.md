@@ -5,8 +5,6 @@ search:
 
 # Saxenda EPSDT
 
-[Saxenda EPSDT Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Saxenda%20EPSDT%20.msg?csf=1&web=1&e=7stnnn){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 If you wanted to deny for a request for more information (and it hasn’t been supplied already), Saxenda is indicated as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management, so chart notes outlining that plan would be appropriate.
  
 After that, given the direction we have so far, I would recommend approving for Saxenda under the guidance of EPSDT. From the information you provided, the patient does not have a specific diagnosis of Type 2 Diabetes, therefore Victoza would not be an appropriate alternative.

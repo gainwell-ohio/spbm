@@ -5,8 +5,6 @@ search:
 
 # Verbal PA's lacking information
 
-[Verbal PA's lacking information](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Verbal%20PA%27s%20lacking%20information.msg?csf=1&web=1&e=3aPsdd){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 Hello,
 
 Whenever we receive a verbal PA that is lacking information and/or not on the PDF form and noted as verbal with all information , please send an e-mail to SPBMQATRAINING@mygainwell.onmicrosoft.com . Please include PA number, technician who took the verbal PA, and time remaining before TAT.
@@ -28,8 +26,6 @@ Diagnosis codes
 Preferred medications trials if any
 
 Name of staff member attesting
- 
-
 
 Please ask if any questions, 
 

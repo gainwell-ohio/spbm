@@ -5,8 +5,6 @@ search:
 
 # Drug Shortage
 
-[Medication Shortages Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Medication%20Shortages.msg?csf=1&web=1&e=uJY9mh){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 Here is the general for shortage issues:
 If it is a known shortage ( Check the AHSP website) and if listed-
 

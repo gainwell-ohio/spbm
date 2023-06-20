@@ -5,8 +5,6 @@ search:
 
 # Criteria change Procedure
 
-[Criteria change Procedure](Criteria%20change%20for%20PAappeal%20processing.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 Hello,
 As of 1/1/23 there have been updates to the UPDL, and it has been discussed what to do when something communicated prior to the implementation of the new criteria vs the old happens.
 It has been decided that as of the time of the 30 day notice being posted vs actual implementation of the criteria can be used as a sort of leeway period for use of criteria that is to be vs prior.

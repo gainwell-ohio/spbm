@@ -5,8 +5,6 @@ search:
 
 # High Cost Edit
 
-[High Cost Edit Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/High%20Cost%20Edits.msg?csf=1&web=1&e=feOOZH){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 Hello, 
 
 Further clarification has been given in the high cost edit firing situations.

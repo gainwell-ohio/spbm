@@ -5,7 +5,7 @@ search:
 
 # Gender Dysphoria
 
-[Medical Necessity Policy](https://mygainwell-my.sharepoint.com/:b:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Medical%20Necessity_OH%20SPBM_Policy_V3.0.pdf?csf=1&web=1&e=11vWKM){:target="_blank" rel="noopener"}
+[label](<../../UPDL and Supporting Documents/medical_necessity_policy.md>)
 
 ***Gender Dysphoria***
 
@@ -42,9 +42,7 @@ ongoing safety monitoring
 
 [WPATH Standard of Care Guidelines](https://www.tandfonline.com/doi/pdf/10.1080/26895269.2022.2100644){:target="_blank" rel="noopener"}
 
-![GD ](https://github.com/gainwell-ohio/spbm/assets/122046056/84bddf93-6fdf-484a-a7f6-c4257aee735f)
-
-
+![Alt text](gender_dysphoria_1.png)
 
 ### Additional Clinical References
 

@@ -6,8 +6,6 @@ search:
 # Adderall XR Shortage
 
  ***5/12/23***
- 
-[*IMPORTANT* FW: Brand Adderall Shortage- Turn Adderall PAs to WARN?](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20_IMPORTANT_%20FW_%20Brand%20Adderall%20Shortage-%20Turn%20Adderall%20PAs%20to%20WARN_.msg?csf=1&web=1&e=OjhLZq){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Good morning!
 
@@ -37,18 +35,7 @@ Thank you,
 
 Cassandra Roach, PharmD, RPh
 
-
-
-
-
-
-
-
-
-
 ### ARCHIVED
-
-[Guidance for Brand request for Adderall XR Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Guidance%20for%20Brand%20request%20for%20Adderall%20XR.msg?csf=1&web=1&e=kZJPle){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Guidance for Brand request for Adderall XR
  

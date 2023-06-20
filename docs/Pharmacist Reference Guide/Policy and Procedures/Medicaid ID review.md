@@ -4,8 +4,6 @@ search:
 ---
 
 # Medicaid ID review
-
-[Medicaid ID review](FW%20IMPORTANT%20PLEASE%20READ%20-%20Medicaid%20ID%20review.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
   
 Good afternoon!!! 
 

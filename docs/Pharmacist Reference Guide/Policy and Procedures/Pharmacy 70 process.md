@@ -4,9 +4,7 @@ search:
 ---
 
 # Pharmacy 70 process
-
-[Pharmacy 70 process](Pharmacy%2070%20processes.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
-           
+ 
 There have been some processing questions about when it is appropriate to be billed through the Ohio SPBM or the MCE for medical. As stated in the following rule that claims dispensed through pharmacy providers are billed to the SPBM. To accurately find out if a pharmacy is a pharmacy provider it can be found in Vue360RX by looking in the Provider tile and under the attributes section.
 
 ![Alt text](pharmacy_70_process_1.png)

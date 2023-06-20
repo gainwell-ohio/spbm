@@ -5,8 +5,6 @@ search:
 
 # Canceling no Signatures/Attestation Boxes
 
-[Canceling no signatures_attestation boxes](Canceling%20no%20signaturesattestation%20boxes.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 In an effort to decrease unnecessary denials and since the techs are following this procedure it seems anyway, it has been decided that when we are receiving PAs without signatures or questionable(see below) attestation boxes not checked
 If we do get an not signed PA, similar to other canceling procedures.
 We would post in Additional information chat for example:

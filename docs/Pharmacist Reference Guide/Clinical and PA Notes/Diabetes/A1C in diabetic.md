@@ -5,13 +5,11 @@ search:
 
 # A1c in Diabetic decisioning
 
-[A1c in Diabetic decisioning](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/A1c%20in%20Diabetic%20decisioning.msg?csf=1&web=1&e=FdBOdU){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 Hello,
 
 The question was brought up about the vagueness of A1c in decisioning for diabetic medications, specifically the portion given on UPDL – 
 
-![image](https://user-images.githubusercontent.com/122046056/229658716-5b3afadb-a4e4-4b6b-a05f-c123ded15901.png)
+![Alt text](A1c_1.png)
 
 Where goal was not very clearly defined. 
 

@@ -7,8 +7,6 @@ search:
 
 ## Azelex
 
-[Azelex Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Azelex.msg?csf=1&web=1&e=exBGCl){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 There are issues with no payable NDCs for preferred Azelex at this time.
 
 From direction of ODM, we are to not allow the non-rebateable labelers that NDCs start with 16110
@@ -34,8 +32,6 @@ Justin
 
 ## Imcivree
 
-[Imcivree Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Imcivree%20clinical%20appeal%20review.msg?csf=1&web=1&e=CiQG5h){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 To this point, ODM has only been honoring previous Prior Authorizations granted by the MCOs. They are not approving new coverage requests because drugs use for treatment of obesity are excluded per [OAC 5160-9-03](https://codes.ohio.gov/ohio-administrative-code/rule-5160-9-03){:target="_blank" rel="noopener"}.
  
 On a slight side note, there are some discussions about notifying or “escalating” decisions on certain drugs to ODM so they are aware. I will recommend this be considered for that list.
@@ -50,13 +46,9 @@ OH Medicaid PBM
 
 ## Jatenzo 237mg
 
-[Jatenzo email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Jatenzo%20237mg%20Capsules%20-%20non-payable%20status.msg?csf=1&web=1&e=Eiuiak){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 FYI, not covered by ODM.
 
 ## Relexxi- other than 72
-
-[Relexxi Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/RE_%20Non-payable%20Relexxii%20.msg?csf=1&web=1&e=ts8a3U){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Hi Prachi,  
 
@@ -75,8 +67,6 @@ Currently though, what you said below is correct, only the 72mg is the only one 
 Let me know if you need further clarification….thank you, Scott  
 
 ## Stimate
-
-[Stimate Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Non-payable%20NDC%20-%20Stimate.msg?csf=1&web=1&e=ONdk3F){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Hi Prachi, unfortunately if the NDC is “Termed, no Re-activation”, the prescriber will have to find an alternative. 
 
@@ -98,15 +88,14 @@ I received a prior auth recently for Stimate nasal spray for Von Willebrand Dise
 
 ## Boutique Labelers
 
-[FW: Boutique Labelers](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Boutique%20Labelers%20.msg?csf=1&web=1&e=60KP1u){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 Hi PA Team, 
 
 On Friday April 28th, ODM asked us to manually disable 6 manufacturers (71800, 59088, 82379, 69067, 71741, 50991) along with two other NDCs (15370018060, 70512001315). If we receive any requests for these products, please do not override at this time. Please point to our preferred OTC products. Please send an email to Clinical Inbox OH_MCD_PBM_clinical@gainwelltechnologies.com for ODM follow-up. 
 
 Thank you, 
 
-Lauren Sarahman, PharmD  
+Lauren Sarahman, PharmD 
+ 
 Clinical Pharmacist
 
 - ***NDC***: 15370-0180-60 : ***LOFENA 25 MG TABLET*** | DICLOFENAC POTASSIUM

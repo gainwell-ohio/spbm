@@ -1,7 +1,5 @@
 # MITS tickets
 
-[Directions for submission of MITS tickets 5/23/23](Directions%20for%20submission%20of%20MITS%20tickets%20.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 ## Directions for submission of MITS tickets 5/23/23
 
 1.	Report the issue your immediate supervisor/supervisor on duty via Teams chat (tech supervisors/leads are available 24/7). Please provide as much detail as possible surrounding your issue (when it started, VPN you are using, browser you are using, etc.). If you do not report anything, we assume that your system is working correctly for you.
@@ -21,8 +19,6 @@ Thank you,
 Cassandra Roach, PharmD, RPh
 
 ## ARCHIVED MITS/ServiceNow tickets
-
-[Submitting MITS tickets](Submitting%20MITTS%20tickets.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Email: Ohio_MITS_ServiceDesk_Group (ohio_mits_servicedesk@gainwelltechnologies.com)
 
