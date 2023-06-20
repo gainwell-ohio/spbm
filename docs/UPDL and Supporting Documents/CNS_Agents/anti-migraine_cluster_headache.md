@@ -57,7 +57,7 @@ Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-**QL** - Emgality: 3 doses per 30 days (for initial loading dose only)
+**QL** - Emgality: 3 doses per 30 days
 
 ## Links
 
