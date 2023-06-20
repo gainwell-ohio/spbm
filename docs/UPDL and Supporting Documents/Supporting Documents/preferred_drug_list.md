@@ -452,8 +452,8 @@ search:
 | Methylphenidate ER Cap <sup>AR QL</sup> (generic of Metadate CD, Ritalin LA)           | Methylphenidate ER <sup>AR QL</sup> (generic of Aptensio XR, Relexxii) |
 | Methylphenidate ER Cap <sup>AR QL</sup> (generic of Concerta, Methylin ER, Ritalin SR) | Mydayis <sup>QL</sup>                                                  |
 | Methylphenidate Sol <sup>AR QL</sup>                                                   | Vyvanse Chewable Tab                                                   |
-| Methylphenidate Tab <sup>AR QL</sup>                                                   | Zenzedi <sup>AR QL</sup>                                               |
-| Procentra <sup>AR</sup>                                                                |                                                                        |
+| Methylphenidate Tab <sup>AR QL</sup>                                                   | Xelstrym <sup>AR</sup>                                                 |
+| Procentra <sup>AR</sup>                                                                | Zenzedi <sup>AR QL</sup>                                               |
 | Qelbree <sup>ST</sup>                                                                  |                                                                        |
 | Quillichew ER <sup>AR</sup>                                                            |                                                                        |
 | Quillivant XR <sup>AR</sup>                                                            |                                                                        |
@@ -534,6 +534,7 @@ search:
 | Rebif                   | Mayzent       |
 |                         | Plegridy      |
 |                         | Ponvory       |
+|                         | Tascenso ODT  |
 |                         | Teriflunomide |
 |                         | Vumerity      |
 |                         | Zeposia       |
@@ -545,10 +546,10 @@ search:
 | Preferred                                         | Non-Preferred        |
 |---------------------------------------------------|----------------------|
 | Amphetamine/Dextroamphetamine IR/ER <sup>AR</sup> | Sunosi               |
-| Armodafinil                                       | Tascenso ODT         |
-| Dextroamphetamine ER <sup>AR</sup>                | Wakix                |
-| Methylphenidate ER <sup>AR</sup>                  | Xyrem <sup>BvG</sup> |
-| Methylphenidate Tab <sup>AR</sup>                 | Xywav                |
+| Armodafinil                                       | Wakix                |
+| Dextroamphetamine ER <sup>AR</sup>                | Xyrem <sup>BvG</sup> |
+| Methylphenidate ER <sup>AR</sup>                  | Xywav                |
+| Methylphenidate Tab <sup>AR</sup>                 |                      |
 | Modafinil                                         |                      |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Narcolepsy](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=43){ :target="_blank" rel="noopener"}
@@ -630,7 +631,7 @@ search:
 | Cyclobenzaprine 5, 10mg <sup>QL</sup>  | Chlorzoxazone 375, 750mg <sup>QL</sup> |
 | Dantrolene                             | Cyclobenzaprine 7.5mg <sup>QL</sup>    |
 | Methocarbamol <sup>QL</sup>            | Cyclobenzaprine ER <sup>QL</sup>       |
-| Tizanidine Tab <sup>QL</sup>           | Fleqsuvy                               |
+| Tizanidine Tab <sup>QL</sup>           | Fleqsuvy <sup>BvG</sup>                |
 |                                        | Lyvispah                               |
 |                                        | Metaxalone                             |
 |                                        | Orphenadrine                           |
@@ -642,7 +643,7 @@ search:
 
 | Preferred                 | Non-Preferred            |
 |---------------------------|--------------------------|
-| Nicotine <sup>QL</sup>    | Fleqsuvy <sup>BvG></sup> |
+| Nicotine <sup>QL</sup>    |                          |
 | Bupropion <sup>QL</sup>   |                          |
 | Chantix <sup>QL</sup>     |                          |
 | Varenicline <sup>QL</sup> |                          |
@@ -951,15 +952,15 @@ search:
 
 **Ulcerative Colitis**
 
-| Preferred                       | Non-Preferred             |
-|---------------------------------|---------------------------|
-| Balsalazide Disodium            | Dipentum                  |
-| Budesonide ER Tab <sup>QL</sup> | Mesalamine Supp           |
-| Mesalamine DR Cap, Tab          | Uceris Foam <sup>QL</sup> |
-| Mesalamine Enema                | Zeposia                   |
-| Mesalamine ER                   |                           |
-| Pentasa <sup>BvG</sup>          |                           |
-| Sulfasalazine                   |                           |
+| Preferred                       | Non-Preferred                 |
+|---------------------------------|-------------------------------|
+| Balsalazide Disodium            | Dipentum                      |
+| Budesonide ER Tab <sup>QL</sup> | Mesalamine Supp               |
+| Mesalamine DR Cap, Tab          | Uceris Foam <sup>QL BvG</sup> |
+| Mesalamine Enema                | Zeposia                       |
+| Mesalamine ER                   |                               |
+| Pentasa <sup>BvG</sup>          |                               |
+| Sulfasalazine                   |                               |
 
 [Link to Criteria: Gastrointestinal Agents: Ulcerative Colitis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=69){ :target="_blank" rel="noopener"}
 
@@ -976,8 +977,8 @@ search:
 | Linzess <sup>ST</sup> 145, 290mcg | Mytesi                        |
 | Loperamide                        | Relistor                      |
 | Movantik <sup>ST</sup>            | Symproic                      |
-| Polyethylene Glycol               | Uceris Foam <sup>BvG QL</sup> |
-| Psllium Fiber                     | Zorbtive                      |
+| Polyethylene Glycol               | Zorbtive                      |
+| Psllium Fiber                     |                               |
 | Senna                             |                               |
 | Trulance <sup>ST</sup>            |                               |
 | Xifaxan <sup>ST</sup>             |                               |
