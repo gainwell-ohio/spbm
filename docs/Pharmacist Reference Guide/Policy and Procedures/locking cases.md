@@ -3,7 +3,7 @@
 [Assigning PAs Best Practices](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Assigning%20PAs%20Best%20Practice.docx?d=wd46f3e00c840469b991a4371b4952a83&csf=1&web=1&e=Qpve0g){:target="_blank" rel="noopener"}
 
 
-![image](243768406-5a632989-ff24-45c7-ba6f-5b7e4efd345b.png)
+![Alt text](243768406-5a632989-ff24-45c7-ba6f-5b7e4efd345b.png)
 
 
 [Locking cases email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/URGENT%20-%20PLEASE%20READ%20AND%20ACT%20ON%20IMMEDIATELY%20.msg?csf=1&web=1&e=lldgEB){ .md-button .md-button--primary target="_blank" rel="noopener"}
