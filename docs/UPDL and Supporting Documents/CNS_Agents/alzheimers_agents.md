@@ -28,6 +28,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Galantamine ER Cap <sup>AR QL</sup>      | Galantamine Hydrobromide ER Cap (all strengths)        |   102    |     102     |
 | Memantine Tab <sup>AR</sup>              |                                                        |          |             |
 | Rivastigmine Cap <sup>AR QL</sup>        | Rivastigmine Tartrate Cap (all strengths)              |   204    |     102     |
+| Rivastigmine Patch <sup>AR BvG</sup>     |                                                        |          |             | 
 
 ### Non-Preferred
 
