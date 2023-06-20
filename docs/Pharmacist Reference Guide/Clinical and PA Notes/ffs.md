@@ -4,7 +4,7 @@
 
 ### Two different Pharmacy Reference Guides
 
-[Fee for Service Pharmacy Reference Guide](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/User%20Guides/Gainwell%20OHSPBM%20FFS%20Pharmacy%20Reference%20Guide%20v1.0_07.2023.pdf):target="_blank" rel="noopener"}
+[Fee for Service Pharmacy Reference Guide](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/User%20Guides/Gainwell%20OHSPBM%20FFS%20Pharmacy%20Reference%20Guide%20v1.0_07.2023.pdf){:target="_blank" rel="noopener"}
 
 [Managed Care Pharmacy Reference Guide](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/User%20Guides/SPBM%20Pharmacy%20Reference%20Guide.pdf){:target="_blank" rel="noopener"}
 
