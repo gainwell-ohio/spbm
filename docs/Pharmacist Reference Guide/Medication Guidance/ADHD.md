@@ -3,7 +3,7 @@
 
 ## Aprovals language due transition of care/COT
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/c9307ca7-db7c-432d-bd6a-6ff231d8c5a8)
+![image](adhd.png)
 
 Hello,
 In the effort to make as simple as possible the possible approval language to use for adhd through 6/30/23 approvals, ^^please use the following template:^^
