@@ -40,6 +40,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Mayzent                                                                                |              |          |             |
 | Plegridy                                                                               |              |          |             |
 | Ponvory                                                                                |              |          |             |
+| Tascenso ODT                                                                           |              |          |             |
 |<span title = "Brand Preferred: Aubagio">Teriflunomide</span> <sup>Brand Preferred</sup> |
 | Vumerity      |              |          |             |
 | Zeposia       |              |          |             |
