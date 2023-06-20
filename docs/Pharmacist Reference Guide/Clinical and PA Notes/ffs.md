@@ -14,28 +14,30 @@
 
 **IMPORTANT**  FFS BIN/PCN are changing from the former CHC BIN: 015863 and PCN: OHPOP to BIN: 024251 and PCN: OHRXPFFS – ***Pharmacies may be confused by this.  Just explain they need to bill the new BIN/PCN for their FFS Medicaid consumers.***
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/be43f46d-54bb-4eea-8ce5-e20ff7393ee7)
+![Alt text](ffs_1.png) 
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/b89d0627-36ed-4709-a6d5-08f5cfe45b1e)
+![Alt text](ffs_2.png) 
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/db505937-39f0-4d8a-84cf-cbc36a193a9c)
+![Alt text](ffs_3.png) 
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/dd131e20-10e5-44dc-88b1-c36e9880c209)
+![Alt text](ffs_4.png) 
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/6e90591e-eb65-4815-9271-e72e680f3c24)
+![Alt text](ffs_5.png) 
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/ce0648b3-73d8-4183-835f-3e82ff9ed760)
+![Alt text](ffs_6.png) 
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/3613ae38-69b3-4c48-b3cb-d3b62fb0d63c)
+![Alt text](ffs_7.png) 
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/1f2a354d-ebca-4639-9952-0460dff61993)
+![Alt text](ffs_8.png) 
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/0ae24db9-a841-41b9-a10d-006c1d33e47f)
+![Alt text](ffs_9.png) 
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/ef18d53e-b55c-4042-9bad-c51cdfee6a61)
+![Alt text](ffs_10.png) 
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/4cee5a71-70df-4629-b946-49758e437c74)
+![Alt text](ffs_11.png) 
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/834b0ac3-d792-4dfd-a2cd-ab5f9b5c52d4)
+![Alt text](ffs_12.png) 
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/c79c3b1b-7926-4544-bb55-f5adf5079c00)
+![Alt text](ffs_13.png)
+
+![Alt text](ffs_14.png)
