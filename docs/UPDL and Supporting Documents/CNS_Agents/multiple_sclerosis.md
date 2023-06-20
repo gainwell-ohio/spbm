@@ -15,17 +15,18 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred               | Generic Name | Quantity | Time (Days) |
-|:------------------------|:-------------|:--------:|:-----------:|
-| Aubagio <sup>BvG</sup>  |              |          |             |
-| Avonex                  |              |          |             |
-| Betaseron               |              |          |             |
-| Copaxone <sup>BvG</sup> |              |          |             |
-| Dalfampridine           |              |          |             |
-| Dimethyl Fumarate       |              |          |             |
-| Gilenya <sup>BvG</sup>  |              |          |             |
-| Rebif                   |              |          |             |
-
+| Preferred                 | Generic Name | Quantity | Time (Days) |
+|:--------------------------|:-------------|:--------:|:-----------:|
+| Aubagio <sup>BvG</sup>    |              |          |             |
+| Avonex                    |              |          |             |
+| Betaseron                 |              |          |             |
+| Copaxone <sup>BvG</sup>   |              |          |             |
+| Dalfampridine             |              |          |             |
+| Dimethyl Fumarate         |              |          |             |
+| Fingolimod <sup>BvG</sup> |              |          |             | 
+| Gilenya <sup>BvG</sup>    |              |          |             |
+| Rebif                     |              |          |             |
+ 
 ### Non-Preferred
 
 | Non-Preferred                                                                          | Generic Name | Quantity | Time (Days) |
