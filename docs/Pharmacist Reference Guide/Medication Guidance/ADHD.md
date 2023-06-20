@@ -1,6 +1,5 @@
 # Attention Deficit Hyperactivity Disorder Agents
 
-[Addendum to ADHD language in approval letter](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Addendum%20to%20ADHD%20language%20in%20approval%20letter.msg?csf=1&web=1&e=p3eFX1){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 ## Aprovals language due transition of care/COT
 

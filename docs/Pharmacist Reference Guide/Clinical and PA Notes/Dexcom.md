@@ -3,7 +3,8 @@ search:
   boost: 1
 ---
 
-# Dexcom
+# Dexcom 10/15/22
+
 
 The only thing if I may add is that ODM pays for the Receiver or reader every 3 years so I put a 1095 day supply on it.
  

@@ -58,6 +58,4 @@ ipdanalytics.com
 
 https://www.sucraid.com/
 
-[Sucraid Email :material-email:](Medication Guidance- Sucraid.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 Lexi

@@ -3,7 +3,7 @@ search:
   boost: 1
 ---
 
-# Acthar Gel
+# Acthar Gel 2/28/23
 
 I had reached out to our Medical Director and Clinical team for additional guidance on approval length for the medication Acthar.  
  

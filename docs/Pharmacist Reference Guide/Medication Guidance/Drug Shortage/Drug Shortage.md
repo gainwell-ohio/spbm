@@ -3,7 +3,7 @@ search:
   boost: 1
 ---
 
-# Drug Shortage
+# Drug Shortage 2/23/23
 
 Here is the general for shortage issues:
 If it is a known shortage ( Check the AHSP website) and if listed-

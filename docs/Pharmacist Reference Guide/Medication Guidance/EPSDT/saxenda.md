@@ -3,7 +3,7 @@ search:
   boost: 1
 ---
 
-# Saxenda EPSDT
+# Saxenda EPSDT 3/17/23
 
 If you wanted to deny for a request for more information (and it hasn’t been supplied already), Saxenda is indicated as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management, so chart notes outlining that plan would be appropriate.
  

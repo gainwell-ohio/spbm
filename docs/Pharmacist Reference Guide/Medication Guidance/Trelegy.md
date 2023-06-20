@@ -3,7 +3,7 @@ search:
   boost: 1
 ---
 
-# Trelegy 
+# Trelegy 1/9/23
 
 - Once-daily TRELEGY is a prescription medicine used long term to treat COPD, including chronic bronchitis, emphysema, or both and to treat asthma in adults. 
       - TRELEGY 100/62.5/25 mcg is the only strength approved for COPD.

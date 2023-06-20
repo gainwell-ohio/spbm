@@ -3,7 +3,7 @@ search:
   boost: 1
 ---
 
-# Subsequent Authorization Criteria/Reauthorization
+# Subsequent Authorization Criteria/Reauthorization 1/24/23
 
 Beginning January 2023 and with a few minor exceptions, all therapeutic categories have the same standardized outline format on the OHUPDL. Part of this format is for Subsequent Authorization Criteria (Reauthorization).
 

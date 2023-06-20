@@ -5,8 +5,6 @@ search:
 
 # Verify Coverage
 
-[Verify Coverage Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/_encrypt_Verifying%20Coverage%20in%20Member%20Tile%20Vue360RX%20_____New%20Process____.msg?csf=1&web=1&e=nwd4de){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 If we identify a member does not have coverage (for example: member has FFS or No Active Coverage), this will need to be verified through the MITS system. (Medicaid Information Technology System). 
 
 1. Do not CANCEL the Prior Authorization 

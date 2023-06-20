@@ -3,7 +3,7 @@ search:
   boost: 1
 ---
 
-# Criteria change Procedure
+# Criteria change Procedure 1/5/23
 
 Hello,
 As of 1/1/23 there have been updates to the UPDL, and it has been discussed what to do when something communicated prior to the implementation of the new criteria vs the old happens.

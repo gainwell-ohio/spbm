@@ -39,8 +39,6 @@ search:
 | Approval Duration:|
 | Qty/Day Supply:|
 | Approval Rationale: include reason for approval; please include claims and what was reviewed; Policy/Rule|
-| Verified Coverage Per Enrollments:|
-| Medicaid ID:|
 | Approved by Person, Title: Full Name and Title|
 
 ### ***Denied PA***                  
@@ -49,8 +47,6 @@ search:
 | Drug and strength:| 
 | DX:|
 | Denial Rationale: include reason for denial; please include claims and what was reviewed; Policy/Rule|
-| Verified Coverage Per Enrollments:|
-| Medicaid ID:|
 | Approved by Person, Title: Full Name and Title|
 
 ### ***EO Approved:***

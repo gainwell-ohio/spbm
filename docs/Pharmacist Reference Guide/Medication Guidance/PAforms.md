@@ -6,6 +6,7 @@ search:
 # Acceptable PA Forms
 
 We have received new guidance regarding PA’s sent in on incorrect PA forms from management. As of 11/1/22, we have been given permission to reject PA’s that are not on correct forms specific to Gainwell. I have attached a picture of one of our forms for your reference. A complete list of the Gainwell PA forms can be found on the portal [https://spbm.medicaid.ohio.gov/SPContent/DocumentLibrary/Forms](https://spbm.medicaid.ohio.gov/SPContent/DocumentLibrary/Forms). There are several different types of forms, so please familiarize yourself with what they look like. 
+
  
 The system will filter PA’s at the fax queue level and incorrect forms will reject prior to us evening seeing them in PENDING or MEDREVIEW queues; however, we currently have a backlog of PA’s in PENDING that have come through that may be on an incorrect form.
  
