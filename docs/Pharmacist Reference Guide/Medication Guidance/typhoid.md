@@ -22,7 +22,7 @@ Vaccination is recommended for the following groups:
 
 ### The drug file has been updated and the DESI and termed products should not be approved.
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/442dde62-52f0-42f8-88ea-366151f5b246)
+![image](247232703-442dde62-52f0-42f8-88ea-366151f5b246.png)
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/13454179-4526-4e0f-b096-1f56dce1e9b7)
+![image](247232737-13454179-4526-4e0f-b096-1f56dce1e9b7.png)
 
