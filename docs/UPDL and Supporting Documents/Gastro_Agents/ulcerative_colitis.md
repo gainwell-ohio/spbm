@@ -31,7 +31,7 @@ This is a subcategory of Gastrointestinal Agents.
 |:-------------------------------------------------------------------------------------------|:--------------------------|:-------------------------:|:-----------:|
 | Dipentum                                                                                   |                           |                           |             |
 | Mesalamine Supp |                           |                           |             |
-| Uceris Foam <sup>QL<sup>                                                                   | Budesonide Aer 2 MG / ACT | Determined pursuant to PA |             |
+| Uceris Foam <sup>QL BvG<sup>                                                               | Budesonide Aer 2 MG / ACT | Determined pursuant to PA |             |
 | Zeposia                                                                                    |                           |                           |             |
 
 ## Authorizations
