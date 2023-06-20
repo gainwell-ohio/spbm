@@ -1,3 +1,3 @@
 # Fee For Service ( FFS )
 
-[Fee For Service PPT:](https://mygainwell-my.sharepoint.com/:p:/g/personal/brittaney_thompson_gainwelltechnologies_com/ERr2UzISez9HkHderUnQiHgBxN0uQurZeEy8AJFSVQcqxg?e=6JOCJZ)
+[Fee For Service PPT:](https://mygainwell.sharepoint.com/:p:/s/OHMCD/EbL1W9_ypcNFt_Aq9444Mg0BRkEEymUt-ZpXDSmZPP0xUA?e=73zPZT)
