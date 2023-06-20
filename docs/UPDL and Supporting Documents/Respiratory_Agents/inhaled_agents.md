@@ -25,6 +25,7 @@ This is a subcategory of Respiratory Agents.
 |:---------------------------------------------------------------------------------------|:--------------------------------------------------------------|:--------:|:-----------:|
 | Advair Diskus <sup>BvG</sup>                                                           |                                                               |          |             |
 | Advair HFA <sup>BvG</sup>                                                              |                                                               |          |             |
+| Albuterol HFA <sup>BvG</sup>                                                           |                                                               |          |             |           
 | Albuterol Nebulizer Sol 0.021% (0.63 MG / 3 mL), 0.042% (1.25 MG / 3 ML) <sup>AR</sup> |                                                               |          |             |
 | Albuterol Nebulizer Sol 0.083% (2.5 MG / 3 ML), 0.5% (5 MG / ML) Conc                  |                                                               |          |             |
 | Anoro Ellipta                                                                          |                                                               |          |             |
@@ -40,6 +41,7 @@ This is a subcategory of Respiratory Agents.
 | Ipratropium                                                                            | Ipratropium Bromide Inhalation Soln 0.02%                     |   1020   |     102     |
 | Ipratropium / Albuterol Nebulizer Sol <sup>QL</sup>                                    | Ipratropium / Albuterol Nebulizing Soln 0.5-2.5 (3) MG / 3 ML |   1836   |     102     |
 | ProAir HFA <sup>BvG</sup>                                                              |                                                               |          |             |
+| Proventil HFA <sup>BvG</sup>                                                           |                                                               |          |             |        
 | Pulmicort Flexhaler <sup>QL</sup>                                                      | Budesonide Inhalation Aerosol Powder 90 MCG / ACT             |    9     |     102     |
 | Pulmicort Flexhaler <sup>QL</sup>                                                      | Budesonide Inhalation Aerosol Powder 180 MCG / ACT            |    5     |     102     |
 | Serevent Diskus                                                                        |                                                               |          |             |
@@ -56,7 +58,7 @@ This is a subcategory of Respiratory Agents.
 | Aerospan HFA                                                                                                         |                                               |                           |                           |
 | Airduo Digihaler                                                                                                     |                                               |                           |                           |
 | Airduo Respiclick                                                                                                    |                                               |                           |                           |
-| <span title = "Brands Preferred: ProAir HFA, Ventolin HFA">Albuterol HFA</span> <sup>Brand Preferred</sup>                          |                                               |                           |                           |
+| Arformoterol Nebulizer Sol <sup>BvG</sup>                                                                            |                                               |                           |                           |
 | Alvesco                                                                                                              |                                               |                           |                           |
 | Armonair Digihaler                                                                                                   |                                               |                           |                           |
 | Armonair Respiclick                                                                                                  |                                               |                           |                           |
