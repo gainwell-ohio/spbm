@@ -21,6 +21,7 @@ This is a subcategory of Gastrointestinal Agents.
 | Lactulose                          |                               |          |             |
 | Linzess <sup>ST</sup> 145, 290 MCG |                               |          |             |
 | Loperamide                         | Loperamide HCI Cap & Tab 2 MG |    80    |     34      |
+| Lubiprostone <sup>BvG ST</sup>     |                               |          |             |
 | Movantik <sup>ST</sup>             |                               |          |             |
 | Polyethylene Glycol                |                               |          |             |
 | Psyllium Fiber                     |                               |          |             |
