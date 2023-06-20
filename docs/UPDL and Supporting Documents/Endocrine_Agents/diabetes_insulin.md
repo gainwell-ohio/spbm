@@ -44,12 +44,15 @@ This is a subcategory of Endocrine Agents.
 | Admelog <sup>QL</sup>                                                                       | Insulin Lispro Soln Subcutaneous Inj 100 Unit / ML (all formulations)   | Determined pursuant to PA | Determined pursuant to PA |
 | Afrezza                                                                                     |                                                                         |                           |                           |
 | Basaglar <sup>QL</sup>                                                                      | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) | Determined pursuant to PA | Determined pursuant to PA |
+| Basaglar Tempo Pen                                                                          |                                                                         |                           |                           |
 | Fiasp <sup>QL</sup>                                                                         | Insulin Aspart Soln Subcutaneous Inj 100 Unit / ML (all formulations)   | Determined pursuant to PA | Determined pursuant to PA |
+| Humalog U-100 Tempo Pen                                                                     |                                                                         |                           |                           |
 | Humalog U-200 <sup>QL</sup>                                                                 | Insulin Lispro Soln Subcutaneous Inj 200 Unit / ML (all formulations)   | Determined pursuant to PA | Determined purusant to PA |
 | Humulin N U-100                                                                             |                                                                         |                           |                           |
 | Humulin R U-100                                                                             |                                                                         |                           |                           |
 | <span title = "Brand Preferred: Tresiba">Insulin Degludec</span> <sup>Brand Preferred</sup> |                                                                         |                           |                           |
 | Lyumjev                                                                                     |                                                                         |                           |                           |
+| Lyumjev Tempo Pen                                                                           |                                                                         |                           |                           |
 | Novolin 70-30                                                                               |                                                                         |                           |                           |
 | Novolin N U-100                                                                             |                                                                         |                           |                           |
 | Novolin R U-100                                                                             |                                                                         |                           |                           |
@@ -79,6 +82,10 @@ Non-Preferred Criteria
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
+Addtional Criteria for Tempo Pen's noted:
+ 
+- Must have had an inaqequate clinical response or documentation of medical necessity beyond convenience for why teh patient cannot use the corresponding FlexPens or Kwik Pens
+  
 ### Inhaled Insulin (Afrezza)
 
 Additional Inhaled Insulin (Afrezza) Criteria
