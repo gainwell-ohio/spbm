@@ -10,11 +10,11 @@
 
 ### Quick Review
 
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/20ff7444-be9e-476a-84e2-f5afe3273f97)
+![Alt text](ffs_1.png) 
 
 **IMPORTANT**  FFS BIN/PCN are changing from the former CHC BIN: 015863 and PCN: OHPOP to BIN: 024251 and PCN: OHRXPFFS – ***Pharmacies may be confused by this.  Just explain they need to bill the new BIN/PCN for their FFS Medicaid consumers.***
 
-![Alt text](ffs_1.png) 
+
 
 ![Alt text](ffs_2.png) 
 
