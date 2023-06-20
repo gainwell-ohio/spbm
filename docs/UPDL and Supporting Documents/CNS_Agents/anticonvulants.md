@@ -23,41 +23,42 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                     | Generic Name                                        |         Quantity          |        Time (Days)        |
-|:------------------------------|:----------------------------------------------------|:-------------------------:|:-------------------------:|
-| Banzel Tab <sup>BvG</sup>     |                                                     |                           |                           |
-| Carbamazepine                 |                                                     |                           |                           |
-| Clobazam                      |                                                     |                           |                           |
-| Clonazepam                    |                                                     |                           |                           |
-| Diacomit <sup>PA QL</sup>     | Stiripentol Cap/Pack (all strengths)                | Determined pursuant to PA | Determined pursuant to PA |
-| Divalproex IR                 |                                                     |                           |                           |
-| Divalproex ER                 |                                                     |                           |                           |
-| Epidiolex <sup>ST QL</sup>    | Cannabidiol Soln (all strengths)                    | Determined pursuant to PA | Determined pursuant to PA |
-| Eprontia <sup>AR</sup>        |                                                     |                           |                           |
-| Ethosuximide                  |                                                     |                           |                           |
-| Fycompa <sup>ST</sup>         |                                                     |                           |                           |
-| Gabapentin <sup>QL</sup>      | Gabapentin Cap / Tab 100 MG                         |            204            |            34             |
-| Gabapentin <sup>QL</sup>      | Gabapentin Cap / Tab 300 MG                         |            408            |            34             |
-| Gabapentin <sup>QL</sup>      | Gabapentin Cap / Tab 400 MG                         |            306            |            34             |
-| Gabapentin <sup>QL</sup>      | Gabapentin Tab 600 MG                               |            204            |            34             |
-| Gabapentin <sup>QL</sup>      | Gabapentin Tab 800 MG                               |            136            |            34             |
-| Gabapentin Soln <sup>QL</sup> | Gabapentin Oral Soln 250 MG / 5 ML                  |           2448            |            34             |
-| Lacosamide <sup>ST</sup>      |                                                     |                           |                           |
-| Lacosamide Soln <sup>ST</sup> | Lacosamide Oral Solution (all strengths)            | Determined pursuant to PA | Determined pursuant to PA |
-| Lamictal ODT <sup>BvG</sup>   |                                                     |                           |                           |
-| Lamotrigine                   |                                                     |                           |                           |
-| Levetiracetam IR Tab          |                                                     |                           |                           |
-| Levetiracetam Sol             |                                                     |                           |                           |
-| Oxcarbazepine Tab             |                                                     |                           |                           |
-| Phenobarbital                 |                                                     |                           |                           |
-| Phenytoin                     |                                                     |                           |                           |
-| Pregabalin <sup>QL</sup>      | Pregabalin Cap (all strengths excl 225 MG & 300 MG) |            102            |            34             |
-| Pregabalin <sup>QL</sup>      | Pregabalin Cap 225 MG & 300 MG                      |            68             |            34             |
-| Primidone                     |                                                     |                           |                           |
-| Topiramate                    |                                                     |                           |                           |
-| Trileptal Susp <sup>BvG</sup> |                                                     |                           |                           |
-| Valproic Acid                 |                                                     |                           |                           |
-| Zonisamide                    |                                                     |                           |                           |
+| Preferred                          | Generic Name                                        |         Quantity          |        Time (Days)        |
+|:-----------------------------------|:----------------------------------------------------|:-------------------------:|:-------------------------:|
+| Banzel Tab <sup>BvG</sup>          |                                                     |                           |                           |
+| Carbamazepine                      |                                                     |                           |                           |
+| Clobazam                           |                                                     |                           |                           |
+| Clonazepam                         |                                                     |                           |                           |
+| Diacomit <sup>PA QL</sup>          | Stiripentol Cap/Pack (all strengths)                | Determined pursuant to PA | Determined pursuant to PA |
+| Divalproex IR                      |                                                     |                           |                           |
+| Divalproex ER                      |                                                     |                           |                           |
+| Epidiolex <sup>ST QL</sup>         | Cannabidiol Soln (all strengths)                    | Determined pursuant to PA | Determined pursuant to PA |
+| Eprontia <sup>AR</sup>             |                                                     |                           |                           |
+| Ethosuximide                       |                                                     |                           |                           |
+| Fycompa <sup>ST</sup>              |                                                     |                           |                           |
+| Gabapentin <sup>QL</sup>           | Gabapentin Cap / Tab 100 MG                         |            204            |            34             |
+| Gabapentin <sup>QL</sup>           | Gabapentin Cap / Tab 300 MG                         |            408            |            34             |
+| Gabapentin <sup>QL</sup>           | Gabapentin Cap / Tab 400 MG                         |            306            |            34             |
+| Gabapentin <sup>QL</sup>           | Gabapentin Tab 600 MG                               |            204            |            34             |
+| Gabapentin <sup>QL</sup>           | Gabapentin Tab 800 MG                               |            136            |            34             |
+| Gabapentin Soln <sup>QL</sup>      | Gabapentin Oral Soln 250 MG / 5 ML                  |           2448            |            34             |
+| Lacosamide <sup>ST</sup>           |                                                     |                           |                           |
+| Lacosamide Soln <sup>ST</sup>      | Lacosamide Oral Solution (all strengths)            | Determined pursuant to PA | Determined pursuant to PA |
+| Lamictal ODT <sup>BvG</sup>        |                                                     |                           |                           |
+| Lamotrigine                        |                                                     |                           |                           |
+| Lamotrigine IR, ODT <sup>BvG</sup> |                                                     |                           |                           |
+| Levetiracetam IR Tab               |                                                     |                           |                           |
+| Levetiracetam Sol                  |                                                     |                           |                           |
+| Oxcarbazepine Tab                  |                                                     |                           |                           |
+| Phenobarbital                      |                                                     |                           |                           |
+| Phenytoin                          |                                                     |                           |                           |
+| Pregabalin <sup>QL</sup>           | Pregabalin Cap (all strengths excl 225 MG & 300 MG) |            102            |            34             |
+| Pregabalin <sup>QL</sup>           | Pregabalin Cap 225 MG & 300 MG                      |            68             |            34             |
+| Primidone                          |                                                     |                           |                           |
+| Topiramate                         |                                                     |                           |                           |
+| Trileptal Susp <sup>BvG</sup>      |                                                     |                           |                           |
+| Valproic Acid                      |                                                     |                           |                           |
+| Zonisamide                         |                                                     |                           |                           |
 
 ### Non-Preferred
 
@@ -70,7 +71,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Elepsia XR                                                                                           |              |          |             |
 | Felbamate                                                                                            |              |          |             |
 | Fintepla                                                                                             |              |          |             |
-| Lamotrigine ER                                                                                       |              |          |             |
+| Lamotrigine ER <sup>BvG</sup>                                                                        |              |          |             |
 | <span title = "Brand Preferred: Lamictal ODT">Lamotrigine ODT</span> <sup>Brand Preferred</sup>      |              |          |             |
 | Levetiracetam ER Tab                                                                                 |              |          |             |
 | <span title = "Brand Preferred: Trileptal Susp">Oxcarbazepine Susp</span> <sup>Brand Preferred</sup> |              |          |             |
