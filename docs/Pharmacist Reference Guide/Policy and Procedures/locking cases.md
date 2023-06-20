@@ -6,6 +6,8 @@
 
 [Locking Cases Email](URGENT%20-%20PLEASE%20READ%20AND%20ACT%20ON%20IMMEDIATELY%20.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
+![image](243768406-5a632989-ff24-45c7-ba6f-5b7e4efd345b.png)
+
 ### (Archived) Locking cases (this process must be followed on EVERY CASE) in the Vue360Rx system 5/30/23
 
 1.	Wait for the screen to refresh.
