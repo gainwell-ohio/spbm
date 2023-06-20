@@ -37,6 +37,7 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 | Ixinity <sup>PA</sup>      |              |          |             |
 | Koate <sup>PA</sup>        |              |          |             |
 | Kogenate FS <sup>PA</sup>  |              |          |             |
+| Kovaltry <sup>PA</sup>     |              |          |             |
 | Mononine <sup>PA</sup>     |              |          |             |
 | Novoeight <sup>PA</sup>    |              |          |             |
 | Novoseven RT <sup>PA</sup> |              |          |             |
