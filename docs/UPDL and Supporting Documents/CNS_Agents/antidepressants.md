@@ -99,6 +99,13 @@ Non-Preferred Criteria
 - Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+ 
+Additional Auvelity Criteria:
+
+-Must have an inadequate clinical response of at least 30 days with **ALL** of the following: 
+   - **ONE** dopamine/norepinephrine reuptake inhibitor (DNRI)
+   - **ONE** selective norepinephrine reuptake inhibitor (SNRI)
+   - **TWO** selective serotonin reuptake inhibitors (SSRIs)(ONE of which must be either vilazodone (Viibryd) OR vortioxetine (Trintellix)
 
 ### Subsequent Authorization
 
