@@ -2,7 +2,7 @@
 
 [FFS PowerPoint](https://mygainwell-my.sharepoint.com.mcas.ms/:p:/g/personal/brittaney_thompson_gainwelltechnologies_com/ERr2UzISez9HkHderUnQiHgBxN0uQurZeEy8AJFSVQcqxg?e=FOgR5o){:target="_blank" rel="noopener"}
 
-### Two different Pharmacy Reference Guides
+## Two different Pharmacy Reference Guides
 
 [Fee for Service Pharmacy Reference Guide](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/User%20Guides/Gainwell%20OHSPBM%20FFS%20Pharmacy%20Reference%20Guide%20v1.0_07.2023.pdf){:target="_blank" rel="noopener"}
 
