@@ -27,6 +27,7 @@ This is a subcategory of Topical Agents.
 | Non-Preferred              | Generic Name | Quantity | Time (Days) |
 |:---------------------------|:-------------|:--------:|:-----------:|
 | Eucrisa                    |              |          |             |
+| Hyftor                     |              |          |             |
 | Opzelura                   |              |          |             |
 | <span title = "Brand Preferred: Elidel">Pimecrolimus</span> <sup>AR, Brand Preferred</sup> |              |          |             |
 | Vtama                      |              |          |             |
