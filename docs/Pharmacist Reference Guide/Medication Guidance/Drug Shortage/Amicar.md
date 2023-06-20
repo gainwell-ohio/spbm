@@ -5,7 +5,6 @@ search:
 
 # AMICAR shortage
 
-
 Hi PA team,
  
 I have received the following guidance (as of Friday, 3/17/2023 at 11:57AM) as it pertains to this:

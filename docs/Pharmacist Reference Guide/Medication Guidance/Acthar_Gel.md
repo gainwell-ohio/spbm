@@ -9,7 +9,7 @@ I had reached out to our Medical Director and Clinical team for additional guida
  
 This medication is listed on the Additional Therapeutic Classes with Clinical Criteria.
 
-![image](https://user-images.githubusercontent.com/122046056/227037234-a462da27-8374-42d0-bac3-9a347021f154.png)
+![Alt text](acthar_gel_1.png)
 
 Please see the below for additional clarification.
 

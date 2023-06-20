@@ -5,8 +5,6 @@ search:
 
 # EPSDT Procedures
 
-
-
 Hello,
 
 After gathering more descriptive information and finalizing the process, the following information can be used in decisioning prior authorizations for EPSDT.
@@ -57,7 +55,6 @@ Justin Collingwood
 
 ### References
 
-[EPSDT Procedures Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EZ94ZWZLA7VPsSLoKaNq1twBakOP17zNBMwFKo--6toF7Q?e=ozDyOp){ .md-button .md-button--primary target="_blank" rel="noopener"}
+[EPSDT Procedures Email :material-email:](EPSDT Procedures.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
-[EPSDT Background Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/In%20preparation%20of%20the%20EPSDT%20portion%20of%20todays%20RPh%20Updates.msg?csf=1&web=1&e=IrG2Zc){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
+[EPSDT Background Email :material-email:](In preparation of the EPSDT portion of todays RPh Updates.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}

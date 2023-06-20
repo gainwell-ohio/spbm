@@ -26,8 +26,6 @@ Diagnosis codes
 Preferred medications trials if any
 
 Name of staff member attesting
- 
-
 
 Please ask if any questions, 
 

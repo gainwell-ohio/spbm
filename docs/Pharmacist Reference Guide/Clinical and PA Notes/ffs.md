@@ -14,8 +14,6 @@
 
 **IMPORTANT**  FFS BIN/PCN are changing from the former CHC BIN: 015863 and PCN: OHPOP to BIN: 024251 and PCN: OHRXPFFS – ***Pharmacies may be confused by this.  Just explain they need to bill the new BIN/PCN for their FFS Medicaid consumers.***
 
-
-
 ![Alt text](ffs_2.png) 
 
 ![Alt text](ffs_3.png) 

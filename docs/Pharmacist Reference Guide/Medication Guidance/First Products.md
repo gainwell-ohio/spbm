@@ -5,7 +5,6 @@ search:
 
 # First Products 11/11/22
 
-
 This is the process for all FIRST products including: First-Omeprazole; First-Lansoprazole, First-Mouthwash BLM, First-Metronidazole, First-Progesterone VGS and First-Baclofen  
  
 1. On the PA screen, enter the medication by selecting the magnifying glass next to “Drug Info” – please use the following selections for consistency purposes:

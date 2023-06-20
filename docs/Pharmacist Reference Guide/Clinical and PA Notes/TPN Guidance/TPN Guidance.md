@@ -5,8 +5,6 @@ search:
 
 # TPN Guidance
 
-
-
 Hello,
 
 I will give further guidance in how to assess and approve TPNs, I have done them for years in FFS, and liken them to any non-preferred IV medication.
@@ -33,5 +31,4 @@ Justin Collingwood
 
 ### Reference
 
-[TPN Guidance Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Processing%20TPN%20medications.msg?csf=1&web=1&e=zGViQA){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
+[TPN Guidance Email :material-email:](<../../../../../Users/kdobbins/OneDrive - Gainwell Technologies/Documents/Processing TPN medications.htm>){ .md-button .md-button--primary target="_blank" rel="noopener"}

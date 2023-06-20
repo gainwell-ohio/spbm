@@ -7,24 +7,27 @@ search:
 
 [Provider Reference Guide](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/User%20Guides/SPBM%20Pharmacy%20Reference%20Guide.pdf){:target="_blank" rel="noopener"}
 
-![image](https://user-images.githubusercontent.com/122046056/230240219-4bdcfbfe-be1f-4239-b80c-63258673c3c8.png)
-![image](https://user-images.githubusercontent.com/122046056/230240227-b64970c0-5bc5-4bfd-bfc5-0827a87bebfe.png)
-![image](https://user-images.githubusercontent.com/122046056/230240234-d79674e4-b434-4749-a124-05d697617cbf.png)
-![image](https://user-images.githubusercontent.com/122046056/230240239-f8ad5b5d-78bb-4170-b932-2cd98b25053f.png)
+![Alt text](provider_reference_guide_1.png)
 
-1.1.2 ODM Website Addresses The Ohio Medicaid Program http://medicaid.ohio.gov 
+![Alt text](provider_reference_guide_2.png)
 
-The Ohio Medicaid Drug Program http://pharmacy.medicaid.ohio.gov 
+![Alt text](provider_reference_guide_3.png)
 
-Ohio Medicaid Information Technology System (MITS) web portal https://portal.ohmits.com/public/Providers 
+![Alt text](provider_reference_guide_4.png)
 
-The Gainwell Technologies SPBM portal and a searchable database of covered drugs https://spbm.medicaid.ohio.gov 1.1.3 
+1.1.2 ODM Website Addresses The Ohio Medicaid Program [http://medicaid.ohio.gov](http://medicaid.ohio.gov)
 
-***Mailing Addresses***
-Gainwell Technologies 
-PO Box 3908 
+The Ohio Medicaid Drug Program [http://pharmacy.medicaid.ohio.gov](http://pharmacy.medicaid.ohio.gov)
+
+Ohio Medicaid Information Technology System (MITS) web portal [https://portal.ohmits.com/public/Providers](https://portal.ohmits.com/public/Providers)
+
+The Gainwell Technologies SPBM portal and a searchable database of covered drugs [https://spbm.medicaid.ohio.gov](https://spbm.medicaid.ohio.gov) 1.1.3 
+
+***Mailing Addresses***</br>
+Gainwell Technologies</br> 
+PO Box 3908</br>
 Dublin, OH 43016-0472 
 
-![image](https://user-images.githubusercontent.com/122046056/230240465-6f0d7a15-1218-4455-8b1e-16bfd5b66c86.png)
+![Alt text](provider_reference_guide_5.png)
 
-![image](https://user-images.githubusercontent.com/122046056/230240402-cf484ebe-eb96-4afd-8512-08c768b27f11.png)
+![Alt text](provider_reference_guide_6.png)

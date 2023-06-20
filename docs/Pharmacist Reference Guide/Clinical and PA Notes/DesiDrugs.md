@@ -9,7 +9,7 @@ After further defining why there are green payable drugs in the NDC Maintenance 
 
 DESI status occurs when a labeler has chosen not to seek the needed approvals for their drug. It’s often seen across all drugs in a GCN Seq No because newer drugs are automatically grandfathered into the DESI status of their drug/use case scenario.  Specifically with older drugs there will be one or two manufacturers that seek the required approvals on an older drug so that it’s payable under Medicaid plans. But because older drugs are not automatically updated, it causes some hit-or-miss scenarios across drugs.
  
-[https://www.fda.gov/drugs/enforcement-activities-fda/drug-efficacy-study-implementation-desi](https://www.fda.gov/drugs/enforcement-activities-fda/drug-efficacy-study-implementation-desi)
+[https://www.fda.gov/drugs/enforcement-activities-fda/drug-efficacy-study-implementation-desi](https://www.fda.gov/drugs/enforcement-activities-fda/drug-efficacy-study-implementation-desi){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 The link above further explains the situation with desi drugs that were approved for safe use prior to 1962, and it would seem there wasn’t an incentive to go back and prove efficacious in some instances.
  

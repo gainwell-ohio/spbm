@@ -12,5 +12,4 @@ I did reach out to clinical to see how the Psych exempt DAW should be considered
 Thanks,
 Justin
 
-![image](https://user-images.githubusercontent.com/122046056/227430797-fe2767ca-7692-4908-93b5-482e5d930a1a.png)
-
+![Alt text](psych_exemption_1.png)

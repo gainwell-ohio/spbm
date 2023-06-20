@@ -1,10 +1,9 @@
 # MITS tickets
 
-
-
 ## Directions for submission of MITS tickets 5/23/23
 
 1.	Report the issue your immediate supervisor/supervisor on duty via Teams chat (tech supervisors/leads are available 24/7). Please provide as much detail as possible surrounding your issue (when it started, VPN you are using, browser you are using, etc.). If you do not report anything, we assume that your system is working correctly for you.
+
 - Pharmacists – please outreach Justin, Rachel or myself. If we happen to not be available via Teams chat, after 11pm, please place the ticket yourself (use below instructions).
 - The supervisor will need to be the one to determine if this is an isolated issue, or potentially widespread prior to submitting the ticket (we need as much information as possible to submit these).
 
@@ -19,12 +18,7 @@ Thank you,
 
 Cassandra Roach, PharmD, RPh
 
-
-
-
 ## ARCHIVED MITS/ServiceNow tickets
-
-[Submitting MITS tickets!](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Submitting%20MITTS%20tickets.msg?csf=1&web=1&e=j5gGwa){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Email: Ohio_MITS_ServiceDesk_Group (ohio_mits_servicedesk@gainwelltechnologies.com)
 

@@ -5,13 +5,11 @@ search:
 
 # A1c in Diabetic decisioning 4/3/23
 
-
-
 Hello,
 
 The question was brought up about the vagueness of A1c in decisioning for diabetic medications, specifically the portion given on UPDL – 
 
-![image](https://user-images.githubusercontent.com/122046056/229658716-5b3afadb-a4e4-4b6b-a05f-c123ded15901.png)
+![Alt text](A1c_1.png)
 
 Where goal was not very clearly defined. 
 

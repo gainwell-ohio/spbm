@@ -15,5 +15,4 @@ Information can also be found in the provider reference guide.
 
 All Non-CII Rxs must be have 1st fill within first 6 months from date written.
 
-![image](https://user-images.githubusercontent.com/122046056/227423217-f504a000-c211-4c74-9f52-4425d1156564.png)
-
+![Alt text](ohio_rx_laws_1.png)

@@ -3,7 +3,7 @@
 
 ## Aprovals language due transition of care/COT
 
-![image](238410998-c9307ca7-db7c-432d-bd6a-6ff231d8c5a8.png)
+![Alt text](adhd_agents_1.png)
 
 Hello,
 In the effort to make as simple as possible the possible approval language to use for adhd through 6/30/23 approvals, ^^please use the following template:^^

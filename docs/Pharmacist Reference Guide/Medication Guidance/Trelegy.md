@@ -12,7 +12,6 @@ search:
 - Trelegy is the first FDA-approved, single inhaler, triple therapy for once-daily maintenance treatment of both asthma and chronic obstructive pulmonary disease (COPD) in adults.
 - **Limitations of Use:** TRELEGY is not used to relieve sudden breathing problems and will not replace a rescue inhaler. TRELEGY should not be used in children younger than 18 years of age. It is not known if TRELEGY is safe and effective in children younger than 18 years of age.
  
- 
 Per the UPDL, criteria states: Must have had an inadequate clinical response of at least 14 days with at least two preferred drugs within the same class and duration of action. 
 
 - Since Trelegy is the only medication in it’s drug class, we will try to keep the criteria as consistent as we can.

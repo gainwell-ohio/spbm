@@ -14,10 +14,8 @@ search:
 - Maintenance treatment of COPD: 2 inhalations of BREZTRI AEROSPHERE twice daily administered by oral inhalation.
  
 - **Limitations of Use:** Not indicated for the relief of acute bronchospasm or for the treatment of asthma.
-	 
 
 Per the UPDL, criteria states: Must have had an inadequate clinical response of at least 14 days with at least two preferred drugs within the same class and duration of action. 
- 
 
 **Initial Approval Criteria for consideration:**
  

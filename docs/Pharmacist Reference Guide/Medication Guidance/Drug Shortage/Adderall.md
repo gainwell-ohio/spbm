@@ -6,7 +6,6 @@ search:
 # Adderall XR Shortage
 
  ***5/12/23***
- 
 
 Good morning!
 
@@ -36,18 +35,7 @@ Thank you,
 
 Cassandra Roach, PharmD, RPh
 
-
-
-
-
-
-
-
-
-
 ### ARCHIVED
-
-[Guidance for Brand request for Adderall XR Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Guidance%20for%20Brand%20request%20for%20Adderall%20XR.msg?csf=1&web=1&e=kZJPle){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Guidance for Brand request for Adderall XR
  
