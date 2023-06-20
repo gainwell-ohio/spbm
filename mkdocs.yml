@@ -6,19 +6,18 @@ edit_uri: "edit/main/docs/"
 plugins:
   - search
 theme:
-  favicon: favicon.ico
   icon:
       edit: material/pencil
   name: material
-  logo: Gainwell_logo.png
+  logo: img/favicon.ico
   palette:
     - media: "(prefers-color-scheme: light)" 
-      scheme: gainwell-light
+      scheme: gainwell
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)" 
-      scheme: gainwell-dark
+      scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -29,8 +28,6 @@ theme:
     - navigation.prune
     - search.highlight
     - content.action.edit
-extra_css:
-  - stylesheets/extra.css
 markdown:
     - kramdown
 markdown_extensions:
@@ -45,3 +42,5 @@ markdown_extensions:
         permalink: True
         separator: "_"
         toc_depth: 3
+#extra_css:
+  #- stylesheets/extra.css
