@@ -23,28 +23,28 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Copaxone <sup>BvG</sup>   |              |          |             |
 | Dalfampridine             |              |          |             |
 | Dimethyl Fumarate         |              |          |             |
-| Fingolimod <sup>BvG</sup> |              |          |             | 
+| Fingolimod <sup>BvG</sup> |              |          |             |
 | Gilenya <sup>BvG</sup>    |              |          |             |
 | Rebif                     |              |          |             |
  
 ### Non-Preferred
 
-| Non-Preferred                                                                          | Generic Name | Quantity | Time (Days) |
-|:---------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
-| Bafiertam                                                                              |              |          |             |
-| Extavia                                                                                |              |          |             |
-| <span title = "Brand Preferred: Gilenya">Fingolimod</span> <sup>Brand Preferred</sup>  |              |          |             |
-| <span title = "Brand Preferred: Copaxone">Glatiramer</span> <sup>Brand Preferred</sup> |              |          |             |
-| Glatopa                                                                                |              |          |             |
-| Kesimpta                                                                               |              |          |             |
-| Mavenclad                                                                              |              |          |             |
-| Mayzent                                                                                |              |          |             |
-| Plegridy                                                                               |              |          |             |
-| Ponvory                                                                                |              |          |             |
-| Tascenso ODT                                                                           |              |          |             |
-|<span title = "Brand Preferred: Aubagio">Teriflunomide</span> <sup>Brand Preferred</sup> |
-| Vumerity      |              |          |             |
-| Zeposia       |              |          |             |
+| Non-Preferred                                                                            | Generic Name | Quantity | Time (Days) |
+|:-----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Bafiertam                                                                                |              |          |             |
+| Extavia                                                                                  |              |          |             |
+| <span title = "Brand Preferred: Gilenya">Fingolimod</span> <sup>Brand Preferred</sup>    |              |          |             |
+| <span title = "Brand Preferred: Copaxone">Glatiramer</span> <sup>Brand Preferred</sup>   |              |          |             |
+| Glatopa                                                                                  |              |          |             |
+| Kesimpta                                                                                 |              |          |             |
+| Mavenclad                                                                                |              |          |             |
+| Mayzent                                                                                  |              |          |             |
+| Plegridy                                                                                 |              |          |             |
+| Ponvory                                                                                  |              |          |             |
+| Tascenso ODT                                                                             |              |          |             |
+| <span title = "Brand Preferred: Aubagio">Teriflunomide</span> <sup>Brand Preferred</sup> |              |          |             |
+| Vumerity                                                                                 |              |          |             |
+| Zeposia                                                                                  |              |          |             |
 
 ## Authorizations
 

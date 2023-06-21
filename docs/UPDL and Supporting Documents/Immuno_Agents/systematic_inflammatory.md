@@ -87,7 +87,7 @@ Non-Preferred Criteria
 
 ### Alopecia Areata 
 
-Additional Alopecia Areata criteria:
+Additional Alopecia Areata Criteria:
 
 - Must be prescribed by or in consultation with a specialist (i.e., dermatologist, 
 rheumatologist)

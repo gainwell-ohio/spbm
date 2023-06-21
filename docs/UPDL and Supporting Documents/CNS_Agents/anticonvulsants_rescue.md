@@ -32,6 +32,10 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 **Length of Authorizations**: 365 Days
 
+### Neurologist Exemption
+
+Prescriptions submitted from a prescriber who is credentialed as a neurology specialty with Ohio Medicaid AND for drugs that are used only for seizures, there must have been an inadequate clinical response of at least ^^30 days^^ with ^^one preferred^^ drug. This provision applies only to the standard tablet/dosage form.
+
 **All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
 ## Criteria

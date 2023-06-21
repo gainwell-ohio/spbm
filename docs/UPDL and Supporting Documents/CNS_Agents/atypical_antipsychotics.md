@@ -101,11 +101,14 @@ Patients who have a claim for a non-preferred drug, or drug requiring step thera
 
 ### Psychiatrist Exemption
 
-Providers (as identified below) are exempt from prior authorization of any non-preferred second-generation antipsychotic, or step therapy of any preferred brand, in the standard tablet/capsule dosage forms. Other dosage forms may still require prior authorization. The exemption will be processed by the claims system when the pharmacy has submitted the prescriber on the claim using the individual national provider identifier (NPI) for the provider.
+Providers (as identified below) are exempt from prior authorization of any non-preferred second-generation antipsychotic, 
+or step therapy of any preferred drug, in the standard tablet/capsule and long-acting injectable dosage forms. 
+Other dosage forms may still require prior authorization. The exemption will be processed by the claims system when the pharmacy
+has submitted the prescriber on the claim using the individual national provider identifier (NPI) for the provider.
 
-**FFS**: Physicians who are registered with Ohio Medicaid as having a specialty in psychiatry
-
-**MCOs**: Physicians with a specialty in psychiatry, nurse practitioners certified in psychiatric mental health, or clinical nurse specialists certified in psychiatric mental health, who are credentialed via the Medicaid managed care plan
+Prescribers are defined as:</br>
+Physicians with a specialty in psychiatry, nurse practitioners certified in psychiatric mental health,
+or clinical nurse specialists certified in psychiatric mental health, who are credentialed with the Ohio Department of Medicaid.
 
 **All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 

@@ -52,7 +52,6 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
 | :------------ | :----------- | :------: | :---------: |
 | Jivi          |              |          |             |
-| Kovaltry      |              |          |             |
 | Nuwiq         |              |          |             |
 | Obizur        |              |          |             |
 | Rebinyn       |              |          |             |

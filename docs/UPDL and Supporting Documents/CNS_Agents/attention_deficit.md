@@ -59,7 +59,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Methylphenidate ER <sup>AR QL</sup>(generic of Aptensio XR, Relexxii) |                                                              |                           |                           |
 | Mydayis <sup>QL</sup>                                                 | Amphetamin / Dextroamphetamine 3-Bead ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 | Vyvanse Chewable Tab                                                  |                                                              |                           |                           |
-| Xelstrym <sup>AR</sup>                                                 |                                                              |                           |                           |
+| Xelstrym <sup>AR</sup>                                                |                                                              |                           |                           |
 | Zenzedi <sup>AR QL</sup>                                              | Dextroamphetamine Sulfate Tab (all strengths)                | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Authorizations
@@ -99,7 +99,7 @@ Subsequent Authorization Criteria
 
 **AR** - Adderall, Dexedrine, & Zenzedi IR: a PA is required for patients younger than 3 years
 
-**AR** - Adderall XR, Atomoxetine, Cotempla XR-ODT, Daytrana, Dexedrine ER, Dexmethylphenidate, Methylphenidate IR & ER, and Quillichew ER: a PA is required for patients younger than 6 years
+**AR** - Adderall XR, Atomoxetine, Cotempla XR-ODT, Daytrana, Dexedrine ER, Dexmethylphenidate, Methylphenidate IR & ER, Quillichew ER, and Xelstrym: a PA is required for patients younger than 6 years
 
 **AR** - Dextroamphetamine Solution: a PA is required for patients over 12 years old
 

@@ -575,11 +575,16 @@ Central Nervous System Agents: **Anti-Migraine Agents, Prophylaxis**
 
 **QL** - Aimovig, Ajovy: 1 dose per 30 days
 
-**QL** - Emgality: 2 doses per 30 days (for initial loading dose only), then 1 does per 30 days thereafter
+**QL** - Emgality: 2 doses per 30 days
 
 Central Nervous System Agents: **Anticonvulsants**
 
 **Length of Authorizations**: 365 Days except Epidiolex and Diacomit - Initial: 180 days
+
+**Neurologist Exemption**
+
+Prescriptions submitted from a prescriber who is credentialed as a neurology specialty with Ohio Medicaid AND for drugs that are used only for
+seizures, there must have been an inadequate clinical response of at least ^^30 days^^ with ^^one preferred^^ drug. This provision applies only to the standard tablet/capsule dosage form.
 
 **Grandfathering* (except Diacomit)**:
 
@@ -656,11 +661,11 @@ Patients who have a claim for a non-preferred drug, in the previous 120 days wil
 
 **Psychiatrist Exemption**:
 
-Prescribers (as identified below) are exempt from prior authorization of any non-preferred antidepressant, or step therapy of any preferred brand, in the standard tablet/capsule dosage forms. Other dosage forms may still require prior authorization. The exemption will be processed by the claims system when the pharmacy has submitted the prescriber on the claim using the individual national provider identifier (NPI) for the prescriber.
+Prescribers (as identified below) are exempt from prior authorization of any non-preferred antidepressant, or step therapy of any preferred drug, in the standard tablet/capsule dosage forms. Other dosage forms may still require prior authorization. The exemption will be processed by the claims system when the pharmacy has submitted the prescriber on the claim using the individual national provider identifier (NPI) for the prescriber.
 
-**FFS**: Physicians who are registered with Ohio Medicaid as having a specialty in psychiatry
-
-**MCOs**: Physicians with a specialty in psychiatry, nurse practitioners certified in psychiatric mental health, or clinical nurse specialists certified in psychiatric mental health, who are credentialed via the Medicaid managed care plan
+Prescribers are defined as:</br>
+Physicians with a specialty in psychiatry, nurse practitioners certified in psychiatric mental health,
+or clinical nurse specialists certified in psychiatric mental health, who are credentialed with the Ohio Department of Medicaid.
 
 **All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
@@ -725,11 +730,11 @@ Patients who have a claim for a non-preferred drug, or drug requiring step thera
 
 **Psychiatrist Exemption**:
 
-Providers (as identified below) are exempt from prior authorization of any non-preferred second-generation antipsychotic, or step therapy of any preferred brand, in the standard tablet/capsule dosage forms. Other dosage forms may still require prior authorization. The exemption will be processed by the claims system when the pharmacy has submitted the prescriber on the claim using the individual national provider identifier (NPI) for the provider.
+Providers (as identified below) are exempt from prior authorization of any non-preferred second-generation antipsychotic, or step therapy of any preferred drug, in the standard tablet/capsule and long-acting injectable dosage forms. Other dosage forms may still require prior authorization. The exemption will be processed by the claims system when the pharmacy has submitted the prescriber on the claim using the individual national provider identifier (NPI) for the provider.
 
-**FFS**: Physicians who are registered with Ohio Medicaid as having a specialty in psychiatry
-
-**MCOs**: Physicians with a specialty in psychiatry, nurse practitioners certified in psychiatric mental health, or clinical nurse specialists certified in psychiatric mental health, who are credentialed via the Medicaid managed care plan
+Prescribers are defined as: </br>
+Physicians with a specialty in psychiatry, nurse practitioners certified in psychiatric mental health,
+or clinical nurse specialists certified in psychiatric mental health, who are credentialed with the Ohio Department of Medicaid.
 
 **All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
@@ -1154,12 +1159,15 @@ preferred** drug having a similar duration of action
 - Must have had an inadequate clinical response of at least **120 days** with at least **two preferred** drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
-- Must have had an inaqequate clinical response or documentation of medical necessity beyond convenience for why the patient cannot use the corresponding FlexPens or Kwikpens
- 
+
 **Additional Inhaled Insulin (Afrezza) Criteria**:
 
 - Must provide documentation of spirometry testing prior to initiation with a predicted FEV1 ≥70% - Will not be authorized for patients with asthma or COPD
 - Must provide documentation of being nicotine-free for at least 180 days
+
+**Additional Tempo Pen Criteria**
+
+- Must have had an inadequate clinical response or documentation or medical necessity beyond convenience for why the patient cannot use the corresponding FlexPens or Kwikpens
 
 **Additional Information**:
 

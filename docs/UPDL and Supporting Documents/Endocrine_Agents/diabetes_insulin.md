@@ -82,9 +82,11 @@ Non-Preferred Criteria
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
-Addtional Criteria for Tempo Pen's noted:
+### Tempo Pen
+
+Additional Tempo Pen Criteria
  
-- Must have had an inaqequate clinical response or documentation of medical necessity beyond convenience for why teh patient cannot use the corresponding FlexPens or Kwik Pens
+- Must have had an inaqequate clinical response or documentation of medical necessity beyond convenience for why the patient cannot use the corresponding FlexPens or Kwikpens
   
 ### Inhaled Insulin (Afrezza)
 
