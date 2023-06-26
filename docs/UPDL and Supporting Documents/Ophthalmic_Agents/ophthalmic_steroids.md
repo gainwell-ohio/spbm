@@ -19,8 +19,8 @@ This is a subcategory of Ophthalmic Agents.
 |:-------------------------------|:-------------|:--------:|:-----------:|
 | Alrex <sup>BvG</sup>           |              |          |             |
 | Dexamethasone Sodium Phosphate |              |          |             |
-| Difluprednate <sup>BvG</sup>   |              |          |             |
-| Durezol <sup>BvG</sup>         |              |          |             |
+| Difluprednate                  |              |          |             |
+| Durezol                        |              |          |             |
 | Flarex                         |              |          |             |
 | Fluorometholone                |              |          |             |
 | Fml Forte                      |              |          |             |
