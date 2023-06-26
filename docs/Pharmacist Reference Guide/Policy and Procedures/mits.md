@@ -20,7 +20,7 @@ Cassandra Roach, PharmD, RPh
 
 ## ARCHIVED MITS/ServiceNow tickets
 
-Email: Ohio_MITS_ServiceDesk_Group (ohio_mits_servicedesk@gainwelltechnologies.com)
+Email: <a href="mailto:ohio_mits_servicedesk@gainwelltechnologies.com">Ohio_MITS_ServiceDesk_Group - ohio_mits_servicedesk@gainwelltechnologies.com</a>
 
 When you are noticing an issue
 
