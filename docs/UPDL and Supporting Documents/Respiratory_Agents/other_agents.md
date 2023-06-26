@@ -23,8 +23,7 @@ This is a subcategory of Respiratory Agents.
 
 | Non-Preferred              | Generic Name | Quantity | Time (Days) |
 | :------------------------- | :----------- | :------: | :---------: |
-| Daliresp <sup>BvG</sup>    |              |          |             |
-| Roflumilast <sup>BvG</sup> |              |          |             |
+| Roflumilast                |              |          |             |
 
 ## Authorizations
 
