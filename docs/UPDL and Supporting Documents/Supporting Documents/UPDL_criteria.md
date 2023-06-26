@@ -575,7 +575,7 @@ Central Nervous System Agents: **Anti-Migraine Agents, Prophylaxis**
 
 **QL** - Aimovig, Ajovy: 1 dose per 30 days
 
-**QL** - Emgality: 2 doses per 30 days
+**QL** - Emgality: 2 doses per 30 days (for intitial loading dose only), then 1 dose per 30 days thereafter
 
 Central Nervous System Agents: **Anticonvulsants**
 
@@ -677,6 +677,13 @@ or clinical nurse specialists certified in psychiatric mental health, who are cr
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
+**ADDTIONAL DEXTROMETHORPHAN/BUPROPION (AUVELITY) CRITERIA**
+
+- Must have an inadequate clinical response of at least **30 days** with **ALL** of the following:
+    - **ONE** dopamine/norepinephrine reuptake inhibitor (DNRI)
+    - **ONE** selective norepinephrine reuptake inhibitor (SNRI)
+    - **TWO** selective serotonin reuptake inhibitors (SSRIs) (**ONE** of which must be either vilazodone (Viibryd) or vortioxetine (Trintellix))
+
 **Subsequent Authorization Criteria**:
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
@@ -709,7 +716,7 @@ Central Nervous System Agents: **Attention Hyperactivity Disorder Agents**
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 **AR** - Adderall, Dexedrine, & Zenzedi IR: a PA is required for patients younger than 3 years
-**AR** - Adderall XR, Atomoxetine, Cotempla XR-ODT, Daytrana, Dexedrine ER, Dexmethylphenidate & Methylphenidate IR & ER: a PA is required for patients younger than 6 years
+**AR** - Adderall XR, Atomoxetine, Cotempla XR-ODT, Daytrana, Dexedrine ER, Dexmethylphenidate & Methylphenidate IR & ER & Xelstrym: a PA is required for patients younger than 6 years
 **AR** - Dextroamphetamine Solution & Dyanavel XR: a PA is required for patients 12 years and older
 **AR** - Methylphenidate solutions / suspension: a PA is required for patients younger than 6 years and 12 years and older
 
@@ -1167,7 +1174,7 @@ preferred** drug having a similar duration of action
 
 **Additional Tempo Pen Criteria**
 
-- Must have had an inadequate clinical response or documentation or medical necessity beyond convenience for why the patient cannot use the corresponding FlexPens or Kwikpens
+- Must have had an inadequate clinical response or documentation of medical necessity beyond convenience for why the patient cannot use the corresponding FlexPens or Kwikpens
 
 **Additional Information**:
 

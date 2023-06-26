@@ -31,9 +31,8 @@ This is a subcategory of Ophthalmic Agents.
 | Polymyxin / Trimethoprim                           |                                            |                           |                           |
 | Sulfacetamide Sodium Ophth Sol 10%                 |                                            |                           |                           |
 | Sulfacetamide / Prednisolone                       |                                            |                           |                           |
-| Tobradex <sup>BvG</sup>                            |                                            |                           |                           |
 | Tobramycin                                         | Tobramycin Nebulizing Soln (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| <span title = "Brand Preferred: Tobradex">Tobramycin/Dexamethasone 0.3/0.1%</span> <sup>BvG</sup> |              |          |             |
+| Tobramycin/Dexamethasone 0.3/0.1%                  |                                            |                           |                           |
 
 ### Non-Preferred
 

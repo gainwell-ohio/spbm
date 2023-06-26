@@ -46,7 +46,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Lacosamide Soln <sup>ST</sup>      | Lacosamide Oral Solution (all strengths)            | Determined pursuant to PA | Determined pursuant to PA |
 | Lamictal ODT <sup>BvG</sup>        |                                                     |                           |                           |
 | Lamotrigine                        |                                                     |                           |                           |
-| Lamotrigine IR, ODT <sup>BvG</sup> |                                                     |                           |                           |
+| Lamotrigine IR, ODT                |                                                     |                           |                           |
 | Levetiracetam IR Tab               |                                                     |                           |                           |
 | Levetiracetam Sol                  |                                                     |                           |                           |
 | Oxcarbazepine Tab                  |                                                     |                           |                           |
@@ -71,7 +71,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Elepsia XR                                                                                           |              |          |             |
 | Felbamate                                                                                            |              |          |             |
 | Fintepla                                                                                             |              |          |             |
-| Lamotrigine ER <sup>BvG</sup>                                                                        |              |          |             |
+| Lamotrigine ER                                                                                       |              |          |             |
 | <span title = "Brand Preferred: Lamictal ODT">Lamotrigine ODT</span> <sup>Brand Preferred</sup>      |              |          |             |
 | Levetiracetam ER Tab                                                                                 |              |          |             |
 | <span title = "Brand Preferred: Trileptal Susp">Oxcarbazepine Susp</span> <sup>Brand Preferred</sup> |              |          |             |

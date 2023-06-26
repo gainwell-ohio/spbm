@@ -23,8 +23,8 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Copaxone <sup>BvG</sup>   |              |          |             |
 | Dalfampridine             |              |          |             |
 | Dimethyl Fumarate         |              |          |             |
-| Fingolimod <sup>BvG</sup> |              |          |             |
-| Gilenya <sup>BvG</sup>    |              |          |             |
+| Fingolimod                |              |          |             |
+| Gilenya                   |              |          |             |
 | Rebif                     |              |          |             |
  
 ### Non-Preferred

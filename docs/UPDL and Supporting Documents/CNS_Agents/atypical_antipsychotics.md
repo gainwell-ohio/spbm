@@ -52,7 +52,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 410 MG / 1.32 ML (all formulations)   |           1.32            |            84             |
 | Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 546 MG / 1.75 ML (all formulations)   |           1.75            |            84             |
 | Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 819 MG / 2.63 ML (all formulations)   |           2.63            |            84             |
-| Latuda <sup>BvG ST QL</sup>     | Lurasidone HCI Tab (all strengths)                                   | Determined pursuant to PA | Determined pursuant to PA |
 | Lurasidone <sup>QL</sup>        |                                                                      |                           |                           |
 | Olanzapine <sup>QL</sup>        | Olanzapine Tab (all strengths)                                       |            102            |            102            |
 | Perseris                        |                                                                      |                           |                           |
@@ -66,7 +65,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Risperidone <sup>QL</sup>       | Risperidone Tab (all strengths)                                      |            306            |            102            |
 | Risperidone <sup>QL</sup>       | Risperidone ODT (all strengths)                                      |            204            |            102            |
 | Saphris <sup>BvG ST</sup>       |                                                                      |                           |                           |
-| Paliperidone Tab <sup>BvG</sup> |                                                                      |                           |                           |
+| Paliperidone Tab                |                                                                      |                           |                           |
 | Ziprasidone <sup>QL</sup>       | Ziprasidone HCI Cap (all strengths)                                  |            68             |            34             |
 
 ### Non-Preferred

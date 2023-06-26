@@ -40,7 +40,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Memantine ER <sup>AR</sup>                                                                             |                                                      |                           |                           |
 | Memantine Sol <sup>AR</sup>                                                                            |                                                      |                           |                           |
 | Namzaric <sup>AR</sup>                                                                                 | Memantine HCI / Donepezil HCI ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| <span title = "Brand Preferred: Exelon Patch">Rivastigmine Patch</span> <sup>AR, Brand Preferred</sup> |                                                      |                           |                           |
+| Rivastigmine Patch <sup>AR</sup>                                                                       |                                                      |                           |                           |
 
 ## Authorizations
 
