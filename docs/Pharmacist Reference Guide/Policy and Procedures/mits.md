@@ -19,9 +19,6 @@ Thank you,
 
 Cassandra Roach, PharmD, RPh
 
-
-
-
 ## ARCHIVED MITS/ServiceNow tickets
 
 [Submitting MITS tickets!](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Submitting%20MITTS%20tickets.msg?csf=1&web=1&e=j5gGwa){ .md-button .md-button--primary target="_blank" rel="noopener"}
