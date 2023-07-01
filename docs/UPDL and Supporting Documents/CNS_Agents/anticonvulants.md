@@ -17,47 +17,50 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 - [CNS - Anticonvulsants - Eprontia](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURFAxTkE0VzNYUkpEMURaRkVNMlk5T1lVQyQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
+- [CNS - Anticonvulsants - Fycompa, Lacosamide](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM1AyWk82M1JKVlFJUlo0SzJHMUxKR0lJOSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
 - [CNS - Anticonvulsants - Vigabatrin Powder](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNDFNR1ZWWTgyT0lYMVdPUlA4UjdGWlpDWSQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
 ### Preferred
 
-| Preferred                     | Generic Name                                        |         Quantity          |        Time (Days)        |
-|:------------------------------|:----------------------------------------------------|:-------------------------:|:-------------------------:|
-| Banzel Tab <sup>BvG</sup>     |                                                     |                           |                           |
-| Carbamazepine                 |                                                     |                           |                           |
-| Clobazam                      |                                                     |                           |                           |
-| Clonazepam                    |                                                     |                           |                           |
-| Diacomit <sup>PA QL</sup>     | Stiripentol Cap/Pack (all strengths)                | Determined pursuant to PA | Determined pursuant to PA |
-| Divalproex IR                 |                                                     |                           |                           |
-| Divalproex ER                 |                                                     |                           |                           |
-| Epidiolex <sup>ST QL</sup>    | Cannabidiol Soln (all strengths)                    | Determined pursuant to PA | Determined pursuant to PA |
-| Eprontia <sup>AR</sup>        |                                                     |                           |                           |
-| Ethosuximide                  |                                                     |                           |                           |
-| Fycompa <sup>ST</sup>         |                                                     |                           |                           |
-| Gabapentin <sup>QL</sup>      | Gabapentin Cap / Tab 100 MG                         |            204            |            34             |
-| Gabapentin <sup>QL</sup>      | Gabapentin Cap / Tab 300 MG                         |            408            |            34             |
-| Gabapentin <sup>QL</sup>      | Gabapentin Cap / Tab 400 MG                         |            306            |            34             |
-| Gabapentin <sup>QL</sup>      | Gabapentin Tab 600 MG                               |            204            |            34             |
-| Gabapentin <sup>QL</sup>      | Gabapentin Tab 800 MG                               |            136            |            34             |
-| Gabapentin Soln <sup>QL</sup> | Gabapentin Oral Soln 250 MG / 5 ML                  |           2448            |            34             |
-| Lacosamide <sup>ST</sup>      |                                                     |                           |                           |
-| Lacosamide Soln <sup>ST</sup> | Lacosamide Oral Solution (all strengths)            | Determined pursuant to PA | Determined pursuant to PA |
-| Lamictal ODT <sup>BvG</sup>   |                                                     |                           |                           |
-| Lamotrigine                   |                                                     |                           |                           |
-| Levetiracetam IR Tab          |                                                     |                           |                           |
-| Levetiracetam Sol             |                                                     |                           |                           |
-| Oxcarbazepine Tab             |                                                     |                           |                           |
-| Phenobarbital                 |                                                     |                           |                           |
-| Phenytoin                     |                                                     |                           |                           |
-| Pregabalin <sup>QL</sup>      | Pregabalin Cap (all strengths excl 225 MG & 300 MG) |            102            |            34             |
-| Pregabalin <sup>QL</sup>      | Pregabalin Cap 225 MG & 300 MG                      |            68             |            34             |
-| Primidone                     |                                                     |                           |                           |
-| Topiramate                    |                                                     |                           |                           |
-| Trileptal Susp <sup>BvG</sup> |                                                     |                           |                           |
-| Valproic Acid                 |                                                     |                           |                           |
-| Zonisamide                    |                                                     |                           |                           |
+| Preferred                          | Generic Name                                        |         Quantity          |        Time (Days)        |
+|:-----------------------------------|:----------------------------------------------------|:-------------------------:|:-------------------------:|
+| Banzel Tab <sup>BvG</sup>          |                                                     |                           |                           |
+| Carbamazepine                      |                                                     |                           |                           |
+| Clobazam                           |                                                     |                           |                           |
+| Clonazepam                         |                                                     |                           |                           |
+| Diacomit <sup>PA QL</sup>          | Stiripentol Cap/Pack (all strengths)                | Determined pursuant to PA | Determined pursuant to PA |
+| Divalproex IR                      |                                                     |                           |                           |
+| Divalproex ER                      |                                                     |                           |                           |
+| Epidiolex <sup>ST QL</sup>         | Cannabidiol Soln (all strengths)                    | Determined pursuant to PA | Determined pursuant to PA |
+| Eprontia <sup>AR</sup>             |                                                     |                           |                           |
+| Ethosuximide                       |                                                     |                           |                           |
+| Fycompa <sup>ST</sup>              |                                                     |                           |                           |
+| Gabapentin <sup>QL</sup>           | Gabapentin Cap / Tab 100 MG                         |            204            |            34             |
+| Gabapentin <sup>QL</sup>           | Gabapentin Cap / Tab 300 MG                         |            408            |            34             |
+| Gabapentin <sup>QL</sup>           | Gabapentin Cap / Tab 400 MG                         |            306            |            34             |
+| Gabapentin <sup>QL</sup>           | Gabapentin Tab 600 MG                               |            204            |            34             |
+| Gabapentin <sup>QL</sup>           | Gabapentin Tab 800 MG                               |            136            |            34             |
+| Gabapentin Soln <sup>QL</sup>      | Gabapentin Oral Soln 250 MG / 5 ML                  |           2448            |            34             |
+| Lacosamide <sup>ST</sup>           |                                                     |                           |                           |
+| Lacosamide Soln <sup>ST</sup>      | Lacosamide Oral Solution (all strengths)            | Determined pursuant to PA | Determined pursuant to PA |
+| Lamictal ODT <sup>BvG</sup>        |                                                     |                           |                           |
+| Lamotrigine                        |                                                     |                           |                           |
+| Lamotrigine IR, ODT                |                                                     |                           |                           |
+| Levetiracetam IR Tab               |                                                     |                           |                           |
+| Levetiracetam Sol                  |                                                     |                           |                           |
+| Oxcarbazepine Tab                  |                                                     |                           |                           |
+| Phenobarbital                      |                                                     |                           |                           |
+| Phenytoin                          |                                                     |                           |                           |
+| Pregabalin <sup>QL</sup>           | Pregabalin Cap (all strengths excl 225 MG & 300 MG) |            102            |            34             |
+| Pregabalin <sup>QL</sup>           | Pregabalin Cap 225 MG & 300 MG                      |            68             |            34             |
+| Primidone                          |                                                     |                           |                           |
+| Topiramate                         |                                                     |                           |                           |
+| Trileptal Susp <sup>BvG</sup>      |                                                     |                           |                           |
+| Valproic Acid                      |                                                     |                           |                           |
+| Zonisamide                         |                                                     |                           |                           |
 
 ### Non-Preferred
 
@@ -105,14 +108,14 @@ Patients who have a claim for a non-preferred drug in the previous 120 days will
 
 Step Therapy Approval Criteria
 
-- Must have had an inadequate clinical response of at least **30 days** with at least **one
-preferred** drug
+- Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^one
+preferred^^ drug
  
 ### Cannabidiol (Epidiolex)
 
 Cannabidiol (Epidiolex) Criteria
 
-- Must have had an inadequate clinical response of at least **30 days** with any two of the following anticonvulsants: clobazam, levetiracetam, valproic acid, lamotrigine, topiramate, rufinamide, or felbamate within the past **365 days** (members who meet this criteria will not require a PA)
+- Must have had an inadequate clinical response of at least ^^30 days^^ with any ^^two^^ of the following anticonvulsants: clobazam, levetiracetam, valproic acid, lamotrigine, topiramate, rufinamide, or felbamate within the past ^^365 days^^ (members who meet this criteria will not require a PA)
 
 ### Stiripentol (Diacomit)
 
@@ -124,9 +127,8 @@ Stiripentol (Diacomit) Criteria
     - Patients with phenylketonuria (PKU) must provide evidence of total daily amount of phenylalanine
     - Prescribers must include management plans for patients with neutrophil counts <1,500 cells/mm3 or platelet count <150,000/µL
 - Must provide documentation of patient’s weight
-    - Maximum daily dose does not exceed: 50 mg / kg / day or 3,000 mg / day
-- Must provide baseline average number of seizure days per month (measured monthly
-or quarterly)
+    - Maximum daily dose does not exceed: 50 mg/kg/day or 3,000 mg/day
+- Must provide baseline average number of seizure days per month (measured monthly or quarterly)
 
 ### Non-Preferred 
 
@@ -134,11 +136,10 @@ Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
-- Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drug
+- Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^two preferred^^ drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
-
-- Prescriptions submitted from a prescriber who is registered as a neurology specialty with Ohio Medicaid AND for drugs that are used only for seizures, there must have been an inadequate clinical response of at least **30 days** with **one preferred** drug. This provision applies only to the standard tablet / capsule dosage form and does not apply to brand products with available generic alternatives.
+- Prescriptions submitted from a prescriber who is registered as a neurology specialty with Ohio Medicaid AND for drugs that are used only for seizures, there must have been an inadequate clinical response of at least ^^30 days^^ with ^^one preferred^^ drug. This provision applies only to the standard tablet/capsule dosage form and does not apply to brand products with available generic alternatives.
 
 ### Subsequent Authorization
 
@@ -146,14 +147,11 @@ Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring (i.e., documented reduction in average number of seizure days per month [measured monthly or quarterly])
 
-**AR** - Vigabatrin Powder: a PA is required for patients 3 years and older
-
+**AR** - Vigabatrin Powder: a PA is required for patients 3 years and older </br>
 **AR** - Eprontia Solution: a PA is required for patients 12 years and older
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=30){ :target="_blank" rel="noopener"}
-
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=14){ :target="_blank" rel="noopener"}
-
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=30){ :target="_blank" rel="noopener"} </br>
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=14){ :target="_blank" rel="noopener"} </br>
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

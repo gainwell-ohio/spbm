@@ -59,6 +59,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Methylphenidate ER <sup>AR QL</sup>(generic of Aptensio XR, Relexxii) |                                                              |                           |                           |
 | Mydayis <sup>QL</sup>                                                 | Amphetamin / Dextroamphetamine 3-Bead ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 | Vyvanse Chewable Tab                                                  |                                                              |                           |                           |
+| Xelstrym <sup>AR</sup>                                                |                                                              |                           |                           |
 | Zenzedi <sup>AR QL</sup>                                              | Dextroamphetamine Sulfate Tab (all strengths)                | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Authorizations
@@ -73,7 +74,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 Step Therapy Criteria
 
-- Must have had an inadequate clinical response of at least **30 days** with atomoxetine **OR** at least **two preferred** stimulants
+- Must have had an inadequate clinical response of at least ^^30 days^^ with atomoxetine **OR** at least ^^two preferred^^ stimulants
 
 ### Non-Preferred
 
@@ -81,7 +82,7 @@ Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
-- Must have had an inadequate clinical response of at least **30 days** with at least **three preferred** drugs
+- Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^three preferred^^ drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
@@ -96,18 +97,13 @@ Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-**AR** - Adderall, Dexedrine, & Zenzedi IR: a PA is required for patients younger than 3 years
-
-**AR** - Adderall XR, Atomoxetine, Cotempla XR-ODT, Daytrana, Dexedrine ER, Dexmethylphenidate, Methylphenidate IR & ER, and Quillichew ER: a PA is required for patients younger than 6 years
-
-**AR** - Dextroamphetamine Solution: a PA is required for patients over 12 years old
-
-**AR** - Methylphenidate Solution: a PA is required for patients younger than 6 years and 12 years and older
+**AR** - Adderall, Dexedrine, & Zenzedi IR: a PA is required for patients younger than 3 years </br>
+**AR** - Adderall XR, Atomoxetine, Cotempla XR-ODT, Daytrana, Dexedrine ER, Dexmethylphenidate, Methylphenidate IR & ER, Quillichew ER, and Xelstrym: a PA is required for patients younger than 6 years </br>
+**AR** - Dextroamphetamine Solution & Dyanavel XR: a PA is required for patients 12 years and older </br>
+**AR** - Methylphenidate Solution/Suspension: a PA is required for patients younger than 6 years and 12 years and older
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=35){ :target="_blank" rel="noopener"}
-
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=15){ :target="_blank" rel="noopener"}
-
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=35){ :target="_blank" rel="noopener"} </br>
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=15){ :target="_blank" rel="noopener"} </br>
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

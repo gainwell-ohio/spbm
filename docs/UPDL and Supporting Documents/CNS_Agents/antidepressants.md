@@ -76,15 +76,18 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Grandfathering*
 
-Patients who have a claim for a non-preferred drug, in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug previously but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
+Patients who have a claim for a non-preferred drug in the previous 120 days will be automatically approved to continue the drug. Patients who have taken the drug previously but do not have claims history (e.g. new to Medicaid), will need to submit a prior authorization in order to continue coverage.
 
 ### Psychiatrist Exemption
 
-Prescribers (as identified below) are exempt from prior authorization of any non-preferred antidepressant, or step therapy of any preferred brand, in the standard tablet/capsule dosage forms. Other dosage forms may still require prior authorization. The exemption will be processed by the claims system when the pharmacy has submitted the prescriber on the claim using the individual national provider identifier (NPI) for the prescriber.
+Prescribers (as identified below) are exempt from prior authorization of any non-preferred antidepressant, or step therapy of any preferred drug,
+in the standard tablet/capsule dosage forms. Other dosage forms may still require prior authorization. The exemption will be processed
+by the claims system when the pharmacy has submitted the prescriber on the claim using the individual national provider identifier (NPI)
+for the prescriber.
 
-**FFS**: Physicians who are registered with Ohio Medicaid as having a specialty in psychiatry
-
-**MCOs**: Physicians with a specialty in psychiatry, nurse practitioners certified in psychiatric mental health, or clinical nurse specialists certified in psychiatric mental health, who are credentialed via the Medicaid managed care plan
+Prescribers are defined as: </br>
+Physicians with a specialty in psychiatry, nurse practitioners certified in psychiatric mental health,
+or clinical nurse specialists certified in psychiatric mental health, who are credentialed with the Ohio Department of Medicaid.
 
 **All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
@@ -96,9 +99,18 @@ Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
-- Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drugs
+- Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^two preferred^^ drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+ 
+### Dextromethorphan/Bupropion (Auvelity)
+
+Additional Dextromethorphan/Bupropion (Auvelity) Criteria:
+
+- Must have an inadequate clinical response of at least ^^30 days^^ with **ALL** of the following: 
+   - ^^ONE^^ dopamine/norepinephrine reuptake inhibitor (DNRI)
+   - ^^ONE^^ selective norepinephrine reuptake inhibitor (SNRI)
+   - ^^TWO^^ selective serotonin reuptake inhibitors (SSRIs)(^^ONE^^ of which must be either vilazodone (Viibryd) OR vortioxetine (Trintellix))
 
 ### Subsequent Authorization
 
@@ -108,8 +120,6 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=33){ :target="_blank" rel="noopener"}
-
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=15){ :target="_blank" rel="noopener"}
-
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=33){ :target="_blank" rel="noopener"} </br>
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=15){ :target="_blank" rel="noopener"} </br>
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

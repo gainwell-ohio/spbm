@@ -52,7 +52,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 410 MG / 1.32 ML (all formulations)   |           1.32            |            84             |
 | Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 546 MG / 1.75 ML (all formulations)   |           1.75            |            84             |
 | Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 819 MG / 2.63 ML (all formulations)   |           2.63            |            84             |
-| Latuda <sup>BvG ST QL</sup>     | Lurasidone HCI Tab (all strengths)                                   | Determined pursuant to PA | Determined pursuant to PA |
+| Lurasidone <sup>QL</sup>        |                                                                      |                           |                           |
 | Olanzapine <sup>QL</sup>        | Olanzapine Tab (all strengths)                                       |            102            |            102            |
 | Perseris                        |                                                                      |                           |                           |
 | Quetiapine IR <sup>QL</sup>     | Quetiapine Fumarate Tab 25 MG & 50 MG & 100 MG                       |            306            |            102            |
@@ -65,6 +65,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Risperidone <sup>QL</sup>       | Risperidone Tab (all strengths)                                      |            306            |            102            |
 | Risperidone <sup>QL</sup>       | Risperidone ODT (all strengths)                                      |            204            |            102            |
 | Saphris <sup>BvG ST</sup>       |                                                                      |                           |                           |
+| Paliperidone Tab                |                                                                      |                           |                           |
 | Ziprasidone <sup>QL</sup>       | Ziprasidone HCI Cap (all strengths)                                  |            68             |            34             |
 
 ### Non-Preferred
@@ -99,11 +100,14 @@ Patients who have a claim for a non-preferred drug, or drug requiring step thera
 
 ### Psychiatrist Exemption
 
-Providers (as identified below) are exempt from prior authorization of any non-preferred second-generation antipsychotic, or step therapy of any preferred brand, in the standard tablet/capsule dosage forms. Other dosage forms may still require prior authorization. The exemption will be processed by the claims system when the pharmacy has submitted the prescriber on the claim using the individual national provider identifier (NPI) for the provider.
+Providers (as identified below) are exempt from prior authorization of any non-preferred second-generation antipsychotic, 
+or step therapy of any preferred drug, in the standard tablet/capsule and long-acting injectable dosage forms. 
+Other dosage forms may still require prior authorization. The exemption will be processed by the claims system when the pharmacy
+has submitted the prescriber on the claim using the individual national provider identifier (NPI) for the prescriber.
 
-**FFS**: Physicians who are registered with Ohio Medicaid as having a specialty in psychiatry
-
-**MCOs**: Physicians with a specialty in psychiatry, nurse practitioners certified in psychiatric mental health, or clinical nurse specialists certified in psychiatric mental health, who are credentialed via the Medicaid managed care plan
+Prescribers are defined as:</br>
+Physicians with a specialty in psychiatry, nurse practitioners certified in psychiatric mental health,
+or clinical nurse specialists certified in psychiatric mental health, who are credentialed with the Ohio Department of Medicaid.
 
 **All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
@@ -119,7 +123,7 @@ Paliperidone Palmitate (Invega Hafyera) Criteria
 
 Step Therapy Approval Criteria
 
-- Must have had an inadequate clinical response of at least **30 days** with at least **one preferred** drug
+- Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^one preferred^^ drug
 
 ### Non-Preferred
 
@@ -127,7 +131,7 @@ Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
-- Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drugs
+- Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^two preferred^^ drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
@@ -137,9 +141,9 @@ Additional Aripiprazole (Abilify Mycite) Criteria
 
 - Must be prescribed by or in consultation with a psychiatrist following an aripiprazole serum blood level draw indicating need for further investigation of adherence
 
-### Olanzapine / Samidorphan (Lybalvi)
+### Olanzapine/Samidorphan (Lybalvi)
 
-Additonal Olanzapine / Samidorphan (Lybalvi) Criteria
+Additonal Olanzapine/Samidorphan (Lybalvi) Criteria
 
 -  Must provide documentation that patient is not using opioids or undergoing acute opioid withdrawal
 
@@ -147,15 +151,15 @@ Additonal Olanzapine / Samidorphan (Lybalvi) Criteria
 
 Additional Pimavanserin (Nuplazid) Criteria
 
-- For Parkinson-related Hallucinations & Delusions ALL of the following must be met:
-    - Psychotic symptoms are severe and frequent enough to warrant treatment with an antipsychotic AND are not related to dementia or delirium
-    - The patient’s other Parkinson’s Disease drugs have been reduced or adjusted and psychotic symptoms persist OR patient is unable to tolerate adjustment of these other drugs
-    - Must have been inadequate clinical response or contraindication to at least 30 days of either quetiapine or clozapine
+- For Parkinson-related Hallucinations & Delusions **ALL** of the following must be met:
+    - Psychotic symptoms are severe and frequent enough to warrant treatment with an antipsychotic **AND** are not related to dementia or delirium
+    - The patient’s other Parkinson’s Disease drugs have been reduced or adjusted and psychotic symptoms persist **OR** patient is unable to tolerate adjustment of these other drugs
+    - Must have been inadequate clinical response or contraindication to at least ^^30 days^^ of either quetiapine or clozapine
 - An exemption to the criteria will be authorized for prescribers with a neurology specialty to a patient with a history of the related condition
 
-### Fluoxetine / Olanzapine (Symbyax)
+### Fluoxetine/Olanzapine (Symbyax)
 
-Additional Fluoxetine / Olanzapine (Symbyax) Criteria
+Additional Fluoxetine/Olanzapine (Symbyax) Criteria
 
 - Must provide documentation for patient’s inability to use the individual drugs
 
@@ -171,8 +175,6 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=36){ :target="_blank" rel="noopener"}
-
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=16){ :target="_blank" rel="noopener"}
-
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=36){ :target="_blank" rel="noopener"} </br>
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=16){ :target="_blank" rel="noopener"} </br>
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

@@ -27,6 +27,7 @@ This is a subcategory of Topical Agents.
 | Non-Preferred              | Generic Name | Quantity | Time (Days) |
 |:---------------------------|:-------------|:--------:|:-----------:|
 | Eucrisa                    |              |          |             |
+| Hyftor                     |              |          |             |
 | Opzelura                   |              |          |             |
 | <span title = "Brand Preferred: Elidel">Pimecrolimus</span> <sup>AR, Brand Preferred</sup> |              |          |             |
 | Vtama                      |              |          |             |
@@ -62,7 +63,7 @@ Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-**AR** - pimecrolimus and tacrolimus: a PA is required for patients younger than 2 years old
+**AR** - Pimecrolimus and Tacrolimus: a PA is required for patients younger than 2 years old
 
 ## Links
 

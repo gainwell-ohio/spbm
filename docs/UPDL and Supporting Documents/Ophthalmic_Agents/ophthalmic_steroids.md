@@ -19,7 +19,8 @@ This is a subcategory of Ophthalmic Agents.
 |:-------------------------------|:-------------|:--------:|:-----------:|
 | Alrex <sup>BvG</sup>           |              |          |             |
 | Dexamethasone Sodium Phosphate |              |          |             |
-| Durezol <sup>BvG</sup>         |              |          |             |
+| Difluprednate                  |              |          |             |
+| Durezol                        |              |          |             |
 | Flarex                         |              |          |             |
 | Fluorometholone                |              |          |             |
 | Fml Forte                      |              |          |             |
@@ -35,7 +36,6 @@ This is a subcategory of Ophthalmic Agents.
 
 | Non-Preferred                                                                                  | Generic Name | Quantity | Time (Days) |
 |:-----------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
-| <span title = "Brand Preferred: Durezol">Difluprednate</span> <sup>Brand Preferred</sup>       |              |          |             |
 | Inveltys                                                                                       |              |          |             |
 | Lotemax SM                                                                                     |              |          |             |
 | <span title = "Brands Preferred: Alrex, Lotemax">Loteprednol</span> <sup>Brand Preferred</sup> |              |          |             |

@@ -103,7 +103,7 @@ Non-Preffered Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
-- Must have had an inadequate clinical response of at least **120 days** with at least **three preferred** drugs
+- Must have had an inadequate clinical response of at least ^^120 days^^ with at least ^^three preferred^^ drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
@@ -111,15 +111,13 @@ Non-Preffered Criteria
 
 Additional Oral and Injectable Combination Drugs Criteria
 
-- Must have had a trial of at least **120 days** with the individual drugs **OR** must provide
-documentation of medical necessity beyond convenience for patient’s inability to use
-the individual drugs
+- Must have had a trial of at least ^^120 days^^ with the individual drugs **OR** must provide documentation of medical necessity beyond convenience for patient’s inability to use the individual drugs
 
 ### Additional Information
 
 - An inadequate clinical response is defined as the inability to reach A1C goal after at least 120 days of current regimen with documented adherence and appropriate dose escalation.
 - Requests may be authorized for patients with a condition that is difficult to control (i.e., prone to ketoacidosis, hypoglycemia)
-- For non-preferred drugs that have preferred drugs in the same drug class: must provide documentation that there was at least **one** inadequate clinical response with a drug in same drug class
+- For non-preferred drugs that have preferred drugs in the same drug class: must provide documentation that there was at least ^^one^^ inadequate clinical response with a drug in same drug class
 
 ### Subsequent Authorization
 
@@ -129,8 +127,6 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=55){ :target="_blank" rel="noopener"}
-
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=21){ :target="_blank" rel="noopener"}
-
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=56){ :target="_blank" rel="noopener"} </br>
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=21){ :target="_blank" rel="noopener"} </br>
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

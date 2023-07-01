@@ -9,7 +9,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ## Decision Trees
 
-- [CNS - Alzheimer's Agents - Adlarity, Memantine ER Sol, Namzaric, Rivastigmine Patch, Exelon Patch](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQjMzVFlKOTdBRTFNVjA1VkxDMElKWFdYViQlQCN0PWcu){ :target="_blank" rel="noopener"}
+- [CNS - Alzheimer's Agents - Adlarity, Galantamine Sol, Memantine ER and Sol, Namzaric, Rivastigmine Patch](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQjMzVFlKOTdBRTFNVjA1VkxDMElKWFdYViQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 - [CNS - Alzheimer's Agents - Donepezil 23mg Tab](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURUFCTUtJVFNTS1lBSUVFWDlaVDFHVDVJUyQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
@@ -28,6 +28,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Galantamine ER Cap <sup>AR QL</sup>      | Galantamine Hydrobromide ER Cap (all strengths)        |   102    |     102     |
 | Memantine Tab <sup>AR</sup>              |                                                        |          |             |
 | Rivastigmine Cap <sup>AR QL</sup>        | Rivastigmine Tartrate Cap (all strengths)              |   204    |     102     |
+| Rivastigmine Patch <sup>AR BvG</sup>     |                                                        |          |             | 
 
 ### Non-Preferred
 
@@ -39,7 +40,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Memantine ER <sup>AR</sup>                                                                             |                                                      |                           |                           |
 | Memantine Sol <sup>AR</sup>                                                                            |                                                      |                           |                           |
 | Namzaric <sup>AR</sup>                                                                                 | Memantine HCI / Donepezil HCI ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| <span title = "Brand Preferred: Exelon Patch">Rivastigmine Patch</span> <sup>AR, Brand Preferred</sup> |                                                      |                           |                           |
+| Rivastigmine Patch <sup>AR</sup>                                                                       |                                                      |                           |                           |
 
 ## Authorizations
 
@@ -59,7 +60,7 @@ Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
-- Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drugs
+- Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^two preferred^^ drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
@@ -73,8 +74,7 @@ Subsequent Authorization Criteria
 
 ## Links
 
-
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=25){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=25){ :target="_blank" rel="noopener"}
 
 [Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=13){ :target="_blank" rel="noopener"}
 

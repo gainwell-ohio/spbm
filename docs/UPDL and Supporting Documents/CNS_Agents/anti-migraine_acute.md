@@ -51,7 +51,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 Step Therapy Approval Criteria
 
-- Must have had an inadequate clinical response of at least **14 days** with at least **two preferred** drugs
+- Must have had an inadequate clinical response of at least ^^14 days^^ with at least ^^two preferred^^ drugs
 
 ### Non-Preferred
 
@@ -59,7 +59,7 @@ Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
-- Must have had an inadequate clinical response of at least **14 days** with at least **two preferred** drugs
+- Must have had an inadequate clinical response of at least ^^14 days^^ with at least ^^two preferred^^ drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
@@ -67,18 +67,18 @@ Non-Preferred Criteria
 
 Additional Ubrogepant (Ubrelvy) Criteria
 
-- Must have had an inadequate clinical response of at least **14 days** with at least **one preferred** oral CGRP antagonist 
+- Must have had an inadequate clinical response of at least ^^14 days^^ with at least ^^one preferred^^ oral CGRP antagonist 
 ### Subsequent Authorization
 
 Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-**QL** - Nurtec ODT: 8 doses per 30 days for **acute** treatment
+**QL** - Nurtec ODT: 8 doses per 30 days for ^^acute^^ treatment
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=26){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=26){ :target="_blank" rel="noopener"}
 
 [Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=13){ :target="_blank" rel="noopener"}
 

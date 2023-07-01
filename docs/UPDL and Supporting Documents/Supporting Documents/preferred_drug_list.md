@@ -82,11 +82,13 @@ search:
 | Preferred               | Non-Preferred          |
 |-------------------------|------------------------|
 | Neupogen <sup>PA</sup>  | Fulphila               |
-| Nivestym <sup>PA</sup>  | Fylnetra <sup>PA</sup> |
+| Nivestym <sup>PA</sup>  | Fylnetra               |
 | Nyvepria <sup>PA</sup>  | Granix                 |
 | Ziextenzo <sup>PA</sup> | Leukine                |
 |                         | Neulasta               |
 |                         | Releuko                |
+|                         | Rolvedon               |
+|                         | Stimufend              |
 |                         | Udenyca                |
 |                         | Zarxio                 |
 
@@ -107,12 +109,12 @@ search:
 | Preferred                  | Non-Preferred |
 |----------------------------|---------------|
 | Advate <sup>PA</sup>       | Jivi          |
-| Adynovate <sup>PA</sup>    | Kovaltry      |
-| Afstyla <sup>PA</sup>      | Nuwiq         |
-| Alphanate <sup>PA</sup>    | Obizur        |
-| Alphanine SD <sup>PA</sup> | Rebinyn       |
-| Alprolix <sup>PA</sup>     | Sevenfact     |
-| Benefix <sup>PA</sup>      | Vonvendi      |
+| Adynovate <sup>PA</sup>    | Nuwiq         |
+| Afstyla <sup>PA</sup>      | Obizur        |
+| Alphanate <sup>PA</sup>    | Rebinyn       |
+| Alphanine SD <sup>PA</sup> | Sevenfact     |
+| Alprolix <sup>PA</sup>     | Vonvendi      |
+| Benefix <sup>PA</sup>      |               |
 | Corifact <sup>PA</sup>     |               |
 | Eloctate <sup>PA</sup>     |               |
 | Esperoct <sup>PA</sup>     |               |
@@ -124,6 +126,7 @@ search:
 | Ixinity <sup>PA</sup>      |               |
 | Koate <sup>PA</sup>        |               |
 | Kogenate FS <sup>PA</sup>  |               |
+| Kovaltry <sup>PA</sup>     |               |
 | Mononine <sup>PA</sup>     |               |
 | Novoeight <sup>PA</sup>    |               |
 | Novoseven RT <sup>PA</sup> |               |
@@ -150,7 +153,7 @@ search:
 |---------------------------|---------------|
 | Eliquis                   | Dabigatran    |
 | Pradaxa <sup>BvG</sup>    | Savaysa       |
-| Waefarin                  | Xarelto Susp  |
+| Warfarin                  | Xarelto Susp  |
 | Xarelto Tab <sup>QL</sup> |               |
 
 [Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=17){ :target="_blank" rel="noopener"}
@@ -178,9 +181,9 @@ search:
 | Amlodipine/Benazepril               | Camzyos                                             |
 | Amlodipine/Olmesartan <sup>QL</sup> | Candesartan                                         |
 | Amlodipine/Valsartan                | Candesartan/HCTZ                                    |
-| Amlodipine/Valsartan/HCTZ           | Corospir                                            |
+| Amlodipine/Valsartan/HCTZ           | Carospir                                            |
 | Atenolol <sup>QL</sup>              | Carvedilol ER                                       |
-| Atenolol/Chlorthalidone             | Clonidine ER <sup>PA</sup> (generic of Nexiclon XR) |
+| Atenolol/Chlorthalidone             | Clonidine ER (generic of Nexiclon XR)               |
 | Benazepril                          | Corlanor                                            |
 | Benazepril/HCTZ                     | Diltiazem 24 HR ER Tabs <sup>QL</sup>               |
 | Betaxolol <sup>QL</sup>             | Edarbi                                              |
@@ -206,7 +209,7 @@ search:
 | Fosinopril                          | Verquvo                                             |
 | Fosinopril/HCTZ                     |                                                     |
 | Guanfacine                          |                                                     |
-| Hemangeol <sup>AR</sup>             |                                                     |
+| Hemangeol <sup>PA</sup>             |                                                     |
 | Hydralazine                         |                                                     |
 | Irbesartan <sup>QL</sup>            |                                                     |
 | Irbesartan/HCTZ <sup>QL</sup>       |                                                     |
@@ -312,14 +315,15 @@ search:
 
 **Alzheimer's Agents**
 
-| Preferred                                   | Non-Preferred                       |
-|---------------------------------------------|-------------------------------------|
-| Donepezil 5mg, 10mg Tab <sup>AR QL</sup>    | Adlarity <sup>AR</sup>              |
-| Donepezil ODT <sup>AR QL</sup>              | Donepezil 23mg Tab <sup>AR QL</sup> |
-| Exelon Patch <sup>AR BvG</sup>              | Galantamine Sol <sup>AR QL</sup>    |
-| Galantamine IR Tab, ER Cap <sup>AR QL</sup> | Memantine ER, Sol <sup>AR</sup>     |
-| Memantine Tab <sup>AR</sup>                 | Namzaric <sup>AR</sup>              |
-| Rivastigmine Cap <sup>AR QL</sup>           | Rivastigmine Patch <sup>AR</sup>    |
+| Preferred                                   | Non-Preferred                           |
+|---------------------------------------------|-----------------------------------------|
+| Donepezil 5mg, 10mg Tab <sup>AR QL</sup>    | Adlarity <sup>AR</sup>                  |
+| Donepezil ODT <sup>AR QL</sup>              | Donepezil 23mg Tab <sup>AR QL</sup>     |
+| Exelon Patch <sup>AR BvG</sup>              | Galantamine Sol <sup>AR QL</sup>        | 
+| Galantamine IR Tab, ER Cap <sup>AR QL</sup> | Memantine ER, Sol <sup>AR</sup>         |
+| Memantine Tab <sup>AR</sup>                 | Namzaric <sup>AR</sup>                  |
+| Rivastigmine Cap <sup>AR QL</sup>           |                                         |
+| Rivastigmine Patch <sup>AR</sup>            |                                         |
  
 [Link to Criteria: Central Nervous System (CNS) Agents: Alzheimer's Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=25){ :target="_blank" rel="noopener"}
 
@@ -375,23 +379,23 @@ search:
 | Diacomit <sup> PA QL</sup>    | Elepsia XR                      |
 | Divalproex IR, ER             | Felbamate                       |
 | Epidiolex <sup>ST QL</sup>    | Fintepla                        |
-| Eprontia <sup>AR</sup>        | Lamotrigine ER, ODT             |
+| Eprontia <sup>AR</sup>        | Lamotrigine ER                  |
 | Ethosuximide                  | Levetiracetam ER Tab            |
 | Fycompa <sup>ST</sup>         | Oxcarbazepine Susp              |
 | Gabapentin <sup>QL</sup>      | Oxtellar XR                     |
-| Lamictal ODT <sup>BvG</sup>   | Qudexy XR <sup>BvG</sup>        |
-| Lamotrigine                   | Peganone                        |
-| Levetiracetam IR Tab, Sol     | Rufinamide Tab, Soln            |
-| Oxcarbazepine Tab             | Spritam                         |
-| Phenobarbital                 | Sympazan                        |
-| Phenytoin                     | Tiagabine                       |
-| Pregabalin <sup>QL</sup>      | Topiramate Sprinkle Cap         |
-| Primidone                     | Trokendi XR <sup>BvG</sup>      |
-| Topiramate                    | Vigabatrin                      |
-| Trileptal Susp <sup>BvG</sup> | Vigabatrin Powder <sup>AR</sup> |
-| Valproic Acid                 | Xcopri                          |
-| Lacosamide <sup>ST</sup>      | Zonisade Susp                   |
-| Zonisamide Cap                | Ztalmy                          |
+| Lamotrigine IR, ODT           | Qudexy XR <sup>BvG</sup>        |
+| Levetiracetam IR Tab, Sol     | Peganone                        |
+| Oxcarbazepine Tab             | Rufinamide Tab, Soln            |
+| Phenobarbital                 | Spritam                         |
+| Phenytoin                     | Sympazan                        |
+| Pregabalin <sup>QL</sup>      | Tiagabine                       |
+| Primidone                     | Topiramate Sprinkle Cap         |
+| Topiramate                    | Trokendi XR <sup>BvG</sup>      |
+| Trileptal Susp <sup>BvG</sup> | Vigabatrin                      |
+| Valproic Acid                 | Vigabatrin Powder <sup>AR</sup> |
+| Lacosamide <sup>ST</sup>      | Xcopri                          |
+| Zonisamide Cap                | Zonisade Susp                   |
+|                               | Ztalmy                          |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Anticonvulsants](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=30){ :target="_blank" rel="noopener"}
 
@@ -411,7 +415,7 @@ search:
 | Preferred                                             | Non-Preferred                                      |
 |-------------------------------------------------------|----------------------------------------------------|
 | Bupropion <sup>QL</sup>                               | Aplenzin                                           |
-| Bupropion SR (generic of Wellbutrin SR) <sup>QL</sup> | Auvelity <sup>PA</sup>                             |
+| Bupropion SR (generic of Wellbutrin SR) <sup>QL</sup> | Auvelity                                           |
 | Bupropion XL (generic of Wellbutrin XL) <sup>QL</sup> | Brisdelle                                          |
 | Citalopram <sup>QL</sup>                              | Bupropion XL (generic of Forfivo XL) <sup>QL</sup> |
 | Duloxetine 20, 30, 60 MG <sup>QL</sup>                | Clomipramine                                       |
@@ -438,21 +442,19 @@ search:
 | Preferred                                                                              | Non-Preferred                                                          |
 |----------------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | Amphetamine/Dextroamphetamine IR, ER <sup>AR QL</sup>                                  | Adhansia XR <sup>AR</sup>                                              |
-|                                                                                        | Adzenys ER, XR ODT                                                     |
-| Atomoxetine Cap <sup>AR QL</sup>                                                       | Amphetamine Tab                                                        |
-| Clonidine ER                                                                           | Azstarys <sup>AR</sup>                                                 |
-| Concerta <sup>AR QL</sup>                                                              | Cotempla XR ODT <sup>AR</sup>                                          |
-| Dexmethylphenidate Tab <sup>AR QL</sup>                                                | Daytrana <sup>AR BvG</sup>                                             |
-| Dexmethylphenidate ER (generic of Focalin XR) <sup>AR QL</sup>                         | Evekeo ODT                                                             |
-| Dextroamphetamine IR Tab, ER Cap <sup>AR QL</sup>                                      | Jornay PM <sup>AR</sup>                                                |
-| Dextroamphetamine Sol <sup>AR</sup>                                                    | Methamphetamine                                                        |
-| Dyanavel XR <sup>AR</sup>                                                              | Methylphenidate Chewable Tab <sup>AR QL</sup>                          |
-| Guanfacine ER <sup>QL</sup>                                                            | Methylphenidate ER <sup>AR QL</sup> (generic of Aptensio XR, Relexxii) |
-| Methylphenidate ER Cap <sup>AR QL</sup> (generic of Metadate CD, Ritalin LA)           | Mydayis <sup>QL</sup>                                                  |
-| Methylphenidate ER Tab <sup>AR QL</sup> (generic of Concerta, Methylin ER, Ritalin SR) | Vyvanse Chewable Tab                                                   |
-| Methylphenidate Sol <sup>AR QL</sup>                                                   | Zenzedi <sup>AR QL</sup>                                               |
-| Methylphenidate Tab <sup>AR QL</sup>                                                   |                                                                        |
-| Procentra <sup>AR</sup>                                                                |                                                                        |
+| Atomxetine Cap <sup>AR QL</sup>                                                        | Adzenys ER, XR ODT                                                     |
+| Clonidine ER                                                                           | Amphetamine Tab                                                        |
+| Concerta <sup>AR QL</sup>                                                              | Azstarys <sup>AR</sup>                                                 |                                                                                                         | Dexmethylphenidate Tab <sup>AR QL</sup>                                                | Cotempla XR ODT <sup>AR</sup>                                          |
+| Dexmethylphenidate ER (generic of Focalin XR) <sup>AR QL</sup>                         | Daytrana <sup>AR BvG</sup>                                             |
+| Dextroamphetamine IR Tab, ER Cap <sup>AR QL</sup>                                      | Evekeo ODT                                                             |
+| Dextroamphetamine Sol <sup>AR</sup>                                                    | Jornay PM <sup>AR</sup>                                                |
+| Dyanavel XR <sup>AR</sup>                                                              | Methamphetamine                                                        |
+| Guanfacine ER <sup>QL</sup>                                                            | Methylphenidate Chewable Tab <sup>AR QL</sup>                          |
+| Methylphenidate ER Cap <sup>AR QL</sup> (generic of Metadate CD, Ritalin LA)           | Methylphenidate ER <sup>AR QL</sup> (generic of Aptensio XR, Relexxii) |
+| Methylphenidate ER Tab <sup>AR QL</sup> (generic of Concerta, Methylin ER, Ritalin SR) | Mydayis <sup>QL</sup>                                                  |
+| Methylphenidate Sol <sup>AR QL</sup>                                                   | Vyvanse Chewable Tab                                                   |
+| Methylphenidate Tab <sup>AR QL</sup>                                                   | Xelstrym <sup>AR</sup>                                                 |
+| Procentra <sup>AR</sup>                                                                | Zenzedi <sup>AR QL</sup>                                               |
 | Qelbree <sup>ST</sup>                                                                  |                                                                        |
 | Quillichew ER <sup>AR</sup>                                                            |                                                                        |
 | Quillivant XR <sup>AR</sup>                                                            |                                                                        |
@@ -472,14 +474,14 @@ search:
 | Clozapine                       | Clozapine ODT Rapdis           |
 | Fanapt <sup>ST</sup>            | Fluoxetine/Olanzapine          |
 | Geodon <sup>QL</sup>            | Lybalvi                        |
-| Invega Tab <sup>BvG</sup>       | Nuplazid                       |
-| Invega Hafyera ER <sup>PA</sup> | Olanzapine ODT                 |
-| Invega Sustenna <sup>QL</sup>   | Paliperidone                   |
+| Invega Hafyera ER <sup>PA</sup> | Nuplazid                       |
+| Invega Sustenna <sup>QL</sup>   | Olanzapine ODT                 |
 | Invega Trinza <sup>QL</sup>     | Rexulti                        |
-| Latuda <sup>BvG QL ST</sup>     | Secuado                        |
+| Lurasidone <sup>QL</sup>        | Secuado                        |
 | Olanzapine <sup>QL</sup>        | Versacloz                      |
-| Perseris                        | Vraylar                        |
-| Quetiapine IR, ER <sup>QL</sup> | Zyprexa Relprevv <sup>QL</sup> |
+| Paliperdone Tab                 | Vraylar                        |
+| Perseris                        | Zyprexa Relprevv <sup>QL</sup> |
+| Quetiapine IR, ER <sup>QL</sup> |                                |
 | Risperdal Consta <sup>QL</sup>  |                                |
 | Risperidone <sup>QL</sup>       |                                |
 | Saphris <sup>BvG ST</sup>       |                                |
@@ -520,21 +522,21 @@ search:
 
 **Multiple Sclerosis***
 
-| Preferred               | Non-Preferred |
-|-------------------------|---------------|
-| Aubagio <sup>BvG</sup>  | Bafiertam     |
-| Avonex                  | Extavia       |
-| Betaseron               | Fingolimod    |
-| Copaxone <sup>BvG</sup> | Glatiramer    |
-| Dalfampridine           | Glatopa       |
-| Dimethyl Fumarate       | Kesimpta      |
-| Gilenya <sup>BvG</sup>  | Mavenclad     |
-| Rebif                   | Mayzent       |
-|                         | Plegridy      |
-|                         | Ponvory       |
-|                         | Teriflunomide |
-|                         | Vumerity      |
-|                         | Zeposia       |
+| Preferred                 | Non-Preferred |
+|---------------------------|---------------|
+| Aubagio <sup>BvG</sup>    | Bafiertam     |
+| Avonex                    | Extavia       |
+| Betaseron                 | Glatiramer    |
+| Copaxone <sup>BvG</sup>   | Glatopa       |
+| Dalfampridine             | Kesimpta      |
+| Dimethyl Fumarate         | Mavenclad     |
+| Gilenya                   | Mayzent       |
+| Fingolimod                | Plegridy      |
+| Rebif                     | Ponvory       |
+|                           | Tascenso ODT  |
+|                           | Teriflunomide |
+|                           | Vumerity      |
+|                           | Zeposia       |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Multiple Sclerosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=42){ :target="_blank" rel="noopener"}
 
@@ -628,7 +630,7 @@ search:
 | Cyclobenzaprine 5, 10mg <sup>QL</sup>  | Chlorzoxazone 375, 750mg <sup>QL</sup> |
 | Dantrolene                             | Cyclobenzaprine 7.5mg <sup>QL</sup>    |
 | Methocarbamol <sup>QL</sup>            | Cyclobenzaprine ER <sup>QL</sup>       |
-| Tizanidine Tab <sup>QL</sup>           | Fleqsuvy                               |
+| Tizanidine Tab <sup>QL</sup>           | Fleqsuvy <sup>BvG</sup>                |
 |                                        | Lyvispah                               |
 |                                        | Metaxalone                             |
 |                                        | Orphenadrine                           |
@@ -638,12 +640,12 @@ search:
 
 **Smoking Deterrents**
 
-| Preferred                 | Non-Preferred |
-|---------------------------|---------------|
-| Nicotine <sup>QL</sup>    |               |
-| Bupropion <sup>QL</sup>   |               |
-| Chantix <sup>QL</sup>     |               |
-| Varenicline <sup>QL</sup> |               |
+| Preferred                 | Non-Preferred            |
+|---------------------------|--------------------------|
+| Nicotine <sup>QL</sup>    |                          |
+| Bupropion <sup>QL</sup>   |                          |
+| Chantix <sup>QL</sup>     |                          |
+| Varenicline <sup>QL</sup> |                          |
 
 [Link to Criteria: Central Nervous System (CNS) Agents: Smoking Deterrents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=49){ :target="_blank" rel="noopener"}
 
@@ -729,17 +731,17 @@ search:
 | Apidra                                  | Admelog <sup>QL</sup>       |
 | Humalog 50-50                           | Afrezza                     |
 | Humalog 75-25                           | Basaglar <sup>QL</sup>      |
-| Humalog U-100 <sup>QL</sup>             | Fiasp <sup>QL</sup>         |
-| Humulin 70-30                           | Humalog U-200 <sup>QL</sup> |
-| Humulin R U-500 <sup>QL</sup>           | Humulin N U-100             |
-| Insulin Aspart <sup>QL</sup>            | Humulin R U-100             |
-| Insulin Aspart Protamine/Insulin Aspart | Insulin Degludec            |
-| Insulin Lispro <sup>QL</sup>            | Lyumjev                     |
-| Lantus <sup>BvG QL</sup>                | Novolin 70-30               |
-| Levemir                                 | Novolin N U-100             |
-| Novolog 70-30                           | Novolin R U-100             |
-| Novolog U-100 <sup>QL</sup>             | Semglee <sup>BvG QL</sup>   |
-| Toujeo                                  |                             |
+| Humalog U-100 Kwikpen Vial <sup>QL</sup>| Fiasp <sup>QL</sup>         |
+| Humulin 70-30                           | Humalog U-100 Tempo Pen     |
+| Humulin R U-500 <sup>QL</sup>           | Humalog U-200 <sup>QL</sup> |
+| Insulin Aspart <sup>QL</sup>            | Humulin N U-100             |
+| Insulin Aspart Protamine/Insulin Aspart | Humulin R U-100             |
+| Insulin Lispro <sup>QL</sup>            | Insulin Degludec            |
+| Lantus <sup>BvG QL</sup>                | Lyumjev                     |
+| Levemir                                 | Novolin 70-30               |
+| Novolog 70-30                           | Novolin N U-100             |   
+| Novolog U-100 <sup>QL</sup>             | Novolin R U-100             |
+| Toujeo                                  | Semglee <sup>BvG QL</sup>   |
 | Tresiba <sup>BvG ST</sup>               |                             |
 
 [Link to Criteria: Endocrine Agents: Diabetes - Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=54){ :target="_blank" rel="noopener"}
@@ -799,7 +801,7 @@ search:
 |-----------------------------------------|---------------------------------|
 | Climara Pro <sup>QL</sup>               | Angeliq                         |
 | Combipatch <sup>QL</sup>                | Climara <sup>QL</sup>           |
-| Dotti <sup>QL</sup>                     | Divigel                         |
+| Dotti <sup>QL</sup>                     | Divigel <sup>BvG</sup>          |
 | Estradiol Cream, Tab                    | Duavee                          |
 | Estradiol Patch <sup>QL</sup>           | Elestrin <sup>BvG</sup>         |
 | Lyllana <sup>QL</sup>                   | Estradiol 10 MCG Vag Tab        |
@@ -947,36 +949,37 @@ search:
 
 **Ulcerative Colitis**
 
-| Preferred                       | Non-Preferred             |
-|---------------------------------|---------------------------|
-| Balsalazide Disodium            | Dipentum                  |
-| Budesonide ER Tab <sup>QL</sup> | Mesalamine Supp           |
-| Mesalamine DR Cap, Tab          | Uceris Foam <sup>QL</sup> |
-| Mesalamine Enema                | Zeposia                   |
-| Mesalamine ER                   |                           |
-| Pentasa <sup>BvG</sup>          |                           |
-| Sulfasalazine                   |                           |
+| Preferred                       | Non-Preferred                 |
+|---------------------------------|-------------------------------|
+| Balsalazide Disodium            | Dipentum                      |
+| Budesonide ER Tab <sup>QL</sup> | Mesalamine Supp               |
+| Mesalamine DR Cap, Tab          | Uceris Foam <sup>QL BvG</sup> |
+| Mesalamine Enema                | Zeposia                       |
+| Mesalamine ER                   |                               |
+| Pentasa <sup>BvG</sup>          |                               |
+| Sulfasalazine                   |                               |
 
 [Link to Criteria: Gastrointestinal Agents: Ulcerative Colitis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=69){ :target="_blank" rel="noopener"}
 
 **Unspecified GI**
 
-| Preferred                         | Non-Preferred |
-|-----------------------------------|---------------|
-| Amitiza <sup>BvG ST</sup>         | Aemcolo       |
-| Bisacodyl                         | Gattex        |
-| Casanthranol/Docusate Sodium      | Ibsrela       |
-| Dicyclomine                       | Linzess 72mcg |
-| Diphenoxylate/Atropine            | Lubiprostone  |
-| Lactulose                         | Motegrity     |
-| Linzess <sup>ST</sup> 145, 290mcg | Mytesi        |
-| Loperamide                        | Relistor      |
-| Movantik <sup>ST</sup>            | Symproic      |
-| Polyethylene Glycol               | Zorbtive      |
-| Psyllium Fiber                    |               |
-| Senna                             |               |
-| Trulance <sup>ST</sup>            |               |
-| Xifaxan <sup>ST</sup>             |               |
+| Preferred                         | Non-Preferred                 |
+|-----------------------------------|-------------------------------|
+| Amitiza <sup>ST</sup>             | Aemcolo                       |
+| Bisacodyl                         | Gattex                        |
+| Casanthranol/Docusate Sodium      | Ibsrela                       |
+| Dicyclomine                       | Linzess 72mcg                 |
+| Diphenoxylate/Atropine            | Motegrity                     |
+| Lactulose                         | Mytesi                        |
+| Linzess <sup>ST</sup> 145, 290mcg | Relistor                      |
+| Loperamide                        | Symproic                      |
+| Lubiprostone <sup>ST</sup>        | Zorbtive                      |
+| Movantik <sup>ST</sup>            |                               |
+| Polyethylene Glycol               |                               |
+| Psyllium Fiber                    |                               |
+| Senna                             |                               |
+| Trulance <sup>ST</sup>            |                               |
+| Xifaxan <sup>ST</sup>             |                               |
  
 [Link to Criteria: Gastrointestinal Agents: Unspecified GI](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=70){ :target="_blank" rel="noopener"}
 
@@ -1001,7 +1004,7 @@ search:
 
 | Preferred                  | Non-Preferred       |
 |----------------------------|---------------------|
-| Calcium Acetate, Carbonate | Auryzia             |
+| Calcium Acetate, Carbonate | Auryxia             |
 | Phoslyra                   | Lanthanum Carbonate |
 | Sevelamer                  | Velphoro            |
 
@@ -1039,7 +1042,7 @@ search:
 |                          | Siliq                 |
 |                          | Simponi               |
 |                          | Skyrizi               |
-|                          | Sotyktu <sup>PA</sup> |
+|                          | Sotyktu               |
 |                          | Stelara               |
 |                          | Tremfya               |
 |                          | Xeljanz Sol, XR       |
@@ -1193,24 +1196,24 @@ search:
 
 **Antibiotic and Antibiotic-Steroid Combination Drops and Ointments**
 
-| Preferred                                    | Non-Preferred                       |
-|----------------------------------------------|-------------------------------------|
-| Bacitracin-Polymyxin                         | Azasite                             |
-| Ciloxan                                      | Bacitracin                          |
-| Ciprofloxacin                                | Besivance                           |
-| Erythromycin                                 | Blephamide                          |
-| Gentamicin                                   | Gatifloxacin                        |
-| Moxifloxacin                                 | Levofloxacin                        |
-| Neomycin/Polymyxin/Bacitracin                | Moxifloxacin (Generic of Moxeza)    |
-| Neomycin/Polymyxin/Bacitracin/Hydrocortisone | Neomycin/Polymyxin/Hydrocortisone   |
-| Neomycin/Polymyxin/Dexamethasone             | Pred-G                              |
-| Neomycin/Polymyxin/Gramicidin                | Sulfacetamide Sodium Ophth Oint 10% |
-| Ofloxacin                                    | Tobradex ST <sup>BvG</sup>          |
-| Polymyxin/Trimethoprim                       | Tobramycin/Dexamethasone 0.3/0.1%   |
-| Sulfacetamide Sodium Ophth Sol 10%           | Zylet                               |
-| Sulfacetamide/Prednisolone                   |                                     |
-| Tobradex <sup>BvG</sup>                      |                                     |
-| Tobramycin                                   |                                     |
+| Preferred                                        | Non-Preferred                       |
+|--------------------------------------------------|-------------------------------------|
+| Bacitracin-Polymyxin                             | Azasite                             |
+| Ciloxan                                          | Bacitracin                          |
+| Ciprofloxacin                                    | Besivance                           |
+| Erythromycin                                     | Blephamide                          |
+| Gentamicin                                       | Gatifloxacin                        |
+| Moxifloxacin                                     | Levofloxacin                        |
+| Neomycin/Polymyxin/Bacitracin                    | Moxifloxacin (Generic of Moxeza)    |
+| Neomycin/Polymyxin/Bacitracin/Hydrocortisone     | Neomycin/Polymyxin/Hydrocortisone   |
+| Neomycin/Polymyxin/Dexamethasone                 | Pred-G                              |
+| Neomycin/Polymyxin/Gramicidin                    | Sulfacetamide Sodium Ophth Oint 10% |
+| Ofloxacin                                        | Tobradex ST <sup>BvG</sup>          |
+| Polymyxin/Trimethoprim                           | Zylet                               |
+| Sulfacetamide Sodium Ophth Sol 10%               |                                     |
+| Sulfacetamide/Prednisolone                       |                                     |
+| Tobramycin                                       |                                     |
+| Tobramycin/Dexamethasone 0.3/0.1%                |                                     |
  
 [Link to Criteria: Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=85){ :target="_blank" rel="noopener"}
  
@@ -1250,12 +1253,12 @@ search:
 | Carteolol                       | Iopidine                      |
 | Combigan <sup>BvG ST</sup>      | Istalol                       |
 | Dorzolamide                     | Lumigan                       |
-| Dorzolamide/Timolol             | Timoptic 0.25% <sup>BvG</sup> |
+| Dorzolamide/Timolol             | Timolol Maleate Droperette    |
 | Latanoprost                     | Travoprost                    |
 | Levobunolol                     | Vyzulta                       |
 | Metipranolol                    | Xelpros                       |
 | Rhopressa                       | Zioptan <sup>BvG</sup>        |
-| Rocklatan                       |                               |
+| Rocklatan                       | Zioptan <sup>BvG</sup>        |
 | Simbrinza                       |                               |
 | Timolol 0.5% Gel, Soln          |                               |
 | Travatan Z <sup>BvG ST</sup>    |                               |
@@ -1279,10 +1282,11 @@ search:
 
 | Preferred                      | Non-Preferred |
 |--------------------------------|---------------|
-| Alrex <sup>BvG</sup>           | Difluprednate |
-| Dexamethasone Sodium Phosphate | Inveltys      |
-| Durezol <sup>BvG</sup>         | Lotemax SM    |
-| Flarex                         | Loteprednol   |
+| Alrex <sup>BvG</sup>           | Inveltys      |
+| Dexamethasone Sodium Phosphate | Lotemax SM    |
+| Difluprednate                  | Loteprednol   |
+| Durezol                        |               |
+| Flarex                         |               |
 | Fluorometholone                |               |
 | Fml Forte                      |               |
 | Fml S.O.P.                     |               |
@@ -1356,32 +1360,34 @@ search:
 
 **Inhaled Agents**
 
-| Preferred                                                                      | Non-Preferred                       |
-|--------------------------------------------------------------------------------|-------------------------------------|
-| Advair Diskus <sup>BvG</sup>                                                   | Aerospan HFA                        |
-| Advair HFA <sup>BvG</sup>                                                      | Airduo Digihaler, Respiclick        |
-| Albuterol Nebulizer Sol 0.021% (0.63mg/3mL), 0.042% (1.25mg/3mL) <sup>AR</sup> | Albuterol HFA                       |
-| Albuterol Nebulizer Sol 0.083% (2.5mg/3mL), 0.5% (5mg/mL) Conc                 | Alvesco                             |
-| Anoro Ellipta                                                                  | Armonair Digihaler, Respiclick      |
-| Asmanex Twisthaler                                                             | Arnuity Ellipta                     |
-| Atrovent HFA <sup>QL</sup>                                                     | Asmanex HFA                         |
-| Budesonide Nebulizer Sol <sup>AR QL</sup>                                      | Bevespi Aerosphere                  |
-| Combivent Respimat                                                             | Breo Ellipta <sup>BvG</sup>         |
-| Cromolyn Neb Sol                                                               | Breztri Aerosphere                  |
-| Dulera                                                                         | Brovana <sup>BvG</sup>              |
-| Flovent <sup>BvG QL</sup>                                                      | Budesonide/Formoterol <sup>QL</sup> |
-| Incruse Ellipta                                                                | Duaklir Pressair                    |
-| Ipratropium                                                                    | Fluticasone/Salmeterol              |
-| Ipratropium/Albuterol Nebulizer Sol <sup>QL</sup>                              | Formoterol Fumarate Nebulizer Sol   |
-| Proventil HFA <sup>BvG</sup>                                                   | Levalbuterol Nebulizer Sol          |
-| Pulmicort Flexhaler <sup>QL</sup>                                              | Lonhala Magnair                     |
-| Serevent Diskus                                                                | Proair Digihaler, Respiclick        |
-| Spiriva <sup>QL</sup>                                                          | Qvar <sup>QL</sup>                  |
-| Stiolto                                                                        | Trelegy Ellipta                     |
-| Striverdi Respimat                                                             | Tudorza                             |
-| Symbicort <sup>BvG QL</sup>                                                    | Wixela Inhub                        |
-| Ventolin HFA <sup>BvG</sup>                                                    | Xopenex HFA                         |
-|                                                                                | Yupelri                             |
+| Preferred                                                                      | Non-Preferred                             |
+|--------------------------------------------------------------------------------|-------------------------------------------|
+| Advair Diskus <sup>BvG</sup>                                                   | Aerospan HFA                              |
+| Advair HFA <sup>BvG</sup>                                                      | Airduo Digihaler, Respiclick              |
+| Albuterol HFA                                                                  | Alvesco                                   |
+| Albuterol Nebulizer Sol 0.021% (0.63mg/3mL), 0.042% (1.25mg/3mL) <sup>AR</sup> | Armorair Digihaler, Respiclick            |
+| Albuterol Nebulizer Sol 0.083% (2.5mg/3mL), 0.5% (5mg/mL) Conc                 | Arformoterol Nebulizer Sol                |
+| Albuterol Nebulizer Sol 0/083% (2.5mg/3mL), 0.5%                               | Anoro Ellipta                             | 
+| Anoro Ellipta                                                                  | Asmanex HFA                               |
+| Asmanex Twisthaler                                                             | Bevespi Aerosphere                        |
+| Atrovent HFA <sup>QL</sup>                                                     | Breo Ellipta <sup>BvG</sup>               |
+| Budesonide Nebulizer Sol <sup>AR QL</sup>                                      | Breztri Aerosphere                        |
+| Combivent Respimat                                                             | Budesonide/Formeterol <sup>QL</sup>       |
+| Cromolyn Neb Sol                                                               | Duaklir Pressair                          |
+| Dulera                                                                         | Fluticasone/Salmeterol                    |
+| Flovent <sup>BvG QL</sup>                                                      | Formeterol Fumarate Nebulizer Sol         |
+| Incruse Ellipta                                                                | Levalbuterol Nebulizer Sol                |
+| Ipratropium                                                                    | Lonhala Magnair                           |
+| Ipratropium/Albuterol Nebulizer Sol <sup>QL</sup>                              | Proair Digihaler, Respiclick              |
+| Proair HFA                                                                     | Qvar <sup>QL</sup>                        |
+| Proventil HFA                                                                  | Trelegy Ellipta                           |
+| Pulmicort Flexhaler <sup>QL</sup>                                              | Tudorza                                   |
+| Serevent Diskus                                                                | Wixela Inhub                              |
+| Spiriva <sup>QL</sup>                                                          | Xopenex HFA                               |
+| Stiolto                                                                        | Yupelri                                   |
+| Striverdi Respimat                                                             |                                           |
+| Symbicort <sup>BvG QL</sup>                                                    |                                           |
+| Ventolin HFA <sup>BvG</sup>                                                    |                                           |
 
 [Link to Criteria: Respiratory Agents Inhaled Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=96){ :target="_blank" rel="noopener"}
 
@@ -1422,9 +1428,9 @@ search:
 
 **Other Agents**
 
-| Preferred | Non-Preferred           |
-|-----------|-------------------------|
-|           | Daliresp <sup>BvG</sup> |
+| Preferred | Non-Preferred              |
+|-----------|----------------------------|
+|           | Roflumilast                |
 
 [Link to Criteria: Respiratory Agents: Other Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=100){ :target="_blank" rel="noopener"}
 
@@ -1491,7 +1497,8 @@ search:
 | Preferred                   | Non-Preferred              |
 |-----------------------------|----------------------------|
 | Elidel <sup>AR BvG ST</sup> | Eucrisa                    |
-| Tacrolimus <sup>AR ST</sup> | Opzelura                   |
+| Tacrolimus <sup>AR ST</sup> | Hyftor                     |
+|                             | Opzelura                   |
 |                             | Pimecrolimus <sup>AR</sup> |
 |                             | Vtama                      |
 |                             | Zoryve                     |

@@ -50,7 +50,7 @@ This is a subcategory of Ophthalmic Agents.
 | Iopidine                                                                                              |              |          |             |
 | Istalol                                                                                               |              |          |             |
 | Lumigan                                                                                               |              |          |             |
-| Timoptic 0.25% <sup>BvG</sup>                                                                         |              |          |             |
+| Timolol Maleate Droperette                                                                            |              |          |             |
 | <span title = "Brand Preferred: Travatan Z">Travoprost</span> <sup>Brand Preferred</sup>                               |              |          |             |
 | Vyzulta                                                                                               |              |          |             |
 | Xelpros                                                                                               |              |          |             |

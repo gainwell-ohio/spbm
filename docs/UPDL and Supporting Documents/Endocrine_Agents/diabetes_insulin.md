@@ -24,7 +24,7 @@ This is a subcategory of Endocrine Agents.
 | Apidra                                    |                                                                         |          |             |
 | Humalog 50-50                             |                                                                         |          |             |
 | Humalog 75-25                             |                                                                         |          |             |
-| Humalog U-100 <sup>QL</sup>               | Insulin Lispro Soln Subcutaneous Inj 100 Unit / ML (all formulations)   |   306    |     102     |
+| Humalog U-100 Kwikpen Vial <sup>QL</sup>  | Insulin Lispro Soln Subcutaneous Inj 100 Unit / ML (all formulations)   |   306    |     102     |
 | Humulin 70-30                             |                                                                         |          |             |
 | Humulin R U-500 <sup>QL</sup>             | Insulin Regular Soln Subcutaneous Inj 500 Unit / ML (all formulations)  |   61.2   |     102     |
 | Insulin Aspart <sup>QL</sup>              | Insulin Aspart Soln Subcutaneous Inj 100 Unit / ML (all formulations)   |   306    |     102     |
@@ -45,6 +45,7 @@ This is a subcategory of Endocrine Agents.
 | Afrezza                                                                                     |                                                                         |                           |                           |
 | Basaglar <sup>QL</sup>                                                                      | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) | Determined pursuant to PA | Determined pursuant to PA |
 | Fiasp <sup>QL</sup>                                                                         | Insulin Aspart Soln Subcutaneous Inj 100 Unit / ML (all formulations)   | Determined pursuant to PA | Determined pursuant to PA |
+| Humalog U-100 Tempo Pen                                                                     |                                                                         |                           |                           |
 | Humalog U-200 <sup>QL</sup>                                                                 | Insulin Lispro Soln Subcutaneous Inj 200 Unit / ML (all formulations)   | Determined pursuant to PA | Determined purusant to PA |
 | Humulin N U-100                                                                             |                                                                         |                           |                           |
 | Humulin R U-100                                                                             |                                                                         |                           |                           |
@@ -67,7 +68,7 @@ This is a subcategory of Endocrine Agents.
 
 Step Therapy Approval Criteria
 
-- Must have had an inadequate clinical response of at least **120 days** with at least **one preferred** drug having a similar duration of action 
+- Must have had an inadequate clinical response of at least ^^120 days^^ with at least ^^one preferred^^ drug having a similar duration of action 
 
 ### Non-Preferred
 
@@ -75,10 +76,16 @@ Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
-- Must have had an inadequate clinical response of at least **120 days** with at least **two preferred** drugs
+- Must have had an inadequate clinical response of at least ^^120 days^^ with at least ^^two preferred^^ drugs having a similar duration of action
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
+### Tempo Pen
+
+Additional Tempo Pen Criteria
+ 
+- Must have had an inaqequate clinical response or documentation of medical necessity beyond convenience for why the patient cannot use the corresponding FlexPens or Kwikpens
+  
 ### Inhaled Insulin (Afrezza)
 
 Additional Inhaled Insulin (Afrezza) Criteria
@@ -99,8 +106,6 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=54){ :target="_blank" rel="noopener"}
-
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=20){ :target="_blank" rel="noopener"}
-
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=54){ :target="_blank" rel="noopener"} </br>
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=20){ :target="_blank" rel="noopener"} </br>
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}
