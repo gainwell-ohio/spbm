@@ -1,15 +1,14 @@
 # MITS tickets
 
-[Directions for submission of MITS tickets 5/23/23](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Directions%20for%20submission%20of%20MITS%20tickets%20.msg?csf=1&web=1&e=wSUz1u){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 ## Directions for submission of MITS tickets 5/23/23
 
 1.	Report the issue your immediate supervisor/supervisor on duty via Teams chat (tech supervisors/leads are available 24/7). Please provide as much detail as possible surrounding your issue (when it started, VPN you are using, browser you are using, etc.). If you do not report anything, we assume that your system is working correctly for you.
+
 - Pharmacists – please outreach Justin, Rachel or myself. If we happen to not be available via Teams chat, after 11pm, please place the ticket yourself (use below instructions).
 - The supervisor will need to be the one to determine if this is an isolated issue, or potentially widespread prior to submitting the ticket (we need as much information as possible to submit these).
 
 2.	Once the supervisor/lead has gathered all of the pertinent information to be submitted, please follow these instructions below:
--	Submit the ticket to OH_MITS_Service_Desk: ohio_mits_servicedesk_group@gainwelltechnologies.com
+-	Submit the ticket to OH_MITS_Service_Desk: <a href="mailto:ohio_mits_servicedesk@gainwelltechnologies.com">Ohio_MITS_ServiceDesk_Group - ohio_mits_servicedesk@gainwelltechnologies.com</a>
 -	CC the following individuals: Aaron Banks, Cassandra Roach, Denise Olusula, OH SPBM PA Pharmacist, OH Supervisors and Sr. Techs, Dan Gonos, Chad Rogers, Angie Stevens and Melissa Rutledge.
 -	If the email contains any PHI, please send encrypted!
 -	Include as much information as possible so that the service desk has everything they need to know
@@ -21,9 +20,7 @@ Cassandra Roach, PharmD, RPh
 
 ## ARCHIVED MITS/ServiceNow tickets
 
-[Submitting MITS tickets!](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Submitting%20MITTS%20tickets.msg?csf=1&web=1&e=j5gGwa){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
-Email: Ohio_MITS_ServiceDesk_Group (ohio_mits_servicedesk@gainwelltechnologies.com)
+Email: <a href="mailto:ohio_mits_servicedesk@gainwelltechnologies.com">Ohio_MITS_ServiceDesk_Group - ohio_mits_servicedesk@gainwelltechnologies.com</a>
 
 When you are noticing an issue
 

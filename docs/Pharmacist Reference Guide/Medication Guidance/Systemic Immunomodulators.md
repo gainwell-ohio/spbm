@@ -6,7 +6,6 @@ search:
 # Immunomodulators for Systemic Inflammatory Disease DLP
 
 4/10/23: 
-[Immunomodulators for Systemic Inflammatory Disease DLP- Email](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Immunomodulators%20for%20Systemic%20Inflammatory%20Disease%20DLP%20final.docx?d=w124e0214f29446c08371b9fa0addb582&csf=1&web=1&e=hsJisE){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 [Procedure for Immunomodulators for Systemic Inflammatory Disease](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Immunomodulators%20for%20Systemic%20Inflammatory%20Disease%20DLP_.docx?d=w1bd61a780e50445da38867db308cebf0&csf=1&web=1&e=ycj7WU)
 
@@ -19,7 +18,7 @@ search:
 3.	Approval will be loaded for ***90 days duration.*** **Only exception to 90-days is pediatric Dupixent dosing in which may be extended to 120 days due to breaking boxes at the pharmacy.**  
 4.	Letter text in the Approval Letter should reflect the name of the drug approved (specifically to state all strengths have been approved) and approval dates as shown below
 
-![image](https://user-images.githubusercontent.com/122046056/230942691-e53658f3-f2e6-4376-ae88-42b796a3f762.png)
+![Alt text](systemic_immunomodulators_1.png)
 
 ## Immunomodulators for Systemic Inflammatory Disease – 365-day reauthorizations 
 
@@ -33,16 +32,14 @@ search:
 4.	Letter text in the Approval Letter should reflect the name of the drug approved (specifically to state all strengths have been approved) and approval dates as shown below.
  -  Example below shows 90-day supply. This will be entered with the specific approval dates reflecting a 365-day    	supply).
 
-![image](https://user-images.githubusercontent.com/122046056/230944572-da607d64-48cb-4d37-aa44-c3e3411e9eba.png)
+![Alt text](systemic_immunomodulators_2.png)
 
-## Dupixent-small kids { data-search-exclude }
-
-[Dupixent- small kids](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Dupixent%20for%20small%20children.msg?csf=1&web=1&e=ZXvMn9){ .md-button .md-button--primary target="_blank" rel="noopener"}
+## Dupixent-small kids
 
 Hello,
 An issue has been brought to our attention from Nationwide concerning the processing of Dupixent for small children.
  
- ![image](https://user-images.githubusercontent.com/122046056/227433958-c424973c-dfb2-4921-b9e2-334a3af2fa7f.png)
+![Alt text](systemic_immunomodulators_3.png)
 
 ***In the fact that Dupixent comes in 2 syringe boxes, and the dosage of 300mg every 4 weeks for initial dosing for once every 4 weeks would either leave them a month without the initial 90 days or break a box. ODM has agreed that approving these for 4 months is appropriate to allow for correct processing and allowing the adequate trial.***
 

@@ -5,9 +5,8 @@ search:
 
 # Acceptable PA Forms
 
-[PA forms Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/ACCEPTABLE%20PA%20FORMS%20as%20of%2011_1_22%20%20_PLEASE%20READ_.msg?csf=1&web=1&e=LTkZAH){ .md-button .md-button--primary target="_blank" rel="noopener"}
+We have received new guidance regarding PA’s sent in on incorrect PA forms from management. As of 11/1/22, we have been given permission to reject PA’s that are not on correct forms specific to Gainwell. I have attached a picture of one of our forms for your reference. A complete list of the Gainwell PA forms can be found on the portal [https://spbm.medicaid.ohio.gov/SPContent/DocumentLibrary/Forms](https://spbm.medicaid.ohio.gov/SPContent/DocumentLibrary/Forms). There are several different types of forms, so please familiarize yourself with what they look like. 
 
-We have received new guidance regarding PA’s sent in on incorrect PA forms from management. As of 11/1/22, we have been given permission to reject PA’s that are not on correct forms specific to Gainwell. I have attached a picture of one of our forms for your reference. A complete list of the Gainwell PA forms can be found on the portal https://spbm.medicaid.ohio.gov/SPContent/DocumentLibrary/Forms. There are several different types of forms, so please familiarize yourself with what they look like. 
  
 The system will filter PA’s at the fax queue level and incorrect forms will reject prior to us evening seeing them in PENDING or MEDREVIEW queues; however, we currently have a backlog of PA’s in PENDING that have come through that may be on an incorrect form.
  
@@ -17,12 +16,11 @@ What does this mean for you? What are the next steps?
 	
 **Top** of page will look like this
 
-![image](https://user-images.githubusercontent.com/122046056/227087013-b5e0f79d-6ef7-4819-9908-2e03ad38f0d9.png)
-
+![Alt text](acceptable_pa_forms_1.png)
 	 
-Bottom of page will look like this
+**Bottom** of page will look like this
 
-![image](https://user-images.githubusercontent.com/122046056/227087202-d8ffd498-ce86-442c-9e26-a5a45f29a94a.png)
+![Alt text](acceptable_pa_forms_2.png)
 	
 	 
 **Double check that the received date is on or after 11/1/22**

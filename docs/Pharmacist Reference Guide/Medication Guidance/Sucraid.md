@@ -5,8 +5,6 @@ search:
 
 # Sucraid
 
-[Sucraid Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Medication%20Guidance-%20Sucraid.msg?csf=1&web=1&e=n5tkyT){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
 Please review the information provided below and use for guidance.
 
 **Suggested Medication Guidance:**
@@ -55,7 +53,9 @@ A complicating factor in diagnosis is deciphering between congenital sucrase-iso
 - Other common criteria involve the confirmation of SID diagnosis through intestinal biopsy, C13 breath test, or meeting other specified criteria from the Sucraid package insert (stool pH <6, an increase in breath hydrogen >10 ppm when challenged with sucrose after fasting, and a negative lactose breath test).
  
 References:
-ipdanalytics.com 
+
+ipdanalytics.com
+
 https://www.sucraid.com/
 
 Lexi

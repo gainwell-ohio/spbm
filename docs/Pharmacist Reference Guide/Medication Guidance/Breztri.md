@@ -3,9 +3,7 @@ search:
   boost: 1
 ---
 
-# Breztri
-
-[Trelegy and Breztri Information Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Trelegy%20and%20Breztri%20Information.msg?csf=1&web=1&e=f6yoUM){ .md-button .md-button--primary target="_blank" rel="noopener"}
+# Breztri 1/29/23
 
 **Breztri:**
  
@@ -16,10 +14,8 @@ search:
 - Maintenance treatment of COPD: 2 inhalations of BREZTRI AEROSPHERE twice daily administered by oral inhalation.
  
 - **Limitations of Use:** Not indicated for the relief of acute bronchospasm or for the treatment of asthma.
-	 
 
 Per the UPDL, criteria states: Must have had an inadequate clinical response of at least 14 days with at least two preferred drugs within the same class and duration of action. 
- 
 
 **Initial Approval Criteria for consideration:**
  

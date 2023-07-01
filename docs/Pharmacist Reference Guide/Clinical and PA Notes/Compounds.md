@@ -7,7 +7,7 @@ search:
 
 Link to Payable Compounding Ingredients and Excipients:
 
-[20220701_Payable_Active_Pharmaceutical_Ingredients_and_Excipients_for_Compounding.pdf (ohio.gov)](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220701_Payable_Active_Pharmaceutical_Ingredients_and_Excipients_for_Compounding.pdf#overlay-context=drug-coverage)
+[20220701_Payable_Active_Pharmaceutical_Ingredients_and_Excipients_for_Compounding.pdf (ohio.gov)](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220701_Payable_Active_Pharmaceutical_Ingredients_and_Excipients_for_Compounding.pdf#overlay-context=drug-coverage){target="_blank" rel="noopener"}
 
 **Compounds:** 
 
@@ -39,18 +39,17 @@ The following compounded preparations are not considered medically necessary as 
 2. Bioidentical hormones 
 3. Topical compounds containing baclofen, gabapentin, and ketamine 
 
-
 7157- first billable ingredient needs to be a legend drug
-![image](https://user-images.githubusercontent.com/122046056/227091696-171afbcc-71c6-4a81-91fc-d65a394f8ed0.png)
 
-![image](https://user-images.githubusercontent.com/122046056/227092329-a9b8465d-bca8-4166-8d26-0f5b1a3d715c.png)
+![Alt text](compounds_1.png)
 
-![image](https://user-images.githubusercontent.com/122046056/227092376-d1064d72-d64f-43ff-87a3-0c94cd45f59b.png)
+![Alt text](compounds_2.png)
 
-![image](https://user-images.githubusercontent.com/122046056/227092393-05fcbf71-efce-4973-ad43-ecc71381876b.png)
+![Alt text](compounds_3.png)
 
+![Alt text](compounds_4.png)
 
-https://casetext.com/case/exeltis-usa-inc-v-first-databank-5
+[https://casetext.com/case/exeltis-usa-inc-v-first-databank-5](https://casetext.com/case/exeltis-usa-inc-v-first-databank-5){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 F – Prescription drugs or medical devices as defined in the Food Drug and Cosmetic Act (FDCA), including bulk drug ingredients
 

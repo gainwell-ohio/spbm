@@ -3,17 +3,18 @@ search:
   boost: 1
 ---
 
-# Pharmacy 70 process
+# Pharmacy 70 process 11/11/22
 
-[Pharmacy 70 process](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Pharmacy%2070%20processes.msg?csf=1&web=1&e=ZotBF9){ .md-button .md-button--primary target="_blank" rel="noopener"}
-                      
+                   
 There have been some processing questions about when it is appropriate to be billed through the Ohio SPBM or the MCE for medical. As stated in the following rule that claims dispensed through pharmacy providers are billed to the SPBM. To accurately find out if a pharmacy is a pharmacy provider it can be found in Vue360RX by looking in the Provider tile and under the attributes section.
 
-![image](https://user-images.githubusercontent.com/122046056/230239823-738bc28c-3102-45c2-a59b-db81db3ef2c6.png)
+![Alt text](pharmacy_70_process_1.png)
                     
-And listed under Ohio (MITS) PT Num/Desc will tell the provider type, the ones that we cover are the 70 as in this example![image](https://user-images.githubusercontent.com/122046056/230239863-fd108335-8cd2-4217-902d-40b60cb351ca.png)
+And listed under Ohio (MITS) PT Num/Desc will tell the provider type, the ones that we cover are the 70 as in this example
 
-![image](https://user-images.githubusercontent.com/122046056/230239873-eb214b2b-4643-4927-ab22-122dc2b9557e.png)
+![Alt text](pharmacy_70_process_2.png)
+
+![Alt text](pharmacy_70_process_3.png)
 
 So in this instance it is appropriate to bill through us. There are many situations where this may need to be checked like physician administered medications, IV home or center administration of medications, dispensing from a pharmacy but administered elsewhere other than home.
 This can usually be found if looking at claims, the prior authorization sometimes gives the pharmacy, or if having a provider on the phone call to determine with look up by NPI or name/address. The gathering of this information can be done by either a technician or a pharmacist, and eventually when things can become more concrete can be handled by the initial PA entry by technicians.
@@ -34,4 +35,4 @@ Thanks, and please ask with any questions
  
 Justin Collingwood
 
-![image](https://user-images.githubusercontent.com/122046056/230240020-2ff44556-072f-4053-b3ba-be0a7521c140.png)
+![Alt text](pharmacy_70_process_4.png)
