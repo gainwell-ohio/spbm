@@ -74,8 +74,8 @@ Gainwell is contractually obligated to ensure that all other possible payers are
 
 Fee-for-Service pharmacy claims are processed by ODM’s contracted pharmacy benefits administrator (PBA) Change Healthcare.
 
-- BIN- 015863 
-- PCN- OHPOP 
+- BIN- 024251 
+- PCN- OHRXPFFS 
 - GROUP -NONE 
 
 Fee for Service (FFS) Help Desk (obsolete as of July 1, 2023) 
