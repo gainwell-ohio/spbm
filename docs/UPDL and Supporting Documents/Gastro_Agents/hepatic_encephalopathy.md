@@ -34,14 +34,13 @@ This is a subcategory of Gastrointestinal Agents.
 
 Step Therapy Approval Criteria
 
-- Must have had an inadequate clinical response of at least **14 days** with at least **one**
-preferred drug
+- Must have had an inadequate clinical response of at least ^^14 days^^ with at least ^^one preferred^^ drug
 
 ### Rifaxamin (Xifaxan)
 
 Rifaxamin (Xifaxan) Criteria
 
-- Must have had an inadequate clinical response of at least **14 days** to lactulose to be authorized for monotherapy or add on therapy
+- Must have had an inadequate clinical response of at least ^^14 days^^ to lactulose to be authorized for monotherapy or add on therapy
 
 ### Non-Preferred
 
@@ -49,7 +48,7 @@ Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
-- Must have had an inadequate clinical response of at least **14 days** with at least **two preferred** drugs
+- Must have had an inadequate clinical response of at least ^^14 days^^ with at least ^^two preferred^^ drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
@@ -61,8 +60,6 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=65){ :target="_blank" rel="noopener"}
-
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=23){ :target="_blank" rel="noopener"}
-
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=66){ :target="_blank" rel="noopener"} </br>
+[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=23){ :target="_blank" rel="noopener"} </br>
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

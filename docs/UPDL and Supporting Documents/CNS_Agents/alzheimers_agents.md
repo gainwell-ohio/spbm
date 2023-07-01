@@ -9,7 +9,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ## Decision Trees
 
-- [CNS - Alzheimer's Agents - Adlarity, Memantine ER Sol, Namzaric, Rivastigmine Patch, Exelon Patch](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQjMzVFlKOTdBRTFNVjA1VkxDMElKWFdYViQlQCN0PWcu){ :target="_blank" rel="noopener"}
+- [CNS - Alzheimer's Agents - Adlarity, Galantamine Sol, Memantine ER and Sol, Namzaric, Rivastigmine Patch](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQjMzVFlKOTdBRTFNVjA1VkxDMElKWFdYViQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 - [CNS - Alzheimer's Agents - Donepezil 23mg Tab](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURUFCTUtJVFNTS1lBSUVFWDlaVDFHVDVJUyQlQCN0PWcu){ :target="_blank" rel="noopener"}
 

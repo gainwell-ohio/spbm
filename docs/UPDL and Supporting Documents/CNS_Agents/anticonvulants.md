@@ -17,6 +17,8 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 - [CNS - Anticonvulsants - Eprontia](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURFAxTkE0VzNYUkpEMURaRkVNMlk5T1lVQyQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
+- [CNS - Anticonvulsants - Fycompa, Lacosamide](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM1AyWk82M1JKVlFJUlo0SzJHMUxKR0lJOSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
 - [CNS - Anticonvulsants - Vigabatrin Powder](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNDFNR1ZWWTgyT0lYMVdPUlA4UjdGWlpDWSQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
