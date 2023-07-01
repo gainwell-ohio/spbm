@@ -41,7 +41,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Clozapine                       |                                                                      |                           |                           |
 | Fanapt <sup>ST</sup>            |                                                                      |                           |                           |
 | Geodon <sup>QL</sup>            | Ziprasidone HCI Cap (all strengths)                                  |            204            |            102            |
-| Invega Tab <sup>BvG</sup>       |                                                                      |                           |                           |
 | Invega Hafyera ER <sup>PA</sup> |                                                                      |                           |                           |
 | Invega Sustenna <sup>QL</sup>   | Paliperidone Palmitate ER Susp 39 MG / 0.25 ML (all formulations)    |           0.75            |            84             |
 | Invega Sustenna <sup>QL</sup>   | Paliperidone Palmitate ER Susp 78 MG / 0.5 ML (all formulations)     |            1.5            |            84             |
@@ -81,7 +80,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Lybalvi                                                                                    |                                                            |          |             |
 | Nuplazid                                                                                   |                                                            |          |             |
 | Olanzapine ODT                                                                             |                                                            |          |             |
-| <span title = "Brand Preferred: Invega Tab">Paliperidone</span> <sup>Brand Preferred</sup> |                                                            |          |             |
 | Rexulti                                                                                    |                                                            |          |             |
 | Secuado                                                                                    |                                                            |          |             |
 | Versacloz                                                                                  |                                                            |          |             |
