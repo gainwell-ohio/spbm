@@ -17,7 +17,7 @@ search:
 | Probenecid <sup>QL</sup>               | Gloperba Susp <sup>QL</sup>         |
 |                                        | Probenecid/Colchicine <sup>QL</sup> |
  
-[Link to Criteria: Analgesic Agents: Gout](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=8){ :target="_blank" rel="noopener"}
+[Link to Criteria: Analgesic Agents: Gout](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=8){ :target="_blank" rel="noopener"}
 
 **NSAIDS**    
 
@@ -43,7 +43,7 @@ search:
 | Piroxicam                     |                                        |
 | Sulindac                      |                                        |
 
-[Link to Criteria: Analgesic Agents: NSAIDS](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=9){ :target="_blank" rel="noopener"}
+[Link to Criteria: Analgesic Agents: NSAIDS](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=9){ :target="_blank" rel="noopener"}
 
 **Opioids**
 
@@ -73,7 +73,7 @@ search:
 |                                                         | Tramadol ER, Sol <sup>QL</sup>                                         |
 |                                                         | Xtampza ER <sup>QL</sup>                                               |
 
-[Link to Criteria: Analgesic Agents: Opioids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=10){ :target="_blank" rel="noopener"}
+[Link to Criteria: Analgesic Agents: Opioids](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=10){ :target="_blank" rel="noopener"}
 
 ## Blood Formation, Coagulation, and Thrombosis Agents
 
@@ -92,7 +92,7 @@ search:
 |                         | Udenyca                |
 |                         | Zarxio                 |
 
-[Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=13){ :target="_blank" rel="noopener"}
+[Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=13){ :target="_blank" rel="noopener"}
 
 **Hematopoietic Agents**
 
@@ -102,7 +102,7 @@ search:
 | Mircera <sup>PA</sup>  | Procrit       |
 | Retacrit <sup>PA</sup> |               |
 
-[Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=14){ :target="_blank" rel="noopener"}
+[Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=14){ :target="_blank" rel="noopener"}
 
 **Hemophilia Factor***
 
@@ -136,7 +136,7 @@ search:
 | Wilate <sup>PA</sup>       |               |
 | Xyntha <sup>PA</sup>       |               |
  
-[Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=15){ :target="_blank" rel="noopener"}
+[Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factors](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=15){ :target="_blank" rel="noopener"}
 
 **Heparin-Related Preparations**
 
@@ -145,7 +145,7 @@ search:
 | Enoxaparin | Fondaparinux  |
 |            | Fragmin       |
 
-[Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=16){ :target="_blank" rel="noopener"}
+[Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=16){ :target="_blank" rel="noopener"}
 
 **Oral Anticoagulants**
 
@@ -156,7 +156,7 @@ search:
 | Warfarin                  | Xarelto Susp  |
 | Xarelto Tab <sup>QL</sup> |               |
 
-[Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=17){ :target="_blank" rel="noopener"}
+[Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=17){ :target="_blank" rel="noopener"}
 
 **Oral Antiplatelet**
 
@@ -168,7 +168,7 @@ search:
 | Clopidogrel             |               |
 | Prasugrel <sup>QL</sup> |               |
 
-[Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=18){ :target="_blank" rel="noopener"}
+[Link to Criteria: Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=18){ :target="_blank" rel="noopener"}
 
 ## Cardiovascular Agents
 
@@ -254,7 +254,7 @@ search:
 | Verapamil IR, SR <sup>QL</sup>      |                                                     |
 
 
-[Link to Criteria: Cardiovascular Agents: Angina, Hypertension & Heart Failure](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=19){ :target="_blank" rel="noopener"}
+[Link to Criteria: Cardiovascular Agents: Angina, Hypertension & Heart Failure](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=19){ :target="_blank" rel="noopener"}
 
 **Antiarrhythmics**
 
@@ -269,7 +269,7 @@ search:
 | Propafenone IR, ER <sup>QL</sup> |                                         |
 | Quinidine IR, ER <sup>QL</sup>   |                                         |
   
-[Link to Criteria: Cardiovascular Agents: Antiarrhythmics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=21){ :target="_blank" rel="noopener"}
+[Link to Criteria: Cardiovascular Agents: Antiarrhythmics](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=21){ :target="_blank" rel="noopener"}
 
 **Lipotropics**
 
@@ -293,7 +293,7 @@ search:
 |                                         | Vascepa <sup>BvG</sup>                           |
 |                                         | Zypitamag                                        |
 
-[Link to Criteria: Cardiovascular Agents: Lipotropics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=22){ :target="_blank" rel="noopener"}
+[Link to Criteria: Cardiovascular Agents: Lipotropics](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=22){ :target="_blank" rel="noopener"}
   
 **Pulmonary Arterial Hypertension***
 
@@ -309,7 +309,7 @@ search:
 |                                  | Uptravi       |
 |                                  | Ventavis      |
 
-[Link to Criteria: Cardiovascular Agents: Pulmonary Arterial Hypertension](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=24){ :target="_blank" rel="noopener"}
+[Link to Criteria: Cardiovascular Agents: Pulmonary Arterial Hypertension](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=24){ :target="_blank" rel="noopener"}
 
 ## Central Nervous System (CNS) Agents
 
@@ -325,7 +325,7 @@ search:
 | Rivastigmine Cap <sup>AR QL</sup>           |                                         |
 | Rivastigmine Patch <sup>AR</sup>            |                                         |
  
-[Link to Criteria: Central Nervous System (CNS) Agents: Alzheimer's Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=25){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Alzheimer's Agents](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=25){ :target="_blank" rel="noopener"}
 
 **Anti-Migraine Agents, Acute**
 
@@ -345,7 +345,7 @@ search:
 |                                       | Ubrelvy                               |
 |                                       | Zolmitriptan                          |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=26){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=26){ :target="_blank" rel="noopener"}
 
 **Anti-Migraine Agents, Cluster Headache**
 
@@ -353,7 +353,7 @@ search:
 |-------------------------|------------------------|
 | Verapamil <sup>QL</sup> | Emgality <sup>QL</sup> |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=27){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=27){ :target="_blank" rel="noopener"}
  
 **Anti-Migraine Agents, Prophylaxis**
 
@@ -366,7 +366,7 @@ search:
 | CNS Agents: Serotonin-Norepinephrine Reuptake Inhibitors |                          |
 | CNS Agents: Tricyclic Antidepressants                    |                          |
  
-[Link to Criteria: Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=28){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=28){ :target="_blank" rel="noopener"}
 
 **Anticonvulsants**
 
@@ -397,7 +397,7 @@ search:
 | Zonisamide Cap                | Zonisade Susp                   |
 |                               | Ztalmy                          |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Anticonvulsants](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=30){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Anticonvulsants](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=30){ :target="_blank" rel="noopener"}
 
 **Anticonvulsants Rescue**
 
@@ -408,7 +408,7 @@ search:
 | Nayzilam <sup>AR</sup> |               |
 | Valtoco <sup>AR</sup>  |               |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Anticonvulsants Rescue](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=32){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Anticonvulsants Rescue](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=32){ :target="_blank" rel="noopener"}
 
 **Antidepressants***
 
@@ -435,7 +435,7 @@ search:
 |                                                       | Venlafaxine ER Tab                                 |
 |                                                       | Viibryd <sup>BvG</sup>                             |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Antidepressants](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=33){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Antidepressants](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=33){ :target="_blank" rel="noopener"}
 
 **Attention Deficit Hyperactivity Disorder Agents**
 
@@ -461,7 +461,7 @@ search:
 | Ritalin LA <sup>AR QL</sup>                                                            |                                                                        |
 | Vyvanse Cap <sup>QL</sup>                                                              |                                                                        |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=35){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=35){ :target="_blank" rel="noopener"}
 
 **Atypical Antipsychotics***
 
@@ -487,7 +487,7 @@ search:
 | Saphris <sup>BvG ST</sup>       |                                |
 | Ziprasidone <sup>QL</sup>       |                                |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Atypical Antipsychotics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=36){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Atypical Antipsychotics](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=36){ :target="_blank" rel="noopener"}
 
 **Fibromyalgia Agents**
 
@@ -495,7 +495,7 @@ search:
 |--------------------------|---------------|
 | Pregabalin <sup>QL</sup> | Savella       |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Fibromyalgia Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=38){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Fibromyalgia Agents](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=38){ :target="_blank" rel="noopener"}
 
 **Medication Assisted Treatment of Opioid Addiction**
 
@@ -508,7 +508,7 @@ search:
 | Vivitrol                |                        |
 | Zubsolv                 |                        |
  
-[Link to Criteria: Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=39){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=39){ :target="_blank" rel="noopener"}
 
 **Movement Disorders**
 
@@ -518,7 +518,7 @@ search:
 | Ingrezza <sup>PA</sup>      |               |
 | Tetrabenazine <sup>PA</sup> |               |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Movement Disorders](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=41){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Movement Disorders](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=41){ :target="_blank" rel="noopener"}
 
 **Multiple Sclerosis***
 
@@ -538,7 +538,7 @@ search:
 |                           | Vumerity      |
 |                           | Zeposia       |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Multiple Sclerosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=42){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Multiple Sclerosis](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=42){ :target="_blank" rel="noopener"}
 
 **Narcolepsy**
 
@@ -551,7 +551,7 @@ search:
 | Methylphenidate Tab <sup>AR</sup>                 |                      |
 | Modafinil                                         |                      |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Narcolepsy](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=43){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Narcolepsy](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=43){ :target="_blank" rel="noopener"}
 
 **Neuropathic Pain**
 
@@ -570,7 +570,7 @@ search:
 | Oxcarbazepine                      |               |
 | Pregabalin <sup>QL</sup>           |               |
  
-[Link to Criteria: Central Nervous System (CNS) Agents: Neuropathic Pain](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=44){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Neuropathic Pain](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=44){ :target="_blank" rel="noopener"}
 
 **Parkinson's Agents**
 
@@ -594,7 +594,7 @@ search:
 |                    | Xadago                             |
 |                    | Zelapar                            |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Parkinson's Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=45){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Parkinson's Agents](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=45){ :target="_blank" rel="noopener"}
 
 **Restless Legs Syndrome**
 
@@ -603,7 +603,7 @@ search:
 | Pramipexole | Horizant      |
 | Ropinirole  | Neupro        |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Restless Legs Syndrome](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=46){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Restless Legs Syndrome](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=46){ :target="_blank" rel="noopener"}
 
 **Sedative-Hypnotics, Non-Barbiturate**
 
@@ -619,7 +619,7 @@ search:
 |                                  | Temazepam 7.5, 22mg <sup>QL</sup> |
 |                                  | Zolpidem ER, SL                   |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=47){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=47){ :target="_blank" rel="noopener"}
 
 **Skeletal Muscle Relaxants, Non-Benzodiazepine**
 
@@ -636,7 +636,7 @@ search:
 |                                        | Orphenadrine                           |
 |                                        | Tizanidine Cap                         |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=48){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=48){ :target="_blank" rel="noopener"}
 
 **Smoking Deterrents**
 
@@ -647,7 +647,7 @@ search:
 | Chantix <sup>QL</sup>     |                          |
 | Varenicline <sup>QL</sup> |                          |
 
-[Link to Criteria: Central Nervous System (CNS) Agents: Smoking Deterrents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=49){ :target="_blank" rel="noopener"}
+[Link to Criteria: Central Nervous System (CNS) Agents: Smoking Deterrents](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=49){ :target="_blank" rel="noopener"}
 
 ## Dermatological Agents
 
@@ -662,7 +662,7 @@ search:
 | Myorisan <sup>PA</sup>     |               |
 | Zenatane <sup>PA</sup>     |               |
 
-[Link to Criteria: Dermatological: Oral Acne Products](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=50){ :target="_blank" rel="noopener"}
+[Link to Criteria: Dermatological: Oral Acne Products](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=50){ :target="_blank" rel="noopener"}
 
 **Topical Acne Products**
 
@@ -692,7 +692,7 @@ search:
 |                                       | Twyneo <sup>AR</sup>                           |
 |                                       | Winlevi                                        |
 
-[Link to Criteria: Dermatological: Topical Acne Products](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=51){ :target="_blank" rel="noopener"}
+[Link to Criteria: Dermatological: Topical Acne Products](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=51){ :target="_blank" rel="noopener"}
 
 ## Endocrine Agents
 
@@ -710,7 +710,7 @@ search:
 |                                           | Tlando <sup>AR</sup>                     |
 |                                           | Xyosted <sup>AR</sup>                    |
 
-[Link to Criteria: Endocrine Agents: Androgens](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=52){ :target="_blank" rel="noopener"}
+[Link to Criteria: Endocrine Agents: Androgens](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=52){ :target="_blank" rel="noopener"}
 
 **Diabetes - Hypoglycemia Treatments**
 
@@ -722,7 +722,7 @@ search:
 | Gvoke <sup>QL</sup>                              |                                                          |
 | Zegalogue <sup>QL</sup>                          |                                                          |
 
-[Link to Criteria: Endocrine Agents: Diabetes - Hypoglycemia Treatments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=53){ :target="_blank" rel="noopener"}
+[Link to Criteria: Endocrine Agents: Diabetes - Hypoglycemia Treatments](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=53){ :target="_blank" rel="noopener"}
 
 **Diabetes - Insulin**
 
@@ -744,7 +744,7 @@ search:
 | Toujeo                                  | Semglee <sup>BvG QL</sup>   |
 | Tresiba <sup>BvG ST</sup>               |                             |
 
-[Link to Criteria: Endocrine Agents: Diabetes - Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=54){ :target="_blank" rel="noopener"}
+[Link to Criteria: Endocrine Agents: Diabetes - Insulin](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=54){ :target="_blank" rel="noopener"}
 
 **Diabetes - Non-Insulin**
 
@@ -779,7 +779,7 @@ search:
 | Trulicity <sup>QL</sup>                                   | Xultophy                                                   |
 | Victoza <sup>QL</sup>                                     |                                                            |
 
-[Link to Criteria: Endocrine Agents: Diabetes - Non-Insulin](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=55){ :target="_blank" rel="noopener"}
+[Link to Criteria: Endocrine Agents: Diabetes - Non-Insulin](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=55){ :target="_blank" rel="noopener"}
 
 **Endometriosis**
 
@@ -793,7 +793,7 @@ search:
 | Orilissa <sup>ST</sup>                      |               |
 | Zoladex <sup>ST</sup>                       |               |
 
-[Link to Criteria: Endocrine Agents: Endometriosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=56){ :target="_blank" rel="noopener"}
+[Link to Criteria: Endocrine Agents: Endometriosis](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=56){ :target="_blank" rel="noopener"}
 
 **Estrogenic Agents**
 
@@ -814,7 +814,7 @@ search:
 |                                         | Prefest                         |
 |                                         | Vivelle-Dot <sup>QL</sup>       |
 
-[Link to Criteria: Endocrine Agents: Estrogenic Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=57){ :target="_blank" rel="noopener"}
+[Link to Criteria: Endocrine Agents: Estrogenic Agents](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=57){ :target="_blank" rel="noopener"}
 
 **Growth Hormone**
 
@@ -828,7 +828,7 @@ search:
 |                           | Skytrofa      |
 |                           | Zomacton      |
 
-[Link to Criteria: Endocrine Agents: Growth Hormone](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=58){ :target="_blank" rel="noopener"}
+[Link to Criteria: Endocrine Agents: Growth Hormone](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=58){ :target="_blank" rel="noopener"}
 
 **Osteoporosis - Bone Ossification Enhancers**
 
@@ -839,7 +839,7 @@ search:
 | Forteo <sup>PA QL</sup> | Risedronate          |
 | Ibandronate             | Tymlos <sup>QL</sup> |
 
-[Link to Criteria: Endocrine Agents: Osteoporosis - Bone Ossification Enhancers](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=60){ :target="_blank" rel="noopener"}
+[Link to Criteria: Endocrine Agents: Osteoporosis - Bone Ossification Enhancers](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=60){ :target="_blank" rel="noopener"}
 
 **Progestin Agents**
 
@@ -853,7 +853,7 @@ search:
 | Progesterone                               |               |
 | Progesterone In Oil                        |               |
 
-[Link to Criteria: Endocrine Agents: Progestin Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=61){ :target="_blank" rel="noopener"}
+[Link to Criteria: Endocrine Agents: Progestin Agents](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=61){ :target="_blank" rel="noopener"}
 
 **Uterine Fibroids**
 
@@ -863,7 +863,7 @@ search:
 | Myfembree <sup>PA QL</sup>               |               |
 | Oriahnn <sup>PA QL</sup>                 |               |
 
-[Link to Criteria: Endocrine Agents: Uterine Fibroids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=62){ :target="_blank" rel="noopener"}
+[Link to Criteria: Endocrine Agents: Uterine Fibroids](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=62){ :target="_blank" rel="noopener"}
 
 ## Gastrointestinal Agents
 
@@ -887,7 +887,7 @@ search:
 | Scopolamine                 |                       |
 | Trimethobenzamide           |                       |
 
-[Link to Criteria: Gastrointestinal Agents: Anti-Emetics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=63){ :target="_blank" rel="noopener"}
+[Link to Criteria: Gastrointestinal Agents: Anti-Emetics](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=63){ :target="_blank" rel="noopener"}
 
 **Crohn's Disease**
 
@@ -899,7 +899,7 @@ search:
 | Methotrexate      |               |
 | Sulfasalazine     |               |
 
-[Link to Criteria: Gastrointestinal Agents: Crohn's Disease](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=64){ :target="_blank" rel="noopener"}
+[Link to Criteria: Gastrointestinal Agents: Crohn's Disease](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=64){ :target="_blank" rel="noopener"}
 
 **Hepatic Encephalopathy**
 
@@ -908,7 +908,7 @@ search:
 | Lactulose             |               |
 | Xifaxan <sup>ST</sup> |               |
 
-[Link to Criteria: Gastrointestinal Agents: Hepatic Encephalopathy](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=65){ :target="_blank" rel="noopener"}
+[Link to Criteria: Gastrointestinal Agents: Hepatic Encephalopathy](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=65){ :target="_blank" rel="noopener"}
 
 **Irritable Bowel Syndrome (IBS) with Diarrhea**
 
@@ -918,7 +918,7 @@ search:
 | Loperamide <sup>QL</sup> | Viberzi       |
 | Xifaxan <sup>ST</sup>    |               |
 
-[Link to Criteria: Gastrointestinal Agents: Irritable Bowel Sydrome (IBS) with Diarrhea](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=66){ :target="_blank" rel="noopener"}
+[Link to Criteria: Gastrointestinal Agents: Irritable Bowel Sydrome (IBS) with Diarrhea](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=66){ :target="_blank" rel="noopener"}
 
 **Pancreatic Enzymes**
 
@@ -928,7 +928,7 @@ search:
 | Zenpep    | Pertzye       |
 |           | Viokace       |
 
-[Link to Criteria: Gastrointestinal Agents: Pancreatic Enzymes](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=67){ :target="_blank" rel="noopener"}
+[Link to Criteria: Gastrointestinal Agents: Pancreatic Enzymes](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=67){ :target="_blank" rel="noopener"}
 
 **Proton Pump Inhibitors**
 
@@ -945,7 +945,7 @@ search:
 |                                | Prilosec Susp                 |
 |                                | Rabeprazole                   |
 
-[Link to Criteria: Gastrointestinal Agents: Proton Pump Inhibitors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=68){ :target="_blank" rel="noopener"}
+[Link to Criteria: Gastrointestinal Agents: Proton Pump Inhibitors](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=68){ :target="_blank" rel="noopener"}
 
 **Ulcerative Colitis**
 
@@ -959,7 +959,7 @@ search:
 | Pentasa <sup>BvG</sup>          |                               |
 | Sulfasalazine                   |                               |
 
-[Link to Criteria: Gastrointestinal Agents: Ulcerative Colitis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=69){ :target="_blank" rel="noopener"}
+[Link to Criteria: Gastrointestinal Agents: Ulcerative Colitis](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=69){ :target="_blank" rel="noopener"}
 
 **Unspecified GI**
 
@@ -981,7 +981,7 @@ search:
 | Trulance <sup>ST</sup>            |                               |
 | Xifaxan <sup>ST</sup>             |                               |
  
-[Link to Criteria: Gastrointestinal Agents: Unspecified GI](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=70){ :target="_blank" rel="noopener"}
+[Link to Criteria: Gastrointestinal Agents: Unspecified GI](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=70){ :target="_blank" rel="noopener"}
 
 ## Genitourinary Agents 
 
@@ -998,7 +998,7 @@ search:
 | Tamsulosin                       |                        |
 | Terazosin                        |                        |
 
-[Link to Criteria: Genitourinary Agents: Benign Prostatic Hyperplasia](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=71){ :target="_blank" rel="noopener"}
+[Link to Criteria: Genitourinary Agents: Benign Prostatic Hyperplasia](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=71){ :target="_blank" rel="noopener"}
 
 **Electrolyte Depleter Agents**
 
@@ -1008,7 +1008,7 @@ search:
 | Phoslyra                   | Lanthanum Carbonate |
 | Sevelamer                  | Velphoro            |
 
-[Link to Criteria: Genitourinary Agents: Electrolyte Depleter Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=72){ :target="_blank" rel="noopener"}
+[Link to Criteria: Genitourinary Agents: Electrolyte Depleter Agents](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=72){ :target="_blank" rel="noopener"}
 
 **Urinary Antispasmodics**
 
@@ -1022,7 +1022,7 @@ search:
 | Toviaz <sup>BvG</sup>     | Trospium <sup>QL</sup>           |
 |                           | Vesicare LS <sup>AR</sup>        |
 
-[Link to Criteria: Genitourinary Agents: Urinary Antispasmodics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=73){ :target="_blank" rel="noopener"}
+[Link to Criteria: Genitourinary Agents: Urinary Antispasmodics](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=73){ :target="_blank" rel="noopener"}
 
 ## Immunomodulator Agents
 
@@ -1047,7 +1047,7 @@ search:
 |                          | Tremfya               |
 |                          | Xeljanz Sol, XR       |
 
-[Link to Criteria: Immunomodulator Agents for Systemic Inflammatory Disease](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=74){ :target="_blank" rel="noopener"}
+[Link to Criteria: Immunomodulator Agents for Systemic Inflammatory Disease](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=74){ :target="_blank" rel="noopener"}
 
 ## Infectious Disease Agents
 
@@ -1064,7 +1064,7 @@ search:
 | Cefuroxime                   |                                   |
 | Cefdinir                     |                                   |
 
-[Link to Criteria: Infectious Disease Agents: Antibiotics - Cephalosporins](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=76){ :target="_blank" rel="noopener"}
+[Link to Criteria: Infectious Disease Agents: Antibiotics - Cephalosporins](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=76){ :target="_blank" rel="noopener"}
 
 **Antibiotics - Inhaled**
 
@@ -1076,7 +1076,7 @@ search:
 |                             | Kitabis Pak <sup>QL</sup>   |
 |                             | Tobi Podhaler <sup>QL</sup> |
 
-[Link to Criteria: Infectious Disease Agents: Antibiotics - Inhaled](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=77){ :target="_blank" rel="noopener"}
+[Link to Criteria: Infectious Disease Agents: Antibiotics - Inhaled](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=77){ :target="_blank" rel="noopener"}
  
 **Antibiotics - Macrolides**
 
@@ -1086,7 +1086,7 @@ search:
 | Clarithromycin | Erythrocin Stearate |
 |                | Erythromycin        |
 
-[Link to Criteria: Infectious Disease Agents: Antibiotics - Macrolides](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=78){ :target="_blank" rel="noopener"}
+[Link to Criteria: Infectious Disease Agents: Antibiotics - Macrolides](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=78){ :target="_blank" rel="noopener"}
 
 **Antibiotics - Quinolones**
 
@@ -1097,7 +1097,7 @@ search:
 | Levofloxacin                     | Moxifloxacin     |
 |                                  | Ofloxacin        |
 
-[Link to Criteria: Infectious Disease Agents: Antibiotics - Quinolones](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=79){ :target="_blank" rel="noopener"}
+[Link to Criteria: Infectious Disease Agents: Antibiotics - Quinolones](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=79){ :target="_blank" rel="noopener"}
 
 **Antibiotics - Tetracyclines**
 
@@ -1109,7 +1109,7 @@ search:
 | Tetracycline                  | Minocycline IR, ER Tab        |
 | Vibramycin Susp <sup>AR</sup> | Nuzyra                        |
 
-[Link to Criteria: Infectious Disease Agents: Antibiotics - Tetracyclines](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=80){ :target="_blank" rel="noopener"}
+[Link to Criteria: Infectious Disease Agents: Antibiotics - Tetracyclines](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=80){ :target="_blank" rel="noopener"}
 
 **Antifungals**
 
@@ -1125,7 +1125,7 @@ search:
 |              | Vivjoa        |
 |              | Voriconazole  |
 
-[Link to Criteria: Infectious Disease Agents: Antifungals](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=81){ :target="_blank" rel="noopener"}
+[Link to Criteria: Infectious Disease Agents: Antifungals](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=81){ :target="_blank" rel="noopener"}
 
 **Antivirals - Hepatitis C Agents**
 
@@ -1137,7 +1137,7 @@ search:
 | Sofosbuvir/Velpatasvir <sup>PA</sup> | Vosevi                |
 |                                      | Zepatier              |
 
-[Link to Criteria: Infectious Disease Agents: Antivirals - Hepatitis C Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=82){ :target="_blank" rel="noopener"}
+[Link to Criteria: Infectious Disease Agents: Antivirals - Hepatitis C Agents](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=82){ :target="_blank" rel="noopener"}
 
 **Antivirals - Herpes**
 
@@ -1146,7 +1146,7 @@ search:
 | Acyclovir    | Famciclovir   |
 | Valacyclovir | Sitavig       |
 
-[Link to Criteria: Infectious Disease Agents: Antivirals - Herpes](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=83){ :target="_blank" rel="noopener"}
+[Link to Criteria: Infectious Disease Agents: Antivirals - Herpes](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=83){ :target="_blank" rel="noopener"}
 
 **Antivirals - HIV***
 
@@ -1190,7 +1190,7 @@ search:
 | Zidovudine                                  |                                                    |
 
 
-[Link to Criteria: Infectious Disease Agents: Antivirals - HIV](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=84){ :target="_blank" rel="noopener"}
+[Link to Criteria: Infectious Disease Agents: Antivirals - HIV](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=84){ :target="_blank" rel="noopener"}
 
 ## Ophthalmic Agents
 
@@ -1215,7 +1215,7 @@ search:
 | Tobramycin                                       |                                     |
 | Tobramycin/Dexamethasone 0.3/0.1%                |                                     |
  
-[Link to Criteria: Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=85){ :target="_blank" rel="noopener"}
+[Link to Criteria: Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=85){ :target="_blank" rel="noopener"}
  
 **Antihistamines & Mast Cell Stabilizers**
 
@@ -1227,7 +1227,7 @@ search:
 | Ketotifen              | Zerviate      |
 | Olopatadine            |               |
 
-[Link to Criteria: Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=86){ :target="_blank" rel="noopener"}
+[Link to Criteria: Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=86){ :target="_blank" rel="noopener"}
 
 **Dry Eye Treatments**
 
@@ -1239,7 +1239,7 @@ search:
 |                                  | Tyrvaya             |
 |                                  | Xiidra              |
 
-[Link to Criteria: Ophthalmic Agents: Dry Eye Treatments](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=87){ :target="_blank" rel="noopener"}
+[Link to Criteria: Ophthalmic Agents: Dry Eye Treatments](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=87){ :target="_blank" rel="noopener"}
 
 **Glaucoma Agents**
 
@@ -1263,7 +1263,7 @@ search:
 | Timolol 0.5% Gel, Soln          |                               |
 | Travatan Z <sup>BvG ST</sup>    |                               |
 
-[Link to Criteria: Ophthalmic Agents: Glaucoma Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=88){ :target="_blank" rel="noopener"}
+[Link to Criteria: Ophthalmic Agents: Glaucoma Agents](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=88){ :target="_blank" rel="noopener"}
 
 **NSAIDs**
 
@@ -1276,7 +1276,7 @@ search:
 |              | Nevanac       |
 |              | Prolensa      |
 
-[Link to Criteria: Ophthalmic Agents: NSAIDs](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=89){ :target="_blank" rel="noopener"}
+[Link to Criteria: Ophthalmic Agents: NSAIDs](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=89){ :target="_blank" rel="noopener"}
 
 **Ophthalmic Steroids**
 
@@ -1297,7 +1297,7 @@ search:
 | Prednisolone Acetate           |               |
 | Prednisolone Sodium Phosphate  |               |
 
-[Link to Criteria: Ophthalmic Agents: Ophthalmic Steroids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=90){ :target="_blank" rel="noopener"}
+[Link to Criteria: Ophthalmic Agents: Ophthalmic Steroids](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=90){ :target="_blank" rel="noopener"}
 
 ## Otic Agents
 
@@ -1311,7 +1311,7 @@ search:
 | Neomycin/Polymyxin B/Hydrocortisone |                             |
 | Ofloxacin                           |                             |
 
-[Link to Criteria: Otic Agents: Antibacterial and Antibacterial/Steroid Combinations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=91){ :target="_blank" rel="noopener"}
+[Link to Criteria: Otic Agents: Antibacterial and Antibacterial/Steroid Combinations](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=91){ :target="_blank" rel="noopener"}
 
 ## Respiratory Agents
 
@@ -1325,7 +1325,7 @@ search:
 | Loratadine Syr, Tab <sup>QL</sup>       | Fexofenadine                      |
 | Loratadine/Pseudoephedrine              | Levocetirizine                    |
 
-[Link to Criteria: Respiratory Agents: Antihistamines - Second Generation](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=92){ :target="_blank" rel="noopener"}
+[Link to Criteria: Respiratory Agents: Antihistamines - Second Generation](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=92){ :target="_blank" rel="noopener"}
 
 **Cystic Fibrosis**
 
@@ -1336,7 +1336,7 @@ search:
 | Symdeko <sup>PA QL</sup>  |               |
 | Trikafta <sup>PA</sup>    |               |
 
-[Link to Criteria: Respiratory Agents: Cystic Fibrosis](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=93){ :target="_blank" rel="noopener"}
+[Link to Criteria: Respiratory Agents: Cystic Fibrosis](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=93){ :target="_blank" rel="noopener"}
 
 **Eninephrine Auto-Injectors**
 
@@ -1345,7 +1345,7 @@ search:
 | Epinephrine (labeler 49502) | Epipen        |
 | Symjepi                     | Epipen JR     |
 
-[Link to Criteria: Respiratory Agents: Eninephrine Auto-Injectors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=94){ :target="_blank" rel="noopener"}
+[Link to Criteria: Respiratory Agents: Eninephrine Auto-Injectors](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=94){ :target="_blank" rel="noopener"}
 
 **Hereditary Angioedema**
 
@@ -1356,7 +1356,7 @@ search:
 | Takhzyro <sup>PA</sup> | Icatibant Acetate |
 |                        | Kalbitor          |
 
-[Link to Criteria: Respiratory Agents: Hereditary Angioedema](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=95){ :target="_blank" rel="noopener"}
+[Link to Criteria: Respiratory Agents: Hereditary Angioedema](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=95){ :target="_blank" rel="noopener"}
 
 **Inhaled Agents**
 
@@ -1389,7 +1389,7 @@ search:
 | Symbicort <sup>BvG QL</sup>                                                    |                                           |
 | Ventolin HFA <sup>BvG</sup>                                                    |                                           |
 
-[Link to Criteria: Respiratory Agents Inhaled Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=96){ :target="_blank" rel="noopener"}
+[Link to Criteria: Respiratory Agents Inhaled Agents](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=96){ :target="_blank" rel="noopener"}
 
 **Leukotriene Receptor Modifiers & Inhibitors**
 
@@ -1398,7 +1398,7 @@ search:
 | Montelukast <sup>QL</sup> | Zileuton      |
 | Zafirlukast <sup>ST</sup> | Zyflo         |
 
-[Link to Criteria: Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=97){ :target="_blank" rel="noopener"}
+[Link to Criteria: Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=97){ :target="_blank" rel="noopener"}
 
 **Monoclonal Antibodies-Anti-IL/Anti-IgE**
 
@@ -1408,7 +1408,7 @@ search:
 | Dupixent <sup>PA</sup> | Tezspire      |
 | Xolair <sup>PA</sup>   |               |
 
-[Link to Criteria: Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=98){ :target="_blank" rel="noopener"}
+[Link to Criteria: Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=98){ :target="_blank" rel="noopener"}
 
 **Nasal Preparations**
 
@@ -1424,7 +1424,7 @@ search:
 |                                  | Xhance                       |
 |                                  | Zetonna                      |
 
-[Link to Criteria: Respiratory Agents: Nasal Preparations](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=99){ :target="_blank" rel="noopener"}
+[Link to Criteria: Respiratory Agents: Nasal Preparations](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=99){ :target="_blank" rel="noopener"}
 
 **Other Agents**
 
@@ -1432,7 +1432,7 @@ search:
 |-----------|----------------------------|
 |           | Roflumilast                |
 
-[Link to Criteria: Respiratory Agents: Other Agents](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=100){ :target="_blank" rel="noopener"}
+[Link to Criteria: Respiratory Agents: Other Agents](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=100){ :target="_blank" rel="noopener"}
 
 ## Topical Agents
 
@@ -1452,7 +1452,7 @@ search:
 | Terbinafine                | Tavaborole                                  |
 | Tolnaftate                 |                                             |
  
-[Link to Criteria: Topical Agents: Antifungals](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=101){ :target="_blank" rel="noopener"}
+[Link to Criteria: Topical Agents: Antifungals](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=101){ :target="_blank" rel="noopener"}
 
 **Antiparasitics**
 
@@ -1463,7 +1463,7 @@ search:
 | Piperonyl Butoxide/Pyrethrins | Malathion      |
 |                               | Spinosad       |
 
-[Link to Criteria: Topical Agents: Antiparasitics](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=102){ :target="_blank" rel="noopener"}
+[Link to Criteria: Topical Agents: Antiparasitics](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=102){ :target="_blank" rel="noopener"}
 
 **Corticosteroids**
 
@@ -1490,7 +1490,7 @@ search:
 |                                                | Impeklo                                       |
 |                                                | Pandel                                        |
 
-[Link to Criteria: Topical Agents: Corticosteroids](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=103){ :target="_blank" rel="noopener"}
+[Link to Criteria: Topical Agents: Corticosteroids](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=103){ :target="_blank" rel="noopener"}
 
 **Immunomodulators**
 
@@ -1503,4 +1503,4 @@ search:
 |                             | Vtama                      |
 |                             | Zoryve                     |
 
-[Link to Criteria: Topical Agents: Immunomodulators](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=104){ :target="_blank" rel="noopener"}
+[Link to Criteria: Topical Agents: Immunomodulators](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=104){ :target="_blank" rel="noopener"}
