@@ -13,7 +13,7 @@ Before admin denying anything based on rebate or payable, double check the age t
 
 If 21 or over please admin deny
 
-If less than 21, rebate or payable (red X situations in NDC tile), we are to proceed as usual with decisioning disregarding this status.
+***If less than 21, rebate or payable (red X situations in NDC tile), we are to proceed as usual with decisioning disregarding this status.***
  
 We are to ensure it is the lowest cost alternative that effectively addresses and treats the medical problem, meaning if there are UPDL alternatives that are indicated to treat the condition, we still use the hierarchy of payable, UPDL(preferred, step, nonpreferred) – Additional Criteria Classes – then refer to Med Nec Policy.
 
