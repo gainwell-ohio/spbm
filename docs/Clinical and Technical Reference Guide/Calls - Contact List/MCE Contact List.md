@@ -55,13 +55,7 @@ Caller will then be routed, caller will potentially hear any prequeue/queue mess
 
 "Regular Medicaid"
 
-*Change healthcare is the PBM for FFS*
-
-**Phone/Fax**:
-
-- Technical Line: 1-877-518-1545
-- PA Line: 1-877-518-1546
-- Fax: 1-800-396-4111
+*Starting July 1, 2023, Gainwell Technologies will handle Medicaid FFS*
 
 ## Molina - Live Agent
 
