@@ -108,4 +108,3 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 - Drug name: ------- 
 - Previously approved/received PA(s): Auth ID: ------- 
 - Reason: -------
-- OpenText job number: ------- 
