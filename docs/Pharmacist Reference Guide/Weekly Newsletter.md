@@ -1,5 +1,6 @@
 # Weekly Newsletter
 
+7/2/23- [Weekly email 7/2/23](weeklyemail7223.docx){:target="_blank" rel="noopener"}
 
 5/29/23- [Weekly email 5/29/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/weeklyemail52723.docx?d=w5be03f9bfc1c4bf289edd1d70ea8caa1&csf=1&web=1&e=QpWaKo){:target="_blank" rel="noopener"}
 
