@@ -10,15 +10,10 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 ## Decision Trees
 
 - [CNS - Anticonvulsants - Non-Preferred](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNlNZRUM3NE1RM080QlQ2NzYwNzM4Q1RHNiQlQCN0PWcu){ :target="_blank" rel="noopener"}
-
 - [CNS - Anticonvulsants - Diacomit](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNE5PUzJSVTdKWUpIVDk3TjJMSlVIQlJKMiQlQCN0PWcu){ :target="_blank" rel="noopener"}
-
 - [CNS - Anticonvulsants - Epidiolex](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQUs4U0FEMU1LRldKV1dGMExUOEw5QjNXWCQlQCN0PWcu){ :target="_blank" rel="noopener"}
-
 - [CNS - Anticonvulsants - Eprontia](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURFAxTkE0VzNYUkpEMURaRkVNMlk5T1lVQyQlQCN0PWcu){ :target="_blank" rel="noopener"}
-
 - [CNS - Anticonvulsants - Fycompa, Lacosamide](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM1AyWk82M1JKVlFJUlo0SzJHMUxKR0lJOSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
-
 - [CNS - Anticonvulsants - Vigabatrin Powder](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNDFNR1ZWWTgyT0lYMVdPUlA4UjdGWlpDWSQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
