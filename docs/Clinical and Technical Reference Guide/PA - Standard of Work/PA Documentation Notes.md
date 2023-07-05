@@ -14,6 +14,7 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 - Member Name:
 - DOB:
 - Member ID:
+- Coverage type (MCE vs FFS) and effective dates:
 - Auth ID:
 - Drug Name:
 - Resources Checked:
