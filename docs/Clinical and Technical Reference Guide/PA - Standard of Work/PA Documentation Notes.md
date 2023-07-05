@@ -7,6 +7,18 @@ search:
 
 The Tech scripts will be used when working PA's in Vue360rx to organize a format so all info needed will be on every case worked by any tech. Also included is the script that will be used to ask Sr techs, Supervisors and RPH questions. The format will need to be used to limit back and forth of asking for more info that should have been advised in the initial question. Also included is the peer 2 peer note, this will be used when a P2P is requested but an RPH is not available to take it. The tech will fill out the script and send an email to the RPH that is going to review the P2P.
 
+## PA Questions Chat Template
+
+**To be used when asking questions in the PA Questions chat**
+
+- Member Name:
+- DOB:
+- Member ID:
+- Auth ID:
+- Drug Name:
+- Resources Checked:
+- Question being asked:
+
 ## MEDREVIEW Template
 
 **Note sent to RPH for MEDREVIEW**
