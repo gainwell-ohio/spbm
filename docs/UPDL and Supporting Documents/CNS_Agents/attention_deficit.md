@@ -7,6 +7,13 @@ search:
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
+## Decision Trees
+
+- [CNS - ADHD - Non-Preferred Products](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUREtYQVlIRDJBS1lZTTZYN1dJQVMxVUtROCQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+- [CNS - ADHD - Preferred Products](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM0JKQ1pFQTFPMFdGODdZR1pPQ1lMRTVHNyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+- [CNS - ADHD - Quillivant XR, Methylphenidate Sol, Dextroamphetamine Sol, Dyanavel XR, Procentra](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMDNKMTVER1YzRFo3WTZVSTRIQjJXRTlKTSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+- [CNS - ADHD - Qelbree](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURVREVUlPMko5RUw4UktHNlY0SExCNU05SCQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
 ## Formulary
 
 ### Preferred

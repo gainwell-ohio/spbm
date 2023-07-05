@@ -7,6 +7,14 @@ search:
 
 This is a subcategory of Central Nervous System (CNS) Agents.
 
+## Decision Trees
+
+- [CNS - Antidepressants - Auvelity](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURTEyUkVIMDZCOU1EMUMwNDhCQUxaQzJXTiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+- [CNS - Antidepressants - Bupropion XL (generic of Forfivo XL), Duloxetine 40mg, Trazodone 300mg](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMlg1UkFGRDRRUlJaUTcwRUo0QjdNRzFDUyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+- [CNS - Antidepressants - Fluoxetine 60mg, DR, Fluvoxamine ER]{ :target="_blank" rel"noopener" }
+- [CNS - Antidepressants - Non-Preferred Products](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUtCNUMzSlBGUkJTQTIyRE1aWUVaNEZUMiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+- [CNS - Antidepressants - Viibryd](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQ0xEN1lTMzlPVkhJVzdEQTNIMzFON01NRSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+
 ## Formulary
 
 ### Preferred
