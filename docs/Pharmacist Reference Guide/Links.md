@@ -23,6 +23,7 @@ search:
 
 - [Procedure to request Schedule Changes 5/19/23](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/__IMPORTANT%20-%20PLEASE%20READ%20__%20ALL%20PTO%20REQUESTS.msg?csf=1&web=1&e=ib8Rvz){ .md-button .md-button--primary target="_blank" rel="noopener"}
 - Please notify Cassandra, Justin and Jeanine when requesting scheduling updates
+- [Rph PTO Policy](https://mygainwell.sharepoint.com.mcas.ms/sites/dept-hr/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fdept%2Dhr%2FShared%20Documents%2FTime%20Off%2FGainwell%20US%20%2D%20Flexible%20Vacation%20Policy%202023%2Epdf&parent=%2Fsites%2Fdept%2Dhr%2FShared%20Documents%2FTime%20Off){:target="_blank" rel="noopener"}
 
 
 [Overnight Schedule and After Hours Pharmacist Log](https://mygainwell-my.sharepoint.com.mcas.ms/:x:/r/personal/justin_collingwood_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7B73FCF431-8AD6-4200-AABD-7CEC536F211D%7D&file=Copy%20of%20After%20Hours%20Pharmacist%20Log_FINALcopy.xlsx&action=default&mobileredirect=true&cid=9f42f43b-4f3d-4a4e-8181-526c01a0bb91){:target="_blank" rel="noopener"}
