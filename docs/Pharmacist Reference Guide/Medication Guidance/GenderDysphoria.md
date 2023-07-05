@@ -5,7 +5,9 @@ search:
 
 # Gender Dysphoria
 
-[Medical Necessity Policy](https://mygainwell-my.sharepoint.com.mcas.ms/personal/christopher_nguyen_gainwelltechnologies_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchristopher%5Fnguyen%5Fgainwelltechnologies%5Fcom%2FDocuments%2FEvergreen%2FEmails%2FMedical%20Necessity%5FOH%20SPBM%5FPolicy%5FV3%2E0%2Epdf&parent=%2Fpersonal%2Fchristopher%5Fnguyen%5Fgainwelltechnologies%5Fcom%2FDocuments%2FEvergreen%2FEmails){:target="_blank" rel="noopener"}
+[Medical Necessity Policy](<../../UPDL and Supporting Documents/medical_necessity_policy.md>)
+
+[Medical Necessity Policy Official PDF](https://mygainwell-my.sharepoint.com.mcas.ms/personal/christopher_nguyen_gainwelltechnologies_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchristopher%5Fnguyen%5Fgainwelltechnologies%5Fcom%2FDocuments%2FEvergreen%2FEmails%2FMedical%20Necessity%5FOH%20SPBM%5FPolicy%5FV3%2E0%2Epdf&parent=%2Fpersonal%2Fchristopher%5Fnguyen%5Fgainwelltechnologies%5Fcom%2FDocuments%2FEvergreen%2FEmails){:target="_blank" rel="noopener"}
 
 ***Gender Dysphoria***
 
