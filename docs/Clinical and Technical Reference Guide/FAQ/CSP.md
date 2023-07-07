@@ -17,7 +17,7 @@ search:
     - Can see how many EOs via EO history on profile in Vue360RX
 - For non-controlled medications, Technician must post in their designated chat for permission from Sr. tech or chat SME to post EO. 
 - For controlled medications, Technician must post in their designated chat and then the Sr. tech or chat SME will post in RPh chat for permission to place EO
-- **EVERY COMPLETED CSP EO MUST BE EMAILED TO OH_MCD_PBM_Clinical@gainwelltechnologies.com**
+- **EVERY COMPLETED CSP EO MUST BE EMAILED TO OH_MCD_PBM_Clinical@gainwelltechnologies.com by the technician**
     - If it is after hours and there is no RPh present in RPh consult chat, Sr. tech or chat SME will call the on call RPh to review EO request
         - An RPh should be in the RPh consult chat M-F 7am-11pm EST and then weekends 9am -6pm EST
 - If surpasses 3 EOs every 180 days OR member wants to change lock in, technician will send an encrypted email to OH_MCD_PBM_Clinical@gainwelltechnologies.com and CC OHSPBMCallBack@gainwelltechnologies.co
