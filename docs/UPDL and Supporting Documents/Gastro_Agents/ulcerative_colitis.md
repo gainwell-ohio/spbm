@@ -9,7 +9,7 @@ This is a subcategory of Gastrointestinal Agents.
 
 ## Decision Tree
 
-- [Gastrointestinal - Ulcerative Colitis – Dipentum, Mesalamine Supp, Uceris Foam, Zeposia, Mesalamine ER (generic for Pentasa)](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMDNDSktPUzlMUDQ1QTM0Sk9WWURBU09QMyQlQCN0PWcu){ :target="_blank" rel="noopener"}
+- [Gastrointestinal - Ulcerative Colitis – Non-Preferred - Dipentum, Mesalamine Supp, Uceris Foam, Zeposia, Mesalamine ER (generic for Pentasa)](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMDNDSktPUzlMUDQ1QTM0Sk9WWURBU09QMyQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
