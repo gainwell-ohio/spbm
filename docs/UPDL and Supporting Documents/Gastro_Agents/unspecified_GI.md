@@ -7,6 +7,14 @@ search:
 
 This is a subcategory of Gastrointestinal Agents.
 
+## Decision Trees
+
+- [Gastrointestinal Agents - Unspecified GI - Non-Preferred](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNDhBOE5BRDUyT1Q5SkFFTkxKSUk4N1lIWiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+- [Gastrointestinal Agents - Unspecified GI- Relistor and Symproic](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM1VRN1lWS0hYMjJCMjZLQkhVRkRRVUhDQSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+- [Gastrointestinal Agents - Unspecified GI - Aemcolo](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUtaRFlZSDlXS0NJNEpRWjUyWFIxVVZTQSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+- [Gastrointestinal Agents - Unspecified GI - Zorbtive, Gattex](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQUwxQTRKNThJQlVTUU8xSEtFRTlBWTdXUyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+- [Gastrointestinal Agents - Unspecified GI - Step Therapy Agents](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNThUMjlYSldRVkxMTTU3R1dWNFJYOU5CTyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+
 ## Formulary
 
 ### Preferred
