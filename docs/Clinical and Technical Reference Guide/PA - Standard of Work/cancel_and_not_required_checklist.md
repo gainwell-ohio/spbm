@@ -1,4 +1,6 @@
-# Items to consider prior to canceling:
+# Cancel and Not Required Checklist
+
+## Items to consider prior to canceling:
  1.	Does the signature follow the guidance provided on Evergreen?
     
  2.	Is the ICD-10 code provided? If not, is the diagnosis code provided on the PA form or within the chart notes? If yes, please use the search function on the PA screen to choose the most appropriate diagnosis code.
@@ -10,7 +12,7 @@
 
      - Internal template used for cancelled cases should include at minimum: Reason for cancellation, job # within OpenText, fax # cancelled fax was sent to, date and time that cancelled fax was successfully sent via OpenText. In addition, the outbound fax communication MUST be uploaded through Process Manager and attached to the cancelled PA.
    
-# Items to consider prior to sending back as “PA Not Required”:
+## Items to consider prior to sending back as “PA Not Required”:
 
 1.	Have you checked the rejected claim to see why the provider is submitting a PA? Does the medication truly need a PA or just an edit override?
 
