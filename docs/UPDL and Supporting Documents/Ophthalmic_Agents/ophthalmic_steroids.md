@@ -9,7 +9,7 @@ This is a subcategory of Ophthalmic Agents.
 
 ## Decision Trees
 
-- [Ophthalmic - Ophthalmic Steroids - Difluprednate*, Inveltys, Lotemax SM, Loteprednol*](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOVlWQkg1N0EzVEw1MjJNQlVYS0pZWEVHQiQlQCN0PWcu){ :target="_blank" rel="noopener"}
+- [Ophthalmic - Ophthalmic Steroids - Inveltys, Lotemax SM, Loteprednol*](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOVlWQkg1N0EzVEw1MjJNQlVYS0pZWEVHQiQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 

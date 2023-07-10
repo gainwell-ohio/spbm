@@ -15,6 +15,8 @@ This is a subcategory of Respiratory Agents.
 
 - [Respiratory - Inhaled - Non-Preferred ICS with LABAs - Airduo Digihaler, Airduo Respiclick, Breo Ellipta, Budesonide/Formoterol, Fluticasone/Salmeterol, Wixela Inhub](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOVRNR0JDODNNTDlXME9KNkQ4QUw3UVVFSiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
 
+- [Respiratory Agents - Inhaled - Non-Preferred LABAs - Lonhala Magnair, Tudorza, Yupelri](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQzhJTlFIQ01JS1pGSk42WU9KTTdWUFMyQSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+
 - [Respiratory - Inhaled - Non-Preferred SABAs - Albuterol HFA, Levalbuterol Nebulizer Sol, Proair Digihaler, Proair Respiclick, Xopenex HFA](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM0lNNlczTEg1TVM3Slc5VTdFNVhYQTROTSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
 
 ## Formulary
