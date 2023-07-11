@@ -9,7 +9,7 @@ This is a subcategory of Ophthalmic Agents.
 
 ## Decision Trees
 
-- [Ophthalmic - Glaucoma Agents- Non-Preferred - Apraclonidine, Betoptic S, Bimatoprost, Brimonidine 0.15%, Brinzolamide, Iopidine, Istalol, Lumigan, Travoprost*, Vyzulta, Xelpros, Zioptan](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURFlFT0ZNMUxFV0tITEdERjYxOFMxTExZSCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Ophthalmic - Glaucoma Agents- Non-Preferred - Apraclonidine, Betoptic S, Bimatoprost, Brimonidine 0.15%, Brinzolamide, Iopidine, Istalol, Lumigan, Travoprost*, Vyzulta, Xelpros, Zioptan](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURFlFT0ZNMUxFV0tITEdERjYxOFMxTExZSCQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 - [Ophthalmic - Glaucoma Agents- Preferred (Step Therapy) - Azopt, Combigan, Travatan Z](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQkJQSzVNNjBIU0tXN1NTNTFaNDFYM0k1NyQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
@@ -17,7 +17,7 @@ This is a subcategory of Ophthalmic Agents.
 
 ### Preferred
 
-| Preferred                       | Generic Name | Quantity | Time (Days) |
+| Preferred                       | Generic Name | Quantity | Time (Days) |z
 |:--------------------------------|:-------------|:--------:|:-----------:|
 | Alphagan P 0.1%                 |              |          |             |
 | Alphagan P 0.15% <sup>BvG</sup> |              |          |             |
