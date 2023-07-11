@@ -27,20 +27,20 @@ Step 7: Requires the use of Open Text </br>
 ![Alt text](additional_info_chat_5.png)
 
 Step 8: </br>
-![Alt text](additional_info_chat_6.png)
+![Alt text](additional_info_chat_6.png) </br>
 In this section, the opportunity to review the fax number as well as the documents being sent are reviewed.  If the information is exactly that it should be, the document can then be sent.  A Job #: is then provided once the fax has been sent. </br>
 An email is generated and will provide information regarding result of the fax. </br>
-![Alt text](additional_info_chat_7.png)
+![Alt text](additional_info_chat_7.png) </br>
 ^^The highlighted values are the most common results that are faxed back.^^ <br>
 ![Alt text](additional_info_chat_8.png) 
 
 Step 9: The Reject Fax Letter Template should then be attached to the existing Auth ID through Process Manager. </br>
-![Alt text](additional_info_chat_9.png)
+![Alt text](additional_info_chat_9.png) </br>
 - A new tab will populate with the Vue360Rx sign in request will pop up.
 - Sign in with the same username and password used for Vue360Rx (HCLS=LEV/shortname). </br>
-![Alt text](additional_info_chat_10.png) 
+![Alt text](additional_info_chat_10.png) </br> 
 - Click on Process Manager Web Button to the left. </br>
-![Alt text](additional_info_chat_11.png)
+![Alt text](additional_info_chat_11.png) </br>
 - To upload a PA, click Document Publisher
 - CHange the Filter Criteria to SPBM_PriorAuth </br>
 ![Alt text](additional_info_chat_12.png)
