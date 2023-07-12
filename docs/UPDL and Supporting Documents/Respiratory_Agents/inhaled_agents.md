@@ -9,15 +9,14 @@ This is a subcategory of Respiratory Agents.
 
 ## Decision Trees
 
-- [Respiratory - Inhaled - Non-Preferred Anticholinergics - Lonhala Magnair, Tudorza, Yupelri, Preferred: Atrovent HFA, Combivent Respimat, Incruse Ellipta, Ipratropium, Ipratropium/Albuterol Nebulizer Sol, Spiriva](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNTNHVEFTQks1UjJPWDdHQzZYVEVTOERJNiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
-
-- [Respiratory - Inhaled - Non-Preferred Glucocorticoids - Aerospan HFA, Alvesco, Armonair Digihaler, Armonair Respiclick, Arnuity Ellipta, Asmanex HFA, Qvar (QL), Fluticasone HFA](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQVZETk1DMDMyNzZNRU1CVDdPVDJYRk9FVyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
-
-- [Respiratory - Inhaled - Non-Preferred ICS with LABAs - Airduo Digihaler, Airduo Respiclick, Breo Ellipta, Budesonide/Formoterol, Fluticasone/Salmeterol, Wixela Inhub](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOVRNR0JDODNNTDlXME9KNkQ4QUw3UVVFSiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
-
+- [Respiratory Agents - Inhaled - Non-Preferred ACH/ICS/LABA - Breztri Aerosphere, Trelegy Ellipta](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUM3VUxBODQ1TlJXOEQxVUowNkowQTg3VSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+- [Respiratory Agents - Inhaled - Non-Preferred ACH/LABA - Bevespi Aerosphere, Duaklir Pressair](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQVRUMzlYS1gzWFZNNk9VSzEyNU1GVFAwMyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+- [Repiratory Agents - Inhaled - Albuterol Nebulizer Sol](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQzkxUFZVMUNBNzNHOTJNUVdSRklYVFcyTCQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+- [Respiratory Agents - Inhaled - Non-Preferred Anticholinergics - Lonhala Magnair, Tudorza, Yupelri, Preferred: Atrovent HFA, Combivent Respimat, Incruse Ellipta, Ipratropium, Ipratropium/Albuterol Nebulizer Sol, Spiriva](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNTNHVEFTQks1UjJPWDdHQzZYVEVTOERJNiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+- [Respiratory Agents - Inhaled - Non-Preferred Glucocorticoids - Aerospan HFA, Alvesco, Armonair Digihaler, Armonair Respiclick, Arnuity Ellipta, Asmanex HFA, Qvar (QL), Fluticasone HFA](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQVZETk1DMDMyNzZNRU1CVDdPVDJYRk9FVyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+- [Respiratory Agents - Inhaled - Non-Preferred ICS with LABAs - Airduo Digihaler, Airduo Respiclick, Breo Ellipta, Budesonide/Formoterol, Fluticasone/Salmeterol, Wixela Inhub](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOVRNR0JDODNNTDlXME9KNkQ4QUw3UVVFSiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
 - [Respiratory Agents - Inhaled - Non-Preferred LABAs - Lonhala Magnair, Tudorza, Yupelri](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQzhJTlFIQ01JS1pGSk42WU9KTTdWUFMyQSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
-
-- [Respiratory - Inhaled - Non-Preferred SABAs - Albuterol HFA, Levalbuterol Nebulizer Sol, Proair Digihaler, Proair Respiclick, Xopenex HFA](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM0lNNlczTEg1TVM3Slc5VTdFNVhYQTROTSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+- [Respiratory Agents - Inhaled - Non-Preferred SABAs - Albuterol HFA, Levalbuterol Nebulizer Sol, Proair Digihaler, Proair Respiclick, Xopenex HFA](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM0lNNlczTEg1TVM3Slc5VTdFNVhYQTROTSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
