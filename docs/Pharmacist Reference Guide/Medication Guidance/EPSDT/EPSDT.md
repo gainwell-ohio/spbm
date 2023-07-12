@@ -57,7 +57,7 @@ Justin Collingwood
 
 [Weekly email 7/8/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Public/weeklyemail7823.docx?d=w07d2866022464dd5a016fbf2c60d0022&csf=1&web=1&e=tjPLNT){:target="_blank" rel="noopener"}
 
-![image](EPSDT edits.PNG)
+![image]([EPSDT edits.PN](https://github.com/gainwell-ohio/spbm/blob/main/docs/Pharmacist%20Reference%20Guide/Medication%20Guidance/EPSDT%20edits.PNG)G)
 
 
 
