@@ -53,6 +53,14 @@ Thanks,
  
 Justin Collingwood
 
+## EPSDT Edits
+
+[Weekly email 7/8/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Public/weeklyemail7823.docx?d=w07d2866022464dd5a016fbf2c60d0022&csf=1&web=1&e=tjPLNT){:target="_blank" rel="noopener"}
+
+![image](EPSDT edits.PNG)
+
+
+
 ### References
 
 [EPSDT Procedures Email :material-email:](EPSDT Procedures.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
