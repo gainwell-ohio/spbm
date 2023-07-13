@@ -18,21 +18,16 @@ search:
 - Ablysinol
 - Actemra
 - Acthar
-- Adbry  
-- Adempas  
+- Adbry   
 - Advate  
-- Adynovate  
-- Aemcolo  
-- Afrezza  
+- Adynovate      
 - Afstyla  
 - Aimovig  
-- Ajovy  
-- Aldara (imiquimod) - 
+- Ajovy   
 - Aliskiren  
 - Alphanate  
 - Alphanine SD  
-- Alprolix  
-- Ambrisentan  
+- Alprolix    
 - Amondys 45  
 - Aranesp  
 - Arikayce  
@@ -100,8 +95,7 @@ search:
 - Mayzent  
 - Methoxsalen  
 - Mircera  
-- Mononine  
-- Nascobal  
+- Mononine    
 - Neulasta  
 - Neupogen  
 - Nivestym  
@@ -119,8 +113,7 @@ search:
 - Octreotide (Sandostatin LAR)  
 - Olumiant  
 - Omnipod  
-- Omnitrope  
-- Opsumit  
+- Omnitrope    
 - Orencia  
 - Orkambi  
 - Otezla  
@@ -148,8 +141,7 @@ search:
 - Saizen  
 - Sandostatin (octreotide)  
 - Serostim  
-- Signifor  
-- Sildenafil  
+- Signifor    
 - Siliq  
 - Simponi  
 - Sirturo  
@@ -202,6 +194,5 @@ search:
 - Zepatier  
 - Ziextenzo  
 - Zomacton  
-- Zorbtive  
-- Zyclara  
+- Zorbtive    
 - Zyvox   
