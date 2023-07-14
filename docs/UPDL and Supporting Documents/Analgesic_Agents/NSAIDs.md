@@ -105,6 +105,8 @@ Subsequent Authorization Criteria
 
 ## Links
 
+[Denial Language (Rph Use only)](https://mygainwell-my.sharepoint.com/personal/rachel_carpenter_gainwelltechnologies_com/Documents/Documents/OHMCD/Denial%20Language%20Updated%2002062023.docx#NSAIDS){:target="_blank" rel="noopener"}
+
 [Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria_FINAL.pdf#page=9){ :target="_blank"}
 
 [Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=8){ :target="_blank"}
