@@ -113,4 +113,4 @@ Subsequent Authorization Criteria
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)<target="_blank">
 
-[test](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ER_R5ARKjVBHpZkrHIRLgRYBkYywDGZ9AuiOUlQ7OdgH2g?e=rnfyfl#NSAIDS){ :target="_blank" rel="noopener"}
+[test](https://github.com/gainwell-ohio/spbm/blob/Kaelyn-dobbins-patch-1/docs/UPDL%20and%20Supporting%20Documents/Analgesic_Agents/TEST-DENIAL%20LANGUAGE.pdf#page=2){ :target="_blank" rel="noopener"}
