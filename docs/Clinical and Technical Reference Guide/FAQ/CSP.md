@@ -30,6 +30,8 @@ search:
         - Pharmacy Name - the one they would like the lock in to be switched to, NPI, Phone number
         - Pharmacy Name and NPI of the current lock in pharmacy
         - Request Start Date, no guarantee
+        - Was a one-time override placed for the patient?
+          - If yes, for which drugs?
 - Report to the caller that you will make a callback once you hear back from the clinical team
 - Once you hear back from the clinical team, it is THE REQUESTING TECHNICIAN'S RESPONSIBILITY TO MAKE THAT CALLBACK unless the requesting technician is out of the office, and then the Callback team will make that callback
     - After you make the callback, please reply to the callback team (OHSPBMCallBack@gainwelltechnologies.com) so that the completed callback can be documented properly
