@@ -27,11 +27,14 @@ search:
         - Member ID, Name, DOB, phone #
         - Who is requesting
         - Why the caller is requesting a different lock in and why they cannot stay where they are
+            - Acceptable reasons, please do not give this information to the caller
+                - Pharmacy Closed, Pharmacy no longer willing / able to to provide services, Patient Moved, long term stock out.
+                - Pharmacy called requesting a pharmacy be added because of Specialty / LTC / Home Care
         - Pharmacy Name - the one they would like the lock in to be switched to, NPI, Phone number
         - Pharmacy Name and NPI of the current lock in pharmacy
         - Request Start Date, no guarantee
         - Was a one-time override placed for the patient?
-          - If yes, for which drugs?
+            - If yes, for which drugs?
 - Report to the caller that you will make a callback once you hear back from the clinical team
 - Once you hear back from the clinical team, it is THE REQUESTING TECHNICIAN'S RESPONSIBILITY TO MAKE THAT CALLBACK unless the requesting technician is out of the office, and then the Callback team will make that callback
     - After you make the callback, please reply to the callback team (OHSPBMCallBack@gainwelltechnologies.com) so that the completed callback can be documented properly
