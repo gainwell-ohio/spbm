@@ -26,7 +26,9 @@ search:
     - In the encrypted email include
         - Member ID, Name, DOB, phone #
         - Who is requesting
-        - Why the caller is requesting a different lock in and why they cannot stay where they are
+        - Why the caller is requesting a different lock in and why they cannot stay where they are?
+            - Some examples are, please do not give these to the caller
+                -  Pharmacy Closed, Pharmacy no longer willing/able to provide services, will not longer be able to get medication in or for an extended period of time, Pharmacy called requesting a pharmacy be added because of Specialty / LTC / Home Care
         - Pharmacy Name - the one they would like the lock in to be switched to, NPI, Phone number
         - Pharmacy Name and NPI of the current lock in pharmacy
         - Request Start Date, no guarantee
