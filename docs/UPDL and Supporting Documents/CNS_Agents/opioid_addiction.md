@@ -66,8 +66,10 @@ Buprenorphine Safety Edits and Drug Utilization Review Criteria
 
 - Prescribing for buprenorphine products must follow the requirements of Ohio Administrative Code rule 4731-33-03 Office based treatment for opioid addiction.
 - In favor of eliminating prior authorization for all forms of oral short acting buprenorphine- containing products, ODM and the Managed Care Plans will implement safety edits and a retrospective drug utilization review processfor all brand and generic forms of oral short acting buprenorphine-containing products. Safety edits are in place for dosages over 24mg of buprenorphine equivalents/day.
-- Buprenorphine sublingual tablets (generic Subutex) will be restricted to pregnancy, breastfeeding, or contraindication to preferred products
+- Buprenorphine sublingual tablets (generic Subutex) will be restricted to pregnancy, breastfeeding, or contraindication to preferred products**
 - Buprenorphine injection (Sublocade) dosing schedule will be limited to 300mg/30 days
+
+[**Buprenorphine Criteria](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Buprenorphine%20Criteria/)
 
 ### Additional Information
 
