@@ -59,7 +59,7 @@ Justin Collingwood
 
 ![image]([EPSDT edits.PN](https://github.com/gainwell-ohio/spbm/blob/main/docs/Pharmacist%20Reference%20Guide/Medication%20Guidance/EPSDT%20edits.PNG)G)
 
-## Medications not EPSDT eligilble
+## Medications not EPSDT eligible
 
 • [Deplin](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/medicalfood/)
 
