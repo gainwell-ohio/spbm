@@ -6,3 +6,21 @@
 
 
 Search: methylfolate, methyl-folate, levomefolate, l-folate
+
+
+## EO Follow-up Deplin 7/13/23
+
+
+Hello!
+This is the specific GCN that was mentioned to not approve for medical food
+
+![image](deplin.png)
+
+I would strongly consider other formulations that do not have FDA indications or are medical food to ***not be EPSDT eligible.***
+
+This is a general list of medical foods from Lexi with what they are normally used for, not indicated, but if on this list I would strongly recommend double checking indications and heavily scrutinize our payability of it
+Medical Foods Product Table (Lexi-Drugs) - Lexicomp
+
+As directed I would admindeny please,
+Thanks
+Justin
