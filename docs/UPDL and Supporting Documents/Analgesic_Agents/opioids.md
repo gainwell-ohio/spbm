@@ -138,7 +138,7 @@ Non-Preferred Criteria
 Additional SHORT-ACTING Opioids Criteria
 
 -   The system defines an “initial request” as having no opioid claims in the previous 90 days
--   **Initial short-acting requests** can be authorized up to 90 days
+-   **Initial short-acting requests** can be authorized up to 90 days**
     -   Length of authorization is dependent on indication, previous patient utilization, and requested length of therapy (could be more restrictive)
     -   To exceed acute opioid limits, documentation of the following must be provided:
         -   Diagnosis code which must be for somatic type pain
@@ -146,6 +146,9 @@ Additional SHORT-ACTING Opioids Criteria
     -   Exemptions to the additional criteria:
         -   Patients receiving short-acting opioids for active cancer treatment, palliative care, and end-of-life/hospice care, sickle cell, severe burn, traumatic crushing of tissue, amputation, major orthopedic surgery
         -   Prescriber attestation that patient is not opioid naïve (i.e., new to Medicaid or was on higher dose in hospital)
+     
+[**Opioids- Short Acting Edit Overrides to be included with Approvals](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Control%20Substances/Opioids-Short%20Acting/)
+        
 - **Subsequent short-acting requests** can be authorized up to 180 days
     - Documentation of the following must be provided:
         - Current treatment plan
