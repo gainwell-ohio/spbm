@@ -55,6 +55,8 @@ Additional Oxybate Salts (Xywav) Criteria
 
 - Must have documented adherence to sodium restricted diet
 
+[**Xyrem Vs Xywav additional criteria information](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Xyrem%20vs%20Xywav/)
+
 ### Subsequent Authorization
 
 Subsequent Authorization Criteria
