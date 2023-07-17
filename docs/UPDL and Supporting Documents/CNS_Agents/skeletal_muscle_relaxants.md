@@ -70,6 +70,8 @@ Additional Carisoprodol (Soma) Criteria
 
 -   Must provide medical justification that no other muscle relaxant or agent to treat fibromyalgia, or any musculoskeletal condition, would serve the clinical needs of the patient
 
+[**Fleqsuvy and zonisamide suspension from NCH](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Fleqsuvy%20and%20zonisamide%20suspension/)
+
 ### Subsequent Authorization
 
 Subsequent Authorization Criteria
