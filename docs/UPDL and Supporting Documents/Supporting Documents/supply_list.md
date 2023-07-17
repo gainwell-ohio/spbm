@@ -41,6 +41,8 @@ search:
 | Trividia Health, Inc. | 56151-1470-02 | TrueMetrix Air         |
 | Trividia Health, Inc. | 56151-1491-02 | Relion TrueMetrix Air  |
 
+[**Non-formulary test strip Procedure](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Freestyle%20NEO/)
+
 ### Continuous Glucose Monitoring
 
 **The following practice standards warrant CGM usage:**
