@@ -111,6 +111,10 @@ Steroid-Containing Inhaler Criteria
     - Patient has been non-compliant on a preferred inhaler due to taste, dry mouth, or infection
     - Patient is clinically unstable, as defined by current guidelines in terms of oral steroid use or patient’s current symptomatology
 
+[**Trelegy Criteria for COPD](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Trelegy/)
+
+[**Breztri Criteria for COPD](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Breztri/?h=bre)
+
 ### Subsequent Authorization
 
 Subsequent Authorization Criteria
