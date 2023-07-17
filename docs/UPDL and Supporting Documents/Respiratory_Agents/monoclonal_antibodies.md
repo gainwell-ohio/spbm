@@ -46,9 +46,11 @@ Clinical PA Criteria
 
 -   Must be prescribed by or in consultation with an applicable specialist (i.e., allergist/immunologist, pulmonologist, or otolaryngologist)
 -   For **Asthma** – Must have had uncontrolled asthma symptoms and/or exacerbations despite at least **30 days** with:
-    -   Medium dose preferred ICS/LABA inhaler for 6 years and older **OR** medium dose preferred ICS/LABA inhaler with tiotropium or high dose ICS/LABA inhaler if 12 years and older
+    -   Medium dose preferred ICS/LABA inhaler for 6 years and older **OR** medium dose preferred ICS/LABA inhaler with tiotropium or high dose ICS/LABA inhaler if 12 years and older**
 -   For **Chronic Rhinosinusitis with Nasal Polyposis** – Must have had an inadequate clinical response of at least **30 days** to at least **one oral** corticosteroid AND **one nasal** corticosteroid spray
 -   For **Chronic Urticaria** – Must have had an inadequate clinical response to at least **14 days** with at least **two different** antihistamines
+
+[**ICS/LABA Dose Level Chart](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Immunomodulators/Respiratory%20Agents%20-%20Monoclonal%20Antibodies/)
 
 ### Non-Preferred
 
