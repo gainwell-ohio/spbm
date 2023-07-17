@@ -59,6 +59,8 @@ Justin Collingwood
 
 ![image]([EPSDT edits.PN](https://github.com/gainwell-ohio/spbm/blob/main/docs/Pharmacist%20Reference%20Guide/Medication%20Guidance/EPSDT%20edits.PNG)G)
 
+EPSDT overrides  - must follow direction on sheet that on the indvidual overrides if going to approve. We also must email before or after approving according to the edit it is tripping for, and our ***email contact*** is <a href="mailto:OH_MCD_PBM_clinical@gainwelltechnologies.com">OH_MCD_PBM_clinical 
+
 ## Medications not EPSDT eligible
 
 • [Deplin](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/medicalfood/)
