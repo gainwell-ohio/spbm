@@ -96,7 +96,9 @@ Non-Preferred Criteria
 ### Additional Information
 
 - Requests for non-preferred immediate-release formulations must have all required trials with preferred immediate-release drugs, and requests for non-preferred extended-release formulations must have all required trials with preferred extended-release drugs
-- For patients established on drugs that change from preferred to non-preferred on January 1, a prior authorization is **NOT** required until **after** June 30th of that year.
+- For patients established on drugs that change from preferred to non-preferred on January 1, a prior authorization is **NOT** required until **after** June 30th of that year.**
+
+[**ADHD Aproval language due transition of care/COT](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/ADHD/)
 
 ### Subsequent Authorization
 
