@@ -119,6 +119,8 @@ Subsequent Authorization Criteria
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
 
+[**Immunomodulators for Systemic Inflammatory Disease DLP](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Systemic%20Immunomodulators/)
+
 ## Links
 
 [Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=75){ :target="_blank" rel="noopener"}
