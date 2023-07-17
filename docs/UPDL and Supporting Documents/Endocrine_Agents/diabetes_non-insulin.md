@@ -106,6 +106,8 @@ Non-Preffered Criteria
 - Must have had an inadequate clinical response of at least ^^120 days^^ with at least ^^three preferred^^ drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+ 
+[**GLP-1 Directive for Mounjaro, Ozempic, Wegovy, Saxenda, Rybelsus, Bydureon Bcise, Adlyxin](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Semaglutide-Tirzepatide/) 
 
 ### Oral and Injectable Combination Drugs
 
