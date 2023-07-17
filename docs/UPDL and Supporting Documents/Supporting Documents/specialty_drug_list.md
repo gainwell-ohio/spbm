@@ -819,9 +819,11 @@ search:
 | Pheburane                 |
 | Ravicti                   |
 | Sodium Phenylbutyrate     |
-| Sucraid                   |
+| Sucraid**                 |
 | Varubi                    |
 | Xermelo                   |
+
+[**Sucraid Criteria](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Sucraid/)
 
 ## Hormones
 
