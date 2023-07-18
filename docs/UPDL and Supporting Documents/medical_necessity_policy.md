@@ -288,3 +288,7 @@ If the member is 21 years of age or older, the request will be reviewed using th
 
 1.  Documentation has been provided showing that member’s clinical response to treatment and 
 ongoing safety monitoring
+
+<a href="[https://google.com](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/kaelyn_dobbins_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7B04E4D11F-8D4A-4750-A599-2B1C844B8116%7D&file=TEST-DENIAL%20LANGUAGE.docx&action=embedview&mobileredirect=true&wdStartOn=3&cid=ac79ae6f-2af7-4584-9cd2-a1d86642e27a)https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/kaelyn_dobbins_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7B04E4D11F-8D4A-4750-A599-2B1C844B8116%7D&file=TEST-DENIAL%20LANGUAGE.docx&action=embedview&mobileredirect=true&wdStartOn=3&cid=ac79ae6f-2af7-4584-9cd2-a1d86642e27a" target="child">Link 1</a>
+
+<a href="[https://bing.com](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/kaelyn_dobbins_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7B04E4D11F-8D4A-4750-A599-2B1C844B8116%7D&file=TEST-DENIAL%20LANGUAGE.docx&action=embedview&mobileredirect=true&wdStartOn=3&cid=ac79ae6f-2af7-4584-9cd2-a1d86642e27a)https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/kaelyn_dobbins_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7B04E4D11F-8D4A-4750-A599-2B1C844B8116%7D&file=TEST-DENIAL%20LANGUAGE.docx&action=embedview&mobileredirect=true&wdStartOn=4&cid=ac79ae6f-2af7-4584-9cd2-a1d86642e27a" target="child">Link 2</a>
