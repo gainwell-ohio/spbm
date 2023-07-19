@@ -53,13 +53,41 @@ Thanks,
  
 Justin Collingwood
 
-## EPSDT Edits
+## EPSDT Edits 7/19/23
 
-[Weekly email 7/8/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Public/weeklyemail7823.docx?d=w07d2866022464dd5a016fbf2c60d0022&csf=1&web=1&e=tjPLNT){:target="_blank" rel="noopener"}
+When considering approval, these edit rejections do not require a preliminary email before approving to clinical to send to ODM.
 
-![image]([EPSDT edits.PN](https://github.com/gainwell-ohio/spbm/blob/main/docs/Pharmacist%20Reference%20Guide/Medication%20Guidance/EPSDT%20edits.PNG)G)
+![image](epsdtEOpt1.PNG)
 
-^^EPSDT overrides^^  - must follow direction on sheet that on the indvidual overrides if going to approve. We also must email before or after approving according to the edit it is tripping for, and our ***email contact*** is <a href="mailto:OH_MCD_PBM_clinical@gainwelltechnologies.com">OH_MCD_PBM_clinical- OH_MCD_PBM_clinical@gainwelltechnologies.com</a> 
+==So for our processes, if approving we approve, then we enter the EO, and then send the email to clinical to inform ODM==
+
+The following edits when tripped MUST ask ODM first, as in if we are considering approving we send the following template information to clinical to send to email ODM prior to approval.
+
+![image](epsdtEOpt2.PNG)
+
+==For our processes, we MUST send the email in template form to clinical and ODM approval **BEFORE** approving for EPSDT.== Please include OH_MCD_PBM_clinical@gainwelltechnologies.com, Cassandra, Brian, Justin, and more to be included in the group in the future. 
+
+Quick Email link: <a href="mailto:OH_MCD_PBM_clinical@gainwelltechnologies.com;cassandra.roach@gainwelltechnologies.com;justin.collingwood@gainwelltechnologies.com;brian.moore@gainwelltechnologies.com ">OH_MCD_PBM_clinical; Cassandra; Justin; Brian
+
+^^Template to clinical^^
+
+PA number:
+
+Edit number to override:
+
+Approval rationale:
+
+There will be times when we are working when ODM or clinical ^^won’t be able to respond within TAT for PAs(the weekend, overnight).^^ In this situations if it is feasible that we will not get a response, Please send the email questioning first as described above, and deny the PA with the **denial language**:
+
+PLEASE NOTE THIS IS NOT A DENIAL - further research and outreach is required (that may include but is not limited to: benefits, DESI status, rebate status, etc.) This will be decided within 72 hours of prior authorization received.
+
+When and if it is approved clinical/ODM will contact the group that are able to enter the EO, and the pharmacist that processed originally will complete an approved PA, and the group (Cassandra, Justin, Brian, etc.) will enter the edit override portion of the approval.
+
+Thanks,
+Justin Collingwood
+
+
+
 
 ## Medications not EPSDT eligible
 
