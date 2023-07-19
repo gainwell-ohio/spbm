@@ -3,7 +3,17 @@ search:
   boost: 1
 ---
 
-# Non-formulary test strip approvals 3/17/23
+## Non-formulary test strip approvals 3/17/23
+
+***Agree with Cassandra. There would need to be compelling evidence/medically necessary reasoning why they can’t use the preferred meter. Convenience or advanced features alone would not fall into that category.***
+
+Jason Foote, PharmD, MSHI
+
+Clinical Pharmacist
+
+OH Medicaid PBM
+
+------------
 
 Good morning team! 
 
