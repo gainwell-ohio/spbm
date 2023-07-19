@@ -7,12 +7,14 @@
 - Pharmacists – please outreach Justin, Rachel or myself. If we happen to not be available via Teams chat, after 11pm, please place the ticket yourself (use below instructions).
 - The supervisor will need to be the one to determine if this is an isolated issue, or potentially widespread prior to submitting the ticket (we need as much information as possible to submit these).
 
-2.	Once the supervisor/lead has gathered all of the pertinent information to be submitted, please follow these instructions below:
--	Submit the ticket to OH_MITS_Service_Desk: <a href="mailto:ohio_mits_servicedesk@gainwelltechnologies.com">Ohio_MITS_ServiceDesk_Group - ohio_mits_servicedesk@gainwelltechnologies.com</a>
+2.	Once the supervisor/lead has gathered all of the pertinent information to be submitted, please follow these instructions below: **template provided below**
+-	Submit the ticket to OH_MITS_Service_Desk
 -	CC the following individuals: Aaron Banks, Cassandra Roach, ~~Denise Olusula~~, ==Amanda Castle, Brian Moore,== OH SPBM PA Pharmacist, OH Supervisors and Sr. Techs, Dan Gonos, Chad Rogers, Angie Stevens and Melissa Rutledge.
 -	If the email contains any PHI, please send encrypted!
 -	Include as much information as possible so that the service desk has everything they need to know
-   -	 Ex: Specific VPN, browser used (Chrome Vs. Edge), how many users impacted, etc. 
+   -	 Ex: Specific VPN, browser used (Chrome Vs. Edge), how many users impacted, etc.
+
+**Quick Email Template**: <a href="mailto:ohio_mits_servicedesk@gainwelltechnologies.com?cc=cassandra.roach@gainwelltechnologies.com;justin.collingwood@gainwelltechnologies.com;brian.moore@gainwelltechnologies.com;amanda.jennings@gainwelltechnologies.com;chad.m.rogers@gainwelltechnologies.com;melissa.rutledge@gainwelltechnologies.com;OHSupervisorsandSr.Techs@mygainwell.onmicrosoft.com;OHSPBMPAPharmacist@mygainwell.onmicrosoft.com&body=Application/System Affected:%0D%0A%0D%0AApproximate time the issue started/noticed:%0D%0A%0D%0ANumber of Users Affected:%0D%0A%0D%0AWhat steps were taken when the error occurred:%0D%0A%0D%0AProvide screenshots below: ">Ohio_MITS_ServiceDesk_Group
 
 Thank you,
 
@@ -20,7 +22,6 @@ Cassandra Roach, PharmD, RPh
 
 ## ARCHIVED MITS/ServiceNow tickets
 
-Email: <a href="mailto:ohio_mits_servicedesk@gainwelltechnologies.com">Ohio_MITS_ServiceDesk_Group - ohio_mits_servicedesk@gainwelltechnologies.com</a>
 
 When you are noticing an issue
 
