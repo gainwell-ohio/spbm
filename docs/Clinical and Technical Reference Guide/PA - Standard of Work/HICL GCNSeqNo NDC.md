@@ -1,5 +1,4 @@
-If a technician is moving a PA through the ques, please use GCNseqNO, if you are to be the final decider, be it technician or pharmacist, you must adjust at what level you are to decide.
-This makes it easier on the techs that are moving things through to be uniform, and those specialized enough to approve or deny to apply.
+When working a prior authorization please select the GCNseqNO if moving from fax view to pending or from pending to medreview. If you are to be the final decider [approve/cancel/deny (rph only)] please follow the HICL-GCN-NDC guidance when selecting the drug name.
 
 From most general to strict, it goes HICL-GCN-NDC.
 
