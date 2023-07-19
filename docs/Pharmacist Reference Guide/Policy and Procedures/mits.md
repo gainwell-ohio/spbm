@@ -9,7 +9,7 @@
 
 2.	Once the supervisor/lead has gathered all of the pertinent information to be submitted, please follow these instructions below:
 -	Submit the ticket to OH_MITS_Service_Desk: <a href="mailto:ohio_mits_servicedesk@gainwelltechnologies.com">Ohio_MITS_ServiceDesk_Group - ohio_mits_servicedesk@gainwelltechnologies.com</a>
--	CC the following individuals: Aaron Banks, Cassandra Roach, Denise Olusula, OH SPBM PA Pharmacist, OH Supervisors and Sr. Techs, Dan Gonos, Chad Rogers, Angie Stevens and Melissa Rutledge.
+-	CC the following individuals: Aaron Banks, Cassandra Roach, ~~Denise Olusula~~, ==Amanda Castle, Brian Moore,== OH SPBM PA Pharmacist, OH Supervisors and Sr. Techs, Dan Gonos, Chad Rogers, Angie Stevens and Melissa Rutledge.
 -	If the email contains any PHI, please send encrypted!
 -	Include as much information as possible so that the service desk has everything they need to know
    -	 Ex: Specific VPN, browser used (Chrome Vs. Edge), how many users impacted, etc. 
