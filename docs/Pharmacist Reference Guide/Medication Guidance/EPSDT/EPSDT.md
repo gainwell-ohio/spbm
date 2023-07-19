@@ -67,7 +67,7 @@ The following edits when tripped MUST ask ODM first, as in if we are considering
 
 ==For our processes, we MUST send the email in template form to clinical and ODM approval **BEFORE** approving for EPSDT.== Please include OH_MCD_PBM_clinical@gainwelltechnologies.com, Cassandra, Brian, Justin, and more to be included in the group in the future. 
 
-Quick Email link: <a href="mailto:OH_MCD_PBM_clinical@gainwelltechnologies.com;cassandra.roach@gainwelltechnologies.com;justin.collingwood@gainwelltechnologies.com;brian.moore@gainwelltechnologies.com ">OH_MCD_PBM_clinical; Cassandra; Justin; Brian
+***Quick Email link:*** <a href="mailto:OH_MCD_PBM_clinical@gainwelltechnologies.com;cassandra.roach@gainwelltechnologies.com;justin.collingwood@gainwelltechnologies.com;brian.moore@gainwelltechnologies.com ">OH_MCD_PBM_clinical; Cassandra; Justin; Brian
 
 ^^Template to clinical^^
 
