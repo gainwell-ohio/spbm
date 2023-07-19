@@ -4,6 +4,6 @@ There needs to be compelling evidence (medical necessity) why the advanced featu
 
 Attached are some additional emails about this and Minimed.
 
-Jason Foote, PharmD, MSHI
-Clinical Pharmacist
+Jason Foote, PharmD, MSHI </br>
+Clinical Pharmacist </br>
 OH Medicaid PBM
