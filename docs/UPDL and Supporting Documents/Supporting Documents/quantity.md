@@ -5,7 +5,7 @@ search:
 
 # Quantity Limit List
 
-[Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20221001_Ohio_Medicaid_Quantity_Document.pdf#overlay-context=drug-coverage){ :target="_blank" rel="noopener"}
+[Quantity Limit List](https://medicaid.ohio.gov/wps/wcm/connect/gov/262f9c8d-0fac-435e-98a3-69d61aefe847/20220701_Ohio_Medicaid_Quantity_Document_FINAL.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE.Z18_K9I401S01H7F40QBNJU3SO1F56-262f9c8d-0fac-435e-98a3-69d61aefe847-ozUcZr-){ :target="_blank" rel="noopener"}
 ## Table of Contents
 
 |                                                         |           |
