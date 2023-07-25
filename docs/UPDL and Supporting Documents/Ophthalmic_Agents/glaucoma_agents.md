@@ -17,7 +17,7 @@ This is a subcategory of Ophthalmic Agents.
 
 ### Preferred
 
-| Preferred                       | Generic Name | Quantity | Time (Days) |z
+| Preferred                       | Generic Name | Quantity | Time (Days) |
 |:--------------------------------|:-------------|:--------:|:-----------:|
 | Alphagan P 0.1%                 |              |          |             |
 | Alphagan P 0.15% <sup>BvG</sup> |              |          |             |
