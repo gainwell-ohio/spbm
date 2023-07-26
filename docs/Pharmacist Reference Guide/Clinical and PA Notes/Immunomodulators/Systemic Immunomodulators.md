@@ -13,7 +13,7 @@ By Chris for 1/2023 UPDL: Immunodoluators by Dx.xlsx
 
 ![Alt text](si_2.png)
 
-## Stelara Dosing Guidance 7/26/23
+## Stelara Dosing 7/26/23
 
 Stelara (ustekinumab) has been shown to be effective for treatment of ulcerative colitis (UC) and Crohn’s disease. Unfortunately, a large percentage of patients (>40% for UC; approximately 50% for Crohn’s) achieve suboptimal clinical response after induction and maintenance dosing of every eight (8) weeks. 
 
