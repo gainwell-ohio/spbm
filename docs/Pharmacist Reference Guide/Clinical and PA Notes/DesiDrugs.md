@@ -3,7 +3,11 @@ search:
   boost: 1
 ---
 
-# DESI Drugs 11/11/22
+# DESI Drugs 
+
+[DESI DRUG List 7/20/23](desi_list_0.pdf){:target="_blank" rel="noopener"}
+
+## 11/11/22
 
 After further defining why there are green payable drugs in the NDC Maintenance tile from Tyler – 
 
