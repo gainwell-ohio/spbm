@@ -121,7 +121,7 @@ Subsequent Authorization Criteria
 
 [**Immunomodulators for Systemic Inflammatory Disease DLP](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Systemic%20Immunomodulators/)
 
-[**Systemic Immunomodulators Clinical Guide/Diagnosis Comparison Chart](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Immunomodulators/Systemic%20Immunomodulators/)
+[**Systemic Immunomodulators Clinical Guide/Diagnosis Comparison Chart- Stelara Dosing Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Immunomodulators/Systemic%20Immunomodulators/)
 
 ## Links
 
