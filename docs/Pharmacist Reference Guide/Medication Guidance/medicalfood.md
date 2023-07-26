@@ -1,4 +1,4 @@
-# Medical food
+# DME and Medical food
 
 ## [Weekly email 7/2/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EfRM6vvZbnRPlsW3CeTzA7QB4CMWZIGZP3G86X3lWWEYrw?e=DKe4Mx){:target="_blank" rel="noopener"}
 
@@ -24,3 +24,21 @@ Medical Foods Product Table (Lexi-Drugs) - Lexicomp
 As directed I would admindeny please,
 Thanks
 Justin
+
+## DME
+
+[Weekly email 7/22/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/weeklyemail72223.docx?d=w3fdfd9834de549a8b828b19b4ba6d456&csf=1&web=1&e=6w52v6){:target="_blank" rel="noopener"}
+
+•	So hopefully a little more clarity for DME/Medical food situations that may come across our paths. **We do cover spacers and nebulizer masks, not the nebulizer/tubing itself.** ==We do NOT cover blood pressure cuffs or machines.==
+When trying to contemplate if a product is a medical supply or benefit exclusion an edit that may pop and further description in NDC tile may help guide
+
+![image](Edit7371.png)
+
+![image](dme.png)
+
+If we do get what is perceived to be a DME product like diapers, nebulizers, nutritional supplements or caloric replacement like ensure or thickeners, blood pressure machines, medical food (other than deplin) to give the prescriber and patient the most information possible please provide **denial language** as in this scope:
+
+==This product should be processed with the member’s durable medical equipment coverage.==
+
+I am currently working on trying to get this more defined for ease of use and clear directives to be put in place for these situations.
+
