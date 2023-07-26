@@ -19,7 +19,7 @@ Stelara (ustekinumab) has been shown to be effective for treatment of ulcerative
 
 Current literature does indicate that dose intensification to every four (4) or six (6) weeks is a viable option in those patients who do not achieve clinical response at 8 weeks (Clin Gastroenterol Hepatol. 2022 Oct;20(10) 2399-2401). This has also been supported by Gainwell Medical Directors. When reviewing requests for dose intensification, if the prescriber has indicated a sub-clinical response at standard dosing, and wishes to intensify to more frequent dosing, then please consider approving. 
 
-7/21/23: ##There is literature to support every 4 weeks dosing in certain cases of Crohn’s / UC.##
+7/21/23: **There is literature to support every 4 weeks dosing in certain cases of Crohn’s / UC.**
 
 Anthony J. Beisler, MD, MBA, FACS, FABQAURP, CHCQM 
 
