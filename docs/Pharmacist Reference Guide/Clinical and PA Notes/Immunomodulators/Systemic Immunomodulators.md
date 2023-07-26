@@ -13,11 +13,24 @@ By Chris for 1/2023 UPDL: Immunodoluators by Dx.xlsx
 
 ![Alt text](si_2.png)
 
-STATE OF WEST VIRGINIA DEPARTMENT OF HEALTH AND HUMAN RESOURCES BUREAU FOR MEDICAL SERVICES
+## Stelara Dosing Guidance 7/26/23
+
+Stelara (ustekinumab) has been shown to be effective for treatment of ulcerative colitis (UC) and Crohn’s disease. Unfortunately, a large percentage of patients (>40% for UC; approximately 50% for Crohn’s) achieve suboptimal clinical response after induction and maintenance dosing of every eight (8) weeks. 
+
+Current literature does indicate that dose intensification to every four (4) or six (6) weeks is a viable option in those patients who do not achieve clinical response at 8 weeks (Clin Gastroenterol Hepatol. 2022 Oct;20(10) 2399-2401). This has also been supported by Gainwell Medical Directors. When reviewing requests for dose intensification, if the prescriber has indicated a sub-clinical response at standard dosing, and wishes to intensify to more frequent dosing, then please consider approving. 
+
+7/21/23: ##There is literature to support every 4 weeks dosing in certain cases of Crohn’s / UC.##
+
+Anthony J. Beisler, MD, MBA, FACS, FABQAURP, CHCQM 
+
+
+
+
+## STATE OF WEST VIRGINIA DEPARTMENT OF HEALTH AND HUMAN RESOURCES BUREAU FOR MEDICAL SERVICES
 
 ![Alt text](si_3.png)
 
-Possible First Line Agents by Diagnosis (Provided by Brian Johnson/Chris Nguyen)
+## Possible First Line Agents by Diagnosis (Provided by Brian Johnson/Chris Nguyen)
 
 ![Alt text](si_4.png)
 
