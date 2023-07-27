@@ -21,7 +21,7 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 | Preferred              | Generic Name | Quantity | Time (Days) |
 |:-----------------------|:-------------|:--------:|:-----------:|
-| Epogen <sup>PA</sup>   |              |          |             |
+| Epogen <sup>PA  ==(Process by NDC)==</sup>   |              |          |             |
 | Mircera <sup>PA</sup>  |              |          |             |
 | Retacrit <sup>PA</sup> |              |          |             |
 
