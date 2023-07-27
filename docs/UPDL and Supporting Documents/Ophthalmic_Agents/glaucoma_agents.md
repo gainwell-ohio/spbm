@@ -20,13 +20,13 @@ This is a subcategory of Ophthalmic Agents.
 | Preferred                       | Generic Name | Quantity | Time (Days) |
 |:--------------------------------|:-------------|:--------:|:-----------:|
 | Alphagan P 0.1%                 |              |          |             |
-| Alphagan P 0.15% <sup>BvG</sup> |              |          |             |
-| Azopt <sup>BvG ST</sup>         |              |          |             |
+| Alphagan P 0.15% <sup>BvG ##(Process by NDC)##</sup> |              |          |             |
+| Azopt <sup>BvG ST ##(Process by NDC)##</sup>         |              |          |             |
 | Betaxolol                       |              |          |             |
 | Betaxolol                       |              |          |             |
 | Brimonidine 0.2%                |              |          |             |
 | Carteolol                       |              |          |             |
-| Combigan <sup>BvG ST</sup>      |              |          |             |
+| Combigan <sup>BvG ST ##(Process by NDC)##</sup>      |              |          |             |
 | Dorzolamide                     |              |          |             |
 | Dorzolamide/Timolol             |              |          |             |
 | Latanaprost                     |              |          |             |
@@ -54,7 +54,7 @@ This is a subcategory of Ophthalmic Agents.
 | <span title = "Brand Preferred: Travatan Z">Travoprost</span> <sup>Brand Preferred</sup>                               |              |          |             |
 | Vyzulta                                                                                               |              |          |             |
 | Xelpros                                                                                               |              |          |             |
-| Zioptan <sup>BvG</sup>                                                                                |              |          |             |
+| Zioptan <sup>BvG ##(Process by NDC)##</sup>                                                                                |              |          |             |
 
 ## Authorizations
 
