@@ -18,7 +18,7 @@ This is a subcategory of Otic Agents.
 | Preferred                               | Generic Name | Quantity | Time (Days) |
 | :-------------------------------------- | :----------- | :------: | :---------: |
 | Cipro HC                                |              |          |             |
-| Ciprodex <sup>BvG</sup>                 |              |          |             |
+| Ciprodex <sup>BvG ==(Process by NDC)==</sup>                 |              |          |             |
 | Cortisporin-TC                          |              |          |             |
 | Neomycin/Polymyxin B/Hydrocortisone |              |          |             |
 | Ofloxacin                               |              |          |             |
