@@ -17,10 +17,10 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred                 | Generic Name | Quantity | Time (Days) |
 |:--------------------------|:-------------|:--------:|:-----------:|
-| Aubagio <sup>BvG</sup>    |              |          |             |
+| Aubagio <sup>BvG ==(Process by NDC)==</sup>    |              |          |             |
 | Avonex                    |              |          |             |
 | Betaseron                 |              |          |             |
-| Copaxone <sup>BvG</sup>   |              |          |             |
+| Copaxone <sup>BvG ==(Process by NDC)==</sup>   |              |          |             |
 | Dalfampridine             |              |          |             |
 | Dimethyl Fumarate         |              |          |             |
 | Fingolimod                |              |          |             |
