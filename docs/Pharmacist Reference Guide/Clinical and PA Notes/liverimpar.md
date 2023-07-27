@@ -18,8 +18,8 @@ Prothrombin Time* (sec prolonged): less than 4 sec = 1 point, 4 to 6 sec = 2 poi
 
 ***The severity of cirrhosis:*** 
 
-Child-Pugh A: 5 to 6 points ==(Mild)==
+Child-Pugh A: 5 to 6 points ==(Good hepatic function)==
 
-Child-Pugh B: 7 to 9 points ==(Moderate)==
+Child-Pugh B: 7 to 9 points ==(Moderately impaired hepatic function)==
 
-Child-Pugh C: 10 to 15 points ==(Severe)==
+Child-Pugh C: 10 to 15 points ==(Advanced hepatic dysfunction)==
