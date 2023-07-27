@@ -13,7 +13,7 @@ This is a subcategory of Ophthalmic Agents.
 
 | Preferred                        | Generic Name | Quantity | Time (Days) |
 |:---------------------------------|:-------------|:--------:|:-----------:|
-| Restasis Trays <sup>BvG ST</sup> |              |          |             |
+| Restasis Trays <sup>BvG ST ==(Process by NDC)==</sup> |              |          |             |
 
 ### Non-Preferred
 
