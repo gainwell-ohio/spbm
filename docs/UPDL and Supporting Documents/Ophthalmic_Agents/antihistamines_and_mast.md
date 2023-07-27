@@ -18,7 +18,7 @@ This is a subcategory of Ophthalmic Agents.
 | Preferred              | Generic Name | Quantity | Time (Days) |
 | :--------------------- | :----------- | :------: | :---------: |
 | Azelastine             |              |          |             |
-| Bepreve <sup>BvG</sup> |              |          |             |
+| Bepreve <sup>BvG ==(Process by NDC)==</sup> |              |          |             |
 | Cromolyn               |              |          |             |
 | Ketotifen              |              |          |             |
 | Olopatadine            |              |          |             |
