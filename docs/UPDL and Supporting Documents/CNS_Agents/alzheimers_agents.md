@@ -23,12 +23,11 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 |:-----------------------------------------|:-------------------------------------------------------|:--------:|:-----------:|
 | Donepezil 5mg, 10mg Tab <sup>AR QL</sup> | Donepezil Hydrochloride Tab (all strengths excl 23 MG) |   102    |     102     |
 | Donepezil ODT <sup>AR QL</sup>           | Donepezil Hydrochloride ODT (all strengths)            |   102    |     102     |
-| Exelon Patch <sup>AR BvG</sup>           |                                                        |          |             |
 | Galantamine IR Tab <sup>AR QL</sup>      | Galantamin Hydrobromide Tab (all strengths)            |   204    |     102     |
 | Galantamine ER Cap <sup>AR QL</sup>      | Galantamine Hydrobromide ER Cap (all strengths)        |   102    |     102     |
 | Memantine Tab <sup>AR</sup>              |                                                        |          |             |
 | Rivastigmine Cap <sup>AR QL</sup>        | Rivastigmine Tartrate Cap (all strengths)              |   204    |     102     |
-| Rivastigmine Patch <sup>AR BvG</sup>     |                                                        |          |             | 
+| Rivastigmine Patch <sup>AR</sup>     |                                                        |          |             | 
 
 ### Non-Preferred
 
