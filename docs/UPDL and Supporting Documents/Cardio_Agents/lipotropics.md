@@ -69,7 +69,7 @@ This is a subcategory of Cardiovascular Agents.
 | Nexlizet                                            |                                                     |                           |                           |
 | Niacin ER Tab <sup>QL</sup>                         | Niacin ER Tab (all strengths excl 200 MG)           |            204            |            102            |
 | Niacin ER Tab <sup>QL</sup>                         | Niacin ER Tab 500 MG                                |            408            |            102            |
-| Vascepa <sup>BvG</sup>                            |                                                     |                           |                           |
+| Vascepa <sup>BvG ##(Process by NDC)##</sup>                            |                                                     |                           |                           |
 | Zypitamag                                           |                                                     |                           |                           |
 
 ## Authorizations
