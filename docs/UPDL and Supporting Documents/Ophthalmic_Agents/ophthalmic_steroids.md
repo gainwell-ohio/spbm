@@ -17,7 +17,7 @@ This is a subcategory of Ophthalmic Agents.
 
 | Preferred                      | Generic Name | Quantity | Time (Days) |
 |:-------------------------------|:-------------|:--------:|:-----------:|
-| Alrex <sup>BvG</sup>           |              |          |             |
+| Alrex <sup>BvG ==(Process by NDC)==</sup>           |              |          |             |
 | Dexamethasone Sodium Phosphate |              |          |             |
 | Difluprednate                  |              |          |             |
 | Durezol                        |              |          |             |
@@ -25,7 +25,7 @@ This is a subcategory of Ophthalmic Agents.
 | Fluorometholone                |              |          |             |
 | Fml Forte                      |              |          |             |
 | Fml S.O.P.                     |              |          |             |
-| Lotemax <sup>BvG</sup>         |              |          |             |
+| Lotemax <sup>BvG ==(Process by NDC)==</sup>         |              |          |             |
 | Maxidex                        |              |          |             |
 | Pred Forte                     |              |          |             |
 | Pred Mild                      |              |          |             |
