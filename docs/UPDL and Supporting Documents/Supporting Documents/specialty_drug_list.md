@@ -478,7 +478,7 @@ search:
 | Pegasys Proclick   |
 | Pegintron          |
 | Prevymis           |
-| Synagis            |
+| Synagis ==(Process by HICL)==            |
 | Tixagevimab (EUA)  |
 
 ## Autonomic Drugs
