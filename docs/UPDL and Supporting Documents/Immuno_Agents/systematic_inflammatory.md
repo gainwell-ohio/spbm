@@ -52,7 +52,7 @@ This is a subcategory of Immunomodulator Agents.
 | Tremfya         |              |          |             |
 | Xeljanz Sol, XR |              |          |             |
 
-## Authorizations
+## Authorizations ==(PROCESS BY HICL except for Xeljanz (GSN))==
 
 **Length of Authorizations**: Initial: 90 days; Subsequent: 365 days
 
