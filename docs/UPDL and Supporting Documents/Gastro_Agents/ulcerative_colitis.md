@@ -22,7 +22,7 @@ This is a subcategory of Gastrointestinal Agents.
 | Mesalamine DR Cap, Tab         |                        |          |             |
 | Mesalamine Enema               |                        |          |             |
 | Mesalamine ER                  |                        |          |             |
-| Pentasa <sup>BvG<sup>          |                        |          |             |
+| Pentasa <sup>BvG ==(Process by NDC)==<sup>          |                        |          |             |
 | Sulfasalazine                  |                        |          |             |
 
 ### Non-Preferred
@@ -31,7 +31,7 @@ This is a subcategory of Gastrointestinal Agents.
 |:-------------------------------------------------------------------------------------------|:--------------------------|:-------------------------:|:-----------:|
 | Dipentum                                                                                   |                           |                           |             |
 | Mesalamine Supp |                           |                           |             |
-| Uceris Foam <sup>QL BvG<sup>                                                               | Budesonide Aer 2 MG / ACT | Determined pursuant to PA |             |
+| Uceris Foam <sup>QL BvG ==(Process by NDC)==<sup>                                                               | Budesonide Aer 2 MG / ACT | Determined pursuant to PA |             |
 | Zeposia                                                                                    |                           |                           |             |
 
 ## Authorizations
