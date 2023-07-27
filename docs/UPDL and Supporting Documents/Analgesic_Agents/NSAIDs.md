@@ -66,7 +66,7 @@ This is a subcategory of Analgesic Agents.
 | Naproxen ER                                  |              |          |             |
 | Naproxen EC                                  |              |          |             |
 | Naproxen / Esomeprazole                      |              |          |             |
-| Pennsaid <sup>BvG ##(Process by NDC)##</sup>                      |              |          |             |
+| Pennsaid <sup>BvG ==(Process by NDC)==</sup>                      |              |          |             |
 | Qmiiz ODT                                    |              |          |             |
 | Relafen DS                                   |              |          |             |
 | Zorvolex                                     |              |          |             |
