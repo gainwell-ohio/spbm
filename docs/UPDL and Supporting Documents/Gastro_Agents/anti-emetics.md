@@ -20,12 +20,12 @@ Gastrointestinal Agents: Anti-Emetics
 | Preferred                   | Generic Name | Quantity | Time (Days) |
 |:----------------------------|:-------------|:--------:|:-----------:|
 | Aprepitant 40mg, 125 MG     |              |          |             |
-| Diclegis <sup>BvG</sup>     |              |          |             |
+| Diclegis <sup>BvG ==(Process by NDC)==</sup>     |              |          |             |
 | Dimenhydrinate              |              |          |             |
 | Diphenhydramine             |              |          |             |
 | Emend 125mg Susp            |              |          |             |
-| Emend 80 MG <sup>BvG</sup>  |              |          |             |
-| Emend TriPac <sup>BvG</sup> |              |          |             |
+| Emend 80 MG <sup>BvG ==(Process by NDC)==</sup>  |              |          |             |
+| Emend TriPac <sup>BvG ==(Process by NDC)==</sup> |              |          |             |
 | Meclizine                   |              |          |             |
 | Metoclopramide              |              |          |             |
 | Ondansetron                 |              |          |             |
