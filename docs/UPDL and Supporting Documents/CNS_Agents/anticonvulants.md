@@ -22,7 +22,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred                          | Generic Name                                        |         Quantity          |        Time (Days)        |
 |:-----------------------------------|:----------------------------------------------------|:-------------------------:|:-------------------------:|
-| Banzel Tab <sup>BvG</sup>          |                                                     |                           |                           |
+| Banzel Tab <sup>BvG ==(Process by NDC)==</sup>          |                                                     |                           |                           |
 | Carbamazepine                      |                                                     |                           |                           |
 | Clobazam                           |                                                     |                           |                           |
 | Clonazepam                         |                                                     |                           |                           |
@@ -53,7 +53,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Pregabalin <sup>QL</sup>           | Pregabalin Cap 225 MG & 300 MG                      |            68             |            34             |
 | Primidone                          |                                                     |                           |                           |
 | Topiramate                         |                                                     |                           |                           |
-| Trileptal Susp <sup>BvG</sup>      |                                                     |                           |                           |
+| Trileptal Susp <sup>BvG ==(Process by NDC)==</sup>      |                                                     |                           |                           |
 | Valproic Acid                      |                                                     |                           |                           |
 | Zonisamide                         |                                                     |                           |                           |
 
@@ -74,13 +74,13 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | <span title = "Brand Preferred: Trileptal Susp">Oxcarbazepine Susp</span> <sup>Brand Preferred</sup> |              |          |             |
 | Oxtellar XR                                                                                          |              |          |             |
 | Peganone                                                                                             |              |          |             |
-| Qudexy XR <sup>BvG</sup>                                                                             |              |          |             |
+| Qudexy XR <sup>BvG ==(Process by NDC)==</sup>                                                                             |              |          |             |
 | <span title = "Brand Pre ferred: Banzel Tab">Rufinamide Tab, Soln</span> <sup>Brand Preferred Tab only</sup>  |              |          |             |
 | Spritam                                                                                              |              |          |             |
 | Sympazan                                                                                             |              |          |             |
 | Tiagabine                                                                                            |              |          |             |
 | Topiramate Sprinkle Cap                                                                              |              |          |             |
-| Trokendi XR <sup>BvG</sup>                                                                           |              |          |             |
+| Trokendi XR <sup>BvG ==(Process by NDC)==</sup>                                                                           |              |          |             |
 | Vigabatrin                                                                                           |              |          |             |
 | Vigabatrin Powder <sup>AR</sup>                                                                      |              |          |             |
 | Xcopri                                                                                               |              |          |             |
