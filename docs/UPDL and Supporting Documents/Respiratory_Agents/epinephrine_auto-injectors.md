@@ -19,7 +19,7 @@ Respiratory Agents: Epinephrine Auto-Injectors
 
 | Preferred                   | Generic Name | Quantity | Time (Days) |
 | :-------------------------- | :----------- | :------: | :---------: |
-| Epinephrine (labeler 49502) |              |          |             |
+| Epinephrine (labeler 49502)  ==(Process by NDC)== |              |          |             |
 | Symjepi                     |              |          |             |
 
 ### Non-Preferred

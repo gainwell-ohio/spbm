@@ -48,7 +48,7 @@ This is a subcategory of Ophthalmic Agents.
 | Neomycin / Polymyxin / Hydrocortisone                                                                         |              |          |             |
 | Pred-G                                                                                                        |              |          |             |
 | Sulfacetamide Sodium Ophth Oint 10%                                                                           |              |          |             |
-| Tobradex ST <sup>BvG</sup>                                                                                    |              |          |             |
+| Tobradex ST <sup>BvG ==(Process by NDC)==</sup>                                                                                    |              |          |             |
 | Zylet                                                                                                         |              |          |             |
 
 ## Authorizations

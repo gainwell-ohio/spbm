@@ -20,7 +20,7 @@ This is a subcategory of Endocrine Agents.
 | Baqsimi One Pack <sup>QL</sup>                   | Clucagon Nasal Powder (all strengths)                                 |    6     |     102     |
 | Baqsimi Two Pack <sup>QL</sup>                   | Clucagon Nasal Powder (all strengths)                                 |    3     |     102     |
 | Glucagen Hypokit <sup>QL</sup>                   | Glucagon HCI (rDNA) for Inj 1 MG (all strengths)                      |    2     |     34      |
-| Glucagon Emerg Kit [Labeler 00002] <sup>QL</sup> |                                                                       |          |             |
+| Glucagon Emerg Kit [Labeler 00002] <sup>QL ==(Process by NDC)==</sup> |                                                                       |          |             |
 | Gvoke <sup>QL</sup>                              | Glucagon Subcutaneous Soln Inj (all strengths & formulations)         |    2     |     34      |
 | Zegalogue <sup>QL</sup>                          | Dasiglucagon HCI Soln Subcutaneous Inj (all strengths & formulations) |    2     |     34      |
 
@@ -28,7 +28,7 @@ This is a subcategory of Endocrine Agents.
 
 | Non-Preferred                                            | Generic Name | Quantity | Time (Days) |
 | :------------------------------------------------------- | :----------- | :------: | :---------: |
-| Glucagon Emerg Kit [Labeler 00548 & 63323] <sup>QL</sup> |              |          |             |
+| Glucagon Emerg Kit [Labeler 00548 & 63323] <sup>QL ==(Process by NDC)==</sup> |              |          |             |
 
 ## Authorizations
 

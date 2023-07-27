@@ -28,7 +28,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 |:---------------------|:-------------|:--------:|:-----------:|
 | Sunosi               |              |          |             |
 | Wakix                |              |          |             |
-| Xyrem <sup>BvG</sup> |              |          |             |
+| Xyrem <sup>BvG ==(Process by NDC)==</sup> |              |          |             |
 | Xywav                |              |          |             |
 
 ## Authorizations

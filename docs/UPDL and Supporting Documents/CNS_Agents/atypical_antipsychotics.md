@@ -63,7 +63,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Risperidone <sup>QL</sup>       | Risperidone Soln (all strengths)                                     |            816            |            102            |
 | Risperidone <sup>QL</sup>       | Risperidone Tab (all strengths)                                      |            306            |            102            |
 | Risperidone <sup>QL</sup>       | Risperidone ODT (all strengths)                                      |            204            |            102            |
-| Saphris <sup>BvG ST</sup>       |                                                                      |                           |                           |
+| Saphris <sup>BvG ST ==(Process by NDC)==</sup>       |                                                                      |                           |                           |
 | Paliperidone Tab                |                                                                      |                           |                           |
 | Ziprasidone <sup>QL</sup>       | Ziprasidone HCI Cap (all strengths)                                  |            68             |            34             |
 

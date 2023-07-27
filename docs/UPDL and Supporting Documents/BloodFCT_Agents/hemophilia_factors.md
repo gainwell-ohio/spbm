@@ -58,7 +58,7 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 | Sevenfact     |              |          |             |
 | Vonvendi      |              |          |             |
 
-## Authorizations
+## Authorizations  ==(PROCESS BY HICL)==
 
 **Length of Authorizations**: 365 Days
 

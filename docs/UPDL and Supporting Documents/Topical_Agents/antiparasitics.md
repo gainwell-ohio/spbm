@@ -17,7 +17,7 @@ This is a subcategory of Topical Agents.
 
 | Preferred                       | Generic Name | Quantity | Time (Days) |
 |:--------------------------------|:-------------|:--------:|:-----------:|
-| Natroba <sup>BvG</sup>          |              |          |             |
+| Natroba <sup>BvG ==(Process by NDC)==</sup>          |              |          |             |
 | Permethrin                      |              |          |             |
 | Piperonyl Butoxide / Pyrethrins |              |          |             |
 

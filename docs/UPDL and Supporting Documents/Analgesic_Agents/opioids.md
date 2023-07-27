@@ -34,7 +34,7 @@ This is a subcategory of Analgesic Agents.
 | Butalbital/Acetaminophen/Caffeine/Codeine <sup>QL</sup> | Butalbital-APAP-Caffeine w/ Codeine Cap 50-325-40-30 MG    |            238            |            34             |
 | Butalbital/Aspirin/Caffeine/Codeine <sup>QL</sup>       | Butalbital-Aspirin-Caffeine w/ Codeine Cap 50-325-40-30 MG |            238            |            34             |
 | Butorphanol <sup>QL</sup>                               | Butorphanol Soln 10 MG/ML                                  |            2.5            |            30             |
-| Butrans <sup>BvG PA QL</sup>                            | Buprenorphine TD Patch Weekly (all strengths)              | Determined pursuant to PA | Determined pursuant to PA |
+| Butrans <sup>BvG PA QL ==(Process by NDC)==</sup>                            | Buprenorphine TD Patch Weekly (all strengths)              | Determined pursuant to PA | Determined pursuant to PA |
 | Codeine <sup>QL</sup>                                   | Codeine Sulfate Tab 15 MG                                  |            408            |            34             |
 | Codeine <sup>QL</sup>                                   | Codeine Sulfate Tab 30 MG                                  |            204            |            34             |
 | Codeine <sup>QL</sup>                                   | Codeine Sulfate Tab 60 MG                                  |            102            |            34             |

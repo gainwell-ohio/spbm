@@ -76,7 +76,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Trazodone 300 MG <sup>QL</sup>                     | Trazodone HCI Tab 300 MG                                      |            102            |            102            |
 | Trintellix                                         |                                                               |                           |                           |
 | Venlafaxine ER Tab                                 |                                                               |                           |                           |
-| Viibryd <sup>BvG</sup>                             |                                                               |                           |                           |
+| Viibryd <sup>BvG ==(Process by NDC)==</sup>                             |                                                               |                           |                           |
 
 ## Authorizations
 

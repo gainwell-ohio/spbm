@@ -9,7 +9,7 @@ search:
 
 ### Effective 1/1/2023
 
-### Blood Glucose Test Strips
+### Blood Glucose Test Strips  ==(PROCESS BY NDC)==
 
 | Manufacturer          | NDC/HRI       | Product Description |
 |-----------------------|---------------|---------------------|
@@ -25,7 +25,7 @@ search:
 | Trividia Health, Inc. | 56151-1461-01 | Relion TrueMetrix   |
 | Trividia Health, Inc. | 56151-1461-04 | Relion TrueMetrix   |
 
-### Blood Glucose Meters
+### Blood Glucose Meters  ==(PROCESS BY NDC)==
 
 | Manufacturer          | NDC/HRI       | Product Description    |
 |-----------------------|---------------|------------------------|
@@ -43,7 +43,7 @@ search:
 
 [**Non-formulary test strip Procedure](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Freestyle%20NEO/)
 
-### Continuous Glucose Monitoring
+### Continuous Glucose Monitoring  ==(PROCESS BY NDC)==
 
 **The following practice standards warrant CGM usage:**
 
@@ -63,7 +63,7 @@ search:
 | DexCom, Inc.                           | 08627-0053-03 | DexCom G6 Sensor              |
 | DexCom, Inc.                           | 08627-0091-11 | DexCom G6 Receiver            |
 
-### External Diabetes Devices
+### External Diabetes Devices  ==(PROCESS BY NDC)==
 
 | Manufacturer         | NDC/HRI       | Product Description      |
 |----------------------|---------------|--------------------------|

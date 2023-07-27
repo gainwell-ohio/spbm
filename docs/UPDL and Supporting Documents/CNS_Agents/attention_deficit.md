@@ -58,7 +58,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Amphetamine Tab                                                       |                                                              |                           |                           |
 | Azstarys <sup>AR</sup>                                                |                                                              |                           |                           |
 | Cotempla XR ODT <sup>AR</sup>                                         |                                                              |                           |                           |
-| Daytrana <sup>AR BvG</sup>                                            |                                                              |                           |                           |
+| Daytrana <sup>AR BvG ==(Process by NDC)==</sup>                                            |                                                              |                           |                           |
 | Evekeo ODT                                                            |                                                              |                           |                           |
 | Jornay PM <sup>AR</sup>                                               |                                                              |                           |                           |
 | Methamphetamine                                                       |                                                              |                           |                           |

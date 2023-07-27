@@ -37,12 +37,12 @@ This is a subcategory of Endocrine Agents.
 |:----------------------------------|:------------------------------------------------|:-------------------------:|:-------------------------:|
 | Angeliq                           |                                                 |                           |                           |
 | Climara <sup>QL</sup>             | Estradiol TD Patch Once Weekly (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
-| Divigel <sup>BvG</sup>            |                                                 |                           |                           |
+| Divigel <sup>BvG ==(Process by NDC)==</sup>            |                                                 |                           |                           |
 | Duavee                            |                                                 |                           |                           |
-| Elestrin <sup>BvG</sup>           |                                                 |                           |                           |
+| Elestrin <sup>BvG ==(Process by NDC)==</sup>           |                                                 |                           |                           |
 | Estradiol 10mcg Vag Tab           |                                                 |                           |                           |
 | Estradiol / Norethindrone Acetate |                                                 |                           |                           |
-| Estrogel <sup>BvG</sup>           |                                                 |                           |                           |
+| Estrogel <sup>BvG ==(Process by NDC)==</sup>           |                                                 |                           |                           |
 | Evamist                           |                                                 |                           |                           |
 | Femring                           |                                                 |                           |                           |
 | Menostar <sup>QL</sup>            |                                                 |                           |                           |

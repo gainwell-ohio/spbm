@@ -14,17 +14,17 @@ This is a subcategory of Gastrointestinal Agents.
 | Preferred                      | Generic Name | Quantity | Time (Days) |
 |:-------------------------------|:-------------|:--------:|:-----------:|
 | Lansoprazole Cap               |              |          |             |
-| Nexium Granules <sup>BvG</sup> |              |          |             |
+| Nexium Granules <sup>BvG  ==(Process by NDC)==</sup> |              |          |             |
 | Omeprazole Cap <sup>AR</sup>   |              |          |             |
 | Pantoprazole Tab <sup>AR</sup> |              |          |             |
-| Protonix Pak <sup>AR BvG</sup> |              |          |             |
+| Protonix Pak <sup>AR BvG  ==(Process by NDC)==</sup> |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred                                                                                            | Generic Name | Quantity | Time (Days) |
 |:---------------------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
 | Aciphex                                                                                                  |              |          |             |
-| Dexilant <sup>BvG</sup>                                                                                  |              |          |             |
+| Dexilant <sup>BvG  ==(Process by NDC)==</sup>                                                                                  |              |          |             |
 | Esomeprazole                                                                                             |              |          |             |
 | <span title = "Brand Preferred: Nexium Granules">Esomeprazole Granules</span> <sup>Brand Preferred</sup> |              |          |             |
 | Lansoprazole ODT                                                                                         |              |          |             |

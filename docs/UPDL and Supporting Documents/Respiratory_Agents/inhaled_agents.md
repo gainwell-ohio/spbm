@@ -24,8 +24,8 @@ This is a subcategory of Respiratory Agents.
 
 | Preferred                                                                              | Generic Name                                                  | Quantity | Time (Days) |
 |:---------------------------------------------------------------------------------------|:--------------------------------------------------------------|:--------:|:-----------:|
-| Advair Diskus <sup>BvG</sup>                                                           |                                                               |          |             |
-| Advair HFA <sup>BvG</sup>                                                              |                                                               |          |             |
+| Advair Diskus <sup>BvG ==(Process by NDC)==</sup>                                                           |                                                               |          |             |
+| Advair HFA <sup>BvG ==(Process by NDC)==</sup>                                                              |                                                               |          |             |
 | Albuterol HFA                                                                          |                                                               |          |             |           
 | Albuterol Nebulizer Sol 0.021% (0.63 MG / 3 mL), 0.042% (1.25 MG / 3 ML) <sup>AR</sup> |                                                               |          |             |
 | Albuterol Nebulizer Sol 0.083% (2.5 MG / 3 ML), 0.5% (5 MG / ML) Conc                  |                                                               |          |             |
@@ -38,7 +38,7 @@ This is a subcategory of Respiratory Agents.
 | Combivent Respimat                                                                     |                                                               |          |             |
 | Cromolyn Neb Sol                                                                       |                                                               |          |             |
 | Dulera                                                                                 |                                                               |          |             |
-| Flovent <sup>BvG QL</sup>                                                              |                                                               |          |             |
+| Flovent <sup>BvG QL ==(Process by NDC)==</sup>                                                              |                                                               |          |             |
 | Incruse Ellipta                                                                        |                                                               |          |             |
 | Ipratropium                                                                            | Ipratropium Bromide Inhalation Soln 0.02%                     |   1020   |     102     |
 | Ipratropium / Albuterol Nebulizer Sol <sup>QL</sup>                                    | Ipratropium / Albuterol Nebulizing Soln 0.5-2.5 (3) MG / 3 ML |   1836   |     102     |
@@ -50,7 +50,7 @@ This is a subcategory of Respiratory Agents.
 | Spiriva <sup>QL</sup>                                                                  | Tiotropium Bromide Monohydrate Inhalation Cap (all strengths) |   102    |     102     |
 | Stiolto                                                                                |                                                               |          |             |
 | Striverdi Respimat                                                                     |                                                               |          |             |
-| Symbicort <sup>BvG QL</sup>                                                            | Budesonide / Formoterol Fumarate Aerosol (all strengths)      |  69.36   |     102     |
+| Symbicort <sup>BvG QL ==(Process by NDC)==</sup>                                                            | Budesonide / Formoterol Fumarate Aerosol (all strengths)      |  69.36   |     102     |
 | Ventolin HFA                                                                           |                                                               |          |             |
 
 ### Non-Preferred
@@ -67,7 +67,7 @@ This is a subcategory of Respiratory Agents.
 | Arnuity                                                                                                       |                                               |                           |                           |
 | Asmanex HFA                                                                                                          |                                               |                           |                           |
 | Bevespi Aerosphere                                                                                                   |                                               |                           |                           |
-| Breo Ellipta <sup>BvG</sup>                                                                                          |                                               |                           |                           |
+| Breo Ellipta <sup>BvG ==(Process by NDC)==</sup>                                                                                          |                                               |                           |                           |
 | Breztri Aerosphere                                                                                                   |                                               |                           |                           |
 | <span title = "Brand Preferred: Symbicort">Budesonide/Formoterol</span> <sup>QL, Brand Preferred</sup>               | Budesonide-Formoterol Aerosol (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 | Duaklir Pressair                                                                                                     |                                               |                           |                           |

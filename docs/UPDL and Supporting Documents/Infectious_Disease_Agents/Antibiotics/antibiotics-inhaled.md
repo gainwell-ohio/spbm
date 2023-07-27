@@ -31,11 +31,13 @@ This is a subcategory of Infectious Disease Agents.
 | Kitabis Pak <sup> QL</sup>   |                                            |                           |                           |
 | Tobi Podhaler <sup> QL</sup> |                                            |                           |                           |
 
-## Authorizations
+## Authorizations ==(PROCESS BY NDC)==
 
 **Length of Authorizations**: Initial: 180 days; Subsequent 365 days
 
 **All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+
+
 
 ## Criteria
 

@@ -39,7 +39,7 @@ This is a subcategory of Infectious Disease Agents.
 | Efavirenz                                     |              |          |             |
 | Efavirenz / Emtricitabine / Tenofovir         |              |          |             |
 | Emtricitabine / Tenofovir Disoproxil Fumarate |              |          |             |
-| Emtriva <sup>BvG</sup>                        |              |          |             |
+| Emtriva <sup>BvG  ==(Process by NDC)==</sup>                        |              |          |             |
 | Evotaz                                        |              |          |             |
 | Genvoya                                       |              |          |             |
 | Isentress Chew Tab <sup>AR</sup>              |              |          |             |
@@ -52,8 +52,8 @@ This is a subcategory of Infectious Disease Agents.
 | Prezista                                      |              |          |             |
 | Ritonavir Tab                                 |              |          |             |
 | Rukobia ER <sup>PA</sup>                      |              |          |             |
-| Symfi <sup>BvG</sup>                          |              |          |             |
-| Symfi Lo <sup>BvG</sup>                       |              |          |             |
+| Symfi <sup>BvG ==(Process by NDC)==</sup>                          |              |          |             |
+| Symfi Lo <sup>BvG ==(Process by NDC)==</sup>                       |              |          |             |
 | Symtuza                                       |              |          |             |
 | Temixys                                       |              |          |             |
 | Tenofovir Disoproxil Fumarate 300 MG          |              |          |             |
@@ -78,14 +78,14 @@ This is a subcategory of Infectious Disease Agents.
 | <span title = "Brand Preferred: Emtriva">Emtricitabine</span> <sup>Brand Preferred</sup>                                                   |              |          |             |
 | Fosamprenavir                                                                                                                              |              |          |             |
 | Fuzeon                                                                                                                                     |              |          |             |
-| Intelence <sup>BvG</sup>                                                                                                                   |              |          |             |
+| Intelence <sup>BvG ==(Process by NDC)==</sup>                                                                                                                   |              |          |             |
 | Lamivudine Tab                                                                                                                             |              |          |             |
 | Lamivudine Sol <sup>AR</sup>                                                                                                               |              |          |             |
 | Lamivudine / Zidovudine                                                                                                                    |              |          |             |
 | Nevirapine IR, ER Tab                                                                                                                      |              |          |             |
 | Nevirapine Sol <sup>AR</sup>                                                                                                               |              |          |             |
 | Norvir Powder, Sol                                                                                                                         |              |          |             |
-| Selzentry <sup>BvG</sup>                                                                                                                   |              |          |             |
+| Selzentry <sup>BvG ==(Process by NDC)==</sup>                                                                                                                   |              |          |             |
 | Stavudine                                                                                                                                  |              |          |             |
 | Stribild                                                                                                                                   |              |          |             |
 | Tybost                                                                                                                                     |              |          |             |
