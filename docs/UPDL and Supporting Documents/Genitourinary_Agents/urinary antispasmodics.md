@@ -28,7 +28,7 @@ This is a subcategory of Genitourinary Agents.
 | Oxybutynin ER <sup>QL</sup> | Oxybutynin Chloride ER Tab 5 MG                      |   102    |     102     |
 | Oxytrol                     |                                                      |          |             |
 | Solifenacin <sup>QL</sup>   | Solifenacin Succinate Tab (all strengths)            |   102    |     102     |
-| Toviaz <sup>BvG</sup>       |                                                      |          |             |
+| Toviaz <sup>BvG ==(Process by NDC)==</sup>       |                                                      |          |             |
 
 ### Non-Preferred
 
