@@ -26,7 +26,7 @@ This is a subcategory of Cardiovascular Agents.
 | Sildenafil Susp <sup>AR PA</sup> |              |          |             |
 | Tadalafil <sup>PA</sup>          |              |          |             |
 | Tadliq <sup>AR PA</sup>          |              |          |             |
-| Tracleer Tab <sup>BvG PA</sup>   |              |          |             |
+| Tracleer Tab <sup>BvG PA ==(Process by NDC)==</sup>   |              |          |             |
 
 ### Non-Preferred
 
