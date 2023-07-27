@@ -30,12 +30,12 @@ This is a subcategory of Endocrine Agents.
 | Insulin Aspart <sup>QL</sup>              | Insulin Aspart Soln Subcutaneous Inj 100 Unit / ML (all formulations)   |   306    |     102     |
 | Insulin Aspart Protamine / Insulin Aspart |                                                                         |          |             |
 | Insulin Lispro <sup>QL</sup>              | Insulin Lispro Soln Subcutaneous Inj 100 Unit / ML (all formulations)   |   306    |     102     |
-| Lantus <sup>BvG QL</sup>                  | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) |   204    |     102     |
+| Lantus <sup>BvG QL ==(Process by NDC)==</sup>                  | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) |   204    |     102     |
 | Levemir                                   |                                                                         |          |             |
 | Novolog 70-30                             |                                                                         |          |             |
 | Novolog U-100 <sup>QL</sup>               |                                                                         |          |             |
 | Toujeo                                    |                                                                         |          |             |
-| Tresiba <sup>BvG ST</sup>                 |                                                                         |          |             |
+| Tresiba <sup>BvG ST ==(Process by NDC)==</sup>                 |                                                                         |          |             |
 
 ### Non-Preferred
 
@@ -54,7 +54,7 @@ This is a subcategory of Endocrine Agents.
 | Novolin 70-30                                                                               |                                                                         |                           |                           |
 | Novolin N U-100                                                                             |                                                                         |                           |                           |
 | Novolin R U-100                                                                             |                                                                         |                           |                           |
-| Semglee <sup>BvG QL</sup>                                                                   | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) | Determined pursuant to PA | Determined pursuant to PA |
+| Semglee <sup>BvG QL ==(Process by NDC)==</sup>                                                                   | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Authorizations
 
