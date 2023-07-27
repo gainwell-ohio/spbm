@@ -17,7 +17,7 @@ This is a subcategory of Topical Agents.
 | Betamethasone Dip / Calcipotriene Oint  |              |          |             |
 | Betamethasone Valerate                  |              |          |             |
 | Clobetasol Propionate                   |              |          |             |
-| Derma-Smoothe/FS <sup>BvG</sup>         |              |          |             |
+| Derma-Smoothe/FS <sup>BvG ==(Process by NDC)==</sup>         |              |          |             |
 | Desonide Cream, Oint                    |              |          |             |
 | Diflorasone Diacetate                   |              |          |             |
 | Fluocinolone Acetonide 0.01% Cream, Sol |              |          |             |
