@@ -41,7 +41,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Gabapentin Soln <sup>QL</sup>      | Gabapentin Oral Soln 250 MG / 5 ML                  |           2448            |            34             |
 | Lacosamide <sup>ST</sup>           |                                                     |                           |                           |
 | Lacosamide Soln <sup>ST</sup>      | Lacosamide Oral Solution (all strengths)            | Determined pursuant to PA | Determined pursuant to PA |
-| Lamictal ODT <sup>BvG</sup>        |                                                     |                           |                           |
 | Lamotrigine                        |                                                     |                           |                           |
 | Lamotrigine IR, ODT                |                                                     |                           |                           |
 | Levetiracetam IR Tab               |                                                     |                           |                           |
@@ -69,7 +68,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Felbamate                                                                                            |              |          |             |
 | Fintepla                                                                                             |              |          |             |
 | Lamotrigine ER                                                                                       |              |          |             |
-| <span title = "Brand Preferred: Lamictal ODT">Lamotrigine ODT</span> <sup>Brand Preferred</sup>      |              |          |             |
 | Levetiracetam ER Tab                                                                                 |              |          |             |
 | <span title = "Brand Preferred: Trileptal Susp">Oxcarbazepine Susp</span> <sup>Brand Preferred</sup> |              |          |             |
 | Oxtellar XR                                                                                          |              |          |             |
