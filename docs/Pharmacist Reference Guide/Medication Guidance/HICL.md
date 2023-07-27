@@ -5,8 +5,6 @@ search:
 
 # HICL, GSN, NDC situations 5/30/23
 
-![image](hicl.png)
-
 This was also sent out in the past for helpful directive
 
 ## DRUGS LOADED BY HICL 
