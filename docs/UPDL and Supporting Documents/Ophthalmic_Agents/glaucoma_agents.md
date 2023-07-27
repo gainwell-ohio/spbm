@@ -20,13 +20,13 @@ This is a subcategory of Ophthalmic Agents.
 | Preferred                       | Generic Name | Quantity | Time (Days) |
 |:--------------------------------|:-------------|:--------:|:-----------:|
 | Alphagan P 0.1%                 |              |          |             |
-| Alphagan P 0.15% <sup>BvG ##(Process by NDC)##</sup> |              |          |             |
-| Azopt <sup>BvG ST ##(Process by NDC)##</sup>         |              |          |             |
+| Alphagan P 0.15% <sup>BvG ==(Process by NDC)==</sup> |              |          |             |
+| Azopt <sup>BvG ST ==(Process by NDC)==</sup>         |              |          |             |
 | Betaxolol                       |              |          |             |
 | Betaxolol                       |              |          |             |
 | Brimonidine 0.2%                |              |          |             |
 | Carteolol                       |              |          |             |
-| Combigan <sup>BvG ST ##(Process by NDC)##</sup>      |              |          |             |
+| Combigan <sup>BvG ST ==(Process by NDC)==</sup>      |              |          |             |
 | Dorzolamide                     |              |          |             |
 | Dorzolamide/Timolol             |              |          |             |
 | Latanaprost                     |              |          |             |
@@ -36,7 +36,7 @@ This is a subcategory of Ophthalmic Agents.
 | Rocklatan                       |              |          |             |
 | Simbrinza                       |              |          |             |
 | Timolol 0.5% Gel, Soln          |              |          |             |
-| Travatan Z <sup>BvG ST</sup>    |              |          |             |
+| Travatan Z <sup>BvG ST ==(Process by NDC)==</sup>    |              |          |             |
 
 ### Non-Preferred
 
@@ -54,7 +54,7 @@ This is a subcategory of Ophthalmic Agents.
 | <span title = "Brand Preferred: Travatan Z">Travoprost</span> <sup>Brand Preferred</sup>                               |              |          |             |
 | Vyzulta                                                                                               |              |          |             |
 | Xelpros                                                                                               |              |          |             |
-| Zioptan <sup>BvG ##(Process by NDC)##</sup>                                                                                |              |          |             |
+| Zioptan <sup>BvG ==(Process by NDC)==</sup>                                                                                |              |          |             |
 
 ## Authorizations
 
