@@ -108,7 +108,7 @@ This is a subcategory of Analgesic Agents.
 
 ## Criteria
 
-### Buprenorphine Topical (Butrans)
+### Buprenorphine Topical (Butrans) <sup>BvG ==(Process by NDC)==</sup> 
 
 Buprenorphine Topical (Butrans) Criteria
 
