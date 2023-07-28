@@ -1,4 +1,4 @@
-# Prior Authorization Workspace (PAWS)
+# Verint and Prior Authorization Workspace (PAWS)
 
 [Verint Work Management Link](https://workmanagerprd.dxchcwfo.com/wm/app/#/dashboard){:target="_blank" rel="noopener"}
 
