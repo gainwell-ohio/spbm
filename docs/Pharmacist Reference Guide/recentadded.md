@@ -6,7 +6,7 @@
 
 7/27/23
 
-- [Process as HICL or NDC to the Evergreen UPDL](RE_ I forgot to add HICL_ GCN_ and NDC situations to the letter!.msg){ .md-button .md-button--primary target="_blank" rel="noopener"}
+- [Process by HICL or NDC to the Evergreen UPDL](RE_ I forgot to add HICL_ GCN_ and NDC situations to the letter!.msg){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 7/26/23
 
