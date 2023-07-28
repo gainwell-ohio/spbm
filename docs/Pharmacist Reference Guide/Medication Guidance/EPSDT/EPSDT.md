@@ -67,9 +67,9 @@ The following edits when tripped MUST ask ODM first, as in if we are considering
 
 ![image](epsdtEOpt2.PNG)
 
-==For our processes, we MUST send the email in template form to clinical and ODM approval **BEFORE** approving for EPSDT.== Please include OH_MCD_PBM_clinical@gainwelltechnologies.com, Cassandra, Brian, Justin, and more to be included in the group in the future. 
+==For our processes, we MUST send the email in template form to clinical and ODM approval **BEFORE** approving for EPSDT.== Please include ~~OH_MCD_PBM_clinical@gainwelltechnologies.com~~, Cassandra, Brian, Justin, and more to be included in the group in the future. 
 
-***Quick Email link:*** <a href="mailto:OH_MCD_PBM_clinical@gainwelltechnologies.com?cc=cassandra.roach@gainwelltechnologies.com;justin.collingwood@gainwelltechnologies.com;brian.moore@gainwelltechnologies.com;&subject=EPSDT%20EO&body=PA%20number:%0D%0A%0D%0AEdit%20number%20to%20override:%0D%0A%0D%0AApproval%20rationale:">OH_MCD_PBM_clinical; Cassandra; Justin; Brian</a>
+***Quick Email link:*** <a href="mailto:justin.collingwood@gainwelltechnologies.com?cc=cassandra.roach@gainwelltechnologies.com;brian.moore@gainwelltechnologies.com;&subject=EPSDT%20EO&body=PA%20number:%0D%0A%0D%0AEdit%20number%20to%20override:%0D%0A%0D%0AApproval%20rationale:">OH_MCD_PBM_clinical; Cassandra; Justin; Brian</a>
 
 ^^Template to clinical^^
 
