@@ -7,6 +7,7 @@
 7/27/23
 
 - [Process by HICL or NDC to the Evergreen UPDL](RE_ I forgot to add HICL_ GCN_ and NDC situations to the letter!.msg){ .md-button .md-button--primary target="_blank" rel="noopener"}
+- [Updated PAWS page with links and password reset and sign-in info](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/paws/)
 
 7/26/23
 
