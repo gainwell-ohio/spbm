@@ -7,9 +7,28 @@ search:
 
 [Desk Level Procedure Compounds without preferred language](Desk Level Procedure Compounds without preferred language.docx){target="_blank" rel="noopener"}
 
+## No PA required on specific Compounds 7/28/23
+
+Hello,
+
+ODM wants to provide notice that next week, CHC will be removing PAs from several injectable and powder ingredients commonly used in compounds. You will see this come over in next week’s file and this should decrease the amount of PAs you may be seeing for these common compounds. These include:
+
+|Compounds | with NO| PA RQD| | |  |
+|--------------|-----------|--------------|---|--|--|
+| cefepime |cefotaxime | cefotetan | ceftazidime | cefuroxime | clindamycin |
+| acetaminophen | amitriptyline|ciprofloxacin| enalapril| ketoprofen| cefazolin|
+|ceftriaxone| piptazo| ampicillin| ampicillin sulbactam| NS| D5|
+|diphenhydramine| promethazine| ondansetron| famotidine| amantadine| boric acid|
+|cellulose| cyclobenzaprine| doxepin| estradiol| estriol| lidocaine| 
+|meloxicam| methocel| metronidazole| pentoxifylline| progesterone| sodium bicarb| 
+|testosterone| ubiquinol| zinc gluconate| zinc sulfate| vancomycin | lansoprazole IV and powder| 
+
+
+## Compounds: 
+
 [20220701_Payable_Active_Pharmaceutical_Ingredients_and_Excipients_for_Compounding.pdf (ohio.gov)](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220701_Payable_Active_Pharmaceutical_Ingredients_and_Excipients_for_Compounding.pdf#overlay-context=drug-coverage){target="_blank" rel="noopener"}
 
-**Compounds:** 
+
 
 Must do a PA for each ingredient in the compound in order to approve it, check claim to see which ones rejected to do EO on those as well (???)
 
