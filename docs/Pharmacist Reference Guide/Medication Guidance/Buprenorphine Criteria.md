@@ -13,7 +13,7 @@ Buprenorphine mono products will be approved for:
 
 - Pregnancy
 - Breastfeeding
-- Contraindication to combo products (documented history of serious adverse reactions that can include moderate/severe hepatic impairment <sup>[Hepatic/Liver Impairment](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/liverimpar/?h=hepa)</sup>, allergies, anaphylaxis, bronchospasm, angioneurotic edema, anaphylactic shock, hives)
+- Contraindication to combo products (documented history of serious adverse reactions that can include moderate/severe hepatic impairment <sup>[Hepatic Impairment Clinical Information](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/liverimpar/?h=hepa)</sup>, allergies, anaphylaxis, bronchospasm, angioneurotic edema, anaphylactic shock, hives)
 	- Allergy to buprenorphine/naloxone combination product- defined as type I- IgE-mediated hypersensitivity reactions 
 	- Including things such as rash, hives, swelling of the face, wheezing, low blood pressure, and loss of consciousness
 	- Serious adverse reactions **do not include symptoms** such as:
