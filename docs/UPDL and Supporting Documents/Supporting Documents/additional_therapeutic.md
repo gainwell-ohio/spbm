@@ -312,11 +312,13 @@ Clinical Criteria:
 
 Drug Name:
 
-- Carnitor® (levocarnitine)
+- Carnitor® (levocarnitine)**
 
 Clinical Criteria:
 
-- Must have an inadequate clinical response to valproic acid in the past 180 days 
+- Must have an inadequate clinical response to valproic acid in the past 180 days
+
+**[Additional Carnitor/Levocarnitine Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/carnitor/?h=carn)
 
 ## Monocolonal Antibody for RSV
 
