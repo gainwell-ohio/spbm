@@ -61,13 +61,13 @@ When considering approval, these edit rejections do not require a preliminary em
 
 ![image](epsdtEOpt1.PNG)
 
-==So for our processes, if approving we approve, then we enter the EO, and then send the email to clinical to inform ODM==
+==So for our processes, if approving we approve, then we enter the EO, and then send the email to Casandra, Justin, Brian to inform ODM== [Weekly Email 7/29/23](weeklyemail72923.docx){:target="_blank" rel="noopener"}
 
 The following edits when tripped MUST ask ODM first, as in if we are considering approving we send the following template information to clinical to send to email ODM prior to approval.
 
 ![image](epsdtEOpt2.PNG)
 
-==For our processes, we MUST send the email in template form to clinical and ODM approval **BEFORE** approving for EPSDT.== Please include ~~OH_MCD_PBM_clinical@gainwelltechnologies.com~~, Cassandra, Brian, Justin, and more to be included in the group in the future. 
+==For our processes, we MUST send the email in template form to leaders and ODM approval BEFORE approving for EPSDT.== Please send to Cassandra, Brian, Justin, for correspondence to ODM. (no clinical involved) [Weekly Email 7/29/23](weeklyemail72923.docx){:target="_blank" rel="noopener"}
 
 ***Quick Email link:*** <a href="mailto:justin.collingwood@gainwelltechnologies.com?cc=cassandra.roach@gainwelltechnologies.com;brian.moore@gainwelltechnologies.com;&subject=EPSDT%20EO&body=PA%20number:%0D%0A%0D%0AEdit%20number%20to%20override:%0D%0A%0D%0AApproval%20rationale:">OH_MCD_PBM_clinical; Cassandra; Justin; Brian</a>
 
