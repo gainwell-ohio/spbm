@@ -3,7 +3,14 @@ search:
   boost: 1
 ---
 
-# Pharmacy 70 process 11/11/22
+# Pharmacy 70 process
+
+[Weekly Email 7/29/23]([weeklyemail72923.docx](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EX294TODOapHr_QzAWmTNDUB6dFP3jbMimTXSl_48KOt4A?e=ANycRR)){:target="_blank" rel="noopener"}
+
+•	Please make sure that when we are determining coverage on where a medication is administered, ^^the only thing we need to double check is if the pharmacy is a 70 pharmacy^^, **in the office/j-codes/infusion centers can be approved by us as long as medication is dispensed by a 70 pharmacy.**
+
+
+## Pharmacy 70 process 11/11/22
 
                    
 There have been some processing questions about when it is appropriate to be billed through the Ohio SPBM or the MCE for medical. As stated in the following rule that claims dispensed through pharmacy providers are billed to the SPBM. To accurately find out if a pharmacy is a pharmacy provider it can be found in Vue360RX by looking in the Provider tile and under the attributes section.
