@@ -7,3 +7,6 @@ Attached are some additional emails about this and Minimed.
 Jason Foote, PharmD, MSHI </br>
 Clinical Pharmacist </br>
 OH Medicaid PBM
+
+
+[Inpen Coverage email](FW Inpen Coverage.msg){ .md-button .md-button--primary target="_blank" rel="noopener"}
