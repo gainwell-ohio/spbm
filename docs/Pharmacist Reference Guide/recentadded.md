@@ -1,5 +1,12 @@
 # Recently Added/Updated
 
+7/31/23
+
+- [Weekly Email 7/29/23]([weeklyemail72923.docx](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EX294TODOapHr_QzAWmTNDUB6dFP3jbMimTXSl_48KOt4A?e=ANycRR)){:target="_blank" rel="noopener"}
+    - [Additional Carnitor/levocarnitine Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/carnitor/?h=carni)
+    - [Additional Pharmacy 70 guidance regarding In-office/j-codes/infusion centers](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/Pharmacy%2070%20process/?h=pharmacy)
+    - [EPSDT EO outreach guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/EPSDT/EPSDT/?h=epsdt) 
+
 7/28/23
 
 - [Added Compounds that no longer require a PA](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Compounds/?h=compound)
