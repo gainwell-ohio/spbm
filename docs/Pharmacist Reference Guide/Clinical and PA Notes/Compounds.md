@@ -17,7 +17,7 @@ ODM wants to provide notice that next week, CHC will be removing PAs from severa
 
 **Compounds no longer requiring PA:**
 | |  |  | | |  |
-|--------------|-----------|--------------|---|--|--|
+|--------------|-----------|--------------|---|---|---|
 | cefepime |cefotaxime | cefotetan | ceftazidime | cefuroxime | clindamycin |
 | acetaminophen | amitriptyline|ciprofloxacin| enalapril| ketoprofen| cefazolin|
 |ceftriaxone| piptazo| ampicillin| ampicillin sulbactam| NS| D5|
