@@ -16,6 +16,7 @@ Cassandra Roach, PharmD, RPh
 ODM wants to provide notice that next week, CHC will be removing PAs from several injectable and powder ingredients commonly used in compounds. You will see this come over in next week’s file and this should decrease the amount of PAs you may be seeing for these common compounds. These include:
 
 **Compounds no longer requiring PA:**
+
 | |  |  | | |  |
 |--------------|-----------|--------------|---|---|---|
 | cefepime |cefotaxime | cefotetan | ceftazidime | cefuroxime | clindamycin |
