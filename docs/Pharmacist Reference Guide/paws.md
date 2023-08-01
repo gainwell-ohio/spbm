@@ -4,8 +4,7 @@
 
 ## Training Videos
 
-[WM & PAWS Training Workshop Video 7/17/23](https://mygainwell-my.sharepoint.com/:v:/r/personal/vanessa_hoel_gainwelltechnologies_com/Documents/Recordings/WM%20%26%20PAWS%20Training%20Workshop-20230717_140437-Meeting%20Recording.mp4?csf=1&web=1&e=fTSrrq){:target="_blank" rel="noopener"} - **limited access; will provide new link or update if access is granted for more users**
-
+[WM & PAWS Training Workshop Video 7/17/23](https://mygainwell.sharepoint.com/:v:/r/teams/aWFMReferenceCenter/Shared%20Documents/General/OH-SPBM%20Training/WM%20Recorded%20Training%20Sessions/WM%20Training%20Workshop-RPh.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=2OQuY2){:target="_blank" rel="noopener"} 
 
 [Verint Work Manager- Powerpoint](https://mygainwell.sharepoint.com.mcas.ms/:p:/r/teams/aWFMReferenceCenter/_layouts/15/Doc.aspx?sourcedoc=%7B6804B0BF-6246-4C72-BEBB-4121F8EF9AC3%7D&file=OH-SPBM%20PA%20BOHB%20Agent%20Push%20the%20Button.pptx&action=edit&mobileredirect=true){:target="_blank" rel="noopener"}
 
