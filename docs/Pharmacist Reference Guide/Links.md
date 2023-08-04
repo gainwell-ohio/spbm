@@ -36,7 +36,7 @@ search:
 - CATS/Time Card Issues
 
     - [Timesheet - Blank](Timesheet - Blank.xlsx]{:target="_blank" rel="noopener"}
-    - Submit Time sheet corrections above to: <a href="Ohio_MMIS_Time_Admin@gainwelltechnologies.com;&subject=Time Card Correction">Ohio MMIS Time Admin </a>
+    - Submit Time sheet corrections above to: <a href="mailto:Ohio_MMIS_Time_Admin@gainwelltechnologies.com;&subject=Time Card Correction">Ohio MMIS Time Admin </a>
 
   
 
