@@ -42,6 +42,7 @@ ODM changed the vacation override policy yesterday afternoon. It is as follows:
 -**If the issue is not covered below, the Sr. Tech must reach out to the RPh via the RPh Consult Chat**
 
 **Example 1: Controlled Substance - Stolen**
+
 - Step 1: Is there a police report and is prescriber aware? 
   - YES (go to Step 2)
   - NO (go to Step 3)
@@ -55,6 +56,7 @@ ODM changed the vacation override policy yesterday afternoon. It is as follows:
  
 
 **Example 2: Controlled Substance – Dose Increase**
+
 - Step 1: Does the medication require a PA?
   - YES (go to Step 2)
   - NO (go to Step 3)
@@ -67,6 +69,7 @@ ODM changed the vacation override policy yesterday afternoon. It is as follows:
  
 
 **Example 3: Controlled substance - lost or damaged**
+
 - Step 1: Is the pharmacy calling for the early refill override and the pharmacist is okay with dispensing early
   - YES (go to Step 2)
   - NO (go to Step 3)
@@ -75,6 +78,7 @@ ODM changed the vacation override policy yesterday afternoon. It is as follows:
  
  
 **Example 4: Daily dose error on existing PA**
+
 - Step 1: Is the pharmacy calling due to an incorrect daily dose placed on a PA?
   - YES (go to Step 2)
   - NO (go to Step 3)
