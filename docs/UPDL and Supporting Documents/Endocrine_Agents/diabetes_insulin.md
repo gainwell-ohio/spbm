@@ -98,6 +98,8 @@ Additional Inhaled Insulin (Afrezza) Criteria
 - An inadequate clinical response is defined as the inability to reach A1C goal after at least 120 days of current regimen with documented adherence and appropriate dose escalation.
 - Requests may be authorized for patients with a condition that is difficult to control (i.e., prone to ketoacidosis, hypoglycemia)
 
+[**Additional Afrezza Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/afrezza/?h=afre)
+
 ### Subsequent Authorization
 
 Subsequent Authorization Criteria
