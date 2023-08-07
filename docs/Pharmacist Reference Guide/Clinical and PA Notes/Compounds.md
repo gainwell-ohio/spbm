@@ -7,6 +7,13 @@ search:
 
 [Desk Level Procedure Compounds without preferred language](Desk Level Procedure Compounds without preferred language.docx){target="_blank" rel="noopener"}
 
+## Additional Edits Overrides
+
+[Weekly Email 8/5/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/weeklyemail8523.docx?d=w34551b8b7f674147b603832cab7090ca&csf=1&web=1&e=aTi6MU){:target="_blank" rel="noopener"}
+
+
+•	The IV medications that are stating to have restrictions lifted will still have ***certain edits applied to them like cost.*** It is understood that many of the IV medications that had restrictions lifted shouldn’t hit many of these, but be aware that there may still be some edits that do happen.
+
 ## No PA required on specific Compounds 7/28/23
 
 If below ingredients are the primary ingredient in the compound, they should no longer be hitting for PA required (most likely will not be until next week or the following that they will no longer reject for PA needed). **Until these ingredients are loaded in the system, please ^^approve^^ the below ingredients on compound requests.**
