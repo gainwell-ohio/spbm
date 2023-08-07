@@ -1,5 +1,12 @@
 # Recently Added/Updated
 
+8/7/23
+
+- [Weekly Email 8/5/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/weeklyemail8523.docx?d=w34551b8b7f674147b603832cab7090ca&csf=1&web=1&e=aTi6MU){:target="_blank" rel="noopener"}
+- [Updated Medical food section for Phlexy vitamins](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/medicalfood/?h=medical+foo#eo_follow-up_deplin_71323)
+- [Added Tymlos Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/tymlos/?h=tymlo)
+- [Added Afrezza additional guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/afrezza/?h=af)
+
 8/4/23
 
 - [Updated Links to include CATS/Time Card Issues contacts and worksheet template](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Links/)
