@@ -7,6 +7,8 @@
 - [Added Tymlos Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/tymlos/?h=tymlo)
 - [Added Afrezza additional guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/afrezza/?h=af)
 
+- [Buprenorphine Mono Training video](https://mygainwell-my.sharepoint.com/:v:/r/personal/justin_collingwood_gainwelltechnologies_com/Documents/Recordings/Pharmacist%20Review%20Buprenorphine%20Mono%20Products-20230807_162241-Meeting%20Recording.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=0Nudsr){:target="_blank" rel="noopener"} 
+
 8/4/23
 
 - [Updated Links to include CATS/Time Card Issues contacts and worksheet template](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Links/)
