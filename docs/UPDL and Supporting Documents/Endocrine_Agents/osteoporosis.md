@@ -67,6 +67,8 @@ Additional Abaloparatide (Tymlos<sup>TM</sup>) Criteria
 - Must have had an inadequate clinical response of at least ^^365 days^^ with ^^one^^ bisphosphonate
 - A total lifetime duration of therapy of 730 days will be authorized between any parathyroid analog
 
+  [**Additional Tymos Criteria Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/tymlos/?h=tymlos)
+
 ### Additional Information
 
 - Patients should only be on ONE of the therapeutic classes (bisphosphonates, calcitonin-salmon)
