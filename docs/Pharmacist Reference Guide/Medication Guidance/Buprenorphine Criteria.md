@@ -7,6 +7,8 @@ search:
 
 [Buprenorphine Criteria Email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/_IMPORTANT%20UPDATE_%20FW_%20Buprenorphine%20(Subutex)%20Updates%20as%20of%203_23_23.msg?csf=1&web=1&e=xqhC9c){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
+[Pharmacist Review Buprenorphine Mono Products-8/7/23 Training Recording](https://mygainwell-my.sharepoint.com/:v:/r/personal/justin_collingwood_gainwelltechnologies_com/Documents/Recordings/Pharmacist%20Review%20Buprenorphine%20Mono%20Products-20230807_162241-Meeting%20Recording.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=0Nudsr){ .md-button .md-button--primary target="_blank" rel="noopener"}
+
 **Recommended ODM PA Criteria**
 
 Buprenorphine mono products will be approved for:
