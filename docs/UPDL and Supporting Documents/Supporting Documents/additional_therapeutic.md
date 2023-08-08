@@ -370,6 +370,8 @@ Clinical Criteria:
  - For MRSA infections, must have medically valid reason why vancomycin cannot be used
  - Authorizations will be for 28 days
 
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BE78364D9-082C-41C5-9902-8F8AC94900ED%7D&file=Denial%20Language%20Updated%2002062023.docx&mobileredirect=true&action=embedview&wdStartOn=81&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
+
 **Sivextro® (tedizolid)**
 
 - Must provide documentation of diagnosis and any culture and sensitivity reports showing the infection is caused by an organism resistant to preferred drugs
