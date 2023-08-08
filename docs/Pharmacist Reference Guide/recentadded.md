@@ -4,6 +4,7 @@
 
 - [Buprenorphine Mono templates added to Evergreen](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Buprenorphine%20Criteria/?h=bupre)
 - Denial language hyperlinks integrated into Evergreen UPDL
+- [Oncology guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/oncolgy/?h=onco)
 
 8/7/23
 
