@@ -58,7 +58,7 @@ search:
 | Drug and strength:| 
 | DX:|
 | Denial Rationale: include reason for denial; please include claims and what was reviewed; Policy/Rule|
-| Approved by Person, Title: Full Name and Title|
+| Denied by Person, Title: Full Name and Title|
 
 ### ***EO Approved:***
 | EO Approved:    |
