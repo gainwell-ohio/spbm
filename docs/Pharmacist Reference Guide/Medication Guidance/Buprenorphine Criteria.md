@@ -9,7 +9,7 @@ search:
 
 [Pharmacist Review Buprenorphine Mono Products-8/7/23 Training Recording](https://mygainwell-my.sharepoint.com/:v:/r/personal/justin_collingwood_gainwelltechnologies_com/Documents/Recordings/Pharmacist%20Review%20Buprenorphine%20Mono%20Products-20230807_162241-Meeting%20Recording.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=0Nudsr){:target="_blank" rel="noopener"}
 
-**Recommended ODM PA Criteria**
+## Recommended ODM PA Criteria
 
 Buprenorphine mono products will be approved for:
 
@@ -48,6 +48,47 @@ Code rule 4731-33-03 Office based treatment for opioid addiction.
 Members should not be allowed to take both injectable buprenorphine and oral buprenorphine concomitantly
 
 Each PA request (whether initiation or maintenance) must meet the buprenorphine approval criteria (pregnancy, breastfeeding, etc) and this needs to be confirmed on each PA authorization
+
+## Templates for Approval and Denials 8/8/23
+
+Hello,
+To further help with the buprenorphine mono cases for MAT, I am including new templates specific to approving and denying, making sure that we check the form and notes for any of these addressed and specifically make sure they are mentioned in denial language when sending back, the most likely culprits will be further explaining that contraindications and side effects are not true allergies and that hepatitis is not specific enough diagnosis.
+
+My thoughts are that you can copy and paste and focus on if approving that member is breastfeeding and you can keep that part in but more importantly in your denials if they are pushing that diarrhea is happening that you can put that in your denial notes and especially focus that  on your denial language sent to  them with including something with the denial language document a blurb about “Diarrhea is not considered an IgE mediated allergic reaction and not a basis for not using the preferred product”. 
+
+Justin
+
+
+| Denial Template |
+|-----|
+| Drug and strength: |
+| DX: |
+| Reasons double checked in notes or form to exclude approval for this medication and will be addressed specifically in denial language if they did provide information (hepatitis dx and not liver function) |
+| Pregnancy: | 
+| Breastfeeding: |
+| IgE mediated interaction: |
+| Conversion: |
+| Side effect not true allergy: |
+| Hepatic Impairment(as in evergreen general Child Pugh Score): | 
+| Denial Rationale: include reason for denial; please include claims and what was reviewed; Policy/Rule |
+| Denied by Person, Title: Full Name and Title |
+
+
+| Approval Template |
+|-----|
+| Drug and strength: |
+| DX: |
+| Approval Duration: |
+| Qty/Day Supply: |
+| Approval Rationale: include reason for approval; please include claims and what was reviewed; Policy/Rule |
+| Pregnancy: |
+| Breastfeeding: |
+| IgE mediated interaction: |
+| Conversion: |
+| Hepatic Impairment(as in evergreen general Child Pugh Score): |
+| Approved by Person, Title: Full Name and Title |
+
+
 
 ## Buprenorphine peer to peer and appeals requests
 
