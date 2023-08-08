@@ -1,5 +1,10 @@
 # Recently Added/Updated
 
+8/8/23
+
+- [Buprenorphine Mono templates added to Evergreen](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Buprenorphine%20Criteria/?h=bupre)
+- Denial language hyperlinks integrated into Evergreen UPDL
+
 8/7/23
 
 - [Weekly Email 8/5/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/weeklyemail8523.docx?d=w34551b8b7f674147b603832cab7090ca&csf=1&web=1&e=aTi6MU){:target="_blank" rel="noopener"}
