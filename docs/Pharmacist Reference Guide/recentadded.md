@@ -1,5 +1,9 @@
 # Recently Added/Updated
 
+8/10/23
+
+- [Duplicate PA Procedure](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/duplicatepa/?h=dupli)
+
 8/8/23
 
 - [Buprenorphine Mono templates added to Evergreen](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Buprenorphine%20Criteria/?h=bupre)
