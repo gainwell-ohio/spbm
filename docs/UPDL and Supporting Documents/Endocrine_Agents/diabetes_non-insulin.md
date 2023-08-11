@@ -7,6 +7,10 @@ search:
 
 This is a subcategory of Endocrine Agents.
 
+## Decision Pathways
+
+- [Semaglutide (Ozempic, Rybelsus, Wegovy)](<../../Pharmacist Reference Guide/Decision Pathways/Semaglutide.md>)
+
 ## Decision Trees
 
 - [Endocrine - Diabetes - Non-Insulin- Non-Preferred Agents- Adlyxin, Alogliptin, Bydureon Bcise, Glucophage, Metformin ER (Generic of Fortamet, Glumetza), Metformin Sol, Mounjaro, Onglyza, Ozempic, Rybelsus, Steglatro, Symlinpen](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMVIwMlBWT1M5STNTNkdPTFBUVE5OQUdESyQlQCN0PWcu){ :target="_blank" rel="noopener"}
