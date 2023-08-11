@@ -7,6 +7,10 @@ search:
 
 This is a subcategory of Immunomodulator Agents.
 
+## Decision Pathway
+
+- [Humira (adalimumab)](<../../Pharmacist Reference Guide/Decision Pathways/Humira.md>)
+
 ## Decision Trees
 
 - [Immunomodulator - Systemic Inflammatory Disease- Non-Preferred - Actemra, Cibinqo, Cimzia, Cosentyx, Ilumya, Kevzara, Olumiant, Orencia, Rinvoq, Siliq, Simponi, Skyrizi, Stelara, Tremfya, Xeljanz Sol, Xeljanz XR](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOElXNVFQTk5BQ0RBWUowTjFPQklMVjFVNyQlQCN0PWcu){ :target="_blank" rel="noopener"}
