@@ -2,7 +2,7 @@
 
 [Link to Decision Pathway](https://mygainwell-my.sharepoint.com/:w:/g/personal/cassandra_roach_gainwelltechnologies_com/EQ2p3kgBz1dKtw1LKBLnusoBAP6zPrrmVBBo2BCvyypI-w?e=DWQRkL)
 
-[Recording for Decision Pathway](https://mygainwell-my.sharepoint.com/:v:/g/personal/cassandra_roach_gainwelltechnologies_com/EfEPqeszYrRMiSGf154f9DcB1HpcpmpdKwmN3Qci9z8e2g?e=L0OmMX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+[Recording for Decision Pathway](https://mygainwell-my.sharepoint.com/:v:/r/personal/cassandra_roach_gainwelltechnologies_com/Documents/Recordings/Humira%20(adalimumab)%20Decision%20Pathway-20230803_120641-Meeting%20Recording.mp4?csf=1&web=1&e=MUIiST&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19){ :target="_blank"rel="noopener" }
 
 ## Decision Pathway
 
