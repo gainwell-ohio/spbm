@@ -20,7 +20,6 @@ search:
 | LifeScan, Inc.        | 53885-0272-10 | OneTouch Verio      |
 | LifeScan, Inc.        | 53885-0994-25 | OneTouch Ultra Blue |
 | Trividia Health, Inc. | 56151-1460-01 | TrueMetrix          |
-| Trividia Health, Inc. | 56151-1460-03 | TrueMetrix          |
 | Trividia Health, Inc. | 56151-1460-04 | TrueMetrix          |
 | Trividia Health, Inc. | 56151-1461-01 | Relion TrueMetrix   |
 | Trividia Health, Inc. | 56151-1461-04 | Relion TrueMetrix   |
@@ -31,10 +30,6 @@ search:
 |-----------------------|---------------|------------------------|
 | LifeScan, Inc.        | 53885-0044-01 | OneTouch Verio Flex    |
 | LifeScan, Inc.        | 53885-0046-01 | OneTouch Ultra 2       |
-| LifeScan, Inc.        | 53885-0194-01 | OneTouch Verio Flex    |
-| LifeScan, Inc.        | 53885-0208-01 | OneTouch Ultra Mini    |
-| LifeScan, Inc.        | 53885-0267-01 | OneTouch Verio IQ      |
-| LifeScan, Inc.        | 53885-0448-01 | OneTouch Ultra 2       |
 | LifeScan, Inc.        | 53885-0657-01 | OneTouch Verio         |
 | LifeScan, Inc.        | 53885-0927-01 | OneTouch Verio Reflect |
 | Trividia Health, Inc. | 56151-1470-02 | TrueMetrix             |
@@ -49,10 +44,10 @@ search:
 
 **The following practice standards warrant CGM usage:**
 
--   Must have had appointment with provider within past 6 months AND
-    -   Diagnosis of type 1 diabetes OR
-    -   Diagnosis of type 2 diabetes and require insulin dose adjustment within the last 12 months, or have significant inability to adequately monitor blood glucose via fingerstick, or not require prandial insulin with A1c \> 7% OR
-    -   History of significant or recurring hypoglycemia
+- Must have had appointment with provider within past 6 months AND
+    - Diagnosis of type 1 diabetes OR
+    - Diagnosis of type 2 diabetes and require insulin dose adjustment within the last 12 months, or have significant inability to adequately monitor blood glucose via fingerstick, or not require prandial insulin with A1c \> 7% OR
+    - History of significant or recurring hypoglycemia
 
 | Manufacturer                           | NDC/HRI       | Product Description           |
 |----------------------------------------|---------------|-------------------------------|
@@ -64,6 +59,8 @@ search:
 | DexCom, Inc.                           | 08627-0016-01 | DexCom G6 Transmitter         |
 | DexCom, Inc.                           | 08627-0053-03 | DexCom G6 Sensor              |
 | DexCom, Inc.                           | 08627-0091-11 | DexCom G6 Receiver            |
+| DexCom, Inc.                           | 08627-0077-01 | DexCom G7 Sensor              |
+| DexCom, Inc.                           | 08627-0078-01 | DexCom G7 Receiver            |
 
 ### External Diabetes Devices  ==(PROCESS BY NDC)==
 
