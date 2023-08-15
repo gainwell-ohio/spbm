@@ -1,4 +1,4 @@
-# Hydrocortison Acetate suppositories 
+# Hydrocortisone Acetate suppositories 
 
 [Weekly Email 8/11/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EQPQa6jFBx5EnNJNyKe3x0wBikrVWqIBfsbYA9t9KuiVBA?e=uTOysZ){:target="_blank" rel="noopener"}
 
