@@ -1,5 +1,16 @@
 # Recently Added/Updated
 
+8/15/23
+- [Weekly Email 8/11/23](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Weekly%20Newsletter/)
+- [Hydrocortisone Acetate suppositories](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/hydrocortsupp/?h=hydrocort)
+
+    - Link Created in Evergreen UPDL to Hydrocort Acetate Supp Guidance
+- [GSN processing of Dermatologic Agents: Oral Acne Products](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/HICL%20GCNSeqNo%20NDC/?h=hicl)
+
+  - Linked added and process by GSN added to Evergreen UPDL
+
+
+
 8/10/23
 
 - [Duplicate PA Procedure](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/duplicatepa/?h=dupli)
