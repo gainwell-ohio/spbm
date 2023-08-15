@@ -57,7 +57,15 @@ Thanks,
 
 Justin Collingwood
 
-## Meds processed by HICL (Archived)
+## Dermatologic Agents: Oral Acne Products 7/15/23
+
+[Weekly email 7/15/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/Edoz5EXv0y5CgMYp9JWPP5oBjkmbGn0Im0LHE_uJQj1UVA?e=ccNWA0){:target="_blank" rel="noopener"}
+
+All the medications in the category Dermatologic Agents: Oral Acne Products are to be ***approved at GcnseqNO,*** there are DAW edits in place to stop the use of Absorica and Absorica LD
+
+
+
+### Meds processed by HICL (Archived)
 
 Current Medications to approve by HICL
 
