@@ -33,7 +33,7 @@ This is a subcategory of Dermatological Agents.
 | Absorica      |              |          |             |
 | Absorica LD   |              |          |             |
 
-## Authorizations
+## Authorizations ([Process by GSN](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/HICL%20GCNSeqNo%20NDC/?h=hicl))
 
 **Length of Authorizations**: 150 days
 
