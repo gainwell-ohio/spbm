@@ -45,7 +45,6 @@ This is a subcategory of Gastrointestinal Agents.
 | Gattex                                                                                  |              |          |             |
 | Ibsrela                                                                                 |              |          |             |
 | Linzess 72 MCG                                                                          |              |          |             |
-| <span title = "Brand Preferred: Amitiza">Lubiprostone</span> <sup>Brand Preferred</sup> |              |          |             |
 | Motegrity                                                                               |              |          |             |
 | Mytesi                                                                                  |              |          |             |
 | Relistor                                                                                |              |          |             |
