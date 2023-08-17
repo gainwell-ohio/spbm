@@ -2,6 +2,7 @@
 
 8/17/23
 - [Peer to Peer Procedure Updates](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/P2P/?h=peer)
+- Added new links to Pharmacist Links for [OTC list and Drug shortages](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Links/)
   
 8/15/23
 - [Weekly Email 8/11/23](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Weekly%20Newsletter/)
