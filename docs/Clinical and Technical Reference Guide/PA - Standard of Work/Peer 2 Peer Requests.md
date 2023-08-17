@@ -5,18 +5,19 @@ From tech chat 8/16/23
 [Yesterday 11:10 AM] Collingwood, Justin
 
 **Important!** Everyone ***Effective IMMEDIATELY*** – all P2P requests are to include 3 additional pieces of information: 
+
 1. The reason the PA was denied per look up on Vue360RX.
 2. The answers the prescriber has given to the reason it was denied.
-3. The denying pharmacist. You are to approve those you can approve, and you do not automatically send to pharmacists. You will do your responsibilities in the P2P process.
+3. The denying pharmacist. You are to approve those you can approve, and ^^you do not automatically send to pharmacists. You will do your responsibilities in the P2P process.^^
 
 **Important!** Everyone ***Pharmacists*** – If these pieces of information are not in the P2P request, ignore until it is completed. Also ignore any urgent or vacation override requests. We in this chat know they do not belong here.
 
 8/16/23- Email "Taking Responsibility"
 
-Hello!
-We need to better tech processes. I have given warnings and brought training opportunities to light, and they are still not getting better with time.
+Hello! We need to better tech processes. I have given warnings and brought training opportunities to light, and they are still not getting better with time.
 This will no longer happen. I am collecting daily problems I will send out to the technician supervisors.
 Situations I am seeing still.
+
 1.	P2P – Per the DLP technicians must fully understand why the PA was denied and specifically focus on that information per our DLP.
    
 ![image](taking responsibility.png)
