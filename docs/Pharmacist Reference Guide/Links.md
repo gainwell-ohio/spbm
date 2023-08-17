@@ -22,6 +22,10 @@ search:
 
 <a href="mailto:ohio_mits_servicedesk@gainwelltechnologies.com?cc=cassandra.roach@gainwelltechnologies.com;justin.collingwood@gainwelltechnologies.com;brian.moore@gainwelltechnologies.com;amanda.jennings@gainwelltechnologies.com;david.hartzell@gainwelltechnologies.com;anil.marini@gainwelltechnologies.com;chad.m.rogers@gainwelltechnologies.com;melissa.rutledge@gainwelltechnologies.com;OHSupervisorsandSr.Techs@mygainwell.onmicrosoft.com;OHSPBMPAPharmacist@mygainwell.onmicrosoft.com&body=Application/System Affected:%0D%0A%0D%0AApproximate time the issue started/noticed:%0D%0A%0D%0ANumber of Users Affected:%0D%0A%0D%0AWhat steps were taken when the error occurred:%0D%0A%0D%0AProvide screenshots below: ">Submit a MITS ticket</a>
 
+[OTC List/UPDL/Change Notices/QLs etc](https://spbm.medicaid.ohio.gov/SPContent/DocumentLibrary/UPDL){:target="_blank" rel="noopener"}
+
+[Drug Shortage List](https://www.ashp.org/drug-shortages/current-shortages/drug-shortages-list?page=CurrentShortages&loginreturnUrl=SSOCheckOnly){:target="_blank" rel="noopener"}
+
 ## Schedule
 
 [Schedule- Flex, PTO, Switches](https://mygainwell-my.sharepoint.com.mcas.ms/:x:/g/personal/jeanine_heedles_gainwelltechnologies_com/ESETEoJ3IXJEruWcatNK-UMBRqV7it4INq0VlYqE4ObSxQ?ovuser=c663f89c-ef9b-418f-bd3d-41e46c0ce068%2Cjeanine.heedles%40gainwelltechnologies.com&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA0MDIwMjcwNSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D){:target="_blank" rel="noopener"}
