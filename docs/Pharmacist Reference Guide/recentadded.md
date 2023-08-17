@@ -3,7 +3,8 @@
 8/17/23
 - [Peer to Peer Procedure Updates](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/P2P/?h=peer)
 - Added new links to Pharmacist Links for [OTC list and Drug shortages](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Links/)
-- Updated [Immunomodulator Chart](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Immunomodulators/Systemic%20Immunomodulators/?h=immuno) to include Off-label diagnosis 
+- Updated [Immunomodulator Chart](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Immunomodulators/Systemic%20Immunomodulators/?h=immuno) to include Off-label diagnosis
+- [Omnipod Quantity Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/omnipod/?h=omnip)
   
 8/15/23
 - [Weekly Email 8/11/23](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Weekly%20Newsletter/)
