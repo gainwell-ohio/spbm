@@ -11,7 +11,7 @@ By Chris for 1/2023 UPDL: Immunodoluators by Dx.xlsx
 
 ***No Preferred agents with the indication for the treatment of Giant Cell Arteritis (Actemra) or Alopecia (Olumiant)***
 
-![Alt text](si_2.png)
+![Alt text](immuno chart.PNG)
 
 ## Stelara Dosing 7/26/23
 
