@@ -12,6 +12,7 @@ We do not believe that we should approve all Omnipod PAs as 15 for 30 days.  Bas
 
 - Each pod can hold up to 200 units of ==U-100 insulin== 
 - Each pod is good up to 72 hours
+- **Exception** - ==Apidra is only good for 48hrs = 15 pods per month==
 
 ***Example:***
 1. If a member is using 66 units of less of U-100 insulin then 10 pods should last 30days
