@@ -38,7 +38,7 @@ search:
 **If overturning the denial, please enter a new PA in Vue360Rx with all information documented referencing the appeal case number and in process manager provide the PA number
 
 ## Appeals in PA Queue
-[Appeal requests in MedReview](FW%20When%20Pharmacists%20get%20legitimate%20appeals%20in%20PA%20queues.htm){:target="_blank" rel="noopener"}
+[Appeal requests in MedReview]([FW%20When%20Pharmacists%20get%20legitimate%20appeals%20in%20PA%20queues.htm](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/Appeals%20in%20MR/?h=appeals))
 
 It has also been decided with the appeals team and Brandon that at the end of the process the PA we have in MEDREVIEW or PENDING should be canceled for the reason that Appeals processing time may go past our TAT and we can be fined daily for each day a PA remains active in our system past that TAT.
  
