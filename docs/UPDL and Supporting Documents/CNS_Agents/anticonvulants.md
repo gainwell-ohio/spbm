@@ -132,7 +132,7 @@ Non-Preferred Criteria
 - Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^two preferred^^ drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
-- Prescriptions submitted from a prescriber who is registered as a ***neurology specialty*** with Ohio Medicaid AND for drugs that are used only for seizures, there must have been an inadequate clinical response of at least ^^30 days^^ with ^^one preferred^^ drug. This provision applies only to the standard tablet/capsule dosage form and does not apply to brand products with available generic alternatives.
+- Prescriptions submitted from a prescriber who is registered as a ***neurology specialty*** with Ohio Medicaid AND for drugs that are used only for seizures, there must have been an ***inadequate clinical response of ^^at least 30 days with one preferred^^ drug***. This provision applies only to the standard tablet/capsule dosage form and does not apply to brand products with available generic alternatives.
 
 [**Onfi (Clobazam) DAW Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/onfi/?h=onfi)
 
