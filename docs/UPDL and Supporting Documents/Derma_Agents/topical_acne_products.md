@@ -106,7 +106,7 @@ Subsequent Authorization Criteria
 
 **AR**- All topical retinoids: a PA is required for patients 24 years and older
 
-[**Rosacea Clinical Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/rosacea/?h=rosa)
+[**Rosacea Clinical Notes](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/rosacea/?h=rosa)
 
 ## Links
 
