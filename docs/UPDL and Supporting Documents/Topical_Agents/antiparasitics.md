@@ -54,7 +54,7 @@ Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-[**Ivermectin for Rosacea Clinical Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/rosacea/?h=rosa)
+[**Ivermectin for Rosacea Clinical Notes](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/rosacea/?h=rosa)
 
 ## Links
 
