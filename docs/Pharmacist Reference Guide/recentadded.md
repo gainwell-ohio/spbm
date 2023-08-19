@@ -3,6 +3,7 @@
 8/19/23
 
 - [Rosacea Clinical Notes](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/rosacea/?h=rosa)
+- [PAWS tips](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/paws/)
 
 8/17/23
 
