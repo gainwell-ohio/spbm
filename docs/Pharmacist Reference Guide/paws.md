@@ -20,6 +20,10 @@
 
 ![image](paws1.PNG)
 
+- Lexicomp searches: it is faster to click on the Lexicomp icon next to the drug name-> this will automatically search the drug name in Lexicomp on the Lexicomp tab vs clicking on the tab and doing a manual search. (combo drugs may not work by clicking the icon by the name but using the NDC icon should- this is being looked at by the developers)
+
+![image](lexiicon.PNG)
+
 ## PAWS Suggestion
 
 [PAWS Suggested Enhancements](https://mygainwell-my.sharepoint.com/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/Ecz0sPFbmZxKgg6T0_ZWSgkBO1l3XE1idLMnWu4rHK9YOw?e=CDoEen){:target="_blank" rel="noopener"}
