@@ -5,6 +5,7 @@
 - [Weekly Email 8/19/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EUlb6EUfKF5IiERwicJzc_MBynG7FCKq9KcwK59smLWgVA?e=x7Ez2D){:target="_blank" rel="noopener"}
 - [Amitiza/Lubiprostone Processing Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/amitiza/?h=amit)
 - Omnipod Qty Guidance was added on 8/17
+- [Opioid training and documents](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/opioid/nonpreferredopioids/?h=opioi)
 
 8/19/23
 
