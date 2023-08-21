@@ -6,6 +6,8 @@
 - [Amitiza/Lubiprostone Processing Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/amitiza/?h=amit)
 - Omnipod Qty Guidance was added on 8/17
 - [Opioid training and documents](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/opioid/nonpreferredopioids/?h=opioi)
+- [TPN training and documents](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/TPN%20Guidance/TPN%20Guidance/?h=tpn)
+- [PAWS suggestion and tips updated](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/paws/?h=paws#paws_suggestion)
 
 8/19/23
 
