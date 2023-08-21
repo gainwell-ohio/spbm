@@ -38,7 +38,7 @@ search:
 
 [**Non-formulary test strip Procedure](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Freestyle%20NEO/)
 
-[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BE78364D9-082C-41C5-9902-8F8AC94900ED%7D&file=Denial%20Language%20Updated%2002062023.docx&mobileredirect=true&action=embedview&wdStartOn=100&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BE78364D9-082C-41C5-9902-8F8AC94900ED%7D&file=Denial%20Language%20Updated%2002062023.docx&mobileredirect=true&action=embedview&wdStartOn=98&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
 
 ### Continuous Glucose Monitoring  ==(PROCESS BY NDC)==
 
