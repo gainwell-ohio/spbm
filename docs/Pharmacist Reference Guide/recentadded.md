@@ -8,6 +8,7 @@
 - [Opioid training and documents](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/opioid/nonpreferredopioids/?h=opioi)
 - [TPN training and documents](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/TPN%20Guidance/TPN%20Guidance/?h=tpn)
 - [PAWS suggestion and tips updated](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/paws/?h=paws#paws_suggestion)
+- [Age Restriction](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/age_restriction/)
 
 8/19/23
 
