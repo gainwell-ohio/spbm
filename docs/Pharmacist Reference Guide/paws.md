@@ -20,6 +20,10 @@
 
 ![image](paws1.PNG)
 
+## PAWS Suggestion
+
+[PAWS Suggested Enhancements](https://mygainwell-my.sharepoint.com/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/Ecz0sPFbmZxKgg6T0_ZWSgkBO1l3XE1idLMnWu4rHK9YOw?e=CDoEen){:target="_blank" rel="noopener"}
+
 
 ### Password Reset
 
