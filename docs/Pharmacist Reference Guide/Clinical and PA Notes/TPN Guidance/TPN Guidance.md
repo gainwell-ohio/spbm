@@ -5,6 +5,13 @@ search:
 
 # TPN Guidance
 
+8/21/23 Training Class
+
+- [IV_TPN Class-20230821_163235-Meeting Recording](https://mygainwell-my.sharepoint.com/:v:/g/personal/justin_collingwood_gainwelltechnologies_com/EXwJjhuUrrpMh-cEn-wZIbcBQV7KGWJFi4w8CSEE52Bpzw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=4%3aCGhxKZ&at=9){:target="_blank" rel="noopener"}
+- [IVTPN class.docx](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EUMLkMtLlB1Hm37hOWIHc4kBttjulGK1cSwBjHmjnGEtHQ?e=bPdltN){:target="_blank" rel="noopener"}
+
+## 3/16/23
+
 Hello,
 
 I will give further guidance in how to assess and approve TPNs, I have done them for years in FFS, and liken them to any non-preferred IV medication.
