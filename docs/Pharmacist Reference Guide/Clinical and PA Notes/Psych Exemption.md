@@ -5,7 +5,7 @@ search:
 
 # Psych Exemption 
 
-## Working in a mental facility does not give Psych Exemption 8/22/23
+## Working in a mental facility does not give automatic Psych Exemption 8/22/23
 
 Hello!
 
