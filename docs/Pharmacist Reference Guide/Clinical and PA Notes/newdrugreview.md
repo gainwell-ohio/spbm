@@ -2,7 +2,7 @@
 
 **DISCLAIMER ALERT**: ^^The Ohio UPDL trumps all recommended criteria presented on this page^^. These are suggested recommended PA criteria for newly released medications that may or may not been evaluated and placed on the UPDL with any yet.
 
-## Roctavian (valoctocogene roxaparvovec-rvox) - First Gene Therapy for Hemophilia A 7/25/23
+## **Roctavian (valoctocogene roxaparvovec-rvox) - First Gene Therapy for Hemophilia A** 7/25/23
 
 [Roctavian (valoctocogene roxaparvovec-rvox).pdf](https://mygainwell.sharepoint.com.mcas.ms/teams/ClinicalLibrary/PublicClinicalDocuments/Forms/AllItems.aspx?id=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments%2FRoctavian%20%28valoctocogene%20roxaparvovec%2Drvox%29%2Epdf&parent=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments){:target="_blank" rel="noopener"}
 
