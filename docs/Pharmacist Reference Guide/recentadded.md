@@ -1,5 +1,9 @@
 # Recently Added/Updated
 
+8/22/23
+
+- [Psych Exemption Update](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Psych%20Exemption/?h=psy)
+
 8/21/23
 
 - [Weekly Email 8/19/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EUlb6EUfKF5IiERwicJzc_MBynG7FCKq9KcwK59smLWgVA?e=x7Ez2D){:target="_blank" rel="noopener"}
