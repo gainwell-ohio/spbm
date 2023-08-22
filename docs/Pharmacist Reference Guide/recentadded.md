@@ -3,6 +3,7 @@
 8/22/23
 
 - [Psych Exemption Update](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Psych%20Exemption/?h=psy)
+- [New Drug Review and PA Recommendations](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/?h=new+drug#xenpozyme_olipudase_alfa-rpcp_101122)
 
 8/21/23
 
