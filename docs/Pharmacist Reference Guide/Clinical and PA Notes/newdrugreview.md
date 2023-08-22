@@ -1,8 +1,8 @@
 # New Drug Review and Recommended PA Criteria
 
-**DISCLAIMER ALERT**: ^^The Ohio UPDL trumps all recommended criteria presented on this page^^. These are suggested recommended PA criteria for newly released medications that may or may not been evaluated and placed on the UPDL with any yet.
+**DISCLAIMER ALERT**: ^^The Ohio UPDL trumps all recommended criteria presented on this page^^. These are suggested recommended PA criteria for newly released medications.  Once ODM evaluates and determines their own specific criteria, that will take precedent.
 
-## **Roctavian (valoctocogene roxaparvovec-rvox) - First Gene Therapy for Hemophilia A** 7/25/23
+## Roctavian (valoctocogene roxaparvovec-rvox) - First Gene Therapy for Hemophilia A 7/25/23
 
 [Roctavian (valoctocogene roxaparvovec-rvox).pdf](https://mygainwell.sharepoint.com.mcas.ms/teams/ClinicalLibrary/PublicClinicalDocuments/Forms/AllItems.aspx?id=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments%2FRoctavian%20%28valoctocogene%20roxaparvovec%2Drvox%29%2Epdf&parent=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments){:target="_blank" rel="noopener"}
 
@@ -189,3 +189,84 @@ Related Imaging Abnormalities (ARIA) AND</li><li>Patient must not be prescribed 
 | ***Initial Therapy***: <li>PPrescribed by or in consultation with a neurologist, endocrinologist, hematologist and/or oncologist AND</li><li>Patient aged 4 -17 years AND</li><li>CALD diagnosis (E71.520, Childhood cerebral X-linked adrenoleukodystrophy; E71.521, Adolescent X-linked adrenoleukodystrophy) confirmed by genetic testing (ABCD1 gene mutation) AND<li>Candidate for HSCT, but does NOT have access to matched donor AND patient has not received prior HSCT for CALD AND</li><li> Evidence of early active CALD defined by **ALL** of the following: <ul><li>Elevated VLCFA values </li><li>Loes score between 0.5 and 9</li><li>GdE+ on MRI of demyelinating lesions </li><li>NFS≤1 </li></ul> |
 | ***Additional Considerations***: <li>Perform screening for hepatitis B virus (HBV), hepatitis C virus (HCV), human immunodeficiency virus 1 & 2 (HIV-1/HIV-2) and Human T-lymphotropic virus 1 & 2 (HTLV-1/HTLV-2) in accordance with clinical guidelines before collection of cells for manufacturing.</li> | 
 
+## Zynteglo (betibeglogene autotemcel) 9/9/22
+
+[Zynteglo (betibeglogene autotemcel) pdf](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/EddvDWZeo0tIo8SAlJmQX88BXk8sqo3koRdl37HbCm4mmA?e=77hqEe){:target="_blank" rel="noopener"}
+
+| **WAC Price per Unit and Cost per Year/Treatment** |
+| --------|
+| $2.8 million for one-time treatment |
+
+| **Suggested Prior Authorization/Utilization Management Criteria** |
+| --------|
+| ***Approval length***: one-time authorization  |
+| ***Indication***: Treatment of beta-thalassemia in adult and pediatric patients who require regular red blood cell (RBC) transfusions |
+| ***Initial Therapy***: <li>Patient is aged ≥4 years AND</li><li>Prescribed by or in consultation with a hematologist, oncologist, or other specialist in the disease state AND</li><li>Diagnosis of TDT evidenced by severe non-β0/β0 or β0/β0 genotype AND</li><li>History of >100 mL/kg/year of packed RBCs OR >8 RBC transfusions per year within the past 2 years AND</li><li>Patient is a candidate for HSCT, but does NOT have access to matched donor AND</li><li>Patient has not had a previous HSCT procedure AND</li><li>Patient is clinically stable and does not have evidence of severe iron overload or serious comorbidities that would preclude myeloablative chemotherapy</li> |
+
+## Rebyota (fecal microbiota, live-jslm) 1/6/23
+
+[Rebyota (fecal microbiota, live-jslm) rectal suspension pdf](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/Eb9mQPWKOz9IssHErYkB1NIBw5sBvtmpBcrd8Lm_eNbfTw?e=dFHW9b){:target="_blank" rel="noopener"}
+
+| **WAC Price per Unit and Cost per Year/Treatment** |
+| --------|
+| $9,000/one-time dose |
+
+| **Suggested Prior Authorization/Utilization Management Criteria** |
+| --------|
+| ***Approval length***: one-time   |
+| ***Indication***: For the prevention of recurrence of Clostridioides difficile infection (CDI) in individuals 18 years of age and older, following antibiotic treatment for recurrent CDI (rCDI) |
+| ***Initial Therapy***: <li>One of the following:</li><ul><li>Prescribed by or in consultation with a gastroenterologist or infectious disease provider OR</li><li>Both of the following: </li><ol><li>Positive stool test for the presence of Clostridioides difficile within previous 30 days **AND**</li><li>Patient is not currently taking an inciting antibiotic (e.g., amoxicillin, 3rd generation cephalosporins, clindamycin, fluoroquinolones)</li></ol></ul><li>Second recurrence (i.e., third episode) or greater of C. difficile infection (CDI) AND</li><li>Patient is ≥ 18 years of age4 AND</li><li>For adults, patient has been previously treated with either vancomycin and/or Dificid (fidaxomicin)</li> |
+| ***Continuation of Therapy***: <li>Not approvable</li> |
+
+## Tzield (teplizumab-mzwv) 12/13/22
+
+[Tzield (teplizumab-mzwv) pdf](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/EQxQbRq0F9dCsJFIyJKVwhoB7AcsUtyATJbtKa3oWbZY7w?e=sjc0I8){:target="_blank" rel="noopener"}
+
+[** See Clinical Team Suggestion](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Tzield/?h=tz)
+
+| **WAC Price per Unit and Cost per Year/Treatment** |
+| --------|
+| $6,925.00 per mL; WAC for one 14-day course of therapy with Tzield is estimated at $193,900 using the BSA of a typical 13-year-old (1.33 m2). |
+
+| **Suggested Prior Authorization/Utilization Management Criteria** |
+| --------|
+| ***Approval length***:  1-time therapy (14 days)   |
+| ***Indication***: To delay the onset of Stage 3 type 1 diabetes (T1D) in adults and pediatric patients aged 8 years and older with Stage 2 T1D  |
+| ***Initial Therapy***: <li>Prescribed by or in consultation with an endocrinologist AND</li><li>Patient aged 8 years of age and older AND</li><li>Diagnosis of Stage 2 T1D by documentation of **ALL the following**:</li><ul><li>Presence of ≥ 2 autoantibodies (e.g., GAD65, IAA, IA-2A, ICA, or ZnT8) </li><li>Evidence of dysglycemia (e.g., fasting glucose (FG) level of 110 to 125 mg/dL (6.1 to 6.9 mmol/L), a 2-hour postprandial plasma glucose level of at least 140 mg/dL (7.8 mmol/L) and less than 200 mg/dL (11.1 mmol/L))</li></ul> |
+| ***Tzield will NOT be administered if any of the following is present***:<li>Active and/or chronic infection</li><li>Severe lymphopenia (<500 cells per mcL) noted on baseline laboratory assessment</li><li>Elevated LFTs on baseline laboratory assessment</li><li>Diagnosis of T2D</li><li>Diagnosis of Stage 3 T1D </li> |
+| ***Additional Considerations***: <li>Prior to initiating Tzield, obtain a complete blood count and liver enzyme tests. Use of Tzield is not recommended in patients with certain laboratory abnormalities (i.e., 3x upper limit of normal ALT and/or AST)</li><li>Administer all age-appropriate vaccinations prior to starting Tzield</li><li>Duration of approval should not exceed 3 months to prevent patients receiving Tzield after progressing to Stage 3 TID due to lapse between approval and administration of drug. </li> |
+
+## Relyvrio (sodium phenylbutyrate and taurursodiol) oral suspension 11/1/22
+
+[Relyvrio (sodium phenylbutyrate and taurursodiol) pdf](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/ESYcwoUtr4pGo4iKE2bUAx0BREesFmhv4-xp--a9DReY6A?e=gUDJ28){:target="_blank" rel="noopener"}
+
+| **WAC Price per Unit and Cost per Year/Treatment** |
+| --------|
+| Annual WAC price of $158,313.00 for first year of treatment |
+
+
+| **Suggested Prior Authorization/Utilization Management Criteria** |
+| --------|
+| ***Approval length***:  Initial- 6 months; Continuation of therapy- 1 year  |
+| ***Indication***: Treatment of amyotrophic lateral sclerosis (ALS) in adults  |
+| ***Initial Therapy***: <li>Therapy is prescribed by or in consultation with a neurologist or ALS specialist</li><li>Diagnosis of ALS and within 18 months of symptom onset </li><li>SVC >60%</li><li>Age ≥18 years</li><li>Patient does not have a tracheostomy</li> |
+| ***Continuation of Therapy***: <li>Patient remains independent of tracheostomy</li><li>Provider attests to likelihood of continued patient benefit with longer course of therapy</li> |
+
+## Xenpozyme ® (Olipudase Alfa-rpcp) 10/11/22
+
+[Xenpozyme ® (Olipudase Alfa-rpcp) pdf](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/EaYsH8Ukwu5PlwfB7lmhSS0B_wb3oW6fY7TixhSAqZkLwg?e=u3PAUe){:target="_blank" rel="noopener"}
+
+| **WAC Price per Unit and Cost per Year/Treatment** |
+| --------|
+| The wholesale acquisition cost (WAC) of Xenpozyme is $7,142 per vial <li>The estimated monthly cost of Xenpozyme is $157,124 with an annual cost exceeding $2 million (based on the maximum recommended target dose for a 70kg adult). These estimates do not include administration or facility fees that may be added</li> |
+
+
+| **Suggested Prior Authorization/Utilization Management Criteria** |
+| --------|
+| ***Approval length***: Initial- 6 months; Continuation of therapy- 1 year  |
+| ***Indication***: Treatment of non-central nervous system (CNS) manifestations of acid sphingomyelinase deficiency (ASMD) in adult and pediatric patients with ASMD Type A/B or ASMD Type B  |
+| ***Quantity Limit***: 3 mg/kg every 2 weeks |
+| ^^Pretreatment Recommendations^^: <li>Obtain baseline transaminase alanine aminotransferase [ALT] and aspartate aminotransferase [AST] levels within 1 month prior to treatment initiation</li><li>Verify pregnancy status in females of reproductive potential</li><li>Consider pretreating with antihistamines, antipyretics, and/or corticosteroids</li> |
+| ***Initial Therapy***: <li>Prescribed by, or in consultation with, a specialist in a related field (i.e., hematology, hepatology, pulmonology, medical geneticist, or metabolic disease specialist); AND</li><li>Patient has a documented diagnosis of ASMD; AND</li><li>Patient has a clinical presentation consistent with ASMD type A/B OR ASMD type B; AND</li><li>Diagnosis has been confirmed by documentation of at least one of the following:<ul><li>Sphingomyelin phosphodiesterase-1 (SMPD1) gene mutation; OR</li><li>Deficiency in ASM activity measured in fibroblasts, leukocytes, or dried blood spot; AND</li></ul><li>Patient is using for the treatment of non-CNS disease manifestations including at least one of the following: splenomegaly (confirmed as a spleen volume >6 multiples of normal [MN] in adults or >5 MN in children), hepatomegaly, pulmonary dysfunction (confirmed by a DLco <70%), or thrombocytopenia.</li> |
+| **Patient does not have**: <li>Acute or rapidly progressive neurologic abnormalities</li><li>A requirement for use of invasive ventilatory support or noninvasive ventilatory support while awake and for greater than 12 hours a day</li><li>A platelet count of <60 x 103/microliter</li><li>International normalized ratio (INR) > 1.5</li><li>ALT or AST >250 IU/L or bilirubin > 1.5mg/dL</li> |
+| ***Continuation of Therapy***: <li>Documented positive clinical response to therapy, or stabilization in signs and symptoms of disease, including a baseline comparison showing improvement in at least one of the following: DLco test, platelet count, spleen and liver volumes.</li> |
