@@ -570,7 +570,7 @@ search:
 | Esperoct          |
 | Feiba NF          |
 | Fibryga           |
-| Hemgenix          |
+| Hemgenix**        |
 | Hemlibra          |
 | Hemofil M         |
 | Humate-P          |
@@ -595,7 +595,7 @@ search:
 | Riastap           |
 | Rixubis           |
 | Sevenfact         |
-| Skysona           |
+| Skysona**         |
 | Soliris           |
 | Tavneos           |
 | Thrombate III     |
@@ -606,7 +606,9 @@ search:
 | Wilate            |
 | Xyntha            |
 | Xyntha Solofuse   |
-| Zynteglo          |
+| Zynteglo**        |
+
+[**New Drug Review and Recommended PA Criteria](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/)
 
 ## Cardiac Drugs
 
@@ -675,7 +677,7 @@ search:
 | Radicava Ors      |
 | Rebif             |
 | Rebif Rebidose    |
-| Relyvrio          |
+| Relyvrio**        |
 | Rilutek           |
 | Riluzole          |
 | Ruzurgi           |
@@ -688,6 +690,8 @@ search:
 | Vumerity          |
 | Wakix             |
 | Zeposia           |
+
+[**New Drug Review and Recommended PA Criteria](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/)
 
 ## Colony Stimulating Factors
 
@@ -892,8 +896,10 @@ search:
 | Skyrizi            |
 | Skyrizi On-Body    |
 | Stelara            |
-| Tzield             |
+| Tzield**           |
 | Uplizna            |
+
+[**New Drug Review and Recommended PA Criteria](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/)
 
 ## Miscellaneous
 
@@ -1091,7 +1097,7 @@ search:
 | Vyndaqel                    |
 | Vyondys-53                  |
 | Vyvgart                     |
-| Xenpozyme                   |
+| Xenpozyme**                 |
 | Xgeva                       |
 | Xiaflex                     |
 | Xofigo                      |
@@ -1102,3 +1108,5 @@ search:
 | Zokinvy                     |
 | Zoledronic Acid             |
 | Zolgensma                   |
+
+[**New Drug Review and Recommended PA Criteria](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/)
