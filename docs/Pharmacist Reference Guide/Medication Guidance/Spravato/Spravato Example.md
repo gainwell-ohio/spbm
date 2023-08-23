@@ -3,13 +3,35 @@ search:
   boost: 1
 ---
 
-# Spravato Example
+# Depression Assessment Scales
 
-From: Johnson, Brian 
+## Patient Health Questionnaire (PHQ-9)
 
-Some RPh asked me to share an example of this. Can you please share with the group:
- 
-United Health Medicaid MCE 4/1/2022 - 12/31/2078; NF request for Spravato 56mg dose 56mg x 2 (first 7 days), then 84mg x 2 days (for weeks 2-4); Dx treatment resistant depression, panic disorder, PTSD, anxiety, depression; T/F buspar, latuda, depakote, clonazepam, bupropion XL, cannabis; prescriber is Nurse Practitioner - Psych/Mental Health - psych exempt. Compendia supported Dx. Per The Gainwell Policy for Medical Necessity criteria met, approved for 60 days by HICL per guidance for initial approval by Brian Johnson, PharmD, CSP
- 
- 
-This prior authorization is approved for Spravato 56mg and Spravato 84mg dosages. For renewal, member must have concurrently used antidepressant and shown improvement from the member’s baseline depression status using an appropriate rating scale [for example, Patient Health Questionnaire (PHQ-9), Beck Depression Inventory (BDI), Quick Inventory of Depressive Symptomatology (QIDS), Montgomery-Åsberg Depression Rating Scale (MADRS), Hamilton Rating Scale for Depression (HAM-D)].
+[Patient Health Questionnaire (PHQ-9)](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/depression_patient_health_questionnaire.pdf){:target="_blank" rel="noopener"}
+
+![image](phq9.PNG)
+
+
+## Montgomery-Åsberg Depression Rating Scale (MADRS)
+
+[Montgomery-Åsberg Depression Rating Scale (MADRS)](https://www.mdapp.co/montgomery-asberg-depression-rating-scale-madrs-score-calculator-497/){:target="_blank" rel="noopener"}
+
+![image](madrs.PNG)
+
+## Beck Depression Inventory (BDI)
+
+[Beck Depression Inventory (BDI)](https://www.ohsu.edu/sites/default/files/2019-06/Beck%20Depression%20Inventory.pdf){:target="_blank" rel="noopener"}
+
+![image](bdi.PNG)
+
+## Quick Inventory of Depressive Symptomatology (QIDS)
+
+[Quick Inventory of Depressive Symptomatology (QIDS)](https://alnursing.org/wp-content/uploads/2020/03/Depression-Questionnaire-QIDS-SR-16.pdf){:target="_blank" rel="noopener"}
+
+![image](qids.PNG)
+
+## Hamilton Rating Scale for Depression (HAM-D)
+
+[Hamilton Rating Scale for Depression (HAM-D)](http://www.assessmentpsychology.com/HAM-D.pdf){:target="_blank" rel="noopener"}
+
+![image](hamd.PNG)
