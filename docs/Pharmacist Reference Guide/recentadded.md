@@ -1,5 +1,9 @@
 # Recently Added/Updated
 
+8/23/23
+
+- [Depression Assessment Scales](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Spravato/Spravato%20Example/?h=sprava)
+
 8/22/23
 
 - [Psych Exemption Update](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Psych%20Exemption/?h=psy)
