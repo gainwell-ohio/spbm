@@ -5,7 +5,7 @@ search:
 
 # Finance Department
 
-Calls that come to the help desk for the following reasons need a SNOW (ServiceNow) ticket created by sending an email to Ohio_MITS_ServiceDesk_Group: ohio_mits_servicedesk@gainwelltechnologies.com.   
+Calls that come to the help desk for the following reasons need a SNOW (ServiceNow) ticket created by sending an email to Ohio_MITS_ServiceDesk_Group: ohio_mits_servicedesk@gainwelltechnologies.com.  **Do not give out this email to callers** 
 
 For the five reasons below, the Help Desk **should not** advise the caller to contact our claims department. 
 
