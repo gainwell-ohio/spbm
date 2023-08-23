@@ -2,7 +2,7 @@
 
 **DISCLAIMER ALERT**: ^^The Ohio UPDL trumps all recommended criteria presented on this page^^. These are suggested recommended PA criteria for newly released medications.  Once ODM evaluates and determines their own specific criteria, that will take precedent.
 
-## Roctavian (valoctocogene roxaparvovec-rvox) - First Gene Therapy for Hemophilia A 7/25/23
+## Roctavian (valoctocogene roxaparvovec-rvox) 7/25/23
 
 [Roctavian (valoctocogene roxaparvovec-rvox).pdf](https://mygainwell.sharepoint.com.mcas.ms/teams/ClinicalLibrary/PublicClinicalDocuments/Forms/AllItems.aspx?id=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments%2FRoctavian%20%28valoctocogene%20roxaparvovec%2Drvox%29%2Epdf&parent=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments){:target="_blank" rel="noopener"}
 
@@ -18,7 +18,7 @@
 | ***Initial Therapy***: <li>Patient age ≥ 18 years1 AND</li><li>Male gender assigned at birth2 AND</li><li>Diagnosis of severe congenital hemophilia A (Factor VIII activity level ≤1 IU/dL) AND</li><li>Documentation of no detectable antibodies to AAV5 AND</li><li>No evidence of liver dysfunction, fibrosis or HIV AND</li><li>Documentation of prophylaxis with Factor VIII within the previous year</li> |
 | ***Additional Considerations***: <li>Perform regular ALT testing to monitor for elevations. Elevated liver enzymes, especially elevated ALT, may indicate immune-mediated hepatotoxicity and may be associated with decline in factor VIII activity</li> | 
 
-## Elevidys (delandistrogene moxeparvovec-rokl) - First Gene Therapy Approved for Duchenne Muscular Dystrophy 7/11/23
+## Elevidys (delandistrogene moxeparvovec-rokl) 7/11/23
 
 [Elevidys (delandistrogene moxeparvovec-rokl).pdf](https://mygainwell.sharepoint.com.mcas.ms/teams/ClinicalLibrary/PublicClinicalDocuments/Forms/AllItems.aspx?id=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments%2FElevidys%20%28delandistrogene%20moxeparvovec%2Drokl%29%2Epdf&parent=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments){:target="_blank" rel="noopener"}
 
@@ -32,7 +32,7 @@
 | ***Indication***: Treatment of ambulatory pediatric patients aged 4 through 5 years with Duchenne muscular dystrophy (DMD) with a confirmed mutation in the DMD gene.  |
 | ***Initial Therapy***: <li>Prescribed by or in consultation with a neurologist or DMD specialist AND</li><li>Age either 4 or 5 years AND</li><li>Patient has male gender assigned at birth AND</li><li>Established clinical diagnosis of DMD and documented dystrophin gene mutation of DMD phenotype (documentation of a frameshift mutation contained between exons 18 and 58 (inclusive)) AND</li><li>Baseline anti-AAVrh74 antibody titers <1:400 AND</li><li>DNo evidence of any deletion in exon 8 and/or exon 9 in the DMD gene</li> |
 
-## Vyjuvek (beremagene geperpavec-svdt) - A New Topical Gene Therapy 6/27/23
+## Vyjuvek (beremagene geperpavec-svdt) 6/27/23
 
 [Vyjuvek (beremagene geperpavec-svdt).pdf](https://mygainwell.sharepoint.com.mcas.ms/teams/ClinicalLibrary/PublicClinicalDocuments/Forms/AllItems.aspx?id=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments%2FVyjuvek%20%28beremagene%20geperpavec%2Dsvdt%29%2Epdf&parent=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments){:target="_blank" rel="noopener"}
 
@@ -110,7 +110,7 @@
 | ***Initial Therapy***: <li> Genetically confirmed diagnosis of FA (testing options include a single gene test looking for GAA expansions in intron 1 of the FXN gene or a multigene panel)</li><li>Prescribed by or in consultation with a neurologist</li><li>Patient is aged 16 to 40 years</li><li>Patient is ambulatory</li> |
 | ***Continuation of Therapy***: <li>Documentation of clinically significant improvement and/or stabilization in clinical signs and symptoms of disease (including but not limited to upright stability, performing ADL, improved gait)</li> |
 
-## Daybue (trofinetide) oral solution 4/4/23
+## Daybue (trofinetide) 4/4/23
 
 [Daybue (trofinetide).pdf](https://mygainwell.sharepoint.com.mcas.ms/teams/ClinicalLibrary/PublicClinicalDocuments/Forms/AllItems.aspx?id=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments%2FDaybue%20%28trofinetide%29%2Epdf&parent=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments){:target="_blank" rel="noopener"}
 
@@ -141,7 +141,7 @@
 | ***Continuation of Therapy***: <li>Documentation of UPCR ≤ 1 g/day</li><li>eGFR ≥ 30 mL/ mine</li> |
 | ***Additional Considerations***: <li>Filspari is only available through a **REMS program** which requires pregnancy testing before, during, and after treatment.</li><li>Patients who can become pregnant must use effective contraception prior to initiation of treatment, during treatment, and for one month after discontinuation of treatment.</li><li>Measure liver aminotransferases and total bilirubin prior to initiation of treatment and ALT and AST monthly for 12 months, then every 3 months during treatment.</li><li>Prior to initiating treatment with Filspari, discontinue use of renin-angiotensin-aldosterone system (RAAS) inhibitors, endothelin receptor antagonists (ERAs), or aliskiren.</li> | 
 
-## Leqembi (lecanemab-irmb) IV injection 1/24/23
+## Leqembi (lecanemab-irmb) 1/24/23
 
 [Leqembi (lecanemab-irmb) pdf](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/EQCFNZJ9zG9OiK4zmDf-NyoBF189Qg3sDggfIzi-t17BkA?e=GdbZ77){:target="_blank" rel="noopener"}
 
@@ -158,7 +158,7 @@ Related Imaging Abnormalities (ARIA) AND</li><li>Patient must not be prescribed 
 | ***Continuation of Therapy***: <li>Documentation of follow-up MRIs to evaluate for ARIA-E, ARIA-H, and other structural changes prior to the 5th, 7th, and 14th infusions, then at least once annually AND</li><li>Documentation of current disease severity as demonstrated by current MMSE score, CDR-SB or ADAS-COG score</li> |
 | ***Additional Considerations***: <li>If radiographically observed ARIA occurs, treatment recommendations are based on type, severity, and presence of symptoms</li><li>Consider testing for ApoE ε4 status to inform the risk of developing ARIA when deciding to initiate treatment with Leqembi</li><li>Evaluate patients for evidence of established cardiovascular disease and discuss increased risk of ARIA and complications with Leqembi use in those with positive histories</li><li>Because intracerebral hemorrhages greater than 1 cm in diameter have been observed in patients taking Leqembi, additional caution should be exercised when considering the administration of antithrombotics or a thrombolytic agent (e.g., tissue plasminogen activator) to a patient already being treated with Leqembi</li><li>Discontinue Leqembi when patient has progressed to moderate AD</li>| 
 
-## Hemgenix® (etranacogene dezaparvovec-drlb) Intravenous Infusion 1/3/23
+## Hemgenix® (etranacogene dezaparvovec-drlb) 1/3/23
 
 [Hemgenix® (etranacogene dezaparvovec-drlb) pdf](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/EeakbsctyOpIjgZqJWWVaTMBZIPQmipBFioOeFGF1lxyvw?e=miP1Pg){:target="_blank" rel="noopener"}
 
@@ -236,7 +236,7 @@ Related Imaging Abnormalities (ARIA) AND</li><li>Patient must not be prescribed 
 | ***Tzield will NOT be administered if any of the following is present***:<li>Active and/or chronic infection</li><li>Severe lymphopenia (<500 cells per mcL) noted on baseline laboratory assessment</li><li>Elevated LFTs on baseline laboratory assessment</li><li>Diagnosis of T2D</li><li>Diagnosis of Stage 3 T1D </li> |
 | ***Additional Considerations***: <li>Prior to initiating Tzield, obtain a complete blood count and liver enzyme tests. Use of Tzield is not recommended in patients with certain laboratory abnormalities (i.e., 3x upper limit of normal ALT and/or AST)</li><li>Administer all age-appropriate vaccinations prior to starting Tzield</li><li>Duration of approval should not exceed 3 months to prevent patients receiving Tzield after progressing to Stage 3 TID due to lapse between approval and administration of drug. </li> |
 
-## Relyvrio (sodium phenylbutyrate and taurursodiol) oral suspension 11/1/22
+## Relyvrio (sodium phenylbutyrate and taurursodiol) 11/1/22
 
 [Relyvrio (sodium phenylbutyrate and taurursodiol) pdf](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/ESYcwoUtr4pGo4iKE2bUAx0BREesFmhv4-xp--a9DReY6A?e=gUDJ28){:target="_blank" rel="noopener"}
 
