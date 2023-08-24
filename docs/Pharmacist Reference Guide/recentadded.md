@@ -1,5 +1,8 @@
 # Recently Added/Updated
 
+8/24/23
+- [OTC Trials vs claims history email from 6/8/23](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/otctrials/?h=otc)
+
 8/23/23
 
 - [Depression Assessment Scales](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Spravato/Spravato%20Example/?h=sprava)
