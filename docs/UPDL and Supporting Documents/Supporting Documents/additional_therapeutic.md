@@ -347,6 +347,8 @@ Clinical Criteria:
 - Must provide documentation that the patient has not had RSV during the current season 
 - Medication must be requested for use during the RSV season (November 1st to March 31st) AND not to exceed 5 doses per single RSV season or 1 dose per month; whichever is lower
 
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BE78364D9-082C-41C5-9902-8F8AC94900ED%7D&file=Denial%20Language%20Updated%2002062023.docx&mobileredirect=true&action=embedview&wdStartOn=74&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
+
 ## Nasal Synthetic Vasopressin Analogue
 
 Drug Name:
