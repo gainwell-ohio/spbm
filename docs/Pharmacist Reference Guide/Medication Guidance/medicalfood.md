@@ -42,6 +42,16 @@ If we do get what is perceived to be a DME product like diapers, nebulizers, nut
 
 I am currently working on trying to get this more defined for ease of use and clear directives to be put in place for these situations.
 
+## How to determine if a drug is a medical food in Vue360rx
+
+[Weekly Email 8/26/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EYnhUkLLPZVNt_4Yjl3mhZcBWApd5ZTU7TyrmNfHNgsyIQ?e=k57DKt){:target="_blank" rel="noopener"}
+
+•	A further way we can tell what should be billed, but not always the most accurate are the following locations in the NDC Tile (please note not definitive, but may help in decisioning)
+
+![image](medsupply2.png)
+
+![image](medical supply1.png)
+
 ## Phlexy vitamins 8/5/23
 
 [Weekly Email 8/5/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/weeklyemail8523.docx?d=w34551b8b7f674147b603832cab7090ca&csf=1&web=1&e=aTi6MU){:target="_blank" rel="noopener"}
