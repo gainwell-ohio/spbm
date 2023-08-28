@@ -23,7 +23,7 @@ This is a subcategory of Ophthalmic Agents.
 | Eysuvis                                                                                  |              |          |             |
 | Restasis Multi-Dose                                                                      |              |          |             |
 | Tyrvaya                                                                                  |              |          |             |
-| <span title = "Brand Preferred: Restasis Trays">Xiidra</span> <sup>Brand Preferred</sup> |              |          |             |
+| Xiidra |              |          |             |
 
 ## Authorizations
 
