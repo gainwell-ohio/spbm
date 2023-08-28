@@ -5,7 +5,7 @@ search:
 
 # Finance Department
 
-## Calls that come to the help desk for the following reasons need a SNOW (ServiceNow) ticket 
+ Calls that come to the help desk for the following reasons need to be sent to the Callback team (OHSPBMCallBack@gainwelltechnologies.com)
 
 1. Checks 
 2. 835’s 
