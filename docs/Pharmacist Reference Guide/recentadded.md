@@ -1,5 +1,12 @@
 # Recently Added/Updated
 
+8/28/23
+
+-	[Weekly Email 8/26/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EYnhUkLLPZVNt_4Yjl3mhZcBWApd5ZTU7TyrmNfHNgsyIQ?e=k57DKt){:target="_blank" rel="noopener"}
+-	[Update to DME/Medical food](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/medicalfood/?h=dme)
+-	[Gender Dysphoria Updates](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/GenderDysphoria/?h=dys)
+
+
 8/24/23
 - [OTC Trials vs claims history email from 6/8/23](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/otctrials/?h=otc)
 
