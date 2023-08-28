@@ -5,7 +5,7 @@ search:
 
 # CSP
 
-[CSP Desk Level Procedures 7-6-2023](https://mygainwell.sharepoint.com.mcas.ms/:w:/r/sites/OHMCD/_layouts/15/Doc.aspx?sourcedoc=%7BF74B7A56-5812-4736-A25D-1CFDF3F3AF2C%7D&file=CSP%20Desk%20Level%20Procedures%207.6.23.docx&action=default&mobileredirect=true&cid=b8e7f8ca-939a-43fd-a20b-ce3928d97e99){ :target="_blank" rel="noopener" }
+[CSP Desk Level Procedures 7-6-2023](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EQ3E9SbINC5EvEvtFDGa6PgBJSj4YPcLCJn_TWYJbfm-9g?e=csiDgB){ :target="_blank" rel="noopener" }
 
 ## Managed Care 
 - This is the EXACT verbiage ODM would like us to use
