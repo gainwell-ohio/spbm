@@ -46,6 +46,12 @@ ongoing safety monitoring
 
 ![Alt text](gender_dysphoria_1.png)
 
+## Preferred vs Nonpreferred Evaluation 8/26/23
+
+[Weekly Email 8/26/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EYnhUkLLPZVNt_4Yjl3mhZcBWApd5ZTU7TyrmNfHNgsyIQ?e=k57DKt){:target="_blank" rel="noopener"}
+
+•	As stated in the Med Nec Policy, when using medications for Gender Dysphoria ***preferred and non-preferred status doesn’t matter***, just what are in the resources provided. (Basically, all meds are considered preferred as long as its on WPATH)
+
 ### Additional Clinical References
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8907681/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8907681/){ :target="_blank" rel="noopener"}
