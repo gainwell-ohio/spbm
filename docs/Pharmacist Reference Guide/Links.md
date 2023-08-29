@@ -56,22 +56,22 @@ search:
 | DX:|
 | Approval Duration:|
 | Qty/Day Supply:|
-| Approval Rationale: include reason for approval; please include claims and what was reviewed; Policy/Rule|
-| Approved by Person, Title: Full Name and Title|
+| ***Approval Rationale: include reason for approval; please include claims and what was reviewed; Policy/Rule|
+| ***Approved by Person, Title: Full Name and Title|
 
 ### ***Denied PA***                  
 | Denied PA                   |
 |:-------------------------------|
 | Drug and strength:| 
 | DX:|
-| Denial Rationale: include reason for denial; please include claims and what was reviewed; Policy/Rule|
-| Denied by Person, Title: Full Name and Title|
+| ***Denial Rationale: include reason for denial; please include claims and what was reviewed; Policy/Rule|
+| ***Denied by Person, Title: Full Name and Title|
 
 ### ***EO Approved:***
 | EO Approved:    |
 |:-------------------------------|
-| Approval Reason: |
-| Additional Notes: |
+| ***Approval Reason: |
+| ***Additional Notes: |
 | Approving Person, Title: |
 
 ### Vue360Rx Password Reset and Account Locked
