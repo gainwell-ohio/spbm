@@ -70,8 +70,8 @@ Justin
 | Conversion: |
 | Side effect not true allergy: |
 | Hepatic Impairment(as in evergreen general Child Pugh Score): | 
-| Denial Rationale: include reason for denial; please include claims and what was reviewed; Policy/Rule |
-| Denied by Person, Title: Full Name and Title |
+| ***Denial Rationale: include reason for denial; please include claims and what was reviewed; Policy/Rule |
+| ***Denied by Person, Title: Full Name and Title |
 
 
 | Approval Template |
@@ -80,8 +80,8 @@ Justin
 | DX: |
 | Approval Duration: |
 | Qty/Day Supply: |
-| Approval Rationale: include reason for approval; please include claims and what was reviewed; Policy/Rule |
-| Pregnancy: |
+| ***Approval Rationale: include reason for approval; please include claims and what was reviewed; Policy/Rule |
+| ***Pregnancy: |
 | Breastfeeding: |
 | IgE mediated interaction: |
 | Conversion: |
