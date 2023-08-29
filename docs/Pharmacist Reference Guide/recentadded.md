@@ -1,5 +1,9 @@
 # Recently Added/Updated
 
+8/29/23
+
+- [Update to Pharmacist links to include clinic team requests](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Links/)
+
 8/28/23
 
 -	[Weekly Email 8/26/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EYnhUkLLPZVNt_4Yjl3mhZcBWApd5ZTU7TyrmNfHNgsyIQ?e=k57DKt){:target="_blank" rel="noopener"}
