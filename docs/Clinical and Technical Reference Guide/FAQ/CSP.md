@@ -33,8 +33,9 @@ search:
             - If yes, for which drugs?
         - Why the caller is requesting a different lock in and why they cannot stay where they are
             - Acceptable reasons, please do not give this information to the caller
-                - Pharmacy Closed, Pharmacy no longer willing / able to to provide services, Patient Moved, long term stock out.
+                - Pharmacy Closed, Pharmacy no longer willing / able to provide services, Patient Moved, long term stock out.
                 - Pharmacy called requesting a pharmacy be added because of Specialty / LTC / Home Care
+                - New Enrollment Pharmacy selected
         - Requested Pharmacy Name:
         - Requested Pharmacy NPI:
         - Requested Pharmacy Phone number:
