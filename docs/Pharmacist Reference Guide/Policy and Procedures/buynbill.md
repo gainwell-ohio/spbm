@@ -4,7 +4,7 @@
 
 [11:40 AM] Collingwood, Justin
 
-Pharmacy 70 Procedure Thought Process
+**Pharmacy 70 Procedure Thought Process**
 
 You get a PA that may be medically administered.
 
