@@ -187,7 +187,7 @@ Propranol Oral Solution (Hemangeol) Criteria
 
 Sacubitril/Valsartan (Entresto) Criteria
 
-- Must provie documentation of chronic heart failure classified as either NYHA Class II-IV or ACC/AHA Stage B-D
+- Must provide documentation of chronic heart failure classified as either NYHA Class II-IV or ACC/AHA Stage B-D
 
 ### Non-Preferred
 
