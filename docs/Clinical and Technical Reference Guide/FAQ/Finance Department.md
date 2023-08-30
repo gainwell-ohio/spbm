@@ -7,10 +7,7 @@ search:
 
  Calls that come to the help desk for the following reasons need to be sent to the Callback team **(OHSPBMCallBack@gainwelltechnologies.com) using the appropriate template, below** 
   
-- **Do NOT give this email out**
-- The Callback Team is responsible for submitting the issue to the appropriate Team
  
-
 1. Claims Checks 
 2. 835’s 
 3. Remittance Advice (RA’s) 
@@ -57,7 +54,7 @@ For RA’s – agents MUST include the BULK PAYMENT information, not claim speci
 
 
  
-**For general finance/payment inquiries:**
+**For General finance/payment inquiries:**
 
 - NPI:
 - Provider Name:
@@ -71,11 +68,13 @@ For RA’s – agents MUST include the BULK PAYMENT information, not claim speci
 
 
 
-## Reminders:
+## Important Reminders:
+- **Do NOT give this email out**
 - Make sure to be specific in your Contactnote in Vue360RX AND in the "reason for inquiry" field on the template
 - You should **NOT** advise the caller to contact the claims department
 - The callback team will reject any requests that are not in the above format
 - Techs should not give a turn around time for these issues
 - Always encrypt any emails with PHI
+- The Callback Team is responsible for submitting the issue to the appropriate Team
 
 
