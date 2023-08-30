@@ -23,15 +23,17 @@ When sending these issues to the Callback team, you **MUST** use the following t
 
 **For RA Requests:**
 For RA’s – agents MUST include the BULK PAYMENT information, not claim specific payment information.
-- NPI:
-- Provider Name:
-- Caller Name:
-- Callback Number:
-- Check/EFT Number:
-- Payment Date:
-- Payment Amount (MUST BE THE BULK PAYMENT AMOUNT not specific claim amounts):
-- Reason RA can’t be retrieved from portal:
-- Contact ID:
+ - NPI:
+ - Provider Name:
+ - Caller Name:
+ - Callback Number:
+ - Check/EFT Number:
+ - Payment Date:
+ - Payment Amount (MUST BE THE BULK PAYMENT AMOUNT not specific claim amounts):
+ - Reason RA can’t be retrieved from portal:
+ - Contact ID:
+
+
  
 **For ERA/835 Requests:**
 - NPI:
@@ -43,17 +45,20 @@ For RA’s – agents MUST include the BULK PAYMENT information, not claim speci
 - Payment Date:
 - Amount:
 - Contact ID:
+
+
  
 **For general finance/payment inquiries:**
-- NPI:
-- Provider Name:
-- Caller Name:
-- Callback Number:
-- Check/EFT Number:
-- Payment Date:
-- Payment Amount:
-- Reason for inquiry:
-- Contact ID:
+ - NPI:
+ - Provider Name:
+ - Caller Name:
+ - Callback Number:
+ - Check/EFT Number:
+ - Payment Date:
+ - Payment Amount:
+ - Reason for inquiry:
+ - Contact ID:
+
 
 
 ## Reminders:
