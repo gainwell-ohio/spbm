@@ -6,6 +6,7 @@ search:
 # Finance Department
 
  Calls that come to the help desk for the following reasons need to be sent to the Callback team **(OHSPBMCallBack@gainwelltechnologies.com)**
+ 
  **DO NOT GIVE THIS EMAIL OUT TO CALLERS** 
 
 1. Checks 
@@ -32,7 +33,6 @@ For RA’s – agents MUST include the BULK PAYMENT information, not claim speci
 - Reason RA can’t be retrieved from portal:
 - Contact ID:
  
-
 **For ERA/835 Requests:**
 - NPI:
 - Trading Partner ID:
@@ -44,7 +44,6 @@ For RA’s – agents MUST include the BULK PAYMENT information, not claim speci
 - Amount:
 - Contact ID:
  
-
 **For general finance/payment inquiries:**
 - NPI:
 - Provider Name:
@@ -61,5 +60,6 @@ For RA’s – agents MUST include the BULK PAYMENT information, not claim speci
 - As the agent, you will complete the Callback Template out completely and **make sure to be specific in your Callback Details.**
 - You should **NOT** advise the caller to contact the claims department
 - The callback team will reject any requests that are not in the above format
+- Techs should not give a turn around time for these issues
 
 
