@@ -1,5 +1,9 @@
 # Recently Added/Updated
 
+8/30/30
+
+- [Buy and Bill update procedures](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/buynbill/?h=buy)
+
 8/29/23
 
 - [Update to Pharmacist links to include clinic team requests](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Links/)
