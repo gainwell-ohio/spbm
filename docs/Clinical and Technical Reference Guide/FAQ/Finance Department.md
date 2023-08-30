@@ -33,6 +33,7 @@ For RA’s – agents MUST include the BULK PAYMENT information, not claim speci
 - Payment Date:
 - Payment Amount (MUST BE THE BULK PAYMENT AMOUNT not specific claim amounts):
 - Reason RA can’t be retrieved from portal:
+- Reason for inquiry (be specific):
 - Contact ID:
 
 
@@ -47,6 +48,7 @@ For RA’s – agents MUST include the BULK PAYMENT information, not claim speci
 - Check/EFT Number:
 - Payment Date:
 - Amount:
+- Reason for inquiry (be specific):
 - Contact ID:
 
 
@@ -60,13 +62,13 @@ For RA’s – agents MUST include the BULK PAYMENT information, not claim speci
 - Check/EFT Number:
 - Payment Date:
 - Payment Amount:
-- Reason for inquiry:
+- Reason for inquiry (be specific):
 - Contact ID:
 
 
 
 ## Reminders:
-- As the agent, you will complete the Callback Template out completely and **make sure to be specific in your Callback Details.**
+- Make sure to be specific in your Contactnote in Vue360RX AND in the "reason for inquiry" field on the template
 - You should **NOT** advise the caller to contact the claims department
 - The callback team will reject any requests that are not in the above format
 - Techs should not give a turn around time for these issues
