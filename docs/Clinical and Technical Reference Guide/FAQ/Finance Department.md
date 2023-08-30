@@ -22,6 +22,7 @@ When sending these issues to the Callback team, you **MUST** use the following t
 
 
 **For RA Requests:**
+
 For RA’s – agents MUST include the BULK PAYMENT information, not claim specific payment information.
 - NPI:
 - Provider Name:
@@ -36,6 +37,7 @@ For RA’s – agents MUST include the BULK PAYMENT information, not claim speci
 
  
 **For ERA/835 Requests:**
+
 - NPI:
 - Trading Partner ID:
 - Provider Name:
@@ -49,6 +51,7 @@ For RA’s – agents MUST include the BULK PAYMENT information, not claim speci
 
  
 **For general finance/payment inquiries:**
+
 - NPI:
 - Provider Name:
 - Caller Name:
