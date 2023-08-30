@@ -5,9 +5,11 @@ search:
 
 # Finance Department
 
- Calls that come to the help desk for the following reasons need to be sent to the Callback team **(OHSPBMCallBack@gainwelltechnologies.com)**
+ Calls that come to the help desk for the following reasons need to be sent to the Callback team **(OHSPBMCallBack@gainwelltechnologies.com) using the appropriate template, below** 
+  
+- **Do NOT give this email out**
+- The Callback Team is responsible for submitting the issue to the appropriate Team
  
- **DO NOT GIVE THIS EMAIL OUT TO CALLERS** 
 
 1. Claims Checks 
 2. 835’s 
@@ -15,11 +17,13 @@ search:
 4. Claims Payments 
 5. OH SPBM Portal Registration 
 
-When sending these issues to the Callback team, you **MUST** use the following templates, according to the issue being reported
+
+## Email Templates to use 
+
+- When sending these issues to the Callback team, you **MUST** use the following templates, according to the issue being reported
 - No need to include the Callback Template for **THESE ISSUES only**
+  - all other emails to the Callback Team must use the Callback Template
   
-
-
 
 **For RA Requests:**
 
@@ -72,5 +76,6 @@ For RA’s – agents MUST include the BULK PAYMENT information, not claim speci
 - You should **NOT** advise the caller to contact the claims department
 - The callback team will reject any requests that are not in the above format
 - Techs should not give a turn around time for these issues
+- Always encrypt any emails with PHI
 
 
