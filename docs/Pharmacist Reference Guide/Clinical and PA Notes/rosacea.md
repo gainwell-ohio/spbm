@@ -19,12 +19,13 @@ As of 8/19/23: provided by Chris N
 | Non-Preferred Topical Meds |
 |---------------|
 | Finacea/ Azelaic Acid  |
-| Epsolay/ Encapsulated Benzoyl Peroxide Cream |
+| Epsolay/ Encapsulated Benzoyl Peroxide Cream **(NP on UPDL but is non-payable due to no rebate)**  |
 | Mirvaso/ Brimonidine |
 | Soolantra/ Ivermectin |
-| Zilxi/ Minocycline |
+
 
 
 | Non-Formulary Med |
 |---------------|
-| Rhofade/ Oxymetazoline
+| Rhofade/ Oxymetazoline |
+| Zilxi/ Minocycline |
