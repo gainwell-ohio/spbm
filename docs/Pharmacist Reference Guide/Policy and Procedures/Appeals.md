@@ -16,50 +16,22 @@ search:
 
 ## Appeal Status Options
 
-***Does not qualify***
+***9/1/23***: As we prepare to go live with the new WM system, we have a slight update of when to use each decision.   If you could send this to the pharmacists that work appeals I would appreciate it.  The main change is the use of Does Not Qualify.  
 
-- Information provided does not apply to appeal
+**Does Not Qualify**- Use this ONLY when you have a need for a letter that is not an Upheld status.  This is when we need to send a letter, for example, member is no longer active with a Medicaid plan. 
 
-- When an appeal is submitted but there is no previous denial by use (Denials decisioned from previous MCEs will need to be appealed with them OR a new PA will need to be submitted with us so we can review)
+**Other** – can be used for anything else just need a note to document what is done, example, there is an approved PA on file now and does not need an appeal. 
 
+**Overturned**- this means the case was overturned and a new PA went out. 
 
-***Other***
-- A new PA submitted and approved after initial denial 
+**Upheld** – this is for upheld appeals
 
+**Withdrawn** – appeal is withdrawn, example, there is an approved PA on file now and does not need an appeal.
 
-***Upheld***
+Lori Aliff</br>
+Grievance and Appeals Supervisor</br>
+Ohio SPBM
 
-- Denial is upheld, you agree with the previous denial
-
-
-***Overturn***
-- You believe the prescriber provided sufficient information to get the medication approved.
-
-**If overturning the denial, please enter a new PA in Vue360Rx with all information documented referencing the appeal case number and in process manager provide the PA number
-
-## Appeals in PA Queue
-[Appeal requests in MedReview]([FW%20When%20Pharmacists%20get%20legitimate%20appeals%20in%20PA%20queues.htm](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/Appeals%20in%20MR/?h=appeals))
-
-It has also been decided with the appeals team and Brandon that at the end of the process the PA we have in MEDREVIEW or PENDING should be canceled for the reason that Appeals processing time may go past our TAT and we can be fined daily for each day a PA remains active in our system past that TAT.
- 
-Cancel is also useful in the case that if additional information is required to research from the PA that can be pulled up in the system and reviewed but not go over the TAT. We won’t be able to work that specific one but information can still be garnered if needed.
-Please ask if any questions,
-Thanks,
-Justin
- 
-Hello,
-
-There have been some general questions when we are receiving appeals in the general PA working.
- 
-First to define what is to be sent to appeals. Specifically an appeal needs to be requested, usually with a letter of necessity. Like the example below
-
-![Alt text](appeals_2.png)
-
-Hit the download button, save as PDF, then send it to the G&A mailbox at 
- 
-OH_MCD_PBM_GA@gainwelltechnologies.com
- 
-Please send encrypted, and then delete from your computer all saved information like the PDF containing HIPAA information.
 
 ## Appeals during UPDL Changes
 
