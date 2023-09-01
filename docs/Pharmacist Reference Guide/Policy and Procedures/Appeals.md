@@ -32,6 +32,10 @@ Lori Aliff</br>
 Grievance and Appeals Supervisor</br>
 Ohio SPBM
 
+## Appeals found in PA queue
+
+[Appeals in MedReview Procedure](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/Appeals%20in%20MR/?h=appeals)
+
 
 ## Appeals during UPDL Changes
 
