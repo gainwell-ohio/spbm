@@ -12,7 +12,7 @@ search:
 [SPBM Pharmacy Reference Guide](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/User%20Guides/SPBM%20Pharmacy%20Reference%20Guide.pdf){:target="_blank" rel="noopener"}
 
 ## Appeals Process
-[Appeals Processing Procedure](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Appeals%20Processing%20for%20pharmacists.docx?d=w237c662b5a1642ca94477766772d1551&csf=1&web=1&e=gLLGJg){:target="_blank" rel="noopener"}
+[Appeals Processing Procedure- PENDING UPDATE 9/1/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Appeals%20Processing%20for%20pharmacists.docx?d=w237c662b5a1642ca94477766772d1551&csf=1&web=1&e=gLLGJg){:target="_blank" rel="noopener"}
 
 ## Appeal Status Options
 
