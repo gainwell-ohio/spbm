@@ -1,5 +1,10 @@
 # Recently Added/Updated
 
+9/1/23
+
+- [Appeals decision updates](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/Appeals/?h=appeals)
+- [Rosacea updates](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/rosacea/?h=rosa)
+
 8/30/30
 
 - [Buy and Bill update procedures](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/buynbill/?h=buy)
