@@ -4,11 +4,11 @@
 
 **Lexicomp**: ***Major depressive disorder (unipolar) ==(adjunctive therapy with antidepressant)==:*** Oral: Initial: 1.5 mg once daily, may increase based on response and tolerability to 3 mg once daily on day 15. Maximum dose: 3 mg/day, however, some experts recommend increasing to 4.5 mg/day based on response and tolerability
 
-•	For decisioning Vraylar for depression, 2 preferred antipsychotics must be used prior. The preferred options with the specific diagnosis are aripiprazole and quetiapine ER. 
+•	For ==decisioning Vraylar for depression, 2 preferred antipsychotics must be used prior==. The preferred options with the specific diagnosis are aripiprazole and quetiapine ER. 
 
 ## FDA Approved Alternatives
 
-***FDA Approved***: Aripiprazole, Quetiapine ER
+***FDA Approved Alternatives***: Aripiprazole, Quetiapine ER
 
 ***Off-label***: Quetiapine IR, Geodon, Latuda, Olanzapine, Risperidone, Ziprasidone
 
