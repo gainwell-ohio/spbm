@@ -11,6 +11,15 @@ search:
 
 [SPBM Pharmacy Reference Guide](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/User%20Guides/SPBM%20Pharmacy%20Reference%20Guide.pdf){:target="_blank" rel="noopener"}
 
+## Verbal Appeals Request
+
+[Weekly Email 9/02/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EbKyADESU_ZFq34v8LclCwoBT3LoDtroZEYJuNBbRJ7YUQ?e=eZmqEt){:target="_blank" rel="noopener"}
+
+9/22/23
+
+•	If we are to get an appeal request in a P2P or technical call situation, the rep(technician) can enter it into process manager, the appeals department does not take phone calls. Everyone should have process manager access to enter appeals or grievances
+
+
 ## Appeals Process
 [Appeals Processing Procedure- PENDING UPDATE 9/1/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Appeals%20Processing%20for%20pharmacists.docx?d=w237c662b5a1642ca94477766772d1551&csf=1&web=1&e=gLLGJg){:target="_blank" rel="noopener"}
 
