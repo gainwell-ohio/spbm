@@ -1,4 +1,4 @@
-# Vaylar Guidance
+# Vraylar Guidance
 
 [Weekly Email 9/02/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EbKyADESU_ZFq34v8LclCwoBT3LoDtroZEYJuNBbRJ7YUQ?e=eZmqEt){:target="_blank" rel="noopener"}
 
