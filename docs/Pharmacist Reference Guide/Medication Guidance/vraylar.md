@@ -12,6 +12,4 @@
 
 ***Off-label***: Quetiapine IR, Geodon, Latuda, Olanzapine, Risperidone, Ziprasidone
 
-### Possible denial language:
 
-Coverage is provided when the member has a history of at least 30 days of therapy with two preferred (medication covered by the Plan) medications, which include but are not limited to: Aripiprazole or Quetiapine ER.
