@@ -2,7 +2,7 @@
 
 [OH Edit Settings](https://mygainwell.sharepoint.com/:x:/t/OHSPBM/Ed_QhtgJNkVKg7Jr32scXgkB-A4jTB0kjTVSrQi8I6lLZg?e=VedSxd){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
-[OH Edit Settings XL](https://mygainwell.sharepoint.com.mcas.ms/:x:/r/teams/OHClinicalandTechnicalHelpdesk/_layouts/15/Doc.aspx?sourcedoc=%7B73233D7D-10CC-4284-AC5A-4CA79AE9881F%7D&file=OH%20Edit%20Settings.xlsx&action=default&mobileredirect=true){ .md-button .md-button--primary target="_blank" rel="noopener"}
+[OH Edit Settings XL](https://mygainwell.sharepoint.com/:x:/t/OHClinicalandTechnicalHelpdesk/EX09I3PMEIRCrFpMp5rpiB8Ba6MCMBwkU6lLxo6KyrDVDw?e=kW0iyw){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 ## How to Use OH Edit Settings
 
