@@ -2,7 +2,7 @@
 
 9/5/23
 
--[Weekly Email 9/02/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EbKyADESU_ZFq34v8LclCwoBT3LoDtroZEYJuNBbRJ7YUQ?e=eZmqEt){:target="_blank" rel="noopener"}
+- [Weekly Email 9/02/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EbKyADESU_ZFq34v8LclCwoBT3LoDtroZEYJuNBbRJ7YUQ?e=eZmqEt){:target="_blank" rel="noopener"}
 - [Vraylar for MDD Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/vraylar/?h=vray)
 - [Zomacton Guidelines](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Drug%20Shortage/GH/?h=gh)
 - [Verbal Appeals Requests](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/Appeals/?h=appeal)
