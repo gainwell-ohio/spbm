@@ -4,6 +4,8 @@
 
 [CafeX/PAWS Link](https://galileo.gainwelltechnologies.com/a/45edee0a-be27-48e9-b747-d8289c6f054d/t/6f78ec36-8f4e-4ac3-8919-d9d493bed5f4/uf/c019640b-15ff-4ece-a590-557a1e9f6b0d){:target="_blank" rel="noopener"}
 
+[WM Reference Guides](https://special-spoon-f542dccd.pages.github.io/Work%20Manager%20Resources/reference_guides/)
+
 ## Training Videos
 
 [WM & PAWS Training Workshop Video 7/17/23](https://mygainwell.sharepoint.com/:v:/r/teams/aWFMReferenceCenter/Shared%20Documents/General/OH-SPBM%20Training/WM%20Recorded%20Training%20Sessions/WM%20Training%20Workshop-RPh.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=2OQuY2){:target="_blank" rel="noopener"} 
