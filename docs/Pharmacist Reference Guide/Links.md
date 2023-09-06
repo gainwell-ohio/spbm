@@ -56,7 +56,7 @@ search:
 | DX:|
 | Approval Duration:|
 | Qty/Day Supply:|
-| ***Approval Rationale: include reason for approval; please include claims and what was reviewed; Policy/Rule|
+| ***Approval Rationale: include reason for approval; please include trial claims (including dates) and what was reviewed; Policy/Rule (i.e. Medical Necessity, UPDL)|
 | ***Approved by Person, Title: Full Name and Title|
 
 ### ***Denied PA***                  
@@ -64,7 +64,7 @@ search:
 |:-------------------------------|
 | Drug and strength:| 
 | DX:|
-| ***Denial Rationale: include reason for denial; please include claims and what was reviewed; Policy/Rule|
+| ***Denial Rationale: include reason for denial; please include what was missing and what was reviewed; include trial claims (including dates); Policy/rule (i.e. Medical Necessity, UPDL)|
 | ***Denied by Person, Title: Full Name and Title|
 
 ### ***EO Approved:***
