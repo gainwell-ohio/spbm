@@ -74,6 +74,8 @@ search:
 | ***Additional Notes: |
 | Approving Person, Title: |
 
+[**Buprenorphine Template and Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Buprenorphine%20Criteria/?h=buprenorphine)
+
 ### Vue360Rx Password Reset and Account Locked
 
 [Vue360Rx Password Reset and Account Locked](https://gpr.slhcare.com:8889/){:target="_blank" rel="noopener"}
