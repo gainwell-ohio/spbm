@@ -8,7 +8,7 @@
 
 [WM & PAWS Training Workshop Video 7/17/23](https://mygainwell.sharepoint.com/:v:/r/teams/aWFMReferenceCenter/Shared%20Documents/General/OH-SPBM%20Training/WM%20Recorded%20Training%20Sessions/WM%20Training%20Workshop-RPh.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=2OQuY2){:target="_blank" rel="noopener"} 
 
-[Verint Work Manager- Powerpoint](https://mygainwell.sharepoint.com.mcas.ms/:p:/r/teams/aWFMReferenceCenter/_layouts/15/Doc.aspx?sourcedoc=%7B6804B0BF-6246-4C72-BEBB-4121F8EF9AC3%7D&file=OH-SPBM%20PA%20BOHB%20Agent%20Push%20the%20Button.pptx&action=edit&mobileredirect=true){:target="_blank" rel="noopener"}
+[Verint Work Manager- Powerpoint](https://mygainwell-my.sharepoint.com.mcas.ms/personal/kaelyn_dobbins_gainwelltechnologies_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkaelyn%5Fdobbins%5Fgainwelltechnologies%5Fcom%2FDocuments%2FDesktop%2FWorkspace%2FEvergreen%2FOhio%20SPBM%2FWM%20Agent%20Training%20PPT%2Epdf&parent=%2Fpersonal%2Fkaelyn%5Fdobbins%5Fgainwelltechnologies%5Fcom%2FDocuments%2FDesktop%2FWorkspace%2FEvergreen%2FOhio%20SPBM&ga=1){:target="_blank" rel="noopener"}
 
 
 [Operations Manager-Workspaces for Pharmacy PA Training Video](https://mygainwell.sharepoint.com.mcas.ms/teams/aWFMReferenceCenter/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FaWFMReferenceCenter%2FShared%20Documents%2FOperations%20Manager%2DWorkspaces%20for%20Pharmacy%20PA%20training%2Emp4&parent=%2Fteams%2FaWFMReferenceCenter%2FShared%20Documents){:target="_blank" rel="noopener"}
