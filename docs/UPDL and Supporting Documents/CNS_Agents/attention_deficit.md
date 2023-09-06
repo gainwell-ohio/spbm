@@ -46,7 +46,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Quillichew ER <sup>AR</sup>                                                            |                                                               |          |             |
 | Quillivant XR <sup>AR</sup>                                                            |                                                               |          |             |
 | Ritalin LA <sup>AR QL</sup>                                                            |                                                               |          |             |
-| Vyvanse Cap <sup>QL</sup>                                                              | Lisdexamfetamine Dimesylate Cap (all strengths)               |    34    |     34      |
+| Vyvanse Cap <sup>QL, [BVG Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/vyvanse/?h=vyvan)</sup>                                                              | Lisdexamfetamine Dimesylate Cap (all strengths)               |    34    |     34      |
 
 ### Non-Preferred
 
