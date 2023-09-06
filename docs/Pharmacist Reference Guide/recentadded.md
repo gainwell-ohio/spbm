@@ -1,5 +1,9 @@
 # Recently Added/Updated
 
+9/6/23
+
+- [Vyvanse Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/vyvanse/?h=vyvan)
+
 9/5/23
 
 - [Weekly Email 9/02/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EbKyADESU_ZFq34v8LclCwoBT3LoDtroZEYJuNBbRJ7YUQ?e=eZmqEt){:target="_blank" rel="noopener"}
