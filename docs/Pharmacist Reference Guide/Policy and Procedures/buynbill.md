@@ -1,4 +1,4 @@
-# Buy and Bill
+# Pharmacy 70
 
 ## Procedure as of 8/30/23
 
@@ -42,7 +42,7 @@ If available, please provide the pharmacy name and NPI that is dispensing the me
 
 Weekly Email 7/29/23
 
-• Please make sure that when we are determining coverage on where a medication is administered, the only thing we need to double check is if the pharmacy is a 70 pharmacy, in the office/j-codes/infusion centers can be approved by us as long as medication is dispensed by a 70 pharmacy.
+• Please make sure that when we are determining coverage on where a medication is administered, the only thing we need to double check is if the pharmacy is a 70 pharmacy, in the office/j-codes/infusion centers can be approved by us as long as medication is dispensed by a 70 pharmacy. (includes Buy and bill)
  
 
 ## [Weekly email 7/2/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EfRM6vvZbnRPlsW3CeTzA7QB4CMWZIGZP3G86X3lWWEYrw?e=DKe4Mx){:target="_blank" rel="noopener"}
