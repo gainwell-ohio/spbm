@@ -43,7 +43,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Nefazodone <sup>QL</sup>                              | Nefazodone HCI Tab 200 MG                                     |            306            |            102            |
 | Paroxetine IR Tab, Sol <sup>QL</sup>                  | Paroxetine HCI Tab (all strengths excl 30 MG)                 |            102            |            102            |
 | Paroxetine IR Tab, Sol <sup>QL</sup>                  | Paroxetine HCI Tab 30 MG                                      |            204            |            102            |
-| Sertraline                                            |                                                               |                           |                           |
+| Sertraline TABLETS                                    |                                                               |                           |                           |
 | Tranylcypromine                                       |                                                               |                           |                           |
 | Trazodone 50mg, 100mg, 150mg <sup>QL</sup>            | Trazodone HCI Tab (all strengths excl 300 MG)                 |            306            |            102            |
 | Venlafaxine ER Cap <sup>QL</sup>                      | Venlafaxine HCI SR Cap 37.5 MG                                |            102            |            102            |
@@ -72,7 +72,8 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Paroxetine Cap                                     |                                                               |                           |                           |
 | Paroxetine ER Tab                                  |                                                               |                           |                           |
 | Pexeva                                             |                                                               |                           |                           |
-| Phenelzine                                         |                                                               |                           |                           |
+| Phenelzine
+| Sertraline CAPSULES                                |                                                               |Determined pursuant to PA  |Determined pursuant to PA
 | Trazodone 300 MG <sup>QL</sup>                     | Trazodone HCI Tab 300 MG                                      |            102            |            102            |
 | Trintellix                                         |                                                               |                           |                           |
 | Venlafaxine ER Tab                                 |                                                               |                           |                           |
