@@ -54,8 +54,7 @@ search:
 - Eloctate  
 - Emflaza  
 - Emgality  
-- Enbrel  
-- Entresto  
+- Enbrel    
 - Epidiolex  
 - Epogen  
 - Epoprostenol  
