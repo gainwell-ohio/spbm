@@ -5,8 +5,7 @@ search:
 
 # Compounds
 
-[Desk Level Procedure Compounds without preferred language](Desk Level Procedure Compounds without preferred language.docx){target="_blank" rel="noopener"}
-
+[Desk Level Procedure Compounds without preferred language](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Desk%20Level%20Procedure%20Compounds%20without%20preferred%20language/?h=desk+level)
 ## Additional Edits Overrides
 
 [Weekly Email 8/5/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/weeklyemail8523.docx?d=w34551b8b7f674147b603832cab7090ca&csf=1&web=1&e=aTi6MU){:target="_blank" rel="noopener"}
