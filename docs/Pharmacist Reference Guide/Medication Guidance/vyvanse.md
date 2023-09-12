@@ -1,4 +1,19 @@
-# Vyvanse Guidance 9/6/23
+# Vyvanse Guidance 
+
+## 9/12/23
+
+[10:12 AM] Collingwood, Justin
+
+Important!
+
+Everyone If you get a generic Vyvanse capsule request due to shortage, ##approve both the price rejection it is rejecting for and the PA for 90 days to cover shortage##. The price is the only reason it is not payable at this time. Clinical is working with FDB to get the pricing ASAP, but it takes time. When approving please put in approval language only for this emergency time until the price is loaded. -
+
+This medication is brand preferred over generic, ==this approval is only for shortage at this time==. Please note, until pricing is loaded into the system, the dispensing pharmacy may have to contact Myers and Stauffer at 800-591-1183 for claims to process.
+
+
+
+
+## 9/6/23
 
 [FW_ Gainwell Vyvanse.msg](FW_ Gainwell Vyvanse.msg){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
