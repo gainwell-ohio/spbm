@@ -1,5 +1,7 @@
 # Weekly Newsletter
 
+9/12/23 [Weekly Email 9/09/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/Ecan3EtfXIRNn5VbWoa99ooBrUsjeQKUC3AMdwRiWsTOLA?e=11Yzwc)
+
 9/5/23 [Weekly Email 9/02/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EbKyADESU_ZFq34v8LclCwoBT3LoDtroZEYJuNBbRJ7YUQ?e=eZmqEt){:target="_blank" rel="noopener"}
 
 8/26/23 [Weekly Email 8/26/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EYnhUkLLPZVNt_4Yjl3mhZcBWApd5ZTU7TyrmNfHNgsyIQ?e=k57DKt){:target="_blank" rel="noopener"}
