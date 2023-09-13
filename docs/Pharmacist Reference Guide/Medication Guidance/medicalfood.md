@@ -58,5 +58,7 @@ I am currently working on trying to get this more defined for ease of use and cl
 
 •	Phexy vitamins have been a medication that has been identified as a medical food that can be found to be approved under medical necessity
 
+## Requests Needing to go to PNM
 
+All FFS member requests for DME need to go to PNM.
 
