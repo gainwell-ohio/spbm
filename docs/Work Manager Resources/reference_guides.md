@@ -41,7 +41,8 @@
 
 5) Review Vue360RX and WM to ensure that PAs are being transferred from "pending" queue in Vue to WM
    
-   - The number of PAs in the pending queue in Vue360RX should mimic the number of PAs in WM. If there are more PAs in the "pending" queue of Vue360RX 
+   - The number of PAs in the pending queue in Vue360RX should mimic the number of PAs in WM. If there are more PAs in the "pending" queue of Vue360RX
+   - If this happens, submit MITS ticket and CC Amanda Castle, Cassandra Roach, Justin Collingwood, Brian Morre and the all managers / supe distro as well as the Sr Tech + supes distro lists 
  
 ## EVERYONE daily expectation
 
