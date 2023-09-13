@@ -1,3 +1,5 @@
+# FFS
+
 https://mygainwell-my.sharepoint.com.mcas.ms/:p:/g/personal/brittaney\_thompson\_gainwelltechnologies\_com/ERr2UzISez9HkHderUnQiHgBxN0uQurZeEy8AJFSVQcqxg?e=FOgR5o
 
 Slide 5:
@@ -10,6 +12,8 @@ Guide v1.0\_07.2023.pdf
 
 Managed care located here: [SPBM Pharmacy Reference Guide.pdf
 (ohio.gov)](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/User%20Guides/SPBM%20Pharmacy%20Reference%20Guide.pdf)
+
+Also please note, all DME requests for FFS members need to be sent to PNM.
 
 Slide 6:
 
