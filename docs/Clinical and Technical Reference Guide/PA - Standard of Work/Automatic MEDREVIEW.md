@@ -62,7 +62,8 @@ search:
 - Evrysdi  
 - Exondys 51  
 - Fasenra  
-- Feiba  
+- Feiba
+- Finasteride ONLY if used for comestic DX such as: Hair loss, Melasma, Wrinkles. If not used for comesmetic DX, ok to review as normal   
 - Fulphila  
 - Gattex  
 - Genotropin  
@@ -122,7 +123,8 @@ search:
 - Praluent
 - Priftin  
 - Profilnine  
-- Procrit  
+- Procrit
+- Propecia ONLY if used for comestic DX such as: Hair loss, Melasma, Wrinkles. If not used for comesmetic DX, ok to review as normal     
 - Qbrexza  
 - Qulipta  
 - Recombinate  
