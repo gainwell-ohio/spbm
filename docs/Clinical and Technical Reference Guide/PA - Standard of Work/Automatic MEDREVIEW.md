@@ -132,11 +132,11 @@ search:
 - Procrit
 - Propecia
   
-  - ONLY for the following circumstances
+    - ONLY for the following circumstances
       - 1MG dose and if used for cosmetic DX such as: Hair loss, Melasma, Wrinkles.
       - Member gender on PA is female
       - If the above circumstances do not apply, ok to review as normal
-        
+         
 - Qbrexza  
 - Qulipta  
 - Recombinate  
