@@ -1,3 +1,4 @@
+
 <div class="WordSection1">
 
 **<span style="color:black">From:<span style="mso-tab-count:1">                                            
@@ -19,20 +20,12 @@ of 4.7.23</span>
 </span></span>**<span style="color:black">Gainwell Network file
 20230407.xlsx</span>
 
- 
-
 Team,
-
- 
 
 Attached is the updated list of SPBM contracted pharmacies as on
 04/07/23.  Please forward to anyone not listed.
 
- 
-
 Thanks,
-
- 
 
 **<span lang="FR" style="font-family:&quot;Arial&quot;,sans-serif;
 mso-ansi-language:FR">Janice
@@ -70,8 +63,6 @@ II North Tower, Suite 125</span>
 <span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Dublin,
 OH 43017-7565</span>
 
- 
-
 <div>
 
 <div style="border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0in 0in">
@@ -88,36 +79,22 @@ OH 43017-7565</span>
 
 </div>
 
- 
-
 Good afternoon Janice,
-
- 
 
 As promised, attached is list of SPBM contracted pharmacies as of
 4.7.23.
-
- 
 
 Column B ‘ProviderType’ lists multiple pharmacy types that include
 Retail, LTC, Specialty, Mail Order and multiple other types. Please
 note: A pharmacy can exist on this file more than once if they’ve
 reported more than one pharmacy type. Currently I have it filtered to
-show retail only.
-
- 
+show retail only. 
 
 Please feel free to pass along.
-
- 
 
 Have a great weekend\!
 
 Stephanie
-
- 
-
- 
 
 **<span style="color:#2B3A44">Stephanie
 Zimmer</span>**<span style="color:#2B3A44"></span>
@@ -127,8 +104,6 @@ Zimmer</span>**<span style="color:#2B3A44"></span>
 <span style="color:black">Ohio SPBM</span>
 
 <span style="color:black"></span>
-
- 
 
 **Gainwell Technologies**
 
@@ -145,12 +120,8 @@ Zimmer</span>**<span style="color:#2B3A44"></span>
 <span style="font-size:9.0pt;
 font-family:&quot;Segoe UI&quot;,sans-serif;color:#2B3A44"></span>
 
- 
-
 <span class="image"></span><span style="font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:#2B3A44"></span>
 
  <span style="font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:#2B3A44"></span>
-
- 
 
 </div>
