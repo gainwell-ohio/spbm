@@ -63,7 +63,13 @@ search:
 - Exondys 51  
 - Fasenra  
 - Feiba
-- Finasteride ONLY 1MG dose and ONLY if used for cosmetic DX such as: Hair loss, Melasma, Wrinkles. If not used for comesmetic DX, ok to review as normal   
+- Finasteride
+  
+    - ONLY for the following circumstances
+      - 1MG dose and if used for cosmetic DX such as: Hair loss, Melasma, Wrinkles.
+      - Member gender on PA is female
+      - If the above circumstances do not apply, ok to review as normal
+        
 - Fulphila  
 - Gattex  
 - Genotropin  
@@ -124,7 +130,13 @@ search:
 - Priftin  
 - Profilnine  
 - Procrit
-- Propecia ONLY 1MG dose and ONLY if used for cosmetic DX such as: Hair loss, Melasma, Wrinkles. If not used for comesmetic DX, ok to review as normal     
+- Propecia
+  
+  - ONLY for the following circumstances
+      - 1MG dose and if used for cosmetic DX such as: Hair loss, Melasma, Wrinkles.
+      - Member gender on PA is female
+      - If the above circumstances do not apply, ok to review as normal
+        
 - Qbrexza  
 - Qulipta  
 - Recombinate  
