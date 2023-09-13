@@ -21,3 +21,26 @@
 [Call Center](https://mygainwell.sharepoint.com/:p:/t/aWFMOhioSPBM/Efva-S6pZ9FIkN0PCCBN3UoBlCfHU-_UupHCZEFBio5iiQ?e=qcAoMX){:target="_blank" rel="noopener"}
 
 [Back Office](https://mygainwell.sharepoint.com/:p:/t/aWFMOhioSPBM/EXWDRHbB-ARBsKRBCOEKqqgBSnl80eDKU2JZrCg_AvUIHw?e=S1KyTu){:target="_blank" rel="noopener"}
+
+
+## Watcher Responsibilities
+
+1) Review WM queue, ensure only status are pending, med review and in process
+   - Address all "none" cases by direct outreach to tech, ask to book out and give coaching on correct way to open case
+   - For Techs with repeat none tasks, get with your supervisor to email their supervisor for coaching
+   - For RPh outreach, post in "The Watch chat" and an RPh watcher will outeach
+   - Address all cases by direct outreach to tech for cases that show in "approved", "denied", "closed", "cancel", "not required". 
+    - This either means that someone did not fully book out the case or they completed work in Vue360
+    - **Techs should not be closing or denying cases so make sure the supervisor is outreached  if this happens**
+
+3) Review the allocation screen
+   - address any tech that has work allocated to them  but they are not here by posting the the "Supes and Sr tech chat" and tagging the Tech supervisor and their Sr tech
+   - **NOTE**- schedules get loaded 15 min before shift so make sure they are not inactive because their shift has not started
+
+4) Review Vue360RX and WM to ensure that PAs are being transferred from "pending" queue in Vue to WM
+   - The number of PAs in the pending queue in Vue360RX should mimic the number of PAs in WM. If there are more PAs in the "pending" queue of Vue360RX 
+ 
+## EVERYONE daily expectation
+1) Supervisors and if they allocate the Watcher duties to their Sr Techs, need to be updating schedules for their teams in WM for Techs who have planned / unplanned absences
+2) PTO can be updated at the beginning of each week for that week (Monday)
+    PRO TIP- set yourself a reminder on your calendar every Monday and add approved PTO to that reminder as you approve it for that particular week
