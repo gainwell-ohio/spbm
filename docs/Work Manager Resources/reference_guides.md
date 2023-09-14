@@ -34,15 +34,16 @@
     - This either means that someone did not fully book out the case or they completed work in Vue360
     - **Techs should not be closing or denying cases so make sure the supervisor is outreached  if this happens**
 
-3) Review the allocation screen
+32) Review the allocation screen
    
-   - address any tech that has work allocated to them  but they are not here by posting the the "Supes and Sr tech chat" and tagging the Tech supervisor and their Sr tech
-   - **NOTE**- schedules get loaded 15 min before shift so make sure they are not inactive because their shift has not started
+    - address any tech that has work allocated to them  but they are not here by posting the the "Supes and Sr tech chat" and tagging the Tech supervisor and their Sr tech
+    - **NOTE**- schedules get loaded 15 min before shift so make sure they are not inactive because their shift has not started
 
-5) Review Vue360RX and WM to ensure that PAs are being transferred from "pending" queue in Vue to WM
-   
-   - The number of PAs in the pending queue in Vue360RX should mimic the number of PAs in WM. If there are more PAs in the "pending" queue of Vue360RX
-   - If this happens, submit MITS ticket and CC Amanda Castle, Cassandra Roach, Justin Collingwood, Brian Morre and the all managers / supe distro as well as the Sr Tech + supes distro lists 
+3) Review Vue360RX and WM to ensure that PAs are being transferred from "pending" queue in Vue to WM
+
+   - Make sure the extract comes from Vue360RX to WM every 10 minutes (shows up in WM roughly every 15-20 minutes)
+   - If an extract does not come through, the Vue360RX “pending” queue and the WM “pending” queue should be compared and if there is a discrepancy, should be escalated to supervisor / manager.
+     
  
 ## EVERYONE daily expectation
 
