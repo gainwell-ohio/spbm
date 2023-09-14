@@ -5,7 +5,7 @@ search:
 
 # Compounds
 
-[Desk Level Procedure Compounds without preferred language]([https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Desk%20Level%20Procedure%20Compounds%20without%20preferred%20language/?h=desk+level](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/Efe-kWvWyoRNkwzBVz_179UBsV2CQkidQ3A0c9yW-ESoLQ?e=RxUZv7)){:target="_blank" rel="noopener"}
+[Desk Level Procedure Compounds without preferred language](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/Efe-kWvWyoRNkwzBVz_179UBsV2CQkidQ3A0c9yW-ESoLQ?e=RxUZv7){:target="_blank" rel="noopener"}
 
 ## Additional Edits Overrides
 
