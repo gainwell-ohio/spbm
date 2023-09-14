@@ -124,7 +124,7 @@ search:
 - Priftin  
 - Profilnine  
 - Procrit
-- Propecia 1MG (5MG is PREF and Does not Req a PA)     
+- Propecia 1MG (5MG is PREF and Does NOT Req a PA)     
 - Qbrexza  
 - Qulipta  
 - Recombinate  
