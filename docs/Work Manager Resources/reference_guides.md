@@ -36,12 +36,11 @@
 
 
 2) Review the allocation screen
-
    - address any tech that has work allocated to them but they are not here by posting in the "Supes and Sr tech chat" and tagging the Tech supervisor and their Sr techs
    - **NOTE** schedules get loaded 15 min before shift so make sure they are not inactive because their shift has not started 
 
 
-4) Review Vue360RX and WM to ensure that PAs are being transferred from "pending" queue in Vue to WM
+3) Review Vue360RX and WM to ensure that PAs are being transferred from "pending" queue in Vue to WM
 
    - Make sure the extract comes from Vue360RX to WM every 10 minutes (shows up in WM roughly every 15-20 minutes)
    - If an extract does not come through, the Vue360RX “pending” queue and the WM “pending” queue should be compared and if there is a discrepancy, should be escalated to supervisor / manager.
