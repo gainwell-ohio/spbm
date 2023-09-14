@@ -37,7 +37,7 @@
 
 2) Review the allocation screen
 
-   -address any tech that has work allocated to them but they are not here by posting in the "Supes and Sr tech chat" and tagging the Tech supervisor and their Sr techs
+   - address any tech that has work allocated to them but they are not here by posting in the "Supes and Sr tech chat" and tagging the Tech supervisor and their Sr techs
    - **NOTE** schedules get loaded 15 min before shift so make sure they are not inactive because their shift has not started 
 
 
