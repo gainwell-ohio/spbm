@@ -23,7 +23,7 @@
 [Back Office](https://mygainwell.sharepoint.com/:p:/t/aWFMOhioSPBM/EXWDRHbB-ARBsKRBCOEKqqgBSnl80eDKU2JZrCg_AvUIHw?e=S1KyTu){:target="_blank" rel="noopener"}
 
 
-## Watcher Responsibilities
+# Watcher Responsibilities
 
 1) Review WM queue, ensure only status are pending, med review and in process
    
