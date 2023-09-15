@@ -7,6 +7,8 @@ search:
 
 ## Wegovy (semaglutide) 
 
+[Decision Pathaway Semaglutide (Ozempic, Rybelsus, Wegovy) 9/15/23](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Decision%20Pathways/Semaglutide/)
+
 -	Admin deny for weight loss (consider EPSDT for <21 yo)
 
 ## Saxenda (liraglutide)
@@ -46,6 +48,8 @@ The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List c
 
 ## Ozempic (semaglutide)
 
+[Decision Pathaway Semaglutide (Ozempic, Rybelsus, Wegovy) 9/15/23](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Decision%20Pathways/Semaglutide/)
+
   -	Weight loss diagnosis = Admin deny (consider EPSDT for <21 yo)
   -	All other dx not Type 2 DM = Admin deny (consider EPSDT for <21 yo)
   -	Requests for Type 2 DM – (consider EPSDT for <21 yo)
@@ -75,6 +79,9 @@ The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List c
 
 
 ## Rybelsus (semaglutide)
+
+[Decision Pathaway Semaglutide (Ozempic, Rybelsus, Wegovy) 9/15/23](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Decision%20Pathways/Semaglutide/)
+
 -	Weight loss diagnosis = Admin deny (consider EPSDT for <21 yo)
 -	All other dx not Type 2 DM = Admin deny (consider EPSDT for <21 yo)
 -	Requests for Type 2 DM – (consider EPSDT for <21 yo)
