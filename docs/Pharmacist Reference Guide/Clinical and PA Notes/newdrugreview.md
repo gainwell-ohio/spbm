@@ -20,7 +20,7 @@
 
 ## Elevidys (delandistrogene moxeparvovec-rokl) 7/11/23
 
-[***Carve Out Medication Process]([https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)
+[***Carve Out Medication Process](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=skys#carved_out_injectable_drugs_and_biological_products)
 
 [Elevidys (delandistrogene moxeparvovec-rokl).pdf](https://mygainwell.sharepoint.com.mcas.ms/teams/ClinicalLibrary/PublicClinicalDocuments/Forms/AllItems.aspx?id=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments%2FElevidys%20%28delandistrogene%20moxeparvovec%2Drokl%29%2Epdf&parent=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments){:target="_blank" rel="noopener"}
 
@@ -163,7 +163,7 @@ Related Imaging Abnormalities (ARIA) AND</li><li>Patient must not be prescribed 
 
 ## Hemgenix® (etranacogene dezaparvovec-drlb) 1/3/23
 
-[***Carve Out Medication Process]([https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)
+[***Carve Out Medication Process](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=skys#carved_out_injectable_drugs_and_biological_products)
 
 [Hemgenix® (etranacogene dezaparvovec-drlb) pdf](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/EeakbsctyOpIjgZqJWWVaTMBZIPQmipBFioOeFGF1lxyvw?e=miP1Pg){:target="_blank" rel="noopener"}
 
@@ -181,7 +181,7 @@ Related Imaging Abnormalities (ARIA) AND</li><li>Patient must not be prescribed 
 
 ## Skysona (elivaldogene autotemcel) 10/18/22
 
-[***Carve Out Medication Process]([https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)
+[***Carve Out Medication Process](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=skys#carved_out_injectable_drugs_and_biological_products)
 
 [Skysona (elivaldogene autotemcel) pdf](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/EdaApYYb-xpNizwiriI6AtsBltzVMGwM33fSzLpKm_uCOw?e=BiPp0Y){:target="_blank" rel="noopener"}
 
@@ -198,7 +198,7 @@ Related Imaging Abnormalities (ARIA) AND</li><li>Patient must not be prescribed 
 
 ## Zynteglo (betibeglogene autotemcel) 9/9/22
 
-[***Carve Out Medication Process]([https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)
+[***Carve Out Medication Process](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=skys#carved_out_injectable_drugs_and_biological_products)
 
 [Zynteglo (betibeglogene autotemcel) pdf](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/EddvDWZeo0tIo8SAlJmQX88BXk8sqo3koRdl37HbCm4mmA?e=77hqEe){:target="_blank" rel="noopener"}
 
