@@ -111,6 +111,8 @@ Non-Preffered Criteria
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
  
+[**Decision Pathaway Semaglutide (Ozempic, Rybelsus, Wegovy) 9/15/23](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Decision%20Pathways/Semaglutide/)
+ 
 [**GLP-1 Directive for Mounjaro, Ozempic, Wegovy, Saxenda, Rybelsus, Bydureon Bcise, Adlyxin](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Semaglutide-Tirzepatide/) 
 
 ### Oral and Injectable Combination Drugs
