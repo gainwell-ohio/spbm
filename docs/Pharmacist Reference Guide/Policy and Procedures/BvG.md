@@ -20,6 +20,8 @@ Reason for fax: Brand Preferred over Generic
 
 The following medication [xxxx] has been requested for your patient. The plan covers the brand name medication [xxxx] without a prior authorization. Please have the pharmacy process the brand name medication using a DAW 9 when processing the prescription. If the non-preferred medication (the medication that is NOT covered by the plan) is required, please re-submit the prior authorization request for review with a statement that the non-preferred medication is being requested and include the clinical reasons that the preferred medication cannot be used.
 
+**Rphs to post in the "ADDITIONAL INFO. NEEDED BY RPH" chat group for a technician to send out a BVG letter.
+
 _________________________________________________________
 
 [Brand vs Generic email](Brand%20over%20Generic.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
