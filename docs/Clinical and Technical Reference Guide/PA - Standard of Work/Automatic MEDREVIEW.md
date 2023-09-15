@@ -74,7 +74,6 @@ search:
 - Hetlioz  
 - Humate-P  
 - Humatrope  
-- Humira  
 - Idelvion  
 - Ilumya  
 - Increlex  
