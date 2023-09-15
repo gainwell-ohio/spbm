@@ -5,6 +5,8 @@ search:
 
 # Immunomodulators for Systemic Inflammatory Disease DLP
 
+[9/15/23- Must use Decision Pathway for Humira](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Decision%20Pathways/Humira/)
+
 4/10/23: 
 
 [Procedure for Immunomodulators for Systemic Inflammatory Disease](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Immunomodulators%20for%20Systemic%20Inflammatory%20Disease%20DLP_.docx?d=w1bd61a780e50445da38867db308cebf0&csf=1&web=1&e=ycj7WU)
