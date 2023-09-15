@@ -20,17 +20,20 @@
 
 ## Elevidys (delandistrogene moxeparvovec-rokl) 7/11/23
 
+[***Carve Out Medication Process]([https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)
+
 [Elevidys (delandistrogene moxeparvovec-rokl).pdf](https://mygainwell.sharepoint.com.mcas.ms/teams/ClinicalLibrary/PublicClinicalDocuments/Forms/AllItems.aspx?id=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments%2FElevidys%20%28delandistrogene%20moxeparvovec%2Drokl%29%2Epdf&parent=%2Fteams%2FClinicalLibrary%2FPublicClinicalDocuments){:target="_blank" rel="noopener"}
 
 | **WAC Price per Unit and Cost per Year/Treatment** |
 | --------|
 | $3.2 million for one-time treatment |
 
-| **Suggested Prior Authorization/Utilization Management Criteria** |
+
+| ~~**Suggested Prior Authorization/Utilization Management Criteria**~~ |
 | --------|
-| ***Approval length***: one-time treatment |
-| ***Indication***: Treatment of ambulatory pediatric patients aged 4 through 5 years with Duchenne muscular dystrophy (DMD) with a confirmed mutation in the DMD gene.  |
-| ***Initial Therapy***: <li>Prescribed by or in consultation with a neurologist or DMD specialist AND</li><li>Age either 4 or 5 years AND</li><li>Patient has male gender assigned at birth AND</li><li>Established clinical diagnosis of DMD and documented dystrophin gene mutation of DMD phenotype (documentation of a frameshift mutation contained between exons 18 and 58 (inclusive)) AND</li><li>Baseline anti-AAVrh74 antibody titers <1:400 AND</li><li>DNo evidence of any deletion in exon 8 and/or exon 9 in the DMD gene</li> |
+| ~~***Approval length***: one-time treatment~~ |
+| ~~***Indication***: Treatment of ambulatory pediatric patients aged 4 through 5 years with Duchenne muscular dystrophy (DMD) with a confirmed mutation in the DMD gene.~~  |
+| ~~***Initial Therapy***: <li>Prescribed by or in consultation with a neurologist or DMD specialist AND</li><li>Age either 4 or 5 years AND</li><li>Patient has male gender assigned at birth AND</li><li>Established clinical diagnosis of DMD and documented dystrophin gene mutation of DMD phenotype (documentation of a frameshift mutation contained between exons 18 and 58 (inclusive)) AND</li><li>Baseline anti-AAVrh74 antibody titers <1:400 AND</li><li>DNo evidence of any deletion in exon 8 and/or exon 9 in the DMD gene</li>~~ |
 
 ## Vyjuvek (beremagene geperpavec-svdt) 6/27/23
 
@@ -160,21 +163,25 @@ Related Imaging Abnormalities (ARIA) AND</li><li>Patient must not be prescribed 
 
 ## Hemgenix® (etranacogene dezaparvovec-drlb) 1/3/23
 
+[***Carve Out Medication Process]([https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)
+
 [Hemgenix® (etranacogene dezaparvovec-drlb) pdf](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/EeakbsctyOpIjgZqJWWVaTMBZIPQmipBFioOeFGF1lxyvw?e=miP1Pg){:target="_blank" rel="noopener"}
 
 | **WAC Price per Unit and Cost per Year/Treatment** |
 | --------|
 | $3.5 million for a one-time infusion  |
 
-| **Suggested Prior Authorization/Utilization Management Criteria** |
+| ~~**Suggested Prior Authorization/Utilization Management Criteria**~~ |
 | --------|
-| ***Approval length***: 3 months, one infusion per lifetime  |
-| ***Indication***: Treatment of hemophilia B (congenital factor IX [FIX] deficiency) in adults with:<li>Current or history of life-threatening hemorrhage, OR</li> <li>Repeated, serious spontaneous bleeding episodes, OR </li><li>Current use of FIX prophylaxis therapy</li> |
-| ***Quantity limit***: 2 x 10 genome copies per kg of body weight |
-| ***Initial Therapy***: <li>Prescribed by, or in consultation with, a hematologist</li><li>Male gender assigned at birth and aged >18 years</li><li>Documented diagnosis of hemophilia B based on a factor assay to demonstrate deficiency of FIX AND<ul><li>Documentation of moderate disease (FIX level 1-5IU/dL, or 1%-5% of normal) OR</li><li>Documentation of severe disease (FIX level <1 IU/dL, or <1% of normal)</li></ul><li>Current use of FIX prophylaxis for > 2 months with greater than 150 previous exposure days of treatment with FIX protein OR<ul><li>Have current or historical life-threatening hemorrhage OR</li><li>Have repeated, serious spontaneous bleeding episodes</li></ul><li>Delivery of gene therapy with Hemgenix is done by or in consultation with a HTC</li> |
-| ***Hemgenix will NOT be covered when ANY the following are present:***: <li>History of FIX inhibitors or a positive inhibitor screen conducted within the past 12 months (confirmed as 0.6 BU/mL [Bethesda Unit] or greater by chromogenic Bethesda Assay or other immunologic test)</li><li>Documentation of current disease severity as demonstrated by current MMSE score, CDR-SB or ADAS-COG score</li><li>Previous gene therapy treatment</li><li>Active hepatitis B infection, hepatitis C infection, or uncontrolled HIV infection</li><li>History of hepatitis B or C exposure currently controlled by antiviral therapy</li><li>Evidence of advanced liver fibrosis (screening laboratory values [i.e., ALT, AST, bilirubin, ALP, creatinine] > 2 times upper limits of normal)</li> | 
+| ~~***Approval length***: 3 months, one infusion per lifetime~~  |
+| ~~***Indication***: Treatment of hemophilia B (congenital factor IX [FIX] deficiency) in adults with:<li>Current or history of life-threatening hemorrhage, OR</li> <li>Repeated, serious spontaneous bleeding episodes, OR </li><li>Current use of FIX prophylaxis therapy</li>~~ |
+| ~~***Quantity limit***: 2 x 10 genome copies per kg of body weight~~ |
+| ~~***Initial Therapy***: <li>Prescribed by, or in consultation with, a hematologist</li><li>Male gender assigned at birth and aged >18 years</li><li>Documented diagnosis of hemophilia B based on a factor assay to demonstrate deficiency of FIX AND<ul><li>Documentation of moderate disease (FIX level 1-5IU/dL, or 1%-5% of normal) OR</li><li>Documentation of severe disease (FIX level <1 IU/dL, or <1% of normal)</li></ul><li>Current use of FIX prophylaxis for > 2 months with greater than 150 previous exposure days of treatment with FIX protein OR<ul><li>Have current or historical life-threatening hemorrhage OR</li><li>Have repeated, serious spontaneous bleeding episodes</li></ul><li>Delivery of gene therapy with Hemgenix is done by or in consultation with a HTC</li>~~ |
+| ~~***Hemgenix will NOT be covered when ANY the following are present:***: <li>History of FIX inhibitors or a positive inhibitor screen conducted within the past 12 months (confirmed as 0.6 BU/mL [Bethesda Unit] or greater by chromogenic Bethesda Assay or other immunologic test)</li><li>Documentation of current disease severity as demonstrated by current MMSE score, CDR-SB or ADAS-COG score</li><li>Previous gene therapy treatment</li><li>Active hepatitis B infection, hepatitis C infection, or uncontrolled HIV infection</li><li>History of hepatitis B or C exposure currently controlled by antiviral therapy</li><li>Evidence of advanced liver fibrosis (screening laboratory values [i.e., ALT, AST, bilirubin, ALP, creatinine] > 2 times upper limits of normal)</li>~~ | 
 
 ## Skysona (elivaldogene autotemcel) 10/18/22
+
+[***Carve Out Medication Process]([https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)
 
 [Skysona (elivaldogene autotemcel) pdf](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/EdaApYYb-xpNizwiriI6AtsBltzVMGwM33fSzLpKm_uCOw?e=BiPp0Y){:target="_blank" rel="noopener"}
 
@@ -182,14 +189,16 @@ Related Imaging Abnormalities (ARIA) AND</li><li>Patient must not be prescribed 
 | --------|
 | $3,000,000 WAC price for one-time treatment (this does not include associated costs with administration) |
 
-| **Suggested Prior Authorization/Utilization Management Criteria** |
+| ~~**Suggested Prior Authorization/Utilization Management Criteria**~~ |
 | --------|
-| ***Approval length***: one-time authorization  |
-| ***Indication***: Slow the progression of neurologic dysfunction in boys 4-17 years of age with early, active cerebral adrenoleukodystrophy (CALD). Early, active CALD refers to asymptomatic or mildly symptomatic (neurologic function score, NFS ≤ 1) boys who have gadolinium enhancement on brain magnetic resonance imaging (MRI) and Loes scores of 0.5-9  |
-| ***Initial Therapy***: <li>PPrescribed by or in consultation with a neurologist, endocrinologist, hematologist and/or oncologist AND</li><li>Patient aged 4 -17 years AND</li><li>CALD diagnosis (E71.520, Childhood cerebral X-linked adrenoleukodystrophy; E71.521, Adolescent X-linked adrenoleukodystrophy) confirmed by genetic testing (ABCD1 gene mutation) AND<li>Candidate for HSCT, but does NOT have access to matched donor AND patient has not received prior HSCT for CALD AND</li><li> Evidence of early active CALD defined by **ALL** of the following: <ul><li>Elevated VLCFA values </li><li>Loes score between 0.5 and 9</li><li>GdE+ on MRI of demyelinating lesions </li><li>NFS≤1 </li></ul> |
-| ***Additional Considerations***: <li>Perform screening for hepatitis B virus (HBV), hepatitis C virus (HCV), human immunodeficiency virus 1 & 2 (HIV-1/HIV-2) and Human T-lymphotropic virus 1 & 2 (HTLV-1/HTLV-2) in accordance with clinical guidelines before collection of cells for manufacturing.</li> | 
+| ~~***Approval length***: one-time authorization~~  |
+| ~~***Indication***: Slow the progression of neurologic dysfunction in boys 4-17 years of age with early, active cerebral adrenoleukodystrophy (CALD). Early, active CALD refers to asymptomatic or mildly symptomatic (neurologic function score, NFS ≤ 1) boys who have gadolinium enhancement on brain magnetic resonance imaging (MRI) and Loes scores of 0.5-9~~  |
+| ~~***Initial Therapy***: <li>PPrescribed by or in consultation with a neurologist, endocrinologist, hematologist and/or oncologist AND</li><li>Patient aged 4 -17 years AND</li><li>CALD diagnosis (E71.520, Childhood cerebral X-linked adrenoleukodystrophy; E71.521, Adolescent X-linked adrenoleukodystrophy) confirmed by genetic testing (ABCD1 gene mutation) AND<li>Candidate for HSCT, but does NOT have access to matched donor AND patient has not received prior HSCT for CALD AND</li><li> Evidence of early active CALD defined by **ALL** of the following: <ul><li>Elevated VLCFA values </li><li>Loes score between 0.5 and 9</li><li>GdE+ on MRI of demyelinating lesions </li><li>NFS≤1 </li></ul>~~ |
+| ~~***Additional Considerations***: <li>Perform screening for hepatitis B virus (HBV), hepatitis C virus (HCV), human immunodeficiency virus 1 & 2 (HIV-1/HIV-2) and Human T-lymphotropic virus 1 & 2 (HTLV-1/HTLV-2) in accordance with clinical guidelines before collection of cells for manufacturing.</li>~~ | 
 
 ## Zynteglo (betibeglogene autotemcel) 9/9/22
+
+[***Carve Out Medication Process]([https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)
 
 [Zynteglo (betibeglogene autotemcel) pdf](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/EddvDWZeo0tIo8SAlJmQX88BXk8sqo3koRdl37HbCm4mmA?e=77hqEe){:target="_blank" rel="noopener"}
 
@@ -197,11 +206,11 @@ Related Imaging Abnormalities (ARIA) AND</li><li>Patient must not be prescribed 
 | --------|
 | $2.8 million for one-time treatment |
 
-| **Suggested Prior Authorization/Utilization Management Criteria** |
+| ~~**Suggested Prior Authorization/Utilization Management Criteria**~~ |
 | --------|
-| ***Approval length***: one-time authorization  |
-| ***Indication***: Treatment of beta-thalassemia in adult and pediatric patients who require regular red blood cell (RBC) transfusions |
-| ***Initial Therapy***: <li>Patient is aged ≥4 years AND</li><li>Prescribed by or in consultation with a hematologist, oncologist, or other specialist in the disease state AND</li><li>Diagnosis of TDT evidenced by severe non-β0/β0 or β0/β0 genotype AND</li><li>History of >100 mL/kg/year of packed RBCs OR >8 RBC transfusions per year within the past 2 years AND</li><li>Patient is a candidate for HSCT, but does NOT have access to matched donor AND</li><li>Patient has not had a previous HSCT procedure AND</li><li>Patient is clinically stable and does not have evidence of severe iron overload or serious comorbidities that would preclude myeloablative chemotherapy</li> |
+| ~~***Approval length***: one-time authorization~~  |
+| ~~***Indication***: Treatment of beta-thalassemia in adult and pediatric patients who require regular red blood cell (RBC) transfusions~~ |
+| ~~***Initial Therapy***: <li>Patient is aged ≥4 years AND</li><li>Prescribed by or in consultation with a hematologist, oncologist, or other specialist in the disease state AND</li><li>Diagnosis of TDT evidenced by severe non-β0/β0 or β0/β0 genotype AND</li><li>History of >100 mL/kg/year of packed RBCs OR >8 RBC transfusions per year within the past 2 years AND</li><li>Patient is a candidate for HSCT, but does NOT have access to matched donor AND</li><li>Patient has not had a previous HSCT procedure AND</li><li>Patient is clinically stable and does not have evidence of severe iron overload or serious comorbidities that would preclude myeloablative chemotherapy</li>~~ |
 
 ## Rebyota (fecal microbiota, live-jslm) 1/6/23
 
