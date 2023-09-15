@@ -608,7 +608,7 @@ search:
 | Xyntha Solofuse   |
 | Zynteglo**        |
 
-[**Carve Out Medication Process]([https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)
+[**Carve Out Medication Process](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=skys#carved_out_injectable_drugs_and_biological_products)
 
 ## Cardiac Drugs
 
@@ -1111,4 +1111,4 @@ search:
 
 [**New Drug Review and Recommended PA Criteria](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/)
 
-[***Carve Out Medication Process]([https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=carve)
+[***Carve Out Medication Process](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=skys#carved_out_injectable_drugs_and_biological_products)
