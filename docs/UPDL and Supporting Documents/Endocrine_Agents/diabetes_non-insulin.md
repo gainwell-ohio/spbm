@@ -13,6 +13,8 @@ This is a subcategory of Endocrine Agents.
 
 ## Decision Trees
 
+### All SEMAGLUTIDES (OZEMPIC, RYBELSUS, WEGOVY) MUST BE DECISIONED USING THE HUMIRA DECISION PATHWAY NOT TREE 
+
 - [Endocrine - Diabetes - Non-Insulin- Non-Preferred Agents- Adlyxin, Alogliptin, Bydureon Bcise, Glucophage, Metformin ER (Generic of Fortamet, Glumetza), Metformin Sol, Mounjaro, Onglyza, Ozempic, Rybelsus, Steglatro, Symlinpen](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMVIwMlBWT1M5STNTNkdPTFBUVE5OQUdESyQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 - [Endocrine - Diabetes - Non-Insulin- Non-Preferred Agents – Combination Agents- Alogliptin/Metformin, Glimepiride/Pioglitazone, Glyxambi, Invokamet XR, Jentadueto XR, Kombiglyze XR, Pioglitazone/Alogliptin, Qtern, Segluromet, Soliqua, Steglujan, Synjardy XR, Trijardy XR, Xigduo XR, Xultophy](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUIzRENINzhMNkpFQlQ1Rzc3NENUQVI5OCQlQCN0PWcu){ :target="_blank" rel="noopener"}
