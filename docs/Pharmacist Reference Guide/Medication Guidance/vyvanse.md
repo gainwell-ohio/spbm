@@ -5,7 +5,7 @@
 **NOTE to Techs**: if you receive a PA request for generic Vyvanse that are ^^rejecting with additional edits other than PA required, please send those to Medreview^^.
 
 
-[Weekly Email 9/17/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EQHIiVRMV0JItdE1xbrH084BeLCDc-v0jIcpNVe5-T1UUA?e=jonYgh)
+[Weekly Email 9/17/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EQHIiVRMV0JItdE1xbrH084BeLCDc-v0jIcpNVe5-T1UUA?e=jonYgh){:target="_blank" rel="noopener"}
 
 •	Everyone If you get a generic Vyvanse capsule request due to shortage, **approve both the price rejection it is rejecting for and the PA for 90 days to cover shortage**. The price is the only reason it is not payable at this time. Clinical is working with FDB to get the pricing ASAP, but it takes time. When approving please put in approval language only for this emergency time until the price is loaded.
 
