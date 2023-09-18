@@ -32,9 +32,9 @@ Anthony J. Beisler, MD, MBA, FACS, FABQAURP, CHCQM
 
 ![Alt text](si_3.png)
 
-## Possible First Line Agents by Diagnosis (Provided by Brian Johnson/Chris Nguyen)
+## Possible First Line Agents by Diagnosis 
 
-![Alt text](si_4.png)
+[Humira Decision Tree see section 1000](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Decision%20Pathways/Humira/)
 
 This is the link for [Journal of the American Academy of Dermatology - Guidelines of care for the management of atopic dermatitis](https://www.jaad.org/article/S0190-9622(14)01257-2/fulltext#secsectitle0010){ :target="_blank" rel="noopener"}
 – RCarpenter RPH
