@@ -1,5 +1,9 @@
 # Vyvanse Shortage Guidance 
 
+## 9/15/23
+
+**NOTE to Techs**: if you receive a PA request for generic Vyvanse that are ^^rejecting with additional edits other than PA required, please send those to Medreview^^.
+
 ## 9/12/23
 
 [10:12 AM] Collingwood, Justin
