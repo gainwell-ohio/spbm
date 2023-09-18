@@ -20,11 +20,11 @@ You can select the best options: that pertain to the call topic from the dropdow
  
 Once you click through that, a box appears where you can type in the notes about the call, there is a template that the technicians use for their calls, we can use it also for consistency:  
 
-Caller Name: </br>     
-Call back number:  </br>
-Member ID number:  </br> 
-Reason for call:   </br> 
-Resolution: </br>
+Caller Name:</br>
+Call back number:</br>
+Member ID number:</br> 
+Reason for call:</br> 
+Resolution:</br>
 
 ![image](Otile4.png)
 
