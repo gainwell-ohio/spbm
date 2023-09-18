@@ -32,7 +32,11 @@ Anthony J. Beisler, MD, MBA, FACS, FABQAURP, CHCQM
 
 ![Alt text](si_3.png)
 
-## Possible First Line Agents by Diagnosis (Provided by Brian Johnson/Chris Nguyen)
+## Possible First Line Agents by Diagnosis 
+
+[Humira Decision Pathaway- see section 1000 for first line agents](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Decision%20Pathways/Humira/)
+
+### Archived (Provided by Brian Johnson/Chris Nguyen)  ***DO NOT USE
 
 ![Alt text](si_4.png)
 
