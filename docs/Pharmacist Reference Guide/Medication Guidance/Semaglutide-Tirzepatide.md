@@ -5,7 +5,7 @@ search:
 
 # A1C update for GLP-1 
 
-[Weekly Email 9/17/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EQHIiVRMV0JItdE1xbrH084BeLCDc-v0jIcpNVe5-T1UUA?e=jonYgh)
+[Weekly Email 9/17/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EQHIiVRMV0JItdE1xbrH084BeLCDc-v0jIcpNVe5-T1UUA?e=jonYgh){:target="_blank" rel="noopener"}
 
 - Please note the recent decision trees and focus on A1c for processing GLP-1, this is what should be referenced when deciding GLP-1s, this will be the foundation for EPA and has had input directly from ODM.
 
