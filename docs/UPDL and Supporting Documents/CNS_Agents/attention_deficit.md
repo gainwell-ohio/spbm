@@ -107,7 +107,7 @@ Subsequent Authorization Criteria
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 **AR** - Adderall, Dexedrine, & Zenzedi IR: a PA is required for patients younger than 3 years </br>
-**AR** - Adderall XR, Atomoxetine, Cotempla XR-ODT, Daytrana, Dexedrine ER, Dexmethylphenidate, Methylphenidate IR & ER, Quillichew ER, and Xelstrym: a PA is required for patients younger than 6 years </br>
+**AR** - Adderall XR, Atomoxetine, Cotempla XR-ODT, Daytrana, Dexedrine ER, Dexmethylphenidate, Azstarys, Methylphenidate IR & ER, Quillichew ER, and Xelstrym: a PA is required for patients younger than 6 years </br>
 **AR** - Dextroamphetamine Solution & Dyanavel XR: a PA is required for patients 12 years and older </br>
 **AR** - Methylphenidate Solution/Suspension: a PA is required for patients younger than 6 years and 12 years and older
 
