@@ -12,7 +12,7 @@ search:
 
 [Medical Necessity Policy](https://mygainwell-my.sharepoint.com/:b:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Medical%20Necessity_OH%20SPBM_Policy_V3.0.pdf?csf=1&web=1&e=11vWKM){:target="_blank" rel="noopener"}
 
-[Denial Language](https://nam10.safelinks.protection.outlook.com/ap/w-59584e83/?url=https%3A%2F%2Fmygainwell-my.sharepoint.com%2F%3Aw%3A%2Fg%2Fpersonal%2Frachel_carpenter_gainwelltechnologies_com%2FEWN_d80YfxNHjWqwQ77mMfUBXXxRx5uYBPqGFs99K1fRwg%3Fe%3D4%253akILMzo%26fromShare%3Dtrue%26at%3D9&data=05%7C01%7Ckaelyn.dobbins%40gainwelltechnologies.com%7C8eafdcf398834bbd467608dbb2e336d7%7Cc663f89cef9b418fbd3d41e46c0ce068%7C0%7C0%7C638300461169231800%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=mOKVoxCEsWijRfqK9Pck3IJO99Pg0KhJ3yMHr2vnbvo%3D&reserved=0){:target="_blank" rel="noopener"}
+[Denial Language](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7Bcd777f63-7f18-4713-8d6a-b043bee631f5%7D&action=view&wdAccPdf=0&wdparaid=1BA206B6){:target="_blank" rel="noopener"}
 
 [Definition of Terms](https://mygainwell-my.sharepoint.com/:x:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Definition%20of%20Terms%209212022.xlsx?d=waae4289a6a67484b93664250c2c284f0&csf=1&web=1&e=8q6A3o){:target="_blank" rel="noopener"}
 
