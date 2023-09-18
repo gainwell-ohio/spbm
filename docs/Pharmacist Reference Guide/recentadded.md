@@ -2,7 +2,7 @@
 
 9/18/23
 
-- [Weekly Email 9/17/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EQHIiVRMV0JItdE1xbrH084BeLCDc-v0jIcpNVe5-T1UUA?e=jonYgh)
+- [Weekly Email 9/17/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EQHIiVRMV0JItdE1xbrH084BeLCDc-v0jIcpNVe5-T1UUA?e=jonYgh){:target="_blank" rel="noopener"}
 - [IUD criteria](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/iud/?h=iud)
 - [A1C update for GLP-1](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Semaglutide-Tirzepatide/?h=glp)
 - [Vyvance shortage procedure updates](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/vyvanse/?h=vyvan)
