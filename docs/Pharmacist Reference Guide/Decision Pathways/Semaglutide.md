@@ -278,7 +278,7 @@ Semaglutide (Ozempic, Rybelsus, Wegovy)
         <td rowspan="2">1234</td>
         <td rowspan="2">
             <ol>
-                <li>Confirm this is a reauthorization and an already approved PA with an authorization number (NOT and iPA) is on file.</li>
+                <li>Confirm this is a reauthorization and an already approved PA with an authorization number (NOT an iPA) is on file.</li>
                 <li>Confirm the provider submitted documentation of the patient's clinical response to treatment and ongoing safety monitoring.</li>
                     <ul>
                         <li>Efficacy monitoring: A1c since last approved PA.</li>
