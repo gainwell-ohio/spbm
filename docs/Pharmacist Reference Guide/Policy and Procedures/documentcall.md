@@ -10,13 +10,13 @@ Click on the "Add call"
 
 This is create a pop-up box: where you can select who you spoke with, for the most part it's provider for us.  
 
-![image](Otile1.png)
+![image](OTile1.png)
 
 Provider ID is the NPI number 
 
 You can select the best options: that pertain to the call topic from the dropdown menu: ex: 
  
-![image](Otile2.png)
+![image](otile3.jpeg)
  
 Once you click through that, a box appears where you can type in the notes about the call, there is a template that the technicians use for their calls, we can use it also for consistency:  
 
@@ -26,7 +26,7 @@ Member ID number:</br>
 Reason for call:</br> 
 Resolution:</br>
 
-![image](Otile4.png)
+![image](otile4.png)
 
 Use one of the following Call Templates to enter your notes:  
 
@@ -55,7 +55,7 @@ ALWAYS finish the note as RESOLVED/CLOSED.
 
 Once done, it will appear in your Operations window, with the call note number: 
 
-![image](Otile5.png)
+![image](otile5.png)
  
 
  
