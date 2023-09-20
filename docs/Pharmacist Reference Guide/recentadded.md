@@ -1,5 +1,10 @@
 # Recently Added/Updated
 
+9/20/23
+
+- [License Reimbursement](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Links/)
+- [Coverage for partners of a person with a STD](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/stdpartner/?h=std)
+
 9/18/23
 
 - [Weekly Email 9/17/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EQHIiVRMV0JItdE1xbrH084BeLCDc-v0jIcpNVe5-T1UUA?e=jonYgh){:target="_blank" rel="noopener"}
@@ -8,6 +13,7 @@
 - [Vyvanse shortage procedure updates](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/vyvanse/?h=vyvan)
 - [RSV for adults](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/rsvadults/?h=rsv)
 - [Synagis processing](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Synagis/Early%20Termination%202023/?h=syna)
+- [Documenting a call](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/documentcall/?h=documenting)
 
 9/12/23
 
