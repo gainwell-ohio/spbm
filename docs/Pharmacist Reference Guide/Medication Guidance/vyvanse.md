@@ -1,5 +1,30 @@
 # Vyvanse Shortage Guidance 
 
+## 9/20/23
+
+Please distribute to all teams and post to Evergreen ASAP! 
+
+Good afternoon!
+
+Currently there is a shortage in brand name Vyvanse 60mg and 70mg capsules as well as some Ritalin LA manufacturers (both are BvG). This is expected through late September at least. There is a new generic hitting shelves (for Vyvanse), but the brand name is still preferred. 
+
+In the instance that the call center gets a call from the pharmacy for a claim rejection for generic with a PA required rejection on the claim:
+
+1.	Ask the caller/pharmacy if they can run the claim for brand name with a DAW9 as brand name is the preferred product. Generic is NOT preferred.
+
+2.	If the caller indicates that they are running the generic due to shortage of brand name, please proceed with the following steps:</br>
+a.	Take the call like you would a verbal PA by creating a new PA in Vue360Rx from the rejected claim.</br>
+<li> i.	A PA form will NOT need to be filled out and uploaded.</li>
+<li>  ii.	Instead of the filling out the PA form, in the internal notes section, please state the following: “Request from [NAME/TITLE/PHARMACY NAME] pharmacy for PA override due to brand name shortage. Placing 90-day approval for generic. Further requests beyond 90 days will be reviewed as initial requests and not reauthorizations.”</li>
+  <li>iii.	Fill out all the information on the PA to allow for 90-day supply.</li>
+  <li>iv.	Approve the PA.</li>
+b.	Once the approval is made by the Call Center technician, advise the caller/pharmacy to reprocess the claim.
+
+Thank you,
+
+Cassandra Roach, PharmD, RPh
+
+
 ## 9/15/23
 
 **NOTE to Techs**: if you receive a PA request for generic Vyvanse that are ^^rejecting with additional edits other than PA required, please send those to Medreview^^.
