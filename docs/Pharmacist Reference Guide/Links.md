@@ -89,7 +89,8 @@ The clinical team should not be contacted by PA pharmacists or technicians, the 
 
 ## License Reimbursement 2/2/23
 
-License Reimbursement Reminder: Pharmacists and Pharmacy Technicians</br>
+License Reimbursement Reminder: Pharmacists and Pharmacy Technicians
+
 - Reimbursement of the Medical Professional Fee - License reimbursement for ^^one state only, unless multiple states are specifically required^^
 - **Maximum of $250/renewal** (cost varies by state, annual, bi-annual, etc.)
 - Reimbursement will be done through expense report (Concur) with appropriate supporting documentation submitted
