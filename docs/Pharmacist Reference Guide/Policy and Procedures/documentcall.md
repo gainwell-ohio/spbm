@@ -1,5 +1,18 @@
 # Documenting a call
 
+## P2P Call documentation
+
+### Add a Call
+Provider ID: **NPI of the Provider** </br>
+Call Source: **Provider**</br>
+Contact type: **Authorization** </br>
+Contact Code: **Questions concerning obtaining authorization**
+
+### Finish Provider Call:
+Resolution Category: **Provider** </br>
+Resolution: <ul><li>If the P2P is completed, **Satisfied Request**</li><li>If a message was left so a P2P is not completed, **No Resolution Code**</li></ul>
+
+
 ## Operations Tile/ Call notes
 
 To log the note, we use the Operations Tile: 
