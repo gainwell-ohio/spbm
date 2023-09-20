@@ -19,7 +19,7 @@ This is a subcategory of Topical Agents.
 
 | Preferred                   | Generic Name | Quantity | Time (Days) |
 |:----------------------------|:-------------|:--------:|:-----------:|
-| Elidel <sup>AR BvG ST ==(Process by NDC)==</sup> |              |          |             |
+| Elidel <sup>AR BvG ST ==(Exception: Process by GSN; Pharmacy to bill with DAW 9)==</sup> |              |          |             |
 | Tacrolimus <sup>AR ST</sup> |              |          |             |
 
 ### Non-Preferred
