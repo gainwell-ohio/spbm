@@ -87,3 +87,23 @@ search:
 
 The clinical team should not be contacted by PA pharmacists or technicians, the correct correspondence is to contact your supervisor, they will compile information and provide to Cassandra. 
 
+## License Reimbursement 2/2/23
+
+License Reimbursement Reminder: Pharmacists and Pharmacy Technicians</br>
+- Reimbursement of the Medical Professional Fee - License reimbursement for ^^one state only, unless multiple states are specifically required^^
+- **Maximum of $250/renewal** (cost varies by state, annual, bi-annual, etc.)
+- Reimbursement will be done through expense report (Concur) with appropriate supporting documentation submitted
+
+ **Please submit expense report through Concur using the account WBS code**:</br>
+         - Cost Object Type:  change from (CC) Cost Center to (PJ) Project WBS Element</br>
+         - Cost Object ID: change to WBS that you use CATS
+     
+- Cannot go back more than **90 days for reimbursement**.  If it has been more than 90 days since last renewal, you will need to wait until next renewal for reimbursement.
+- Currently ^^no reimbursement for CE programs or subscriptions that offer CE^^ (still working on)
+ 
+Here is the link to the Gainwell policy that includes reimbursement for professional licenses:
+https://mygainwell.sharepoint.com.mcas.ms/sites/dept-polcomp/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fdept%2Dpolcomp%2FShared%20Documents%2FHR%2FEducation%20Assistance%20Policy%2Epdf&parent=%2Fsites%2Fdept%2Dpolcomp%2FShared%20Documents%2FHR
+
+
+
+
