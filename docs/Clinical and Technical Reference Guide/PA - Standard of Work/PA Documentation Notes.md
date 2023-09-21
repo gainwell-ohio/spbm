@@ -67,7 +67,7 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 - UPDL Criteria notes, if applicable: ------- 
 - Decision Tree / Pathway Notes, including name of Tree / Pathway, if applicable: ------- 
 
-## Approval Notes for PA**
+## Approval Notes for PA
 
 - Verified Coverage Per Enrollments: ****please add the Plan name and dates****
 - Medicaid ID Match? (Y/N):  ------- 
