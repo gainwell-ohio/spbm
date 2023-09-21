@@ -36,7 +36,8 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 - Pertinent labs per criteria and page number of fax (if applicable): ------- 
 - MME value if applicable:  ------- 
 - Notes (pg # of note):  ------- 
-- Decision Tree Notes: ------- 
+- UPDL Criteria notes, if applicable: ------- 
+- Decision Tree / Pathway Notes, including name of Tree / Pathway, if applicable: ------- 
 - Reason for sending to RPH:  ------- 
 
 ## P2P Note for RPH
@@ -62,8 +63,9 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 - Drug name:  ------- 
 - NDC's of generic in claims hx (must have two different manufactures, include dates and duration):  ------- 
 - Reason generics can't be used:  ------- 
-- Notes: ------- 
-- Decision Tree Notes: ------- 
+- Notes: -------
+- UPDL Criteria notes, if applicable: ------- 
+- Decision Tree / Pathway Notes, including name of Tree / Pathway, if applicable: ------- 
 
 ## Approval Notes for PA**
 
@@ -75,8 +77,7 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 - Qty/day supply: ------- 
 - Approval duration: ------- 
 - Claims of trials (drug name(s), dates paid, qty & d/s): -------
-- Reason for Approval (cite criteria): ------- 
-- Decision Tree Notes: -------
+- Reason for Approval (cite UPDL criteria or Decision Tree / Pathway Notes (including name of Tree / Pathway - if applicable): ------- 
 
 ## Verbal PA
  
@@ -94,8 +95,9 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 - Noted trials on PA form:  -------- 
 - Claims of trials:  ------- 
 - Diagnosis (+ ICD 10 code): -------- 
-- Notes:  ------- 
-- Decision Tree Notes: ------- 
+- Notes:  -------
+- UPDL Criteria notes, if applicable: ------- 
+- Decision Tree / Pathway Notes, including name of Tree / Pathway, if applicable: ------- 
 
 ## Cancelled PA Template
 
