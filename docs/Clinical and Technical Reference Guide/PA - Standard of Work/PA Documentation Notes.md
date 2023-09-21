@@ -77,7 +77,7 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 - Qty/day supply: ------- 
 - Approval duration: ------- 
 - Claims of trials (drug name(s), dates paid, qty & d/s): -------
-- Reason for Approval (cite UPDL criteria or Decision Tree / Pathway Notes (including name of Tree / Pathway - if applicable): ------- 
+- Reason for Approval (cite UPDL criteria or Decision Tree / Pathway Notes, including name of Tree / Pathway): ------- 
 
 ## Verbal PA
  
