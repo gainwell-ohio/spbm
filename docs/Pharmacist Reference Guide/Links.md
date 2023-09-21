@@ -102,8 +102,9 @@ License Reimbursement Reminder: Pharmacists and Pharmacy Technicians
 - Cannot go back more than **90 days for reimbursement**.  If it has been more than 90 days since last renewal, you will need to wait until next renewal for reimbursement.
 - Currently ^^no reimbursement for CE programs or subscriptions that offer CE^^ (still working on)
  
-Here is the link to the Gainwell policy that includes reimbursement for professional licenses:
-https://mygainwell.sharepoint.com.mcas.ms/sites/dept-polcomp/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fdept%2Dpolcomp%2FShared%20Documents%2FHR%2FEducation%20Assistance%20Policy%2Epdf&parent=%2Fsites%2Fdept%2Dpolcomp%2FShared%20Documents%2FHR
+Here is the link to the Gainwell policy that includes reimbursement for professional licenses: [Reimbursement Policy](https://mygainwell.sharepoint.com.mcas.ms/sites/dept-polcomp/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fdept%2Dpolcomp%2FShared%20Documents%2FHR%2FEducation%20Assistance%20Policy%2Epdf&parent=%2Fsites%2Fdept%2Dpolcomp%2FShared%20Documents%2FHR){:target="_blank" rel="noopener"}
+
+[Concur Expense site](http://www.concursolutions.com){:target="_blank" rel="noopener"}
 
 
 
