@@ -15,6 +15,26 @@
 
 [Operations Manager-Workspaces for Pharmacy PA Training Video](https://mygainwell.sharepoint.com.mcas.ms/teams/aWFMReferenceCenter/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FaWFMReferenceCenter%2FShared%20Documents%2FOperations%20Manager%2DWorkspaces%20for%20Pharmacy%20PA%20training%2Emp4&parent=%2Fteams%2FaWFMReferenceCenter%2FShared%20Documents){:target="_blank" rel="noopener"}
 
+## How to change you status to Appeals in Verint
+
+How to change you status to Appeals in Verint
+
+1. In Verint, go to My Work tab </br>
+2. Then click on the “Start New Task.”
+
+![image](wm1.png)
+
+3. This will bring your skills.  Right click on the Appeals line and Start Task.
+
+![image](wm2.png)
+
+4.You will be brought back to the My work screen with a task started on Appeals.
+
+![image](wm3.png)
+
+5. When done working appeals, Book Out the Appeals task.
+
+
 ## PAWS Tips 
 
 - ***CTRL + W*** = Short key to close a tab after completion of a PA
