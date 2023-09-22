@@ -5,15 +5,13 @@ search:
 
 # Systemic Immunomodulators
 
-![Alt text](si_1.png)
-
-By Chris for 1/2023 UPDL: Immunodoluators by Dx.xlsx
+By Chris for 9/22/2023 UPDL: Immunodoluators by Dx.xlsx
 
 ***No Preferred agents with the indication for the treatment of Giant Cell Arteritis (Actemra) or Alopecia (Olumiant)***
 
 **Diagnosis on chart are for the most common indications. The medications may have other indications (not listed below) and would need to be verified on Lexicomp or other clinical resources  
 
-![Alt text](immuno chart.PNG)
+![Alt text](immunochart.PNG)
 
 ## Stelara Dosing 7/26/23
 
