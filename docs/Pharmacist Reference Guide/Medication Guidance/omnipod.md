@@ -19,6 +19,6 @@ We do not believe that we should approve all Omnipod PAs as 15 for 30 days.  Bas
 
 ***Example:***
 
-1. If a member is using 66 units of less of U-100 insulin then 10 pods should last 30days
+1. If a member is using 66 units OR less of U-100 insulin then 10 pods should last 30days
 2. If a member is using 67-100 units of U-100 insulin then 15 pods should last 30 days
 
