@@ -22,15 +22,15 @@ How to change you status to Appeals in Verint
 1. In Verint, go to My Work tab </br>
 2. Then click on the “Start New Task.”
 
-![image](wm1.png)
+![image](wm1.PNG)
 
 3. This will bring your skills.  Right click on the Appeals line and Start Task.
 
-![image](wm2.png)
+![image](wm2.PNG)
 
 4.You will be brought back to the My work screen with a task started on Appeals.
 
-![image](wm3.png)
+![image](wm3.PNG)
 
 5. When done working appeals, Book Out the Appeals task.
 
