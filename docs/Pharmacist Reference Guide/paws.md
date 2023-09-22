@@ -24,7 +24,7 @@ How to change you status to Appeals in Verint
 
 ![image](wm1.PNG)
 
-3. This will bring your skills.  Right click on the Appeals line and Start Task.
+3.This will bring your skills.  Right click on the Appeals line and Start Task.
 
 ![image](wm2.PNG)
 
@@ -32,7 +32,7 @@ How to change you status to Appeals in Verint
 
 ![image](wm3.PNG)
 
-5. When done working appeals, Book Out the Appeals task.
+5.When done working appeals, Book Out the Appeals task.
 
 
 ## PAWS Tips 
