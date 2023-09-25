@@ -1,4 +1,4 @@
-# Xifaxan
+# Xifaxan Guidance
 
 [Weekly Email 9/23/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVosCW3N2mhFgui-GvV_9C0BtmnevA3Siy_ZIU3THWnMjw?e=hxTFpx){:target="_blank" rel="noopener"}
 
