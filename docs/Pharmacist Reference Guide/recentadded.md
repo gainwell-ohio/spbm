@@ -3,6 +3,7 @@
 9/25/23
 - [Weekly Email 9/23/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVosCW3N2mhFgui-GvV_9C0BtmnevA3Siy_ZIU3THWnMjw?e=hxTFpx){:target="_blank" rel="noopener"}
 - [**Xifaxan Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/xifax/?h=xifax)
+- [Inactive Prescriber NPI](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/inactivenpi/?h=inactive)
 
 9/22/23
 
