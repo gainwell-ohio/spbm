@@ -65,6 +65,7 @@ Step Therapy Approval Criteria
 
 - Must have had an inadequate clinical response to at least ^^14 days^^ with at least ^^two preferred^^ drugs
 
+[**Xifaxan Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/xifax/?h=xifax)</br>
 [***Amitiza/Lubiprostone Processing Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/amitiza/?h=amit)
 
 ### Non-Preferred
