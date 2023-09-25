@@ -1,6 +1,9 @@
-# AMICAR shortage
+---
+search:
+  boost: 1
+---
 
-[Amicar shortage Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/FW_%20Brand%20name%20Amicar%20-%20Drug%20Shortage.msg?csf=1&web=1&e=HyC6pB){ .md-button .md-button--primary target="_blank" rel="noopener"}
+# AMICAR shortage
 
 Hi PA team,
  

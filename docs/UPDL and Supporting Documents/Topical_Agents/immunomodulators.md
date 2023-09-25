@@ -1,11 +1,17 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Immunomodulators
 
 This is a subcategory of Topical Agents.
+
+## Decision Trees
+
+- [Topical - Immunomodulators - Non-Preferred - Eucrisa, Opzelura, Vtama](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNEpQN1lHWjMzRjdHUTc1UDRLVkpON0UxOCQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+- [Topical - Immunomodulators - Elidel, Pimecrolimus](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM1lCWUFYQkNONTdJTkc1OTZaNlFJMU9QQyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+- [Topical Agents - Immunomodulators - Tacrolimus](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURDExOUJaVEVPVUJBOElYWTA0NTYzV0JIUiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
 
 ## Formulary
 
@@ -13,7 +19,7 @@ This is a subcategory of Topical Agents.
 
 | Preferred                   | Generic Name | Quantity | Time (Days) |
 |:----------------------------|:-------------|:--------:|:-----------:|
-| Elidel <sup>AR BvG ST</sup> |              |          |             |
+| Elidel <sup>AR BvG ST ==(Process by NDC)==</sup> |              |          |             |
 | Tacrolimus <sup>AR ST</sup> |              |          |             |
 
 ### Non-Preferred
@@ -21,8 +27,9 @@ This is a subcategory of Topical Agents.
 | Non-Preferred              | Generic Name | Quantity | Time (Days) |
 |:---------------------------|:-------------|:--------:|:-----------:|
 | Eucrisa                    |              |          |             |
+| Hyftor                     |              |          |             |
 | Opzelura                   |              |          |             |
-| Pimecrolimus <sup>AR</sup> |              |          |             |
+| <span title = "Brand Preferred: Elidel">Pimecrolimus</span> <sup>AR, Brand Preferred</sup> |              |          |             |
 | Vtama                      |              |          |             |
 | Zoryve                     |              |          |             |
 
@@ -56,12 +63,14 @@ Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-**AR** - pimecrolimus and tacrolimus: a PA is required for patients younger than 2 years old
+**AR** - Pimecrolimus and Tacrolimus: a PA is required for patients younger than 2 years old
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=104){ :target="_blank" rel="noopener"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=99&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=33){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=105){ :target="_blank" rel="noopener"}
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=33){ :target="_blank" rel="noopener"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

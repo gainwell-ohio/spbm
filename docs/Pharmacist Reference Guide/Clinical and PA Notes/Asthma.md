@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Asthma 
 
 Comparison of Asthma Medications from Pharmacists Letter - Dec 2022

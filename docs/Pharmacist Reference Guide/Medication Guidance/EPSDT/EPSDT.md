@@ -1,8 +1,9 @@
+---
+search:
+  boost: 1
+---
+
 # EPSDT Procedures
-
-[EPSDT Procedures Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EZ94ZWZLA7VPsSLoKaNq1twBakOP17zNBMwFKo--6toF7Q?e=ozDyOp){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
-[EPSDT Background Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/In%20preparation%20of%20the%20EPSDT%20portion%20of%20todays%20RPh%20Updates.msg?csf=1&web=1&e=IrG2Zc){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 Hello,
 
@@ -12,7 +13,7 @@ Before admin denying anything based on rebate or payable, double check the age t
 
 If 21 or over please admin deny
 
-If less than 21, rebate or payable (red X situations in NDC tile), we are to proceed as usual with decisioning disregarding this status.
+***If less than 21, rebate or payable (red X situations in NDC tile), we are to proceed as usual with decisioning disregarding this status.***
  
 We are to ensure it is the lowest cost alternative that effectively addresses and treats the medical problem, meaning if there are UPDL alternatives that are indicated to treat the condition, we still use the hierarchy of payable, UPDL(preferred, step, nonpreferred) – Additional Criteria Classes – then refer to Med Nec Policy.
 
@@ -20,11 +21,13 @@ We are also to ensure it meets generally accepted standards of medical practice;
  
 If we receive a PA for one of these non-payable cases for a member under the age of 21 that is appropriate to approve, the procedure is as follows:
 
-1. Use the approval template and include verbiage in internal notes – Approving per medical necessity for EPSDT member
-2. Approve the PA for standard amount of time for treatment, if chronic condition 365 days is acceptable 
-3. Enter in the Edit Override for the necessary edits that are firing in these situations, I forsee 7106 and 7104 being used mostly, if there is an edit that needs to be overridden in these cases that we are not able to select please contact Rachel Carpenter, Cassandra Roach, or I, and we will try to find the best way for the member to get their medication (I don’t have solid figures but I do not believe this should happen often)
+==SEE EPSDT EO section below when considering approvals==
+
+1. Use the approval template and include verbiage in internal notes – ***Approving per medical necessity for EPSDT member***
+2. ~~Approve the PA for standard amount of time for treatment, if chronic condition 365 days is acceptable~~ 
+3. ~~Enter in the Edit Override for the necessary edits that are firing in these situations, I forsee 7106 and 7104 being used mostly, if there is an edit that needs to be overridden in these cases that we are not able to select please contact Rachel Carpenter, Cassandra Roach, or I, and we will try to find the best way for the member to get their medication (I don’t have solid figures but I do not believe this should happen often)~~
  
-As far as entering in these Edits, they must be done only when a PA is put in place and approved, and only after a pharmacist has reviewed it for medical necessity if applicable (may still require the peer to peer or appeals process, but not for payable status)
+~~As far as entering in these Edits, they must be done only when a PA is put in place and approved, and only after a pharmacist has reviewed it for medical necessity if applicable (may still require the peer to peer or appeals process, but not for payable status)~~
 
 **Technicians should never be entering in these edits**
 
@@ -51,3 +54,49 @@ Please ask any questions if necessary,
 Thanks,
  
 Justin Collingwood
+
+## EPSDT Edits 7/19/23
+
+When considering approval, these edit rejections do not require a preliminary email before approving to clinical to send to ODM.
+
+![image](epsdtEOpt1.PNG)
+
+==So for our processes, if approving we approve, then we enter the EO, and then send the email to Casandra, Justin, Brian to inform ODM== [Weekly Email 7/29/23]([weeklyemail72923.docx](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EX294TODOapHr_QzAWmTNDUB6dFP3jbMimTXSl_48KOt4A?e=ANycRR)){:target="_blank" rel="noopener"}
+
+The following edits when tripped MUST ask ODM first, as in if we are considering approving we send the following template information to clinical to send to email ODM prior to approval.
+
+![image](epsdtEOpt2.PNG)
+
+==For our processes, we MUST send the email in template form to leaders and ODM approval BEFORE approving for EPSDT.== Please send to Cassandra, Brian, Justin, for correspondence to ODM. (no clinical involved) [Weekly Email 7/29/23]([weeklyemail72923.docx](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EX294TODOapHr_QzAWmTNDUB6dFP3jbMimTXSl_48KOt4A?e=ANycRR)){:target="_blank" rel="noopener"}
+
+***Quick Email link:*** <a href="mailto:justin.collingwood@gainwelltechnologies.com?cc=cassandra.roach@gainwelltechnologies.com;brian.moore@gainwelltechnologies.com;&subject=EPSDT%20EO&body=PA%20number:%0D%0A%0D%0AEdit%20number%20to%20override:%0D%0A%0D%0AApproval%20rationale:"> Cassandra; Justin; Brian</a>
+
+^^Template to clinical^^
+
+PA number:
+
+Edit number to override:
+
+Approval rationale:
+
+There will be times when we are working when ODM or clinical ^^won’t be able to respond within TAT for PAs(the weekend, overnight).^^ In this situations if it is feasible that we will not get a response, Please send the email questioning first as described above, and deny the PA with the **denial language**:
+
+PLEASE NOTE THIS IS NOT A DENIAL - further research and outreach is required (that may include but is not limited to: benefits, DESI status, rebate status, etc.) This will be decided within 72 hours of prior authorization received.
+
+When and if it is approved clinical/ODM will contact the group that are able to enter the EO, and the pharmacist that processed originally will complete an approved PA, and the group (Cassandra, Justin, Brian, etc.) will enter the edit override portion of the approval.
+
+Thanks,
+Justin Collingwood
+
+
+
+
+## Medications not EPSDT eligible
+
+• [Deplin](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/medicalfood/)
+
+### References
+
+[EPSDT Procedures Email :material-email:](EPSDT Procedures.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
+
+[EPSDT Background Email :material-email:](In preparation of the EPSDT portion of todays RPh Updates.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}

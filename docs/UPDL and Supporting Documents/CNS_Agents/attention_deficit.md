@@ -1,11 +1,18 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Attention Deficit Hyperactivity Disorder Agents
 
 This is a subcategory of Central Nervous System (CNS) Agents.
+
+## Decision Trees
+
+- [CNS - ADHD - Non-Preferred Products](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUREtYQVlIRDJBS1lZTTZYN1dJQVMxVUtROCQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+- [CNS - ADHD - Preferred Products](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM0JKQ1pFQTFPMFdGODdZR1pPQ1lMRTVHNyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+- [CNS - ADHD - Quillivant XR, Methylphenidate Sol, Dextroamphetamine Sol, Dyanavel XR, Procentra](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMDNKMTVER1YzRFo3WTZVSTRIQjJXRTlKTSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+- [CNS - ADHD - Qelbree](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURVREVUlPMko5RUw4UktHNlY0SExCNU05SCQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -39,7 +46,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Quillichew ER <sup>AR</sup>                                                            |                                                               |          |             |
 | Quillivant XR <sup>AR</sup>                                                            |                                                               |          |             |
 | Ritalin LA <sup>AR QL</sup>                                                            |                                                               |          |             |
-| Vyvanse Cap <sup>QL</sup>                                                              | Lisdexamfetamine Dimesylate Cap (all strengths)               |    34    |     34      |
+| Vyvanse Cap <sup>QL, [BVG Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/vyvanse/?h=vyvan)</sup>                                                              | Lisdexamfetamine Dimesylate Cap (all strengths)               |    34    |     34      |
 
 ### Non-Preferred
 
@@ -51,7 +58,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Amphetamine Tab                                                       |                                                              |                           |                           |
 | Azstarys <sup>AR</sup>                                                |                                                              |                           |                           |
 | Cotempla XR ODT <sup>AR</sup>                                         |                                                              |                           |                           |
-| Daytrana <sup>AR BvG</sup>                                            |                                                              |                           |                           |
+| Daytrana <sup>AR BvG ==(Process by NDC)==</sup>                                            |                                                              |                           |                           |
 | Evekeo ODT                                                            |                                                              |                           |                           |
 | Jornay PM <sup>AR</sup>                                               |                                                              |                           |                           |
 | Methamphetamine                                                       |                                                              |                           |                           |
@@ -59,6 +66,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Methylphenidate ER <sup>AR QL</sup>(generic of Aptensio XR, Relexxii) |                                                              |                           |                           |
 | Mydayis <sup>QL</sup>                                                 | Amphetamin / Dextroamphetamine 3-Bead ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 | Vyvanse Chewable Tab                                                  |                                                              |                           |                           |
+| Xelstrym <sup>AR</sup>                                                |                                                              |                           |                           |
 | Zenzedi <sup>AR QL</sup>                                              | Dextroamphetamine Sulfate Tab (all strengths)                | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Authorizations
@@ -73,7 +81,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 Step Therapy Criteria
 
-- Must have had an inadequate clinical response of at least **30 days** with atomoxetine **OR** at least **two preferred** stimulants
+- Must have had an inadequate clinical response of at least ^^30 days^^ with atomoxetine **OR** at least ^^two preferred^^ stimulants
 
 ### Non-Preferred
 
@@ -81,14 +89,16 @@ Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
-- Must have had an inadequate clinical response of at least **30 days** with at least **three preferred** drugs
+- Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^three preferred^^ drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
 ### Additional Information
 
 - Requests for non-preferred immediate-release formulations must have all required trials with preferred immediate-release drugs, and requests for non-preferred extended-release formulations must have all required trials with preferred extended-release drugs
-- For patients established on drugs that change from preferred to non-preferred on January 1, a prior authorization is **NOT** required until **after** June 30th of that year.
+- For patients established on drugs that change from preferred to non-preferred on January 1, a prior authorization is **NOT** required until **after** June 30th of that year.**
+
+[**ADHD Approval language for Non-Preferred Meds due transition of care/COT](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/ADHD/)
 
 ### Subsequent Authorization
 
@@ -96,18 +106,14 @@ Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-**AR** - Adderall, Dexedrine, & Zenzedi IR: a PA is required for patients younger than 3 years
-
-**AR** - Adderall XR, Atomoxetine, Cotempla XR-ODT, Daytrana, Dexedrine ER, Dexmethylphenidate & Methylphenidate IR & ER: a PA is required for patients younger than 6 years
-
-**AR** - Dextroamphetamine Solution: a PA is required for patients over 12 years old
-
-**AR** - Methylphenidate Solution: a PA is required for patients younger than 6 years and 12 years and older
+**AR** - Adderall, Dexedrine, & Zenzedi IR: a PA is required for patients younger than 3 years </br>
+**AR** - Adderall XR, Atomoxetine, Cotempla XR-ODT, Daytrana, Dexedrine ER, Dexmethylphenidate, Azstarys, Methylphenidate IR & ER, Quillichew ER, and Xelstrym: a PA is required for patients younger than 6 years </br>
+**AR** - Dextroamphetamine Solution & Dyanavel XR: a PA is required for patients 12 years and older </br>
+**AR** - Methylphenidate Solution/Suspension: a PA is required for patients younger than 6 years and 12 years and older
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#overlay-context=drug-coverage#page=35){ :target="_blank" rel="noopener"}
-
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=15){ :target="_blank" rel="noopener"}
-
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=27&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=35){ :target="_blank" rel="noopener"} </br>
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=15){ :target="_blank" rel="noopener"} </br>
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

@@ -1,15 +1,15 @@
 ---
 search:
-  boost: 1 
+  boost: 2
 ---
 
-## 2022 Preferred Diabetic Supply List
+## 2023 Preferred Diabetic Supply List
 
-[Preferred Diabetic Supply List](https://pharmacy.medicaid.ohio.gov/sites/default/files/OH_July_2022_PDSL.pdf#overlay-context=drug-coverage){ :target="_blank" rel="noopener"}
+[Preferred Diabetic Supply List](https://pharmacy.medicaid.ohio.gov/sites/default/files/OH_January_2023_PDSL_v1.pdf){ :target="_blank" rel="noopener"}
 
-### Effective 7/1/2022
+### Effective 1/1/2023
 
-### Blood Glucose Test Strips
+### Blood Glucose Test Strips  ==(PROCESS BY NDC)==
 
 | Manufacturer          | NDC/HRI       | Product Description |
 |-----------------------|---------------|---------------------|
@@ -20,35 +20,34 @@ search:
 | LifeScan, Inc.        | 53885-0272-10 | OneTouch Verio      |
 | LifeScan, Inc.        | 53885-0994-25 | OneTouch Ultra Blue |
 | Trividia Health, Inc. | 56151-1460-01 | TrueMetrix          |
-| Trividia Health, Inc. | 56151-1460-03 | TrueMetrix          |
 | Trividia Health, Inc. | 56151-1460-04 | TrueMetrix          |
 | Trividia Health, Inc. | 56151-1461-01 | Relion TrueMetrix   |
 | Trividia Health, Inc. | 56151-1461-04 | Relion TrueMetrix   |
 
-### Blood Glucose Meters
+### Blood Glucose Meters  ==(PROCESS BY NDC)==
 
 | Manufacturer          | NDC/HRI       | Product Description    |
 |-----------------------|---------------|------------------------|
 | LifeScan, Inc.        | 53885-0044-01 | OneTouch Verio Flex    |
 | LifeScan, Inc.        | 53885-0046-01 | OneTouch Ultra 2       |
-| LifeScan, Inc.        | 53885-0194-01 | OneTouch Verio Flex    |
-| LifeScan, Inc.        | 53885-0208-01 | OneTouch Ultra Mini    |
-| LifeScan, Inc.        | 53885-0267-01 | OneTouch Verio IQ      |
-| LifeScan, Inc.        | 53885-0448-01 | OneTouch Ultra 2       |
 | LifeScan, Inc.        | 53885-0657-01 | OneTouch Verio         |
 | LifeScan, Inc.        | 53885-0927-01 | OneTouch Verio Reflect |
 | Trividia Health, Inc. | 56151-1470-02 | TrueMetrix             |
 | Trividia Health, Inc. | 56151-1470-02 | TrueMetrix Air         |
 | Trividia Health, Inc. | 56151-1491-02 | Relion TrueMetrix Air  |
 
-### Continuous Glucose Monitoring
+[**Non-formulary test strip Procedure](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Freestyle%20NEO/)
+
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=100&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
+
+### Continuous Glucose Monitoring  ==(PROCESS BY NDC)==
 
 **The following practice standards warrant CGM usage:**
 
--   Must have had appointment with provider within past 6 months AND
-    -   Diagnosis of type 1 diabetes OR
-    -   Diagnosis of type 2 diabetes and require insulin dose adjustment within the last 12 months, or have significant inability to adequately monitor blood glucose via fingerstick, or not require prandial insulin with A1c \> 7% OR
-    -   History of significant or recurring hypoglycemia
+- Must have had appointment with provider within past 6 months AND
+    - Diagnosis of type 1 diabetes OR
+    - Diagnosis of type 2 diabetes and require insulin dose adjustment within the last 12 months, or have significant inability to adequately monitor blood glucose via fingerstick, or not require prandial insulin with A1c \> 7% OR
+    - History of significant or recurring hypoglycemia
 
 | Manufacturer                           | NDC/HRI       | Product Description           |
 |----------------------------------------|---------------|-------------------------------|
@@ -60,8 +59,10 @@ search:
 | DexCom, Inc.                           | 08627-0016-01 | DexCom G6 Transmitter         |
 | DexCom, Inc.                           | 08627-0053-03 | DexCom G6 Sensor              |
 | DexCom, Inc.                           | 08627-0091-11 | DexCom G6 Receiver            |
+| DexCom, Inc.                           | 08627-0077-01 | DexCom G7 Sensor              |
+| DexCom, Inc.                           | 08627-0078-01 | DexCom G7 Receiver            |
 
-### External Diabetes Devices
+### External Diabetes Devices  ==(PROCESS BY NDC)==
 
 | Manufacturer         | NDC/HRI       | Product Description      |
 |----------------------|---------------|--------------------------|

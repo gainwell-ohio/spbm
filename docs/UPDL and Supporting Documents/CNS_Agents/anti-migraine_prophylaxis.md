@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Anti-Migraine Agents, Prophylaxis
@@ -40,21 +40,20 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 Step Therapy Approval Criteria
 
-- Must have had an inadequate clinical response of at least **30 days** with at least **three preferred** controller migraine drugs
+- Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^three preferred^^ controller migraine drugs
 - Must include objective documentation of severity, frequency, type of migraine, and number of headache days per month (preferably a headache diary)
 
 ### Erenumab (Aimovig)
 
 Erenumab (Aimovig) Criteria
 
-- Must have had an inadequate clinical response of at least **60 days** with the 70mg dose to request a dose increase 
+- Must have had an inadequate clinical response of at least ^^60 days^^ with the 70mg dose to request a dose increase 
 
 ### Fremanezumab (Ajovy)
 
 Fremanezumab (Ajovy) Criteria
 
-- Must have demonstrated efficacy for at least **90 days** before quarterly administration will be authorized
-
+- Must have demonstrated efficacy for at least ^^90 days^^ before quarterly administration will be authorized
 
 ### Non-Preferred
 
@@ -62,7 +61,7 @@ Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
-- Must have had an inadequate clinical response of at least **30 days** with at least **three preferred** controller migraine drugs **AND one step therapy** drug
+- Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^three preferred^^ controller migraine drugs **AND** ^^one step therapy^^ drug
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
@@ -74,18 +73,18 @@ Non-Preferred Criteria
 
 Subsequent Authorization Criteria
 
-- Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+- Must provide documentation of patient's clinical response to treatment (preferably a headache diary or other objective documentation of severity, frequency, and number of headaches per month).
 
-**QL** - Nurtec ODT: 18 doses per 30 days for **prophylactic** treatment
-
-**QL** - Aimovig, Ajovy: 1 dose per 30 days
-
+**QL** - Nurtec ODT: 18 doses per 30 days for ^^prophylactic^^ treatment </br>
+**QL** - Aimovig, Ajovy: 1 dose per 30 days </br>
 **QL** - Emgality: 2 doses per 30 days (for initial loading dose only), then 1 does per 30 days thereafter
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=28){ :target="_blank" rel="noopener"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=22&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=14){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=28){ :target="_blank" rel="noopener"}
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=14){ :target="_blank" rel="noopener"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

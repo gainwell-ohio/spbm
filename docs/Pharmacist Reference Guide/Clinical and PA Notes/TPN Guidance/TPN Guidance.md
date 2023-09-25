@@ -1,6 +1,16 @@
-# TPN Guidance
+---
+search:
+  boost: 1
+---
 
-[TPN Guidance Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Processing%20TPN%20medications.msg?csf=1&web=1&e=zGViQA){ .md-button .md-button--primary target="_blank" rel="noopener"}
+# IV Compounds / TPN Guidance
+
+8/21/23 Training Class
+
+- [IV_TPN Class-20230821_163235-Meeting Recording](https://mygainwell-my.sharepoint.com/:v:/g/personal/justin_collingwood_gainwelltechnologies_com/EXwJjhuUrrpMh-cEn-wZIbcBQV7KGWJFi4w8CSEE52Bpzw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=4%3aCGhxKZ&at=9){:target="_blank" rel="noopener"}
+- [IVTPN class.docx](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EUMLkMtLlB1Hm37hOWIHc4kBttjulGK1cSwBjHmjnGEtHQ?e=bPdltN){:target="_blank" rel="noopener"}
+
+## 3/16/23
 
 Hello,
 
@@ -26,3 +36,6 @@ If any questions please ask, Thanks as always
  
 Justin Collingwood
 
+### Reference
+
+[TPN Guidance Email :material-email:](<../../../../../Users/kdobbins/OneDrive - Gainwell Technologies/Documents/Processing TPN medications.htm>){ .md-button .md-button--primary target="_blank" rel="noopener"}

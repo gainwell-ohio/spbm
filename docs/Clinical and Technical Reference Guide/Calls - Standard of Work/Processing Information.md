@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Processing Information
 
 ## Gainwell Processing Information
@@ -12,8 +17,8 @@
 
 |       |            |
 |:------|:-----------|
-| BIN   | 015863     |
-| PCN   | OHPOP      |
+| BIN   | 024251     |
+| PCN   | OHRXPFFS   |
 | Group | Not Needed |
 
 ## Li-Net Processing Information
@@ -25,5 +30,7 @@
 | Group                       | May be left blank                       |
 | Cardholder ID               | Medicare claim number (include letters) |
 | Patient ID (optional field) | Medicaid ID or Social Security Number   |
+
+Linet Contact Number: Call the help desk at 800-783-1307 (TTY: 711), Monday – Friday, 8 a.m. – 7 p.m., EST.
 
 ![Alt text](LINET.png)

@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Cystic Fibrosis
@@ -9,8 +9,9 @@ This is a subcategory of Respiratory Agents.
 
 ## Decision Trees
 
-- [Cystic Fibrosis- Non-Preferred - Bronchitol](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNEdPQ1hZVEs0TEdDNjRSSlBFVEk1STZZTSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Cystic Fibrosis- Preferred - Kalydeco, Orkambi, Symdeko, Trikafta](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOVI4OFFZUDZQVFdIN1Y0TlpBOExWWEtGUCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Respiratory - Cystic Fibrosis- Non-Preferred - Bronchitol](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNEdPQ1hZVEs0TEdDNjRSSlBFVEk1STZZTSQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Respiratory - Cystic Fibrosis- Preferred - Kalydeco, Orkambi, Symdeko, Trikafta](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOVI4OFFZUDZQVFdIN1Y0TlpBOExWWEtGUCQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -73,8 +74,10 @@ monitoring
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=93){ :target="_blank" rel="noopener"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=85&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=30){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=94){ :target="_blank" rel="noopener"}
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=30){ :target="_blank" rel="noopener"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

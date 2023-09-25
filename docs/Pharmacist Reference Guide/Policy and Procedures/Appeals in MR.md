@@ -1,6 +1,11 @@
+---
+search:
+  boost: 1
+---
+
 # Appeals in MedReview Procedure
 
-[Appeals in MedReview Procedure](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Appeals%20in%20MedReview%20Procedure.msg?csf=1&web=1&e=3XcUuh) { .md-button .md-button--primary target="_blank" rel="noopener"}
+[Appeals in MedReview Procedure](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Appeals%20in%20MedReview%20Procedure.msg?csf=1&web=1&e=3XcUuh){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 [GRIEVANCE AND APPEALS CALL CENTER TRAINING 11 5 2022](https://mygainwell-my.sharepoint.com/:p:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/GRIEVANCE%20AND%20APPEALS%20CALL%20CENTER%20TRAINING%2011%205%202022.pptx?d=w0988480b597e41ebbbfebb2d845c4b4c&csf=1&web=1&e=6FHdfk)
 
@@ -34,6 +39,7 @@ Here is the new process when we encounter an appeals in Medreview.  In these sit
 ![image](https://user-images.githubusercontent.com/122046056/231279399-c7d22e70-d0f1-41db-8eb0-fcfd5cf5d80a.png)
 
 7.	***Delete the document off your computer.***
+8.	Cancel the PA in Vue360rx and notate that the documents have been submitted to process manager for the appeals team.
 
 Let me know if there are any questions. This will be updated in Evergreen under Policy and Procedures.
 

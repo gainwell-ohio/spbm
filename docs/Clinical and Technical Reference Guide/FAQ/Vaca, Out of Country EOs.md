@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Vaca/Out of Country EOs
 
 | | |

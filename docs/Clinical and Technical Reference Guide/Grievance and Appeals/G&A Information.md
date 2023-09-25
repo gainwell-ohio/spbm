@@ -1,4 +1,9 @@
-## G&A Information
+---
+search:
+  boost: 1
+---
+
+# G&A Information
 
 ## Time Frames from date Gainwell received complaint 
 | | |
@@ -18,4 +23,6 @@
 ## Training
 
 [Training:](https://mygainwell-my.sharepoint.com.mcas.ms/:p:/g/personal/emily_reinhart_gainwelltechnologies_com/Ed8EO71WlPNIljrnMktFeysBTV3R9RORJJXbVqZMzsjCow?e=uz44pA){:target="_blank" rel="noopener"} 
+
+<a href="docs/Clinical and Technical Reference Guide/Grievance and Appeals/GRIEVANCE AND APPEALS CALL CENTER TRAINING 11 5 2022 (2).pptx" download="Grievance and Appeals Training">Download Training</a>
 

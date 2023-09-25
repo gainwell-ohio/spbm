@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Cephalosporins
@@ -9,9 +9,11 @@ This is a subcategory of Infectious Disease Agents.
 
 ## Decision Trees
 
-- [Antibiotics - Cephalosporins- Non-Preferred - Cephalexin 750mg, Cefpodoxime, Cefixime Cap](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQkRZWVgzRlY2SU9YNjFVRUw3NkdTN1ZFWCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Antibiotics - Cephalosporins- Non-Preferred (Age Restricted) - Cefaclor Susp, Cefprozil Susp](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQVg3TTFFWkZMU0lNUllIWEdLOVdKQzVVUiQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Antibiotics - Cephalosporins- Non-Preferred (Age Restricted) - Cefixime Susp, Suprax Chewable Tab](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQlFVU1BPREgyWkFRVU8zNjNQQTgySTlZVCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Antibiotics - Cephalosporins- Non-Preferred - Cephalexin 750mg, Cefpodoxime, Cefixime Cap](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQkRZWVgzRlY2SU9YNjFVRUw3NkdTN1ZFWCQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Antibiotics - Cephalosporins- Non-Preferred (Age Restricted) - Cefaclor Susp, Cefprozil Susp](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQVg3TTFFWkZMU0lNUllIWEdLOVdKQzVVUiQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Antibiotics - Cephalosporins- Non-Preferred (Age Restricted) - Cefixime Susp, Suprax Chewable Tab](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQlFVU1BPREgyWkFRVU8zNjNQQTgySTlZVCQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -79,8 +81,10 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=76){ :target="_blank" rel="noopener"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=66&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=25){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=77){ :target="_blank" rel="noopener"}
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=26){ :target="_blank" rel="noopener"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

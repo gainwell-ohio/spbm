@@ -1,6 +1,9 @@
-# Processing Factor PAs
+---
+search:
+  boost: 1
+---
 
-[HICLSeqNo Approval Info  Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/HclSeqNo%20Approval%20information.msg?csf=1&web=1&e=mjAgIk){ .md-button .md-button--primary target="_blank" rel="noopener"}
+# Processing Factor PAs
 
 There is an identified issue with approving things by Hicl, that the medication does not show up.  Please either at this time approve by GCNSeqNo whenever possible. If Hicl anything is the only route option, the name of the drug requested must be put in the approval notes for the people who receive the letter will know that this is the medication that is being approved or denied. 
  
@@ -21,10 +24,11 @@ Reject at pharmacy regarding PA qty mismatch - cannot be overridden at the momen
 This will ***require all PRN bleed doses*** to require a call in to GWT in order to be dispensed= undue burden on the members, pharmacy, md's and GWT= cost and time  
 1. possible fix, fill limits for EO 7215 if allowed (future state)
   
-![image](https://user-images.githubusercontent.com/122046056/227104086-b2ba3bf0-7fc4-4c39-be55-64955d7842c1.png)
+![Alt text](processing_factor_pas_1.png)
 
 Please check NDC to see how the quantity is being determined- vials or by units.  For the situation below, it is done by units. 
-![image](https://user-images.githubusercontent.com/122046056/227104155-dd4bd800-9e1a-41d7-a5af-3512807be4be.png)
+
+![Alt text](processing_factor_pas_2.png)
 
 **Approved PA:**
 
@@ -56,8 +60,8 @@ APPROVED MEDICATION: ELOCTATE
 
 ***Note: *1895 is less than any PRN bleed doses and therefore any PRN doses will reject with Edit 7215.  Workaround pending***
 
-![image](https://user-images.githubusercontent.com/122046056/227104692-29368cb4-2dad-4397-8414-6ab191038a08.png)
+![Alt text](processing_factor_pas_3.png)
 
 INC0021783- Character limit on PA-QTY field
-![image](https://user-images.githubusercontent.com/122046056/227104971-b50f10fb-a8bb-455c-b71a-2c256d356e77.png)
 
+![Alt text](processing_factor_pas_4.png)

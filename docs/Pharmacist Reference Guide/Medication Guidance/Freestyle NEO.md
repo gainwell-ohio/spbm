@@ -1,6 +1,19 @@
-# Non-formulary test strip approvals
+---
+search:
+  boost: 1
+---
 
-[Non-formulary test strip approvals](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Non-formulary%20test%20strip%20approvals.msg?csf=1&web=1&e=qmPedk){ .md-button .md-button--primary target="_blank" rel="noopener"}
+## Non-formulary test strip approvals 3/17/23
+
+***Agree with Cassandra. There would need to be compelling evidence/medically necessary reasoning why they can’t use the preferred meter. Convenience or advanced features alone would not fall into that category.***
+
+Jason Foote, PharmD, MSHI
+
+Clinical Pharmacist
+
+OH Medicaid PBM
+
+------------
 
 Good morning team! 
 

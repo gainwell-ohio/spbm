@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Opioids
@@ -8,6 +8,18 @@ search:
 This is a subcategory of Analgesic Agents.
 
 **Ohio law requires prescribers to request and review an OARRS report before initially prescribing or personally furnishing any controlled substance, such as an opioid analgesic or a benzodiazepine, and gabapentin**
+
+## Decision Trees
+
+- [Analgesic Agents - Opioids - Butrans, Morphine Sulphate ER Tab, Nucynta](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNElUNVJKUFFOUTNSNkhXSUkxTjU3Nk1CRyQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - Opioids - Non-Preferred Products - Long Acting](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURVQwUlRYV1lXUlRPWUdRMEVPTzhTRzVQMyQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - Opioids - Preferred Products - Short Acting](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM0NJUkFUQUg4RlhMT1ZQWDJFVTExWEhNSSQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - Opioids - 6a v6 Short Acting](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMUNXTjhTT0tSTDRZMkY2RkJER1NUTFdaNCQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - Opioids - Transmucosal Fentanyl Products](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNk9QOFIxQ0szR0lPTjA1Tk1aRlBHTkE4QSQlQCN0PWcu){:target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -22,7 +34,7 @@ This is a subcategory of Analgesic Agents.
 | Butalbital/Acetaminophen/Caffeine/Codeine <sup>QL</sup> | Butalbital-APAP-Caffeine w/ Codeine Cap 50-325-40-30 MG    |            238            |            34             |
 | Butalbital/Aspirin/Caffeine/Codeine <sup>QL</sup>       | Butalbital-Aspirin-Caffeine w/ Codeine Cap 50-325-40-30 MG |            238            |            34             |
 | Butorphanol <sup>QL</sup>                               | Butorphanol Soln 10 MG/ML                                  |            2.5            |            30             |
-| Butrans <sup>BvG PA QL</sup>                            | Buprenorphine TD Patch Weekly (all strengths)              | Determined pursuant to PA | Determined pursuant to PA |
+| Butrans <sup>BvG PA QL ==(Process by NDC)==</sup>                            | Buprenorphine TD Patch Weekly (all strengths)              | Determined pursuant to PA | Determined pursuant to PA |
 | Codeine <sup>QL</sup>                                   | Codeine Sulfate Tab 15 MG                                  |            408            |            34             |
 | Codeine <sup>QL</sup>                                   | Codeine Sulfate Tab 30 MG                                  |            204            |            34             |
 | Codeine <sup>QL</sup>                                   | Codeine Sulfate Tab 60 MG                                  |            102            |            34             |
@@ -60,33 +72,33 @@ This is a subcategory of Analgesic Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                                                                      | Generic Name                                                       |         Quantity          |        Time (Days)        |
-|:-----------------------------------------------------------------------------------|:-------------------------------------------------------------------|:-------------------------:|:-------------------------:|
-| Acetaminophen / Caffeine / Dihydrocodone <sup>QL</sup>                             | Acetaminophen / Caffeine / Dihydrocodone Cap / Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Belbuca <sup>QL</sup>                                                              | Buprenorphine Buccal Film (all strengths)                          | Determined pursuant to PA | Determined pursuant to PA |
-| Benzhydrocodone / Acetaminophen <sup>QL</sup>                                      | Benzhydrocodone / Acetaminophen (all strengths)                    | Determined pursuant to PA | Determined pursuant to PA |
-| Buprenorphine TD Patch Weekly <sup>QL</sup>                                        | Buprenorphine TD Patch Weekly (all strengths)                      | Determined pursuant to PA | Determined pursuant to PA |
-| Butalbital / Acetaminophen / Caffeine / Codeine 50 / 300 / 40 / 30mg <sup>QL</sup> | Butalbital-APAP-Caffeine w/ Codeine Cap 50-325-40-30 MG            |            238            |            34             |
-| Dsuvia <sup>QL</sup>                                                               | Sufentanil Sublingual Tab (all strengths)                          | Determined pursuant to PA | Determined pursuant to PA |
-| Fentanyl <sup>QL</sup>                                                             | Fentanyl TD Patch (all strengths)                                  | Determined pursuant to PA | Determined pursuant to PA |
-| Hydrocodone Bitartrate ER 12HR Cap <sup>QL</sup>                                   |                                                                    |                           |                           |
-| Hydrocodone Bitartrate ER 24HR Tab <sup>QL</sup>                                   |                                                                    |                           |                           |
-| Hydrocodone / Acetaminophen <sup>QL</sup>                                          | Hydrocodone/Acetaminophen 5-300 MG                                 | Determined pursuant to PA | Determined pursuant to PA |
-| Hydrocodone / Acetaminophen <sup>QL</sup>                                          | Hydrocodone/Acetaminophen 7.5-300 MG                               | Determined pursuant to PA | Determined pursuant to PA |
-| Hydrocodone / Acetaminophen <sup>QL</sup>                                          | Hydrocodone/Acetaminophen 10-300 MG                                | Determined pursuant to PA | Determined pursuant to PA |
-| Hydrocodone / Ibuprofen <sup>QL</sup>                                              | Hydrocodone / Ibuprofen Tab (all strengths)                        | Determined pursuant to PA | Determined pursuant to PA |
-| Hydromorphone ER <sup>QL</sup>                                                     |                                                                    |                           |                           |
-| Levorphanol <sup>QL</sup>                                                          | Levorphanol Tab (all strengths)                                    | Determined pursuant to PA | Determined pursuant to PA |
-| Meperidine <sup>QL</sup>                                                           | Meperidine HCI (all strengths & formulations)                      | Determined pursuant to PA | Determined pursuant to PA |
-| Methadone <sup>QL</sup>                                                            | Methadone Concentrate Soln / Tab                                   | Determined pursuant to PA | Determined pursuant to PA |
-| Morphine ER 24HR Cap QL                                                            |                                                                    |                           |                           |
-| Oxycodone ER <sup>QL</sup>                                                         |                                                                    |                           |                           |
-| Oxycodone/Ibuprofen QL                                                             | Oxycodone / Ibuprofen (all strengths)                              | Determined pursuant to PA | Determined pursuant to PA |
-| Oxymorphone IR, ER <sup>QL</sup>                                                   | Oxymorphone HCI Tab IR / ER (all strengths)                        | Determined pursuant to PA | Determined pursuant to PA |
-| Pentazocine / Naloxone <sup>QL</sup>                                               | Pentazocine / Naloxone Tab (all strengths)                         | Determined pursuant to PA | Determined pursuant to PA |
-| Seglentis <sup>QL</sup>                                                            | Celecoxib / Tramadol (all strengths)                               | Determined pursuant to PA | Determined pursuant to PA |
-| Tramadol ER, Sol <sup>QL</sup>                                                     | Tramadol HCI ER / Soln (all strengths)                             | Determined pursuant to PA | Determined pursuant to PA |
-| Xtampza ER <sup>QL</sup>                                                           | Oxycodone ER Cap (all strengths)                                   | Determined pursuant to PA | Determined pursuant to PA |
+| Non-Preferred                                                                                                | Generic Name                                                       |         Quantity          |        Time (Days)        |
+|:-------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:-------------------------:|:-------------------------:|
+| Acetaminophen / Caffeine / Dihydrocodone <sup>QL</sup>                                                       | Acetaminophen / Caffeine / Dihydrocodone Cap / Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Belbuca <sup>QL</sup>                                                                                        | Buprenorphine Buccal Film (all strengths)                          | Determined pursuant to PA | Determined pursuant to PA |
+| Benzhydrocodone / Acetaminophen <sup>QL</sup>                                                                | Benzhydrocodone / Acetaminophen (all strengths)                    | Determined pursuant to PA | Determined pursuant to PA |
+| <span title = "Brand Preferred: Butrans">Buprenorphine TD Patch Weekly</span> <sup>QL, Brand Preferred</sup> | Buprenorphine TD Patch Weekly (all strengths)                      | Determined pursuant to PA | Determined pursuant to PA |
+| Butalbital / Acetaminophen / Caffeine / Codeine 50 / 300 / 40 / 30mg <sup>QL</sup>                           | Butalbital-APAP-Caffeine w/ Codeine Cap 50-325-40-30 MG            |            238            |            34             |
+| Dsuvia <sup>QL</sup>                                                                                         | Sufentanil Sublingual Tab (all strengths)                          | Determined pursuant to PA | Determined pursuant to PA |
+| Fentanyl <sup>QL</sup>                                                                                       | Fentanyl TD Patch (all strengths)                                  | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone Bitartrate ER 12HR Cap <sup>QL</sup>                                                             |                                                                    |                           |                           |
+| Hydrocodone Bitartrate ER 24HR Tab <sup>QL</sup>                                                             |                                                                    |                           |                           |
+| Hydrocodone / Acetaminophen <sup>QL</sup>                                                                    | Hydrocodone/Acetaminophen 5-300 MG                                 | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone / Acetaminophen <sup>QL</sup>                                                                    | Hydrocodone/Acetaminophen 7.5-300 MG                               | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone / Acetaminophen <sup>QL</sup>                                                                    | Hydrocodone/Acetaminophen 10-300 MG                                | Determined pursuant to PA | Determined pursuant to PA |
+| Hydrocodone / Ibuprofen <sup>QL</sup>                                                                        | Hydrocodone / Ibuprofen Tab (all strengths)                        | Determined pursuant to PA | Determined pursuant to PA |
+| Hydromorphone ER <sup>QL</sup>                                                                               |                                                                    |                           |                           |
+| Levorphanol <sup>QL</sup>                                                                                    | Levorphanol Tab (all strengths)                                    | Determined pursuant to PA | Determined pursuant to PA |
+| Meperidine <sup>QL</sup>                                                                                     | Meperidine HCI (all strengths & formulations)                      | Determined pursuant to PA | Determined pursuant to PA |
+| Methadone <sup>QL</sup>                                                                                      | Methadone Concentrate Soln / Tab                                   | Determined pursuant to PA | Determined pursuant to PA |
+| Morphine ER 24HR Cap QL                                                                                      |                                                                    |                           |                           |
+| Oxycodone ER <sup>QL</sup>                                                                                   |                                                                    |                           |                           |
+| Oxycodone/Ibuprofen QL                                                                                       | Oxycodone / Ibuprofen (all strengths)                              | Determined pursuant to PA | Determined pursuant to PA |
+| Oxymorphone IR, ER <sup>QL</sup>                                                                             | Oxymorphone HCI Tab IR / ER (all strengths)                        | Determined pursuant to PA | Determined pursuant to PA |
+| Pentazocine / Naloxone <sup>QL</sup>                                                                         | Pentazocine / Naloxone Tab (all strengths)                         | Determined pursuant to PA | Determined pursuant to PA |
+| Seglentis <sup>QL</sup>                                                                                      | Celecoxib / Tramadol (all strengths)                               | Determined pursuant to PA | Determined pursuant to PA |
+| Tramadol ER, Sol <sup>QL</sup>                                                                               | Tramadol HCI ER / Soln (all strengths)                             | Determined pursuant to PA | Determined pursuant to PA |
+| Xtampza ER <sup>QL</sup>                                                                                     | Oxycodone ER Cap (all strengths)                                   | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Authorizations
 
@@ -96,18 +108,18 @@ This is a subcategory of Analgesic Agents.
 
 ## Criteria
 
-### Buprenorphine Topical (Butrans)
+### Buprenorphine Topical (Butrans) <sup>BvG ==(Process by NDC)==</sup> 
 
 Buprenorphine Topical (Butrans) Criteria
 
-- Must provide documentation of an inadequate clinical response of at least **60 consecutive days** with at least **one** immediate release opioid formulation
+- Must provide documentation of an inadequate clinical response of at least ^^60 consecutive days^^ with at least ^^one^^ immediate release opioid formulation
 - Must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
 
 ### Morphine Sulfate ER (Kadian, MS Contin) & Tapentadol ER (Nucynta)
 
 Morphine Sulfate ER (Kadian, MS Contin) & Tapentadol ER (Nucynta) Criteria
 
-- Must provide documentation of an inadequate clinical response of at least **60 consecutive days** with at least **one** immediate release opioid formulation
+- Must provide documentation of an inadequate clinical response of at least ^^60 consecutive days^^ with at least ^^one^^ immediate release opioid formulation
 
 ### Non-Preferred
 
@@ -115,16 +127,18 @@ Non-Preferred Criteria
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
--   Must have had an inadequate clinical response of at least **7 days** of at least **two unrelated** preferred drugs
+-   Must have had an inadequate clinical response of at least ^^7 days^^ of at least ^^two unrelated^^ preferred drugs
     -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+
+[**Non-Preferred Opioid vs Cancer/Palliative care/Amputation Procedure](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/opioid/nonpreferredopioids/)
 
 ### Short-Acting
 
 Additional SHORT-ACTING Opioids Criteria
 
 -   The system defines an “initial request” as having no opioid claims in the previous 90 days
--   **Initial short-acting requests** can be authorized up to 90 days
+-   **Initial short-acting requests** can be authorized up to 90 days**
     -   Length of authorization is dependent on indication, previous patient utilization, and requested length of therapy (could be more restrictive)
     -   To exceed acute opioid limits, documentation of the following must be provided:
         -   Diagnosis code which must be for somatic type pain
@@ -132,6 +146,9 @@ Additional SHORT-ACTING Opioids Criteria
     -   Exemptions to the additional criteria:
         -   Patients receiving short-acting opioids for active cancer treatment, palliative care, and end-of-life/hospice care, sickle cell, severe burn, traumatic crushing of tissue, amputation, major orthopedic surgery
         -   Prescriber attestation that patient is not opioid naïve (i.e., new to Medicaid or was on higher dose in hospital)
+     
+[**Opioids- Short Acting Edit Overrides to be included with Approvals](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Control%20Substances/Opioids-Short%20Acting/)
+        
 - **Subsequent short-acting requests** can be authorized up to 180 days
     - Documentation of the following must be provided:
         - Current treatment plan
@@ -172,7 +189,7 @@ Additional LONG-ACTING Opioids Criteria
 Additional Transmucosal Fentanyl Criteria
 
 -   Must be prescribed by an oncologist, pain specialist, or hospice/palliative prescriber
--   Must be concurrently taking a long-acting opioid at a therapeutic dose of any of the following for at least **7 days** without adequate pain relief:
+-   Must be concurrently taking a long-acting opioid at a therapeutic dose of any of the following for at least ^^7 days^^ without adequate pain relief:
 
 |                                  |                                      |
 |----------------------------------|--------------------------------------|
@@ -184,8 +201,10 @@ Additional Transmucosal Fentanyl Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=10){ :target="_blank" rel="noopener"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=4&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=9){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria_FINAL.pdf#page=10){ :target="_blank" rel="noopener"}
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=9){ :target="_blank" rel="noopener"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

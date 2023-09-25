@@ -1,9 +1,15 @@
+---
+search:
+  boost: 1
+---
+
 # Templates
 
 ## Callback Template
 
-sent to OHSupervisorsandSr.Techs@mygainwell.onmicrosoft.com
+sent to OHSPBMCallBack@gainwelltechnologies.com
 
+- Contact ID:
 - Caller Name: 
 - Callback Number: 
 - Date/Time Call Received: (*what time did the agent receive the call*) 
@@ -16,18 +22,20 @@ sent to OHSupervisorsandSr.Techs@mygainwell.onmicrosoft.com
 
 ## Reversals
 
-- Contact name and job title:  
-- Call back number: 
-- Pharmacy: 
-- NPI: 
-- Member Name: 
-- Member ID number:  
-- Drug Name & Claim ID:  
+- Contact name and job title:
+- Call back number:
+- Is the pharmacy who ran the original claim calling?
+- NPI:
+- Member Name:
+- Member ID number:
+- Drug Name & Paid Claim ID:
 - Date of Service to be reversed:
+- Reason for reversal:
+- Has pharmacy tried to reverse?
 
-## Teams Question
+## Teams Question/Call Log Documentation
 
-(use this when reaching out to Sr. Techs, Supervisor, RPH)
+(use this when logging calls in Vue360rx or reaching out to Sr. Techs, Supervisor, and RPH)
 
 - **Caller Info:** 
     - Caller Name/Title:  
@@ -42,6 +50,7 @@ sent to OHSupervisorsandSr.Techs@mygainwell.onmicrosoft.com
   - NPI:
   - Drug Name:  
   - Reason for Call:  
+  - Auth ID number:
   - Claim ID:  
   - Rejection Reason/Edit:  
   - Claims Hx:  

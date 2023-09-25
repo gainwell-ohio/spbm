@@ -4,9 +4,11 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ## Decision Trees
 
-- [Skeletal Muscle Relaxants, Non-Benzodiazepine - Baclofen Solution, Fleqsuvy](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNkwwRERUVThSRTZNUkxYODEwMkEyMUpCTyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Skeletal Muscle Relaxants, Non-Benzodiazepine - Carisoprodol](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMUcwOTdWSUQ2MTBJWk1MTFpMQ0pLTElLNCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Skeletal Muscle Relaxants, Non-Benzodiazepine - Chlorzoxazone, Cyclobenzaprine, Cyclobenzaprine ER, Lyvispah, Metaxalone, Orphenadrine, Tizanidine Cap](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOVRJNUZaMU9HQ1pCSUZWWURRQ0ZJQURLRCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [CNS - Skeletal Muscle Relaxants, Non-Benzodiazepine - Baclofen Solution, Fleqsuvy](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNkwwRERUVThSRTZNUkxYODEwMkEyMUpCTyQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [CNS - Skeletal Muscle Relaxants, Non-Benzodiazepine - Carisoprodol](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMUcwOTdWSUQ2MTBJWk1MTFpMQ0pLTElLNCQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [CNS - Skeletal Muscle Relaxants, Non-Benzodiazepine - Chlorzoxazone 375, 750mg, Cyclobenzaprine 7.5mg, Cyclobenzaprine ER, Lyvispah, Metaxalone, Orphenadrine, Tizanidine Cap](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOVRJNUZaMU9HQ1pCSUZWWURRQ0ZJQURLRCQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -32,7 +34,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Chlorzoxazone 375, 750 MG <sup>QL</sup> | Chlorzoxazone Tab 375 MG & 750 MG          | Determined pursuant to PA | Determined pursuant to PA |
 | Cyclobenzaprine 7.5 MG <sup>QL</sup>    | Cyclobenzaprine HCI Tab 7.5 MG             | Determined pursuant to PA | Determined pursuant to PA |
 | Cyclobenzaprine ER <sup>QL</sup>        | Cyclobenzaprine HCI ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Fleqsuvy                                |                                            |                           |                           |
+| Fleqsuvy <sup>BvG ==(Process by NDC)==</sup>                 |                                            |                           |                           |
 | Lyvispah                                |                                            |                           |                           |
 | Metaxalone                              |                                            |                           |                           |
 | Orphenadrine                            |                                            |                           |                           |
@@ -52,7 +54,7 @@ Non-Preferred Criteria
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
--   Must have had an inadequate clinical response of at least **30 days** with at least **one preferred** drug
+-   Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^one preferred^^ drug
     -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     -   For non-preferred brand names that have preferred generics, requests must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
@@ -68,6 +70,8 @@ Additional Carisoprodol (Soma) Criteria
 
 -   Must provide medical justification that no other muscle relaxant or agent to treat fibromyalgia, or any musculoskeletal condition, would serve the clinical needs of the patient
 
+[**Fleqsuvy and zonisamide suspension from NCH](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Fleqsuvy%20and%20zonisamide%20suspension/)
+
 ### Subsequent Authorization
 
 Subsequent Authorization Criteria
@@ -76,8 +80,7 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=48){ :target="_blank" rel="noopener"}
-
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=18){ :target="_blank" rel="noopener"}
-
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=38&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=48){ :target="_blank" rel="noopener"} </br>
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=19){ :target="_blank" rel="noopener"} </br>
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

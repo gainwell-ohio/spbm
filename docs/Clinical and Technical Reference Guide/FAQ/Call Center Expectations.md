@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Call Center Expectations
 
 ![Alt text](SPBM%20Call%20Center%20-%20PA%20Operations%20Expections.png)

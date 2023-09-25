@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 1 
+  boost: 2
 ---
 
 # Specialty Drug List by Therapeutic Class
@@ -478,7 +478,7 @@ search:
 | Pegasys Proclick   |
 | Pegintron          |
 | Prevymis           |
-| Synagis            |
+| Synagis ==(Process by HICL)==            |
 | Tixagevimab (EUA)  |
 
 ## Autonomic Drugs
@@ -570,7 +570,7 @@ search:
 | Esperoct          |
 | Feiba NF          |
 | Fibryga           |
-| Hemgenix          |
+| Hemgenix**        |
 | Hemlibra          |
 | Hemofil M         |
 | Humate-P          |
@@ -595,7 +595,7 @@ search:
 | Riastap           |
 | Rixubis           |
 | Sevenfact         |
-| Skysona           |
+| Skysona**         |
 | Soliris           |
 | Tavneos           |
 | Thrombate III     |
@@ -606,7 +606,9 @@ search:
 | Wilate            |
 | Xyntha            |
 | Xyntha Solofuse   |
-| Zynteglo          |
+| Zynteglo**        |
+
+[**Carve Out Medication Process](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=skys#carved_out_injectable_drugs_and_biological_products)
 
 ## Cardiac Drugs
 
@@ -675,7 +677,7 @@ search:
 | Radicava Ors      |
 | Rebif             |
 | Rebif Rebidose    |
-| Relyvrio          |
+| Relyvrio**        |
 | Rilutek           |
 | Riluzole          |
 | Ruzurgi           |
@@ -688,6 +690,8 @@ search:
 | Vumerity          |
 | Wakix             |
 | Zeposia           |
+
+[**New Drug Review and Recommended PA Criteria](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/)
 
 ## Colony Stimulating Factors
 
@@ -819,9 +823,11 @@ search:
 | Pheburane                 |
 | Ravicti                   |
 | Sodium Phenylbutyrate     |
-| Sucraid                   |
+| Sucraid**                 |
 | Varubi                    |
 | Xermelo                   |
+
+[**Sucraid Criteria](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Sucraid/)
 
 ## Hormones
 
@@ -890,8 +896,10 @@ search:
 | Skyrizi            |
 | Skyrizi On-Body    |
 | Stelara            |
-| Tzield             |
+| Tzield**           |
 | Uplizna            |
+
+[**New Drug Review and Recommended PA Criteria](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/)
 
 ## Miscellaneous
 
@@ -1089,7 +1097,7 @@ search:
 | Vyndaqel                    |
 | Vyondys-53                  |
 | Vyvgart                     |
-| Xenpozyme                   |
+| Xenpozyme**                 |
 | Xgeva                       |
 | Xiaflex                     |
 | Xofigo                      |
@@ -1099,4 +1107,8 @@ search:
 | Zinecard                    |
 | Zokinvy                     |
 | Zoledronic Acid             |
-| Zolgensma                   |
+| Zolgensma***                |
+
+[**New Drug Review and Recommended PA Criteria](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/newdrugreview/)
+
+[***Carve Out Medication Process](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/carved_out_medications/?h=skys#carved_out_injectable_drugs_and_biological_products)

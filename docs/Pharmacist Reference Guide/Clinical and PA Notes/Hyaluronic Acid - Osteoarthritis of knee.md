@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Hyaluronic Acid - Osteoarthritis of knee
 
 |             |                                  |              |     |
@@ -9,7 +14,7 @@
 | Monovisc    | 1 injection q 180 days           | 88mg / 4mL   | **  |
 | Orthovisc   | 3-4 weekly injections q 180 days | 30mg / 2mL   |     |
 | Euflexxa    | 3 weekly injections q 180 days   | 20mg / 2mL   |     |
-| Duroiane    | 1 injection q 180 days           | 60mg / 3mL   | **  |
+| Durolane    | 1 injection q 180 days           | 60mg / 3mL   | **  |
 | Hyalgan     | 5 weekly injections q 180 days   | 20mg / 2mL   |     |
 | Supartz     | 3-5 weekly injections q 180 days | 25mg / 2.5mL | **  |
 

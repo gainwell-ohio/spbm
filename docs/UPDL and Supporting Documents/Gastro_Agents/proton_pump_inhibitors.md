@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Proton Pump Inhibitors
@@ -12,27 +12,27 @@ This is a subcategory of Gastrointestinal Agents.
 ### Preferred
 
 | Preferred                      | Generic Name | Quantity | Time (Days) |
-| :----------------------------- | :----------- | :------: | :---------: |
+|:-------------------------------|:-------------|:--------:|:-----------:|
 | Lansoprazole Cap               |              |          |             |
-| Nexium Granules <sup>BvG</sup> |              |          |             |
+| Nexium Granules <sup>BvG  ==(Process by NDC)==</sup> |              |          |             |
 | Omeprazole Cap <sup>AR</sup>   |              |          |             |
 | Pantoprazole Tab <sup>AR</sup> |              |          |             |
-| Protonix Pak <sup>AR BvG</sup> |              |          |             |
+| Protonix Pak <sup>AR BvG  ==(Process by NDC)==</sup> |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                   | Generic Name | Quantity | Time (Days) |
-| :------------------------------ | :----------- | :------: | :---------: |
-| Aciphex                         |              |          |             |
-| Dexilant <sup>BvG</sup>         |              |          |             |
-| Esomeprazole                    |              |          |             |
-| Esomeprazole Granules           |              |          |             |
-| Lansoprazole ODT                |              |          |             |
-| Omeprazole Tab <sup>AR</sup>    |              |          |             |
-| Omeprazole / Sodium Bicarbonate |              |          |             |
-| Pantoprazole Packet             |              |          |             |
-| Prilosec Susp                   |              |          |             |
-| Rabeprazole                     |              |          |             |
+| Non-Preferred                                                                                            | Generic Name | Quantity | Time (Days) |
+|:---------------------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Aciphex                                                                                                  |              |          |             |
+| Dexilant <sup>BvG  ==(Process by NDC)==</sup>                                                                                  |              |          |             |
+| Esomeprazole                                                                                             |              |          |             |
+| <span title = "Brand Preferred: Nexium Granules">Esomeprazole Granules</span> <sup>Brand Preferred</sup> |              |          |             |
+| Lansoprazole ODT                                                                                         |              |          |             |
+| Omeprazole Tab <sup>AR</sup>                                                                             |              |          |             |
+| Omeprazole / Sodium Bicarbonate                                                                          |              |          |             |
+| <span title = "Brand Preferred: Protonix Pak">Pantoprazole Packet</span> <sup>Brand Preferred</sup>      |              |          |             |
+| Prilosec Susp                                                                                            |              |          |             |
+| Rabeprazole                                                                                              |              |          |             |
 
 ## Authorizations 
 
@@ -48,7 +48,7 @@ Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
-- Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drugs
+- Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^two preferred^^ drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
@@ -58,7 +58,7 @@ Additional Criteria for PPI Doses Greater than Once Daily
 
 - For H. Pylori diagnosis: Must provide documentation of diagnosis
     - Authorization length: 30 days
-- For any of the following diagnoses: carcinoma of GI tract, COPD, Crest Syndrome, dyspepsia, esophageal varices, gastritis, gastroparesis, scleroderma, symptomatic uncomplicated Barret’s Esophagus, systemic mastocytosis, or Zollinger Ellison Syndrome: Must provide documentation of diagnosis **AND** must have failed once-daily dosing of the requested drug
+- For any of the following diagnoses: carcinoma of GI tract, COPD, Crest Syndrome, dyspepsia, esophageal varices, gastritis, gastroparesis, scleroderma, symptomatic uncomplicated Barret’s Esophagus, systemic mastocytosis, or Zollinger Ellison Syndrome: </br> Must provide documentation of diagnosis **AND** must have failed once-daily dosing of the requested drug
     - Authorization length: 365 days
 
 ### Additional Information
@@ -71,14 +71,12 @@ Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-**AR** - Protonix Pak/Pantoprazole Packet: a PA is required for patients 6 years and older
-
+**AR** - Protonix Pak/Pantoprazole Packet: a PA is required for patients 6 years and older </br>
 **AR** - Omeprazole & Pantoprazole Tab/Cap/ODT: a PA is required for patient 22 years and older requesting more than once daily dosing
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=68){ :target="_blank" rel="noopener"}
-
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=24){ :target="_blank" rel="noopener"}
-
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=57&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=69){ :target="_blank" rel="noopener"} </br>
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=24){ :target="_blank" rel="noopener"} </br>
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

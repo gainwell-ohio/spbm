@@ -1,6 +1,11 @@
+---
+search:
+  boost: 1
+---
+
 # Vacation Override Policy
 
-[Vacation Override Policy](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/MUST%20READ_%20New%20Vacation%20Override%20Policy.msg?csf=1&web=1&e=VFpjmm){ .md-button .md-button--primary target="_blank" rel="noopener"}
+[Vacation Override Policy](MUST%20READ%20New%20Vacation%20Override%20Policy.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 ODM changed the vacation override policy yesterday afternoon. It is as follows:
 

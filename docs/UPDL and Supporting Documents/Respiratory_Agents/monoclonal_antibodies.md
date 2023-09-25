@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Monoclonal Antibodies-Anti-IL/Anti-IgE
@@ -9,9 +9,11 @@ This is a subcategory of Respiratory Agents.
 
 ## Decision Trees
 
-- [Monoclonal Antibodies - Anti-IL/Anti-IgE- Non-Preferred Agents – Nucala, Tezspire](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOEwzQ1RWTklSTjVVSFRKQTgwVE9SRzVWNSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Monoclonal Antibodies - Anti-IL/Anti-IgE- Preferred Agent - Dupixent](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMkU0QlpZNDkxTkpDRUNaRjBaU1YyUDNLMSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Monoclonal Antibodies - Anti-IL / Anti-IgE - Preferred Agents (PA) – Fasenra, Xolair](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQVpOMlBRS0RSQjlXV0tZMFZIVjdTNUpRMyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Respiratory - Monoclonal Antibodies - Anti-IL/Anti-IgE- Non-Preferred Agents – Nucala, Tezspire](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOEwzQ1RWTklSTjVVSFRKQTgwVE9SRzVWNSQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Respiratory - Monoclonal Antibodies - Anti-IL/Anti-IgE- Preferred Agent - Dupixent](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMkU0QlpZNDkxTkpDRUNaRjBaU1YyUDNLMSQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Respiratory - Monoclonal Antibodies - Anti-IL / Anti-IgE - Preferred Agents (PA) – Fasenra, Xolair](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQVpOMlBRS0RSQjlXV0tZMFZIVjdTNUpRMyQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -44,9 +46,11 @@ Clinical PA Criteria
 
 -   Must be prescribed by or in consultation with an applicable specialist (i.e., allergist/immunologist, pulmonologist, or otolaryngologist)
 -   For **Asthma** – Must have had uncontrolled asthma symptoms and/or exacerbations despite at least **30 days** with:
-    -   Medium dose preferred ICS/LABA inhaler for 6 years and older **OR** medium dose preferred ICS/LABA inhaler with tiotropium or high dose ICS/LABA inhaler if 12 years and older
+    -   Medium dose preferred ICS/LABA inhaler for 6 years and older **OR** medium dose preferred ICS/LABA inhaler with tiotropium or high dose ICS/LABA inhaler if 12 years and older**
 -   For **Chronic Rhinosinusitis with Nasal Polyposis** – Must have had an inadequate clinical response of at least **30 days** to at least **one oral** corticosteroid AND **one nasal** corticosteroid spray
 -   For **Chronic Urticaria** – Must have had an inadequate clinical response to at least **14 days** with at least **two different** antihistamines
+
+[**ICS/LABA Dose Level Chart](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Immunomodulators/Respiratory%20Agents%20-%20Monoclonal%20Antibodies/)
 
 ### Non-Preferred
 
@@ -66,8 +70,10 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=98){ :target="_blank" rel="noopener"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=92&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){ :target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=31){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=99){ :target="_blank" rel="noopener"}
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=32){ :target="_blank" rel="noopener"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

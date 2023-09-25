@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Antiparasitics
@@ -9,7 +9,7 @@ This is a subcategory of Topical Agents.
 
 ## Decision Tree
 
-[Antiparasitics - NP - Eurax, Malathion, Sklice, Spinosad*](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUN01CT1Q3WU9OUTlUMjYzUExKWDA1WFg1SCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+[Topical - Antiparasitics - NP - Eurax, Malathion, Sklice, Spinosad](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOEJOTERENjUwMzJVOFI1Q0FUTFZKN1pEMyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -17,18 +17,18 @@ This is a subcategory of Topical Agents.
 
 | Preferred                       | Generic Name | Quantity | Time (Days) |
 |:--------------------------------|:-------------|:--------:|:-----------:|
-| Natroba <sup>BvG</sup>          |              |          |             |
+| Natroba <sup>BvG ==(Process by NDC)==</sup>          |              |          |             |
 | Permethrin                      |              |          |             |
 | Piperonyl Butoxide / Pyrethrins |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred  | Generic Name | Quantity | Time (Days) |
-|:---------------|:-------------|:--------:|:-----------:|
-| Eurax          |              |          |             |
-| Ivermectin Lot |              |          |             |
-| Malathion      |              |          |             |
-| Spinosad       |              |          |             |
+| Non-Preferred                                                                           | Generic Name | Quantity | Time (Days) |
+|:----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Eurax                                                                                   |              |          |             |
+| Ivermectin Lot**                                                                          |              |          |             |
+| Malathion                                                                               |              |          |             |
+| <span title = "Brand Preferred: Natroba">Spinosad</span> <sup>Brand Preferred</sup> |              |          |             |
 
 ## Authorizations 
 
@@ -54,10 +54,14 @@ Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
+[**Ivermectin for Rosacea Clinical Notes](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/rosacea/?h=rosa)
+
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=102){ :target="_blank" rel="noopener"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=97&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=32){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=103){ :target="_blank" rel="noopener" }
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=32){ :target="_blank" rel="noopener"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

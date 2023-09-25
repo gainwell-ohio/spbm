@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 # Evergreen Access and Maintenance
 
 ## Objectives

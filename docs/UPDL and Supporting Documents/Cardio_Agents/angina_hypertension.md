@@ -1,11 +1,31 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Angina, Hypertension & Heart Failure
 
 This is a subcategory of Cardiovascular Agents.
+
+## Decision Trees
+
+- [Cardiovascular - Angina, Hypertension, & Heart Failure - Non-Preferred Products](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUUyQVBVWVFJVzBNV1FLSEtJUEZOUkU2SiQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Cardiovascular - Angina, Hypertension, & Heart Failure - Non-Preferred Non-Dihydropyridines](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNjNLUkVDRDhLNDgzUkE3OUpTTDA3M0FYViQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Cardiovascular - Angina, Hypertension, & Heart Failure - Camzyos](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNElRUVc2T1lMQVBFS1NTNzJGTFdDWUpRSCQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
+- [Cardiovascular - Angina, Hypertension, & Heart Failure - Entresto](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMTIwMERSRFNEWklFR0tPSFY1MEM3RE5FUyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
+- [Cardiovascular - Angina, Hypertension, & Heart Failure - Hemangeol](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMUY2MzRKMkRJNTMyMEdEU09VV0VBQUVUVCQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
+- [Cardiovascular - Angina, Hypertension, & Heart Failure - Kerendia](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQ1g3WDRSMjgwUU1TUDAyUEw0Nlc4NDRCQiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
+- [Cardiovascular - Angina, Hypertension, & Heart Failure - Nimodipine](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMDhOM1MyUEVVT1hPRlVFODhTU0xIRVZVQiQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Cardiovascular - Angina, Hypertension, & Heart Failure - Sotylize Soln](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM1NIRkFHR1lTTUFRQjdTU09JTVNRUjZHRiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
+- [Cardiovascular - Angina, Hypertension, & Heart Failure - Verquvo](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNjU1UlBQTlFDNUhJV00xSjhIOUM2R0I0MiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -30,7 +50,7 @@ This is a subcategory of Cardiovascular Agents.
 | Bisoprolol <sup>QL</sup>                                 | Bisoprolol Fumarate Tab (all strengths excl 10 MG)          |   102    |     102     |
 | Bisoprolol <sup>QL</sup>                                 | Bisoprolol Fumarate Tab 10 MG                               |   204    |     102     |
 | Bisoprolol/HCTZ                                          |                                                             |          |             |
-| Bystolic <sup>BvG</sup>                                  |                                                             |          |             |
+| Bystolic <sup>BvG ==(Process by NDC)==</sup>                                  |                                                             |          |             |
 | Captopril                                                |                                                             |          |             |
 | Captopril/HCTZ                                           |                                                             |          |             |
 | Cartia XT                                                | Diltiazem HCI Coated Beads SR Cap (all strengths)           |   102    |     102     |
@@ -115,39 +135,39 @@ This is a subcategory of Cardiovascular Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                              | Generic Name | Quantity | Time (Days) |
-|:-------------------------------------------|:-------------|:--------:|:-----------:|
-| Aliskiren                                  |              |          |             |
-| Aspruzyo Sprinkle                          |              |          |             |
-| Camzyos                                    |              |          |             |
-| Candesartan                                |              |          |             |
-| Candesartan/HCTZ                           |              |          |             |
-| Carospir                                   |              |          |             |
-| Carvedilol ER                              |              |          |             |
-| Clonidine ER (generic of Nexiclon XR)      |              |          |             |
-| Corlanor                                   |              |          |             |
-| Edarbi                                     |              |          |             |
-| Diltiazem 24HR ER Tabs <sup>QL</sup>       |              |          |             |
-| Edarbyclor                                 |              |          |             |
-| Hydralazine/HCTZ                           |              |          |             |
-| Innopran XL                                |              |          |             |
-| Isradipine                                 |              |          |             |
-| Kapspargo                                  |              |          |             |
-| Katerzia                                   |              |          |             |
-| Kerendia                                   |              |          |             |
-| Levamlodipine                              |              |          |             |
-| Nebivolol                                  |              |          |             |
-| Nimodipine                                 |              |          |             |
-| Nisoldipine                                |              |          |             |
-| Norliqva                                   |              |          |             |
-| Nymalize                                   |              |          |             |
-| Qbrelis                                    |              |          |             |
-| Sotylize <sup>AR</sup>                     |              |          |             |
-| Tekturna / HCTZ                            |              |          |             |
-| Telmisartan                                |              |          |             |
-| Telmisartan / HCTZ                         |              |          |             |
-| Verapamil 200, 300mg ER 24HR <sup>QL</sup> |              |          |             |
-| Verquvo                                    |              |          |             |
+| Non-Preferred                                                                         | Generic Name | Quantity | Time (Days) |
+|:--------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Aliskiren                                                                             |              |          |             |
+| Aspruzyo Sprinkle                                                                     |              |          |             |
+| Camzyos                                                                               |              |          |             |
+| Candesartan                                                                           |              |          |             |
+| Candesartan/HCTZ                                                                      |              |          |             |
+| Carospir                                                                              |              |          |             |
+| Carvedilol ER                                                                         |              |          |             |
+| Clonidine ER (generic of Nexiclon XR)                                                 |              |          |             |
+| Corlanor                                                                              |              |          |             |
+| Edarbi                                                                                |              |          |             |
+| Diltiazem 24HR ER Tabs <sup>QL</sup>                                                  |              |          |             |
+| Edarbyclor                                                                            |              |          |             |
+| Hydralazine/HCTZ                                                                      |              |          |             |
+| Innopran XL                                                                           |              |          |             |
+| Isradipine                                                                            |              |          |             |
+| Kapspargo                                                                             |              |          |             |
+| Katerzia                                                                              |              |          |             |
+| Kerendia                                                                              |              |          |             |
+| Levamlodipine                                                                         |              |          |             |
+| <span title = "Brand Preferred: Bystolic">Nebivolol</span> <sup>Brand Preferred</sup> |              |          |             |
+| Nimodipine                                                                            |              |          |             |
+| Nisoldipine                                                                           |              |          |             |
+| Norliqva                                                                              |              |          |             |
+| Nymalize                                                                              |              |          |             |
+| Qbrelis                                                                               |              |          |             |
+| Sotylize <sup>AR</sup>                                                                |              |          |             |
+| Tekturna / HCTZ                                                                       |              |          |             |
+| Telmisartan                                                                           |              |          |             |
+| Telmisartan / HCTZ                                                                    |              |          |             |
+| Verapamil 200, 300mg ER 24HR <sup>QL</sup>                                            |              |          |             |
+| Verquvo                                                                               |              |          |             |
 
 ## Authorizations
 
@@ -163,11 +183,11 @@ Propranol Oral Solution (Hemangeol) Criteria
 
 - Must provide documentation of the patient's weight
 
-### Sacubitril / Valsartan (Entresto)
+### Sacubitril/Valsartan (Entresto)
 
-Sacubitril / Valsartan (Entresto) Criteria
+Sacubitril/Valsartan (Entresto) Criteria
 
-- Must provie documentation of chronic heart failure classified as either NYHA Class II-IV or ACC / AHA Stage B-D
+- Must provide documentation of chronic heart failure classified as either NYHA Class II-IV or ACC/AHA Stage B-D
 
 ### Non-Preferred
 
@@ -175,7 +195,7 @@ Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
-- Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drugs **within the same class**, if indicated for diagnosis
+- Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^two preferred^^ drugs ^^within the same class^^, if indicated for diagnosis
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
@@ -199,7 +219,7 @@ Additional Vericiguat (Verquvo) Criteria
 
 - Must provide documentation of ejection fraction
 - Must have been hospitalized for the treatment of heart failure in the previous 180 days or needs treatment with an outpatient intravenous diuretic in the previous 90 days
-- Must be treated with an agent from **All** the following unless contraindicated:
+- Must be treated with an agent from **ALL** the following unless contraindicated:
     - Angiotensin-converting enzyme inhibitor, angiotensin II receptor blocker, **OR** an angiotensin receptor neprilysin inhibitor
     - Beta-blocker
     - Aldosterone antagonist and/or SGLT2 inhibitor as appropriate for renal function
@@ -214,9 +234,11 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=19){ :target="_blank" rel="noopener"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=13&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=10){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=19){ :target="_blank" rel="noopener"}
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=10){ :target="_blank" rel="noopener"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}
 

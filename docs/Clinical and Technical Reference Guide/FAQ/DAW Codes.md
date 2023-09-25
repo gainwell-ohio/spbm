@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # DAW Codes
 
 ![Alt text](DAW%20Codes%20Description.png)

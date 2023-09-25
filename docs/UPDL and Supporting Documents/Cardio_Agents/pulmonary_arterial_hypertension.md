@@ -1,19 +1,19 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Pulmonary Arterial Hypertension
 
 This is a subcategory of Cardiovascular Agents.
 
-## Decision Tree
+## Decision Trees
 
-- [Pulmonary Arterial Hypertension- Preferred Products- Ambrisentan, Sildenafil, Tadalafil, Tracleer Tab](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOTVZRFoxQkNJMTc5VzVESk5BQlJYWDFSRiQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Cardiovascular - Pulmonary Arterial Hypertension- Non-Preferred Products- Adempas, Bosentan, Epoprostenol, Opsumit, Tracleer Susp, Treprostonil, Tyvaso, Uptravi, Ventavis](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURU1CRzJLWk84UTVFMzBBME5JRzlOV1JUMSQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
-- [Pulmonary Arterial Hypertension- Non-Preferred Products- Adempas, Bosentan, Epoprostenol, Opsumit, Tracleer Susp, Treprostonil, Tyvaso, Uptravi, Ventavis](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURVI2T0pJVkM5MjlET0VBSTFLRE5FMkdRSiQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Cardiovascular - Pulmonary Arterial Hypertension - Preferred Products - Ambrisentan, Sildenafil, Tadalafil, Tracleer Tab](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQkxFNzBSVllHRTVQUFlESkVFMEM1RENMQyQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
-- [Pulmonary Arterial Hypertension - Sildenafil Susp](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNjdHUzVQU05ZMjlHUjA3Qk5IR1RESFQ4QSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Cardiovascular - Pulmonary Arterial Hypertension - Sildenafil Susp, Tadliq](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNU9MSExBTVQ5V0tTQVIzSFlDVzNLV01aVSQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -26,21 +26,21 @@ This is a subcategory of Cardiovascular Agents.
 | Sildenafil Susp <sup>AR PA</sup> |              |          |             |
 | Tadalafil <sup>PA</sup>          |              |          |             |
 | Tadliq <sup>AR PA</sup>          |              |          |             |
-| Tracleer Tab <sup>BvG PA</sup>   |              |          |             |
+| Tracleer Tab <sup>BvG PA ==(Process by NDC)==</sup>   |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred | Generic Name | Quantity | Time (Days) |
-|:--------------|:-------------|:--------:|:-----------:|
-| Adempas       |              |          |             |
-| Bosentan      |              |          |             |
-| Epoprostenol  |              |          |             |
-| Opsumit       |              |          |             |
-| Tracleer Susp |              |          |             |
-| Treprostinil  |              |          |             |
-| Tyvaso        |              |          |             |
-| Uptravi       |              |          |             |
-| Ventavis      |              |          |             |
+| Non-Preferred                                                                            | Generic Name | Quantity | Time (Days) |
+|:-----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Adempas                                                                                  |              |          |             |
+| <span title = "Brand Preferred: Tracleer Tab">Bosentan</span> <sup>Brand Preferred</sup> |              |          |             |
+| Epoprostenol                                                                             |              |          |             |
+| Opsumit                                                                                  |              |          |             |
+| Tracleer Susp                                                                            |              |          |             |
+| Treprostinil                                                                             |              |          |             |
+| Tyvaso                                                                                   |              |          |             |
+| Uptravi                                                                                  |              |          |             |
+| Ventavis                                                                                 |              |          |             |
 
 ## Authorizations
 
@@ -66,7 +66,7 @@ Non-Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
-- Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drugs, **one** of which must be a phosphodiesterase-5 inhibitor
+- Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^two preferred^^ drugs, ^^one^^ of which must be a phosphodiesterase-5 inhibitor
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
 
@@ -84,8 +84,10 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=24){ :target="_blank" rel="noopener"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=18&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=13){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=24){ :target="_blank" rel="noopener"}
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=13){ :target="_blank" rel="noopener"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

@@ -1,10 +1,51 @@
+---
+search:
+  boost: 1
+---
+
 # Compounds
 
-Link to Payable Compounding Ingredients and Excipients:
+[Desk Level Procedure Compounds without preferred language](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/Efe-kWvWyoRNkwzBVz_179UBsV2CQkidQ3A0c9yW-ESoLQ?e=RxUZv7){:target="_blank" rel="noopener"}
 
-[20220701_Payable_Active_Pharmaceutical_Ingredients_and_Excipients_for_Compounding.pdf (ohio.gov)](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220701_Payable_Active_Pharmaceutical_Ingredients_and_Excipients_for_Compounding.pdf#overlay-context=drug-coverage)
+## IV compounds and TPN procedures
 
-**Compounds:** 
+See [IV/TPN Evergreen page](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/TPN%20Guidance/TPN%20Guidance/)
+
+## Additional Edits Overrides
+
+[Weekly Email 8/5/23](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/weeklyemail8523.docx?d=w34551b8b7f674147b603832cab7090ca&csf=1&web=1&e=aTi6MU){:target="_blank" rel="noopener"}
+
+
+•	The IV medications that are stating to have restrictions lifted will still have ***certain edits applied to them like cost.*** It is understood that many of the IV medications that had restrictions lifted shouldn’t hit many of these, but be aware that there may still be some edits that do happen.
+
+## No PA required on specific Compounds 7/28/23
+
+If below ingredients are the primary ingredient in the compound, they should no longer be hitting for PA required (most likely will not be until next week or the following that they will no longer reject for PA needed). **Until these ingredients are loaded in the system, please ^^approve^^ the below ingredients on compound requests.**
+
+Cassandra Roach, PharmD, RPh
+
+ODM wants to provide notice that next week, CHC will be removing PAs from several injectable and powder ingredients commonly used in compounds. You will see this come over in next week’s file and this should decrease the amount of PAs you may be seeing for these common compounds. These include:
+
+**Compounds no longer requiring PA:**
+
+| |  |  | | |  |
+|--------------|-----------|--------------|---|---|---|
+| cefepime |cefotaxime | cefotetan | ceftazidime | cefuroxime | clindamycin |
+| acetaminophen | amitriptyline|ciprofloxacin| enalapril| ketoprofen| cefazolin|
+|ceftriaxone| piptazo| ampicillin| ampicillin sulbactam| NS| D5|
+|diphenhydramine| promethazine| ondansetron| famotidine| amantadine| boric acid|
+|cellulose| cyclobenzaprine| doxepin| estradiol| estriol| lidocaine| 
+|meloxicam| methocel| metronidazole| pentoxifylline| progesterone| sodium bicarb| 
+|testosterone| ubiquinol| zinc gluconate| zinc sulfate| vancomycin | lansoprazole IV and powder| 
+
+Yana Doughty, PharmD
+
+
+## Compounds: 
+
+[20220701_Payable_Active_Pharmaceutical_Ingredients_and_Excipients_for_Compounding.pdf (ohio.gov)](https://pharmacy.medicaid.ohio.gov/sites/default/files/20220701_Payable_Active_Pharmaceutical_Ingredients_and_Excipients_for_Compounding.pdf#overlay-context=drug-coverage){target="_blank" rel="noopener"}
+
+
 
 Must do a PA for each ingredient in the compound in order to approve it, check claim to see which ones rejected to do EO on those as well (???)
 
@@ -34,18 +75,17 @@ The following compounded preparations are not considered medically necessary as 
 2. Bioidentical hormones 
 3. Topical compounds containing baclofen, gabapentin, and ketamine 
 
-
 7157- first billable ingredient needs to be a legend drug
-![image](https://user-images.githubusercontent.com/122046056/227091696-171afbcc-71c6-4a81-91fc-d65a394f8ed0.png)
 
-![image](https://user-images.githubusercontent.com/122046056/227092329-a9b8465d-bca8-4166-8d26-0f5b1a3d715c.png)
+![Alt text](compounds_1.png)
 
-![image](https://user-images.githubusercontent.com/122046056/227092376-d1064d72-d64f-43ff-87a3-0c94cd45f59b.png)
+![Alt text](compounds_2.png)
 
-![image](https://user-images.githubusercontent.com/122046056/227092393-05fcbf71-efce-4973-ad43-ecc71381876b.png)
+![Alt text](compounds_3.png)
 
+![Alt text](compounds_4.png)
 
-https://casetext.com/case/exeltis-usa-inc-v-first-databank-5
+[https://casetext.com/case/exeltis-usa-inc-v-first-databank-5](https://casetext.com/case/exeltis-usa-inc-v-first-databank-5){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 F – Prescription drugs or medical devices as defined in the Food Drug and Cosmetic Act (FDCA), including bulk drug ingredients
 

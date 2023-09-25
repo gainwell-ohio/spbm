@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Urinary Antispasmodics
@@ -8,9 +8,12 @@ search:
 This is a subcategory of Genitourinary Agents.
 
 ## Decision Tree
-- [Urinary Antispasmodics - Myrbetriq Granules](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMlpWNjdMNVM3OFRBSFFFMkNCVDZBNjRCSiQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Urinary Antispasmodics- Non-Preferred - Darifenacin, Fesoterodine*, Gemtesa, Tolterodine, Trospium](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNjhDODBCSzJZSDVDMTlXQjQ5TkNVVVBWNCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Urinary Antispasmodics- Non-Preferred (Age Restricted) - Vesicare LS](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURTJOV0lUR1UyMFlDNjNYOTZRNU4ySU1EQyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+
+- [Genitourinary - Urinary Antispasmodics - Myrbetriq Granules](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMlpWNjdMNVM3OFRBSFFFMkNCVDZBNjRCSiQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Genitourinary - Urinary Antispasmodics- Non-Preferred - Darifenacin, Fesoterodine*, Gemtesa, Tolterodine, Trospium](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNjhDODBCSzJZSDVDMTlXQjQ5TkNVVVBWNCQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Genitourinary - Urinary Antispasmodics- Non-Preferred (Age Restricted) - Vesicare LS](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURTJOV0lUR1UyMFlDNjNYOTZRNU4ySU1EQyQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -25,19 +28,19 @@ This is a subcategory of Genitourinary Agents.
 | Oxybutynin ER <sup>QL</sup> | Oxybutynin Chloride ER Tab 5 MG                      |   102    |     102     |
 | Oxytrol                     |                                                      |          |             |
 | Solifenacin <sup>QL</sup>   | Solifenacin Succinate Tab (all strengths)            |   102    |     102     |
-| Toviaz <sup>BvG</sup>       |                                                      |          |             |
+| Toviaz <sup>BvG ==(Process by NDC)==</sup>       |                                                      |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                    | Generic Name                                    |         Quantity          |        Time (Days)        |
-|:---------------------------------|:------------------------------------------------|:-------------------------:|:-------------------------:|
-| Darifenacin <sup>QL</sup>        | Darifenacin Hydrobromide ER Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Fesoterodine                     |                                                 |                           |                           |
-| Gemtesa                          |                                                 |                           |                           |
-| Myrbetriq Granules <sup>AR</sup> |                                                 |                           |                           |
-| Tolterodine                      |                                                 |                           |                           |
-| Trospium <sup>QL</sup>           | Trospium Chloride Tab (all strengths)           | Determined pursuant to PA | Determined pursuant to PA |
-| Vesicare LS <sup>AR</sup>        |                                                 |                           |                           |
+| Non-Preferred                                                                          | Generic Name                                    |         Quantity          |        Time (Days)        |
+|:---------------------------------------------------------------------------------------|:------------------------------------------------|:-------------------------:|:-------------------------:|
+| Darifenacin <sup>QL</sup>                                                              | Darifenacin Hydrobromide ER Tab (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| <span title = "Brand Preferred: Toviaz">Fesoterodine</span> <sup>Brand Preferred</sup> |                                                 |                           |                           |
+| Gemtesa                                                                                |                                                 |                           |                           |
+| Myrbetriq Granules <sup>AR</sup>                                                       |                                                 |                           |                           |
+| Tolterodine                                                                            |                                                 |                           |                           |
+| Trospium <sup>QL</sup>                                                                 | Trospium Chloride Tab (all strengths)           | Determined pursuant to PA | Determined pursuant to PA |
+| Vesicare LS <sup>AR</sup>                                                              |                                                 |                           |                           |
 
 ## Authorizations
 
@@ -69,8 +72,10 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=73){ :target="_blank" rel="noopener"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=63&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=25){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=74){ :target="_blank" rel="noopener"}
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=25){ :target="_blank" rel="noopener"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

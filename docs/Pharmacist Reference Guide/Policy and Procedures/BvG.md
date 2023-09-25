@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 #  Brand vs Generic BVG
 
 [5:29 AM] Carpenter, Rachel
@@ -15,9 +20,11 @@ Reason for fax: Brand Preferred over Generic
 
 The following medication [xxxx] has been requested for your patient. The plan covers the brand name medication [xxxx] without a prior authorization. Please have the pharmacy process the brand name medication using a DAW 9 when processing the prescription. If the non-preferred medication (the medication that is NOT covered by the plan) is required, please re-submit the prior authorization request for review with a statement that the non-preferred medication is being requested and include the clinical reasons that the preferred medication cannot be used.
 
+**Rphs to post in the "ADDITIONAL INFO. NEEDED BY RPH" chat group for a technician to send out a BVG letter.
+
 _________________________________________________________
 
-[Brand vs Generic email](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Brand%20over%20Generic.msg?csf=1&web=1&e=Gs3e9a){ .md-button .md-button--primary target="_blank" rel="noopener"}
+[Brand vs Generic email](Brand%20over%20Generic.htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
 If a call is taken by the call center team by from a pharmacy provider, technician receiving the call can inform the pharmacy that brand is preferred and must be processed correctly instead of generic.
 If a call is taken by the call center team by a prescriber, the technician will inform the prescriber that brand is preferred over generic.

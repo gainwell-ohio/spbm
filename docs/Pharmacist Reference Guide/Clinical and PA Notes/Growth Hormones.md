@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Growth Hormones
 
 [Z-score calculator](https://peditools.org/growthpedi/index.php){:target="_blank" rel="noopener"}

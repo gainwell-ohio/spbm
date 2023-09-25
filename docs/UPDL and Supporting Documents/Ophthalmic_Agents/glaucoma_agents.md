@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Glaucoma Agents
@@ -9,8 +9,9 @@ This is a subcategory of Ophthalmic Agents.
 
 ## Decision Trees
 
-- [Glaucoma Agents- Non-Preferred - Apraclonidine, Betoptic S, Bimatoprost, Brimonidine 0.15%, Brinzolamide, Iopidine, Istalol, Lumigan, Travoprost*, Vyzulta, Xelpros, Zioptan](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURFlFT0ZNMUxFV0tITEdERjYxOFMxTExZSCQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
-- [Glaucoma Agents- Preferred (Step Therapy) - Azopt, Combigan, Travatan Z](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQkJQSzVNNjBIU0tXN1NTNTFaNDFYM0k1NyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Ophthalmic - Glaucoma Agents- Non-Preferred - Apraclonidine, Betoptic S, Bimatoprost, Brimonidine 0.15%, Brinzolamide, Iopidine, Istalol, Lumigan, Travoprost*, Vyzulta, Xelpros, Zioptan](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURFlFT0ZNMUxFV0tITEdERjYxOFMxTExZSCQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Ophthalmic - Glaucoma Agents- Preferred (Step Therapy) - Azopt, Combigan, Travatan Z](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQkJQSzVNNjBIU0tXN1NTNTFaNDFYM0k1NyQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -19,15 +20,15 @@ This is a subcategory of Ophthalmic Agents.
 | Preferred                       | Generic Name | Quantity | Time (Days) |
 |:--------------------------------|:-------------|:--------:|:-----------:|
 | Alphagan P 0.1%                 |              |          |             |
-| Alphagan P 0.15% <sup>BvG</sup> |              |          |             |
-| Azopt <sup>BvG ST</sup>         |              |          |             |
+| Alphagan P 0.15% <sup>BvG ==(Process by NDC)==</sup> |              |          |             |
+| Azopt <sup>BvG ST ==(Process by NDC)==</sup>         |              |          |             |
 | Betaxolol                       |              |          |             |
 | Betaxolol                       |              |          |             |
 | Brimonidine 0.2%                |              |          |             |
 | Carteolol                       |              |          |             |
-| Combigan <sup>BvG ST</sup>      |              |          |             |
+| Combigan <sup>BvG ST ==(Process by NDC)==</sup>      |              |          |             |
 | Dorzolamide                     |              |          |             |
-| Dorzolamide / Timolol           |              |          |             |
+| Dorzolamide/Timolol             |              |          |             |
 | Latanaprost                     |              |          |             |
 | Levobunolol                     |              |          |             |
 | Metipranolol                    |              |          |             |
@@ -35,25 +36,25 @@ This is a subcategory of Ophthalmic Agents.
 | Rocklatan                       |              |          |             |
 | Simbrinza                       |              |          |             |
 | Timolol 0.5% Gel, Soln          |              |          |             |
-| Travatan Z <sup>BvG ST</sup>    |              |          |             |
+| Travatan Z <sup>BvG ST ==(Process by NDC)==</sup>    |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                 | Generic Name | Quantity | Time (Days) |
-|:------------------------------|:-------------|:--------:|:-----------:|
-| Apraclonidine                 |              |          |             |
-| Betoptic S                    |              |          |             |
-| Bimatoprost                   |              |          |             |
-| Brimonidine 0.15%             |              |          |             |
-| Brinzolamide                  |              |          |             |
-| Iopidine                      |              |          |             |
-| Istalol                       |              |          |             |
-| Lumigan                       |              |          |             |
-| Timoptic 0.25% <sup>BvG</sup> |              |          |             |
-| Travoprost                    |              |          |             |
-| Vyzulta                       |              |          |             |
-| Xelpros                       |              |          |             |
-| Zioptan <sup>BvG</sup>        |              |          |             |
+| Non-Preferred                                                                                         | Generic Name | Quantity | Time (Days) |
+|:------------------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Apraclonidine                                                                                         |              |          |             |
+| Betoptic S                                                                                            |              |          |             |
+| Bimatoprost                                                                                           |              |          |             |
+| <span title = "Brand Preferred: Alphagan P 0.15%">Brimonidine 0.15%</span> <sup>Brand Preferred</sup> |              |          |             |
+| <span title = "Brand Preferred: Azopt">Brinzolamide</span> <sup>Brand Preferred</sup>                                  |              |          |             |
+| Iopidine                                                                                              |              |          |             |
+| Istalol                                                                                               |              |          |             |
+| Lumigan                                                                                               |              |          |             |
+| Timolol Maleate Droperette                                                                            |              |          |             |
+| <span title = "Brand Preferred: Travatan Z">Travoprost</span> <sup>Brand Preferred</sup>                               |              |          |             |
+| Vyzulta                                                                                               |              |          |             |
+| Xelpros                                                                                               |              |          |             |
+| Zioptan <sup>BvG ==(Process by NDC)==</sup>                                                                                |              |          |             |
 
 ## Authorizations
 
@@ -87,8 +88,10 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=88){ :target="_blank" rel="noopener"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=80&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=29){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=89){ :target="_blank" rel="noopener"}
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=29){ :target="_blank" rel="noopener"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

@@ -1,15 +1,15 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Antihistamines & Mast Cell Stabilizers
 
 This is a subcategory of Ophthalmic Agents.
 
-## Decision Trees
+## Decision Tree
 
-- [Antihistamines & Mast Cell Stabilizers- Non-Preferred - Alocril, Alomide, Bepotastine*, Epinastine, Zerviate](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUODFHRkdIM1VVVVZIOTJLS0hYWE5UNk9USyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Ophthalmic - Antihistamines & Mast Cell Stabilizers- Non-Preferred - Alocril, Alomide, Bepotastine*, Epinastine, Zerviate](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUODFHRkdIM1VVVVZIOTJLS0hYWE5UNk9USyQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -18,7 +18,7 @@ This is a subcategory of Ophthalmic Agents.
 | Preferred              | Generic Name | Quantity | Time (Days) |
 | :--------------------- | :----------- | :------: | :---------: |
 | Azelastine             |              |          |             |
-| Bepreve <sup>BvG</sup> |              |          |             |
+| Bepreve <sup>BvG ==(Process by NDC)==</sup> |              |          |             |
 | Cromolyn               |              |          |             |
 | Ketotifen              |              |          |             |
 | Olopatadine            |              |          |             |
@@ -58,8 +58,10 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=86){ :target="_blank" rel="noopener"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=78&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=28){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=87){ :target="_blank" rel="noopener"}
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=28){ :target="_blank" rel="noopener"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

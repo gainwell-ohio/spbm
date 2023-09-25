@@ -1,6 +1,9 @@
-# First Products
+---
+search:
+  boost: 1
+---
 
-[_FIRST PRODUCTS - IMPORTANT (PLEASE READ)_](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/_FIRST%20PRODUCTS%20-%20IMPORTANT%20(PLEASE%20READ)_.msg?csf=1&web=1&e=3Gg3Kt){ .md-button .md-button--primary target="_blank" rel="noopener"}
+# First Products 11/11/22
 
 This is the process for all FIRST products including: First-Omeprazole; First-Lansoprazole, First-Mouthwash BLM, First-Metronidazole, First-Progesterone VGS and First-Baclofen  
  
@@ -16,7 +19,7 @@ This is the process for all FIRST products including: First-Omeprazole; First-La
 	 
 3. Enter Internal notes using the following template (please do not deviate from this template):
     - Drug and strength requested
-    - Denial Rationale – FIRST products are not FDA approved drugs and do not meet the definition of a Medicaid Covered Outpatient Drug
+    - ***Denial Rationale*** – FIRST products are not FDA approved drugs and do not meet the definition of a Medicaid Covered Outpatient Drug
     - Denied by Person, Title: Full Name and Title
 		 
 4. In the Prior Authorization Letter: Choose ***ADMIN DENIAL LETTER***

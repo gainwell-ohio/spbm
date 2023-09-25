@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Dry Eye Treatments
@@ -12,18 +12,18 @@ This is a subcategory of Ophthalmic Agents.
 ### Preferred
 
 | Preferred                        | Generic Name | Quantity | Time (Days) |
-| :------------------------------- | :----------- | :------: | :---------: |
-| Restasis Trays <sup>BvG ST</sup> |              |          |             |
+|:---------------------------------|:-------------|:--------:|:-----------:|
+| Restasis Trays <sup>BvG ST ==(Process by NDC)==</sup> |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred       | Generic Name | Quantity | Time (Days) |
-| :------------------ | :----------- | :------: | :---------: |
-| Cequa               |              |          |             |
-| Eysuvis             |              |          |             |
-| Restasis Multi-Dose |              |          |             |
-| Tyrvaya             |              |          |             |
-| Xiidra              |              |          |             |
+| Non-Preferred                                                                            | Generic Name | Quantity | Time (Days) |
+|:-----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Cequa                                                                                    |              |          |             |
+| Eysuvis                                                                                  |              |          |             |
+| Restasis Multi-Dose                                                                      |              |          |             |
+| Tyrvaya                                                                                  |              |          |             |
+| Xiidra |              |          |             |
 
 ## Authorizations
 
@@ -57,8 +57,10 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=87){ :target="_blank" rel="noopener"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=79&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=29){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=88){ :target="_blank" rel="noopener"}
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=29){ :target="_blank" rel="noopener"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

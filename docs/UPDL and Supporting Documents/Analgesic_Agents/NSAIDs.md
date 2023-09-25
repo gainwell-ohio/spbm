@@ -1,15 +1,21 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # NSAIDs
 
 This is a subcategory of Analgesic Agents.
 
-## Decision Tree
+## Decision Trees
 
-- [Analgesic Agents - NSAID](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURVE2VUlEMVVWSFZVRjNHWUhSWEFIVlVDWiQlQCN0PWcu&topview=Preview){:target="_blank" rel="noopener"}
+- [Analgesic Agents - NSAID](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURVE2VUlEMVVWSFZVRjNHWUhSWEFIVlVDWiQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - NSAID - Naproxen Susp](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOVZUWVZISTc3N1o0MjRPQU83WUxJOE5KTyQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - NSAID - Pennsaid](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNlNCVzUwWTg2MUtLRzVQNUk5TTMyTDE1MSQlQCN0PWcu){:target="_blank" rel="noopener"}
+
+- [Analgesic Agents - NSAID - Diclofenac/Misoprostol, Diclofenac Gel 3%, Diclofenac Patch 1.3%, Diclotrex, Elyxyb, Fenoprofen 400mg, Ibuprofen/Famotidine, Ketorolac Tromethamine Nasal Spray, Ketoprofen, Licart Patch, Meloxicam Cap, Naproxen CR, Naproxen DR, Naproxen ER, Naproxen EC, Naproxen/Esomeprazole, Qmiiz ODT, Relafen DS, Zorvolex](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMTNVRUlNVFNFTjU2VFI5RDJERUY5QVQ5TiQlQCN0PWcu){:target="_blank" rel="noopener"}
 
 ## Formulary
 
@@ -60,7 +66,7 @@ This is a subcategory of Analgesic Agents.
 | Naproxen ER                                  |              |          |             |
 | Naproxen EC                                  |              |          |             |
 | Naproxen / Esomeprazole                      |              |          |             |
-| Pennsaid <sup>BvG</sup>                      |              |          |             |
+| Pennsaid <sup>BvG ==(Process by NDC)==</sup>                      |              |          |             |
 | Qmiiz ODT                                    |              |          |             |
 | Relafen DS                                   |              |          |             |
 | Zorvolex                                     |              |          |             |
@@ -85,7 +91,7 @@ Non- Preferred Criteria
 
 - Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR** 
     - For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
-- Must have had an inadequate clinical response of at least **30 days** with at least **two preferred** drugs 
+- Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^two preferred^^ drugs 
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available) 
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available) 
 
@@ -99,8 +105,10 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=9){ :target="_blank"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=2&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"}
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=8){ :target="_blank"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria_FINAL.pdf#page=9){ :target="_blank"}
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=8){ :target="_blank"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)<target="_blank">

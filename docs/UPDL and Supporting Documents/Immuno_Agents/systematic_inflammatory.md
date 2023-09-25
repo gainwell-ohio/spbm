@@ -1,18 +1,25 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Systemic Inflammatory Disease
 
 This is a subcategory of Immunomodulator Agents.
 
-## Decision Tree
-[Systemic Inflammatory Disease- Non-Preferred - Actemra, Cibinqo, Cimzia, Cosentyx, Ilumya, Kevzara, Olumiant, Orencia, Rinvoq, Siliq, Simponi, Skyrizi, Stelara, Tremfya, Xeljanz Sol, Xeljanz XR](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOElXNVFQTk5BQ0RBWUowTjFPQklMVjFVNyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+## Decision Pathway
 
-[Systemic Inflammatory Disease- Preferred (PA) - Adbry, Enbrel, Dupixent, Humira, Kineret, Otezla, Xeljanz IR](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOEo4SUtSTTE4M0YzTUpLWFpYS0hRQ0JWNyQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+- [Humira (adalimumab)](<../../Pharmacist Reference Guide/Decision Pathways/Humira.md>)
 
-[Systemic Inflammatory Disease- Preferred (Step Therapy) - Taltz](https://forms.office.com.mcas.ms/pages/designpagev2.aspx?auth_pvr=OrgId&auth_upn=anttwaniqua.greer%40gainwelltechnologies.com&origin=OfficeDotCom&lang=en-US&sessionid=dba554c2-2c78-4f60-bee3-f837172c2546&route=GroupForms&subpage=design&id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMFFaNE9JWjU1MTBOS001MFc2OUw5VVBKQSQlQCN0PWcu&topview=Preview){ :target="_blank" rel="noopener"}
+## Decision Trees
+
+### HUMIRA MUST BE DECISIONED USING THE HUMIRA DECISION PATHWAY NOT TREE
+
+- [Immunomodulator - Systemic Inflammatory Disease- Non-Preferred - Actemra, Cibinqo, Cimzia, Cosentyx, Ilumya, Kevzara, Olumiant, Orencia, Rinvoq, Siliq, Simponi, Skyrizi, Stelara, Tremfya, Xeljanz Sol, Xeljanz XR](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOElXNVFQTk5BQ0RBWUowTjFPQklMVjFVNyQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Immunomodulator - Systemic Inflammatory Disease- Preferred (PA) - Adbry, Enbrel, Dupixent, Humira, Kineret, Otezla, Xeljanz IR](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOEo4SUtSTTE4M0YzTUpLWFpYS0hRQ0JWNyQlQCN0PWcu){ :target="_blank" rel="noopener"}
+
+- [Immunomodulator - Systemic Inflammatory Disease- Preferred (Step Therapy) - Taltz](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMFFaNE9JWjU1MTBOS001MFc2OUw5VVBKQSQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 
 ## Formulary
@@ -51,7 +58,7 @@ This is a subcategory of Immunomodulator Agents.
 | Tremfya         |              |          |             |
 | Xeljanz Sol, XR |              |          |             |
 
-## Authorizations
+## Authorizations ==(PROCESS BY HICL except for Xeljanz (GSN))==
 
 **Length of Authorizations**: Initial: 90 days; Subsequent: 365 days
 
@@ -86,7 +93,7 @@ Non-Preferred Criteria
 
 ### Alopecia Areata 
 
-Additional Alopecia Areata criteria:
+Additional Alopecia Areata Criteria:
 
 - Must be prescribed by or in consultation with a specialist (i.e., dermatologist, 
 rheumatologist)
@@ -97,14 +104,14 @@ with a topical steroid
 
 Additional Atopic Dermatitis Criteria
 
--   Must be prescribed by or in consultation with a dermatologist or allergist/immunologist
--   Must have at least 10% body surface area (BSA) involvement with **two** of the following: topical corticosteroids, topical calcineurin inhibitors [e.g. Elidel], or topical PDE-4 inhibitors [e.g. Eucrisa] OR atopic dermatitis severe and involves \>25% BSA
+-   Must have at least 10% body surface area (BSA) involvement with two of the following: topical corticosteroids or topical calcineurin inhibitors [e.g., Elidel] unless atopic dermatitis is severe and involves >25% BSA
+
 
 ### Plaque Psoriasis
 
 Additional Plaque Psoriasis Criteria
 
--   For patients currently receiving phototherapy, an inadequate clinical response of at least **90 days** must be shown prior to initial authorization for preferred drugs
+-   For patients currently receiving phototherapy, initial authorization for preferred drugs requires an inadequate clinical response to at least **90 days** of phototherapy
 
 ### Ulcerative Colitis
 
@@ -118,10 +125,16 @@ Subsequent Authorization Criteria
 
 -   Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring
 
+[**Immunomodulators for Systemic Inflammatory Disease DLP](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Systemic%20Immunomodulators/)
+
+[**Systemic Immunomodulators Clinical Guide/Diagnosis Comparison Chart- Stelara Dosing](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Immunomodulators/Systemic%20Immunomodulators/)
+
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=74){ :target="_blank" rel="noopener"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=64&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=25){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=75){ :target="_blank" rel="noopener"}
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=25){ :target="_blank" rel="noopener"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

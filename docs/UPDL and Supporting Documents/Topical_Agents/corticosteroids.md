@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2 
+  boost: 3
 ---
 
 # Corticosteroids
@@ -17,7 +17,7 @@ This is a subcategory of Topical Agents.
 | Betamethasone Dip / Calcipotriene Oint  |              |          |             |
 | Betamethasone Valerate                  |              |          |             |
 | Clobetasol Propionate                   |              |          |             |
-| Derma-Smoothe/FS <sup>BvG</sup>         |              |          |             |
+| Derma-Smoothe/FS <sup>BvG ==(Process by NDC)==</sup>         |              |          |             |
 | Desonide Cream, Oint                    |              |          |             |
 | Diflorasone Diacetate                   |              |          |             |
 | Fluocinolone Acetonide 0.01% Cream, Sol |              |          |             |
@@ -31,29 +31,29 @@ This is a subcategory of Topical Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                                   | Generic Name | Quantity | Time (Days) |
-|:------------------------------------------------|:-------------|:--------:|:-----------:|
-| Alclometasone                                   |              |          |             |
-| Apexicon E                                      |              |          |             |
-| Betamethasone Dipropionate                      |              |          |             |
-| Betamethasone Dipropionate / Calcipotriene Susp |              |          |             |
-| Betamethasone Valerate Aerosol Foam             |              |          |             |
-| Bryhali                                         |              |          |             |
-| Clocortolone Pivalate                           |              |          |             |
-| Cordran Tape                                    |              |          |             |
-| Desonate Gel                                    |              |          |             |
-| Desonide Lotion                                 |              |          |             |
-| Desoximetasone                                  |              |          |             |
-| Fluocinolone Acetonide 0.01% Oil                |              |          |             |
-| Fluocinonide Acetonide 0.025%, 0.1%             |              |          |             |
-| Fluticasone Propionate Lotion                   |              |          |             |
-| Halcinonide Cream                               |              |          |             |
-| Halobetasol Propionate                          |              |          |             |
-| Hydrocortisone Butyrate                         |              |          |             |
-| Hydrocortisone Valerate                         |              |          |             |
-| Halog                                           |              |          |             |
-| Impeklo                                         |              |          |             |
-| Pandel                                          |              |          |             |
+| Non-Preferred                                                                                                            | Generic Name | Quantity | Time (Days) |
+|:-------------------------------------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Alclometasone                                                                                                            |              |          |             |
+| Apexicon E                                                                                                               |              |          |             |
+| Betamethasone Dipropionate                                                                                               |              |          |             |
+| Betamethasone Dipropionate / Calcipotriene Susp                                                                          |              |          |             |
+| Betamethasone Valerate Aerosol Foam                                                                                      |              |          |             |
+| Bryhali                                                                                                                  |              |          |             |
+| Clocortolone Pivalate                                                                                                    |              |          |             |
+| Cordran Tape                                                                                                             |              |          |             |
+| Desonate Gel                                                                                                             |              |          |             |
+| Desonide Lotion                                                                                                          |              |          |             |
+| Desoximetasone                                                                                                           |              |          |             |
+| <span title = "Brand Preferred: Derma-Smoothe/FS">Fluocinolone Acetonide 0.01% Oil</span> <sup>Brand Preferred</sup> |              |          |             |
+| Fluocinonide Acetonide 0.025%, 0.1%                                                                                      |              |          |             |
+| Fluticasone Propionate Lotion                                                                                            |              |          |             |
+| Halcinonide Cream                                                                                                        |              |          |             |
+| Halobetasol Propionate                                                                                                   |              |          |             |
+| Hydrocortisone Butyrate                                                                                                  |              |          |             |
+| Hydrocortisone Valerate                                                                                                  |              |          |             |
+| Halog                                                                                                                    |              |          |             |
+| Impeklo                                                                                                                  |              |          |             |
+| Pandel                                                                                                                   |              |          |             |
 
 ## Authorizations
 
@@ -72,6 +72,8 @@ Non-Preferred Criteria
 - Must have had an inadequate clinical response to at least **14 days** with at least **two preferred** drugs
     - For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     - For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+ 
+[***Hydrocortisone Acetate Suppositories Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/hydrocortsupp/?h=hydrocort)
 
 ### Subsequent Authorization
 
@@ -81,8 +83,10 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Criteria](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_Criteria%20_APPROVED.pdf#page=103){ :target="_blank" rel="noopener"}
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=98&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
 
-[Preferred Drug List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230401_UPDL_v7_Approved.pdf#page=32){ :target="_blank" rel="noopener"}
+[Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#page=104){ :target="_blank" rel="noopener"}
+
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=33){ :target="_blank" rel="noopener"}
 
 [Quantity Limit List](https://pharmacy.medicaid.ohio.gov/sites/default/files/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}

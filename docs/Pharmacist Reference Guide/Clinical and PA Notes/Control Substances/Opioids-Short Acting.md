@@ -1,6 +1,9 @@
-# Opioids- Short Acting
+---
+search:
+  boost: 1
+---
 
-[Opioids- Short Acting Email :material-email:](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Short%20Acting%20Opioid%20information.msg?csf=1&web=1&e=DtTdeD){ .md-button .md-button--primary target="_blank" rel="noopener"}
+# Opioids- Short Acting 11/29/22
 
 Hello,
 
@@ -19,7 +22,8 @@ This has been the situation with opioids for years, I have personally experience
  
 Misinformation must be stopped and whenever pharmacies/prescribers/members are interacted with via call/fax/email, we need to try to provide the most accurate and abundant information as possible. We should implement these practices into our daily processing immediately to prepare for when things are at steady state. Many of the tech consult questions regarding edits involving things like edits 7026 and 7376 can be researched and addressed without involving pharmacists in pharmacist consult chat. Last week was a surprise to us all with the overwhelming calls of quantity limit edits, but in opioid situations many things are defined as requiring a PA. Please do not indicate that PAs are not required when a days supply issue or quantity edit override is required. Please be mindful of when a PA is required with working with these medications, in the case of the UPDL, preferred medications do not always mean a PA is not required, especially in these instances. Any thing that is indicated requiring a PA, above quantity limit, not within established age limits, DAW requests, or anything else specifically stated in the UPDL, Additional Criteria, Quantity limits, or Med Nec policy needs to be handled with a PA and these information sources should be used to direct and guide all (pharmacies, precribers, members, Gainwell employees) in determining the appropriate course of action.
 
-![image](https://user-images.githubusercontent.com/122046056/227423586-10d9a221-0ec3-4657-95f1-4d2fe28fd7f3.png)
+![Alt text](opioids_short_acting_1.png)
 
-![image](https://user-images.githubusercontent.com/122046056/227423599-b25b009b-e966-4c4c-90b0-07ae9e1528d6.png)
-![image](https://user-images.githubusercontent.com/122046056/227423609-c81da7e1-e70a-41ac-a368-a3cddb4a049c.png)
+![Alt text](opioids_short_acting_3.png)
+
+![Alt text](opioids_short_acting_2.png)
