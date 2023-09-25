@@ -44,6 +44,8 @@ Step Therapy Criteria
 
 - Must have had an inadequate clinical response of at least ^^30 days^^ with at least ^^one preferred^^ drug
 
+[**Xifaxan Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/xifax/?h=xifax)
+
 ### Non-Preferred
 
 Non-Preferred Criteria
