@@ -42,6 +42,8 @@ Rifaxamin (Xifaxan) Criteria
 
 - Must have had an inadequate clinical response of at least ^^14 days^^ to lactulose to be authorized for monotherapy or add on therapy
 
+[**Xifaxan Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/xifax/?h=xifax)
+
 ### Non-Preferred
 
 Non-Preferred Criteria
