@@ -1,5 +1,9 @@
 # Recently Added/Updated
 
+9/25/23
+- [Weekly Email 9/23/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVosCW3N2mhFgui-GvV_9C0BtmnevA3Siy_ZIU3THWnMjw?e=hxTFpx){:target="_blank" rel="noopener"}
+- [**Xifaxan Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/xifax/?h=xifax)
+
 9/22/23
 
 - [How to change you status to Appeals in Verint](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/paws/?h=)
