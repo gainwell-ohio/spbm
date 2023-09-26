@@ -19,14 +19,14 @@ This is a subcategory of Cardiovascular Agents.
 
 ### Preferred
 
-| Preferred                        | Generic Name | Quantity | Time (Days) |
-|:---------------------------------|:-------------|:--------:|:-----------:|
-| Ambrisentan <sup>PA</sup>        |              |          |             |
-| Sildenafil <sup>PA</sup>         |              |          |             |
-| Sildenafil Susp <sup>AR PA</sup> |              |          |             |
-| Tadalafil <sup>PA</sup>          |              |          |             |
-| Tadliq <sup>AR PA</sup>          |              |          |             |
-| Tracleer Tab <sup>BvG PA ==(Process by NDC)==</sup>   |              |          |             |
+| Preferred                                           | Generic Name | Quantity | Time (Days) |
+|:----------------------------------------------------|:-------------|:--------:|:-----------:|
+| Ambrisentan <sup>PA</sup>                           |              |          |             |
+| Sildenafil <sup>PA</sup>                            |              |          |             |
+| Sildenafil Susp <sup>AR PA</sup>                    |              |          |             |
+| Tadalafil <sup>PA</sup>                             |              |          |             |
+| Tadliq <sup>AR PA</sup>                             |              |          |             |
+| Tracleer Tab <sup>BvG PA ==(Process by NDC)==</sup> |              |          |             |
 
 ### Non-Preferred
 
@@ -36,6 +36,7 @@ This is a subcategory of Cardiovascular Agents.
 | <span title = "Brand Preferred: Tracleer Tab">Bosentan</span> <sup>Brand Preferred</sup> |              |          |             |
 | Epoprostenol                                                                             |              |          |             |
 | Opsumit                                                                                  |              |          |             |
+| Orenitram                                                                                |              |          |             |
 | Tracleer Susp                                                                            |              |          |             |
 | Treprostinil                                                                             |              |          |             |
 | Tyvaso                                                                                   |              |          |             |
