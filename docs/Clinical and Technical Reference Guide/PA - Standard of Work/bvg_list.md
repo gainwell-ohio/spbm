@@ -1,4 +1,7 @@
-# Brand Preferred List
+# Brand Preferred List (BvG)
+
+## **THESE MUST BE LOADED BY NDC**
+
 
 | **Description**                                      | **Brand Name**               | **Eff Date** | **Exp Date** |
 | ---------------------------------------------------- | ---------------------------- | ------------ | ------------ |
