@@ -1,3 +1,10 @@
+---
+search:
+  exclude: true
+---
+
+# RE: Synagis Questions
+
 <div class="WordSection1">
 
 **<span style="color:black">From:<span style="mso-tab-count:1">                                            
@@ -159,10 +166,6 @@ font-family:&quot;Calibri Light&quot;,sans-serif;color:#201F1E;border:none windo
 mso-border-alt:none windowtext 0in;padding:0in;mso-ligatures:none">Ohio
 SPBM</span><span style="color:#201F1E;mso-ligatures:none"> </span><span style="mso-ligatures:
 none"></span>
-
- 
-
- 
 
 <div>
 
