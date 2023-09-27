@@ -9,7 +9,7 @@ search:
 
 It is very important that you understand Medicare.  Medicare plans MUST be billed before Medicaid plans. If claims are submitted without the pharmacy billing the member’s Medicare plan will be rejected.  Medicare rejections should **NOT** be overridden.   
 
-**If you feel a members Medicare eligibility is not correct in VUE360RX, please send an email to SPBMEligibility@gainwelltechnologies.com for verification** 
+**If you feel a members Medicare eligibility is not correct in VUE360RX, please send an email to OHSPBMCallback@gainwelltechnologies.com for verification** 
 
 **Medicare Part A**, also known as “traditional Medicare,” provides inpatient/hospital coverage. This is for inpatient care in a hospital or other covered care facility. 
 
