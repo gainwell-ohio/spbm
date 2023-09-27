@@ -1,5 +1,9 @@
 # Recently Added/Updated
 
+9/27/23
+- [Synagis Up-Training Video](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Synagis/Synagis%20Training/?h=synagis)
+- Relink DL to EG UPDL
+
 9/25/23
 - [Weekly Email 9/23/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVosCW3N2mhFgui-GvV_9C0BtmnevA3Siy_ZIU3THWnMjw?e=hxTFpx){:target="_blank" rel="noopener"}
 - [**Xifaxan Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/xifax/?h=xifax)
