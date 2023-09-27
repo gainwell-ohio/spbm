@@ -1,3 +1,10 @@
+---
+search:
+    exclude: true
+---
+
+# RE: Synagis Process from now until 2/15/23
+
 <div class="WordSection1">
 
 **<span style="color:black">From:<span style="mso-tab-count:1">                                            
