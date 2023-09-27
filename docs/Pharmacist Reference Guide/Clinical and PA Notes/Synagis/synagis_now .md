@@ -1,3 +1,9 @@
+---
+search:
+  exclude: true
+---
+
+# Synagis now
 
 <div class="WordSection1">
 
