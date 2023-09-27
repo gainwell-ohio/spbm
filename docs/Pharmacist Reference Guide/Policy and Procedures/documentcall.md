@@ -69,6 +69,29 @@ ALWAYS finish the note as RESOLVED/CLOSED.
 Once done, it will appear in your Operations window, with the call note number: 
 
 ![image](otile5.png)
+
+## Operations Tile training 
+
+[Operations Tile training doc email](https://mygainwell-my.sharepoint.com/:u:/g/personal/christopher_nguyen_gainwelltechnologies_com/EaZVv3837IpJnwJLNyV9uCoB0__0kxs_0YJsPzR0IMF8ZQ?e=zrRtXX){ .md-button .md-button--primary target="_blank" rel="noopener"}
+
+[Operations Tile and ADD CALL Powerpoint](https://mygainwell-my.sharepoint.com/:p:/g/personal/christopher_nguyen_gainwelltechnologies_com/Ef2b2EZltLFJlkiHuTrlnVQBQtE2VHcEfM7lg5g-KggdGw?e=L4gRkK){:target="_blank" rel="noopener"}
+
+[Contact ID Documentation PDF](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/ETyxzMOhl15Hi_DTX1GdOhYBs85xXox8ZBvKGFCw5FVT0A?e=UClEue){:target="_blank" rel="noopener"}
+
+Good afternoon Justin,
+
+Here is what we have for training on the operations tile. There is also a video they can watch on the LMS for the operations tile as well at [https://mmislearningcenter.myabsorb.com/.](https://mmislearningcenter.myabsorb.com/){:target="_blank" rel="noopener"}  Screenshot is below.
+
+![image](doccall.png)
+
+Regards,
+
+Fernando Salvatierra
+Professional Trainer
+
+
+
+
  
 
  
