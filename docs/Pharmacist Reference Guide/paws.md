@@ -15,24 +15,7 @@
 
 [Operations Manager-Workspaces for Pharmacy PA Training Video](https://mygainwell.sharepoint.com.mcas.ms/teams/aWFMReferenceCenter/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FaWFMReferenceCenter%2FShared%20Documents%2FOperations%20Manager%2DWorkspaces%20for%20Pharmacy%20PA%20training%2Emp4&parent=%2Fteams%2FaWFMReferenceCenter%2FShared%20Documents){:target="_blank" rel="noopener"}
 
-## How to change you status to Appeals in Verint
 
-How to change you status to Appeals in Verint
-
-1. In Verint, go to My Work tab </br>
-2. Then click on the “Start New Task.”
-
-![image](wm1.PNG)
-
-3.This will bring your skills.  Right click on the Appeals line and Start Task.
-
-![image](wm2.PNG)
-
-4.You will be brought back to the My work screen with a task started on Appeals.
-
-![image](wm3.PNG)
-
-5.When done working appeals, Book Out the Appeals task.
 
 
 ## PAWS Tips 
@@ -61,3 +44,22 @@ Username: "dxchcwfo\ " (usually first inital and last name)
 ### Reference link
 
 [Sharepoint site](https://mygainwell.sharepoint.com.mcas.ms/teams/aWFMReferenceCenter/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=T4mhxl&xsdata=MDV8MDF8fGI4NDdlZGRhMzRmMjQzNzZjNmE1MDhkYjg2ZmRmNWNifGM2NjNmODljZWY5YjQxOGZiZDNkNDFlNDZjMGNlMDY4fDB8MHw2MzgyNTIxOTc1MTE2Nzc2MDV8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZUVEpSZDFwRWF6Uk9lbWQwV21wU2JGbFRNREJPYlZVd1RGZEpNMDF0V1hST01sRjRUVzFWTkU5WFZYcE9WR3Q0UUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE5qZzVOakl5T1RVd01ETTF8NjMxYmNkODE4OGI1NDc2N2M2YTUwOGRiODZmZGY1Y2J8NGFlOTU1ZmUxZDllNGMzYTk3NzcwNzZiOTliOTgwOWM%3D&sdata=TEgvbVVkVEVmbEhmbkx6Z0tPOVFiMXBzc3Iyc1NhZ1U0UDJSVE5LNksrVT0%3D&ovuser=c663f89c%2Def9b%2D418f%2Dbd3d%2D41e46c0ce068%2Cchristopher%2Enguyen%40gainwelltechnologies%2Ecom&OR=Teams%2DHL&CT=1689623048206&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA2MDQwMTE3NyIsIkhhc0ZlZGVyYXRlZFVzZXIiOnRydWV9&cid=29214f2b%2Dabf9%2D4b16%2D8aa5%2D4972bb2edcd4&SafelinksUrl=https%3A%2F%2Fmygainwell%2Esharepoint%2Ecom%2Fteams%2FaWFMReferenceCenter%2FShared%2520Documents%2FGeneral%2FOH%2DSPBM%2520Training&RootFolder=%2Fteams%2FaWFMReferenceCenter%2FShared%20Documents%2FGeneral%2FOH%2DSPBM%20Training&FolderCTID=0x012000F4C2F1C29C3EFD46A2D00907A6620193){:target="_blank" rel="noopener"}
+
+## (Archived) How to change you status to Appeals in Verint
+
+How to change you status to Appeals in Verint
+
+1. In Verint, go to My Work tab </br>
+2. Then click on the “Start New Task.”
+
+![image](wm1.PNG)
+
+3.This will bring your skills.  Right click on the Appeals line and Start Task.
+
+![image](wm2.PNG)
+
+4.You will be brought back to the My work screen with a task started on Appeals.
+
+![image](wm3.PNG)
+
+5.When done working appeals, Book Out the Appeals task.
