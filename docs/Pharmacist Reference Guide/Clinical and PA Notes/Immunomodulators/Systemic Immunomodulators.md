@@ -11,7 +11,7 @@ By Chris for 9/22/2023 UPDL: Immunodoluators by Dx.xlsx
 
 **Diagnosis on chart are for the most common indications. The medications may have other indications (not listed below) and would need to be verified on Lexicomp or other clinical resources  
 
-![Alt text](immunochart.PNG)
+![Alt text](immuno92823.PNG)
 
 ## Stelara Dosing 7/26/23
 
