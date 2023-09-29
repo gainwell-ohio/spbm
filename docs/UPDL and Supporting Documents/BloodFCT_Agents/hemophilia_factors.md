@@ -18,7 +18,7 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 ### Preferred
 
 | Preferred                  | Generic Name | Quantity | Time (Days) |
-| :------------------------- | :----------- | :------: | :---------: |
+|:---------------------------|:-------------|:--------:|:-----------:|
 | Advate <sup>PA</sup>       |              |          |             |
 | Adynovate <sup>PA</sup>    |              |          |             |
 | Afstyla <sup>PA</sup>      |              |          |             |
@@ -49,14 +49,15 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Non-Preferred
 
-| Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
-| Jivi          |              |          |             |
-| Nuwiq         |              |          |             |
-| Obizur        |              |          |             |
-| Rebinyn       |              |          |             |
-| Sevenfact     |              |          |             |
-| Vonvendi      |              |          |             |
+| Non-Preferred           | Generic Name | Quantity | Time (Days) |
+|:------------------------|:-------------|:--------:|:-----------:|
+| Altuviiio <sup>PA</sup> |              |          |             |
+| Jivi                    |              |          |             |
+| Nuwiq                   |              |          |             |
+| Obizur                  |              |          |             |
+| Rebinyn                 |              |          |             |
+| Sevenfact               |              |          |             |
+| Vonvendi                |              |          |             |
 
 ## Authorizations  ==(PROCESS BY HICL)==
 

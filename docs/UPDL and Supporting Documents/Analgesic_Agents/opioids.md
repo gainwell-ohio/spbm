@@ -102,7 +102,7 @@ This is a subcategory of Analgesic Agents.
 
 ## Authorizations
 
-**Length of Authorizations**: For the course of therapy, up to 180 days
+**Length of Authorizations**: For the course of therapy, up to 180 days. Initial short-acting and long-acting requests may only be authorized for up to 90 days
 
 **All Authorizations**: Must be prescribed in accordance with FDA approved labeling
 
@@ -112,14 +112,14 @@ This is a subcategory of Analgesic Agents.
 
 Buprenorphine Topical (Butrans) Criteria
 
-- Must provide documentation of an inadequate clinical response of at least ^^60 consecutive days^^ with at least ^^one^^ immediate release opioid formulation
-- Must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
+- For doses greater than 5 mcg/hour must provide documentation of an inadequate clinical response with at least one opioid formulation taken for at least 60 of the last 90 days
 
 ### Morphine Sulfate ER (Kadian, MS Contin) & Tapentadol ER (Nucynta)
 
 Morphine Sulfate ER (Kadian, MS Contin) & Tapentadol ER (Nucynta) Criteria
 
-- Must provide documentation of an inadequate clinical response of at least ^^60 consecutive days^^ with at least ^^one^^ immediate release opioid formulation
+- Unless receiving for cancer pain, palliative care, or endof-life/hospice care, must provide documentation of an inadequate clinical response with at least 60 ^^one^^ opioid formulation taken for at least 60 of the last 90 days
+- Must also meet LONG-ACTING OPIOID CRITERIA
 
 ### Non-Preferred
 
@@ -128,8 +128,8 @@ Non-Preferred Criteria
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
 -   Must have had an inadequate clinical response of at least ^^7 days^^ of at least ^^two unrelated^^ preferred drugs
-    -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+- Must also me applicable SHORT-ACTING or LONG-ACTING OPIOID CRITERIA
 
 [**Non-Preferred Opioid vs Cancer/Palliative care/Amputation Procedure](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/opioid/nonpreferredopioids/)
 
@@ -155,34 +155,34 @@ Additional SHORT-ACTING Opioids Criteria
         - Demonstrated adherence to treatment plan through progress notes, including pain and function scores, random urine screenings results reviewed, concerns addressed, and no serious adverse outcomes observed
 - **Dose escalation requests** can be authorized up to 180 days
     - Documentation of the following must be provided:
-        - Prescriber attestation that dose escalation is likely to result in improved function and pain control
-        - Requests for a cumulative daily dose >100 MED must be prescribed by or in consultation with a pain specialist or anesthesiologist consultation
+        - Prescriber attestation that dose escalation is likely to result in improved function or pain control
+        - Requests for a cumulative daily dose >80 MED must be prescribed by or in consultation with a pain specialist, specialist in the area of the body affected by pain, or anesthesiologist
 
-Effective July 1, 2018, patients with short acting opioid therapy will be limited to 30 MED per day and a maximum of 7 days per prescription. Prior authorization will be required to exceed these limits.
+Patients with initial prescriptions for opioid therapy, defined as no rx claims for opioids in the last 90 days, will be limited to 30 MED per day and a maximum of 7 days per prescription. Prior authorization will be required to exceed these limits.
 
 ### Long-Acting
 
 Additional LONG-ACTING Opioids Criteria
 
-- The system defines an "inital request" as having no opioid claims in the previous 90 days
+- The system defines an "inital long-acting request" as having no opioid claims in the previous 90 days
 -   **Initial long-acting requests** can be authorized up to 90 days
     -   Documentation of the following must be provided:
         -   Request is a daily dose equivalent of ≤ 80 MED
         -   Inadequate clinical response to both non-opioid pharmacologic and non-pharmacologic treatments
-        -   History of short-acting opioids for ≥ 60 days
+        -   Current use of opioids for ≥ 60 of the last 90 days
         -   Treatment plan including risk assessment, substance abuse history, concurrent therapies, and requirements for random urine screenings (baseline urine drug tests must be submitted)
         -   Pain and function scores at each visit
         -   Opioid contract required to be in place and submitted with PA form
     -   Exemptions to the additional criteria:
-        -   Patients receiving long-acting opioids for catastrophic injury or cancer pain
+        -   Patients receiving long-acting opioids for cancer pain, palliative care, or end-of-life/hospice care
 -   **Subsequent long-acting requests** can be authorized up to 180 days
     -   Documentation of the following must be provided:
         -   Current treatment plan
         -   Demonstrated adherence to treatment plan through progress notes, including pain and function scores, random urine screenings results reviewed, concerns addressed, and no serious adverse outcomes observed
 -   **Dose escalation requests** can be authorized up to 180 days
     -   Documentation of the following must be provided:
-        -   Prescriber attestation that dose escalation is likely to result in improved function and pain control
-        -   Requests for a daily dose \>100 MED must be prescribed by pain specialist or anesthesiologist consultation
+        -   Prescriber attestation that dose escalation is likely to result in improved function or pain control
+        -   Requests for a daily dose \>80 MED must be prescribed by pain specialist, specialist in the area of the body affected by pain, or anesthesiologist
 
 ### Transmucosal Fentanyl 
 
@@ -197,7 +197,13 @@ Additional Transmucosal Fentanyl Criteria
 | ≥ 25 mcg/hr transdermal fentanyl | ≥ 25 mg oral oxymorphone/day         |
 | ≥ 30 mg oral oxycodone/day       | Equianalgesic dose of another opioid |
 
-**QL** – Transmucosal Fentanyl: 4 doses per day
+### Buprenorphine Buccal Film
+
+Buprenorphine Buccal Film (Beluca) Criteria:
+
+- Must meet ADDITIONAL LONG-ACTING OPIOID CRITERIA
+
+**QL** - Transmucosal Fentanyl: 4 doses per day
 
 ## Links
 

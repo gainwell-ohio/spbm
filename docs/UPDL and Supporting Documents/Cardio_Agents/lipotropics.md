@@ -54,6 +54,7 @@ This is a subcategory of Cardiovascular Agents.
 |:----------------------------------------------------|:----------------------------------------------------|:-------------------------:|:-------------------------:|
 | Altoprev                                            |                                                     |                           |                           |
 | Amlodipine / Atorvastatin                           |                                                     |                           |                           |
+| Atorvaliq <sup>PA</sup>                             |                                                     |                           |                           |
 | Colesevelam                                         |                                                     |                           |                           |
 | Colestipol Granules                                 |                                                     |                           |                           |
 | Ezetimibe / Simvastatin                             |                                                     |                           |                           |
@@ -69,7 +70,7 @@ This is a subcategory of Cardiovascular Agents.
 | Nexlizet                                            |                                                     |                           |                           |
 | Niacin ER Tab <sup>QL</sup>                         | Niacin ER Tab (all strengths excl 200 MG)           |            204            |            102            |
 | Niacin ER Tab <sup>QL</sup>                         | Niacin ER Tab 500 MG                                |            408            |            102            |
-| Vascepa <sup>BvG ==(Process by NDC)==</sup>                            |                                                     |                           |                           |
+| Vascepa <sup>BvG ==(Process by NDC)==</sup>         |                                                     |                           |                           |
 | Zypitamag                                           |                                                     |                           |                           |
 
 ## Authorizations

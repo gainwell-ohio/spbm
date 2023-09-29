@@ -15,13 +15,15 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Preferred
 
-| Preferred                 | Generic Name                               | Quantity | Time (Days) |
-|:--------------------------|:-------------------------------------------|:--------:|:-----------:|
-| Eliquis                   |                                            |          |             |
-| Pradaxa <sup>BvG ==(Process by NDC)==</sup>    |                                            |          |             |
-| Warfarin                  |                                            |          |             |
-| Xarelto Tab <sup>QL</sup> | Rivaroxaban Tab (all strengths excl 15 MG) |   102    |     102     |
-| Xarelto Tab <sup>QL</sup> | Rivaroxaban Tab 15 MG                      |   204    |     102     |
+| Preferred                                   | Generic Name                               | Quantity | Time (Days) |
+|:--------------------------------------------|:-------------------------------------------|:--------:|:-----------:|
+| Eliquis                                     |                                            |          |             |
+| Pradaxa <sup>BvG ==(Process by NDC)==</sup> |                                            |          |             |
+| Pradaxa Pellet Pak                          |                                            |          |             |
+| Warfarin                                    |                                            |          |             |
+| Xarelto Suspension                          |                                            |          |             |
+| Xarelto Tab <sup>QL</sup>                   | Rivaroxaban Tab (all strengths excl 15 MG) |   102    |     102     |
+| Xarelto Tab <sup>QL</sup>                   | Rivaroxaban Tab 15 MG                      |   204    |     102     |
 
 ### Non-Preferred
 

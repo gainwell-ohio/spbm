@@ -42,6 +42,7 @@ This is a subcategory of Immunomodulator Agents.
 | Non-Preferred   | Generic Name | Quantity | Time (Days) |
 |:----------------|:-------------|:--------:|:-----------:|
 | Actemra         |              |          |             |
+| Amjevita        |              |          |             |
 | Cibinqo         |              |          |             |
 | Cimzia          |              |          |             |
 | Cosentyx        |              |          |             |
