@@ -1025,7 +1025,7 @@ search:
 | Kalbitor                    |
 | Kalydeco                    |
 | Kanuma                      |
-| Keveyis                     |
+| Keveyis (==Process by NDC==- Weekly Updates)</sup>                    |
 | Khapzory                    |
 | Kuvan                       |
 | Leucovorin Calcium          |
