@@ -54,7 +54,7 @@ This is a subcategory of Cardiovascular Agents.
 |:----------------------------------------------------|:----------------------------------------------------|:-------------------------:|:-------------------------:|
 | Altoprev                                            |                                                     |                           |                           |
 | Amlodipine / Atorvastatin                           |                                                     |                           |                           |
-| Atorvaliq <sup>PA</sup>                             |                                                     |                           |                           |
+| Atorvaliq                            |                                                     |                           |                           |
 | Colesevelam                                         |                                                     |                           |                           |
 | Colestipol Granules                                 |                                                     |                           |                           |
 | Ezetimibe / Simvastatin                             |                                                     |                           |                           |
