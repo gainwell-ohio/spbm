@@ -19,7 +19,7 @@ This is a subcategory of Ophthalmic Agents.
 
 | Preferred                       | Generic Name | Quantity | Time (Days) |
 |:--------------------------------|:-------------|:--------:|:-----------:|
-| Alphagan P 0.1% <sup>BVG (Process by NDC- Weekly Updates)</sup>       |              |          |             |
+| Alphagan P 0.1% <sup>BVG (==Process by NDC== - Weekly Updates)</sup>     |              |          |             |
 | Alphagan P 0.15% <sup>BvG ==(Process by NDC)==</sup> |              |          |             |
 | Azopt <sup>BvG ST ==(Process by NDC)==</sup>         |              |          |             |
 | Betaxolol                       |              |          |             |
