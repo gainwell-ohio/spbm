@@ -62,7 +62,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 |:-----------------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
 | Aptiom                                                                                               |              |          |             |
 | Briviact                                                                                             |              |          |             |
-| Celontin                                                                                             |              |          |             |
+| Celontin <sup>BVG (==Process by NDC== - Weekly Updates)</sup>                                                                     |              |          |             |
 | Clonazepam ODT                                                                                       |              |          |             |
 | Elepsia XR                                                                                           |              |          |             |
 | Felbamate                                                                                            |              |          |             |
