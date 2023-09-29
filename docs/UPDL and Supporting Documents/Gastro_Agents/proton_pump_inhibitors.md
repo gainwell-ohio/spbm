@@ -73,7 +73,7 @@ Subsequent Authorization Criteria
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
 **AR** - Protonix Pak/Pantoprazole Packet: a PA is required for patients 6 years and older </br>
-**AR** - Omeprazole & Pantoprazole Tab/Cap/ODT: a PA is required for patient 22 years and older requesting more than once daily dosing
+**AR** - Omeprazole & Pantoprazole Tab/Cap/ODT: a PA is required for patient 21 years and older requesting more than once daily dosing
 
 ## Links
 
