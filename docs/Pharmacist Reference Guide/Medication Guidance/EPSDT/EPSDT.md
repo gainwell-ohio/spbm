@@ -67,9 +67,9 @@ The following edits when tripped MUST ask ODM first, as in if we are considering
 
 ![image](epsdtEOpt2.PNG)
 
-==For our processes, we MUST send the email in template form to leaders and ODM approval BEFORE approving for EPSDT.== Please send to Cassandra, Brian, Justin, for correspondence to ODM. (no clinical involved) [Weekly Email 7/29/23]([weeklyemail72923.docx](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EX294TODOapHr_QzAWmTNDUB6dFP3jbMimTXSl_48KOt4A?e=ANycRR)){:target="_blank" rel="noopener"}
+==For our processes, we MUST send the email in template form to leaders and ODM approval BEFORE approving for EPSDT.== Please send to ~~Cassandra,~~ Brian, Justin, for correspondence to ODM. (no clinical involved) [Weekly Email 7/29/23]([weeklyemail72923.docx](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EX294TODOapHr_QzAWmTNDUB6dFP3jbMimTXSl_48KOt4A?e=ANycRR)){:target="_blank" rel="noopener"}
 
-***Quick Email link:*** <a href="mailto:justin.collingwood@gainwelltechnologies.com?cc=cassandra.roach@gainwelltechnologies.com;brian.moore@gainwelltechnologies.com;&subject=EPSDT%20EO&body=PA%20number:%0D%0A%0D%0AEdit%20number%20to%20override:%0D%0A%0D%0AApproval%20rationale:"> Cassandra; Justin; Brian</a>
+***Quick Email link:*** <a href="mailto:justin.collingwood@gainwelltechnologies.com?cc=brian.moore@gainwelltechnologies.com;&subject=EPSDT%20EO&body=PA%20number:%0D%0A%0D%0AEdit%20number%20to%20override:%0D%0A%0D%0AApproval%20rationale:"> Cassandra; Justin; Brian</a>
 
 ^^Template to clinical^^
 
