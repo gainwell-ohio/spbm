@@ -75,12 +75,12 @@ This is a subcategory of Endocrine Agents.
 | Glyxambi                                         |                                                  |          |             |
 | Invokamet XR                                     |                                                  |          |             |
 | Jentadueto XR                                    |                                                  |          |             |
-| Kombiglyze XR                                    |                                                  |          |             |
+| Kombiglyze XR <sup>BVG (==Process by NDC== - Weekly Updates)</sup>                                   |                                                  |          |             |
 | Metformin ER <sup>QL</sup> (Generic of Fortamet) | Metformin HCI SR Tab (all strengths excl 500 MG) |   204    |     102     |
 | Metformin ER <sup>QL</sup> (Generic of Fortamet) | Metformin HCI SR Tab 500 MG                      |   408    |     102     |
 | Metformin Sol                                    |                                                  |          |             |
 | Mounjaro ==(Process by HICL)==                                         |                                                  |          |             |
-| Onglyza                                          |                                                  |          |             |
+| Onglyza <sup>BVG (==Process by NDC== - Weekly Updates)</sup>                                         |                                                  |          |             |
 | Ozempic                                          |                                                  |          |             |
 | Pioglitazone / Alogliptin                        |                                                  |          |             |
 | Qtern                                            |                                                  |          |             |
