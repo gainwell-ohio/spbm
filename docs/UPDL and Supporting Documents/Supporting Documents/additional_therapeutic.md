@@ -399,7 +399,7 @@ Clinical Criteria:
 
 Drug Name:
 
-- Targretin® <sup>BVG (Process by NDC- Weekly Updates)</sup>  (bexarotene)
+- Targretin® <sup>BVG (==Process by NDC== - Weekly Updates)</sup>  (bexarotene)
 
 Clinical Criteria
 
@@ -471,7 +471,7 @@ Clinical Criteria:
 
 Drug Name:
 
-- Revlimid® <sup>(==Process by NDC==- Weekly Updates)</sup> (lenalidomide)
+- Revlimid® <sup>BVG (==Process by NDC== - Weekly Updates)</sup> (lenalidomide)
 
 Clinical Criteria:
 
