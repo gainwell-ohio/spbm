@@ -305,7 +305,7 @@ Clinical Criteria:
 
 Drug Name:
 
-- Hetlioz® (tasimelteon)
+- Hetlioz® <sup>BVG (==Process by NDC== - Weekly Updates)</sup> (tasimelteon)
 
 Clinical Criteria:
 
