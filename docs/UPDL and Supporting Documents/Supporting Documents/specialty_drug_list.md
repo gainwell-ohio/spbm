@@ -137,7 +137,7 @@ search:
 | ------------------------ |
 | Abecma                   |
 | Abiraterone Acetate      |
-| Abraxane                 |
+| Abraxane <sup>BVG (==Process by NDC== - Weekly Updates)</sup>                |
 | Actimmune                |
 | Adcetris                 |
 | Adriamycin               |
@@ -270,7 +270,7 @@ search:
 | Inqovi                   |
 | Inrebic                  |
 | Intron A                 |
-| Iressa                   |
+| Iressa <sup>BVG (==Process by NDC== - Weekly Updates)</sup>                  |
 | Irinotecan HCL           |
 | Istodax                  |
 | Ixempra                  |
@@ -321,7 +321,7 @@ search:
 | Mylotarg                 |
 | Navelbine                |
 | Nerlynx                  |
-| Nexavar                  |
+| Nexavar <sup>BVG (==Process by NDC== - Weekly Updates)</sup>                 |
 | Ninlaro                  |
 | Nipent                   |
 | Nubeqa                   |
@@ -374,7 +374,7 @@ search:
 | Sprycel                  |
 | Stivarga                 |
 | Sunitinib Malate         |
-| Sutent                   |
+| Sutent <sup>BVG (==Process by NDC== - Weekly Updates)</sup>                  |
 | Sylatron                 |
 | Sylvant                  |
 | Synribo                  |
@@ -409,7 +409,7 @@ search:
 | Truxima                  |
 | Tukysa                   |
 | Turalio                  |
-| Tykerb                   |
+| Tykerb <sup>BVG (==Process by NDC== - Weekly Updates)</sup>                   |
 | Ukoniq                   |
 | Unituxin                 |
 | Uvadex                   |
@@ -703,7 +703,7 @@ search:
 | Granix                     |
 | Leukine                    |
 | Mircera                    |
-| Mozobil                    |
+| Mozobil <sup>BVG (==Process by NDC== - Weekly Updates)</sup>                   |
 | Neulasta                   |
 | Neulasta Onpro             |
 | Neupogen                   |
@@ -742,7 +742,7 @@ search:
 | Diuretics |
 | --------- |
 | Jynarque  |
-| Samsca    |
+| Samsca <sup>BVG (==Process by NDC== - Weekly Updates)</sup>   |
 | Tolvaptan |
 
 ## EENT Preps
@@ -806,7 +806,7 @@ search:
 | Gastrointestinal          |
 | ------------------------- |
 | Aprepitant                |
-| Buphenyl                  |
+| Buphenyl <sup>BVG (==Process by NDC== - Weekly Updates)</sup>                 |
 | Bylvay                    |
 | Chenodal                  |
 | Cholbam                   |
@@ -869,7 +869,7 @@ search:
 | Signifor                |
 | Signifor Lar            |
 | Skytrofa                |
-| Somatuline Depot        |
+| Somatuline Depot <sup>BVG (==Process by NDC== - Weekly Updates)</sup>       |
 | Stimate                 |
 | Supprelin LA            |
 | Tarpeyo                 |
@@ -921,8 +921,8 @@ search:
 
 | Sedative / Hypnotics |
 | -------------------- |
-| Hetlioz              |
-| Hetlioz LQ           |
+| Hetlioz <sup>BVG (==Process by NDC== - Weekly Updates)</sup>             |
+| Hetlioz LQ <sup>BVG (==Process by NDC== - Weekly Updates)</sup>          |
 | Xyrem                |
 | Xywav                |
 
@@ -1025,7 +1025,7 @@ search:
 | Kalbitor                    |
 | Kalydeco                    |
 | Kanuma                      |
-| Keveyis (==Process by NDC==- Weekly Updates)</sup>                    |
+| Keveyis <sup>BVG (==Process by NDC== - Weekly Updates)</sup>                    |
 | Khapzory                    |
 | Kuvan                       |
 | Leucovorin Calcium          |
@@ -1078,8 +1078,8 @@ search:
 | Tegsedi                     |
 | Tepezza                     |
 | Tezsprire                   |
-| Thiola                      |
-| Thiola EC                   |
+| Thiola <sup>BVG (==Process by NDC== - Weekly Updates)</sup>                     |
+| Thiola EC <sup>BVG (==Process by NDC== - Weekly Updates)</sup>                  |
 | Tiopronin                   |
 | Totect                      |
 | Trientine HCL               |
