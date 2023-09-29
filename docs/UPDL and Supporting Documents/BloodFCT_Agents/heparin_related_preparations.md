@@ -46,8 +46,8 @@ Non-Preferred Criteria
 
 ### Additional Information
 
-- For most indications: Guidelines from the American College of Chest Physicians limit duration of therapy in the outpatient setting for most indications to less than 35 days and patients should be transitioned to oral warfarin as soon as possible
-- For requests over 35 days and/or the patient cannot be transitioned to warfarin, prescriber must submit additional documentation for reasoning:
+- For most indications: Guidelines from the American College of Chest Physicians limit duration of therapy in the outpatient setting for most indications to less than 35 days and patients should be transitioned to oral anticoagulant as soon as possible
+- For requests over 35 days and/or the patient cannot be transitioned to oral anticoagulant, prescriber must submit additional documentation for reasoning:
     - For patients with cancer – authorized up to 180 days
     - For pregnant women – authorized up to 280 days
     - For patients unable to take warfarin – authorized up to 180 days
