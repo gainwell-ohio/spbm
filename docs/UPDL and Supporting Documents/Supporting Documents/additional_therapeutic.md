@@ -399,7 +399,7 @@ Clinical Criteria:
 
 Drug Name:
 
-- Targretin® (bexarotene)
+- Targretin® <sup>BVG (BVG Weekly Updates)</sup> (bexarotene)
 
 Clinical Criteria
 
