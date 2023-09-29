@@ -127,9 +127,9 @@ Non-Preferred Criteria
 
 -   Must provide documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances) **OR**
     -   For any nonsolid oral dosage formulation: must provide documentation of medical necessity for why patient cannot be changed to a solid oral dosage formulation
--   Must have had an inadequate clinical response of at least ^^7 days^^ of at least ^^two unrelated^^ preferred drugs
+-   Must have had an inadequate clinical response of at least ^^7 days^^ of at least ^^two unrelated^^ preferred drugs of the same duration of action (SHORT-ACTING or LONG-ACTING)
     -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
-- Must also me applicable SHORT-ACTING or LONG-ACTING OPIOID CRITERIA
+- Must also meet applicable SHORT-ACTING or LONG-ACTING OPIOID CRITERIA
 
 [**Non-Preferred Opioid vs Cancer/Palliative care/Amputation Procedure](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/opioid/nonpreferredopioids/)
 
@@ -182,7 +182,7 @@ Additional LONG-ACTING Opioids Criteria
 -   **Dose escalation requests** can be authorized up to 180 days
     -   Documentation of the following must be provided:
         -   Prescriber attestation that dose escalation is likely to result in improved function or pain control
-        -   Requests for a daily dose \>80 MED must be prescribed by pain specialist, specialist in the area of the body affected by pain, or anesthesiologist
+        -   Requests for a cumulative daily dose >80 MED must be prescribed by pain specialist, specialist in the area of the body affected by pain, or anesthesiologist
 
 ### Transmucosal Fentanyl 
 

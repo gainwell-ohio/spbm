@@ -81,7 +81,9 @@ Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-**AR** - Sildenafil Susp and Tadliq: a PA is required for patients 6 years and older
+**AR** - Sildenafil Susp: a PA is required for patients 18 years and older </BR>
+**AR** - Tadliq: a PA is required for patients younger than 18 years
+
 
 ## Links
 

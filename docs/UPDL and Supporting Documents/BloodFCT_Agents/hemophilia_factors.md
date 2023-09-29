@@ -51,7 +51,7 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 | Non-Preferred           | Generic Name | Quantity | Time (Days) |
 |:------------------------|:-------------|:--------:|:-----------:|
-| Altuviiio <sup>PA</sup> |              |          |             |
+| Altuviiio               |              |          |             |
 | Jivi                    |              |          |             |
 | Nuwiq                   |              |          |             |
 | Obizur                  |              |          |             |

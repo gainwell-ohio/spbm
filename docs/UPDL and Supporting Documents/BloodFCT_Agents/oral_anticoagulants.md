@@ -17,21 +17,21 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 | Preferred                                   | Generic Name                               | Quantity | Time (Days) |
 |:--------------------------------------------|:-------------------------------------------|:--------:|:-----------:|
-| Eliquis                                     |                                            |          |             |
-| Pradaxa <sup>BvG ==(Process by NDC)==</sup> |                                            |          |             |
-| Pradaxa Pellet Pak                          |                                            |          |             |
-| Warfarin                                    |                                            |          |             |
-| Xarelto Suspension                          |                                            |          |             |
-| Xarelto Tab <sup>QL</sup>                   | Rivaroxaban Tab (all strengths excl 15 MG) |   102    |     102     |
-| Xarelto Tab <sup>QL</sup>                   | Rivaroxaban Tab 15 MG                      |   204    |     102     |
+| Eliquis <sup>AR</sup>                                    |                                            |          |             |
+| Pradaxa <sup>AR, BvG ==(Process by NDC)==</sup> |                                            |          |             |
+| Pradaxa Pellet Pak <sup>AR</sup>                          |                                            |          |             |
+| Warfarin <sup>AR</sup>                                    |                                            |          |             |
+| Xarelto Suspension <sup>AR</sup>                          |                                            |          |             |
+| Xarelto Tab <sup>AR, QL</sup>                   | Rivaroxaban Tab (all strengths excl 15 MG) |   102    |     102     |
+| Xarelto Tab <sup>AR, QL</sup>                   | Rivaroxaban Tab 15 MG                      |   204    |     102     |
 
 ### Non-Preferred
 
 | Non-Preferred                                                                         | Generic Name | Quantity | Time (Days) |
 |:--------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
-| <span title = "Brand Preferred: Pradaxa">Dabigatran</span> <sup>Brand Preferred</sup> |              |          |             |
-| Savaysa                                                                               |              |          |             |
-| Xarelto Susp                                                                          |              |          |             |
+| <span title = "Brand Preferred: Pradaxa">Dabigatran</span> <sup>AR, Brand Preferred</sup> |              |          |             |
+| Savaysa <sup>AR</sup>                                                                               |              |          |             |
+| Xarelto Susp <sup>AR</sup>                                                                          |              |          |             |
 
 ## Authorizations
 
@@ -56,6 +56,9 @@ Non-Preferred Criteria
 Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+
+**AR** – All drugs: a PA is required for patients older than 12 years old
+
 
 ## Links
 
