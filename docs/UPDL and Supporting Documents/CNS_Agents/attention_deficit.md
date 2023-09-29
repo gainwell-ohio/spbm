@@ -65,7 +65,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Methylphenidate Chewable Tab <sup>AR QL</sup>                         | Methylphenidate HCI Chew Tab (all strengths)                 | Determined pursuant to PA | Determined pursuant to PA |
 | Methylphenidate ER <sup>AR QL</sup>(generic of Aptensio XR, Relexxii) |                                                              |                           |                           |
 | Mydayis <sup>QL</sup>                                                 | Amphetamin / Dextroamphetamine 3-Bead ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Vyvanse Chewable Tab                                                  |                                                              |                           |                           |
+| Vyvanse Chewable Tab <sup>BVG(==Process by NDC==- Weekly Updates)</sup>                                                 |                                                              |                           |                           |
 | Xelstrym <sup>AR</sup>                                                |                                                              |                           |                           |
 | Zenzedi <sup>AR QL</sup>                                              | Dextroamphetamine Sulfate Tab (all strengths)                | Determined pursuant to PA | Determined pursuant to PA |
 
