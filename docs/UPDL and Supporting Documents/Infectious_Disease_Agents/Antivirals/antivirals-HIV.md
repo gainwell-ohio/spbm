@@ -49,7 +49,7 @@ This is a subcategory of Infectious Disease Agents.
 | Odefsey                                       |              |          |             |
 | Pifeltro                                      |              |          |             |
 | Prezcobix                                     |              |          |             |
-| Prezista                                      |              |          |             |
+| Prezista <sup>BVG (==Process by NDC==- Weekly Updates)</sup>       |              |          |             |
 | Ritonavir Tab                                 |              |          |             |
 | Rukobia ER <sup>PA</sup>                      |              |          |             |
 | Symfi <sup>BvG ==(Process by NDC)==</sup>                          |              |          |             |
