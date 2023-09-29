@@ -47,7 +47,7 @@ This is a subcategory of Respiratory Agents.
 | Pulmicort Flexhaler <sup>QL</sup>                                                      | Budesonide Inhalation Aerosol Powder 90 MCG / ACT             |    9     |     102     |
 | Pulmicort Flexhaler <sup>QL</sup>                                                      | Budesonide Inhalation Aerosol Powder 180 MCG / ACT            |    5     |     102     |
 | Serevent Diskus                                                                        |                                                               |          |             |
-| Spiriva <sup>QL, BVG (==Process by NDC== -Weekly Updates)</sup>                                                                  | Tiotropium Bromide Monohydrate Inhalation Cap (all strengths) |   102    |     102     |
+| Spiriva <sup>QL, **HandiHaler is BVG (==Process by NDC== -Weekly Updates)</sup>                                                                  | Tiotropium Bromide Monohydrate Inhalation Cap (all strengths) |   102    |     102     |
 | Stiolto                                                                                |                                                               |          |             |
 | Striverdi Respimat                                                                     |                                                               |          |             |
 | Symbicort <sup>BvG QL ==(Process by NDC)==</sup>                                                            | Budesonide / Formoterol Fumarate Aerosol (all strengths)      |  69.36   |     102     |
