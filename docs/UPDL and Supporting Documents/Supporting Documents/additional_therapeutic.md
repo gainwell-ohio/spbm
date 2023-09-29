@@ -471,7 +471,7 @@ Clinical Criteria:
 
 Drug Name:
 
-- Revlimid® (lenalidomide)
+- Revlimid® <sup>(==Process by NDC==- Weekly Updates)</sup> (lenalidomide)
 
 Clinical Criteria:
 
