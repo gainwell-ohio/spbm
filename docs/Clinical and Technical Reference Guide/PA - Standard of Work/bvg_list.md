@@ -7,6 +7,8 @@
 | ---------------------------------------------------- | ---------------------------- | ------------ | ------------ |
 | \*Betaine Powder For Oral Solution\*\*\*             | Cystadane Powder             | 2/18/2022    | 6/6/2079     |
 | \*Methenamine-Hyoscamine-Meth Blue-Sod Phos Tab      | Urogesic-Tab Blue            | 12/31/2021   | 6/6/2079     |
+| Adalimumab-adbm Auto-injector Kit                   | Cyltezo Inj                  | 09/29/2023   | 6/6/2079     |
+| Adalimumab-adbm Prefilled Syringe Kit                 |Cyltezo Inj                   | 09/29/2023   | 6/6/2079     |
 | Aprepitant Capsule 80MG                              | Emend Cap 80MG               | 3/19/2020    | 6/6/2079     |
 | Aprepitant Capsule Therapy Pack                      | Emend Tripac Pak             | 1/6/2017     | 6/6/2079     |
 | Asenapine Maleate SL Tab (Base Equiv)                | Saphris Sub                  | 12/31/2021   | 6/6/2079     |
