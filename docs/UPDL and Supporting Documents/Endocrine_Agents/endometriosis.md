@@ -72,4 +72,4 @@ Subsequent Authorization Criteria
 [Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=50&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
 [Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20231001+UPDL+Criteria+_v2.FINAL.pdf#page=57){ :target="_blank" rel="noopener"} </br>
 [Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20231001_UPDL_V2.FINAL.hyperlinks_added.pdf#page=21){ :target="_blank" rel="noopener"} </br>
-[Quantity Limit List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf){ :target="_blank" rel="noopener"}
+[Quantity Limit List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/Quantity%20Limits.pdf){ :target="_blank" rel="noopener"}
