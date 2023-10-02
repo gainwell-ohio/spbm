@@ -24,7 +24,7 @@ How to enter:
 •	Dose: 15 mg/kg IM given monthly. First dose should be administered prior to the start of the RSV season and remaining doses administered monthly throughout the RSV season (typically November through April)</br>
 •	Available in single-dose liquid solution vials: 50 mg per 0.5 mL and 100 mg per 1 mL
   
-![image](https://github.com/gainwell-ohio/spbm/assets/122046056/0f3814fc-9a3b-4d31-a20a-bab5b1d17e80)
+![image](synagis.png)
 
   o	If using Synagis 50 mg/0.5 ml: Enter by GCNSEQNO and DDU is MLS per 28 days.</br>
   o	If using Synagis 100 mg/ml: Enter by GCNSEQNO and DDU is MLS per 28 days.</br>
