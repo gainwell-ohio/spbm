@@ -5,7 +5,7 @@ search:
 
 # UPDL Criteria
 
-[UPDL Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701+UPDL+Criteria+_v1_FINAL.approved.pdf#overlay-context=drug-coverage)
+[UPDL Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20231001+UPDL+Criteria+_v2.FINAL.pdf#overlay-context=drug-coverage)
 
 ## Analgesic Agents
 
