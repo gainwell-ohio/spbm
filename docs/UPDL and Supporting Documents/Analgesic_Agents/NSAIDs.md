@@ -109,6 +109,6 @@ Subsequent Authorization Criteria
 
 [Criteria](https://medicaid.ohio.gov/static/PHM/drug-coverage/20231001+UPDL+Criteria+_v2.FINAL.pdf#page=9){ :target="_blank"}
 
-[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230701_UPDL_FINAL_ODM.approved.v2.pdf#page=8){ :target="_blank"}
+[Preferred Drug List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20231001_UPDL_V2.FINAL.hyperlinks_added.pdf#page=8){ :target="_blank"}
 
 [Quantity Limit List](https://medicaid.ohio.gov/static/PHM/drug-coverage/20230101_Ohio_Medicaid_Quantity_Document_APPROVED.pdf)<target="_blank">
