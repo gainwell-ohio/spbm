@@ -1,4 +1,4 @@
-# Vyvanse Capsules ONLY Shortage Guidance 
+# Vyvanse (Capsules ONLY) Shortage Guidance 
 
 ## 9/20/23
 
