@@ -18,7 +18,7 @@ Bowel Preparations is a subcategory of Gastrointestinal Agents.
 | Gavilyte-G                                |              |          |             |
 | Golytely                                  |              |          |             |
 | PEG-3350 and Electrolytes 236-22.7G, 420G |              |          |             |
-| Suprep                                    |              |          |             |
+| Suprep <sup> BVG (==Process by NDC==)</sup>                   |              |          |             |
 
 ### Non-Preferred
 
