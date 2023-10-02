@@ -1,3 +1,9 @@
+---
+search:
+ exclude: true
+---
+
+# contracted pharmacies
 
 <div class="WordSection1">
 
