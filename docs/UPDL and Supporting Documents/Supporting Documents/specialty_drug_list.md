@@ -742,7 +742,7 @@ search:
 | Diuretics |
 | --------- |
 | Jynarque  |
-| Samsca <sup>BVG (==Process by NDC== - Weekly Updates)</sup>   |
+| Samsca <sup>BVG (==Process by NDC== - Weekly Updates), High Cost Edit</sup>   |
 | Tolvaptan |
 
 ## EENT Preps
