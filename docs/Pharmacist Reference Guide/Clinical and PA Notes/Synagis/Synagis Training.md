@@ -30,7 +30,7 @@ How to enter:
   o	If using Synagis 50 mg/0.5 ml: Enter by GCNSEQNO and DDU is MLS per 28 days.</br>
   o	If using Synagis 100 mg/ml: Enter by GCNSEQNO and DDU is MLS per 28 days.</br>
   o	If using HICL: Enter by HICL Seqno: 018564 and DDU as MLS per 28 days. </br>
-  o	Approval length: starting on 11/01/2023 through 3/31/2023.
+  o	Approval length: starting on 11/01/2023 through 3/31/2024.
 
 **PA comes in on 10/1 and criteria meets approval** → Approval starting on 11/01- 5 doses through 3/31/24.
 
