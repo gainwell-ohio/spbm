@@ -31,9 +31,9 @@ How to enter:
   o	If using HICL: Enter by HICL Seqno: 018564 and DDU as MLS per 28 days. </br>
   o	Approval length: starting on 11/01/2023 through 3/31/2023.
 
-**PA comes in on 10/1 and criteria meets approval** → Approval starting on 11/01-5 doses through 3/31/23.
+**PA comes in on 10/1 and criteria meets approval** → Approval starting on 11/01- 5 doses through 3/31/24.
 
-**PA comes in on 12/1 and criteria meets approval** → 4 doses through 3/31/23.
+**PA comes in on 12/1 and criteria meets approval** → 4 doses through 3/31/24.
 
 •	**Epinephrine Products**: We do not approve for epinephrine pro-actively, should be reviewed for approval after use of the product.
 
