@@ -32,25 +32,25 @@ search:
 1.	Request for ***COT due to a legacy PA on file*** from a previous MCE and claims history for drug = ***review under re-auth criteria***
     - Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring. If this is not provided, please use the following ***denial language:*** 
 
-  Coverage for reauthorization is provided when your provider has submitted documentation (chart notes) 	showing positive     clinical response (outcome) to use of the requested mediation as well as documentation 	(chart notes) that support ongoing   safety monitoring while using the requested medication.
   
-  The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List criteria were reviewed and per Ohio           Administrative Code Rule 5160-1-01 (C) and 5160-26-03 (B), a medically necessary service must include: generally accepted     standards of medical practice, be clinically appropriate in administration, treatment & outcome and be the lowest cost       alternative to effectively treat the condition. Please contact your provider to assist you with other treatment options       that might be covered under your benefit package, or other services that might be available through the community.
+Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
+
 
 2.	Request for ***COT due to claims*** paying while edits were turned off = ***Review under non-preferred criteria***
     - Need 3 trials (120 days each) of 3 preferred medications (one of which must be ***Byetta, Trulicity or Victoza***).
     - If trials are ***NOT MET***, please use the following ***denial language:***
 
-  Coverage is provided when the member has a history of at least 120 days of therapy with THREE preferred (medication           covered by the Plan) medications [ONE of the 120 day trials must be Byetta (5mcg and 10mcg), Victoza (18 MG/3 ML PEN) or     Trulicity (0.75mg, 1.5mg, 3mg and 4.5mg)], which include but are not limited to: Farxiga 5 and 10 mg, Invokana 100 mg and     300 mg, Victoza 18 MG/3 ML PEN, and Jardiance 10 and 25 mg.
-		
-The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List criteria were reviewed and per Ohio 	Administrative Code Rule 5160-1-01 (C) and 5160-26-03 (B), a medically necessary service must	include: generally accepted standards of medical practice, be clinically appropriate in administration, treatment & outcome and be the lowest cost alternative to effectively treat the condition. Please contact your provider to assist you with other 	treatment options that might be covered under your benefit package, or other services that might be available through the community.
+  
+Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
+
 
 3.	Request for ***new start = Review under non-preferred criteria***
     - Need 3 trials (120 days each) of 3 preferred medications (one of which must be ***Byetta,	Trulicity or Victoza***).
     - If trials are NOT MET, please use the following ***denial language:***
 		
-Coverage is provided when the member has a history of at least 120 days of therapy with THREE preferred (medication covered by the Plan) medications [ONE of the 120 day trials must be Byetta (5mcg and 10mcg), Victoza (18 MG/3 ML PEN) or Trulicity (0.75mg, 1.5mg, 3mg and 4.5mg)], which include but are not limited to: Farxiga 5 and 	10 mg, Invokana 100 mg and 300 mg, Victoza 18 MG/3 ML PEN, and Jardiance 	10 and 25 mg.		
+  
+Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
 
-The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List criteria were reviewed and per Ohio Administrative Code Rule 5160-1-01 (C) and 5160-26-03 (B), a medically necessary service must include: generally accepted standards of medical practice, be clinically appropriate in administration, treatment & outcome and be the lowest cost alternative to effectively treat the condition. Please contact your provider to assist you with other treatment options that might be covered under your benefit package, or other services that might be available through the community.
 
 ## Ozempic (semaglutide)
 
@@ -63,25 +63,25 @@ The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List c
 1.	Request for ***COT due to a legacy PA on file*** from a previous MCE and claims history for drug = ***review under re-auth criteria***
     - Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring. If this is not provided, please use the following ***denial language:*** 
 
-  Coverage for reauthorization is provided when your provider has submitted documentation (chart notes) 	showing positive     clinical response (outcome) to use of the requested mediation as well as documentation 	(chart notes) that support ongoing   safety monitoring while using the requested medication.
   
-  The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List criteria were reviewed and per Ohio           Administrative Code Rule 5160-1-01 (C) and 5160-26-03 (B), a medically necessary service must include: generally accepted     standards of medical practice, be clinically appropriate in administration, treatment & outcome and be the lowest cost       alternative to effectively treat the condition. Please contact your provider to assist you with other treatment options       that might be covered under your benefit package, or other services that might be available through the community.
+Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
+
 
 2.	Request for ***COT due to claims*** paying while edits were turned off = ***Review under non-preferred criteria***
     - Need 3 trials (120 days each) of 3 preferred medications (one of which must be ***Byetta, Trulicity or Victoza***).
     - If trials are ***NOT MET***, please use the following ***denial language:***
 
-  Coverage is provided when the member has a history of at least 120 days of therapy with THREE preferred (medication           covered by the Plan) medications [ONE of the 120 day trials must be Byetta (5mcg and 10mcg), Victoza (18 MG/3 ML PEN) or     Trulicity (0.75mg, 1.5mg, 3mg and 4.5mg)], which include but are not limited to: Farxiga 5 and 10 mg, Invokana 100 mg and     300 mg, Victoza 18 MG/3 ML PEN, and Jardiance 10 and 25 mg.
-		
-The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List criteria were reviewed and per Ohio 	Administrative Code Rule 5160-1-01 (C) and 5160-26-03 (B), a medically necessary service must	include: generally accepted standards of medical practice, be clinically appropriate in administration, treatment & outcome and be the lowest cost alternative to effectively treat the condition. Please contact your provider to assist you with other 	treatment options that might be covered under your benefit package, or other services that might be available through the community.
+  
+Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
+
 
 3.	Request for ***new start = Review under non-preferred criteria***
     - Need 3 trials (120 days each) of 3 preferred medications (one of which must be ***Byetta,	Trulicity or Victoza***).
     - If trials are NOT MET, please use the following ***denial language:***
 		
-Coverage is provided when the member has a history of at least 120 days of therapy with THREE preferred (medication covered by the Plan) medications [ONE of the 120 day trials must be Byetta (5mcg and 10mcg), Victoza (18 MG/3 ML PEN) or Trulicity (0.75mg, 1.5mg, 3mg and 4.5mg)], which include but are not limited to: Farxiga 5 and 	10 mg, Invokana 100 mg and 300 mg, Victoza 18 MG/3 ML PEN, and Jardiance 	10 and 25 mg.		
+  
+Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
 
-The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List criteria were reviewed and per Ohio Administrative Code Rule 5160-1-01 (C) and 5160-26-03 (B), a medically necessary service must include: generally accepted standards of medical practice, be clinically appropriate in administration, treatment & outcome and be the lowest cost alternative to effectively treat the condition. Please contact your provider to assist you with other treatment options that might be covered under your benefit package, or other services that might be available through the community.
 
 
 ## Rybelsus (semaglutide)
@@ -95,25 +95,25 @@ The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List c
 1.	Request for ***COT due to a legacy PA on file*** from a previous MCE and claims history for drug = ***review under re-auth criteria***
     - Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring. If this is not provided, please use the following ***denial language:*** 
 
-  Coverage for reauthorization is provided when your provider has submitted documentation (chart notes) 	showing positive     clinical response (outcome) to use of the requested mediation as well as documentation 	(chart notes) that support ongoing   safety monitoring while using the requested medication.
   
-  The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List criteria were reviewed and per Ohio           Administrative Code Rule 5160-1-01 (C) and 5160-26-03 (B), a medically necessary service must include: generally accepted     standards of medical practice, be clinically appropriate in administration, treatment & outcome and be the lowest cost       alternative to effectively treat the condition. Please contact your provider to assist you with other treatment options       that might be covered under your benefit package, or other services that might be available through the community.
+Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
+
 
 2.	Request for ***COT due to claims*** paying while edits were turned off = ***Review under non-preferred criteria***
     - Need 3 trials (120 days each) of 3 preferred medications (one of which must be ***Byetta, Trulicity or Victoza***).
     - If trials are ***NOT MET***, please use the following ***denial language:***
 
-  Coverage is provided when the member has a history of at least 120 days of therapy with THREE preferred (medication           covered by the Plan) medications [ONE of the 120 day trials must be Byetta (5mcg and 10mcg), Victoza (18 MG/3 ML PEN) or     Trulicity (0.75mg, 1.5mg, 3mg and 4.5mg)], which include but are not limited to: Farxiga 5 and 10 mg, Invokana 100 mg and     300 mg, Victoza 18 MG/3 ML PEN, and Jardiance 10 and 25 mg.
-		
-The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List criteria were reviewed and per Ohio 	Administrative Code Rule 5160-1-01 (C) and 5160-26-03 (B), a medically necessary service must	include: generally accepted standards of medical practice, be clinically appropriate in administration, treatment & outcome and be the lowest cost alternative to effectively treat the condition. Please contact your provider to assist you with other 	treatment options that might be covered under your benefit package, or other services that might be available through the community.
+  
+Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
+
 
 3.	Request for ***new start = Review under non-preferred criteria***
     - Need 3 trials (120 days each) of 3 preferred medications (one of which must be ***Byetta,	Trulicity or Victoza***).
     - If trials are NOT MET, please use the following ***denial language:***
 		
-Coverage is provided when the member has a history of at least 120 days of therapy with THREE preferred (medication covered by the Plan) medications [ONE of the 120 day trials must be Byetta (5mcg and 10mcg), Victoza (18 MG/3 ML PEN) or Trulicity (0.75mg, 1.5mg, 3mg and 4.5mg)], which include but are not limited to: Farxiga 5 and 	10 mg, Invokana 100 mg and 300 mg, Victoza 18 MG/3 ML PEN, and Jardiance 	10 and 25 mg.		
+  
+Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
 
-The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List criteria were reviewed and per Ohio Administrative Code Rule 5160-1-01 (C) and 5160-26-03 (B), a medically necessary service must include: generally accepted standards of medical practice, be clinically appropriate in administration, treatment & outcome and be the lowest cost alternative to effectively treat the condition. Please contact your provider to assist you with other treatment options that might be covered under your benefit package, or other services that might be available through the community.
 
 ## Bydureon Bcise (exenatide)
 
@@ -123,26 +123,23 @@ The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List c
 
 1.	Request for ***COT due to a legacy PA on file*** from a previous MCE and claims history for drug = ***review under re-auth criteria***
     - Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring. If this is not provided, please use the following ***denial language:*** 
-
-  Coverage for reauthorization is provided when your provider has submitted documentation (chart notes) 	showing positive     clinical response (outcome) to use of the requested mediation as well as documentation 	(chart notes) that support ongoing   safety monitoring while using the requested medication.
   
-  The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List criteria were reviewed and per Ohio           Administrative Code Rule 5160-1-01 (C) and 5160-26-03 (B), a medically necessary service must include: generally accepted     standards of medical practice, be clinically appropriate in administration, treatment & outcome and be the lowest cost       alternative to effectively treat the condition. Please contact your provider to assist you with other treatment options       that might be covered under your benefit package, or other services that might be available through the community.
+Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
+
 
 2.	Request for ***COT due to claims*** paying while edits were turned off = ***Review under non-preferred criteria***
     - Need 3 trials (120 days each) of 3 preferred medications (one of which must be ***Byetta, Trulicity or Victoza***).
     - If trials are ***NOT MET***, please use the following ***denial language:***
+  
+Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
 
-  Coverage is provided when the member has a history of at least 120 days of therapy with THREE preferred (medication           covered by the Plan) medications [ONE of the 120 day trials must be Byetta (5mcg and 10mcg), Victoza (18 MG/3 ML PEN) or     Trulicity (0.75mg, 1.5mg, 3mg and 4.5mg)], which include but are not limited to: Farxiga 5 and 10 mg, Invokana 100 mg and     300 mg, Victoza 18 MG/3 ML PEN, and Jardiance 10 and 25 mg.
-		
-The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List criteria were reviewed and per Ohio 	Administrative Code Rule 5160-1-01 (C) and 5160-26-03 (B), a medically necessary service must	include: generally accepted standards of medical practice, be clinically appropriate in administration, treatment & outcome and be the lowest cost alternative to effectively treat the condition. Please contact your provider to assist you with other 	treatment options that might be covered under your benefit package, or other services that might be available through the community.
 
 3.	Request for ***new start = Review under non-preferred criteria***
     - Need 3 trials (120 days each) of 3 preferred medications (one of which must be ***Byetta,	Trulicity or Victoza***).
     - If trials are NOT MET, please use the following ***denial language:***
+  
+Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
 		
-Coverage is provided when the member has a history of at least 120 days of therapy with THREE preferred (medication covered by the Plan) medications [ONE of the 120 day trials must be Byetta (5mcg and 10mcg), Victoza (18 MG/3 ML PEN) or Trulicity (0.75mg, 1.5mg, 3mg and 4.5mg)], which include but are not limited to: Farxiga 5 and 	10 mg, Invokana 100 mg and 300 mg, Victoza 18 MG/3 ML PEN, and Jardiance 	10 and 25 mg.		
-
-The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List criteria were reviewed and per Ohio Administrative Code Rule 5160-1-01 (C) and 5160-26-03 (B), a medically necessary service must include: generally accepted standards of medical practice, be clinically appropriate in administration, treatment & outcome and be the lowest cost alternative to effectively treat the condition. Please contact your provider to assist you with other treatment options that might be covered under your benefit package, or other services that might be available through the community.
 
 ## Adlyxin (lixisenatide)
 
@@ -152,26 +149,24 @@ The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List c
 
 1.	Request for ***COT due to a legacy PA on file*** from a previous MCE and claims history for drug = ***review under re-auth criteria***
     - Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring. If this is not provided, please use the following ***denial language:*** 
-
-  Coverage for reauthorization is provided when your provider has submitted documentation (chart notes) 	showing positive     clinical response (outcome) to use of the requested mediation as well as documentation 	(chart notes) that support ongoing   safety monitoring while using the requested medication.
   
-  The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List criteria were reviewed and per Ohio           Administrative Code Rule 5160-1-01 (C) and 5160-26-03 (B), a medically necessary service must include: generally accepted     standards of medical practice, be clinically appropriate in administration, treatment & outcome and be the lowest cost       alternative to effectively treat the condition. Please contact your provider to assist you with other treatment options       that might be covered under your benefit package, or other services that might be available through the community.
+Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
+
 
 2.	Request for ***COT due to claims*** paying while edits were turned off = ***Review under non-preferred criteria***
     - Need 3 trials (120 days each) of 3 preferred medications (one of which must be ***Byetta, Trulicity or Victoza***).
     - If trials are ***NOT MET***, please use the following ***denial language:***
+  
+  
+Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
 
-  Coverage is provided when the member has a history of at least 120 days of therapy with THREE preferred (medication           covered by the Plan) medications [ONE of the 120 day trials must be Byetta (5mcg and 10mcg), Victoza (18 MG/3 ML PEN) or     Trulicity (0.75mg, 1.5mg, 3mg and 4.5mg)], which include but are not limited to: Farxiga 5 and 10 mg, Invokana 100 mg and     300 mg, Victoza 18 MG/3 ML PEN, and Jardiance 10 and 25 mg.
-		
-The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List criteria were reviewed and per Ohio 	Administrative Code Rule 5160-1-01 (C) and 5160-26-03 (B), a medically necessary service must	include: generally accepted standards of medical practice, be clinically appropriate in administration, treatment & outcome and be the lowest cost alternative to effectively treat the condition. Please contact your provider to assist you with other 	treatment options that might be covered under your benefit package, or other services that might be available through the community.
 
 3.	Request for ***new start = Review under non-preferred criteria***
     - Need 3 trials (120 days each) of 3 preferred medications (one of which must be ***Byetta,	Trulicity or Victoza***).
     - If trials are NOT MET, please use the following ***denial language:***
+  
+Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
 		
-Coverage is provided when the member has a history of at least 120 days of therapy with THREE preferred (medication covered by the Plan) medications [ONE of the 120 day trials must be Byetta (5mcg and 10mcg), Victoza (18 MG/3 ML PEN) or Trulicity (0.75mg, 1.5mg, 3mg and 4.5mg)], which include but are not limited to: Farxiga 5 and 	10 mg, Invokana 100 mg and 300 mg, Victoza 18 MG/3 ML PEN, and Jardiance 	10 and 25 mg.		
-
-The Gainwell Policy for Medical Necessity and Ohio Unified Preferred Drug List criteria were reviewed and per Ohio Administrative Code Rule 5160-1-01 (C) and 5160-26-03 (B), a medically necessary service must include: generally accepted standards of medical practice, be clinically appropriate in administration, treatment & outcome and be the lowest cost alternative to effectively treat the condition. Please contact your provider to assist you with other treatment options that might be covered under your benefit package, or other services that might be available through the community.
 
 References:
 
