@@ -16,7 +16,8 @@ search:
 
 ## Entering Synagis PA 10/02/23
 
-[Synagis Processing Guidelines and Epinephrine](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EdF1lsQ6LblEtatAwy5lh9ABRGFth4Mix2_5D4m_w78jyQ?e=q4ofsm){:target="_blank" rel="noopener"}
+[Synagis Processing Guidelines and Epinephrine](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EdF1lsQ6LblEtatAwy5lh9ABRGFth4Mix2_5D4m_w78jyQ?e=Z63TiK){:target="_blank" rel="noopener"}
+
 - **Epinephrine Products:** We do not approve for epinephrine pro-actively, should be reviewed for approval after use of the product.
 
 How to enter:
