@@ -97,3 +97,5 @@
 | Travoprost Ophth Soln                                | Travatan Z Ophth Soln        | 4/16/2021    | 6/6/2079     |
 | Tretinoin Microsphere Gel 0.08%                      | Retin-A Micro Pump 0.08%     | 9/8/2023     | 6/6/2079     |
 | Vilazodone HCl Tab                                   | Viibryd Tab                  | 6/10/2022    | 6/6/2079     |
+
+[Brand Over Generic List](https://mygainwell-my.sharepoint.com/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/Eai_eZ6ugONBl_opbUg_iPwBTWtojBF1K6EZbsvvPjpczQ?e=gop079){:target="_blank" rel="noopener"}
