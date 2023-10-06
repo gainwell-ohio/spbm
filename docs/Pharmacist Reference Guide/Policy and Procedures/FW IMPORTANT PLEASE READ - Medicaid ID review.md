@@ -1,3 +1,10 @@
+---
+search:
+ exclude: true
+---
+
+# medicaid id
+
 <div class="WordSection1">
 
 **<span style="color:black">From:<span style="mso-tab-count:1">                                            
