@@ -3,6 +3,13 @@ search:
  exclude: true
 ---
 
+# split faxes
+
+---
+search:
+ exclude: true
+---
+
 # splitting faxes
 
 <div class="WordSection1">
