@@ -40,7 +40,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Methylphenidate ER Tab <sup>AR QL</sup> (generic of Concerta, Methylin ER, Ritalin SR) |                                                               |          |             |
 | Methylphenidate Sol <sup>AR QL</sup>                                                   | Methylphenidate HCI Soln 5 MG / 5 ML                          |   2040   |     34      |
 | Methylphenidate Sol <sup>AR QL</sup>                                                   | Methylphenidate HCI Soln 10 MG / 5 ML                         |   1020   |     34      |
-| Methylphenidate Tab <sup>AR QL</sup>                                                   | Methulphenidate HCI Tab (all strengths)                       |    34    |     34      |
+| Methylphenidate Tab <sup>AR QL</sup>                                                   | Methulphenidate HCI Tab (all strengths)                       |    102    |     34      |
 | Procentra <sup>AR</sup>                                                                |                                                               |          |             |
 | Qelbree <sup>ST</sup>                                                                  |                                                               |          |             |
 | Quillichew ER <sup>AR</sup>                                                            |                                                               |          |             |
