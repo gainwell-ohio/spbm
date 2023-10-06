@@ -1,5 +1,8 @@
 # Recently Added/Updated
 
+10/6/23
+- [BVG update](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/bvg_list/?h=brand)
+
 10/2/23
 - [Weekly Email 9/30/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/Ee8xpAgp-SFFnLMdXceHSyIBUI18Re2GVRUtBFGZ4MDcBw?e=pCKFCy){:target="_blank" rel="noopener"}
 - [How to Enter Synagis PA](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Synagis/Synagis%20Training/?h=synagis)
