@@ -24,6 +24,7 @@
 | Budesonide-Formoterol Fumarate Dihyd Aerosol         | Symbicort                    | 1/17/2020    | 6/6/2079     |
 | Buprenorphine TD Patch Weekly                        | Butrans                      | 4/16/2021    | 6/6/2079     |
 | Ciprofloxacin-Dexamethasone Otic Susp                | Ciprodex Sus                 | 9/4/2020     | 6/6/2079     |
+| Clindamycin Phosphate-Benzoyl Peroxide Gel 1.2-3.75% | Onexton Gel 1.2-3.75         | 10/6/2023    | 6/6/2079     |
 | Colchicine Cap 0.6 MG                                | Mitigare                     | 12/30/2022   | 6/6/2079     |
 | Cyclosporine (Ophth) Emulsion                        | Restasis Emu                 | 2/18/2022    | 6/6/2079     |
 | Dabigatran Etexilate Mesylate                        | Pradaxa Cap                  | 7/8/2022     | 6/6/2079     |
@@ -76,6 +77,7 @@
 | Rufinamide Tab                                       | Banzel Tab                   | 6/11/2021    | 6/6/2079     |
 | Saxagliptin HCl Tab (Base Equiv)                     | Onglyza Tab                  | 8/11/2023    | 6/6/2079     |
 | Saxagliptin-Metformin HCl Tab ER 24HR                | Kombiglyze XR                | 8/18/2023    | 6/6/2079     |
+| Sod Sulfate-Pot Sulf-Mg Sulf Oral Sol 17.5-3.13-1.6 GM/177ML|Suprep Bowel Sol Prep Kit| 10/1/2023   | 6/6/2079     |
 | Sodium Oxybate Oral Solution                         | Xyrem Sol                    | 12/30/2022   | 6/6/2079     |
 | Sodium Phenylbutyrate Oral Powder 3 GM/Teaspoonful   | Buphenyl Pow                 | 9/11/2020    | 6/6/2079     |
 | Sodium Phenylbutyrate Tab                            | Buphenyl Tab                 | 9/29/2017    | 6/6/2079     |
