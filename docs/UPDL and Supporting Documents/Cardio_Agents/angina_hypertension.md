@@ -50,7 +50,7 @@ This is a subcategory of Cardiovascular Agents.
 | Bisoprolol <sup>QL</sup>                                 | Bisoprolol Fumarate Tab (all strengths excl 10 MG)          |   102    |     102     |
 | Bisoprolol <sup>QL</sup>                                 | Bisoprolol Fumarate Tab 10 MG                               |   204    |     102     |
 | Bisoprolol/HCTZ                                          |                                                             |          |             |
-| Bystolic <sup>BvG ==(Process by NDC)==</sup>                                  |                                                             |          |             |
+| Bystolic <sup>BvG ==(Process by NDC)== Weekly Updates </sup>                                  |                                                             |          |             |
 | Captopril                                                |                                                             |          |             |
 | Captopril/HCTZ                                           |                                                             |          |             |
 | Cartia XT                                                | Diltiazem HCI Coated Beads SR Cap (all strengths)           |   102    |     102     |
