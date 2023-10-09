@@ -17,20 +17,20 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 | Preferred                                   | Generic Name                               | Quantity | Time (Days) |
 |:--------------------------------------------|:-------------------------------------------|:--------:|:-----------:|
-| Eliquis                                   |                                            |          |             |
+| Eliquis <sup>AR</sup>                                    |                                            |          |             |
 | Pradaxa Cap <sup>AR, BvG ==(Process by NDC)==</sup> |                                            |          |             |
 | Pradaxa Pellet Pak <sup>AR</sup>                          |                                            |          |             |
 | Warfarin <sup>AR</sup>                                    |                                            |          |             |
 | Xarelto Suspension <sup>AR</sup>                          |                                            |          |             |
-| Xarelto Tab <sup>QL</sup>                   | Rivaroxaban Tab (all strengths excl 15 MG) |   102    |     102     |
-| Xarelto Tab <sup>QL</sup>                   | Rivaroxaban Tab 15 MG                      |   204    |     102     |
+| Xarelto Tab <sup>AR, QL</sup>                   | Rivaroxaban Tab (all strengths excl 15 MG) |   102    |     102     |
+| Xarelto Tab <sup>AR, QL</sup>                   | Rivaroxaban Tab 15 MG                      |   204    |     102     |
 
 ### Non-Preferred
 
 | Non-Preferred                                                                         | Generic Name | Quantity | Time (Days) |
 |:--------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
 | <span title = "Brand Preferred: Pradaxa">Dabigatran</span> <sup>AR, Brand Preferred</sup> |              |          |             |
-| Savaysa                                                                            |              |          |             |
+| Savaysa <sup>AR</sup>                                                                            |              |          |             |
 
 ## Authorizations
 
