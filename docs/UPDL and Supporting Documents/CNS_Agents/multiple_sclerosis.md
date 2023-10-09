@@ -33,7 +33,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 |:-----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
 | Bafiertam                                                                                |              |          |             |
 | Extavia                                                                                  |              |          |             |
-| <span title = "Brand Preferred: Gilenya">Fingolimod</span> <sup>Brand Preferred</sup>    |              |          |             |
 | <span title = "Brand Preferred: Copaxone">Glatiramer</span> <sup>Brand Preferred</sup>   |              |          |             |
 | Glatopa                                                                                  |              |          |             |
 | Kesimpta                                                                                 |              |          |             |
