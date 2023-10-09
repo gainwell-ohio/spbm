@@ -44,7 +44,7 @@ This is a subcategory of Topical Agents.
 | Desonate Gel                                                                                                             |              |          |             |
 | Desonide Lotion                                                                                                          |              |          |             |
 | Desoximetasone                                                                                                           |              |          |             |
-| <span title = "Brand Preferred: Derma-Smoothe/FS">Fluocinolone Acetonide 0.01% Oil</span> <sup>Brand Preferred</sup> |              |          |             |
+| <span title = "Brand Preferred: Derma-Smoothe/FS">Fluocinolone Acetonide 0.01% Oil</span> <sup>Brand Preferred</sup>     |              |          |             |
 | Fluocinonide Acetonide 0.025%, 0.1%                                                                                      |              |          |             |
 | Fluticasone Propionate Lotion                                                                                            |              |          |             |
 | Halcinonide Cream                                                                                                        |              |          |             |
@@ -54,6 +54,7 @@ This is a subcategory of Topical Agents.
 | Halog                                                                                                                    |              |          |             |
 | Impeklo                                                                                                                  |              |          |             |
 | Pandel                                                                                                                   |              |          |             |
+| Triamcinolone Spray                                                                                                      |              |          |             |
 
 ## Authorizations
 
