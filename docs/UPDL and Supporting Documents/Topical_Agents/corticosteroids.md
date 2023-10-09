@@ -27,7 +27,7 @@ This is a subcategory of Topical Agents.
 | Hydrocortisone                          |              |          |             |
 | Mometasone Furoate                      |              |          |             |
 | Prednicarbate                           |              |          |             |
-| Triamcinolone                           |              |          |             |
+| Triamcinolone Cream, Lotion, Oint       |              |          |             |
 
 ### Non-Preferred
 
