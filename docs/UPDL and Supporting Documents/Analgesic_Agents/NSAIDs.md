@@ -51,12 +51,13 @@ This is a subcategory of Analgesic Agents.
 
 | Non-Preferred                                | Generic Name | Quantity | Time (Days) |
 |:---------------------------------------------|:-------------|:--------:|:-----------:|
-| Diclofenac / Misoprostol                     |              |          |             |
-| Diclofenac Patch Gel 3%, Patch 1.3%, Soln 2% |              |          |             |
+| Diclofenac/Misoprostol                       |              |          |             |
+| Diclofenac Gel 3%, Patch 1.3%, Soln 1.5%, 2% |              |          |             |
+| Diclofenac Potassium                         |              |          |             |
 | Diclotrex                                    |              |          |             |
 | Elyxyb                                       |              |          |             |
 | Fenoprofen 400mg                             |              |          |             |
-| Ibuprofen / Famotidine                       |              |          |             |
+| Ibuprofen/Famotidine                         |              |          |             |
 | Ketorolac Tromethamine Nasal Spray           |              |          |             |
 | Ketoprofen                                   |              |          |             |
 | Licart Patch                                 |              |          |             |
@@ -65,8 +66,8 @@ This is a subcategory of Analgesic Agents.
 | Naproxen DR                                  |              |          |             |
 | Naproxen ER                                  |              |          |             |
 | Naproxen EC                                  |              |          |             |
-| Naproxen / Esomeprazole                      |              |          |             |
-| Pennsaid <sup>BvG ==(Process by NDC)==</sup>                      |              |          |             |
+| Naproxen/Esomeprazole                        |              |          |             |
+| Pennsaid <sup>BvG ==(Process by NDC)==</sup> |              |          |             |
 | Qmiiz ODT                                    |              |          |             |
 | Relafen DS                                   |              |          |             |
 | Zorvolex                                     |              |          |             |
