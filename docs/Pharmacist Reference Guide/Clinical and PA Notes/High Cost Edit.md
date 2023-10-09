@@ -3,7 +3,22 @@ search:
   boost: 1
 ---
 
-# High Cost Edit 2/9/23
+# Edits Associated with PA's 10/9/2023
+
+[Weekly Email 10/07/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EZYHKCxEDfpHvYRTQLZ0_88B8hVbNOflHAlD1lb8Ju19Ow?e=4sbkCx){:target="_blank" rel="noopener"}
+
+Please be aware of the edits that require PAs for documentation AND possible entry of EO for life of PA.
+
+1.	7705 – classic PA required edit, will disappear when PA on file
+
+2.	7026 – quantity, is set to warn for now, but will be turned on eventually, especially in cases of opioids
+
+3.	7230 – high cost, it is odd but even if a preferred medication gets a PA in place, it needs the EO to be placed for this edit, safe to say enter in for all medications tripping for this
+
+***BE AWARE*** 5 opioids in a month does NOT require a PA to be on file, but rationale should be used, such as dosage escalations, changing in meds, cancer, LTC, etc.
+
+
+## High Cost Edit 2/9/23
 
 
 Hello, 
