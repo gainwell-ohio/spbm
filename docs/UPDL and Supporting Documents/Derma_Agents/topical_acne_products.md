@@ -59,7 +59,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Dapsone Gel                              |              |          |             |
 | Epsolay                                  |              |          |             |
 | Finacea Foam                             |              |          |             |
-| Onexton Gel <sup> BVG (==Process by NDC==)- Weekly Updates                             |              |          |             |
+| Onexton Gel (==Process by NDC==)- Weekly Updates                             |              |          |             |
 | Ovace Plus                               |              |          |             |
 | Plixda <sup>AR</sup>                     |              |          |             |
 | Sodium Sulfacetamide / Sulfur Gel        |              |          |             |
