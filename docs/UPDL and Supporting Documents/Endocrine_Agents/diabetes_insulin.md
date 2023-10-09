@@ -54,7 +54,7 @@ This is a subcategory of Endocrine Agents.
 | Novolin 70-30                                                                               |                                                                         |                           |                           |
 | Novolin N U-100                                                                             |                                                                         |                           |                           |
 | Novolin R U-100                                                                             |                                                                         |                           |                           |
-| Semglee <sup>BvG QL ==(Process by NDC)==</sup>                                                                   | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) | Determined pursuant to PA | Determined pursuant to PA |
+| Rezvoglar                                                                                   |                                                                         |                           |                           |
 
 ## Authorizations
 
