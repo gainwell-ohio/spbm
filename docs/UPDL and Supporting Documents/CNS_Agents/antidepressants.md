@@ -59,6 +59,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Auvelity                                           |                                                               |                           |                           |
 | Brisdelle                                          |                                                               |                           |                           |
 | Bupropion XL (generic of Forfivo XL) <sup>QL</sup> | Bupropion HCI SR Tab 24 HR (all strengths)                    |            102            |            102            |
+| Citalopram Cap                                     |                                                               |                           |                           |
 | Clomipramine                                       |                                                               |                           |                           |
 | Desvenlafaxine                                     |                                                               |                           |                           |
 | Drizalma Sprinkle                                  |                                                               |                           |                           |
