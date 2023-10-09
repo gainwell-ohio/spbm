@@ -19,9 +19,9 @@ This is a subcategory of Gastrointestinal Agents.
 |:-------------------------------|:-----------------------|:--------:|:-----------:|
 | Balsalazide Disodium           |                        |          |             |
 | Budesonide ER Tab <sup>QL<sup> | Budesonide Tab ER 9 MG |    56    |     90      |
-| Mesalamine DR Cap, Tab         |                        |          |             |
+| Mesalamine DR Cap, Tab 1.2gm   |                        |          |             |
 | Mesalamine Enema               |                        |          |             |
-| Mesalamine ER                  |                        |          |             |
+| Mesalamine ER Cap 0.375mg      |                        |          |             |
 | Pentasa <sup>BvG ==(Process by NDC)==<sup>          |                        |          |             |
 | Sulfasalazine                  |                        |          |             |
 
