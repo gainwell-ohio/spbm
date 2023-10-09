@@ -39,7 +39,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Memantine ER <sup>AR</sup>                                                                             |                                                      |                           |                           |
 | Memantine Sol <sup>AR</sup>                                                                            |                                                      |                           |                           |
 | Namzaric <sup>AR</sup>                                                                                 | Memantine HCI / Donepezil HCI ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Rivastigmine Patch <sup>AR</sup>                                                                       |                                                      |                           |                           |
 
 ## Authorizations
 
