@@ -30,8 +30,9 @@ This is a subcategory of Gastrointestinal Agents.
 | Non-Preferred                                                                              | Generic Name              |         Quantity          | Time (Days) |
 |:-------------------------------------------------------------------------------------------|:--------------------------|:-------------------------:|:-----------:|
 | Dipentum                                                                                   |                           |                           |             |
-| Mesalamine Supp |                           |                           |             |
-| Uceris Foam <sup>QL BvG ==(Process by NDC)==<sup>                                                               | Budesonide Aer 2 MG / ACT | Determined pursuant to PA |             |
+| Mesalamine DR Tab 800mg                                                                    |                           |                           |             |
+| Mesalamine Supp                                                                            |                           |                           |             |
+| Uceris Foam <sup>QL BvG ==(Process by NDC)==<sup>                                          | Budesonide Aer 2 MG / ACT | Determined pursuant to PA |             |
 | Zeposia                                                                                    |                           |                           |             |
 
 ## Authorizations
