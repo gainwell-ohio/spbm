@@ -21,7 +21,7 @@ This is a subcategory of Topical Agents.
 | Desonide Cream, Oint                    |              |          |             |
 | Diflorasone Diacetate                   |              |          |             |
 | Fluocinolone Acetonide 0.01% Cream, Sol |              |          |             |
-| Fluocinonide Acetonide 0.05%            |              |          |             |
+| Fluocinolone Acetonide 0.05%            |              |          |             |
 | Flurandrenolide                         |              |          |             |
 | Fluticasone Propionate Cream, Oint      |              |          |             |
 | Hydrocortisone                          |              |          |             |
