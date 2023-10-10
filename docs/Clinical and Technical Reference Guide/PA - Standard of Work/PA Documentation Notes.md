@@ -123,6 +123,7 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 - Verified Coverage Per Enrollments: ****please add the Plan name and dates****
 - Medicaid ID Match? (Y/N):  ------- 
 - Alternate Fax # Verified (Y/N):  ------- 
-- Drug name: ------- 
+- Drug name: -------
+- Dx: -------
 - Previously approved/received PA(s): Auth ID: ------- 
 - Reason: -------
