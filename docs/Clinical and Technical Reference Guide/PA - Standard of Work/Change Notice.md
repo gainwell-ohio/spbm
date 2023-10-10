@@ -7,6 +7,7 @@ search:
 
 | Date | New Process / Change | Why / Process Detail |
 |:---:|:---|:---|
+| 10/10/2023 | For ALL Not Required descisioned PA, the Dx code is now required to be documented in the notes|
 | 10/10/2023 | All PAs for compounds need to go to Med Review | Technicians reviewing a compound should send it to MED REVIEW, with the proper template. Under NO CIRCUMSTANCE should Techs cancel these PAs or send back as not required! |
 | 10/10/2023 | Techs must check claims rejections when doing **EVERY** PA | Reminder: One of the first steps that EVERY Tech **NEEDS** to do is to check any claim rejections with the medication being requested on the PA |
 | 9/20/2023 | PA requests received for the generic ==**Vyvanse**== 60mg and 70mg ==**CAPS (does ^^NOT^^ apply to CHEWABLES)**==  | When a Technician receives a PA for the generic ==**Vyvanse**== <sup> BVG </sup> 60mg and 70mg ==**CAPS (does ^^NOT^^ apply to CHEWABLES)**== with the explanation of "brand on backorder" </li><li>In the internal notes section, state the following: “PA Request from [NAME/TITLE/ on behalf of (prescriber's name)] Placing 90-day approval for generic. Further requests beyond 90 days will be reviewed as initial requests and not reauthorizations" </li><li>Fill out all the information on the PA to allow for 90-day supply </li><li>Approve the PA |
