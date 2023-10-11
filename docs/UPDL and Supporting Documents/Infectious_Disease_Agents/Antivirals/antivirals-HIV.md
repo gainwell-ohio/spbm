@@ -118,6 +118,8 @@ Non-Preferred Criteria
 -   Must have had an inadequate clinical response of at least **30 days** with at least **one preferred** drug. If applicable, the request must address the inability to use the individual components.
     -   For non-preferred extended-release formulations: must provide documentation of an inadequate clinical response with its immediate release formulation (if available)
     -   For non-preferred brand names that have preferred generics: must provide documentation of an inadequate clinical response or allergy to two or more generic labelers (if available)
+ 
+[***HIV PRe-Exposure Prophylaxis (PREP) Medications](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/hivprep/?h=desco)
 
 ### Subsequent Authorization
 
