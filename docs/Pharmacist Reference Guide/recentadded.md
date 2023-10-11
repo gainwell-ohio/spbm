@@ -1,5 +1,8 @@
 # Recently Added/Updated
 
+10/11/23
+- [HIV PRe-Exposure Prophylaxis (PREP) Medications](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/hivprep/?h=desco)
+
 10/9/23
 -	[Weekly Email 10/07/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EZYHKCxEDfpHvYRTQLZ0_88B8hVbNOflHAlD1lb8Ju19Ow?e=4sbkCx){:target="_blank" rel="noopener"}
 -	[Edits Associated with PAs](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/High%20Cost%20Edit/?h=high#high_cost_edit_2923)
