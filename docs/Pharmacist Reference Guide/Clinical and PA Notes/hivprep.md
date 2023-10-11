@@ -1,6 +1,6 @@
 # HIV PRe-Exposure Prophylaxis (PREP) Medications
 
-***Please use the current Medical Necessity Policy and UPDL when reviewing PA guidelines for approvals. This information was provided on 10/11/23.
+***Please use the current Medical Necessity Policy and UPDL when reviewing PA guidelines for approvals. This information was provided on 10/11/23 for current FDA approved meds for PREP.
 
 | Preferred Oral Meds |
 |---------------|
