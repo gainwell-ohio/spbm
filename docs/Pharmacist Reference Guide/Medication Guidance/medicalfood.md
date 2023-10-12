@@ -38,7 +38,7 @@ When trying to contemplate if a product is a medical supply or benefit exclusion
 
 If we do get what is perceived to be a DME product like diapers, nebulizers, nutritional supplements or caloric replacement like ensure or thickeners, blood pressure machines, medical food (other than deplin) to give the prescriber and patient the most information possible please provide **denial language** as in this scope: 
 
-**Admin Deny** : Please refer to denial language docunment for current DL.
+**Regular Deny** : Please refer to denial language docunment for current DL.
 
 ~~This product should be processed with the member’s durable medical equipment coverage.~~ (10/12/23)
 
