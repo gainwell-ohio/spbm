@@ -58,6 +58,7 @@
 | Lanreotide Acetate Extended Release Inj              | Somatuline Inj               | 2/4/2022     | 6/6/2079     |
 | Lapatinib Ditosylate Tab (Base Equiv)                | Tykerb Tab                   | 10/9/2020    | 6/6/2079     |
 | Lenalidomide Cap                                     | Revlimid Cap                 | 3/11/2022    | 6/6/2079     |
+| ***Lidocaine-Benzalkonium Liquid 4-0.13%***	| ***Bactine Max Spr***	| ***10/13/2023*** |	***6/6/2079*** |
 | Lisdexamfetamine Dimesylate Cap                      | Vyvanse Cap                  | 9/8/2023     | 6/6/2079     |
 | Lisdexamfetamine Dimesylate Chew Tab                 | Vyvanse Chw                  | 9/8/2023     | 6/6/2079     |
 | Loteprednol Etabonate Ophth Susp                     | Alrex Sus; Lotemax Sus       | 1/1/2013     | 6/6/2079     |
@@ -98,4 +99,4 @@
 | Tretinoin Microsphere Gel 0.08%                      | Retin-A Micro Pump 0.08%     | 9/8/2023     | 6/6/2079     |
 | Vilazodone HCl Tab                                   | Viibryd Tab                  | 6/10/2022    | 6/6/2079     |
 
-[Brand Over Generic List](https://mygainwell-my.sharepoint.com/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/Eai_eZ6ugONBl_opbUg_iPwBTWtojBF1K6EZbsvvPjpczQ?e=gop079){:target="_blank" rel="noopener"}
+[Brand Over Generic List](https://mygainwell-my.sharepoint.com/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/EWZikFK7RWBLuts_IAsgkqsBbdOQF64E_zNn0Rxyao71pQ?e=Phf1zh){:target="_blank" rel="noopener"}
