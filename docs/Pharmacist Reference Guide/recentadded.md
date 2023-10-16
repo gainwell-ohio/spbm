@@ -1,5 +1,10 @@
 # Recently Added/Updated
 
+10/16/23
+- [Weekly Email 10/14/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EeKH4OT2vXVOihPkduLpu8ABZmA1Tz231IcSuQcedtctMQ?e=rnykJT){:target="_blank" rel="noopener"}
+- [Green DME should be denied](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/medicalfood/?h=dme)
+- [Antifungals for Prophylaxis](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/antifungals/?h=antif)
+
 10/11/23
 - [HIV PRe-Exposure Prophylaxis (PREP) Medications](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/hivprep/?h=desco)
 
