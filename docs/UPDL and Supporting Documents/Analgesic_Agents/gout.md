@@ -2,7 +2,7 @@
 search:
   boost: 3
 ---
-
+example
 # Gout
 
 This is a subcategory of Analgesic Agents.
