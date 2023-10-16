@@ -90,7 +90,7 @@ Clincial Criteria:
 
 Drug Names:
 
-- Omnipod®
+- Omnipod® (==Process by NDC==)
 - V-Go®
 
 Clinical Criteria:
