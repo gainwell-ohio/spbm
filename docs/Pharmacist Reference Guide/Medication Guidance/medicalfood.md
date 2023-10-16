@@ -47,6 +47,13 @@ As of 10/12/23: ==The following medication/product [XXXX] has been requested for
 
 I am currently working on trying to get this more defined for ease of use and clear directives to be put in place for these situations.
 
+### [Weekly Email 10/14/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EeKH4OT2vXVOihPkduLpu8ABZmA1Tz231IcSuQcedtctMQ?e=rnykJT){:target="_blank" rel="noopener"}
+
+•	Please note that ^^DME products should not got through us^^, many of these products are diapers, humidifiers, nebulizers, blood pressure machines, etc. ==As for all medical supplies, unfortunately for us there are green products in the NDC tiles usually and will be there until/if the NDC tile gets accurately cleaned up==. But if ever questioning because of the product it will usually have under federal rebate in the pricing section of NDC Maintenance Tile medical supply  as shown:
+
+![image](dme.png)
+
+
 ## How to determine if a drug is a medical food in Vue360rx
 
 [Weekly Email 8/26/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EYnhUkLLPZVNt_4Yjl3mhZcBWApd5ZTU7TyrmNfHNgsyIQ?e=k57DKt){:target="_blank" rel="noopener"}
