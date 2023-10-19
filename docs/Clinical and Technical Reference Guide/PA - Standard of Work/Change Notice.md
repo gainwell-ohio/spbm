@@ -7,6 +7,7 @@ search:
 
 | Date | New Process / Change | Why / Process Detail |
 |:---:|:---|:---|
+| 10/19/2023 |Reentering Incorrect PA Determinations| If a Tech/RPh needs to correct a PA by re-entering the PA, **never** use the received date of the original determination. </li><li>Techs/RPh will **always need to put in the received date/time as the date/time they are making the correction**. </li><li>In the PA note, Techs/RPh need to give the reason why they are loading the new PA. They can say refer to [original case #] for request in which determination was made in error. 
 | 10/10/2023 | For ALL Not Required descisioned PA, the Dx code is now required to be documented in the notes| Provide complete detailed documentation 
 | 10/10/2023 | All PAs for compounds need to go to Med Review | Technicians reviewing a compound should send it to MED REVIEW, with the proper template. Under NO CIRCUMSTANCE should Techs cancel these PAs or send back as not required! |
 | 10/10/2023 | Techs must check claims rejections when doing **EVERY** PA | Reminder: One of the first steps that EVERY Tech **NEEDS** to do is to check any claim rejections with the medication being requested on the PA |
