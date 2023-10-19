@@ -7,7 +7,9 @@ search:
 
 [CSP Desk Level Procedures 7-6-2023](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EQ3E9SbINC5EvEvtFDGa6PgBJSj4YPcLCJn_TWYJbfm-9g?e=csiDgB){ :target="_blank" rel="noopener" }
 
-## Managed Care
+## Managed Care 
+
+(Not for FFS Members)
 
 - This is the EXACT verbiage ODM would like us to use
     - CSP edits are currently set to a “WARN” status, which means that claims are not rejecting at the point of sale due to using a non-designated provider.
