@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2
+  boost: 1
 ---
 
 # Additional Therapeutic Classes with Clinical Criteria
