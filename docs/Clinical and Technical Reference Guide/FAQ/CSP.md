@@ -16,7 +16,7 @@ search:
     - The MCE’s may also request that a secondary or tertiary provider be added by our call center agents and will not be overridden by the daily file.
     - A temporary change can be made to the primary provider at the request of the plan, however permanent primary designated pharmacies and prescribers must be submitted by the plan through the MITS application as any temporary change will be overridden by a daily file.
     - Managed Care plans must make these changes and there is no override available that we can put in.
-    - Any CSP issues, including lock-in member, provider, or MCE for **Managed Care** members will complete the same template located below and send an encrypted email to OH_MCD_PBM@gainwelltechnologies.com.
+    - Any CSP issues, including lock-in change requests by member, provider, or MCE for **Managed Care** members will complete the same template located below and send an encrypted email to OH_MCD_PBM@gainwelltechnologies.com.
 
 ## FFS - CSP Lock-in Members ONLY 
 
