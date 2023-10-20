@@ -99,4 +99,4 @@
 | Tretinoin Microsphere Gel 0.08%                      | Retin-A Micro Pump 0.08%     | 9/8/2023     | 6/6/2079     |
 | Vilazodone HCl Tab                                   | Viibryd Tab                  | 6/10/2022    | 6/6/2079     |
 
-[Brand Over Generic List](https://mygainwell-my.sharepoint.com/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVZamBjZ-u5KrSOw-uA1DBwBY2YTtxf1-AvxSgpvGkemQQ?e=4Obk4H){:target="_blank" rel="noopener"}
+[Brand Over Generic List](https://mygainwell-my.sharepoint.com/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/EewUZ9m6TllOlGXu0-HbRjUBnKWI-BSPKUa98i5Zu-AWSg?e=1PRv0g){:target="_blank" rel="noopener"}
