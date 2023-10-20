@@ -83,7 +83,7 @@ There will be times when we are working when ODM or clinical ^^won’t be able t
 
 PLEASE NOTE THIS IS NOT A DENIAL - further research and outreach is required (that may include but is not limited to: benefits, DESI status, rebate status, etc.) This will be decided within 72 hours of prior authorization received.
 
-When and if it is approved clinical/ODM will contact the group that are able to enter the EO, and the pharmacist that processed originally will complete an approved PA, and the group (Cassandra, Justin, Brian, etc.) will enter the edit override portion of the approval.
+When and if it is approved clinical/ODM will contact the group that are able to enter the EO, and the pharmacist that processed originally will complete an approved PA, and the group (~~Cassandra~~ Sherri, Justin, Brian, etc.) will enter the edit override portion of the approval.
 
 Thanks,
 Justin Collingwood
