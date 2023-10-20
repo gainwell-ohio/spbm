@@ -1,4 +1,10 @@
-# Peer to Peer 
+---
+search:
+  boost: 1
+---
+
+
+# Peer to Peer P2P - Rph
 
 [Peer to Peer Pharmacist Training 10/20/23](https://mygainwell-my.sharepoint.com.mcas.ms/personal/justin_collingwood_gainwelltechnologies_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjustin%5Fcollingwood%5Fgainwelltechnologies%5Fcom%2FDocuments%2FRecordings%2FP2P%20Training%2D20231020%5F140158%2DMeeting%20Recording%2Emp4&referrer=Teams%2ETEAMS%2DELECTRON&referrerScenario=RecapOpenInStreamButton%2Eview%2Eview&ga=1){:target="_blank" rel="noopener"}
 
