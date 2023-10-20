@@ -50,6 +50,8 @@ An internal note will be placed on the originally denied PA. Internal notes for 
 
 ## Schdeduling a Peer to Peer with the Medical Director
 
+<a href="mailto:james.wood@gainwelltechnologies.com?cc=cassandra.roach@gainwelltechnologies.com;justin.collingwood@gainwelltechnologies.com;brian.moore@gainwelltechnologies.com;sherri.cohmer@gainwelltechnologies.com&subject=MEDICAL DIRECTOR REQUIRED – P2P Reconsideration Discussion Requested on [Date the caller initiated the request MM/DD/YEAR]&body=Caller Name and title:%0D%0A%0D%0ACallback number for the contact:%0D%0A%0D%0ADate and times available for callback (availability for next 3 business days):%0D%0A%0D%0APA number in question:%0D%0A%0D%0ADrug name, strength, and frequency:%0D%0A%0D%0AAttach the original PA fax request:%0D%0A%0D%0AInitial denial rationale:%0D%0A%0D%0AUpheld decision rationale (if applicable):%0D%0A%0D%0AAttach the Denial letter from the original PA request:%0D%0A%0D%0ACriteria used to make the determination (including preferred medication alternatives):%0D%0A%0D%0AAny additional pertinent information for the case: ">Quick Link: Submit a P2P with the Medical Director (skip to step 3 if using this link)</a>
+
 If the caller requests to speak to the Medical Director, please advise that the Medical Director will call during the dates/times of availability given by the caller. Gather dates of availability for the caller for the next 3 business days. 
 
 Gather the following information from the caller: 
