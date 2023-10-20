@@ -61,6 +61,7 @@ An internal note will be placed on the originally denied PA. Internal notes for 
 If the caller requests to speak to the Medical Director, please advise that the Medical Director will call during the dates/times of availability given by the caller. Gather dates of availability for the caller for the next 3 business days. 
 
 Gather the following information from the caller: 
+
 -	Date and times available for callback (availability for next 3 business days)
 -	Name and title of the contact
 -	Callback number for the contact 
@@ -71,17 +72,16 @@ Send an encrypted email to the Medical Director (Dr. James Wood)  at james.wood@
 
 2. In the body of the email:
 
--	Attach the Peer to Peer template (name and title of contact. call back date and times, and callback #) 
--	Member Name, ID and DOB
--	PA number in question (including drug name, strength, and frequency)
--	Attach the original PA fax request.
--	Internal notes for the initial denial (screenshot is okay)
--	Internal notes for the upheld decision (if applicable)
--	Attach the Denial letter from the original PA request.
--	Criteria used to make the determination (including preferred medication alternatives)  
--- 2.	Recommended to provide screenshots of the preferred medications (if applicable) as well as all criteria for specific drug category.
+<li>Attach the Peer to Peer template (name and title of contact. call back date and times, and callback #) </li>
+<li>Member Name, ID and DOB</li>
+<li>PA number in question (including drug name, strength, and frequency)</li>
+<li>Attach the original PA fax request.</li>
+<li>Internal notes for the initial denial (screenshot is okay)</li>
+<li>Internal notes for the upheld decision (if applicable)</li>
+<li>Attach the Denial letter from the original PA request.</li>
+<li><li>Criteria used to make the determination (including preferred medication alternatives)</li><ol>Recommended to provide screenshots of the preferred medications (if applicable) as well as all criteria for specific drug category.</ol></li>
 
--	Any additional pertinent information for the case.
+<li>Any additional pertinent information for the case.</li>
 
 3. Flag the email as High Importance.
 4. Request a Read Receipt.
