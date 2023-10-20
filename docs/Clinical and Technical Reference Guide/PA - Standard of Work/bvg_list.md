@@ -60,7 +60,6 @@
 | Lanreotide Acetate Extended Release Inj              | Somatuline Inj               | 2/4/2022     | 6/6/2079     |
 | Lapatinib Ditosylate Tab (Base Equiv)                | Tykerb Tab                   | 10/9/2020    | 6/6/2079     |
 | Lenalidomide Cap                                     | Revlimid Cap                 | 3/11/2022    | 6/6/2079     |
-| Lidocaine-Benzalkonium Liquid 4-0.13%                | Bactine Max Spr              | 10/13/2023   | 6/6/2079     |
 | Lisdexamfetamine Dimesylate Cap                      | Vyvanse Cap                  | 9/8/2023     | 6/6/2079     |
 | Lisdexamfetamine Dimesylate Chew Tab                 | Vyvanse Chw                  | 9/8/2023     | 6/6/2079     |
 | Loteprednol Etabonate Ophth Susp                     | Alrex Sus; Lotemax Sus       | 1/1/2013     | 6/6/2079     |
