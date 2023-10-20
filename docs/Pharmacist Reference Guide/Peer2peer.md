@@ -68,18 +68,7 @@ Gather the following information from the caller:
 
 Send an encrypted email to the Medical Director (Dr. James Wood)  at james.wood@gainwelltechnologies.com  and CC: Justin Collingwood, Brian Moore, Sherri Cohmer and Cassandra Roach. 
 
-1. Title of email: MEDICAL DIRECTOR REQUIRED – P2P Reconsideration Discussion Requested on [Date the caller initiated the request MM/DD/YEAR]
-   
-2. In the body of the email:
-
-<li>Attach the Peer to Peer template (name and title of contact. call back date and times, and callback #)</li><li>Member Name, ID and DOB</li><li>PA number in question (including drug name, strength, and frequency)</li><li>Attach the original PA fax request.</li><li>Internal notes for the initial denial (screenshot is okay)</li><li>Internal notes for the upheld decision (if applicable)</li><li>Attach the Denial letter from the original PA request.</li><li>Criteria used to make the determination (including preferred medication alternatives)</li><ul><li>Recommended to provide screenshots of the preferred medications (if applicable) as well as all criteria for specific drug category.</li></ul><li>Any additional pertinent information for the case.</li>
-
-
-3. Flag the email as High Importance.
-   
-4. Request a Read Receipt.
-   
-5. Complete all fields on Peer-to-Peer tracker under “Medical Director” tab.
+<ol><li>Title of email: MEDICAL DIRECTOR REQUIRED – P2P Reconsideration Discussion Requested on [Date the caller initiated the request MM/DD/YEAR]</li><li>In the body of the email:</li><ul><li>Attach the Peer to Peer template (name and title of contact. call back date and times, and callback #)</li><li>Member Name, ID and DOB</li><li>PA number in question (including drug name, strength, and frequency)</li><li>Attach the original PA fax request.</li><li>Internal notes for the initial denial (screenshot is okay)</li><li>Internal notes for the upheld decision (if applicable)</li><li>Attach the Denial letter from the original PA request.</li><li>Criteria used to make the determination (including preferred medication alternatives)</li><ul><li>Recommended to provide screenshots of the preferred medications (if applicable) as well as all criteria for specific drug category.</li></ul><li>Any additional pertinent information for the case.</li></ul><li>Flag the email as High Importance./</li><li>Request a Read Receipt.</li><li>Complete all fields on Peer-to-Peer tracker under “Medical Director” tab.</li></ol>
 
 Once the Medical Director has performed the outreach, please document the date/time this was performed as well as the decision/any pertinent information under the “Medical Director” tab.
 
