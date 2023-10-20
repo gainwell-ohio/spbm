@@ -1,5 +1,8 @@
 # Recently Added/Updated
 
+10/20/23
+- [Brand vs Generic Updates](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/bvg_list/?h=brand)
+
 10/16/23
 - [Weekly Email 10/14/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EeKH4OT2vXVOihPkduLpu8ABZmA1Tz231IcSuQcedtctMQ?e=rnykJT){:target="_blank" rel="noopener"}
 - [Green DME should be denied](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/medicalfood/?h=dme)
