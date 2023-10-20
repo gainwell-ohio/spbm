@@ -1,8 +1,3 @@
----
-search:
-  boost: 1
----
-
 # Peer to Peer requests 
 
 From tech chat 8/16/23
