@@ -19,11 +19,11 @@ search:
 | Scheduling a Peer to Peer |
 | -------------- |
 | Contact name and job title: |
-|	Contact phone number: |
+|	Contact phone #: |
 |	PA # : |
 |	Member ID: |
 |	Drug Name: |
-|	Dates and Times for callback: |
+|	Callback Dates and Times: |
 
 
 ### Overturning the Original denial
@@ -34,8 +34,8 @@ A new PA will need to be loaded and approved with a received date and time of th
 | ---------|
 |	Caller Name, Title: |
 | Phone # and/or fax #: |
-|	Contact ID for the call (provided in Peer to Peer template from technician) |
-| Original PA # (that was denied): |
+|	Contact ID: (for the call provided in Peer to Peer template from technician) |
+| Original Denied PA #:  |
 | Additional information provided by caller: |
 | P2P Overturn Rationale: criteria reviewed; Policy/Rule (i.e. Medical Necessity, UPDL) |
 
@@ -48,7 +48,7 @@ An internal note will be placed on the originally denied PA. Internal notes for 
 | ---------|
 |	Caller Name, Title: |
 | Phone # and/or fax #: |
-|	Contact ID for the call (provided in Peer to Peer template from technician) |
+|	Contact ID: (for the call provided in Peer to Peer template from technician) |
 | Additional information provided by caller: |
 |	P2P Upheld Rationale: criteria reviewed; Policy/Rule (i.e. Medical Necessity, UPDL|
 
