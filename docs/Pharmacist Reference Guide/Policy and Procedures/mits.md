@@ -14,7 +14,7 @@
 -	Include as much information as possible so that the service desk has everything they need to know
    -	 Ex: Specific VPN, browser used (Chrome Vs. Edge), how many users impacted, etc.
 
-**Quick Email Template**: <a href="mailto:ohio_mits_servicedesk@gainwelltechnologies.com?cc=cassandra.roach@gainwelltechnologies.com;justin.collingwood@gainwelltechnologies.com;brian.moore@gainwelltechnologies.com;amanda.jennings@gainwelltechnologies.com;david.hartzell@gainwelltechnologies.com;anil.marini@gainwelltechnologies.com;chad.m.rogers@gainwelltechnologies.com;melissa.rutledge@gainwelltechnologies.com;OHSupervisorsandSr.Techs@mygainwell.onmicrosoft.com;OHSPBMPAPharmacist@mygainwell.onmicrosoft.com&body=Application/System Affected:%0D%0A%0D%0AApproximate time the issue started/noticed:%0D%0A%0D%0ANumber of Users Affected:%0D%0A%0D%0AWhat steps were taken when the error occurred:%0D%0A%0D%0AProvide screenshots below: ">Ohio_MITS_ServiceDesk_Group</a>
+**Quick Email Template**: <a href="mailto:ohio_mits_servicedesk@gainwelltechnologies.com?cc=cassandra.roach@gainwelltechnologies.com;sherri.cohmer@gainwelltechnologies.com;justin.collingwood@gainwelltechnologies.com;brian.moore@gainwelltechnologies.com;amanda.jennings@gainwelltechnologies.com;david.hartzell@gainwelltechnologies.com;anil.marini@gainwelltechnologies.com;chad.m.rogers@gainwelltechnologies.com;melissa.rutledge@gainwelltechnologies.com;OHSupervisorsandSr.Techs@mygainwell.onmicrosoft.com;OHSPBMPAPharmacist@mygainwell.onmicrosoft.com&body=Application/System Affected:%0D%0A%0D%0AApproximate time the issue started/noticed:%0D%0A%0D%0ANumber of Users Affected:%0D%0A%0D%0AWhat steps were taken when the error occurred:%0D%0A%0D%0AProvide screenshots below: ">Ohio_MITS_ServiceDesk_Group</a>
 
 
 Thank you,
