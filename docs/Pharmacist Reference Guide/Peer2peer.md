@@ -14,7 +14,7 @@ search:
 
 ## Templates
 
-### Scheduling a P2P
+### Scheduling a P2P for a Pharmacist callback
 
 | Scheduling a Peer to Peer |
 | -------------- |
