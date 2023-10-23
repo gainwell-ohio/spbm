@@ -114,6 +114,8 @@ Buprenorphine Topical (Butrans) Criteria
 
 - For doses greater than 5 mcg/hour must provide documentation of an inadequate clinical response with at least one opioid formulation taken for at least 60 of the last 90 days
 
+[**Butrans 5mcg Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/opioid/butrans/?h=butrans)
+
 ### Morphine Sulfate ER (Kadian, MS Contin) & Tapentadol ER (Nucynta)
 
 Morphine Sulfate ER (Kadian, MS Contin) & Tapentadol ER (Nucynta) Criteria
