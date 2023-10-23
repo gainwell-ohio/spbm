@@ -97,6 +97,7 @@ process.
 
 
 **You can submit an appeal by:**
+
 - Calling Provider Services at 1-833-491-0344. ***(We do ^^NOT^^ take verbal appeal requests)**
 - Logging into the Gainwell Provider Portal, at https://spbm.medicaid.ohio.gov.
 - Faxing the completed form (enclosed) and all additional documentation or information to 
@@ -110,6 +111,7 @@ Dublin, OH 43016-0472</br>
 
 
 **The appeal must contain:**
+
 - Written consent from the patient
 - The patient’s full name and member ID number
 - The prescriber’s name
