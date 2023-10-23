@@ -5,9 +5,7 @@ search:
 
 # Fleqsuvy and zonisamide suspension
 
-[Fleqsuvy and zonisamide suspension](encrypt IMPORTANT PLEASE READ FW NCH patients transitioning to commercial liquid Baclofen and Zonisamide (MCO).htm){ .md-button .md-button--primary target="_blank" rel="noopener"}
-
-## [Fleqsuvy_Zonisade.NCH PA overrides.MCO.20230410---LIST](https://mygainwell-my.sharepoint.com/:x:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Fleqsuvy_Zonisade.NCH%20PA%20overrides.MCO.20230410.xlsx?d=wbeb509031f3c468bb1c7e587e42fbb22&csf=1&web=1&e=ay79cG) {:target="_blank" rel="noopener"}
+[Fleqsuvy_Zonisade.NCH PA overrides.MCO.20230410---LIST](https://mygainwell-my.sharepoint.com/:x:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Fleqsuvy_Zonisade.NCH%20PA%20overrides.MCO.20230410.xlsx?d=wbeb509031f3c468bb1c7e587e42fbb22&csf=1&web=1&e=ay79cG) {:target="_blank" rel="noopener"}
 
 ***Effective immediately - - Fleqsuvy and zonisamide suspension  requests*** 
 
