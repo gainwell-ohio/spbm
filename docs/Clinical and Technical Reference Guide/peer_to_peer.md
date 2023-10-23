@@ -47,24 +47,3 @@ In the event ==the caller indicates they would like a scheduled call back== with
 | Version | Author | Revision Date |
 | :--- | :--- | :--- |
 | 1.0 | Cassandra Roach, PharmD, RPh | 10/11/2023 |
-
-## Peer to Peer Reconsideration Desk Level Procedure
-
-[Peer to Peer and Reconsideration Process](https://mygainwell.sharepoint.com.mcas.ms/:w:/r/teams/OHSPBM/_layouts/15/Doc.aspx?sourcedoc=%7B45CA3683-3A81-4050-B775-EA8C41C2919D%7D&file=Peer%20to%20Peer%20and%20Reconsideration%20Process%20%20Updated%2005242023.docx&action=default&mobileredirect=true&cid=d388194a-3e49-4b4d-90b4-125226710d44)
-
-
-## P2P Note for RPH
-To use when requesting a P2P in chat
-
-- Contact name and job title: 
-- Contact number: 
-- Best time to call (Date and Time): 
-- Case ID or PA Auth#: 
-- Member ID: 
-- Drug name: 
-- Denial Reason: 
-- Additional info given: 
-- Reason why Technician cannot approve:
-- Name of Denying Pharmacist:
-- Reason for Denial on PA in VUE:
-- Information gathered from prescriber when asked the specific reason it was denied:
