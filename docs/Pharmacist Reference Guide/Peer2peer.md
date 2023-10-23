@@ -54,7 +54,7 @@ An internal note will be placed on the originally denied PA. Internal notes for 
 
 
 
-## Schdeduling a Peer to Peer with the Medical Director
+## Scheduling a Peer to Peer with the Medical Director
 
 <a href="mailto:james.wood@gainwelltechnologies.com?cc=cassandra.roach@gainwelltechnologies.com;justin.collingwood@gainwelltechnologies.com;brian.moore@gainwelltechnologies.com;sherri.cohmer@gainwelltechnologies.com&subject=MEDICAL DIRECTOR REQUIRED – P2P Reconsideration Discussion Requested on [Date the caller initiated the request MM/DD/YEAR]&body=Hello.%0D%0A%0D%0AA peer to peer consultation with the Medical Director has been requested.  Please see the following information:%0D%0A%0D%0A---------------------------%0D%0A%0D%0ACaller Name and title:%0D%0A%0D%0ACallback number for the contact:%0D%0A%0D%0ADate and times available for callback (availability for next 3 business days):%0D%0A%0D%0A---------------------------%0D%0A%0D%0APA number in question:%0D%0A%0D%0ADrug name, strength, and frequency:%0D%0A%0D%0AAttach the original PA fax request:%0D%0A%0D%0AInitial denial rationale:%0D%0A%0D%0AUpheld decision rationale (if applicable):%0D%0A%0D%0AAttach the Denial letter from the original PA request:%0D%0A%0D%0ACriteria used to make the determination (including preferred medication alternatives):%0D%0A%0D%0AAny additional pertinent information for the case:%0D%0A%0D%0A---------------------------%0D%0A%0D%0AFlag the email as High Importance.%0D%0A%0D%0ARequest a Read Receipt. ">Quick Link: Submit a P2P with the Medical Director (skip to step 3 if using this link)</a>
 
@@ -71,4 +71,48 @@ Send an encrypted email to the Medical Director (Dr. James Wood)  at james.wood@
 <ol><li>Title of email: MEDICAL DIRECTOR REQUIRED – P2P Reconsideration Discussion Requested on [Date the caller initiated the request MM/DD/YEAR]</li><li>In the body of the email:</li><ul><li>Attach the Peer to Peer template (name and title of contact. call back date and times, and callback #)</li><li>Member Name, ID and DOB</li><li>PA number in question (including drug name, strength, and frequency)</li><li>Attach the original PA fax request.</li><li>Internal notes for the initial denial (screenshot is okay)</li><li>Internal notes for the upheld decision (if applicable)</li><li>Attach the Denial letter from the original PA request.</li><li>Criteria used to make the determination (including preferred medication alternatives)</li><ul><li>Recommended to provide screenshots of the preferred medications (if applicable) as well as all criteria for specific drug category.</li></ul><li>Any additional pertinent information for the case.</li></ul><li>Flag the email as High Importance./</li><li>Request a Read Receipt.</li><li>Complete all fields on Peer-to-Peer tracker under “Medical Director” tab.</li></ol>
 
 Once the Medical Director has performed the outreach, please document the date/time this was performed as well as the decision/any pertinent information under the “Medical Director” tab.
+
+## Denial Letter and Appeals information
+
+[Denial Letter Template](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/EQJcnSBOextNrB1p59rxm4kBUt5-iDUybhyCDy-Q-fqDHg?e=h4CuNQ){:target="_blank" rel="noopener"}
+
+If you disagree with the decision made by the Gainwell Prior Authorization team, the following 
+paragraphs highlight your options.
+
+You have the option to request a peer to peer reconsideration review. During this review, you 
+will be able to speak with a Gainwell medical director to have a clinical discussion and submit 
+any additional rationale as to why the denial should be overturned. Please contact the Gainwell 
+Peer-to-Peer line at 1-833-491-0355, or submit an online request at 
+https://spbm.medicaid.ohio.gov to schedule a time with our medical 
+director. You will receive a call back from the Gainwell Prior Authorization Department to 
+schedule ==your appointment with the medical director within 3 business days of the call request==.
+
+Both you, and the member in question, have the right to appeal this decision. ==You may ask for 
+an appeal within sixty (60) calendar days after the date of this notice==. ==Gainwell will provide an 
+answer to your appeal within fifteen (15) calendar days from the date you contacted us==. If you 
+believe fifteen (15) calendar days could seriously jeopardize your patient’s life, physical or 
+mental health or ability to attain, maintain, or regain maximum function, please have your 
+patient contact Gainwell Member Services as soon as possible to expedite their review 
+process.
+
+
+**You can submit an appeal by:**
+- Calling Provider Services at 1-833-491-0344. ***(We do ^^NOT^^ take verbal appeal requests)**
+- Logging into the Gainwell Provider Portal, at https://spbm.medicaid.ohio.gov.
+- Faxing the completed form (enclosed) and all additional documentation or information to 
+1-833-679-5491.
+  Mailing the completed form (enclosed) and all additional documentation or information 
+to:
+
+Attn: Gainwell Pharmacy Services</br>
+PO BOX 3908</br>
+Dublin, OH 43016-0472</br>
+
+
+**The appeal must contain:**
+- Written consent from the patient
+- The patient’s full name and member ID number
+- The prescriber’s name
+- The reason you disagree with the outcome provided by Gainwell Pharmacy Services
+- Any additional docum
 
