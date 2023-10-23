@@ -98,7 +98,7 @@ process.
 
 **You can submit an appeal by:**
 
-- Calling Provider Services at 1-833-491-0344. ***(not recommended since new and supporitn documents should be sentin at teh time of the appeals request).**
+- Calling Provider Services at 1-833-491-0344. **(not recommended since new and supporting documents should be sent in at the time of the appeals request).**
 - Logging into the Gainwell Provider Portal, at https://spbm.medicaid.ohio.gov.
 - Faxing the completed form (enclosed) and all additional documentation or information to 
 1-833-679-5491.
