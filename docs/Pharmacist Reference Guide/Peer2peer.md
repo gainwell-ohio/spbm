@@ -98,7 +98,7 @@ process.
 
 **You can submit an appeal by:**
 
-- Calling Provider Services at 1-833-491-0344. ***(We do ^^NOT^^ take verbal appeal requests)**
+- Calling Provider Services at 1-833-491-0344. ***(not recommended since new and supporitn documents should be sentin at teh time of the appeals request).**
 - Logging into the Gainwell Provider Portal, at https://spbm.medicaid.ohio.gov.
 - Faxing the completed form (enclosed) and all additional documentation or information to 
 1-833-679-5491.
@@ -116,5 +116,18 @@ Dublin, OH 43016-0472</br>
 - The patient’s full name and member ID number
 - The prescriber’s name
 - The reason you disagree with the outcome provided by Gainwell Pharmacy Services
-- Any additional docum
+- Any additional documentation or information to support your request to have the 
+decision changed
+
+If we do not change our decision as a result of the appeal, both you, and the member in 
+question, will be notified of the right to request a state hearing. Your patient or their authorized 
+representative must request a hearing within 90 calendar days from the notification date of 
+their denied appeal. The appeal process must be completed before a state hearing can be 
+requested.
+
+## Documenting a P2P call
+
+[Documenting a P2P call](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/documentcall/?h=p2p#p2p_call_documentation)
+
+
 
