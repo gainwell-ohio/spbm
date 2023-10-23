@@ -14,6 +14,7 @@ Things need to get better, and they will get better, thank you for your cooperat
 Justin Collingwood
 
 
+Procedural Change 10/23/23 cnguyen
 ~~7/24/23 @ Technician Supervisors – please cascade this information to your teams ASAP. Please also place in Evergreen where appropriate.~~
 
 ~~It has been brought to our attention from providers that there is some confusion surrounding peer to peer requests. I am working on updating the current P2P DLP to prevent any confusion, but in the meantime, please ensure that we are:~~
