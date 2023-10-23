@@ -3,9 +3,7 @@ search:
   boost: 1
 ---
 
-# Peer to Peer
-
-## Peer to Peer Tech Guide
+# Peer to Peer Tech Guide
 
 [Peer to Peer Process Step-by-Step Guide](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EdOCvW0ZJv5LiGY6xSOnUYkB3XIrXQ3ISJ_e_pd4Pz4yiA?e=pB6VTy){:target="_blank" rel="noopener"}
 
