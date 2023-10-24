@@ -84,15 +84,13 @@ when applicable (e.g., a product without criteria from the same class that requi
 the specific prior authorization criteria); **and**
 4. Documentation has provided supporting one of the following:
    
-   - Adequate trial and failure or intolerance of THREE preferred products with criteria in the same drug class that can be used for the same diagnosis (if applicable);
-     
+    - Adequate trial and failure or intolerance of THREE preferred products with criteria in the same drug class that can be used for the same diagnosis (if applicable);
         - Adequate trial and failure would be defined as a thirty (30) day trial (if applicable) with each of the three preferred products that can be used to treat the member’s 
         condition; **or**
-
-   - If there is no alternative in the same drug class, must have adequate trial and failure or intolerance of TWO preferred products with criteria alternatives, if available, that can be used for the requested indication according to clinical guidelines or standard of care; **or**
-   - Member has contraindication to ALL other products with criteria based on the member’s 
+    - If there is no alternative in the same drug class, must have adequate trial and failure or intolerance of TWO preferred products with criteria alternatives, if available, that can be used for the requested indication according to clinical guidelines or standard of care; **or**
+    - Member has contraindication to ALL other products with criteria based on the member’s 
     diagnosis, medical conditions, or other medication therapies; **or**
-   - There are no other preferred medications available to treat member condition (e.g., orphan 
+    - There are no other preferred medications available to treat member condition (e.g., orphan 
     drug) or requested dosage forms; **and** prescriber has provided appropriate supporting
     clinical evidence for member’s need of the non-preferred drug.
 
