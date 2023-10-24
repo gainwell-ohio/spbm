@@ -40,21 +40,6 @@ The Tech scripts will be used when working PA's in Vue360rx to organize a format
 - Decision Tree / Pathway Notes, including name of Tree / Pathway, if applicable: ------- 
 - Reason for sending to RPH:  ------- 
 
-## P2P Note for RPH
-
-- Contact name and job title: 
-- Contact number: 
-- Best time to call (Date and Time): 
-- Case ID or PA Auth#: 
-- Member ID: 
-- Drug name: 
-- Denial Reason: 
-- Additional info given: 
-- Reason why Technician cannot approve:
-- Name of Denying Pharmacist:
-- Reason for Denial on PA in VUE:
-- Information gathered from prescriber when asked the specific reason it was denied:
-
 ## Brand Request sent to MEDREVIEW
 
 - Verified Coverage Per Enrollments: **please add the Plan name and dates**
