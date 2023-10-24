@@ -15,7 +15,7 @@ search:
 2.	Pull up the denied PA and verify the PA the caller requesting the Peer to Peer on. (Proceed to #3)
 3.	Using the Peer-to-Peer template (below), place the request in the Peer-to-Peer chat. (Proceed to #4)
 
-    Peer to Peer template
+    **Peer to Peer template**
   	
     - Contact name and job title:
     - Contact phone number:
@@ -33,7 +33,8 @@ In the event ==the caller indicates they would like a scheduled call back== with
 2.	Pull up the denied PA and verify the PA they are requesting the Peer to Peer on. (Proceed to #3)
 3.	Using the Callback template, place the request in the Peer to Peer chat. (Proceed to #4)
 
-    Callback Template
+    **Callback Template**
+  	
     - Contact name and job title:
     - Contact phone number:
     - PA number:
@@ -41,7 +42,7 @@ In the event ==the caller indicates they would like a scheduled call back== with
     - Drug Name:
     - Dates and Times for callback:
 
-4.	Advise the caller they will receive a call back during the requested time. (End of process)
+5.	Advise the caller they will receive a call back during the requested time. (End of process)
 
 ### Revision History
 
