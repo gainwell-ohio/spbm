@@ -15,16 +15,17 @@ search:
 2.	Pull up the denied PA and verify the PA the caller requesting the Peer to Peer on. (Proceed to #3)
 3.	Using the Peer-to-Peer template (below), place the request in the Peer-to-Peer chat. (Proceed to #4)
 
-    Peer to Peer template 
+    Peer to Peer template
+  	
     - Contact name and job title:
     - Contact phone number:
     - PA number:
     - Member ID:
     - Drug Name:
 
-4. The Pharmacist will emoji the request in chat. This indicates that the Pharmacist has acknowledged the request and is pulling up the information for the PA (Proceed to #5)
-5.	Pharmacist will state in the Peer to Peer chat that they are ready for the warm transfer of the call. (Proceed to #6)
-6.	Perform warm transfer to Pharmacist. (End of process)
+5. The Pharmacist will emoji the request in chat. This indicates that the Pharmacist has acknowledged the request and is pulling up the information for the PA (Proceed to #5)
+6.	Pharmacist will state in the Peer to Peer chat that they are ready for the warm transfer of the call. (Proceed to #6)
+7.	Perform warm transfer to Pharmacist. (End of process)
 
 In the event ==the caller indicates they would like a scheduled call back== with the Pharmacist for the peer to peer. 
 
