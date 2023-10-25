@@ -12,6 +12,8 @@ search:
 
 [Peer to Peer Powerpoint](https://mygainwell-my.sharepoint.com/:p:/g/personal/christopher_nguyen_gainwelltechnologies_com/ESZ4zrSAY11HhMSkiCNJ71ABmN7ouBU3dbNWfB_TvSLLSg?e=l5panH){:target="_blank" rel="noopener"}
 
+[***Peer to Peer Documentation for Pharmacists.xlsx (P2P Tracker)](https://mygainwell-my.sharepoint.com.mcas.ms/:x:/g/personal/cassandra_roach_gainwelltechnologies_com/EcsRkk-q51FPu86Nmtm0PVsBonWTGUBUpbS7z-38froWtw?e=vyeYZ8&CID=29C56ECA-4022-4F7E-9CE2-EE4BEA7B2FC4){:target="_blank" rel="noopener"}
+
 ## Templates
 
 ### Scheduling a P2P for a Pharmacist callback
