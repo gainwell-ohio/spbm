@@ -7,7 +7,7 @@ search:
 
 | Date | New Process / Change | Why / Process Detail |
 |:---:|:---|:---|
-| 10/26/2023 |Do not cancel a PA for "wrong form"| Until further notice, **we will accept all PA forms, even if not ODM approved.** </li><li>Examples include but are not limited to: Caresource PA forms, FFS PA forms, old ODM forms, Opiods that are on Standard PA forms |
+| 10/26/2023 |Guidance for when to cancel PA for "wrong form"| **We will accept all ODM-approved Gainwell PA forms even if the PA submitted is on the wrong type of ODM-approved Gainwell PA form.** </li><li>Example, If a provider sends in an Opioid  on a compound for, we will review the PA as normal </li><li>PA forms that we should cancel and fax back include Caresource PA forms, FFS PA forms, other MCE PA forms, ect. |
 | 10/19/2023 |Reentering Incorrect PA Determinations| If a Tech/RPh needs to correct a PA by re-entering the PA, **never** use the received date of the original determination. </li><li>**Techs/RPh will always need to put in the received date/time as the date/time they are making the correction**. </li><li>In the PA note, Techs/RPh need to give the reason why they are loading the new PA. They can say refer to [original case #] for request in which determination was made in error. |
 | 10/10/2023 | For ALL Not Required descisioned PA, the Dx code is now required to be documented in the notes| Provide complete detailed documentation |
 | 10/10/2023 | All PAs for compounds need to go to Med Review | Technicians reviewing a compound should send it to MED REVIEW, with the proper template. Under NO CIRCUMSTANCE should Techs cancel these PAs or send back as not required! |
