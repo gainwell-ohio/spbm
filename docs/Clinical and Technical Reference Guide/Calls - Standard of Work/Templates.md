@@ -5,15 +5,13 @@ search:
 
 # Templates
 
-**Peer to Peer template**
+## Peer to Peer Template
 
- 
-
-Contact name and job title: KRIVCHENIA KATELYN/ Pediatric Physician
-Contact phone number: 5133773711
-PA number: 000635731
-Member ID:910001328406
-Drug Name:LANSOPRAZOLE DR 30 MG ODT## Callback Template
+- Contact name and job title: KRIVCHENIA KATELYN/ Pediatric Physician
+- Contact phone number: 5133773711
+- PA number: 000635731
+- Member ID:910001328406
+- Drug Name:LANSOPRAZOLE DR 30 MG ODT## Callback Template
 
 sent to OHSPBMCallBack@gainwelltechnologies.com
 
