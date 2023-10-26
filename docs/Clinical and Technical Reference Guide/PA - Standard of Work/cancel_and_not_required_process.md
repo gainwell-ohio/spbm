@@ -5,7 +5,7 @@
 | | |
 | :--- | :--- |
 | Fax Received in Error | The fax request for {Member Name, DOB and Medicaid ID#} was received but was sent in error and is not a request for a Prior Authorization. |
-| Incorrect Form- **DO NOT REJECT FOR THIS REASON, accepting all PA forms** | The Prior Authorization request for {Member Name, DOB, Medicaid ID#, and Drug Name} was sent in using the wrong form. Please utilize the Gainwell {Name of Form} and resubmit. |
+| Incorrect Form | The Prior Authorization request for {Member Name, DOB, Medicaid ID#, and Drug Name} was sent in using the wrong form. Please utilize the Gainwell {Name of Form} and resubmit. |
 | PA Form Incomplete | The Prior Authorization request for {Member Name, DOB, Medicaid ID#, Drug Name} is incomplete and is missing the following: {missing info}. |
 | Member or Prescriber not Eligible | The Prior Authorization request for {Member Name, DOB, Medicaid ID#} cannot be processed as the {member or prescriber} is ineligible or cannot be found. |
 | Not a Pharmacy Benefit | The Prior Authorization request for {Member Name, DOB, Medicaid ID#} does not fall under the pharmacy benefit, please submit the request for {Requested Service} to the member’s managed care organization or the Ohio RISE plan, as applicable. |
