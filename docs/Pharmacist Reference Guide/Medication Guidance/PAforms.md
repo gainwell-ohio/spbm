@@ -11,10 +11,19 @@ Hi Team,
 The following guidance has been updated in the Technician Reference Guide in Evergreen. Please disseminate to your teams. 
 
 
-When we receive a PA on the wrong PA form 
+**We should only be accepting PAs on ODM-approved Gainwell PA forms**
 
-- We should be decisioning per criteria and NOT cancelling due to wrong PA form until further notice
-- ~~Example - Caresource PA form, old ODM PA forms,  Opioid on standard PA form --- Review all PAs as if the form was correct~~ 
+- We should accept PAs on the wrong type of ODM-approved Gainwell PA forms
+  
+	- Example - If a provider sends in an Opioid medication on a compound form, we will review the PA as normal
+
+- We should cancel and fax back:
+  
+	- All non-Gainwell PA forms
+  
+ 	- FFS PA forms
+
+  	- Other PBM or MCE PA forms
 
 Thanks!
 
