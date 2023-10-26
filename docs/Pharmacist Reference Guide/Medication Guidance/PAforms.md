@@ -14,11 +14,22 @@ The following guidance has been updated in the Technician Reference Guide in Eve
 When we receive a PA on the wrong PA form 
 
 - We should be decisioning per criteria and NOT cancelling due to wrong PA form until further notice
-- Example - Caresource PA form, old ODM PA forms,  Opioid on standard PA form --- Review all PAs as if the form was correct 
+- ~~Example - Caresource PA form, old ODM PA forms,  Opioid on standard PA form --- Review all PAs as if the form was correct~~ 
 
 Thanks!
 
 Emily Reinhart, CPhT 
+
+
+***It must be on a Gainwell form***, but we are to accept any of the various forms. For example, we are to accept a Hep C request on a Standard Gainwell form. We can accept an opioid on the Standard Gainwell form, etc.
+
+This is called out in the new PA process mapping as well.
+
+Thank you,
+
+
+Cassandra Roach, PharmD, RPh
+
 
 
 ## Archived
