@@ -19,8 +19,9 @@ Important changes to make Immediately when sending email to non- compliance emai
 
 **DO NOT USE:**
 
-**OH SPBM COMPLIANCE < OHSPBMCompliance@GAINWELLTECHNOLOGIES.COM
-	This email address is for our Ohio SPBM compliance officer only**
+OH SPBM COMPLIANCE < OHSPBMCompliance@GAINWELLTECHNOLOGIES.COM
+
+	This email address is for our Ohio SPBM compliance officer only
 
 
 
@@ -42,7 +43,7 @@ To make the issues more easily searchable, the subject line should include:
   
           •Short description of the error
 
-In the body of the email please include the following: 
+**In the body of the email please include the following:** 
 
           • Auth ID, EO, Or Call 
   
@@ -55,16 +56,16 @@ In the body of the email please include the following:
           • Screenshot of error
 
 
-Please see the below for the Non Comp Reporting Procedure: 
+**Please see the below for the Non Comp Reporting Procedure:** 
 
-    ==Encrypt Email==
+	**Encrypt Email**
 
-To: 		  OHSPBM Non-Comp OHSPBMNon-Comp@mygainwell.onmicrosoft.com 
+**To:** 		  	OHSPBM Non-Comp OHSPBMNon-Comp@mygainwell.onmicrosoft.com 
 
-Subject: 	Non- Comp, short name, short Description 
+**Subject:**			Non- Comp, short name, short Description 
 			        Example: Non- Comp, Kjackson5, Incorrectly decisioned PA 
 
-In the Body of Email :  ( Please include Template below )
+**In the Body of Email :  ( Please include Template below )**
 
       Template:  
       Auth ID : 
