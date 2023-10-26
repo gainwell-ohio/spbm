@@ -5,15 +5,20 @@ search:
 
 # Acceptable PA Forms
 
+10/26/23
 Hi Team, 
 
 The following guidance has been updated in the Technician Reference Guide in Evergreen. Please disseminate to your teams. 
 
 
-When we receive a PA on the wrong PA form - 
-o	We should be decisioning per criteria and NOT cancelling due to wrong PA form until further notice 
-o	Example - Caresource PA form, old ODM PA forms,  Opioid on standard PA form --- Review all PAs as if the form was correct 
+When we receive a PA on the wrong PA form 
 
+- We should be decisioning per criteria and NOT cancelling due to wrong PA form until further notice
+- Example - Caresource PA form, old ODM PA forms,  Opioid on standard PA form --- Review all PAs as if the form was correct 
+
+Thanks!
+
+Emily Reinhart, CPhT 
 
 
 ## Archived
