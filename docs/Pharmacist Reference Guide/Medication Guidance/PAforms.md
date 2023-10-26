@@ -30,7 +30,11 @@ Thank you,
 
 Cassandra Roach, PharmD, RPh
 
+## Process if received in Medreview
 
+If a PA request is not on a Gainwell Technology PA request form and it reaches the Medreview queue, rphs should document in the notes "Wrong PA form; not on GWT form" and change the status back to "Pending" and submit.
+
+This aligns with other process located here: [Sending PA's back to Pending](https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/back_to_pending/?h=pending)
 
 ## Archived
 
