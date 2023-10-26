@@ -5,7 +5,18 @@ search:
 
 # Acceptable PA Forms
 
-Pending
+Hi Team, 
+
+The following guidance has been updated in the Technician Reference Guide in Evergreen. Please disseminate to your teams. 
+
+
+When we receive a PA on the wrong PA form - 
+o	We should be decisioning per criteria and NOT cancelling due to wrong PA form until further notice 
+o	Example - Caresource PA form, old ODM PA forms,  Opioid on standard PA form --- Review all PAs as if the form was correct 
+
+
+
+
 
 ~~We have received new guidance regarding PA’s sent in on incorrect PA forms from management. As of 11/1/22, we have been given permission to reject PA’s that are not on correct forms specific to Gainwell. I have attached a picture of one of our forms for your reference. A complete list of the Gainwell PA forms can be found on the portal [https://spbm.medicaid.ohio.gov/SPContent/DocumentLibrary/Forms](https://spbm.medicaid.ohio.gov/SPContent/DocumentLibrary/Forms). There are several different types of forms, so please familiarize yourself with what they look like.~~ 
 
