@@ -25,6 +25,25 @@ Thanks, I am sure there will be plenty of discussion. There will be more to come
 
 Justin
 
+Chris N. Summary:
+
+If ^^approving a PA for a medication that is BVG^^, ==approve the medication by NDC== with the following letter text:
+
+**Please have the pharmacy process the brand name medication [xxx] using a DAW 9 when processing the prescription.**
+
+If denying a PA for a medication that is BVG, the following should be in the denial language:
+
+| Requested BVG Med (PA Status) | Denial language to include |
+| -------- | ----------- |
+| Brand Name - (PF or NP) | <li>Deny for appropriate denial language</li><li>Policy</li> |
+| Generic (when Brand is NP + BVG) | <li>Deny with appropriate NP denial language</li><li>"And documentation must be provided why the preferred Brand product (XXX) cannot be used or may cause harm."</li><li>Policy</li> |
+| Generic (when Brand is PF + BVG) | <li>Deny with appropriate NP denial language</li><li>"And documentation must be provided why the preferred Brand product (XXX) cannot be used or may cause harm."</li><li>Any other criteria associated with the PF BVG such as Step Therapy</li><li>Policy</li>
+
+
+
+
+
+
 
 
 
