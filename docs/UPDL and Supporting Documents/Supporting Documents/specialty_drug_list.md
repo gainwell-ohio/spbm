@@ -430,7 +430,7 @@ search:
 | Vitrakvi                 |
 | Vizimpro                 |
 | Vonjo                    |
-| Votrient                 |
+| Votrient <sup>BVG (==Process by NDC== - Weekly Updates)</sup>                |
 | Vyxeos                   |
 | Welireg                  |
 | Xalkori                  |
