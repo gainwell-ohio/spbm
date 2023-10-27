@@ -9,7 +9,7 @@
 | \*Methenamine-Hyoscamine-Meth Blue-Sod Phos Tab      | Urogesic-Tab Blue            | 12/31/2021   | 6/6/2079     |
 | Adalimumab-adbm Auto-injector Kit                    | Cyltezo Inj                  | 09/29/2023   | 6/6/2079     |
 | Adalimumab-adbm Prefilled Syringe Kit                |Cyltezo Inj                   | 09/29/2023   | 6/6/2079     |
-| **Amphetamine-Dextroamphetamine 3-Bead Cap ER 24HR***   | **Mydayis Cap**               | **10/20/2023** | **6/6/2079**     |
+| **Amphetamine-Dextroamphetamine 3-Bead Cap ER 24HR***   | **Mydayis Cap**           | **10/20/2023** | **6/6/2079** |
 | Aprepitant Capsule 80MG                              | Emend Cap 80MG               | 3/19/2020    | 6/6/2079     |
 | Aprepitant Capsule Therapy Pack                      | Emend Tripac Pak             | 1/6/2017     | 6/6/2079     |
 | Asenapine Maleate SL Tab (Base Equiv)                | Saphris Sub                  | 12/31/2021   | 6/6/2079     |
@@ -72,6 +72,7 @@
 | Oxcarbazepine Susp                                   | Trileptal Susp               | 12/16/2022   | 6/6/2079     |
 | Paclitaxel Protein-Bound Particles For IV Susp       | Abraxane Inj 100 Mg          | 4/15/2022    | 6/6/2079     |
 | Pantoprazole Sodium For Delayed Release Susp Packet  | Protonix Pak                 | 8/21/2020    | 6/6/2079     |
+| Pazopanib HCl Tab 200 MG (Base Equiv)                | Votrient Tab 200MG           | 10/27/2023   | 6/6/2079     |
 | Pimecrolimus Cream                                   | Elidel Cream                 | 12/31/2021   | 6/6/2079     |
 | Plerixafor Subcutaneous Inj                          | Mozobil Inj                  | 7/21/2023    | 6/6/2079     |
 | Potassium Phosphate Monobasic Tab 500 MG             | K-Phos Tab                   | 5/13/2022    | 6/6/2079     |
