@@ -1,5 +1,15 @@
 # Recently Added/Updated
 
+10/27/23
+- [Brand vs Generic Updates](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/bvg_list/?h=brand)
+
+10/26/23
+- [Updates to Acceptable PA forms](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/PAforms/?h=accept)
+
+10/24/23
+- [Brand vs Generic processing](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/BvG/?h=brand)
+
+
 10/23/23 
 - [Weekly Email 10/21/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/Eav0s2i4s9lNoEDhcdThbOABnKFCGo2Ai7CYY7uxMyO9Ng?e=t5SQ9V){:target="_blank" rel="noopener"}
 - [Butrans update](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/opioid/butrans/?h=butrans)
