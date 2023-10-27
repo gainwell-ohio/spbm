@@ -11,9 +11,10 @@ search:
 
 The non-compliance email box is used to report any non-compliances with the purpose of reporting issues that are made outside of the instances that would be seen by our Quality Assurance team to allow coaching opportunities. Occurrences will be reviewed and filtered to the appropriate supervisor for coaching purposes/opportunities. 
 
-Important changes to make Immediately when sending email to non- compliance email box: 
-1.	Encrypt anything containing PHI, even if between internal Gainwell accounts 
-2.	Do NOT put any PHI in subject line of any emails (even if encrypted) this includes auth ids, mbr id, mbr names, etc. Please keep subject line generic with no details other than general issue (short name of employee, non-comp, short description) 
+Important changes to make Immediately when sending email to non- compliance email box:
+
+1. Encrypt anything containing PHI, even if between internal Gainwell accounts 
+2. Do NOT put any PHI in subject line of any emails (even if encrypted) this includes auth ids, mbr id, mbr names, etc. Please keep subject line generic with no details other than general issue (short name of employee, non-comp, short description) 
 
 **Please email OHSPBM Non-Comp: OHSPBMNon-Comp@mygainwell.onmicrosoft.com**
 
