@@ -71,6 +71,7 @@
 | Oxcarbazepine Susp                                   | Trileptal Susp               | 12/16/2022   | 6/6/2079     |
 | Paclitaxel Protein-Bound Particles For IV Susp       | Abraxane Inj 100 Mg          | 4/15/2022    | 6/6/2079     |
 | Pantoprazole Sodium For Delayed Release Susp Packet  | Protonix Pak                 | 8/21/2020    | 6/6/2079     |
+| **Pazopanib HCl Tab 200 MG (Base Equiv)**            | **Votrient Tab 200MG**       | **10/27/2023** | **6/6/2079** | 
 | Pimecrolimus Cream                                   | Elidel Cream                 | 12/31/2021   | 6/6/2079     |
 | Plerixafor Subcutaneous Inj                          | Mozobil Inj                  | 7/21/2023    | 6/6/2079     |
 | Potassium Phosphate Monobasic Tab 500 MG             | K-Phos Tab                   | 5/13/2022    | 6/6/2079     |
@@ -99,4 +100,4 @@
 | Tretinoin Microsphere Gel 0.08%                      | Retin-A Micro Pump 0.08%     | 9/8/2023     | 6/6/2079     |
 | Vilazodone HCl Tab                                   | Viibryd Tab                  | 6/10/2022    | 6/6/2079     |
 
-[Brand Over Generic List](https://mygainwell-my.sharepoint.com/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/EewUZ9m6TllOlGXu0-HbRjUBnKWI-BSPKUa98i5Zu-AWSg?e=1PRv0g){:target="_blank" rel="noopener"}
+[Brand Over Generic List](https://mygainwell-my.sharepoint.com/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/EQN3Lg3oOx9JmNcfa-00qlcBExpPS7UvnxHbhpo60JrWPA?e=LVDR3B){:target="_blank" rel="noopener"}
