@@ -1,5 +1,9 @@
 # Recently Added/Updated
 
+10/30/23
+- [Weekly Email 10/28/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EXJx_sD8orNPtWuRDxSZljkBhvGzfjc5q-8Hlo3nhm6_Wg?e=bdjdYQ){:target="_blank" rel="noopener"}
+- [Azstarys Criteria Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/azstarys/?h=azs)
+
 10/27/23
 - [Brand vs Generic Updates](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/bvg_list/?h=brand)
 
