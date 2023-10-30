@@ -56,7 +56,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Adzenys ER                                                            |                                                              |                           |                           |
 | Adzenys XR ODT                                                        |                                                              |                           |                           |
 | Amphetamine Tab                                                       |                                                              |                           |                           |
-| Azstarys <sup>AR</sup>                                                |                                                              |                           |                           |
+| Azstarys** <sup>AR</sup>                                                |                                                              |                           |                           |
 | Cotempla XR ODT <sup>AR</sup>                                         |                                                              |                           |                           |
 | Daytrana <sup>AR BvG ==(Process by NDC)==</sup>                                            |                                                              |                           |                           |
 | Evekeo ODT                                                            |                                                              |                           |                           |
@@ -99,6 +99,8 @@ Non-Preferred Criteria
 - For patients established on drugs that change from preferred to non-preferred on January 1, a prior authorization is **NOT** required until **after** June 30th of that year.**
 
 [**ADHD Approval language for Non-Preferred Meds due transition of care/COT](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/ADHD/)
+
+[**Azstarys Criteria Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/azstarys/?h=azs)
 
 ### Subsequent Authorization
 
