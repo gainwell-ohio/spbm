@@ -28,7 +28,7 @@ search:
  
 ^^MDD with suicidal ideation:^^ The use of SPRAVATO, in conjunction with an oral antidepressant, beyond 4 weeks has not been systematically evaluated in the treatment of depressive symptoms in patients with MDD with acute suicidal ideation or behavior, Continuation of Spravato beyond 4 weeks has not been established for the same episode. If this is a new suicidal ideation episode, must follow initial criteria. 
  
-^^TRD^^ – Dosing is either 56 or 84mg once or every 2 weeks. Member must have concurrently used antidepressant and improvement in initial response defined below. APPROVE FOR 18 ~~MONTHS~~ DAYS SUPPLY, HICLseqNO, WITH A DAY DOSE UNITS OF 0.43 (3PAKS / 7 DAYS) 
+^^TRD^^ – Dosing is either 56 or 84mg once or every 2 weeks. Member must have concurrently used antidepressant and improvement in initial response defined below. APPROVE FOR 180 ~~MONTHS~~(10/30/23 cnguyen) DAYS SUPPLY, HICLseqNO, WITH A DAY DOSE UNITS OF 0.43 (3PAKS / 7 DAYS) 
  
 ### Approval Text
 
