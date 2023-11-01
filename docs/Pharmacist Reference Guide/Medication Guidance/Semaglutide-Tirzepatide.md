@@ -30,11 +30,11 @@ search:
 
 ***All approvals for Mounjaro must be placed at the HICL level with a note in the letter section stating ~~that all strengths~~ have been approved***
 
-(When approving a PA by HICL, include this verbiage in the letter text:**
+**When approving a PA by HICL, include this verbiage in the letter text:**
 
 ==Approved medication: [Drug Name]==
  
-We no longer need to include “(allstrengths)” and effective dates.) 11/1/2023 cnguyen
+ (we no longer need to include “(all strengths)” and effective dates)
 
 1.	Request for ***COT due to a legacy PA on file*** from a previous MCE and claims history for drug = ***review under re-auth criteria***
     - Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring. If this is not provided, please use the following ***denial language:*** 
