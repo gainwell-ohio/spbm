@@ -7,7 +7,15 @@ search:
 
 [9/15/23- Must use Decision Pathway for Humira](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Decision%20Pathways/Humira/)
 
-4/10/23: 
+## 11/1/2023
+
+**When approving a PA by HICL, include this verbiage in the letter text:**
+
+==Approved medication: [Drug Name]==
+ 
+***We no longer need to include “(allstrengths)” and effective dates***.
+
+## 4/10/23 
 
 [Procedure for Immunomodulators for Systemic Inflammatory Disease](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Immunomodulators%20for%20Systemic%20Inflammatory%20Disease%20DLP_.docx?d=w1bd61a780e50445da38867db308cebf0&csf=1&web=1&e=ycj7WU)
 
@@ -20,7 +28,7 @@ search:
 3.	Approval will be loaded for ***90 days duration.*** **Only exception to 90-days is pediatric Dupixent dosing in which may be extended to 120 days due to breaking boxes at the pharmacy.**  
 4.	Letter text in the Approval Letter should reflect the name of the drug approved (specifically to state all strengths have been approved) and approval dates as shown below
 
-![Alt text](systemic_immunomodulators_1.png)
+
 
 ## Immunomodulators for Systemic Inflammatory Disease – 365-day reauthorizations 
 
@@ -34,7 +42,7 @@ search:
 4.	Letter text in the Approval Letter should reflect the name of the drug approved (specifically to state all strengths have been approved) and approval dates as shown below.
  -  Example below shows 90-day supply. This will be entered with the specific approval dates reflecting a 365-day    	supply).
 
-![Alt text](systemic_immunomodulators_2.png)
+
 
 ## Dupixent-small kids
 
