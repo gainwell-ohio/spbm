@@ -3,11 +3,22 @@ search:
   boost: 1
 ---
 
-# HICL, GSN, NDC situations 5/30/23
+# HICL, GSN, NDC situations 
+
+## 11/1/2023
+
+**When approving a PA by HICL, include this verbiage in the letter text (we no longer need to include “(all strengths)” and effective dates):**
+
+==Approved medication: [Drug Name]==
+ 
+
+
+
+## 5/30/23
 
 This was also sent out in the past for helpful directive
 
-## DRUGS LOADED BY HICL 
+### DRUGS LOADED BY HICL 
 
 - ***Immunomodulators (except Xeljanz)***: Dupixent, Adbry, Enbrel, Kineret, Otezla, Taltz, Actemra, Cibinqo, Cimzia, Cosentyx, 
 Ilumya, Kevzara, Olumiant, Orencia, Rinvoq, Siliq, Simponi, Skyrizi, Sotyktu, Stelara, Tremfya, Humira
