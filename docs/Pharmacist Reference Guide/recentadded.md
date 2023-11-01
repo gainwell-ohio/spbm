@@ -1,5 +1,8 @@
 # Recently Added/Updated
 
+11/1/23
+- [Updated Hemophilia Factor Notes](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Hemophilia%20Factors/Hemophilia%20Factor%20Notes/?h=hemo)
+
 10/31/23
 - [PA Re-authorization Lookback Period](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/lookback/?h=look)
 
