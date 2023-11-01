@@ -2,11 +2,10 @@
 
 ## 11/1/2023
 
-**When approving a PA by HICL, include this verbiage in the letter text:**
+**When approving a PA by HICL, include this verbiage in the letter text (we no longer need to include “(all strengths)” and effective dates):**
 
 ==Approved medication: [Drug Name]==
  
-We no longer need to include “(all strengths)” and effective dates.
 
 ## 5/30/23
 
