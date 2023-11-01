@@ -32,9 +32,9 @@ search:
  
 ### Approval Text
 
-This prior authorization is approved for Spravato 56mg and 84mg dosages. For renewal, member must have concurrently used antidepressants and shown improvement from the member’s baseline depression status using an appropriate rating scale [for example: Patient Health Questionnaire (PHQ-9), Beck Depression Inventory (BDI), Quick Inventory of Depressive Symptomatology (QIDS), Montgomery-Åsberg Depression Rating Scale (MADRS), Hamilton Rating Scale for Depression (HAM-D)]. 
+**This prior authorization is approved for Spravato 56mg and 84mg dosages. For renewal, member must have concurrently used antidepressants and shown improvement from the member’s baseline depression status using an appropriate rating scale [for example: Patient Health Questionnaire (PHQ-9), Beck Depression Inventory (BDI), Quick Inventory of Depressive Symptomatology (QIDS), Montgomery-Åsberg Depression Rating Scale (MADRS), Hamilton Rating Scale for Depression (HAM-D)].** 
 
-**The above text is only for TRD, MDD with suicidal ideation is on an episode by episode basis, no renewal information to be given.**
+***The above text is only for TRD, MDD with suicidal ideation is on an episode by episode basis, no renewal information to be given.
 
 [**Depression Assessment Scales](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Spravato/Spravato%20Example/?h=sprava)
  
