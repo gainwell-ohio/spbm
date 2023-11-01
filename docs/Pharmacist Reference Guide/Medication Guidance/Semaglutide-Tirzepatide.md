@@ -9,6 +9,14 @@ search:
 
 - Please note the recent decision trees and focus on A1c for processing GLP-1, this is what should be referenced when deciding GLP-1s, this will be the foundation for EPA and has had input directly from ODM.
 
+## 11/1/2023
+
+**When approving a PA by HICL, include this verbiage in the letter text:**
+
+==Approved medication: [Drug Name]==
+ 
+We no longer need to include “(allstrengths)” and effective dates.
+
 # GLP-1 Directive
 
 ## Wegovy (semaglutide) 
@@ -27,7 +35,7 @@ search:
 -	All other dx not Type 2 DM = Admin deny (consider EPSDT for <21 yo)
 -	Requests for Type 2 DM – (consider EPSDT for <21 yo)
 
-***All approvals for Mounjaro must be placed at the HICL level with a note in the letter section stating that all strengths have been approved***
+***All approvals for Mounjaro must be placed at the HICL level with a note in the letter section stating ~~that all strengths~~ have been approved***
 
 1.	Request for ***COT due to a legacy PA on file*** from a previous MCE and claims history for drug = ***review under re-auth criteria***
     - Must provide documentation of patient’s clinical response to treatment and ongoing safety monitoring. If this is not provided, please use the following ***denial language:*** 
