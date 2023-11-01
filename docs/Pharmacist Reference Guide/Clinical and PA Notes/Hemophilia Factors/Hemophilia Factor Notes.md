@@ -24,14 +24,17 @@ Check NDC Maintenance to see the units of measurement for factors.  Factors are 
 - EHL (NP): Jivi
 
 ^^Hemophilia B^^:
+
 - Non EHL (P): AlphaNine SD, Feiba, Ixinity, Mononine, Novoseven RT, Profilnine, Rixubis
 - Non EHL (NP): Sevenfact
 - EHL (P): Alprolix, Benefix, Idelvion,
 - EHL (NP): Rebinyn
 
 ^^Factor XIII Deficiency^^:
+
 - Corifact (P)
 
 ^^Von Willebrand’s Disease^^:
+
 - Non EHL (P): Alphanate, Humate-P, Wilate
 - Non EHL (NP): Vonvendi
