@@ -45,7 +45,7 @@ This is a subcategory of Infectious Disease Agents.
 Clinical PA Criteria
 
 - Only regimens recommended by the American Association for the Study of Liver Diseases (AASLD) will be authorized [American Association for the Study of Liver Diseases (AASLD) Homepage](https://www.hcvguidelines.org/)
-- Please see the [Hepatitis C Direct Acting Antiviral Prior Authorization Form]{:target="_blank" rel="noopener"}(https://pharmacy.medicaid.ohio.gov/sites/default/files/HepC_PA_Form_20211119.pdf#overlay-context=prior-authorization){:target="_blank" rel="noopener"} for criteria 
+- Please see the [Hepatitis C Direct Acting Antiviral Prior Authorization Form](https://pharmacy.medicaid.ohio.gov/sites/default/files/HepC_PA_Form_20211119.pdf#overlay-context=prior-authorization){:target="_blank" rel="noopener"} for criteria 
 
 ### Non-Preferred
 
