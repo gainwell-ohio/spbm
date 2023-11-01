@@ -18,9 +18,9 @@ Check NDC Maintenance to see the units of measurement for factors.  Factors are 
 
 ^^Hemophilia A^^:
 
-- Non-EHL (P)^^: Advate, Adynovate, Afstyla, Alphanate, Eloctate, Esperoct, Feiba, Hemofil M, Humate-P, Koate, Kogenate FS, Novoeight, Novoseven RT, Recombinate, Wilate, Xyntha,
+- Non-EHL (P): Advate, Adynovate, Afstyla, Alphanate, Eloctate, Esperoct, Feiba, Hemofil M, Humate-P, Koate, Kogenate FS, Kovaltry, Novoeight, Novoseven RT, Recombinate, Wilate, Xyntha,
 - EHL (P): Hemlibra
-- Non EHL (NP): Kovaltry, Nuwiq, Obizur, Sevenfact
+- Non EHL (NP): , Nuwiq, Obizur, Sevenfact
 - EHL (NP): Jivi
 
 ^^Hemophilia B^^:
