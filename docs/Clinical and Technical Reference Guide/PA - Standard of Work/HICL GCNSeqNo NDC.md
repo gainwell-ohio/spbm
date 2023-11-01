@@ -1,3 +1,15 @@
+# HICL, GSN, NDC situations 
+
+## 11/1/2023
+
+**When approving a PA by HICL, include this verbiage in the letter text:**
+
+==Approved medication: [Drug Name]==
+ 
+We no longer need to include “(all strengths)” and effective dates.
+
+## 5/30/23
+
 When working a prior authorization please select the GCNseqNO if moving from fax view to pending or from pending to medreview. If you are to be the final decider [approve/cancel/deny (rph only)] please follow the HICL-GCN-NDC guidance when selecting the drug name.
 
 From most general to strict, it goes HICL-GCN-NDC.
