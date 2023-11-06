@@ -5,6 +5,14 @@ search:
 
 # EPSDT Procedures
 
+## ESPDT updates 11/5/2023
+
+[Weekly Email 11/05/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVQOOIEMRSZNoPwyja4M100BMFCNxrQlaxd8q_9vBmnvOA?e=wc27Fq){:target="_blank" rel="noopener"}
+
+•	Please know that if member is less than 21 EPSDT does not mean they automatically get the medication. First they must be less than 21, then they have to meet medically necessity (indication for age, diagnosis, dosage, etc) **and** ^^have tried or reason to not use payable (preferred or not preferred) medications^^.
+
+## EPSDT Procedures 3/9/2023
+
 Hello,
 
 After gathering more descriptive information and finalizing the process, the following information can be used in decisioning prior authorizations for EPSDT.
