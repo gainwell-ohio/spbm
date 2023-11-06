@@ -1,5 +1,14 @@
 # Omnipod Quantity
 
+## 11/6/23
+
+[Weekly Email 11/05/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVQOOIEMRSZNoPwyja4M100BMFCNxrQlaxd8q_9vBmnvOA?e=wc27Fq){:target="_blank" rel="noopener"}
+
+•	**Omnipod kits should be approved for 1/30**, and then the ^^pods should be approved for a year^^.
+
+
+## 8/21/23
+
 [Omnipod-System_User-Guide_English](https://www.omnipod.com/sites/default/files/2021-04/Omnipod-System_User-Guide_English.pdf){ :target="_blank" rel="noopener"}
 
 8/21/23 [Weekly Email 8/19/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EUlb6EUfKF5IiERwicJzc_MBynG7FCKq9KcwK59smLWgVA?e=x7Ez2D){:target="_blank" rel="noopener"}
@@ -21,4 +30,6 @@ We do not believe that we should approve all Omnipod PAs as 15 for 30 days.  Bas
 
 1. If a member is using 66 units OR less of U-100 insulin then 10 pods should last 30days
 2. If a member is using 67-100 units of U-100 insulin then 15 pods should last 30 days
+
+
 
