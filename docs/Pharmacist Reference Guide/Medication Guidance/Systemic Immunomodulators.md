@@ -7,6 +7,14 @@ search:
 
 [9/15/23- Must use Decision Pathway for Humira](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Decision%20Pathways/Humira/)
 
+## 11/6/23
+
+[Weekly Email 11/05/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVQOOIEMRSZNoPwyja4M100BMFCNxrQlaxd8q_9vBmnvOA?e=wc27Fq){:target="_blank" rel="noopener"}
+
+•	Some biologics require initial IV dosing or dosing that would be covered by medical. If we get requests that have given us this information, this is considered continuation of therapy, and please decide as such.
+
+Chris N in consult with Justin- If initiation of an IV dosing of an immunomodulator was completed in the office or other medical setting, the PA should be approved for 90 days (as an initial PA request) and the clinical criteria (example first line treatment, TB testing etc) does not need to be reviewed. ***This applies to Non-preferred immunomodulators and ones not on the UPDL.*** 
+
 ## 11/1/2023
 
 **When approving a PA by HICL, include this verbiage in the letter text:**
