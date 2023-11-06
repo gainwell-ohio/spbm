@@ -1,11 +1,13 @@
 # Recently Added/Updated
 
 11/6/23
+
 - [Weekly Email 11/05/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVQOOIEMRSZNoPwyja4M100BMFCNxrQlaxd8q_9vBmnvOA?e=wc27Fq){:target="_blank" rel="noopener"}
 - [Omnipod processing updates](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/omnipod/?h=omni)
 - [EPSDT updates](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/EPSDT/EPSDT/?h=epsdt)
 - [Vyvanse shortage updates](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Drug%20Shortage/vyvanse/?h=vyvanse)
 - [IV immunomodulator initiation in a medical setting](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Systemic%20Immunomodulators/?h=immun)
+- [Flovent and Ciprodex shortage](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Drug%20Shortage/Drug%20Shortage/?h=short)
 
 11/1/23
 - [Updated Hemophilia Factor Notes](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Hemophilia%20Factors/Hemophilia%20Factor%20Notes/?h=hemo)
