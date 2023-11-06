@@ -4,7 +4,9 @@
 
 [Weekly Email 11/05/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVQOOIEMRSZNoPwyja4M100BMFCNxrQlaxd8q_9vBmnvOA?e=wc27Fq){:target="_blank" rel="noopener"}
 
-•	==Please note that the brand Vyvanse shortage has stated to be over on 10/15/23++
+•	==Please note that the brand Vyvanse shortage has stated to be over on 10/15/23==
+
+
 
 ## 9/20/23
 
