@@ -3,7 +3,16 @@ search:
   boost: 1
 ---
 
-# Drug Shortage 2/23/23
+# Drug Shortage 
+
+## 11/6/23
+
+Collingwood, Justin 11:11 AM IMPORTANT
+
+Effective immediately, for pharmacies that self-attest they cannot secure stock of the preferred brand product, **ODM is approving PA-overrides to allow the respective generics, Fluticasone or Ciprofloxacin/Dexamethasone, to be covered**. If we follow our evergreen directions on shortages we can approve for 90 days, in which they will be addressing at the January P&T meeting, which will cover then. ==Please approve these generics for Flovent or Ciprodex if we hear any request for them either in tech chat or in med review==
+ 
+
+## 2/23/23
 
 Here is the general for shortage issues:
 If it is a known shortage ( Check the AHSP website) and if listed-
