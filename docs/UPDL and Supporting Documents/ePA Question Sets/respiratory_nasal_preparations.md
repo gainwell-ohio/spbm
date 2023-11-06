@@ -1,14 +1,16 @@
-**Ophthalmic Agents: NSAIDs** 
+# Respiratory Agents - Nasal Preparations
 
-|            |                                                                      |
-| ---------- | -------------------------------------------------------------------- |
-| Criteria 1 | NP Criteria- Acuvail, Bromfenac, Bromsite, Ilevro, Nevanac, Prolensa |
+|            |                                                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Criteria 1 | NP Criteria- Azelastine/Fluticasone Spray, Beconase AQ, Budesonide, Mometasone, Omnaris, Qnasl, Ryaltris, Xhance, Zetonna |
+
+## Non-Preferred Products
 
 <table>
 <thead>
 <tr class="header">
 <th><strong>Criteria Title</strong> </th>
-<th>Ophthalmic Agents: NSAIDs</th>
+<th>Respiratory Agents: Nasal Preparations</th>
 <th></th>
 <th></th>
 </tr>
@@ -27,7 +29,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Products </strong> </p>
+<td><p><strong>Products  </strong></p>
 <table>
 <thead>
 <tr class="header">
@@ -60,39 +62,63 @@
 </tr>
 <tr class="even">
 <td></td>
-<td>ACUVAIL </td>
-<td>065413</td>
+<td> AZELASTINE/FLUTICASONE SPRAY</td>
+<td> 069144</td>
 <td>GCNSeqNo </td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>BROMFENAC</td>
-<td>058916</td>
+<td>BECONASE AQ</td>
+<td>008078</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>BROMSITE</td>
-<td>075891</td>
+<td>BUDESONIDE</td>
+<td>075590</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>ILEVRO</td>
-<td>070358</td>
+<td>MOMETASONE</td>
+<td>031186</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>NEVANAC</td>
-<td>059670</td>
+<td>OMNARIS</td>
+<td>061667</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>PROLENSA</td>
-<td>070835</td>
-<td>GCNSeqNO</td>
+<td>QNASL</td>
+<td>068876</td>
+<td>GCNSeqNo</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>QNASL</td>
+<td>073274</td>
+<td>GCNSeqNo</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>RYALTRIS</td>
+<td>081937</td>
+<td>GCNSeqNo</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>XHANCE</td>
+<td>077749</td>
+<td>GCNSeqNo</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>ZETONNA</td>
+<td>068479</td>
+<td>GCNSeqNo</td>
 </tr>
 </tbody>
 </table>
@@ -111,7 +137,26 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td>1</td>
+<td>1 </td>
+<td>0998</td>
+<td></td>
+<td>Select </td>
+<td><p>Is the patient new to therapy (initial authorization request) or continuing therapy (re-authorization request)?  </p>
+<p>  </p></td>
+<td>New Start (initial authorization request)</td>
+<td>0999</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Continuation (re-authorization request)  </td>
+<td>1234</td>
+</tr>
+<tr class="odd">
+<td>2</td>
 <td>0999</td>
 <td></td>
 <td>Select </td>
@@ -129,12 +174,12 @@
 <td>1235 </td>
 </tr>
 <tr class="odd">
-<td>2</td>
+<td>3</td>
 <td>1000 </td>
 <td> </td>
 <td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">3 days</span> with at least <span class="underline">one preferred</span> drug?</p>
-<p>The preferred alternatives may include the following: Diclofenac, Flurbiprofen, Ketorolac.</p>
+<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">30 days</span> with at least <span class="underline">two preferred</span> drugs in the same class, if available?</p>
+<p>The preferred alternatives may include the following: Azelastine, Flunisolide, Fluticasone (Generic of Flonase), Ipratropium, Olopatadine.</p>
 <p>If yes, please submit the medication trials and dates.</p></td>
 <td>Y </td>
 <td>1002</td>
@@ -149,7 +194,7 @@
 <td>1001</td>
 </tr>
 <tr class="odd">
-<td>3</td>
+<td>4</td>
 <td>1001</td>
 <td></td>
 <td>Select and Free Text</td>
@@ -168,7 +213,7 @@
 <td>1236 </td>
 </tr>
 <tr class="odd">
-<td>4</td>
+<td>5</td>
 <td>1002</td>
 <td></td>
 <td>Select</td>
@@ -186,16 +231,16 @@
 <td></td>
 <td></td>
 <td>N</td>
-<td>END (Approve x 30 days)</td>
+<td>END (Approve x 365 days)</td>
 </tr>
 <tr class="odd">
-<td>5</td>
+<td>6</td>
 <td>1003</td>
 <td></td>
 <td>Select and Free Text</td>
 <td>Has the provider submitted documentation of medical necessity for the requested product (i.e. medical reasons for why the patient cannot be changed to a solid oral dosage formulation, inadequate clinical response with a product’s immediate release formulation, or inadequate clinical response or allergy of two or more generic labelers)?</td>
 <td>Y</td>
-<td>END (Approve x 30 days)</td>
+<td>END (Approve x 365 days)</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -207,7 +252,26 @@
 <td>1235</td>
 </tr>
 <tr class="odd">
-<td>6</td>
+<td>7</td>
+<td>1234</td>
+<td></td>
+<td>Select and Free Text  </td>
+<td><p>Has the provider submitted documentation of the patient’s clinical response to treatment and ongoing safety monitoring?</p>
+<p>    </p></td>
+<td> Y    </td>
+<td>END (Approve x 365 days)  </td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td> N    </td>
+<td>1235 </td>
+</tr>
+<tr class="odd">
+<td>8</td>
 <td>1235</td>
 <td></td>
 <td>Free Text</td>
@@ -216,7 +280,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td>7</td>
+<td>9</td>
 <td>1236</td>
 <td></td>
 <td>Free Text</td>
@@ -227,8 +291,9 @@
 </tbody>
 </table>
 
-LENGTH OF AUTHORIZATIONS: 30 days
+LENGTH OF AUTHORIZATIONS: 365 days
 
-| **Last Approved ** | 5/1/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/1/2023 |
 | **Other**          |          |

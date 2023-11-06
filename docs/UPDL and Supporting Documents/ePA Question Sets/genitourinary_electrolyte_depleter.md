@@ -1,15 +1,16 @@
-**Blood Formation, Coagulation, and Thrombosis Agents: Oral
-Antiplatelet** 
+# Genitourinary Agents - Electrolyte Depleter Agents
 
-|            |                                  |
-| ---------- | -------------------------------- |
-| Criteria 1 | NP Criteria- Yosprala, Zontivity |
+|            |                                                     |
+| ---------- | --------------------------------------------------- |
+| Criteria 1 | NP Criteria- Auryxia, Lanthanum Carbonate, Velphoro |
+
+## Non-Preferred Products
 
 <table>
 <thead>
 <tr class="header">
 <th><strong>Criteria Title</strong> </th>
-<th>Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet</th>
+<th>Genitourinary Agents: Electrolyte Depleter Agents</th>
 <th></th>
 <th></th>
 </tr>
@@ -61,20 +62,44 @@ Antiplatelet** 
 </tr>
 <tr class="even">
 <td></td>
-<td>YOSPRALA </td>
-<td>076607</td>
+<td> AURYXIA</td>
+<td>072787</td>
 <td>GCNSeqNo </td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>YOSPRALA</td>
-<td>076608</td>
+<td>LANTHANUM CARBONATE</td>
+<td>058390</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>ZONTIVITY</td>
-<td>072336</td>
+<td>LANTHANUM CARBONATE</td>
+<td>060096</td>
+<td>GCNSeqNo</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>LANTHANUM CARBONATE</td>
+<td>060097</td>
+<td>GCNSeqNo</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>LANTHANUM CARBONATE</td>
+<td>069415</td>
+<td>GCNSeqNo</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>LANTHANUM CARBONATE</td>
+<td>069416</td>
+<td>GCNSeqNo</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>VELPHORO</td>
+<td>071959</td>
 <td>GCNSeqNo</td>
 </tr>
 </tbody>
@@ -135,8 +160,8 @@ Antiplatelet** 
 <td>1000 </td>
 <td> </td>
 <td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">14 days</span> with at least <span class="underline">two preferred</span> drugs?</p>
-<p>The preferred alternatives may include the following: Aspirin, Aspirin/Dipyridamole ER, Brilinta, Clopidogrel, Prasugrel.</p>
+<td><p>Has the patient had an inadequate clinical response of at <span class="underline">least 7 days</span> with at least <span class="underline">two preferred</span> drugs?</p>
+<p>The preferred alternatives may include the following: Calcium Acetate, Carbonate, Phoslyra, Sevelamer.</p>
 <p>If yes, please submit the medication trials and dates.</p></td>
 <td>Y </td>
 <td>1002</td>
@@ -151,7 +176,7 @@ Antiplatelet** 
 <td>1001</td>
 </tr>
 <tr class="odd">
-<td>4</td>
+<td> 4</td>
 <td>1001</td>
 <td></td>
 <td>Select and Free Text</td>
@@ -214,9 +239,9 @@ Antiplatelet** 
 <td></td>
 <td>Select and Free Text  </td>
 <td><p>Has the provider submitted documentation of the patient’s clinical response to treatment and ongoing safety monitoring?</p>
-<p> </p></td>
+<p>    </p></td>
 <td> Y    </td>
-<td>END (Approve x 365 days)  </td>
+<td>END (Approve x 365 days) </td>
 </tr>
 <tr class="even">
 <td></td>
@@ -250,6 +275,7 @@ Antiplatelet** 
 
 LENGTH OF AUTHORIZATIONS: 365 days
 
-| **Last Approved ** | 5/1/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/1/2023 |
 | **Other**          |          |

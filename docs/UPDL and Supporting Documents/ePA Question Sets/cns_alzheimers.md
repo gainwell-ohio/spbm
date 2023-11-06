@@ -1,11 +1,14 @@
-**Central Nervous System (CNS) Agents: Alzheimer’s Agents\***
+# CNS Agents - Alzheimer’s Agents
 
-| Criteria 1 | Adlarity (NP, AR), Memantine ER, Sol (NP, AR), Namzaric (NP, AR) |
+|||
 | ---------- | ---------------------------------------------------------------- |
+| Criteria 1 | Adlarity (NP, AR), Memantine ER, Sol (NP, AR), Namzaric (NP, AR) |
 | Criteria 2 | Donepezil 23mg Tab (NP, QL, AR)                                  |
 | Criteria 3 | Galantamine Sol (NP, QL, AR)                                     |
 
 All drugs: a PA is required for patients younger than 40 years
+
+## Adlarity, Memantine ER, Memantine Sol, Namzaric
 
 <table>
 <thead>
@@ -351,9 +354,12 @@ All drugs: a PA is required for patients younger than 40 years
 
 LENGTH OF AUTHORIZATIONS: 365 Days 
 
-| **Last Approved ** | 6/6/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 6/6/2023 |
 | **Other**          |          |
+
+## Donepezile 23mg Tab
 
 <table>
 <thead>
@@ -625,9 +631,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 
 LENGTH OF AUTHORIZATIONS: 365 Days 
 
-| **Last Approved ** | 6/6/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 6/6/2023 |
 | **Other**          |          |
+
+## Galantamine Sol
 
 <table>
 <thead>
@@ -899,6 +908,7 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 
 LENGTH OF AUTHORIZATIONS: 365 Days 
 
-| **Last Approved ** | 6/6/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 6/6/2023 |
 | **Other**          |          |

@@ -1,4 +1,13 @@
-**CNS Agents Restless Legs Syndrome**
+# CNS Agents - Restless Legs Syndrome
+
+|||
+| :--- | :--- |
+|Criteria 1 |	NP- Neupro  NP for both Parkinson’s and RLS|
+|Criteria 2* |	NP- Horizant: NP for both Neuropathic pain and RLS |
+
+*Note: this was submitted with Criteria Set 1A. Please reference Criteria Set 1A.
+
+## Neupro
 
 <table>
 <thead>
@@ -310,6 +319,7 @@
 
 LENGTH OF AUTHORIZATIONS: 365 Days 
 
-| **Last Approved ** | 5/1/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/1/2023 |
 | **Other**          |          |

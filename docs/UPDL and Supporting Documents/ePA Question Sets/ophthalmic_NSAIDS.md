@@ -1,14 +1,16 @@
-**Infectious Disease Agents: Antivirals – Herpes**
+# Ophthalmic Agents - NSAIDs 
 
-|            |                                   |
-| ---------- | --------------------------------- |
-| Criteria 1 | NP Criteria- Famciclovir, Sitavig |
+|            |                                                                      |
+| ---------- | -------------------------------------------------------------------- |
+| Criteria 1 | NP Criteria- Acuvail, Bromfenac, Bromsite, Ilevro, Nevanac, Prolensa |
+
+## Non-Preferred Products
 
 <table>
 <thead>
 <tr class="header">
 <th><strong>Criteria Title</strong> </th>
-<th>Infectious Disease Agents: Antivirals – Herpes</th>
+<th>Ophthalmic Agents: NSAIDs</th>
 <th></th>
 <th></th>
 </tr>
@@ -60,27 +62,39 @@
 </tr>
 <tr class="even">
 <td></td>
-<td> FAMCICLOVIR</td>
-<td>021876</td>
+<td>ACUVAIL </td>
+<td>065413</td>
 <td>GCNSeqNo </td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>FAMCICLOVIR</td>
-<td>021995</td>
+<td>BROMFENAC</td>
+<td>058916</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>FAMCICLOVIR</td>
-<td>023543</td>
+<td>BROMSITE</td>
+<td>075891</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>SITAVIG</td>
-<td>072344</td>
+<td>ILEVRO</td>
+<td>070358</td>
 <td>GCNSeqNo</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>NEVANAC</td>
+<td>059670</td>
+<td>GCNSeqNo</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>PROLENSA</td>
+<td>070835</td>
+<td>GCNSeqNO</td>
 </tr>
 </tbody>
 </table>
@@ -99,26 +113,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td>1 </td>
-<td>0998</td>
-<td></td>
-<td>Select </td>
-<td><p>Is the patient new to therapy (initial authorization request) or continuing therapy (re-authorization request)?  </p>
-<p>  </p></td>
-<td>New Start (initial authorization request)</td>
-<td>0999</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Continuation (re-authorization request)  </td>
-<td>1234</td>
-</tr>
-<tr class="odd">
-<td>2</td>
+<td>1</td>
 <td>0999</td>
 <td></td>
 <td>Select </td>
@@ -136,12 +131,12 @@
 <td>1235 </td>
 </tr>
 <tr class="odd">
-<td>3</td>
+<td>2</td>
 <td>1000 </td>
 <td> </td>
 <td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response of at <span class="underline">least 3 days</span> with at least <span class="underline">one preferred</span> drug?</p>
-<p>The preferred alternatives may include the following: Acyclovir, Valacyclovir.</p>
+<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">3 days</span> with at least <span class="underline">one preferred</span> drug?</p>
+<p>The preferred alternatives may include the following: Diclofenac, Flurbiprofen, Ketorolac.</p>
 <p>If yes, please submit the medication trials and dates.</p></td>
 <td>Y </td>
 <td>1002</td>
@@ -156,7 +151,7 @@
 <td>1001</td>
 </tr>
 <tr class="odd">
-<td> 4</td>
+<td>3</td>
 <td>1001</td>
 <td></td>
 <td>Select and Free Text</td>
@@ -175,7 +170,7 @@
 <td>1236 </td>
 </tr>
 <tr class="odd">
-<td>5</td>
+<td>4</td>
 <td>1002</td>
 <td></td>
 <td>Select</td>
@@ -193,16 +188,16 @@
 <td></td>
 <td></td>
 <td>N</td>
-<td>END (Approve x 180 days)  </td>
+<td>END (Approve x 30 days)</td>
 </tr>
 <tr class="odd">
-<td>6</td>
+<td>5</td>
 <td>1003</td>
 <td></td>
 <td>Select and Free Text</td>
 <td>Has the provider submitted documentation of medical necessity for the requested product (i.e. medical reasons for why the patient cannot be changed to a solid oral dosage formulation, inadequate clinical response with a product’s immediate release formulation, or inadequate clinical response or allergy of two or more generic labelers)?</td>
 <td>Y</td>
-<td>END (Approve x 180 days)</td>
+<td>END (Approve x 30 days)</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -214,26 +209,7 @@
 <td>1235</td>
 </tr>
 <tr class="odd">
-<td>7</td>
-<td>1234</td>
-<td></td>
-<td>Select and Free Text  </td>
-<td><p>Has the provider submitted documentation of the patient’s clinical response to treatment and ongoing safety monitoring?</p>
-<p>    </p></td>
-<td> Y    </td>
-<td>END (Approve x 180 days)  </td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td> N    </td>
-<td>1235 </td>
-</tr>
-<tr class="odd">
-<td>8</td>
+<td>6</td>
 <td>1235</td>
 <td></td>
 <td>Free Text</td>
@@ -242,7 +218,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td>9</td>
+<td>7</td>
 <td>1236</td>
 <td></td>
 <td>Free Text</td>
@@ -253,9 +229,9 @@
 </tbody>
 </table>
 
-LENGTH OF AUTHORIZATIONS: For the duration of the prescription (up to
-180 days)
+LENGTH OF AUTHORIZATIONS: 30 days
 
-| **Last Approved ** | 5/1/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/1/2023 |
 | **Other**          |          |

@@ -1,10 +1,13 @@
-**Endocrine Agents: Endometriosis**
+# Endocrine Agents - Endometriosis
 
-| Criteria 1 | NP Criteria- Synarel                                                                                     |
+|||
 | ---------- | -------------------------------------------------------------------------------------------------------- |
+| Criteria 1 | NP Criteria- Synarel                                                                                     |
 | Criteria 2 | Danazol (P, ST), Depo-Subq Provera 104 (P, ST), Lupaneta Pack (P, ST), Orilissa (P, ST), Zoladex (P, ST) |
 | Criteria 3 | Lupron Depot 3.75, 11.25mg (P, QL, ST)                                                                   |
 | Criteria 4 | Myfembree (P, QL, ST)                                                                                    |
+
+## Synarel
 
 <table>
 <thead>
@@ -275,12 +278,12 @@
 
 LENGTH OF AUTHORIZATIONS: 365 days
 
-| **Last Approved ** | 5/5/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/5/2023 |
 | **Other**          |          |
 
-**  
-**
+## Danazol, Depo-Subq Provera 104, Lupaneta Pack, Orilissa, Zoladex
 
 <table>
 <thead>
@@ -533,12 +536,12 @@ LENGTH OF AUTHORIZATIONS: 365 days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 5/5/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/5/2023 |
 | **Other**          |          |
 
-**  
-**
+## Lupron Depot 3.75, 11.25mg
 
 <table>
 <thead>
@@ -935,12 +938,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 LENGTH OF AUTHORIZATIONS: Endometriosis- 365 Days; Uterine Fibroids- Up
 to 180 days
 
-| **Last Approved ** | 5/5/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/5/2023 |
 | **Other**          |          |
 
-**  
-**
+## Myfembree
 
 <table>
 <thead>
@@ -1272,9 +1275,9 @@ to 180 days
 </tbody>
 </table>
 
-LENGTH OF AUTHORIZATIONS: Endometriosis- 365 Days; Uterine Fibroids- Up
-to 180 days
+LENGTH OF AUTHORIZATIONS: Endometriosis- 365 Days; Uterine Fibroids- Up to 180 days
 
-| **Last Approved ** | 5/5/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/5/2023 |
 | **Other**          |          |

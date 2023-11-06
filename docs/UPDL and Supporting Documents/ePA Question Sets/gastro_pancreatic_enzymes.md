@@ -1,14 +1,16 @@
-**Respiratory Agents: Nasal Preparations**
+## Gastrointestinal Agents - Pancreatic Enzymes
 
-|            |                                                                                                                           |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Criteria 1 | NP Criteria- Azelastine/Fluticasone Spray, Beconase AQ, Budesonide, Mometasone, Omnaris, Qnasl, Ryaltris, Xhance, Zetonna |
+|            |                                           |
+| ---------- | ----------------------------------------- |
+| Criteria 1 | NP Criteria - Pancreaze, Pertzye, Viokace |
+
+## Non-Preferred Products
 
 <table>
 <thead>
 <tr class="header">
 <th><strong>Criteria Title</strong> </th>
-<th>Respiratory Agents: Nasal Preparations</th>
+<th>Gastrointestinal Agents: Pancreatic Enzymes</th>
 <th></th>
 <th></th>
 </tr>
@@ -27,7 +29,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Products  </strong></p>
+<td><p><strong>Products </strong> </p>
 <table>
 <thead>
 <tr class="header">
@@ -60,63 +62,63 @@
 </tr>
 <tr class="even">
 <td></td>
-<td> AZELASTINE/FLUTICASONE SPRAY</td>
-<td> 069144</td>
+<td>PANCREAZE </td>
+<td>076625 </td>
 <td>GCNSeqNo </td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>BECONASE AQ</td>
-<td>008078</td>
-<td>GCNSeqNo</td>
+<td>PANCREAZE </td>
+<td>076626</td>
+<td>GCNSeqNo </td>
 </tr>
 <tr class="even">
 <td></td>
-<td>BUDESONIDE</td>
-<td>075590</td>
-<td>GCNSeqNo</td>
+<td>PANCREAZE </td>
+<td>076627</td>
+<td>GCNSeqNo </td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>MOMETASONE</td>
-<td>031186</td>
-<td>GCNSeqNo</td>
+<td>PANCREAZE </td>
+<td>076628</td>
+<td>GCNSeqNo </td>
 </tr>
 <tr class="even">
 <td></td>
-<td>OMNARIS</td>
-<td>061667</td>
-<td>GCNSeqNo</td>
+<td>PERTYZE</td>
+<td>069299</td>
+<td>GCNSeqNo </td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>QNASL</td>
-<td>068876</td>
-<td>GCNSeqNo</td>
+<td>PERTYZE</td>
+<td>069300</td>
+<td>GCNSeqNo </td>
 </tr>
 <tr class="even">
 <td></td>
-<td>QNASL</td>
-<td>073274</td>
-<td>GCNSeqNo</td>
+<td>PERTYZE</td>
+<td>076831</td>
+<td>GCNSeqNo </td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>RYALTRIS</td>
-<td>081937</td>
-<td>GCNSeqNo</td>
+<td>PERTYZE</td>
+<td>077665</td>
+<td>GCNSeqNo </td>
 </tr>
 <tr class="even">
 <td></td>
-<td>XHANCE</td>
-<td>077749</td>
-<td>GCNSeqNo</td>
+<td>VIOKACE</td>
+<td>068742</td>
+<td>GCNSeqNo </td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>ZETONNA</td>
-<td>068479</td>
-<td>GCNSeqNo</td>
+<td>VIOKACE</td>
+<td>068743</td>
+<td>GCNSeqNo </td>
 </tr>
 </tbody>
 </table>
@@ -176,8 +178,8 @@
 <td>1000 </td>
 <td> </td>
 <td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">30 days</span> with at least <span class="underline">two preferred</span> drugs in the same class, if available?</p>
-<p>The preferred alternatives may include the following: Azelastine, Flunisolide, Fluticasone (Generic of Flonase), Ipratropium, Olopatadine.</p>
+<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">14 days</span> with at <span class="underline">least one preferred</span> drug?</p>
+<p>The preferred alternatives may include the following: Creon, Zenpep.</p>
 <p>If yes, please submit the medication trials and dates.</p></td>
 <td>Y </td>
 <td>1002</td>
@@ -192,7 +194,7 @@
 <td>1001</td>
 </tr>
 <tr class="odd">
-<td>4</td>
+<td> 4</td>
 <td>1001</td>
 <td></td>
 <td>Select and Free Text</td>
@@ -291,6 +293,7 @@
 
 LENGTH OF AUTHORIZATIONS: 365 days
 
-| **Last Approved ** | 5/1/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/1/2023 |
 | **Other**          |          |

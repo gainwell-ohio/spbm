@@ -1,9 +1,11 @@
-**Blood Formation, Coagulation, and Thrombosis Agents: Oral
-Anticoagulants** 
+# Blood Formation, Coagulation, and Thrombosis Agents - Oral Anticoagulants 
 
-| Criteria 1 | NP Criteria- Savaysa, Dabigatran Cap \[Pradaxa (P, BvG)\] |
+|||
 | ---------- | --------------------------------------------------------- |
+| Criteria 1 | NP Criteria- Savaysa, Dabigatran Cap \[Pradaxa (P, BvG)\] |
 | Criteria 2 | Preferred with ARs                                        |
+
+## Non-Preferred Products
 
 <table>
 <thead>
@@ -297,9 +299,12 @@ Anticoagulants** 
 
 LENGTH OF AUTHORIZATIONS: 365 days
 
-| **Last Approved ** | 8/11/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/11/2023 |
 | **Other**          |           |
+
+## Pradaxa Pellet Pak, Xarelto Susp
 
 <table>
 <thead>
@@ -474,6 +479,7 @@ LENGTH OF AUTHORIZATIONS: 365 days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 8/11/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/11/2023 |
 | **Other**          |           |

@@ -1,12 +1,16 @@
-|            |                                           |
-| ---------- | ----------------------------------------- |
-| Criteria 1 | NP Criteria - Pancreaze, Pertzye, Viokace |
+# CNS - Fibromyalgia
+
+|            |                      |
+| ---------- | -------------------- |
+| Criteria 1 | NP Criteria- Savella |
+
+## Savella
 
 <table>
 <thead>
 <tr class="header">
 <th><strong>Criteria Title</strong> </th>
-<th>Gastrointestinal Agents: Pancreatic Enzymes</th>
+<th>Central Nervous System (CNS) Agents: Fibromyalgia Agents</th>
 <th></th>
 <th></th>
 </tr>
@@ -14,7 +18,7 @@
 <tbody>
 <tr class="odd">
 <td><strong>Criteria Subtitle</strong> </td>
-<td>Non-Preferred Products</td>
+<td>Savella</td>
 <td></td>
 <td></td>
 </tr>
@@ -58,63 +62,33 @@
 </tr>
 <tr class="even">
 <td></td>
-<td>PANCREAZE </td>
-<td>076625 </td>
+<td>SAVELLA </td>
+<td>065086</td>
 <td>GCNSeqNo </td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>PANCREAZE </td>
-<td>076626</td>
-<td>GCNSeqNo </td>
+<td>SAVELLA</td>
+<td>065088</td>
+<td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>PANCREAZE </td>
-<td>076627</td>
-<td>GCNSeqNo </td>
+<td>SAVELLA</td>
+<td>065089</td>
+<td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>PANCREAZE </td>
-<td>076628</td>
-<td>GCNSeqNo </td>
+<td>SAVELLA</td>
+<td>065090</td>
+<td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>PERTYZE</td>
-<td>069299</td>
-<td>GCNSeqNo </td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>PERTYZE</td>
-<td>069300</td>
-<td>GCNSeqNo </td>
-</tr>
-<tr class="even">
-<td></td>
-<td>PERTYZE</td>
-<td>076831</td>
-<td>GCNSeqNo </td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>PERTYZE</td>
-<td>077665</td>
-<td>GCNSeqNo </td>
-</tr>
-<tr class="even">
-<td></td>
-<td>VIOKACE</td>
-<td>068742</td>
-<td>GCNSeqNo </td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>VIOKACE</td>
-<td>068743</td>
-<td>GCNSeqNo </td>
+<td>SAVELLA</td>
+<td>065091</td>
+<td>GCNSeqNo</td>
 </tr>
 </tbody>
 </table>
@@ -174,8 +148,8 @@
 <td>1000 </td>
 <td> </td>
 <td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">14 days</span> with at <span class="underline">least one preferred</span> drug?</p>
-<p>The preferred alternatives may include the following: Creon, Zenpep.</p>
+<td><p>Has the patient had an inadequate clinical response of at <span class="underline">least 14 days</span> with at least <span class="underline">two preferred</span> drugs in different classes?</p>
+<p>Please note: Drugs and drug classes include gabapentin, pregabalin, short- and/or long-acting opioids, skeletal muscle relaxants, SNRIs, SSRIs, trazodone, and tricyclic antidepressants.</p>
 <p>If yes, please submit the medication trials and dates.</p></td>
 <td>Y </td>
 <td>1002</td>
@@ -190,7 +164,7 @@
 <td>1001</td>
 </tr>
 <tr class="odd">
-<td> 4</td>
+<td>4</td>
 <td>1001</td>
 <td></td>
 <td>Select and Free Text</td>
@@ -227,7 +201,7 @@
 <td></td>
 <td></td>
 <td>N</td>
-<td>END (Approve x 365 days)</td>
+<td>END (Pending Manual Review)</td>
 </tr>
 <tr class="odd">
 <td>6</td>
@@ -236,7 +210,7 @@
 <td>Select and Free Text</td>
 <td>Has the provider submitted documentation of medical necessity for the requested product (i.e. medical reasons for why the patient cannot be changed to a solid oral dosage formulation, inadequate clinical response with a product’s immediate release formulation, or inadequate clinical response or allergy of two or more generic labelers)?</td>
 <td>Y</td>
-<td>END (Approve x 365 days)</td>
+<td>END (Pending Manual Review)</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -252,10 +226,9 @@
 <td>1234</td>
 <td></td>
 <td>Select and Free Text  </td>
-<td><p>Has the provider submitted documentation of the patient’s clinical response to treatment and ongoing safety monitoring?</p>
-<p>    </p></td>
+<td>Has the provider submitted documentation of the patient’s clinical response to treatment and ongoing safety monitoring?</td>
 <td> Y    </td>
-<td>END (Approve x 365 days)  </td>
+<td>END (Pending Manual Review)  </td>
 </tr>
 <tr class="even">
 <td></td>
@@ -263,8 +236,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td> N    </td>
-<td>1235 </td>
+<td> N   </td>
+<td>1235</td>
 </tr>
 <tr class="odd">
 <td>8</td>
@@ -289,6 +262,7 @@
 
 LENGTH OF AUTHORIZATIONS: 365 days
 
-| **Last Approved ** | 5/1/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/1/2023 |
 | **Other**          |          |

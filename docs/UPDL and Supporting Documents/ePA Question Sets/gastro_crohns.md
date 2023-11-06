@@ -1,8 +1,10 @@
-Gastrointestinal Agents: Crohn’s Disease
+# Gastrointestinal Agents - Crohn’s Disease
 
 |            |                          |
 | ---------- | ------------------------ |
 | Criteria 1 | NP Criteria - Orkitos ER |
+
+## Orkitos ER
 
 <table>
 <thead>
@@ -241,6 +243,7 @@ Gastrointestinal Agents: Crohn’s Disease
 
 LENGTH OF AUTHORIZATIONS: Based on indication
 
-| **Last Approved ** | 5/1/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/1/2023 |
 | **Other**          |          |

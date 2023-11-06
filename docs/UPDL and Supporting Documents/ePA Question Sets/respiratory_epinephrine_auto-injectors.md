@@ -1,8 +1,10 @@
-**Respiratory Agents: Epinephrine Auto-Injectors**
+# Respiratory Agents - Epinephrine Auto-Injectors
 
 |            |                                 |
 | ---------- | ------------------------------- |
 | Criteria 1 | NP Criteria - Epipen, Epipen JR |
+
+## Non-Preferred Products
 
 <table>
 <thead>
@@ -243,6 +245,7 @@
 
 LENGTH OF AUTHORIZATIONS: 365 days
 
-| **Last Approved ** | 5/1/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/1/2023 |
 | **Other**          |          |

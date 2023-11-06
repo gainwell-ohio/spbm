@@ -1,8 +1,10 @@
-**Respiratory Agents: Other Agents**
+# Respiratory Agents: Other Agents
 
 |            |             |
 | ---------- | ----------- |
 | Criteria 1 | NP Criteria |
+
+## Daliresp, roflumilast
 
 <table>
 <thead>
@@ -278,6 +280,7 @@
 
 LENGTH OF AUTHORIZATIONS: Initial: 90 days; Subsequent: 180 days
 
-| **Last Approved ** | 6/2/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 6/2/2023 |
 | **Other**          |          |
