@@ -6,6 +6,8 @@
 
 •	==Please note that the brand Vyvanse shortage has stated to be over on 10/15/23==
 
+Chris in consult with Justin: We no longer accept shortages request for Generic since it is now available.
+
 
 
 ## 9/20/23
