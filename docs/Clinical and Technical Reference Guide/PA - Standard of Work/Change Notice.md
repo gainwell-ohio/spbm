@@ -7,6 +7,7 @@ search:
 
 | Date | New Process / Change | Why / Process Detail |
 |:---:|:---|:---|
+| 11/6/2023 |Guidance for Viloxazine (Qelbree)| Viloxazine is not able in the marketplace. Viloxazine is the generic name for Qelbree. **If a PA request comes in for Viloxazine we are to review according to the UPDL criteria for Qelbree.**|
 | 10/26/2023 |Guidance for when to cancel PA for "wrong form"| **We will accept all ODM-approved Gainwell PA forms even if the PA submitted is on the wrong type of ODM-approved Gainwell PA form.** </li><li>Example, If a provider sends in an Opioid  on a compound for, we will review the PA as normal </li><li>PA forms that we should cancel and fax back include Caresource PA forms, FFS PA forms, other MCE PA forms, ect. |
 | 10/19/2023 |Reentering Incorrect PA Determinations| If a Tech/RPh needs to correct a PA by re-entering the PA, **never** use the received date of the original determination. </li><li>**Techs/RPh will always need to put in the received date/time as the date/time they are making the correction**. </li><li>In the PA note, Techs/RPh need to give the reason why they are loading the new PA. They can say refer to [original case #] for request in which determination was made in error. |
 | 10/10/2023 | For ALL Not Required descisioned PA, the Dx code is now required to be documented in the notes| Provide complete detailed documentation |
