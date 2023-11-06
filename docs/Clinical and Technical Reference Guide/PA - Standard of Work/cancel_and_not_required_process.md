@@ -7,7 +7,7 @@ WILL BE ADDED
 
 - EXACT duplicates
     - Same drug, strength instructions and requested dates
- - No Active Medicaid Eligiblity on file
+ - No Active Medicaid Eligibility on file
  - Carve Out Medications
 
 ### Unacceptable PA Cancellation Reasons are: 
