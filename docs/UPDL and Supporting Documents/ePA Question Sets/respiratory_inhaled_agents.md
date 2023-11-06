@@ -1,6 +1,18 @@
-**0**
+## Respiratory Agents: Inhaled Agents
 
-**Respiratory Agents: Inhaled Agents** 
+|||
+| :--- | :--- |
+|  Criteria 1  | 	Non-Preferred Glucocorticoids: Aerospan HFA, Alvesco, Armonair Digihaler, Armonair Respiclick, Arnuity Ellipta, Asmanex HFA, Qvar (QL), Fluticasone HFA </br> Preferred Agents: Asmanex Twisthaler, Flovent, Pulmicort Flexhaler |
+| Criteria 2 |  	Non-Preferred SABAs: Levalbuterol Nebulizer Sol, Proair Digihaler, Proair Respiclick, Xopenex HFA </br> Preferred Agents: Albuterol Nebulizer Soln, Albuterol HFA, Proair HFA, Proventil HFA, Ventolin HFA |
+| Criteria 3  | 	Non-Preferred ICS with LABAs: Airduo Digihaler, Airduo Respiclick, Breo Ellipta (BvG), Budesonide/Formoterol* (QL, Symbicort is BvG), Fluticasone/Salmeterol* (Advair Diskus and Advair HFA are BvG), Wixela Inhub </br> Preferred Agents: Advair Diskus, Advair HFA, Dulera, Symbicort | 
+| Criteria 4   	|Non-Preferred Anticholinergics: Lonhala Magnair, Tudorza, Yupelri </br> Preferred: Atrovent HFA, Combivent Respimat, Incruse Ellipta, Ipratropium, Ipratropium/Albuterol Nebulizer Sol, Spiriva |
+| Criteria 5 |  	Non-Preferred LABAs: Arformoterol, Formoterol Fumarate Nebulizer Sol </br> Preferred: Serevent Diskus, Striverdi Respimat |
+|Criteria 6 |	Non-Preferred ACH/LABA: Bevespi Aerosphere, Duaklir Pressair </br> Preferred Agents: Anoro Ellipta, Stiolto |
+| Criteria 7	|Non-Preferred ACH/ICS/LABA: Breztri Aerosphere, Trelegy Ellipta|
+|Criteria 8	|Albuterol Nebulizer Sol 0.021% (0.63mg/3mL), 0.042% (1.25mg/3mL)- P, AR|
+|Criteria 9|	Budesonide Nebulizer Sol – P, AR|
+
+## Non-Preferred Glucocorticoids
 
 <table>
 <thead>
@@ -793,9 +805,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 6/2/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 6/2/2023 |
 | **Other**          |          |
+
+## Non-Preferred ICS with LABAs
 
 <table>
 <thead>
@@ -1307,9 +1322,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 6/2/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 6/2/2023 |
 | **Other**          |          |
+
+## Non-Preferred Anticholinergics
 
 <table>
 <thead>
@@ -1564,9 +1582,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 6/2/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 6/2/2023 |
 | **Other**          |          |
+
+## Non-Preferred LABAs
 
 <table>
 <thead>
@@ -1808,9 +1829,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 6/2/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 6/2/2023 |
 | **Other**          |          |
+
+## Non-Preferred ACH/LABA
 
 <table>
 <thead>
@@ -2052,9 +2076,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 6/2/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 6/2/2023 |
 | **Other**          |          |
+
+## Non-Preferred ACH/ICS/LABA
 
 <table>
 <thead>
@@ -2377,9 +2404,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 6/2/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 6/2/2023 |
 | **Other**          |          |
+
+## Albuterol Nebulizer Sol
 
 <table>
 <thead>
@@ -2505,9 +2535,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 6/2/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 6/2/2023 |
 | **Other**          |          |
+
+## Budesonide Nebulizer Sol
 
 <table>
 <thead>
@@ -2639,6 +2672,7 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 6/2/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 6/2/2023 |
 | **Other**          |          |

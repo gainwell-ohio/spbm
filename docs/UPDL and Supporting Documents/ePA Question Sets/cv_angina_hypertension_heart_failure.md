@@ -1,5 +1,8 @@
-| Criteria 1 | Hemangeol (P, PA)                                                                                                                                                                                                                                                                                                                                           |
+# CV Agents - Angina, Hypertension & Heart Failure
+
+|||
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Criteria 1 | Hemangeol (P, PA)                                                                                                                                                                                                                                                                                                                                           |
 | Criteria 2 | Entresto (P, PA)                                                                                                                                                                                                                                                                                                                                            |
 | Criteria 3 | Kerendia (NP)                                                                                                                                                                                                                                                                                                                                               |
 | Criteria 4 | Camzyos (NP)                                                                                                                                                                                                                                                                                                                                                |
@@ -8,6 +11,8 @@
 | Criteria 7 | Non-Dihydropyridines: Diltiazem 24HR ER Tabs (NP, QL), Verapamil 200, 300mg ER 24HR (NP, QL)                                                                                                                                                                                                                                                                |
 | Criteria 8 | NP Agents: Aliskiren, Aspruzyo Sprinkle, Candesartan, Candesartan/HCTZ, Carospir, Carvedilol ER, Clonidine ER (generic of Nexicon XR), Corlanor, Edarbi, Edarbyclor, Hydralazine/HCTZ, Innopran XL, Israpidine, Kapspargo, Katerzia, Levamlodipine, Nebivolol (BvG), Nisoldipine, Norliqva, Nymalize, Qbrelis, Tekturna/HCTZ, Telmisartan, Telmisartan/HCTZ |
 | Criteria 9 | Nimodipine (NP)                                                                                                                                                                                                                                                                                                                                             |
+
+## Hemangeol
 
 <table>
 <thead>
@@ -193,9 +198,12 @@
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 5/16/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 5/16/2023 |
 | **Other**          |           |
+
+## Entresto
 
 <table>
 <thead>
@@ -391,9 +399,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 5/16/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 5/16/2023 |
 | **Other**          |           |
+
+## Kerendia
 
 <table>
 <thead>
@@ -689,9 +700,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 5/16/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 5/16/2023 |
 | **Other**          |           |
+
+## Camzyos
 
 <table>
 <thead>
@@ -982,9 +996,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 5/16/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 5/16/2023 |
 | **Other**          |           |
+
+## Verquvo
 
 <table>
 <thead>
@@ -1307,9 +1324,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 5/16/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 5/16/2023 |
 | **Other**          |           |
+
+## Sotylize Soln
 
 <table>
 <thead>
@@ -1582,9 +1602,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 5/16/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 5/16/2023 |
 | **Other**          |           |
+
+## Non-Preferred Non-Dihydropyridines
 
 <table>
 <thead>
@@ -1861,9 +1884,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 5/16/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 5/16/2023 |
 | **Other**          |           |
+
+## Non-Preferred Products
 
 <table>
 <thead>
@@ -2496,9 +2522,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 5/16/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 5/16/2023 |
 | **Other**          |           |
+
+## Nimodipine
 
 <table>
 <thead>
@@ -2733,6 +2762,7 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 21 Days
 
-| **Last Approved ** | 5/16/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 5/16/2023 |
 | **Other**          |           |

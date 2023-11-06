@@ -1,8 +1,13 @@
-| Criteria 1 | Protonix Pak (P, AR, BvG), Pantoprazole Packet (NP, AR)                                                                                                                                         |
+# Gastroinstinal Agents - Proton Pump Inhibitors
+
+|||
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Criteria 1 | Protonix Pak (P, AR, BvG), Pantoprazole Packet (NP, AR)                                                                                                                                         |
 | Criteria 2 | Non-Preferred: Aciphex, Dexilant (BvG), dexlansoprazole (BvG), Esomeprazole, Esomeprazole Granules (BvG), Konvomep, Lansoprazole ODT, Omeprazole/Sodium Bicarbonate, Prilosec Susp, Rabeprazole |
 | Criteria 3 | Omeprazole Tab (NP, AR)                                                                                                                                                                         |
 | Criteria 4 | Omeprazole Cap, Pantoprazole Tab (P, AR)                                                                                                                                                        |
+
+## Protonix Pak, Pantoprazole Packet
 
 <table>
 <thead>
@@ -611,9 +616,12 @@
 
 LENGTH OF AUTHORIZATIONS: Dependent on diagnosis
 
-| **Last Approved ** | 8/11/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/11/2023 |
 | **Other**          |           |
+
+## Non-Preferred Products
 
 <table>
 <thead>
@@ -1337,9 +1345,12 @@ LENGTH OF AUTHORIZATIONS: Dependent on diagnosis
 
 LENGTH OF AUTHORIZATIONS: Dependent on diagnosis
 
-| **Last Approved ** | 8/11/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/11/2023 |
 | **Other**          |           |
+
+## Omeprazole Tab
 
 <table>
 <thead>
@@ -1837,9 +1848,12 @@ LENGTH OF AUTHORIZATIONS: Dependent on diagnosis
 
 LENGTH OF AUTHORIZATIONS: Dependent on diagnosis
 
-| **Last Approved ** | 8/11/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/11/2023 |
 | **Other**          |           |
+
+## Omeprazole Cap, Pantoprazole Tab
 
 <table>
 <thead>
@@ -2249,6 +2263,7 @@ LENGTH OF AUTHORIZATIONS: Dependent on diagnosis
 
 LENGTH OF AUTHORIZATIONS: Dependent on diagnosis
 
-| **Last Approved ** | 8/11/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/11/2023 |
 | **Other**          |           |

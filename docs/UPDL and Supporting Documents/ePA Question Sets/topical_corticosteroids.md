@@ -1,8 +1,10 @@
-**Topical Agents: Corticosteroids**
+# Topical Agents - Corticosteroids
 
 |            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Criteria 1 | Non-Preferred- Alclometasone, Apexicon E, Betamethasone Dipropionate, Betamethasone Dipropionate/Calcipotriene Susp, Betamethasone Valerate Aerosol Foam, Bryhali, Clocortolone Pivalate, Cordran Tape, Desonate Gel, Desonide Lotion, Desoximetasone, Fluocinolone Acetonide 0.01% Oil, Fluocinolone Acetonide 0.025%, 0.1%, Fluticasone Propionate Lotion, Halcinonide Cream, Halobetasol Propionate, Hydrocortisone Butyrate, Valerate, Halog, Impeklo, Pandel, Triamcinolone Spray |
+
+## Non-Preferred Products
 
 <table>
 <thead>
@@ -550,6 +552,7 @@
 LENGTH OF AUTHORIZATIONS: 365 days for low and medium potency; 90 days
 for high and very high potency
 
-| **Last Approved ** | 8/18/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/18/2023 |
 | **Other**          |           |
