@@ -13,7 +13,7 @@ search:
 
 •	Some biologics require initial IV dosing or dosing that would be covered by medical. If we get requests that have given us this information, this is considered continuation of therapy, and please decide as such.
 
-Chris N in consult with Justin- If initiation of an IV dosing of an immunomodulator was completed in the office or other medical setting, the PA should be approved for 90 days (as an initial PA request) and the clinical criteria (example first line treatment, TB testing etc) does not need to be reviewed. ***This applies to Non-preferred immunomodulators and ones not on the UPDL.*** 
+Chris N in consult with Justin- If initiation of an IV dosing of an immunomodulator was completed in the office or other medical setting, the PA should be approved for 90 days (as an initial PA request) and the clinical criteria (example first line treatment, TB testing etc) does not need to be reviewed. At the end of 90days, subsequent authorization criteria must be met for continuation of the medication. ***This applies to Non-preferred immunomodulators and ones not on the UPDL.*** 
 
 ## 11/1/2023
 
