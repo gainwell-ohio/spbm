@@ -1,8 +1,11 @@
-**Infectious Disease Agents: Antibiotics – Tetracyclines** 
+# Infectious Disease Agents: Antibiotics – Tetracyclines 
 
-| Criteria 1 | NP- Demeclocycline, Doxycycline 20, 40, 75, 150mg, Doxycycline DR, Minocycline IR, ER Tab, Nuzyra |
+|||
 | ---------- | ------------------------------------------------------------------------------------------------- |
+| Criteria 1 | NP- Demeclocycline, Doxycycline 20, 40, 75, 150mg, Doxycycline DR, Minocycline IR, ER Tab, Nuzyra |
 | Criteria 2 | P with AR- Doxycycline Syr, Vibramycin Susp                                                       |
+
+## Non-Preferred Products
 
 <table>
 <thead>
@@ -552,9 +555,12 @@
 
 LENGTH OF AUTHORIZATIONS: Based on indication
 
-| **Last Approved ** | 4/20/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 4/20/2023 |
 | **Other**          |           |
+
+## Preferred Products with AR- Doxycycline Syr, Vibramycin Susp
 
 <table>
 <thead>
@@ -699,6 +705,7 @@ LENGTH OF AUTHORIZATIONS: Based on indication
 
 LENGTH OF AUTHORIZATIONS: Based on indication
 
-| **Last Approved ** | 4/20/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 4/20/2023 |
 | **Other**          |           |

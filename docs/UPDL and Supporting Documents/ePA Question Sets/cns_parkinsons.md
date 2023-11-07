@@ -1,10 +1,11 @@
-**Central Nervous System (CNS) Agents: Parkinson's Agents** 
+# CNS Agents - Parkinson's Agents 
 
-| Criteria 1 | NP Criteria  - Carbidopa/Levodopa Dispersible Tab, Carbidopa/Levodopa/Entacapone, Gocovri, Ongentys, Osmolex ER, Pramipexole ER, Rasagiline, Ropinirole ER, Rytary, Tolcapone, Xadago, Zelapar |
+|||
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Criteria 1 | NP Criteria  - Carbidopa/Levodopa Dispersible Tab, Carbidopa/Levodopa/Entacapone, Gocovri, Ongentys, Osmolex ER, Pramipexole ER, Rasagiline, Ropinirole ER, Rytary, Tolcapone, Xadago, Zelapar |
 | Criteria 2 | NP Criteria with additional info- Apokyn, Inbrija, Kynmobi, Nourianz                                                                                                                           |
 
-  
+## Non-Preferred Products
 
 <table>
 <thead>
@@ -459,9 +460,12 @@
 
 LENGTH OF AUTHORIZATIONS: 365 Days 
 
-| **Last Approved ** | 4/20/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 4/20/2023 |
 | **Other**          |           |
+
+## Apokyn, Inbrija, Kynmobi, Nourianz
 
 <table>
 <thead>
@@ -761,6 +765,7 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 
 LENGTH OF AUTHORIZATIONS: 365 Days 
 
-| **Last Approved ** | 4/20/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 4/20/2023 |
 | **Other**          |           |

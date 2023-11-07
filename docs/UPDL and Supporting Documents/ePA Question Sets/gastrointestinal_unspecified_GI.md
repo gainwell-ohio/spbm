@@ -1,19 +1,44 @@
-**Dermatological: Topical Acne Products** 
+# Gastrointestinal Agents - Unspecified GI
 
-| Criteria 1 | NP- Amzeeq, Azelaic Acid Gel, Benzoyl Peroxide Foam, Clindacin Kit, Clindamycin Foam, Clindamycin Swabs, Dapsone Gel, Epsolay, Finacea Foam, Onexton Gel, Ovace Plus, Sodium Sulfacetamide/Sulfur Gel, Sodium Sulfacetamide Pads, Winlevi |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Criteria 2 | NP Agents- Topical Retinoids (all have AR)- Adapalene Cream, Adapalene Sol 0.1%, Adapalene Gel 0.3%, Adapalene/Benzoyl Peroxide, Aklief, Altreno, Arazlo, Clindamycin/Tretinoin, Plixda, Tazarotene Foam 0.1%, Tazarotene Gel 0.1%        |
-| Criteria 3 | NP Criteria- Twyneo (NP, AR)                                                                                                                                                                                                              |
-| Criteria 4 | NP Criteria - Tazarotene Cream (NP, AR)                                                                                                                                                                                                   |
-| Criteria 5 | Topical Retinoids- Adapalene Gel 0.1% (P, AR), Tretinoin (P, AR)                                                                                                                                                                          |
+<table>
+<thead>
+<tr class="header">
+<th>Criteria 1   </th>
+<th><p>NP Agents  - Ibsrela, Linzess 72mcg, Motegrity, Mytesi</p>
+<p>*- Preferred product has BvG designation</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Criteria 2 </td>
+<td>NP with additional criteria- Relistor and Symproic </td>
+</tr>
+<tr class="even">
+<td>Criteria 3 </td>
+<td>NP with additional criteria- Aemcolo </td>
+</tr>
+<tr class="odd">
+<td>Criteria 4 </td>
+<td>NP with additional criteria- Zorbtive and Gattex </td>
+</tr>
+<tr class="even">
+<td>Criteria 5 </td>
+<td>ST Preferred Drugs (Amitiza, Lubiprostone, Linzess 145, 290 mcg, Movantik, Trulance)</td>
+</tr>
+<tr class="odd">
+<td>Criteria 6</td>
+<td>Xifaxan</td>
+</tr>
+</tbody>
+</table>
 
- 
+## Non-Preferred Products
 
 <table>
 <thead>
 <tr class="header">
 <th><strong>Criteria Title</strong> </th>
-<th>Dermatologic Agents: Topical Acne Products</th>
+<th>Gastrointestinal Agents: Unspecified GI</th>
 <th></th>
 <th></th>
 </tr>
@@ -21,7 +46,7 @@
 <tbody>
 <tr class="odd">
 <td><strong>Criteria Subtitle</strong> </td>
-<td>Non-Preferred Products: Non-Retinoids</td>
+<td>Non-Preferred Products</td>
 <td></td>
 <td></td>
 </tr>
@@ -65,134 +90,32 @@
 </tr>
 <tr class="even">
 <td></td>
-<td>AMZEEQ</td>
-<td>080360</td>
+<td>IBSRELA</td>
+<td>080204</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>AZELAIC ACID GEL</td>
-<td>051812</td>
+<td>LINZESS 72 mcg</td>
+<td>077085</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>BENZOYL PEROXIDE FOAM</td>
-<td>065589</td>
+<td>MOTEGRITY</td>
+<td>066215</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>BENZOYL PEROXIDE FOAM</td>
-<td>066879</td>
+<td>MOTEGRITY</td>
+<td>066216</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>BENZOYL PEROXIDE FOAM</td>
-<td>080592</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>CLINDACIN KIT</td>
-<td>067124</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>CLINDAMYCIN FOAM, SWABS</td>
-<td>058418</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>CLINDAMYCIN FOAM, SWABS</td>
-<td>022140</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>DAPSONE GEL</td>
-<td>061136</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>DAPSONE GEL</td>
-<td>075635</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>EPSOLAY</td>
-<td>083337</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>FINACEA FOAM</td>
-<td>074590</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>ONEXTON GEL</td>
-<td>073195</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>OVACE PLUS</td>
-<td>053380</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>OVACE PLUS</td>
-<td>063084</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>OVACE PLUS</td>
-<td>065889</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>OVACE PLUS</td>
-<td>072502</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>OVACE PLUS</td>
-<td>073027</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>SODIUM SULFACETAMIDE/SULFUR GEL</td>
-<td>073027</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>SODIUM SULFACETAMIDE PADS</td>
-<td>057943</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>SODIUM SULFACETAMIDE PADS</td>
-<td>064589</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>WINLEVI</td>
-<td>081428</td>
+<td>MYTESI</td>
+<td>070418</td>
 <td>GCNSeqNo</td>
 </tr>
 </tbody>
@@ -253,7 +176,7 @@
 <td>1000 </td>
 <td> </td>
 <td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">30 days</span> of at least <span class="underline">three preferred</span> drugs?</p>
+<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">14 days</span> with at least <span class="underline">three preferred</span> drugs, if indicated for diagnosis?</p>
 <p>If yes, please submit the medication trials and dates.</p></td>
 <td>Y </td>
 <td>1002</td>
@@ -330,9 +253,9 @@
 <td>1234</td>
 <td></td>
 <td>Select and Free Text  </td>
-<td>Has the provider submitted documentation of the patient’s clinical response to treatment and ongoing safety monitoring?</td>
+<td>Has the provider submitted documentation of patient’s clinical response to treatment and ongoing safety monitoring (i.e., decreased frequency of specialized nutrition support or improvement in symptoms)?</td>
 <td> Y    </td>
-<td>END (Pending Manual Review)</td>
+<td>END (Pending Manual Review)  </td>
 </tr>
 <tr class="even">
 <td></td>
@@ -340,7 +263,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td>N    </td>
+<td> N    </td>
 <td>1235 </td>
 </tr>
 <tr class="odd">
@@ -364,19 +287,20 @@
 </tbody>
 </table>
 
-LENGTH OF AUTHORIZATIONS: 365 Days 
+LENGTH OF AUTHORIZATIONS:  365 Days 
 
-| **Last Approved ** | 4/24/2023 |
-| ------------------ | --------- |
-| **Other**          |           |
+|||
+| ------------------ | -------- |
+| **Last Approved ** | 6/2/2023 |
+| **Other**          |          |
 
- 
+## Relistor and Symproic 
 
 <table>
 <thead>
 <tr class="header">
 <th><strong>Criteria Title</strong> </th>
-<th>Dermatologic Agents: Topical Acne Products</th>
+<th>Gastrointestinal Agents: Unspecified GI</th>
 <th></th>
 <th></th>
 </tr>
@@ -384,7 +308,7 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 <tbody>
 <tr class="odd">
 <td><strong>Criteria Subtitle</strong> </td>
-<td>Non-Preferred Products: Retinoids</td>
+<td>Relistor and Symproic</td>
 <td></td>
 <td></td>
 </tr>
@@ -428,74 +352,32 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 </tr>
 <tr class="even">
 <td></td>
-<td>ADAPALENE CREAM, SOL 0.1%</td>
-<td>031789</td>
+<td>RELISTOR</td>
+<td>064011</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>ADAPALENE CREAM, SOL 0.1%</td>
-<td>066179</td>
+<td>RELISTOR</td>
+<td>068482</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>ADAPALENE GEL 0.3%</td>
-<td>062811</td>
+<td>RELISTOR</td>
+<td>068483</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>ADAPALENE GEL 0.3%</td>
-<td>068878</td>
+<td>RELISTOR</td>
+<td>076398</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>ADAPALENE/BENZOYL PEROXIDE</td>
-<td>068880</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>ADAPALENE/BENZOYL PEROXIDE</td>
-<td>074495</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>AKLIEF</td>
-<td>080265</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>ALTRENO</td>
-<td>078800</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>ARAZLO</td>
-<td>080595</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>CLINDAMYCIN/TRETINOIN</td>
-<td>061775</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>PLIXDA</td>
-<td>045146</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>TAZAROTENE FOAM 0.1%</td>
-<td>069204</td>
+<td>SYMPROIC</td>
+<td>077258</td>
 <td>GCNSeqNo</td>
 </tr>
 </tbody>
@@ -516,285 +398,13 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 <tbody>
 <tr class="odd">
 <td>1 </td>
-<td>0997</td>
-<td></td>
-<td>Select </td>
-<td><p>Is the patient new to therapy (initial authorization request) or continuing therapy (re-authorization request)?  </p>
-<p>  </p></td>
-<td>New Start (initial authorization request) </td>
 <td>0998</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Continuation (re-authorization request)  </td>
-<td>1234</td>
-</tr>
-<tr class="odd">
-<td>2</td>
-<td>0998</td>
-<td></td>
-<td>Select </td>
-<td>Is this request being prescribed in accordance with Food and Drug Administration (FDA) approved labeling?  </td>
-<td>Y </td>
-<td>0999</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N </td>
-<td>1235 </td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td>0999</td>
-<td></td>
-<td> Select  </td>
-<td><p>Does the patient have a diagnosis of skin cancer? </p>
-<p> </p></td>
-<td> Y   </td>
-<td> END (Approve x 365 days) </td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td> N   </td>
-<td>1000</td>
-</tr>
-<tr class="odd">
-<td>4</td>
-<td>1000 </td>
-<td> </td>
-<td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">90 days</span> of at least <span class="underline">three preferred</span> drugs?</p>
-<p>If yes, please submit the medication trials and dates.</p></td>
-<td>Y </td>
-<td>1002</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N </td>
-<td>1001</td>
-</tr>
-<tr class="odd">
-<td>5</td>
-<td>1001</td>
-<td></td>
-<td>Select and Free Text</td>
-<td><p>Has the provider submitted documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances)?</p>
-<p>If yes, please submit the medication name and reason for inability to use. </p></td>
-<td>Y   </td>
-<td>1002</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N   </td>
-<td>1236 </td>
-</tr>
-<tr class="odd">
-<td>6</td>
-<td>1002</td>
-<td></td>
-<td>Select</td>
-<td><p>Is the request for any of the following:</p>
-<p>1) a nonsolid oral dosage formulation</p>
-<p>2) a non-preferred extended release formulation</p>
-<p>3) a non-preferred brand name that has a preferred generic product</p></td>
-<td>Y</td>
-<td>1003</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N</td>
-<td>1004</td>
-</tr>
-<tr class="odd">
-<td>7</td>
-<td>1003</td>
-<td></td>
-<td>Select and Free Text</td>
-<td>Has the provider submitted documentation of medical necessity for the requested product (i.e. medical reasons for why the patient cannot be changed to a solid oral dosage formulation, inadequate clinical response with a product’s immediate release formulation, or inadequate clinical response or allergy of two or more generic labelers)?</td>
-<td>Y</td>
-<td>1004</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N</td>
-<td>1235</td>
-</tr>
-<tr class="odd">
-<td>8</td>
-<td>1004</td>
-<td></td>
-<td> Select </td>
-<td>Is the patient 24 years of age and older? </td>
-<td>Y </td>
-<td> 1235</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N </td>
-<td> END (Pending Manual Review)</td>
-</tr>
-<tr class="odd">
-<td>9</td>
-<td>1234</td>
-<td></td>
-<td>Select and Free Text  </td>
-<td>Has the provider submitted documentation of the patient’s clinical response to treatment and ongoing safety monitoring?</td>
-<td>Y    </td>
-<td>END (Pending Manual Review)</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N    </td>
-<td>1235 </td>
-</tr>
-<tr class="odd">
-<td>10</td>
-<td>1235</td>
-<td></td>
-<td>Free Text</td>
-<td>Please provide the rationale for the medication being requested. </td>
-<td>END (Pending Manual Review)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>11</td>
-<td>1236</td>
-<td></td>
-<td>Free Text</td>
-<td>Please explain the reason(s) why the patient is unable to use medications not requiring prior approval.</td>
-<td>END (Pending Manual Review)</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-LENGTH OF AUTHORIZATIONS: 365 Days 
-
-| **Last Approved ** | 4/24/2023                                                                      |
-| ------------------ | ------------------------------------------------------------------------------ |
-| **Other**          | If 24 or older, must meet criteria and have a diagnosis of acne or skin cancer |
-
-<table>
-<thead>
-<tr class="header">
-<th><strong>Criteria Title</strong> </th>
-<th>Dermatologic Agents: Topical Acne Products</th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>Criteria Subtitle</strong> </td>
-<td>Twyneo</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>Approval Level</strong> </td>
-<td>GCNSeqNo </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Products </strong> </p>
-<table>
-<thead>
-<tr class="header">
-<th>Preferred</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Non-Preferred</td>
-<td>X</td>
-</tr>
-<tr class="even">
-<td>Brand</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Generic</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Other</td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
-<td>Drug Name  </td>
-<td>Corresponding Code (s) </td>
-<td>Type of Code (GCNSeqNo, HICL, NDC) </td>
-</tr>
-<tr class="even">
-<td></td>
-<td>TWYNEO</td>
-<td>082535</td>
-<td>GCNSeqNo</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr class="header">
-<th><strong>Sequence Number </strong></th>
-<th><strong>Question ID </strong></th>
-<th><strong>Default Next Question ID </strong></th>
-<th><strong>Question Type </strong></th>
-<th><strong>Question Text </strong></th>
-<th><strong>Choice Text </strong></th>
-<th><strong>Next Question ID </strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1 </td>
-<td>0997</td>
 <td></td>
 <td>Select </td>
 <td><p>Is the patient new to therapy (initial authorization request) or continuing therapy (re-authorization request)?  </p>
 <p>  </p></td>
 <td>New Start (initial authorization request)</td>
-<td>0998</td>
+<td>0999</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -807,12 +417,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 </tr>
 <tr class="odd">
 <td>2</td>
-<td>0998</td>
+<td>0999</td>
 <td></td>
 <td>Select </td>
 <td>Is this request being prescribed in accordance with Food and Drug Administration (FDA) approved labeling?  </td>
 <td>Y </td>
-<td>0999</td>
+<td>1000</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -825,29 +435,10 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 </tr>
 <tr class="odd">
 <td>3</td>
-<td>0999</td>
-<td></td>
-<td> Select  </td>
-<td><p>Does the patient have a diagnosis of skin cancer? </p>
-<p> </p></td>
-<td> Y   </td>
-<td> END (Pending Manual Review) </td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td> N   </td>
-<td>1000</td>
-</tr>
-<tr class="odd">
-<td>4</td>
 <td>1000 </td>
 <td> </td>
 <td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">90 days</span> of at least <span class="underline">three preferred</span> drugs?</p>
+<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">14 days</span> with at least <span class="underline">three preferred</span> drugs, if indicated for diagnosis?</p>
 <p>If yes, please submit the medication trials and dates.</p></td>
 <td>Y </td>
 <td>1002</td>
@@ -862,7 +453,7 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 <td>1001</td>
 </tr>
 <tr class="odd">
-<td>5</td>
+<td>4</td>
 <td>1001</td>
 <td></td>
 <td>Select and Free Text</td>
@@ -881,14 +472,53 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 <td>1236 </td>
 </tr>
 <tr class="odd">
-<td>6</td>
+<td>5</td>
 <td>1002</td>
 <td></td>
-<td>Select and Free Text</td>
-<td><p>Has the provider submitted documentation for the patient’s inability to use the individual drugs?</p>
-<p>If yes, please submit documentation.</p></td>
-<td>Y   </td>
+<td>Select</td>
+<td><p>Is the request for any of the following:</p>
+<p>1) a nonsolid oral dosage formulation</p>
+<p>2) a non-preferred extended release formulation</p>
+<p>3) a non-preferred brand name that has a preferred generic product</p></td>
+<td>Y</td>
 <td>1003</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+<td>1004</td>
+</tr>
+<tr class="odd">
+<td>6</td>
+<td>1003</td>
+<td></td>
+<td>Select and Free Text</td>
+<td>Has the provider submitted documentation of medical necessity for the requested product (i.e. medical reasons for why the patient cannot be changed to a solid oral dosage formulation, inadequate clinical response with a product’s immediate release formulation, or inadequate clinical response or allergy of two or more generic labelers)?</td>
+<td>Y</td>
+<td>1004</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+<td>1235</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>1004</td>
+<td></td>
+<td> Select  </td>
+<td><p>Does the patient have a history of chronic pain requiring continuous opioid therapy for at least 84 days? </p>
+<p> </p></td>
+<td>Y   </td>
+<td>END (Pending Manual Review)  </td>
 </tr>
 <tr class="even">
 <td></td>
@@ -897,37 +527,16 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 <td></td>
 <td></td>
 <td>N   </td>
-<td>1235</td>
-</tr>
-<tr class="odd">
-<td>7</td>
-<td>1003</td>
-<td></td>
-<td>Select</td>
-<td><p>Is the request for any of the following:</p>
-<p>1) a nonsolid oral dosage formulation</p>
-<p>2) a non-preferred extended release formulation</p>
-<p>3) a non-preferred brand name that has a preferred generic product</p></td>
-<td>Y</td>
-<td>1004</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N</td>
-<td>1005</td>
+<td>1235 </td>
 </tr>
 <tr class="odd">
 <td>8</td>
-<td>1004</td>
+<td>1234</td>
 <td></td>
-<td>Select and Free Text</td>
-<td>Has the provider submitted documentation of medical necessity for the requested product (i.e. medical reasons for why the patient cannot be changed to a solid oral dosage formulation, inadequate clinical response with a product’s immediate release formulation, or inadequate clinical response or allergy of two or more generic labelers)?</td>
-<td>Y</td>
-<td>1005</td>
+<td>Select and Free Text  </td>
+<td>Has the provider submitted documentation of patient’s clinical response to treatment and ongoing safety monitoring (i.e., decreased frequency of specialized nutrition support or improvement in symptoms)?</td>
+<td>Y    </td>
+<td>END (Pending Manual Review)  </td>
 </tr>
 <tr class="even">
 <td></td>
@@ -935,17 +544,142 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 <td></td>
 <td></td>
 <td></td>
-<td>N</td>
-<td>1235</td>
+<td>N    </td>
+<td>1235 </td>
 </tr>
 <tr class="odd">
 <td>9</td>
-<td>1005</td>
+<td>1235</td>
 <td></td>
-<td> Select </td>
-<td>Is the patient 24 years of age and older? </td>
+<td>Free Text</td>
+<td>Please provide the rationale for the medication being requested. </td>
+<td>END (Pending Manual Review)</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>1236</td>
+<td></td>
+<td>Free Text</td>
+<td>Please explain the reason(s) why the patient is unable to use medications not requiring prior approval.</td>
+<td>END (Pending Manual Review)</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+LENGTH OF AUTHORIZATIONS: 365 Days 
+
+|||
+| ------------------ | -------- |
+| **Last Approved ** | 6/2/2023 |
+| **Other**          |          |
+
+## Aemcolo
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>Criteria Title</strong> </th>
+<th>Gastrointestinal Agents: Unspecified GI</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Criteria Subtitle</strong> </td>
+<td>Aemcolo</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Approval Level</strong> </td>
+<td>GCNSeqNo </td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Products </strong> </p>
+<table>
+<thead>
+<tr class="header">
+<th>Preferred</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Non-Preferred</td>
+<td>X</td>
+</tr>
+<tr class="even">
+<td>Brand</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Generic</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Other</td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+<td>Drug Name  </td>
+<td>Corresponding Code (s) </td>
+<td>Type of Code (GCNSeqNo, HICL, NDC) </td>
+</tr>
+<tr class="even">
+<td></td>
+<td>AEMCOLO</td>
+<td>079335</td>
+<td>GCNSeqNo</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>Sequence Number </strong></th>
+<th><strong>Question ID </strong></th>
+<th><strong>Default Next Question ID </strong></th>
+<th><strong>Question Type </strong></th>
+<th><strong>Question Text </strong></th>
+<th><strong>Choice Text </strong></th>
+<th><strong>Next Question ID </strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1 </td>
+<td>0998</td>
+<td></td>
+<td>Select </td>
+<td><p>Is the patient new to therapy (initial authorization request) or continuing therapy (re-authorization request)?  </p>
+<p>  </p></td>
+<td>New Start (initial authorization request)</td>
+<td>0999</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Continuation (re-authorization request)  </td>
+<td>1234</td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>0999</td>
+<td></td>
+<td>Select </td>
+<td>Is this request being prescribed in accordance with Food and Drug Administration (FDA) approved labeling?  </td>
 <td>Y </td>
-<td> 1235</td>
+<td>1000</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -954,15 +688,378 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 <td></td>
 <td></td>
 <td>N </td>
-<td> END (Pending Manual Review)</td>
+<td>1235 </td>
 </tr>
 <tr class="odd">
-<td>10</td>
+<td>3</td>
+<td>1000 </td>
+<td> </td>
+<td>Select and Free Text</td>
+<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">14 days</span> with at least <span class="underline">three preferred</span> drugs, if indicated for diagnosis?</p>
+<p>If yes, please submit the medication trials and dates.</p></td>
+<td>Y </td>
+<td>1002</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N </td>
+<td>1001</td>
+</tr>
+<tr class="odd">
+<td>4</td>
+<td>1001</td>
+<td></td>
+<td>Select and Free Text</td>
+<td><p>Has the provider submitted documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances)?</p>
+<p>If yes, please submit the medication name and reason for inability to use. </p></td>
+<td>Y   </td>
+<td>1002</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N   </td>
+<td>1236 </td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>1002</td>
+<td></td>
+<td>Select</td>
+<td><p>Is the request for any of the following:</p>
+<p>1) a nonsolid oral dosage formulation</p>
+<p>2) a non-preferred extended release formulation</p>
+<p>3) a non-preferred brand name that has a preferred generic product</p></td>
+<td>Y</td>
+<td>1003</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+<td>1004</td>
+</tr>
+<tr class="odd">
+<td>6</td>
+<td>1003</td>
+<td></td>
+<td>Select and Free Text</td>
+<td>Has the provider submitted documentation of medical necessity for the requested product (i.e. medical reasons for why the patient cannot be changed to a solid oral dosage formulation, inadequate clinical response with a product’s immediate release formulation, or inadequate clinical response or allergy of two or more generic labelers)?</td>
+<td>Y</td>
+<td>1004</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+<td>1235</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>1004</td>
+<td></td>
+<td>Select and Free Text  </td>
+<td><p>Is the patient unable to take, or has the patient failed, ALL of the following: azithromycin, ciprofloxacin, levofloxacin, ofloxacin, or rifaximin?</p>
+<p>If yes, please submit the medication trials and dates or medication names and reasons for inability to use. </p></td>
+<td> Y   </td>
+<td>END (Pending Manual Review)  </td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td> N   </td>
+<td>1235 </td>
+</tr>
+<tr class="odd">
+<td>8</td>
 <td>1234</td>
 <td></td>
 <td>Select and Free Text  </td>
-<td>Has the provider submitted documentation of the patient’s clinical response to treatment and ongoing safety monitoring?</td>
-<td>Y    </td>
+<td>Has the provider submitted documentation of patient’s clinical response to treatment and ongoing safety monitoring (i.e., decreased frequency of specialized nutrition support or improvement in symptoms)?</td>
+<td> Y    </td>
+<td>END (Pending Manual Review)  </td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td> N    </td>
+<td>1235 </td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>1235</td>
+<td></td>
+<td>Free Text</td>
+<td>Please provide the rationale for the medication being requested. </td>
+<td>END (Pending Manual Review)</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>1236</td>
+<td></td>
+<td>Free Text</td>
+<td>Please explain the reason(s) why the patient is unable to use medications not requiring prior approval.</td>
+<td>END (Pending Manual Review)</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+LENGTH OF AUTHORIZATIONS: 3 Days 
+
+|||
+| ------------------ | -------- |
+| **Last Approved ** | 6/2/2023 |
+| **Other**          |          |
+
+## Zorbtive, Gattex
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>Criteria Title</strong> </th>
+<th>Gastrointestinal Agents: Unspecified GI</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Criteria Subtitle</strong> </td>
+<td>Zorbtive, Gattex</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Approval Level</strong> </td>
+<td>GCNSeqNo </td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Products </strong> </p>
+<table>
+<thead>
+<tr class="header">
+<th>Preferred</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Non-Preferred</td>
+<td>X</td>
+</tr>
+<tr class="even">
+<td>Brand</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Generic</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Other</td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+<td>Drug Name  </td>
+<td>Corresponding Code (s) </td>
+<td>Type of Code (GCNSeqNo, HICL, NDC) </td>
+</tr>
+<tr class="even">
+<td></td>
+<td>ZORBTIVE</td>
+<td>44087338807 </td>
+<td>NDC</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>GATTEX</td>
+<td>070407</td>
+<td>GCNSeqNo</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>Sequence Number </strong></th>
+<th><strong>Question ID </strong></th>
+<th><strong>Default Next Question ID </strong></th>
+<th><strong>Question Type </strong></th>
+<th><strong>Question Text </strong></th>
+<th><strong>Choice Text </strong></th>
+<th><strong>Next Question ID </strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1 </td>
+<td>0998</td>
+<td></td>
+<td>Select </td>
+<td><p>Is the patient new to therapy (initial authorization request) or continuing therapy (re-authorization request)?  </p>
+<p>  </p></td>
+<td>New Start (initial authorization request)</td>
+<td>0999</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Continuation (re-authorization request)  </td>
+<td>1234</td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>0999</td>
+<td></td>
+<td>Select </td>
+<td>Is this request being prescribed in accordance with Food and Drug Administration (FDA) approved labeling?  </td>
+<td>Y </td>
+<td>1000</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N </td>
+<td>1235 </td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>1000 </td>
+<td> </td>
+<td>Select and Free Text</td>
+<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">14 days</span> with at least <span class="underline">three preferred</span> drugs, if indicated for diagnosis?</p>
+<p>If yes, please submit the medication trials and dates.</p></td>
+<td>Y </td>
+<td>1002</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N </td>
+<td>1001</td>
+</tr>
+<tr class="odd">
+<td>4</td>
+<td>1001</td>
+<td></td>
+<td>Select and Free Text</td>
+<td><p>Has the provider submitted documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances)?</p>
+<p>If yes, please submit the medication name and reason for inability to use. </p></td>
+<td>Y   </td>
+<td>1002</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N   </td>
+<td>1236 </td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>1002</td>
+<td></td>
+<td>Select</td>
+<td><p>Is the request for any of the following:</p>
+<p>1) a nonsolid oral dosage formulation</p>
+<p>2) a non-preferred extended release formulation</p>
+<p>3) a non-preferred brand name that has a preferred generic product</p></td>
+<td>Y</td>
+<td>1003</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+<td>1004</td>
+</tr>
+<tr class="odd">
+<td>6</td>
+<td>1003</td>
+<td></td>
+<td>Select and Free Text</td>
+<td>Has the provider submitted documentation of medical necessity for the requested product (i.e. medical reasons for why the patient cannot be changed to a solid oral dosage formulation, inadequate clinical response with a product’s immediate release formulation, or inadequate clinical response or allergy of two or more generic labelers)?</td>
+<td>Y</td>
+<td>1004</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+<td>1235</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>1004</td>
+<td></td>
+<td>Select and Free Text </td>
+<td><p>Has the provider submitted documentation of specialized parenteral nutritional support? </p>
+<p> </p>
+<p>If yes, please submit documentation.</p></td>
+<td> Y   </td>
+<td>1005</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td> N   </td>
+<td>1235 </td>
+</tr>
+<tr class="odd">
+<td>8</td>
+<td>1005</td>
+<td></td>
+<td>Select and Free Text </td>
+<td><p>Has the provider submitted documentation of appropriate lab assessment (bilirubin, alkaline phosphatase, lipase, and amylase) at least 180 days prior to initiation?</p>
+<p> </p>
+<p>If yes, please submit documentation.</p></td>
+<td><p>Y </p>
+<p>  </p></td>
 <td>END (Pending Manual Review) </td>
 </tr>
 <tr class="even">
@@ -971,297 +1068,17 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 <td></td>
 <td></td>
 <td></td>
-<td>N    </td>
-<td>1235 </td>
-</tr>
-<tr class="odd">
-<td>11</td>
-<td>1235</td>
-<td></td>
-<td>Free Text</td>
-<td>Please provide the rationale for the medication being requested. </td>
-<td>END (Pending Manual Review)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>12</td>
-<td>1236</td>
-<td></td>
-<td>Free Text</td>
-<td>Please explain the reason(s) why the patient is unable to use medications not requiring prior approval.</td>
-<td>END (Pending Manual Review)</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-LENGTH OF AUTHORIZATIONS: 365 Days 
-
-| **Last Approved ** | 4/24/2023                                                       |
-| ------------------ | --------------------------------------------------------------- |
-| **Other**          | If 24 or older, must meet criteria and have a diagnosis of acne |
-
-<table>
-<thead>
-<tr class="header">
-<th><strong>Criteria Title</strong> </th>
-<th>Dermatologic Agents: Topical Acne Products</th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>Criteria Subtitle</strong> </td>
-<td>Tazorac 0.1% Cream</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>Approval Level</strong> </td>
-<td>GCNSeqNo </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Products </strong> </p>
-<table>
-<thead>
-<tr class="header">
-<th>Preferred</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Non-Preferred</td>
-<td>X</td>
-</tr>
-<tr class="even">
-<td>Brand</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Generic</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Other</td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
-<td>Drug Name  </td>
-<td>Corresponding Code (s) </td>
-<td>Type of Code (GCNSeqNo, HICL, NDC) </td>
-</tr>
-<tr class="even">
-<td></td>
-<td>TAZAROTENE 0.1% CREAM</td>
-<td>046984</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>TAZAROTENE GEL 0.1%</td>
-<td>031601</td>
-<td>GCNSeqNo</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr class="header">
-<th><strong>Sequence Number </strong></th>
-<th><strong>Question ID </strong></th>
-<th><strong>Default Next Question ID </strong></th>
-<th><strong>Question Type </strong></th>
-<th><strong>Question Text </strong></th>
-<th><strong>Choice Text </strong></th>
-<th><strong>Next Question ID </strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1 </td>
-<td>0996</td>
-<td></td>
-<td>Select </td>
-<td><p>Is the patient new to therapy (initial authorization request) or continuing therapy (re-authorization request)?  </p>
-<p>  </p></td>
-<td>New Start (initial authorization request)</td>
-<td>0997</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Continuation (re-authorization request)  </td>
-<td>1234</td>
-</tr>
-<tr class="odd">
-<td>2</td>
-<td>0997</td>
-<td></td>
-<td>Select </td>
-<td>Is this request being prescribed in accordance with Food and Drug Administration (FDA) approved labeling?  </td>
-<td>Y </td>
-<td>0998</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N </td>
-<td>1235 </td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td>0998</td>
-<td></td>
-<td> Select  </td>
-<td><p>Does the patient have a diagnosis of skin cancer? </p>
-<p> </p></td>
-<td> Y   </td>
-<td> END (Pending Manual Review) </td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td> N   </td>
-<td>0999</td>
-</tr>
-<tr class="odd">
-<td>4</td>
-<td>0999</td>
-<td></td>
-<td>Select  </td>
-<td><p>Does the patient have a diagnosis of psoriasis? </p>
-<p> </p></td>
-<td> Y   </td>
-<td>END (Approve x 365 days) </td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td> N   </td>
-<td>1000</td>
-</tr>
-<tr class="odd">
-<td>5</td>
-<td>1000 </td>
-<td> </td>
-<td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">90 days</span> of at least <span class="underline">three preferred</span> drugs?</p>
-<p>If yes, please submit the medication trials and dates.</p></td>
-<td>Y </td>
-<td>1002</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N </td>
-<td>1001</td>
-</tr>
-<tr class="odd">
-<td>6</td>
-<td>1001</td>
-<td></td>
-<td>Select and Free Text</td>
-<td><p>Has the provider submitted documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances)?</p>
-<p>If yes, please submit the medication name and reason for inability to use. </p></td>
-<td>Y   </td>
-<td>1002</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N   </td>
-<td>1236 </td>
-</tr>
-<tr class="odd">
-<td>7</td>
-<td>1002</td>
-<td></td>
-<td>Select</td>
-<td><p>Is the request for any of the following:</p>
-<p>1) a nonsolid oral dosage formulation</p>
-<p>2) a non-preferred extended release formulation</p>
-<p>3) a non-preferred brand name that has a preferred generic product</p></td>
-<td>Y</td>
-<td>1003</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N</td>
-<td>1004</td>
-</tr>
-<tr class="odd">
-<td>8</td>
-<td>1003</td>
-<td></td>
-<td>Select and Free Text</td>
-<td>Has the provider submitted documentation of medical necessity for the requested product (i.e. medical reasons for why the patient cannot be changed to a solid oral dosage formulation, inadequate clinical response with a product’s immediate release formulation, or inadequate clinical response or allergy of two or more generic labelers)?</td>
-<td>Y</td>
-<td>1004</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N</td>
+<td> N </td>
 <td>1235</td>
 </tr>
 <tr class="odd">
 <td>9</td>
-<td>1004</td>
-<td></td>
-<td> Select </td>
-<td>Is the patient 24 years of age and older? </td>
-<td>Y </td>
-<td> 1235 </td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N </td>
-<td> END (Pending Manual Review)</td>
-</tr>
-<tr class="odd">
-<td>10</td>
 <td>1234</td>
 <td></td>
 <td>Select and Free Text  </td>
-<td><p>Has the provider submitted documentation of the patient’s clinical response to treatment and ongoing safety monitoring?</p>
-<p> </p></td>
-<td>Y    </td>
-<td>END (Pending Manual Review)</td>
+<td>Has the provider submitted documentation of patient’s clinical response to treatment and ongoing safety monitoring (i.e., decreased frequency of specialized nutrition support or improvement in symptoms)?</td>
+<td> Y    </td>
+<td>END (Pending Manual Review)  </td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1269,11 +1086,11 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 <td></td>
 <td></td>
 <td></td>
-<td>N    </td>
+<td> N    </td>
 <td>1235 </td>
 </tr>
 <tr class="odd">
-<td>11</td>
+<td>10</td>
 <td>1235</td>
 <td></td>
 <td>Free Text</td>
@@ -1282,7 +1099,7 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 <td></td>
 </tr>
 <tr class="even">
-<td>12</td>
+<td>11</td>
 <td>1236</td>
 <td></td>
 <td>Free Text</td>
@@ -1293,20 +1110,20 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 </tbody>
 </table>
 
-LENGTH OF AUTHORIZATIONS: 365 Days 
+LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 4/24/2023                                                       |
-| ------------------ | --------------------------------------------------------------- |
-| **Other**          | If 24 or older, must meet criteria and have a diagnosis of acne |
+|||
+| ------------------ | -------- |
+| **Last Approved ** | 6/2/2023 |
+| **Other**          |          |
 
-**  
-**
+## Step Therapy Agents
 
 <table>
 <thead>
 <tr class="header">
 <th><strong>Criteria Title</strong> </th>
-<th>Dermatologic Agents: Topical Acne Products</th>
+<th>Gastrointestinal Agents: Unspecified GI</th>
 <th></th>
 <th></th>
 </tr>
@@ -1314,13 +1131,13 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 <tbody>
 <tr class="odd">
 <td><strong>Criteria Subtitle</strong> </td>
-<td>Preferred Products: Retinoids</td>
+<td>Step Therapy Agents</td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><strong>Approval Level</strong> </td>
-<td>GCNSeqNo </td>
+<td>NDC-9</td>
 <td></td>
 <td></td>
 </tr>
@@ -1358,86 +1175,44 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 </tr>
 <tr class="even">
 <td></td>
-<td>ADAPALENE GEL 0.1%</td>
-<td>026436</td>
+<td>AMTIZA</td>
+<td>060341</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>TRETINOIN</td>
-<td>005797</td>
+<td>AMITZA</td>
+<td>063946</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>TRETINOIN</td>
-<td>005798</td>
+<td>LINZESS 145, 290 mcg</td>
+<td>069922</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>TRETINOIN</td>
-<td>005799</td>
+<td>LINZESS 145, 290 mcg</td>
+<td>069923</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>TRETINOIN</td>
-<td>005800</td>
+<td>MOVANTIK</td>
+<td>073335</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>TRETINOIN</td>
-<td>005801</td>
+<td>MOVANTIK</td>
+<td>073336</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>TRETINOIN</td>
-<td>021108</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>TRETINOIN</td>
-<td>030614</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>TRETINOIN</td>
-<td>050417</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>TRETINOIN</td>
-<td>068881</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>TRETINOIN</td>
-<td>068882</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>TRETINOIN</td>
-<td>072395</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>TRETINOIN</td>
-<td>077907</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>TRETINOIN</td>
-<td>046783</td>
+<td>TRULANCE</td>
+<td>077047</td>
 <td>GCNSeqNo</td>
 </tr>
 </tbody>
@@ -1446,25 +1221,25 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 <table>
 <thead>
 <tr class="header">
-<th><strong>Sequence Number </strong></th>
-<th><strong>Question ID </strong></th>
-<th><strong>Default Next Question ID </strong></th>
-<th><strong>Question Type </strong></th>
-<th><strong>Question Text </strong></th>
-<th><strong>Choice Text </strong></th>
-<th><strong>Next Question ID </strong></th>
+<th><strong>Sequence Number </strong>  </th>
+<th><strong>Question ID </strong>  </th>
+<th><strong>Default Next Question ID </strong>  </th>
+<th><strong>Question Type </strong>  </th>
+<th><strong>Question Text </strong>  </th>
+<th><strong>Choice Text </strong>  </th>
+<th><strong>Next Question ID </strong>  </th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>1</td>
-<td>1234</td>
-<td></td>
-<td>Select</td>
-<td><p>Is the patient 24 years and older?</p>
-<p>Please note: a PA is only required for patients 24 years and older.</p></td>
-<td>Y</td>
-<td>1235</td>
+<td> 1  </td>
+<td> 3999</td>
+<td>  </td>
+<td>Select  </td>
+<td><p>Is the patient new to therapy (initial authorization request) or continuing therapy (re-authorization request)?   </p>
+<p>   </p></td>
+<td>New Start (initial authorization request)</td>
+<td> 4000   </td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1472,25 +1247,91 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 <td></td>
 <td></td>
 <td></td>
-<td>N</td>
-<td>1236</td>
+<td>Continuation (re-authorization request)   </td>
+<td> 1234</td>
 </tr>
 <tr class="odd">
-<td>2</td>
-<td>1235</td>
-<td></td>
-<td>Free Text</td>
-<td>Please provide the rationale for the medication being requested. </td>
-<td>END (Pending Manual Review)</td>
-<td></td>
+<td> 2</td>
+<td> 4000 </td>
+<td>  </td>
+<td>Select  </td>
+<td>Is this request being prescribed in accordance with Food and Drug Administration (FDA) approved labeling? </td>
+<td> Y   </td>
+<td> 4001 </td>
 </tr>
 <tr class="even">
-<td>3</td>
-<td>1236</td>
 <td></td>
-<td>Free Text</td>
-<td>A PA is not required for those younger than 24 years of age.</td>
-<td>END (Pending Manual Review)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td> N   </td>
+<td> 1235 </td>
+</tr>
+<tr class="odd">
+<td> 3 </td>
+<td> 4001 </td>
+<td> </td>
+<td>Select and Free Text</td>
+<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">14 days</span> with at least <span class="underline">two preferred</span> drugs?    </p>
+<p> </p>
+<p>If yes, please submit the medication trials and dates.</p></td>
+<td> Y   </td>
+<td> END (Pending Manual Review) </td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td> N   </td>
+<td> 4002 </td>
+</tr>
+<tr class="odd">
+<td>4</td>
+<td> 4002 </td>
+<td> </td>
+<td>Select and Free Text </td>
+<td><p>Has the provider submitted documentation of medical necessity beyond convenience for why the patient cannot be changed to a preferred drug (i.e., allergies, drug-drug interactions, contraindications, or intolerances)?</p>
+<p>If yes, please submit the medication name and reason for inability to use. </p></td>
+<td> Y </td>
+<td> END (Pending Manual Review) </td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td> N </td>
+<td> 1235</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>1234</td>
+<td></td>
+<td>Select and Free Text  </td>
+<td>Has the provider submitted documentation of patient’s clinical response to treatment and ongoing safety monitoring (i.e., decreased frequency of specialized nutrition support or improvement in symptoms)?</td>
+<td> Y    </td>
+<td>END (Pending Manual Review)  </td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td> N    </td>
+<td>1235 </td>
+</tr>
+<tr class="odd">
+<td> 6 </td>
+<td> 1235  </td>
+<td>  </td>
+<td> Free Text    </td>
+<td>Please provide the rationale for the medication being requested.   </td>
+<td> END (Pending Manual Review)</td>
 <td></td>
 </tr>
 </tbody>
@@ -1498,6 +1339,7 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 
 LENGTH OF AUTHORIZATIONS: 365 Days 
 
-| **Last Approved ** | 4/24/2023                                                                      |
-| ------------------ | ------------------------------------------------------------------------------ |
-| **Other**          | If 24 or older, must meet criteria and have a diagnosis of acne or skin cancer |
+|||
+| ------------------ | -------- |
+| **Last Approved ** | 6/2/2023 |
+| **Other**          |          |
