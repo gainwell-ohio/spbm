@@ -1,3 +1,7 @@
+# Carnitor
+
+**carnitine deficiency**
+
 <table>
 <thead>
 <tr class="header">
@@ -89,6 +93,7 @@
 
 LENGTH OF AUTHORIZATION: Up to 365 days
 
-| **Last Approved ** | 5/1/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/1/2023 |
 | **Other**          |          |

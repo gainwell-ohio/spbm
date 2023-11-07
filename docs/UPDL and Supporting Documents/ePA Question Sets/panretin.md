@@ -1,3 +1,7 @@
+# Panretin
+
+**sores caused by Kaposi sarcoma**
+
 <table>
 <thead>
 <tr class="header">
@@ -72,6 +76,7 @@
 LENGTH OF AUTHORIZATIONS: Initial authorizations will be for 90 days;
 Re-Authorization requests 365 days.
 
-| **Last Approved ** | 5/1/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/1/2023 |
 | **Other**          |          |

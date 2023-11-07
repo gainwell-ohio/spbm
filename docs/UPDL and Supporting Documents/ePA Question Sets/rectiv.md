@@ -1,8 +1,12 @@
+# Rectiv
+
+**anal fissure**
+
 <table>
 <thead>
 <tr class="header">
-<th><strong>ZCriteria Title</strong></th>
-<th>Topical agents for Actinic Keratosis</th>
+<th><strong>Criteria Title</strong></th>
+<th>Topical Agents: Treatment of Anal Fissure</th>
 <th></th>
 <th></th>
 </tr>
@@ -10,7 +14,7 @@
 <tbody>
 <tr class="odd">
 <td><strong>Criteria Subtitle</strong></td>
-<td>Zyclara (imiquimod)</td>
+<td>Rectiv (nitroglycerin)</td>
 <td></td>
 <td></td>
 </tr>
@@ -54,20 +58,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td>ZYCLARA</td>
-<td>066038</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>ZYCLARA</td>
-<td>068613</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>ZYCLARA</td>
-<td>069755</td>
+<td>RECTIV</td>
+<td>059201</td>
 <td>GCNSeqNo</td>
 </tr>
 </tbody>
@@ -109,7 +101,7 @@
 <td>1001</td>
 <td></td>
 <td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response to generic imiquimod 5%?</p>
+<td><p>Has the patient had an inadequate clinical response to 14 days of a combination with 3 of the following alternatives: stool softeners, fiber, topical steroid containing product, or topical calcium channel blocker containing product in the past 60 days?</p>
 <p>If yes, please submit the medication trials and dates.</p></td>
 <td>Y</td>
 <td>1002</td>
@@ -128,9 +120,10 @@
 <td>1002</td>
 <td></td>
 <td>Select</td>
-<td>What is the patient’s diagnosis?  </td>
-<td>Actinic keratosis</td>
-<td>2000</td>
+<td><p>Ohio Medicaid covers one fill of less than or equal to a 30-gram tube every 60 days.</p>
+<p>Does this request meet this requirement?</p></td>
+<td>Y</td>
+<td>END (Pending Manual Review)</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -138,58 +131,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td>External genital or perianal warts</td>
-<td>3000</td>
+<td>N</td>
+<td>1236</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Other</td>
-<td>1235</td>
-</tr>
-<tr class="even">
 <td>4</td>
-<td>2000</td>
-<td></td>
-<td>Select</td>
-<td><p>Ohio Medicaid covers up to 56 single-use packets (or two 2.5% or 3.75% 7.5 gram pump bottles) in a 6-week period for actinic keratosis.</p>
-<p>Does this request meet this requirement?</p></td>
-<td>Y</td>
-<td>END (Pending Manual Review)</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N</td>
-<td>1236</td>
-</tr>
-<tr class="even">
-<td>5</td>
-<td>3000</td>
-<td></td>
-<td>Select</td>
-<td><p>Ohio Medicaid covers up to 56 single-use packets (or two 3.75% 7.5 gram pump bottles) in an 8-week period for external genital or perianal warts for a total of 16 weeks if needed.</p>
-<p>Does this request meet this requirement?</p></td>
-<td>Y</td>
-<td>END (Pending Manual Review)</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N</td>
-<td>1236</td>
-</tr>
-<tr class="even">
-<td>6</td>
 <td>1235</td>
 <td></td>
 <td>Free Text</td>
@@ -197,8 +143,8 @@
 <td>END (Pending Manual Review)</td>
 <td></td>
 </tr>
-<tr class="odd">
-<td>7</td>
+<tr class="even">
+<td>5</td>
 <td>1236</td>
 <td></td>
 <td>Free Text</td>
@@ -209,9 +155,9 @@
 </tbody>
 </table>
 
-LENGTH OF AUTHORIZATION: Actinic keratosis- 6 weeks; External genital or
-perianal warts- 16 weeks
+LENGTH OF AUTHORIZATION: 60 days
 
-| **Last Approved ** | 5/1/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/1/2023 |
 | **Other**          |          |

@@ -1,3 +1,7 @@
+# Rilutek
+
+**ALS**
+
 <table>
 <thead>
 <tr class="header">
@@ -71,6 +75,7 @@
 
 LENGTH OF AUTHORIZATION: 365 days
 
-| **Last Approved ** | 5/1/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/1/2023 |
 | **Other**          |          |

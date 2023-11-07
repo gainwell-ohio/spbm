@@ -1,8 +1,12 @@
+# Aldara
+
+**actinic keratosis**
+
 <table>
 <thead>
 <tr class="header">
 <th><strong>Criteria Title</strong></th>
-<th>Topical Agents: Treatment of Anal Fissure</th>
+<th>Topical agents for Actinic Keratosis</th>
 <th></th>
 <th></th>
 </tr>
@@ -10,7 +14,7 @@
 <tbody>
 <tr class="odd">
 <td><strong>Criteria Subtitle</strong></td>
-<td>Rectiv (nitroglycerin)</td>
+<td>Aldara (imiquimod)</td>
 <td></td>
 <td></td>
 </tr>
@@ -49,13 +53,13 @@
 </tbody>
 </table></td>
 <td>Drug Name</td>
-<td>Corresponding Code(s)</td>
+<td>Corresponding Code (s)</td>
 <td>Type of Code (GCNSeqNo, HICL, NDC)</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>RECTIV</td>
-<td>059201</td>
+<td>ALDARA</td>
+<td>031099</td>
 <td>GCNSeqNo</td>
 </tr>
 </tbody>
@@ -64,13 +68,13 @@
 <table>
 <thead>
 <tr class="header">
-<th><strong>Sequence Number</strong></th>
-<th><strong>Question ID</strong></th>
-<th><strong>Default Next Question ID</strong></th>
-<th><strong>Question Type</strong></th>
-<th><strong>Question Text</strong></th>
-<th><strong>Choice Text</strong></th>
-<th><strong>Next Question ID</strong></th>
+<th>Sequence Number</th>
+<th>Question ID</th>
+<th>Default Next Question ID</th>
+<th>Question Type</th>
+<th>Question Text</th>
+<th>Choice Text</th>
+<th>Next Question ID</th>
 </tr>
 </thead>
 <tbody>
@@ -97,7 +101,7 @@
 <td>1001</td>
 <td></td>
 <td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response to 14 days of a combination with 3 of the following alternatives: stool softeners, fiber, topical steroid containing product, or topical calcium channel blocker containing product in the past 60 days?</p>
+<td><p>Has the patient had an inadequate clinical response to generic imiquimod 5%?</p>
 <p>If yes, please submit the medication trials and dates.</p></td>
 <td>Y</td>
 <td>1002</td>
@@ -116,7 +120,43 @@
 <td>1002</td>
 <td></td>
 <td>Select</td>
-<td><p>Ohio Medicaid covers one fill of less than or equal to a 30-gram tube every 60 days.</p>
+<td>What is the patient’s diagnosis?  </td>
+<td>Actinic keratosis</td>
+<td>2000</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Superficial basal cell carcinoma</td>
+<td>3000</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Genital or perianal warts</td>
+<td>4000</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Other</td>
+<td>1235</td>
+</tr>
+<tr class="odd">
+<td>4</td>
+<td>2000</td>
+<td></td>
+<td>Select</td>
+<td><p>Ohio Medicaid covers up to 36 single-use packets in a 16-week period for actinic keratosis.</p>
 <p>Does this request meet this requirement?</p></td>
 <td>Y</td>
 <td>END (Pending Manual Review)</td>
@@ -131,7 +171,45 @@
 <td>1236</td>
 </tr>
 <tr class="odd">
-<td>4</td>
+<td>5</td>
+<td>3000</td>
+<td></td>
+<td>Select</td>
+<td><p>Ohio Medicaid covers up to 36 single-use packets in a 6-week period for superficial basal cell carcinoma.</p>
+<p>Does this request meet this requirement?</p></td>
+<td>Y</td>
+<td>END (Pending Manual Review)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+<td>1236</td>
+</tr>
+<tr class="odd">
+<td>6</td>
+<td>4000</td>
+<td></td>
+<td>Select</td>
+<td><p>Ohio Medicaid covers up to 48 single-use packets in a 16-week period for genital or perianal warts.</p>
+<p>Does this request meet this requirement?</p></td>
+<td>Y</td>
+<td>END (Pending Manual Review)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+<td>1236</td>
+</tr>
+<tr class="odd">
+<td>7</td>
 <td>1235</td>
 <td></td>
 <td>Free Text</td>
@@ -140,7 +218,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td>5</td>
+<td>8</td>
 <td>1236</td>
 <td></td>
 <td>Free Text</td>
@@ -151,8 +229,9 @@
 </tbody>
 </table>
 
-LENGTH OF AUTHORIZATION: 60 days
+LENGTH OF AUTHORIZATION: Actinic keratosis- 16 weeks; Superficial basal cell carcinoma-6 weeks; Genital or perianal warts- 16 weeks
 
-| **Last Approved ** | 5/1/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/1/2023 |
 | **Other**          |          |

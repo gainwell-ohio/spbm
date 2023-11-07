@@ -1,8 +1,12 @@
+# Qbrexza
+
+**axillary hyperhidrosis**
+
 <table>
 <thead>
 <tr class="header">
 <th><strong>Criteria Title</strong></th>
-<th>Topical agents for Actinic Keratosis</th>
+<th>Topical - astringents / protectants</th>
 <th></th>
 <th></th>
 </tr>
@@ -10,7 +14,7 @@
 <tbody>
 <tr class="odd">
 <td><strong>Criteria Subtitle</strong></td>
-<td>Aldara (imiquimod)</td>
+<td>Qbrexza (glycopyrronium)</td>
 <td></td>
 <td></td>
 </tr>
@@ -49,13 +53,13 @@
 </tbody>
 </table></td>
 <td>Drug Name</td>
-<td>Corresponding Code (s)</td>
+<td>Corresponding Code(s)</td>
 <td>Type of Code (GCNSeqNo, HICL, NDC)</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>ALDARA</td>
-<td>031099</td>
+<td>QBREXZA</td>
+<td>078624</td>
 <td>GCNSeqNo</td>
 </tr>
 </tbody>
@@ -64,13 +68,13 @@
 <table>
 <thead>
 <tr class="header">
-<th>Sequence Number</th>
-<th>Question ID</th>
-<th>Default Next Question ID</th>
-<th>Question Type</th>
-<th>Question Text</th>
-<th>Choice Text</th>
-<th>Next Question ID</th>
+<th><strong>Sequence Number</strong></th>
+<th><strong>Question ID</strong></th>
+<th><strong>Default Next Question ID</strong></th>
+<th><strong>Question Type</strong></th>
+<th><strong>Question Text</strong></th>
+<th><strong>Choice Text</strong></th>
+<th><strong>Next Question ID</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -97,10 +101,29 @@
 <td>1001</td>
 <td></td>
 <td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response to generic imiquimod 5%?</p>
+<td><p>Has the patient had an inadequate clinical response of at least 30 days with either Drysol or Xerac-AC Solution?</p>
 <p>If yes, please submit the medication trials and dates.</p></td>
 <td>Y</td>
+<td>1003</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
 <td>1002</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>1002</td>
+<td></td>
+<td>Select and Free Text</td>
+<td><p>Does the patient have a contraindication with either Drysol or Xerac-AC Solution?</p>
+<p>If yes, please submit the medication name and reason for inability to use.</p></td>
+<td>Y</td>
+<td>1003</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -112,50 +135,14 @@
 <td>1235</td>
 </tr>
 <tr class="odd">
-<td>3</td>
-<td>1002</td>
-<td></td>
-<td>Select</td>
-<td>What is the patient’s diagnosis?  </td>
-<td>Actinic keratosis</td>
-<td>2000</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Superficial basal cell carcinoma</td>
-<td>3000</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Genital or perianal warts</td>
-<td>4000</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Other</td>
-<td>1235</td>
-</tr>
-<tr class="odd">
 <td>4</td>
-<td>2000</td>
+<td>1003</td>
 <td></td>
 <td>Select</td>
-<td><p>Ohio Medicaid covers up to 36 single-use packets in a 16-week period for actinic keratosis.</p>
+<td><p>Ohio Medicaid covers up to 30 cloths per 30 days.</p>
 <p>Does this request meet this requirement?</p></td>
 <td>Y</td>
-<td>END (Pending Manual Review)</td>
+<td>END (Approve x 365 days)</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -168,44 +155,6 @@
 </tr>
 <tr class="odd">
 <td>5</td>
-<td>3000</td>
-<td></td>
-<td>Select</td>
-<td><p>Ohio Medicaid covers up to 36 single-use packets in a 6-week period for superficial basal cell carcinoma.</p>
-<p>Does this request meet this requirement?</p></td>
-<td>Y</td>
-<td>END (Pending Manual Review)</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N</td>
-<td>1236</td>
-</tr>
-<tr class="odd">
-<td>6</td>
-<td>4000</td>
-<td></td>
-<td>Select</td>
-<td><p>Ohio Medicaid covers up to 48 single-use packets in a 16-week period for genital or perianal warts.</p>
-<p>Does this request meet this requirement?</p></td>
-<td>Y</td>
-<td>END (Pending Manual Review)</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N</td>
-<td>1236</td>
-</tr>
-<tr class="odd">
-<td>7</td>
 <td>1235</td>
 <td></td>
 <td>Free Text</td>
@@ -214,7 +163,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td>8</td>
+<td>6</td>
 <td>1236</td>
 <td></td>
 <td>Free Text</td>
@@ -225,9 +174,9 @@
 </tbody>
 </table>
 
-LENGTH OF AUTHORIZATION: Actinic keratosis- 16 weeks; Superficial basal
-cell carcinoma-6 weeks; Genital or perianal warts- 16 weeks
+LENGTH OF AUTHORIZATIONS: Up to 365 Days.
 
-| **Last Approved ** | 5/1/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/1/2023 |
 | **Other**          |          |
