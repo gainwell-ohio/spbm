@@ -1,22 +1,16 @@
-**Ophthalmic Agents: Ophthalmic Steroids ** 
+# Endocrine Agents - Diabetes – Hypoglycemia Treatments
 
-<table>
-<tbody>
-<tr class="odd">
-<td>Criteria 1   </td>
-<td><p>NP- Inveltys, Lotemax SM, Loteprednol*</p>
-<p>*- Preferred product has BvG designation</p></td>
-</tr>
-</tbody>
-</table>
+|            |                                                        |
+| ---------- | ------------------------------------------------------ |
+| Criteria 1 | Glucagon Emerg Kit [Labeler 00548 & 63323]- (NP, QL)   |
 
-  
+## Non-Preferred Products
 
 <table>
 <thead>
 <tr class="header">
 <th><strong>Criteria Title</strong> </th>
-<th>Ophthalmic Agents: Ophthalmic Steroids</th>
+<th>Endocrine Agents: Diabetes – Hypoglycemia Treatments</th>
 <th></th>
 <th></th>
 </tr>
@@ -68,26 +62,14 @@
 </tr>
 <tr class="even">
 <td></td>
-<td>INVELTYS</td>
-<td>078802</td>
+<td>GLUCAGON EMERG KIT (LABELER 00548 &amp; 63323)</td>
+<td>041660</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>LOTEMAX SM</td>
-<td>079545</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>LOTEPREDNOL</td>
-<td>039106</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>LOTEPREDNOL</td>
-<td>070083</td>
+<td>GLUCAGON EMERG KIT (LABELER 00548 &amp; 63323)</td>
+<td>037671</td>
 <td>GCNSeqNo</td>
 </tr>
 </tbody>
@@ -107,13 +89,32 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td>1</td>
-<td>0999</td>
+<td>1 </td>
+<td>0997</td>
+<td></td>
+<td>Select </td>
+<td><p>Is the patient new to therapy (initial authorization request) or continuing therapy (re-authorization request)?  </p>
+<p>  </p></td>
+<td>New Start (initial authorization request)</td>
+<td>0998</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Continuation (re-authorization request)  </td>
+<td>1233</td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>0998</td>
 <td></td>
 <td>Select </td>
 <td>Is this request being prescribed in accordance with Food and Drug Administration (FDA) approved labeling?  </td>
 <td>Y </td>
-<td>1000</td>
+<td>0999</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -125,11 +126,29 @@
 <td>1235 </td>
 </tr>
 <tr class="odd">
-<td>2</td>
-<td>1000 </td>
+<td>3</td>
+<td>0999</td>
 <td> </td>
+<td>Select</td>
+<td>Is the patient and/or caregiver unable to administer a preferred glucagon product in a timely fashion?</td>
+<td>Y </td>
+<td>1002</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N </td>
+<td>1000</td>
+</tr>
+<tr class="odd">
+<td>4</td>
+<td>1000</td>
+<td></td>
 <td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">14 days</span> with at least <span class="underline">two preferred</span> drugs?</p>
+<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">two preferred</span> drugs?</p>
 <p>If yes, please submit the medication trials and dates.</p></td>
 <td>Y </td>
 <td>1002</td>
@@ -144,7 +163,7 @@
 <td>1001</td>
 </tr>
 <tr class="odd">
-<td>3</td>
+<td>5</td>
 <td>1001</td>
 <td></td>
 <td>Select and Free Text</td>
@@ -163,7 +182,7 @@
 <td>1236 </td>
 </tr>
 <tr class="odd">
-<td>4</td>
+<td>6</td>
 <td>1002</td>
 <td></td>
 <td>Select</td>
@@ -184,7 +203,7 @@
 <td>1004</td>
 </tr>
 <tr class="odd">
-<td>5</td>
+<td>7</td>
 <td>1003</td>
 <td></td>
 <td>Select and Free Text</td>
@@ -202,14 +221,13 @@
 <td>1235</td>
 </tr>
 <tr class="odd">
-<td>6</td>
+<td>8</td>
 <td>1004</td>
 <td></td>
-<td>Select</td>
-<td><p>Is the request for any of the following agents:</p>
-<p>Generic loteprednol ophthalmic gel 0.5%, generic loteprednol ophthalmic suspension 0.5%, generic loteprednol ophthalmic suspension 0.2%?</p></td>
+<td>Select  </td>
+<td>Ohio Medicaid covers up to 2 doses per 34 days. Does this request meet this requirement?</td>
 <td>Y</td>
-<td>1005</td>
+<td>END (Pending Manual Review)  </td>
 </tr>
 <tr class="even">
 <td></td>
@@ -218,65 +236,46 @@
 <td></td>
 <td></td>
 <td>N</td>
-<td>END (Pending Manual Review)</td>
-</tr>
-<tr class="odd">
-<td>7</td>
-<td>1005</td>
-<td></td>
-<td>Select</td>
-<td>Which product is being requested?</td>
-<td>Loteprednol Ophthalmic Gel 0.5%</td>
-<td>1006</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Loteprednol Ophthalmic Suspension 0.5%</td>
-<td>1006</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Loteprednol Ophthalmic Suspension 0.2%</td>
-<td>1006</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Other</td>
-<td>1235</td>
-</tr>
-<tr class="odd">
-<td>8</td>
-<td>1006</td>
-<td></td>
-<td>Select and Free Text</td>
-<td><p>Has the brand medication been attempted and failed or is the brand medication contraindicated?  </p>
-<p>If yes, please submit documentation.</p></td>
-<td>Y</td>
-<td>END (Pending Manual Review)</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N</td>
-<td>1235</td>
+<td>1237</td>
 </tr>
 <tr class="odd">
 <td>9</td>
+<td>1233</td>
+<td></td>
+<td>Select and Free Text  </td>
+<td>Has the provider submitted documentation of the patient’s clinical response to treatment and ongoing safety monitoring?</td>
+<td>Y    </td>
+<td>1234  </td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N    </td>
+<td>1235 </td>
+</tr>
+<tr class="odd">
+<td>10</td>
+<td>1234</td>
+<td></td>
+<td>Select  </td>
+<td>Ohio Medicaid covers up to 2 doses per 34 days. Does this request meet this requirement?</td>
+<td>Y</td>
+<td>END (Pending Manual Review)  </td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+<td>1237</td>
+</tr>
+<tr class="odd">
+<td>11</td>
 <td>1235</td>
 <td></td>
 <td>Free Text</td>
@@ -285,7 +284,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td>10</td>
+<td>12</td>
 <td>1236</td>
 <td></td>
 <td>Free Text</td>
@@ -293,11 +292,21 @@
 <td>END (Pending Manual Review)</td>
 <td></td>
 </tr>
+<tr class="odd">
+<td>13</td>
+<td>1237</td>
+<td></td>
+<td>Free Text</td>
+<td>Please provide the rationale for the dose and frequency being requested.</td>
+<td>END (Pending Manual Review)</td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
-LENGTH OF AUTHORIZATIONS: 30 days
+LENGTH OF AUTHORIZATIONS: 365 Days 
 
-| **Last Approved ** | 6/2/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/5/2023 |
 | **Other**          |          |

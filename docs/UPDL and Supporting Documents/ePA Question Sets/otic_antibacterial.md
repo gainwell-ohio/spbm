@@ -1,4 +1,4 @@
-**Otic Agents: Antibacterial and Antibacterial/Steroid Combination** 
+# Otic Agents - Antibacterial and Antibacterial/Steroid Combination
 
 <table>
 <tbody>
@@ -10,7 +10,7 @@
 </tbody>
 </table>
 
- 
+## Non-Preferred Products 
 
 <table>
 <thead>
@@ -255,6 +255,7 @@
 
 LENGTH OF AUTHORIZATIONS: 30 days
 
-| **Last Approved ** | 5/5/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/5/2023 |
 | **Other**          |          |

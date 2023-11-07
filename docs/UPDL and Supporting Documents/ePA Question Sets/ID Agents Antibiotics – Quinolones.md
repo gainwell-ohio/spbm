@@ -1,8 +1,11 @@
-**Infectious Disease Agents: Antibiotics – Quinolones** 
+# Infectious Disease Agents - Antibiotics – Quinolones
 
-| Criteria 1 | NP- Baxdela, Ciprofloxacin ER, Moxifloxacin, Ofloxacin |
+|||
 | ---------- | ------------------------------------------------------ |
+| Criteria 1 | NP- Baxdela, Ciprofloxacin ER, Moxifloxacin, Ofloxacin |
 | Criteria 2 | P with AR- Ciprofloxacin Susp                          |
+
+## Non-Preferred Products
 
 <table>
 <thead>
@@ -311,11 +314,12 @@
 
 LENGTH OF AUTHORIZATIONS: Based on indication
 
-| **Last Approved ** | 5/5/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/5/2023 |
 | **Other**          |          |
 
- 
+## Ciprofloxacin Susp
 
 <table>
 <thead>
@@ -460,6 +464,7 @@ LENGTH OF AUTHORIZATIONS: Based on indication
 
 LENGTH OF AUTHORIZATIONS: Based on indication
 
-| **Last Approved ** | 5/5/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/5/2023 |
 | **Other**          |          |

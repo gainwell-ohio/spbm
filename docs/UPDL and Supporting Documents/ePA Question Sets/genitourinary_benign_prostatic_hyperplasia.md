@@ -1,11 +1,12 @@
-**Genitourinary Agents: Benign Prostatic Hyperplasia** 
+# Genitourinary Agents - Benign Prostatic Hyperplasia
 
-| Criteria 1 | NP- Cardura XL, Silodosin           |
+|||
 | ---------- | ----------------------------------- |
+| Criteria 1 | NP- Cardura XL, Silodosin           |
 | Criteria 2 | NP- Dutasteride/Tamsulosin, Entadfi |
 | Criteria 3 | Tadalafil 2.5, 5mg – (P, PA)        |
 
-  
+## Non-Preferred Products
 
 <table>
 <thead>
@@ -257,12 +258,12 @@
 
  LENGTH OF AUTHORIZATIONS: 365 Days 
 
-| **Last Approved ** | 5/5/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/5/2023 |
 | **Other**          |          |
 
-**  
-**
+## Dutasteride/Tamsulosin, Entadfi
 
 <table>
 <thead>
@@ -520,8 +521,9 @@
 
 LENGTH OF AUTHORIZATIONS: 365 Days 
 
-| **Last Approved ** | 5/5/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/5/2023 |
 | **Other**          |          |
 
 <table>
@@ -869,6 +871,7 @@ LENGTH OF AUTHORIZATIONS: 365 Days 
 
 LENGTH OF AUTHORIZATIONS: 365 Days 
 
-| **Last Approved ** | 10/13/2023 |
+|||
 | ------------------ | ---------- |
+| **Last Approved ** | 10/13/2023 |
 | **Other**          |            |

@@ -1,10 +1,10 @@
-**Infectious Disease Agents: Antibiotics – Macrolides** 
-
- 
+# Infectious Disease Agents - Antibiotics – Macrolides
 
 |            |                                                |
 | ---------- | ---------------------------------------------- |
 | Criteria 1 | NP – Eryped, Erythrocin Stearate, Erythromycin |
+
+## Non-Preferred Products
 
 <table>
 <thead>
@@ -331,6 +331,7 @@
 
 LENGTH OF AUTHORIZATIONS: Based on indication
 
-| **Last Approved ** | 5/5/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/5/2023 |
 | **Other**          |          |
