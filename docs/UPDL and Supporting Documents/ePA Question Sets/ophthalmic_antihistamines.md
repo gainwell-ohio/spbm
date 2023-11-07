@@ -1,22 +1,22 @@
-**Gastrointestinal Agents: Anti-Emetics**
+# Ophthalmic Agents - Antihistamines & Mast Cell Stabilizers
 
 <table>
 <tbody>
 <tr class="odd">
 <td>Criteria 1  </td>
-<td><p>NP Products- Aprepitant 80 mg*, Aprepitant TriPac*, Bonjesta, Doxylamine/Pyridoxine*, Metoclopramide ODT, Sancuso, Zuplenz</p>
+<td><p>NP- Alocril, Alomide, Bepotastine*, Epinastine, Zerviate</p>
 <p>*- Preferred product has BvG designation</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+## Non-Preferred Products
 
 <table>
 <thead>
 <tr class="header">
 <th><strong>Criteria Title</strong> </th>
-<th>Gastrointestinal Agents: Anti-Emetics</th>
+<th>Ophthalmic Agents: Antihistamines &amp; Mast Cell Stabilizers</th>
 <th></th>
 <th></th>
 </tr>
@@ -68,56 +68,32 @@
 </tr>
 <tr class="even">
 <td></td>
-<td>APREPITANT 80 mg</td>
-<td>051911</td>
+<td>ALOCRIL</td>
+<td>023551</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>APREPITANT TRIPAC</td>
-<td>051913</td>
+<td>ALOMIDE</td>
+<td>044695</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>BONJESTA</td>
-<td>076841</td>
+<td>BEPOTASTINE</td>
+<td>065598</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>DOXYLAMINE/PYRIDOXINE</td>
-<td>004722</td>
+<td>EPINASTINE</td>
+<td>053473</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>METOCLOPRAMIDE ODT</td>
-<td>065802</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>METOCLOPRAMIDE ODT</td>
-<td>065803</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>SANCUSO</td>
-<td>064442</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>ZUPLENZ</td>
-<td>066501</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>ZUPLENZ</td>
-<td>066502</td>
+<td>ZERVIATE</td>
+<td>080791</td>
 <td>GCNSeqNo</td>
 </tr>
 </tbody>
@@ -178,7 +154,8 @@
 <td>1000 </td>
 <td> </td>
 <td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">7 days</span> with at least <span class="underline">one preferred</span> drug?</p>
+<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">14 days</span> with at least <span class="underline">two preferred</span> drugs?</p>
+<p>The preferred alternatives may include: Azelastine, Bepreve, Cromolyn, Ketotifen, Olopatadine.</p>
 <p>If yes, please submit the medication trials and dates.</p></td>
 <td>Y </td>
 <td>1002</td>
@@ -255,7 +232,7 @@
 <td>1004</td>
 <td></td>
 <td>Select</td>
-<td>Is the request for any of the following agents: Aprepitant 80 mg, Aprepitant TriPac, or Doxylamine/Pyridoxine?</td>
+<td>Is the request for bepotastine?</td>
 <td>Y</td>
 <td>1005</td>
 </tr>
@@ -266,50 +243,15 @@
 <td></td>
 <td></td>
 <td>N</td>
-<td>END (Pending Manual Review)</td>
+<td>END (Approve x 365 days)</td>
 </tr>
 <tr class="odd">
 <td>8</td>
 <td>1005</td>
 <td></td>
-<td>Select</td>
-<td>Which product is being requested?</td>
-<td>Aprepitant 80 mg</td>
-<td>1006</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Aprepitant TriPac</td>
-<td>1006</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Doxylamine/Pyridoxine</td>
-<td>1006</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Other</td>
-<td>1235</td>
-</tr>
-<tr class="odd">
-<td>9</td>
-<td>1006</td>
-<td></td>
 <td>Select and Free Text</td>
-<td>Has the brand medication been attempted and failed or is the brand medication contraindicated?  If yes, please submit documentation.</td>
+<td><p>Has the brand medication been attempted and failed or is contraindicated?  </p>
+<p>If yes, please submit documentation.</p></td>
 <td>Y</td>
 <td>END (Pending Manual Review)</td>
 </tr>
@@ -323,14 +265,13 @@
 <td>1235</td>
 </tr>
 <tr class="odd">
-<td>10</td>
+<td>9</td>
 <td>1234</td>
 <td></td>
 <td>Select and Free Text  </td>
-<td><p>Has the provider submitted documentation of the patient’s clinical response to treatment and ongoing safety monitoring?</p>
-<p> </p></td>
-<td>Y    </td>
-<td>END (Pending Manual Review)</td>
+<td>Has the provider submitted documentation of the patient’s clinical response to treatment and ongoing safety monitoring?</td>
+<td> Y    </td>
+<td>END (Approve x 365 days) </td>
 </tr>
 <tr class="even">
 <td></td>
@@ -338,11 +279,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td>N    </td>
+<td> N    </td>
 <td>1235 </td>
 </tr>
 <tr class="odd">
-<td>11</td>
+<td>10</td>
 <td>1235</td>
 <td></td>
 <td>Free Text</td>
@@ -351,7 +292,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td>12</td>
+<td>11</td>
 <td>1236</td>
 <td></td>
 <td>Free Text</td>
@@ -362,8 +303,9 @@
 </tbody>
 </table>
 
-LENGTH OF AUTHORIZATIONS: 365 days
+LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 5/5/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/5/2023 |
 | **Other**          |          |

@@ -1,12 +1,15 @@
-**Infectious Disease Agents: Antivirals – HIV** 
+# Infectious Disease Agents - Antivirals – HIV 
 
-| Criteria 1 | NP - Abacavir Susp, Abacavir/Lamivudine/Zidovudine, Aptivus, Didanosine, Edurant, Fosamprenavir, Fuzeon, Lamivudine Tab, Lamivudine/Zidovudine, Nevirapine IR, Nevirapine ER Tab, Norvir Powder, Norvir Sol, Stavudine, Stribild, Tybost, Viracept |
+|||
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Criteria 1 | NP - Abacavir Susp, Abacavir/Lamivudine/Zidovudine, Aptivus, Didanosine, Edurant, Fosamprenavir, Fuzeon, Lamivudine Tab, Lamivudine/Zidovudine, Nevirapine IR, Nevirapine ER Tab, Norvir Powder, Norvir Sol, Stavudine, Stribild, Tybost, Viracept |
 | Criteria 2 | NP with AR- Lamivudine Sol, Nevirapine Sol                                                                                                                                                                                                         |
 | Criteria 3 | Agents with BvG- Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate, Selzentry, Maraviroc, Intelence, Etravirine, Emtricitabine, Darunavir                                                                                                         |
 | Criteria 4 | Isentress Chew Tab (P, AR)                                                                                                                                                                                                                         |
 | Criteria 5 | Triumeq PD (P, PA)                                                                                                                                                                                                                                 |
 | Criteria 6 | Rukobia ER (P, PA)                                                                                                                                                                                                                                 |
+
+## Non-Preferred Products
 
 <table>
 <thead>
@@ -402,9 +405,12 @@
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 8/18/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/18/2023 |
 | **Other**          |           |
+
+## Lamivudine Sol, Nevirapine Sol
 
 <table>
 <thead>
@@ -687,9 +693,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 8/18/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/18/2023 |
 | **Other**          |           |
+
+## Non-Preferred Products with BvG
 
 <table>
 <thead>
@@ -1128,9 +1137,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 8/18/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/18/2023 |
 | **Other**          |           |
+
+## Isentress Chew Tab
 
 <table>
 <thead>
@@ -1210,9 +1222,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 8/18/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/18/2023 |
 | **Other**          |           |
+
+## Triumeq PD
 
 <table>
 <thead>
@@ -1397,9 +1412,12 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 8/18/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/18/2023 |
 | **Other**          |           |
+
+## Rukobia ER
 
 <table>
 <thead>
@@ -1472,6 +1490,7 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 8/18/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/18/2023 |
 | **Other**          |           |

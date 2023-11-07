@@ -1,9 +1,11 @@
-**Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with
-Diarrhea**
+# Gastrointestinal Agents - Irritable Bowel Syndrome (IBS) with Diarrhea
 
-| Criteria 1 | NP- Alosetron, Viberzi |
+|||
 | ---------- | ---------------------- |
+| Criteria 1 | NP- Alosetron, Viberzi |
 | Criteria 2 | ST- Xifaxan            |
+
+## Non-Preferred Products
 
 <table>
 <thead>
@@ -256,19 +258,81 @@ Diarrhea**
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 5/5/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/5/2023 |
 | **Other**          |          |
 
- 
+## Xifaxan
 
-| **Criteria Title**    | Gastrointestinal Agents: Hepatic Encephalopathy, Irritable Bowel Syndrome (IBS) with Diarrhea, Unspecified GI |                        |                                    |
-| --------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------- |
-| **Criteria Subtitle** | Xifaxan                                                                                                       |                        |                                    |
-| **Approval Level**    | GCNSeqNo                                                                                                      |                        |                                    |
-| **Products**          | Drug Name                                                                                                     | Corresponding Code (s) | Type of Code (GCNSeqNo, HICL, NDC) |
-|                       | XIFAXAN                                                                                                       | 041880                 | GCNSeqNo                           |
-|                       | XIFAXAN                                                                                                       | 066295                 | GCNSeqNo                           |
+<table>
+<thead>
+<tr class="header">
+<th><strong>Criteria Title</strong></th>
+<th>Gastrointestinal Agents: Hepatic Encephalopathy, Irritable Bowel Syndrome (IBS) with Diarrhea, Unspecified GI</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Criteria Subtitle</strong></td>
+<td>Xifaxan</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Approval Level</strong></td>
+<td>GCNSeqNo</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Products</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>Preferred</th>
+<th>X</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Non-Preferred</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Brand</td>
+<td>X</td>
+</tr>
+<tr class="odd">
+<td>Generic</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Other</td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+<td>Drug Name</td>
+<td>Corresponding Code (s)</td>
+<td>Type of Code (GCNSeqNo, HICL, NDC)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>XIFAXAN</td>
+<td>041880</td>
+<td>GCNSeqNo</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>XIFAXAN</td>
+<td>066295</td>
+<td>GCNSeqNo</td>
+</tr>
+</tbody>
+</table>
 
 <table>
 <thead>
@@ -622,6 +686,7 @@ LENGTH OF AUTHORIZATIONS: 365 Days
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 5/5/2023 |
+|||
 | ------------------ | -------- |
+| **Last Approved ** | 5/5/2023 |
 | **Other**          |          |

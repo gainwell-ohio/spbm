@@ -1,9 +1,12 @@
-**Analgesic Agents: NSAIDS**
+# Analgesic Agents - NSAIDS
 
-| Criteria 1 | NP - Diclofenac/Misoprostol, Diclofenac Gel 3%, Diclofenac Patch 1.3%, Diclotrex, Elyxyb, Fenoprofen 400mg, Ibuprofen/Famotidine, Ketorolac Tromethamine Nasal Spray, Ketoprofen, Licart Patch, Meloxicam Cap, Naproxen CR, Naproxen DR, Naproxen ER, Naproxen EC, Naproxen/Esomeprazole, Qmiiz ODT, Relafen DS, Zorvolex |
+|||
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Criteria 1 | NP - Diclofenac/Misoprostol, Diclofenac Gel 3%, Diclofenac Patch 1.3%, Diclotrex, Elyxyb, Fenoprofen 400mg, Ibuprofen/Famotidine, Ketorolac Tromethamine Nasal Spray, Ketoprofen, Licart Patch, Meloxicam Cap, Naproxen CR, Naproxen DR, Naproxen ER, Naproxen EC, Naproxen/Esomeprazole, Qmiiz ODT, Relafen DS, Zorvolex |
 | Criteria 2 | NP- Pennsaid (NP, BvG), Diclofenac Soln                                                                                                                                                                                                                                                                                   |
 | Criteria 3 | Naproxen Susp (P, AR)                                                                                                                                                                                                                                                                                                     |
+
+## Non-Preferred Products
 
 <table>
 <thead>
@@ -453,9 +456,12 @@
 LENGTH OF AUTHORIZATIONS: H. Pylori Treatment 30 days,
 Transdermal/Topical 90 days, All Other Treatments 365 days
 
-| **Last Approved ** | 8/22/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/22/2023 |
 | **Other**          |           |
+
+## Pennsaid
 
 <table>
 <thead>
@@ -813,12 +819,12 @@ Transdermal/Topical 90 days, All Other Treatments 365 days
 LENGTH OF AUTHORIZATIONS: H. Pylori Treatment 30 days,
 Transdermal/Topical 90 days, All Other Treatments 365 days
 
-| **Last Approved ** | 8/22/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/22/2023 |
 | **Other**          |           |
 
-**  
-**
+## Naproxen Susp
 
 <table>
 <thead>
@@ -940,6 +946,7 @@ Transdermal/Topical 90 days, All Other Treatments 365 days
 LENGTH OF AUTHORIZATIONS: H. Pylori Treatment 30 days,
 Transdermal/Topical 90 days, All Other Treatments 365 days
 
-| **Last Approved ** | 8/22/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/22/2023 |
 | **Other**          |           |

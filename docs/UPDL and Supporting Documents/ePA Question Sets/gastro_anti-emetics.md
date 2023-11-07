@@ -1,20 +1,22 @@
-**Gastrointestinal Agents: Ulcerative Colitis**
+# Gastrointestinal Agents - Anti-Emetics
 
 <table>
 <tbody>
 <tr class="odd">
 <td>Criteria 1  </td>
-<td><p>NP – Dipentum, Mesalamine Supp, Uceris Foam* (QL), Zeposia, Mesalamine ER (generic for Pentasa)*, Mesalamine DR tab 800 mg</p>
-<p>*- Product has BvG designation</p></td>
+<td><p>NP Products- Aprepitant 80 mg*, Aprepitant TriPac*, Bonjesta, Doxylamine/Pyridoxine*, Metoclopramide ODT, Sancuso, Zuplenz</p>
+<p>*- Preferred product has BvG designation</p></td>
 </tr>
 </tbody>
 </table>
+
+## Non-Preferred Products
 
 <table>
 <thead>
 <tr class="header">
 <th><strong>Criteria Title</strong> </th>
-<th>Gastrointestinal Agents: Ulcerative Colitis</th>
+<th>Gastrointestinal Agents: Anti-Emetics</th>
 <th></th>
 <th></th>
 </tr>
@@ -66,32 +68,56 @@
 </tr>
 <tr class="even">
 <td></td>
-<td>DIPENTUM</td>
-<td>015514</td>
+<td>APREPITANT 80 mg</td>
+<td>051911</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>MESALAMINE SUPP</td>
-<td>021776</td>
+<td>APREPITANT TRIPAC</td>
+<td>051913</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>UCERIS FOAM</td>
-<td>062689</td>
+<td>BONJESTA</td>
+<td>076841</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>MESALAMINE ER (gen for PENTASA)</td>
-<td>058091</td>
+<td>DOXYLAMINE/PYRIDOXINE</td>
+<td>004722</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>MESALAMINE DR TAB 800 MG</td>
-<td>053882</td>
+<td>METOCLOPRAMIDE ODT</td>
+<td>065802</td>
+<td>GCNSeqNo</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>METOCLOPRAMIDE ODT</td>
+<td>065803</td>
+<td>GCNSeqNo</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>SANCUSO</td>
+<td>064442</td>
+<td>GCNSeqNo</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>ZUPLENZ</td>
+<td>066501</td>
+<td>GCNSeqNo</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>ZUPLENZ</td>
+<td>066502</td>
 <td>GCNSeqNo</td>
 </tr>
 </tbody>
@@ -152,7 +178,7 @@
 <td>1000 </td>
 <td> </td>
 <td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">30 days</span> with at least <span class="underline">two preferred</span> drugs?</p>
+<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">7 days</span> with at least <span class="underline">one preferred</span> drug?</p>
 <p>If yes, please submit the medication trials and dates.</p></td>
 <td>Y </td>
 <td>1002</td>
@@ -229,7 +255,7 @@
 <td>1004</td>
 <td></td>
 <td>Select</td>
-<td>Is the request for any of the following products: generic mesalamine ER capsule 500 mg, brand Uceris foam, generic budesonide foam?</td>
+<td>Is the request for any of the following agents: Aprepitant 80 mg, Aprepitant TriPac, or Doxylamine/Pyridoxine?</td>
 <td>Y</td>
 <td>1005</td>
 </tr>
@@ -248,7 +274,7 @@
 <td></td>
 <td>Select</td>
 <td>Which product is being requested?</td>
-<td>Generic mesalamine ER capsule 500 mg</td>
+<td>Aprepitant 80 mg</td>
 <td>1006</td>
 </tr>
 <tr class="even">
@@ -257,8 +283,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td>Brand Uceris foam</td>
-<td>END (Pending Manual Review)</td>
+<td>Aprepitant TriPac</td>
+<td>1006</td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -266,7 +292,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td>Generic budesonide foam</td>
+<td>Doxylamine/Pyridoxine</td>
 <td>1006</td>
 </tr>
 <tr class="even">
@@ -283,8 +309,7 @@
 <td>1006</td>
 <td></td>
 <td>Select and Free Text</td>
-<td><p>Has the brand medication been attempted and failed or is the brand medication contraindicated?  </p>
-<p>If yes, please submit documentation.</p></td>
+<td>Has the brand medication been attempted and failed or is the brand medication contraindicated?  If yes, please submit documentation.</td>
 <td>Y</td>
 <td>END (Pending Manual Review)</td>
 </tr>
@@ -304,8 +329,8 @@
 <td>Select and Free Text  </td>
 <td><p>Has the provider submitted documentation of the patient’s clinical response to treatment and ongoing safety monitoring?</p>
 <p> </p></td>
-<td> Y    </td>
-<td>END (Pending Manual Review) </td>
+<td>Y    </td>
+<td>END (Pending Manual Review)</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -313,7 +338,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td> N    </td>
+<td>N    </td>
 <td>1235 </td>
 </tr>
 <tr class="odd">
@@ -337,8 +362,9 @@
 </tbody>
 </table>
 
-LENGTH OF AUTHORIZATIONS: 365 Days
+LENGTH OF AUTHORIZATIONS: 365 days
 
-| **Last Approved ** | 8/18/2023 |
-| ------------------ | --------- |
-| **Other**          |           |
+|||
+| ------------------ | -------- |
+| **Last Approved ** | 5/5/2023 |
+| **Other**          |          |

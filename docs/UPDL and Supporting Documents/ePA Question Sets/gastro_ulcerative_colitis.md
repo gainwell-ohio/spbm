@@ -1,20 +1,22 @@
-**Central Nervous System (CNS) Agents: Multiple Sclerosis **
+# Gastrointestinal Agents - Ulcerative Colitis
 
 <table>
 <tbody>
 <tr class="odd">
 <td>Criteria 1  </td>
-<td><p>NP- Bafiertam, Extavia, Glatiramer*, Glatopa, Kesimpta, Mavenclad, Mayzent, Plegridy, Ponvory, Tascenso ODT, Teriflunomide*, Vumerity, Zeposia</p>
-<p>*- Preferred product has BvG designation</p></td>
+<td><p>NP – Dipentum, Mesalamine Supp, Uceris Foam* (QL), Zeposia, Mesalamine ER (generic for Pentasa)*, Mesalamine DR tab 800 mg</p>
+<p>*- Product has BvG designation</p></td>
 </tr>
 </tbody>
 </table>
+
+## Non-Preferred Products
 
 <table>
 <thead>
 <tr class="header">
 <th><strong>Criteria Title</strong> </th>
-<th>Central Nervous System (CNS) Agents: Multiple Sclerosis</th>
+<th>Gastrointestinal Agents: Ulcerative Colitis</th>
 <th></th>
 <th></th>
 </tr>
@@ -66,158 +68,32 @@
 </tr>
 <tr class="even">
 <td></td>
-<td>BAFIERTAM</td>
-<td>081120</td>
+<td>DIPENTUM</td>
+<td>015514</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>EXTAVIA</td>
-<td>039483</td>
+<td>MESALAMINE SUPP</td>
+<td>021776</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>EXTAVIA</td>
-<td>062602</td>
+<td>UCERIS FOAM</td>
+<td>062689</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>GLATIRAMER</td>
-<td>050210</td>
+<td>MESALAMINE ER (gen for PENTASA)</td>
+<td>058091</td>
 <td>GCNSeqNo</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>GLATIRAMER</td>
-<td>071942</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>GLATOPA</td>
-<td>050210</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>GLATOPA</td>
-<td>071942</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>KESIMPTA</td>
-<td>081415</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>MAVENCALD</td>
-<td>078079</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>MAYZENT</td>
-<td>079601</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>MAYZENT</td>
-<td>079602</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>MAYZENT</td>
-<td>079603</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>MAYZENT</td>
-<td>083188</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>MAYZENT</td>
-<td>083189</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>PLEGRIDY</td>
-<td>072674</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>PLEGRIDY</td>
-<td>072675</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>PLEGRIDY</td>
-<td>072680</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>PLEGRIDY</td>
-<td>072682</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>PLEGRIDY</td>
-<td>081976</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>PONVORY</td>
-<td>082092</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>PONVORY</td>
-<td>082093</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>TASCENSO ODT</td>
-<td>083636</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>TASCENSO ODT</td>
-<td>084181</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>TERIFLUNOMIDE</td>
-<td>069980</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>TERIFLUNOMIDE</td>
-<td>069979</td>
-<td>GCNSeqNo</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>VUMERITY</td>
-<td>080393</td>
+<td>MESALAMINE DR TAB 800 MG</td>
+<td>053882</td>
 <td>GCNSeqNo</td>
 </tr>
 </tbody>
@@ -238,25 +114,6 @@
 <tbody>
 <tr class="odd">
 <td>1 </td>
-<td>0997</td>
-<td></td>
-<td>Select and Free Text</td>
-<td><p>Has the patient taken the drug in the previous 120 days?</p>
-<p>If yes, please submit documentation of recent use.</p></td>
-<td>Y</td>
-<td>END (Pending Manual Review)</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N</td>
-<td>0998</td>
-</tr>
-<tr class="odd">
-<td>2</td>
 <td>0998</td>
 <td></td>
 <td>Select </td>
@@ -275,7 +132,7 @@
 <td>1234</td>
 </tr>
 <tr class="odd">
-<td>3</td>
+<td>2</td>
 <td>0999</td>
 <td></td>
 <td>Select </td>
@@ -293,11 +150,11 @@
 <td>1235 </td>
 </tr>
 <tr class="odd">
-<td>4</td>
+<td>3</td>
 <td>1000 </td>
 <td> </td>
 <td>Select and Free Text</td>
-<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">30 days</span> with at least <span class="underline">one preferred</span> drug?</p>
+<td><p>Has the patient had an inadequate clinical response of at least <span class="underline">30 days</span> with at least <span class="underline">two preferred</span> drugs?</p>
 <p>If yes, please submit the medication trials and dates.</p></td>
 <td>Y </td>
 <td>1002</td>
@@ -312,7 +169,7 @@
 <td>1001</td>
 </tr>
 <tr class="odd">
-<td>5</td>
+<td>4</td>
 <td>1001</td>
 <td></td>
 <td>Select and Free Text</td>
@@ -331,7 +188,7 @@
 <td>1236 </td>
 </tr>
 <tr class="odd">
-<td>6</td>
+<td>5</td>
 <td>1002</td>
 <td></td>
 <td>Select</td>
@@ -352,7 +209,7 @@
 <td>1004</td>
 </tr>
 <tr class="odd">
-<td>7</td>
+<td>6</td>
 <td>1003</td>
 <td></td>
 <td>Select and Free Text</td>
@@ -370,11 +227,11 @@
 <td>1235</td>
 </tr>
 <tr class="odd">
-<td>8</td>
+<td>7</td>
 <td>1004</td>
 <td></td>
 <td>Select</td>
-<td>Is the request for generic glatiramer, generic teriflunomide, or brand Mayzent?</td>
+<td>Is the request for any of the following products: generic mesalamine ER capsule 500 mg, brand Uceris foam, generic budesonide foam?</td>
 <td>Y</td>
 <td>1005</td>
 </tr>
@@ -388,12 +245,12 @@
 <td>END (Pending Manual Review)</td>
 </tr>
 <tr class="odd">
-<td>9</td>
+<td>8</td>
 <td>1005</td>
 <td></td>
 <td>Select</td>
-<td>What product is being requested?</td>
-<td>Generic glatiramer</td>
+<td>Which product is being requested?</td>
+<td>Generic mesalamine ER capsule 500 mg</td>
 <td>1006</td>
 </tr>
 <tr class="even">
@@ -402,8 +259,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td>Generic teriflunomide</td>
-<td>1006</td>
+<td>Brand Uceris foam</td>
+<td>END (Pending Manual Review)</td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -411,8 +268,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td>Brand Mayzent</td>
-<td>1007</td>
+<td>Generic budesonide foam</td>
+<td>1006</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -424,7 +281,7 @@
 <td>1235</td>
 </tr>
 <tr class="odd">
-<td>10</td>
+<td>9</td>
 <td>1006</td>
 <td></td>
 <td>Select and Free Text</td>
@@ -443,25 +300,7 @@
 <td>1235</td>
 </tr>
 <tr class="odd">
-<td>11</td>
-<td>1007</td>
-<td></td>
-<td>Select and Free Text</td>
-<td>Has the provider submitted documentation of genotype, liver function tests (LFTS), complete blood count (CBC), ophthalmic examination, varicella zoster virus antibodies, and electrocardiogram (ECG)?</td>
-<td>Y</td>
-<td>END (Pending Manual Review)</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>N</td>
-<td>1235</td>
-</tr>
-<tr class="odd">
-<td>12</td>
+<td>10</td>
 <td>1234</td>
 <td></td>
 <td>Select and Free Text  </td>
@@ -480,7 +319,7 @@
 <td>1235 </td>
 </tr>
 <tr class="odd">
-<td>13</td>
+<td>11</td>
 <td>1235</td>
 <td></td>
 <td>Free Text</td>
@@ -489,7 +328,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td>14</td>
+<td>12</td>
 <td>1236</td>
 <td></td>
 <td>Free Text</td>
@@ -502,6 +341,7 @@
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved ** | 5/26/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 8/18/2023 |
 | **Other**          |           |
