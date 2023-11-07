@@ -1,7 +1,8 @@
-**Respiratory Agents: Cystic Fibrosis** 
+# Respiratory Agents - Cystic Fibrosis 
 
-| Criteria 1 | Non-Preferred Products: Bronchitol                       |
+|||
 | ---------- | -------------------------------------------------------- |
+| Criteria 1 | Non-Preferred Products: Bronchitol                       |
 | Criteria 2 | Preferred Products: Kalydeco, Orkambi, Symdeko, Trikafta |
 
  

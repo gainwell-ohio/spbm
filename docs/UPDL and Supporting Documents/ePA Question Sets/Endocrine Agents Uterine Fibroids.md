@@ -1,7 +1,8 @@
-**Endocrine Agents: Uterine Fibroids** 
+# Endocrine Agents - Uterine Fibroids** 
 
-| Criteria 1 | P with PA, QL- Oriahnn                                               |
+|||
 | ---------- | -------------------------------------------------------------------- |
+| Criteria 1 | P with PA, QL- Oriahnn                                               |
 | Criteria 2 | P with PA- Lupron Depot PA 3.75, 11.25mg- Approved with Group 2A set |
 
 <table>

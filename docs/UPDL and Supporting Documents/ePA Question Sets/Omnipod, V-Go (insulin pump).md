@@ -1,4 +1,6 @@
-**Omnipod, V-Go (insulin pump)** 
+# Omnipod, V-Go
+
+**insulin pump** 
 
 |            |                              |
 | ---------- | ---------------------------- |

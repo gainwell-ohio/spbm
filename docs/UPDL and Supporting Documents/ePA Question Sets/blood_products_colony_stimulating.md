@@ -1,10 +1,11 @@
-**Blood- Blood Products Colony Stimulating Factors**   
+# Blood Formation, Coagulation, and Thrombosis Agents - Colony Stimulating Factors  
 
-| Criteria 1 | Preferred Agents- Neupogen (PA), Nivestym (PA), Nyvepria (PA), Ziextenzo (PA)                                       |
+|||
 | ---------- | ------------------------------------------------------------------------------------------------------------------- |
+| Criteria 1 | Preferred Agents- Neupogen (PA), Nivestym (PA), Nyvepria (PA), Ziextenzo (PA)                                       |
 | Criteria 2 | Non-Preferred Agents – Fulphila, Fylnetra, Granix, Leukine, Neulasta, Releuko, Rolvedon, Stimufend, Udenyca, Zarxio |
 
-   
+## Preferred Products
 
 <table>
 <thead>
@@ -282,9 +283,12 @@ LENGTH OF AUTHORIZATIONS:  
 
 ![](docs/images/BloodBlood%20Products%20Colony%20Stimulating%20Factors/media/image1.png) 
 
-| **Last Approved ** | 5/26/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 5/26/2023 |
 | **Other**          |           |
+
+## Non-Preferred Products
 
 <table>
 <thead>

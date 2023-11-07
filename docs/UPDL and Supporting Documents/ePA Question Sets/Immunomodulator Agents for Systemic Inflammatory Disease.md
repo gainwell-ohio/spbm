@@ -1,7 +1,8 @@
-**Immunomodulator Agents for Systemic Inflammatory Disease** 
+# Immunomodulator Agents for Systemic Inflammatory Disease 
 
-| Criteria 1 | Preferred with PA- Adbry, Enbrel, Humira, Kineret, Otezla, Xeljanz IR                                                                                                                |
+|||
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Criteria 1 | Preferred with PA- Adbry, Enbrel, Humira, Kineret, Otezla, Xeljanz IR                                                                                                                |
 | Criteria 2 | Preferred with ST- Taltz                                                                                                                                                             |
 | Criteria 3 | Non-Preferred- Actemra, Amjevita, Cibinqo, Cimzia, Cosentyx, Ilumya, Kevzara, Olumiant, Orencia, Rinvoq, Siliq, Simponi, Skyrizi, Sotyktu, Stelara, Tremfya, Xeljanz Sol, Xeljanz XR |
 | Criteria 4 | Dupixent PA                                                                                                                                                                          |

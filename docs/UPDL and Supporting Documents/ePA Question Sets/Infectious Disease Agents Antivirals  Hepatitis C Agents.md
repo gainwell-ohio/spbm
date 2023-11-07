@@ -1,4 +1,4 @@
-**Infectious Disease Agents: Antivirals – Hepatitis C Agents**
+# Infectious Disease Agents: Antivirals – Hepatitis C Agents
 
 <table>
 <thead>

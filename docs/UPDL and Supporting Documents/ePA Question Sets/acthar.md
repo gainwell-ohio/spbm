@@ -1,3 +1,7 @@
+# Acthar
+
+**SLE flares and maintenance**
+
 <table>
 <thead>
 <tr class="header">
@@ -164,6 +168,7 @@
 
 LENGTH OF AUTHORIZATIONS: Up to 28 days
 
-| **Last Approved** | 4/10/2023                                                                                                                                                                                                                                                                |
+|||
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Last Approved** | 4/10/2023                                                                                                                                                                                                                                                                |
 | **Other**         | INTERNAL NOTE: If member does not have a multiple sclerosis diagnosis, please review PA to label (if appropriate). As for length of authorization, 28 days for all indications and they can request another 28 days, if indicated, for up to 6 months duration in total. |

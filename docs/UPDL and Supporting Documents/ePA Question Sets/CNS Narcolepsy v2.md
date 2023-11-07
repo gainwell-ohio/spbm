@@ -1,7 +1,8 @@
-**Central Nervous System (CNS) Agents: Narcolepsy** 
+# Central Nervous System (CNS) Agents - Narcolepsy 
 
-| Criteria 1    | NP- Sunosi, Wakix, Xyrem, Sodium Oxybate |
+|||
 | ------------- | ---------------------------------------- |
+| Criteria 1    | NP- Sunosi, Wakix, Xyrem, Sodium Oxybate |
 | Criteria 2    | NP- Xywav                                |
 | Criteria 3\*  | Amphetamine/Dextroamphetamine IR         |
 | Criteria 4 \* | Amphetamine/Dextroamphetamine ER         |

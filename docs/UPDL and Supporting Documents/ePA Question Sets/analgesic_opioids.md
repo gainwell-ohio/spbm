@@ -1,3 +1,5 @@
+# Analgesic Agents - Opioids
+
 <table>
 <thead>
 <tr class="header">
@@ -25,6 +27,8 @@
 </tr>
 </tbody>
 </table>
+
+## Non-Preferred Products - Short Acting
 
 <table>
 <thead>
@@ -724,9 +728,12 @@ LENGTH OF AUTHORIZATIONS: For the course of therapy, up to 180 days.
 Initial short-acting and long-acting requests may only be authorized for
 up to 90 days.
 
-| **Last Approved ** | 9/21/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 9/21/2023 |
 | **Other**          |           |
+
+## Non-Preferred Products - Long Acting
 
 <table>
 <thead>
@@ -1724,9 +1731,12 @@ LENGTH OF AUTHORIZATIONS: For the course of therapy, up to 180 days.
 Initial short-acting and long-acting requests may only be authorized for
 up to 90 days.
 
-| **Last Approved ** | 9/21/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 9/21/2023 |
 | **Other**          |           |
+
+## Butrans, Morphine Sulfate ER Tab, Nucynta
 
 <table>
 <thead>
@@ -2275,9 +2285,12 @@ LENGTH OF AUTHORIZATIONS: For the course of therapy, up to 180 days.
 Initial short-acting and long-acting requests may only be authorized for
 up to 90 days.
 
-| **Last Approved ** | 9/21/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 9/21/2023 |
 | **Other**          |           |
+
+## Transmucosal Fentanyl Products
 
 <table>
 <thead>
@@ -2912,9 +2925,12 @@ LENGTH OF AUTHORIZATIONS: For the course of therapy, up to 180 days.
 Initial short-acting and long-acting requests may only be authorized for
 up to 90 days.
 
-| **Last Approved ** | 9/21/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 9/21/2023 |
 | **Other**          |           |
+
+## Preferred Products - Short Acting
 
 <table>
 <thead>
@@ -3643,6 +3659,7 @@ LENGTH OF AUTHORIZATIONS: For the course of therapy, up to 180 days.
 Initial short-acting and long-acting requests may only be authorized for
 up to 90 days.
 
-| **Last Approved ** | 9/21/2023 |
+|||
 | ------------------ | --------- |
+| **Last Approved ** | 9/21/2023 |
 | **Other**          |           |

@@ -1,5 +1,8 @@
-| Criteria 1 | Non-Preferred: Arikayce (NP), Bethkis (NP, QL), Cayston (NP), Kitabis Pak (NP, QL), Tobi Podhaler (NP, QL) |
+# Infectious Disease Agents - Antibiotics - Inhaled
+
+|||
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
+| Criteria 1 | Non-Preferred: Arikayce (NP), Bethkis (NP, QL), Cayston (NP), Kitabis Pak (NP, QL), Tobi Podhaler (NP, QL) |
 | Criteria 2 | Tobramycin (P, QL, PA)                                                                                     |
 
  

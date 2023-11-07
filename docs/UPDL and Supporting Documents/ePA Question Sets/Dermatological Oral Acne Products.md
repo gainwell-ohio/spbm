@@ -1,7 +1,8 @@
-**Dermatological Oral Acne Products** 
+# Dermatologic Agents - Oral Acne Products 
 
-| Criteria 1 | P agents with PA (Accutane, Amnesteem, Claravis, Isotretinoin, Myorisan, Zenatane) |
+|||
 | ---------- | ---------------------------------------------------------------------------------- |
+| Criteria 1 | P agents with PA (Accutane, Amnesteem, Claravis, Isotretinoin, Myorisan, Zenatane) |
 | Criteria 2 | NP agents (Absorica, Absorica LD)                                                  |
 
    

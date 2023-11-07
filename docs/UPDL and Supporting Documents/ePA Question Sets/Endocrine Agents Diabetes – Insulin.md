@@ -1,7 +1,8 @@
-**Endocrine Agents: Diabetes – Insulin**   
+# Endocrine Agents - Diabetes – Insulin  
 
-| Criteria 1 | NP Agents- Admelog, Basaglar, Fiasp, Humalog U-200, Humulin N U-100, Humulin R U-100, Insulin Degludec (Tresiba is P, ST, BvG), Insulin Glargine (Lantus is P, BvG), Lyumjev, Novolin 70-30, Novolin N U-100, Novolin R U-100, Semglee, Rezvoglar, Basaglar Tempo Pen, Humalog U-100 Tempo Pen, Lyumjev Tempo Pen |
+|||
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Criteria 1 | NP Agents- Admelog, Basaglar, Fiasp, Humalog U-200, Humulin N U-100, Humulin R U-100, Insulin Degludec (Tresiba is P, ST, BvG), Insulin Glargine (Lantus is P, BvG), Lyumjev, Novolin 70-30, Novolin N U-100, Novolin R U-100, Semglee, Rezvoglar, Basaglar Tempo Pen, Humalog U-100 Tempo Pen, Lyumjev Tempo Pen |
 | Criteria 2 | NP Agents- Inhaled Insulin-  Afrezza                                                                                                                                                                                                                                                                              |
 | Criteria 3 | Tresiba (P, ST, BvG)                                                                                                                                                                                                                                                                                              |
 

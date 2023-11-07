@@ -1,7 +1,8 @@
-**Endocrine Agents Growth Hormone**
+# Endocrine Agents - Growth Hormone**
 
-| Criteria 1 | Non-Preferred Agents- Humatrope, Nutropin, Omnitrope, Saizen, Serostim, Skytrofa, Zomacton |
+|||
 | ---------- | ------------------------------------------------------------------------------------------ |
+| Criteria 1 | Non-Preferred Agents- Humatrope, Nutropin, Omnitrope, Saizen, Serostim, Skytrofa, Zomacton |
 | Criteria 2 | Preferred Agents- Genotropin (PA), Norditropin (PA)                                        |
 
   

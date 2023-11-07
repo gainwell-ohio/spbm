@@ -1,7 +1,8 @@
-**Endocrine Agents: Androgens** 
+# Endocrine Agents - Androgens 
 
-| Criteria 1 | NP Agents – Jatenzo (AR), Methyltestosterone (AR), Natesto (AR), Testopel (AR), Testosterone Cypionate (AR), Testosterone Gel 1.62%, 2% (AR), Testosterone Sol 30mg/ACT (AR), Tlando (AR), Xyosted (AR) |
+|||
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Criteria 1 | NP Agents – Jatenzo (AR), Methyltestosterone (AR), Natesto (AR), Testopel (AR), Testosterone Cypionate (AR), Testosterone Gel 1.62%, 2% (AR), Testosterone Sol 30mg/ACT (AR), Tlando (AR), Xyosted (AR) |
 | Criteria 2 | P Agents  - Androderm (AR, PA), Testosterone Gel 1% (AR, PA), Testosterone Gel 1% Pump (AR, PA)                                                                                                         |
 
  

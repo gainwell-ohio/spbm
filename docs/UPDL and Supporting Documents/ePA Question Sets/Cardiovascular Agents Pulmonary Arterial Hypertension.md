@@ -1,7 +1,8 @@
-**Cardiovascular Agents- Pulmonary Arterial Hypertension** 
+# Cardiovascular Agents- Pulmonary Arterial Hypertension
 
-| Criteria 1 | Preferred Products- Ambrisentan, Sildenafil, Tadalafil, Tracleer Tab (BvG)                                                                            |
+|||
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Criteria 1 | Preferred Products- Ambrisentan, Sildenafil, Tadalafil, Tracleer Tab (BvG)                                                                            |
 | Criteria 2 | Sildenafil Susp (P, AR, PA), Tadliq (P, AR, PA)                                                                                                       |
 | Criteria 3 | NP products- Adempas, Bosentan (Tracleer Tab is P, BvG, PA), Epoprostenol, Opsumit, Orenitram, Tracleer Susp, Treprostonil, Tyvaso, Uptravi, Ventavis |
 

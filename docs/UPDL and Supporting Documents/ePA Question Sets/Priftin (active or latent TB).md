@@ -1,3 +1,7 @@
+# Priftin
+
+**active or latent TB**
+
 <table>
 <thead>
 <tr class="header">

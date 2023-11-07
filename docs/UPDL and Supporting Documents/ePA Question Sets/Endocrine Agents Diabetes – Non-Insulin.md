@@ -1,7 +1,8 @@
-**Endocrine Agents: Diabetes – Non-Insulin**   
+# Endocrine Agents - Diabetes – Non-Insulin
 
-| Criteria 1 | NP Agents- Adlyxin, Alogliptin, Bydureon Bcise, Glucophage, Metformin ER (Generic of Fortamet, Glumetza), Metformin Sol, Mounjaro, Onglyza, Ozempic, Rybelsus, Steglatro, Symlinpen                                                                 |
+|||
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Criteria 1 | NP Agents- Adlyxin, Alogliptin, Bydureon Bcise, Glucophage, Metformin ER (Generic of Fortamet, Glumetza), Metformin Sol, Mounjaro, Onglyza, Ozempic, Rybelsus, Steglatro, Symlinpen                                                                 |
 | Criteria 2 | NP Agents – Combination Agents- Alogliptin/Metformin, Glimepiride/Pioglitazone, Glyxambi, Invokamet XR, Jentadueto XR, Kombiglyze XR, Pioglitazone/Alogliptin, Qtern, Segluromet, Soliqua, Steglujan, Synjardy XR, Trijardy XR, Xigduo XR, Xultophy |
 
    

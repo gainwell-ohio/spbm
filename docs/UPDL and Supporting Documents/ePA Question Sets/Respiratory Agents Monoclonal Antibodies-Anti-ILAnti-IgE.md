@@ -1,12 +1,10 @@
-**Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE** 
+# Respiratory Agents - Monoclonal Antibodies-Anti-IL/Anti-IgE 
 
-| Criteria 1 | Preferred Agents – Fasenra (PA), Xolair (PA) |
+|||
 | ---------- | -------------------------------------------- |
+| Criteria 1 | Preferred Agents – Fasenra (PA), Xolair (PA) |
 | Criteria 2 | Preferred Agents – Dupixent (PA)             |
 | Criteria 3 | Non-Preferred Agents – Nucala, Tezspire      |
-
-   
-
   
 
 <table>

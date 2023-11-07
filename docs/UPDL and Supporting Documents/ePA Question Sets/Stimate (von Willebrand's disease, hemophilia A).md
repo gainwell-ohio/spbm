@@ -1,4 +1,6 @@
-**Stimate (von Willebrand's disease, hemophilia A)**
+# Stimate
+
+**von Willebrand's disease, hemophilia A**
 
 |            |                                                  |
 | ---------- | ------------------------------------------------ |

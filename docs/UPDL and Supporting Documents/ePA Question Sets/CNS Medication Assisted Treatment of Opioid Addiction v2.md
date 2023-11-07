@@ -1,8 +1,8 @@
-**Central Nervous System (CNS) Agents: Medication Assisted Treatment of
-Opioid Addiction**   
+# CNS Agents - Medication Assisted Treatment of Opioid Addiction 
 
-| Criteria 1 | Buprenorphine (NP) |
+|||
 | ---------- | ------------------ |
+| Criteria 1 | Buprenorphine (NP) |
 | Criteria 2 | Lucemyra (NP, QL)  |
 
    

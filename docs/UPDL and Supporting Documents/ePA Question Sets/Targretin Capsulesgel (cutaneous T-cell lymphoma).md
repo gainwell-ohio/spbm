@@ -1,3 +1,7 @@
+# Targretin Capsulesgel
+
+**cutaneous T-cell lymphoma**
+
 <table>
 <thead>
 <tr class="header">

@@ -1,7 +1,8 @@
-**Cardiovascular Agents: Lipotropics** 
+# Cardiovascular Agents - Lipotropics 
 
-| Criteria 1 | NP- HMG-CoA Reductase Inhibitors - Altoprev, Atorvaliq, Ezallor, Fluvastatin, Livalo, Zypitamag Amlodipine/Atorvastatin, Ezetimibe/Simvastatin |
+|||
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Criteria 1 | NP- HMG-CoA Reductase Inhibitors - Altoprev, Atorvaliq, Ezallor, Fluvastatin, Livalo, Zypitamag Amlodipine/Atorvastatin, Ezetimibe/Simvastatin |
 | Criteria 2 | NP- Niacin Derivatives - Niacin ER Tab                                                                                                         |
 | Criteria 3 | NP- Fibrates - Fenofibrate Cap, Fenofibrate 40, 54, 120, 160mg Tab, Fenofibric Acid                                                            |
 | Criteria 4 | NP- ATP Citrate Lyase (ACL) Inhibitors - Nexletol, Nexlizet                                                                                    |

@@ -1,5 +1,4 @@
-**Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster
-Headache** 
+# Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache
 
 \*\*Emgality is also in 1a- CNS Agents: Anti-Migraine Agents,
 Prophylaxis

@@ -1,5 +1,6 @@
-**Long-acting Benzodiazepine- Xanax XR (alprazolam, extended
-release)**   
+# Long-acting Benzodiazepine - Xanax XR  
+
+**alprazolam, extended release**
 
 |            |                                         |
 | ---------- | --------------------------------------- |

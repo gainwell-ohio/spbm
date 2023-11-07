@@ -1,3 +1,7 @@
+# Ablysinol
+
+**hypertrophic obstructive cardiomyopathy**
+
 <table>
 <thead>
 <tr class="header">
@@ -252,6 +256,7 @@
 
 LENGTH OF AUTHORIZATIONS: 365 Days
 
-| **Last Approved** | 4/10/2023 |
+|||
 | ----------------- | --------- |
+| **Last Approved** | 4/10/2023 |
 | **Other**         |           |

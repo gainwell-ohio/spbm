@@ -1,3 +1,7 @@
+# Methoxasalen
+
+**vitiligo, psoriasis**
+
 <table>
 <thead>
 <tr class="header">

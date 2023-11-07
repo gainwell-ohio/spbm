@@ -1,4 +1,4 @@
-**Thalidomide Analogue- Revlimid (lenalidomide)   **
+# Thalidomide Analogue - Revlimid (lenalidomide)
 
 |            |                         |
 | ---------- | ----------------------- |

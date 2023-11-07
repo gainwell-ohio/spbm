@@ -1,7 +1,8 @@
-**CNS Movement Disorders** 
+## CNS Agents - Movement Disorders
 
-| Criteria 1 | Austedo (P, PA, ST)                     |
+|||
 | ---------- | --------------------------------------- |
+| Criteria 1 | Austedo (P, PA, ST)                     |
 | Criteria 2 | Ingrezza (P, PA), Tetrabenazine (P, PA) |
 
  

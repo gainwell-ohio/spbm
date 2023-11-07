@@ -1,7 +1,8 @@
-**Infectious Disease Agents: Antifungals** 
+# Infectious Disease Agents - Antifungals
 
-| Criteria 1 | NP – Brexafemme, Cresemba, Itraconazole, Noxafil Susp, Oravig, Posaconazole, Tolsura, Voriconazole |
+|||
 | ---------- | -------------------------------------------------------------------------------------------------- |
+| Criteria 1 | NP – Brexafemme, Cresemba, Itraconazole, Noxafil Susp, Oravig, Posaconazole, Tolsura, Voriconazole |
 | Criteria 2 | NP- Vivjoa                                                                                         |
 
   
