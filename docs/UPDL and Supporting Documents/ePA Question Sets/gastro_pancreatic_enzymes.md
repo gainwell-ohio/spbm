@@ -1,5 +1,7 @@
 ## Gastrointestinal Agents - Pancreatic Enzymes
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Ea5g-X3iDJ9Aps2pyjl9RlIBkAOECqEvu4iQX0xEtp9rxA?e=gyLEkj){:target="_blank" rel="noopener}
+
 |            |                                           |
 | ---------- | ----------------------------------------- |
 | Criteria 1 | NP Criteria - Pancreaze, Pertzye, Viokace |

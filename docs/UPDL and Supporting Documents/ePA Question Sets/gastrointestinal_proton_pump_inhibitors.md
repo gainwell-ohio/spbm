@@ -1,5 +1,7 @@
 # Gastroinstinal Agents - Proton Pump Inhibitors
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EablvZtd5N9Fl1gDbh_BylkBmwQedxmb3nWTHFREOafmCA?e=Mu2UNp){:target="_blank" rel="noopener}
+
 |||
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Criteria 1 | Protonix Pak (P, AR, BvG), Pantoprazole Packet (NP, AR)                                                                                                                                         |

@@ -1,5 +1,7 @@
 # Gastrointestinal Agents - Irritable Bowel Syndrome (IBS) with Diarrhea
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EWhJDpEFNGlGo3mygfQrm8cBodqVIxR7SB0CzdKvWSBUbQ?e=y3gzFs){:target="_blank" rel="noopener}
+
 |||
 | ---------- | ---------------------- |
 | Criteria 1 | NP- Alosetron, Viberzi |

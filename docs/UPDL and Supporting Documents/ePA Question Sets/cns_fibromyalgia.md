@@ -1,5 +1,7 @@
 # CNS - Fibromyalgia
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EfxqzL5v5U9HmutN05eTsSsBQ3AcsHGUmehEfJmm2dnLEw?e=gdkHbm){:target="_blank" rel="noopener}
+
 |            |                      |
 | ---------- | -------------------- |
 | Criteria 1 | NP Criteria- Savella |

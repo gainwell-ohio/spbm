@@ -1,5 +1,7 @@
 # Blood Formation, Coagulation, and Thrombosis Agents - Heparin-Related Preparations
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EdAwDWzTwhpPvXbKlOBmUfIBNfweKBUuZDQPVN8vhEHKIw?e=MahCvi){:target="_blank" rel="noopener}
+
 |            |                            |
 | ---------- | -------------------------- |
 | Criteria 1 | NP – Fondaparinux, Fragmin |

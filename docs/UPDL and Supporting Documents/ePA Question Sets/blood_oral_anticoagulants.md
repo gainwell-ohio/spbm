@@ -1,5 +1,7 @@
 # Blood Formation, Coagulation, and Thrombosis Agents - Oral Anticoagulants 
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:f:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Eo_FfDB4rmpCs7foJlG_7tgBynoMV2iUEVpGGJbTnCj-XQ?e=RiFUIN){:target="_blank" rel="noopener}
+
 |||
 | ---------- | --------------------------------------------------------- |
 | Criteria 1 | NP Criteria- Savaysa, Dabigatran Cap \[Pradaxa (P, BvG)\] |

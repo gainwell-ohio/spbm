@@ -1,5 +1,7 @@
 ## Respiratory Agents: Inhaled Agents
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EZgl36O0IDVNmjOaLaMxZ4ABmMvsDTXerkRZ61Qa7KZlcw?e=E4RanR){:target="_blank" rel="noopener}
+
 |||
 | :--- | :--- |
 |  Criteria 1  | 	Non-Preferred Glucocorticoids: Aerospan HFA, Alvesco, Armonair Digihaler, Armonair Respiclick, Arnuity Ellipta, Asmanex HFA, Qvar (QL), Fluticasone HFA </br> Preferred Agents: Asmanex Twisthaler, Flovent, Pulmicort Flexhaler |

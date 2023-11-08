@@ -2,6 +2,8 @@
 
 **ALS**
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EQTwNvolkD9IhI-5oWcpoesB1KsdXX8ksGiq5Ez1jfhNiw?e=8AovuD){:target="_blank" rel="noopener}
+
 <table>
 <thead>
 <tr class="header">

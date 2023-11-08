@@ -1,5 +1,7 @@
 # Ophthalmic Agents - Dry Eye Treatment
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EQcI5dNrSmVPkOaRBa509NIBrxeStibMrBXJ0nRiCXV0Ow?e=v9EYez){:target="_blank" rel="noopener}
+
 |||
 | ---------- | --------------------------------------------------------------------------------------- |
 | Criteria 1 | Restasis Trays (P, BVG, ST), generic cyclosporine trays (CYCLOSPORINE EMU 0.05% OP)- NP |

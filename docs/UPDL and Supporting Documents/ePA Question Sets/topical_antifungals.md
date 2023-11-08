@@ -1,5 +1,7 @@
 # Topical Agents - Antifungals
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ESi1O6zszDBBnwN8EVsDoCYBDycGtS9chGjpNfP1ctOLMA?e=qVUFah){:target="_blank" rel="noopener}
+
 |||
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Criteria 1 | NP Criteria - Butenafine, Ciclopirox Kit, Ertaczo, Ketoconazole Foam, Luliconazole, Miconazole/Zinc Oxide/White Petrolatum Oint, Naftifine, Oxiconazole, Tavaborole |

@@ -1,5 +1,7 @@
 # Respiratory Agents: Other Agents
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Ef49umiBb1dHnxuL8_gK3q8B3rQq2PBAmsHaWeRFIWMTBg?e=t4fvoP){:target="_blank" rel="noopener}
+
 |            |             |
 | ---------- | ----------- |
 | Criteria 1 | NP Criteria |

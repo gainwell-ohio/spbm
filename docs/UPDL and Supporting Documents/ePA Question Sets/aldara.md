@@ -2,6 +2,8 @@
 
 **actinic keratosis**
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EU6Msw2o-F1Kixt7BJ6kGY0BJyCzEpNDK3bIXpXkmhIPjA?e=g56vLd){:target="_blank" rel="noopener}
+
 <table>
 <thead>
 <tr class="header">

@@ -1,5 +1,7 @@
 # Respiratory Agents - Nasal Preparations
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:f:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Eo_FfDB4rmpCs7foJlG_7tgBynoMV2iUEVpGGJbTnCj-XQ?e=zy59Bl){:target="_blank" rel="noopener}
+
 |            |                                                                                                                           |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Criteria 1 | NP Criteria- Azelastine/Fluticasone Spray, Beconase AQ, Budesonide, Mometasone, Omnaris, Qnasl, Ryaltris, Xhance, Zetonna |
