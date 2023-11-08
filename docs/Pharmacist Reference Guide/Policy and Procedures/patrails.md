@@ -1,23 +1,14 @@
-# PA Trial Lookback period 7/5/23
+# PA Trial Lookback period 
 
-Team,
+## General Claims Lookback Period 11/8/2023
 
-As you all are aware, preferred trials needed per PA criteria must be confirmed by paid pharmacy claims. I was able to verify with ODM on Monday the expectation for lookbacks in claims for trials. 
+^^General Claims Lookback Period^^
 
-Technician supervisors, Training team, Quality team and Pharmacist supervisors – Please distribute and communicate this directive to your teams as this will be the standard moving forward when reviewing PA’s as of 7/5/2023. Please also ensure that it is posted to Evergreen for all pharmacists and technicians to reference.
+How far back can we look for relevant claims in a PA determination? 
 
-***PA Criteria trials***
+- Previously we were able to look back 1 year in claims for anything not added to the "past and pertinent therapies" section of the PA
+- **NOW - we will review a member's profile and look at ==ALL== relevant claims, ^^not just limited to one year^^**
 
-1.	Trials MUST be confirmed by paid pharmacy claims.
-
- - Lookback period for trials in paid pharmacy claims is ^^1 year lookback period (for both pharmacists and technicians), unless chart notes /first page of PA form under “Pertinent past or present therapies” indicate that the trial occurred prior to the 1 year lookback.^^ In this instance, it is appropriate to look back further in claims to verify that these trials occurred. Please ensure that we continue to document dates of paid pharmacy claims trials in our internal notes.
- - If the member was not eligible with us at the time of trial dates listed on the PA (must have specific trial dates to confirm trial duration – cannot just say 2020), or are new to OH MCD, it is acceptable to approve based off of these trials. Please note specific trial dates as month/day/year on your internal notes.
-
-Please let me know if there’s any questions!
-
-Thank you,
-
-Cassandra Roach, PharmD, RPh
 
 # PA Re-authorization Lookback Period 10/31/23
 
@@ -33,3 +24,4 @@ We also need to ensure that ==both technicians and pharmacists are looking for t
 Thank you, 
 
 Cassandra Roach, PharmD, RPh
+
