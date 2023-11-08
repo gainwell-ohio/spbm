@@ -7,6 +7,7 @@ search:
 
 | Date | New Process / Change | Why / Process Detail |
 |:---:|:---|:---|
+| 11/8/2023 |Correct GCNSeqNo for the Ozempic 0.25-0.5mg/dose pens| Everyone should ONLY use GCNSeqNo 084300 for the Ozempic 0.25-0.5mg/dose pens. |
 | 11/8/2023 |**General Lookback Period** for claims in PA determinations| **General Claims Lookback Period** </li><li>We will review a member's profile and look at all relevant claims, not just limited to one year. |
 | 11/8/2023 |**Reauthorization PAs (Subsequent Authorizations) Lookback Period** for claims| **If the medication was previously approved BY GAINWELL (Legacy PAs from previous MCEs do not count)**  </li><li>**If no paid claims** for the medication in the last year, treat as an initial authorization request and use initial criteria. </li><li>**If there are paid claims** in the last year, treat as reauthorization and follow reauthorization or subsequent authorization criteria.  </li><li>**Exception:** If the drug is a PRN (taken as needed) drug, there may not be claims within the last year. In these instances, look in entire profile for previous paid claims. <ul><li>**If no paid claims,** treat as initial authorization  </li><li>**If there are paid claims,** treat as reauthorization / subsequent authorization.    |
 | 11/6/2023 |Guidance for Viloxazine (Qelbree)| Viloxazine is not available in the marketplace. Viloxazine is the generic name for Qelbree. **If a PA request comes in for Viloxazine we are to review according to the UPDL criteria for Qelbree.**|
