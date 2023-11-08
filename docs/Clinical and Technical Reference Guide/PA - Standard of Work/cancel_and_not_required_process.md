@@ -1,7 +1,8 @@
 # Cancel and Not Required PA Process
 
 ## PA Cancellation Training
-WILL BE ADDED
+
+[PA Cancellation Training PowerPoint](https://mygainwell-my.sharepoint.com/:p:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ESGmK-LrE5FHjv02f6zeOKEBC_GLXngRR9rMgZzUPOtk3w?e=tdffOY)
 
 ### The ONLY Acceptable PA Cancellation Reasons are:
 
