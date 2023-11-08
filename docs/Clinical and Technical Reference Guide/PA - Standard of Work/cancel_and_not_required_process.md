@@ -39,7 +39,6 @@ WILL BE ADDED
 | Member not Eligible / Found | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the member is ineligible or cannot be found. |
 | Duplicate Request | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but there is already an approved Prior Authorization on file for {Drug name and Strength} until {Term Date}. |
 | Carved Out Medications | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but is ineligible for review through Gainwell Technologies as certain covered injectable drugs and biological products are carved out from Managed Care Entity (MCE) coverage. These drugs are reimbursed as part of the Fee-for-Service (FFS) medical benefit for all FFS and MCE enrollees. Please visit https://medicaid.ohio.gov/stakeholders-and-partners/phm/carved-out-drugs for directions on submitting requests as well as forms for submission. | 
-| Incorrect Form (NOT an ODM- approved Gainwell form) | The Prior Authorization request for {Member Name, DOB, Medicaid ID#, and Drug Name} was sent in using the wrong form. Please utilize the Gainwell {Name of Form} and resubmit. |
 
 
 #### Reject Fax Template Word Document
