@@ -1,5 +1,7 @@
 **Topical Agents: Immunomodulators**
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EYvAnZ95ozxFnUYUdpBJ86kBDsIKx26JEo9ZPCXvlU23Tw?e=lPIfd5){:target="_blank" rel="noopener}
+
 |||
 | ---------- | ------------------------------------------------------- |
 | Criteria 1 | Non-Preferred- Eucrisa, Hyftor, Opzelura, Vtama, Zoryve |

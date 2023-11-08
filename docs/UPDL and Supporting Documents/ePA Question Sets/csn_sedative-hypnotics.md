@@ -1,5 +1,7 @@
 # CNS Agents - Sedative-Hypnotics, Non-Barbiturate 
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EXpT-OHNqKtEqk_1x3BrZsIBBxDRou1AcR6n4C1QjQEmnw?e=eZWEvy){:target="_blank" rel="noopener}
+
 |||
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Criteria 1 | NP Criteria- Controlled Medications – Belsomra, Dayvigo, Eszopiclone, Intermezzo, Quviviq, Temazepam 7.5, Temazepam 22mg, Zolpidem ER, Zolpidem SL |

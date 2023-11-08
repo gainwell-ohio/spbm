@@ -1,5 +1,7 @@
 # Respiratory Agents - Antihistamines-Second Generation
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EVnVqurlOaZGmAo8LlMrtNwBqQxtqnyfDEfpq-9eg16Ftg?e=RxgPwW){:target="_blank" rel="noopener}
+
 |||
 | ---------- | ---------------------------- |
 | Criteria 1 | NP agents                    |

@@ -1,5 +1,7 @@
 # Endocrine Agents - Osteoporosis – Bone Ossification Enhancers
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EeqbgCcnhIdIjSpoq5S6YigBs7MDENpq7Ly7d_NSW5yUuQ?e=w8xZ2S){:target="_blank" rel="noopener}
+
 |||
 | ---------- | -------------------------------------------------- |
 | Criteria 1 | NP - Alendronate Susp, Fosamax Plus D, Risedronate |

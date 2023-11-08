@@ -1,5 +1,7 @@
 # CNS Agents - Parkinson's Agents 
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EQpw5bleywFAp8ty5TG08IkBz3gdk_3T9Hq0LoVwgMh-kw?e=OpnjW7){:target="_blank" rel="noopener}
+
 |||
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Criteria 1 | NP Criteria  - Carbidopa/Levodopa Dispersible Tab, Carbidopa/Levodopa/Entacapone, Gocovri, Ongentys, Osmolex ER, Pramipexole ER, Rasagiline, Ropinirole ER, Rytary, Tolcapone, Xadago, Zelapar |

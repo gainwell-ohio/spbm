@@ -2,6 +2,8 @@
 
 **anal fissure**
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EfUCkGPMOshGofrLZBq8_FwB6v2Ryr6e8v8HFd6M-vfOWw?e=8HcuWO){:target="_blank" rel="noopener}
+
 <table>
 <thead>
 <tr class="header">

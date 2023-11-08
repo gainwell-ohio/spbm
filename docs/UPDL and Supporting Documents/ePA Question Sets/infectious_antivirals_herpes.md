@@ -1,5 +1,7 @@
 ## Infectious Disease Agents - Antivirals – Herpes
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ESkRkUPYV8FIqagVaUfbzRUBlJd3vPhaJb5cinf4s7tgoQ?e=OvBqAQ){:target="_blank" rel="noopener}
+
 |            |                                   |
 | ---------- | --------------------------------- |
 | Criteria 1 | NP Criteria- Famciclovir, Sitavig |

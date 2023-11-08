@@ -1,5 +1,7 @@
 # Infectious Disease Agents - Antifungals
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EUHox01RKo9InSi3ThLoLLkBxxEiOXlVyj5NZeTNNxS1_g?e=ZdiqxC){:target="_blank" rel="noopener}
+
 |||
 | ---------- | -------------------------------------------------------------------------------------------------- |
 | Criteria 1 | NP – Brexafemme, Cresemba, Itraconazole, Noxafil Susp, Oravig, Posaconazole, Tolsura, Voriconazole |

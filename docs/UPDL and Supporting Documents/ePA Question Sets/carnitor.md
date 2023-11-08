@@ -2,6 +2,8 @@
 
 **carnitine deficiency**
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EafNiAfdbvBBhfs3Ordb4SgB2Lm281VsYeAyalttPnlRBg?e=Lkj9oq){:target="_blank" rel="noopener}
+
 <table>
 <thead>
 <tr class="header">

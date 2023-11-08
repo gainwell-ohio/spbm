@@ -1,5 +1,7 @@
 # Ophthalmic Agents - Ophthalmic Steroids 
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EbXPh2d-FgRBvD-ilrU4n7cB4SPcQIJNLOn6lPDaWuytPw?e=g9i5g6){:target="_blank" rel="noopener}
+
 <table>
 <tbody>
 <tr class="odd">

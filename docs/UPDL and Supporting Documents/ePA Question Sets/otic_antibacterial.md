@@ -1,5 +1,7 @@
 # Otic Agents - Antibacterial and Antibacterial/Steroid Combination
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Efg2okNrlyNDjWe3HqndP4EBMO29SU-kzfV7A9YAcl5Xnw?e=ppY1TZ){:target="_blank" rel="noopener}
+
 <table>
 <tbody>
 <tr class="odd">

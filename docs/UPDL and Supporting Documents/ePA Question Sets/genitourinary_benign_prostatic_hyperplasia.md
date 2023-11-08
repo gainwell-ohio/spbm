@@ -1,5 +1,7 @@
 # Genitourinary Agents - Benign Prostatic Hyperplasia
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EeXW81I7QWxAsZTql2A6DxgBQ9nOx0J0IQwqV_fSzpbwFg?e=mAqL67){:target="_blank" rel="noopener}
+
 |||
 | ---------- | ----------------------------------- |
 | Criteria 1 | NP- Cardura XL, Silodosin           |

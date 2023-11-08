@@ -2,6 +2,8 @@
 
 **axillary hyperhidrosis**
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EeXPh8Wc6ntNvwZOOej7-4cB9Mk4OVQH229czS_R9gMaOg?e=53hlr8){:target="_blank" rel="noopener}
+
 <table>
 <thead>
 <tr class="header">
