@@ -7,7 +7,7 @@
 ### The ONLY Acceptable PA Cancellation Reasons are:
 
 - EXACT duplicates
-    - Same drug, strength instructions and requested dates
+    - Same drug, same strengt, same instructions and same requested dates
  - No Active Medicaid Eligibility on file
  - Carve Out Medications
  
