@@ -14,8 +14,8 @@
 - Drug requested (primary ingredient) is entered at the GCNSeqNo level in PAWS.
 - Ensure Effective Date is entered correctly.
     - Is the request for a backdate?
-          i.	Look for requests to backdate under “Request Date”, Cover page, anywhere else on the PA form. Do NOT ASSUME it is the date we received the PA request.
-          ii.	Note: Backdating prior to September will require a PA for most antibiotics that currently show NO PA required.
+        - Look for requests to backdate under “Request Date”, Cover page, anywhere else on the PA form. Do NOT ASSUME it is the date we received the PA request.
+        - Note: Backdating prior to September will require a PA for most antibiotics that currently show NO PA required.
 
 - Days supply = 365 days (Oncology requests) or 180 days (All other requests)
 - Daily dose units = (Total Quantity dispensed on rejected claim ÷ days’ supply on rejected claim).
@@ -46,19 +46,17 @@
 
 - Documentation provided to support medical necessity for any active or inactive ingredient in the compound that requires Prior Authorization; AND
 - Compound is NOT being used for any of the following:
-  
-        - Obesity
-        - Sexual dysfunction
-        - Infertility
-        - Investigational or experimental use; AND
+    - Obesity
+    - Sexual dysfunction
+    - Infertility
+    - Investigational or experimental use; AND
 
 - Compound is NOT commercially available; AND
 - Compound is NOT being used for the purpose of convenience; AND
 - Compound is NOT any of the following:
-  
-        - Compounded implantable hormone replacement pellets or granules (such as estrogen-based implantable pellets);
-        - Bioidentical hormones;
-        - Topical compound request containing baclofen, gabapentin, and ketamine. 
+    - Compounded implantable hormone replacement pellets or granules (such as estrogen-based implantable pellets);
+    - Bioidentical hormones;
+    - Topical compound request containing baclofen, gabapentin, and ketamine. 
 
 ^^**Renewal Criteria**^^
 
