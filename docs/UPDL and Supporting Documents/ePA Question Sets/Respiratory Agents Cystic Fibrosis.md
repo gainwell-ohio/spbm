@@ -1,5 +1,7 @@
 # Respiratory Agents - Cystic Fibrosis 
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Eeu-4_JT4vZKpoZ04Fgph88BtRqkhhGVrj1bR_jcJQdkbQ?e=hNT2aW){:target="_blank" rel="noopener}
+
 |||
 | ---------- | -------------------------------------------------------- |
 | Criteria 1 | Non-Preferred Products: Bronchitol                       |

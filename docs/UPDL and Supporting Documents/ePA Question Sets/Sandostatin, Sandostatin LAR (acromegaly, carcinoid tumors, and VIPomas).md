@@ -1,5 +1,7 @@
 # Sanostatin, Sandostatin LAR
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ETnmbICNJ0hOry9XUn-bGh0BGvtFa9SA8MkPD0pkftcekw?e=ssrogk){:target="_blank" rel="noopener}
+
 **acromegaly, carcinoid tumors, and VIPomas**
 
 <table>

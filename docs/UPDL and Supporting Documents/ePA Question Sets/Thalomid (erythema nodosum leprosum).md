@@ -2,6 +2,8 @@
 
 **erythema nodosum leprosum**
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EXFO2E1GKl9GkIznoXmYp_kBfgAhD8ipO0-sUn5uuoDrfg?e=VnHG46){:target="_blank" rel="noopener}
+
 <table>
 <thead>
 <tr class="header">

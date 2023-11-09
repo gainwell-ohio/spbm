@@ -1,5 +1,7 @@
 # Infectious Disease Agents: Antivirals – Hepatitis C Agents
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ERmz9OYoTHpBjOqSKYgCapEB9KJWWCT6rg3EdVH22i28ug?e=Egiltc){:target="_blank" rel="noopener}
+
 <table>
 <thead>
 <tr class="header">

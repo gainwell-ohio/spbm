@@ -1,5 +1,7 @@
 # Analgesic Agents - Opioids
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EavixVJTp-lLrPNk5wnba-EBh0tdXFUKnwnI_Ps6rZodQQ?e=UUzJaQ){:target="_blank" rel="noopener}
+
 <table>
 <thead>
 <tr class="header">

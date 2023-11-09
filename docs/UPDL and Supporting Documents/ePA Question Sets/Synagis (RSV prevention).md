@@ -1,5 +1,7 @@
 # Synagis
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Ef_bcoyOhFtFov2y02ZfPrEB-JrrA4nqp_KHLLCoctN7Zw?e=giFIMo){:target="_blank" rel="noopener}
+
 **RSV prevention**
 
 <table>

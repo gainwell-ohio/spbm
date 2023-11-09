@@ -1,5 +1,7 @@
 # Endocrine Agents - Uterine Fibroids** 
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EcVLPTVJf7BFhdvbLQJA2ysBBbv41f7ljxkvEuX2Yax-Vg?e=M2NHR1){:target="_blank" rel="noopener}
+
 |||
 | ---------- | -------------------------------------------------------------------- |
 | Criteria 1 | P with PA, QL- Oriahnn                                               |
