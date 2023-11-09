@@ -1,5 +1,7 @@
 # CNS Agents - Medication Assisted Treatment of Opioid Addiction 
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ESczEqyaAbFMrAkm801V6VsB4GQS1v2Gu3SIK6KPQHU3Hg?e=LD13n0){:target="_blank" rel="noopener}
+
 |||
 | ---------- | ------------------ |
 | Criteria 1 | Buprenorphine (NP) |

@@ -1,5 +1,7 @@
 # Endocrine Agents - Growth Hormone**
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EVTosIVeMsRAtZAg-6CvfEYB2ABDKXcVl9-Jvz7CDX74QQ?e=gPyFpI){:target="_blank" rel="noopener}
+
 |||
 | ---------- | ------------------------------------------------------------------------------------------ |
 | Criteria 1 | Non-Preferred Agents- Humatrope, Nutropin, Omnitrope, Saizen, Serostim, Skytrofa, Zomacton |

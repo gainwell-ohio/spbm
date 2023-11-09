@@ -2,6 +2,8 @@
 
 **bacterial infections**
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Edyul0oB0JRAi_Ud3hTMW1sBNYNjRRfhBfDdWIHEF8nqjw?e=tNHZgE){:target="_blank" rel="noopener}
+
 <table>
 <thead>
 <tr class="header">

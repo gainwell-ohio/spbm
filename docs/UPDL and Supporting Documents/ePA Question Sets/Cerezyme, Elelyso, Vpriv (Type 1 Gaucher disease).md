@@ -1,5 +1,7 @@
 # Cerezyme, Elelyso, Vpriv
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EQeuf8FDigpGoU667m998AoBhfeUcUSgh6NLc7wkmht4UA?e=d3La1E){:target="_blank" rel="noopener}
+
 **Type 1 Gaucher disease**
 
 <table>

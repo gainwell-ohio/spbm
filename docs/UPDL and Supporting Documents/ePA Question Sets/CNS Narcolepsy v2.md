@@ -1,5 +1,7 @@
 # Central Nervous System (CNS) Agents - Narcolepsy 
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ESGwCEvWYm5BtHTQLzIq6jcBycTHUv8AN0TMcIU-scSAfw?e=bRfXsX){:target="_blank" rel="noopener}
+
 |||
 | ------------- | ---------------------------------------- |
 | Criteria 1    | NP- Sunosi, Wakix, Xyrem, Sodium Oxybate |

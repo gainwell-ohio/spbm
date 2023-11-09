@@ -1,5 +1,7 @@
 # Nuedexta
 
+[Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Ecv_Q-iisDFErxX01OPr9wgB_rvP8oahEwrR8aC4vP8VHA?e=rUdF2e){:target="_blank" rel="noopener}
+
 **pseudobulbar affect**
 
 <table>
