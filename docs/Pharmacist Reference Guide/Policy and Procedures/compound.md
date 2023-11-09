@@ -40,23 +40,29 @@
 
 ^^**Initial Criteria**^^
 
-	Active ingredients are prescribed in therapeutic amounts based off FDA approved indications; AND
-	Requests for compounds similar to a commercially available product but differ in dosage, dosage form, or inert ingredient, MUST MEET THE FOLLOWING:
-o	Documentation provided that supports the need for the compound (Ex: Documented difficulty or inability to swallow oral dosage forms, documented allergies to inactive ingredients, oral aversion); AND
-	Documentation provided to support medical necessity for any active or inactive ingredient in the compound that requires Prior Authorization; AND 
-	Compound is NOT being used for any of the following:
-1.	Obesity 
-2.	Sexual dysfunction 
-3.	Infertility 
-4.	Investigational or experimental use; AND
-	Compound is NOT commercially available; AND
-	Compound is NOT being used for the purpose of convenience; AND
-	Compound is NOT any of the following:
-1.	Compounded implantable hormone replacement pellets or granules (such as estrogen-based implantable pellets); 
-2.	Bioidentical hormones; 
-3.	Topical compound request containing baclofen, gabapentin, and ketamine. 
-Renewal Criteria
-	Documentation has been provided showing the member’s clinical response to treatment and ongoing safety monitoring.
+- Active ingredients are prescribed in therapeutic amounts based off FDA approved indications; AND
+- Requests for compounds similar to a commercially available product but differ in dosage, dosage form, or inert ingredient, MUST MEET THE FOLLOWING:
+        - Documentation provided that supports the need for the compound (Ex: Documented difficulty or inability to swallow oral dosage forms, documented allergies to inactive ingredients, oral aversion); AND
+
+- Documentation provided to support medical necessity for any active or inactive ingredient in the compound that requires Prior Authorization; AND
+- Compound is NOT being used for any of the following:
+  
+        - Obesity
+        - Sexual dysfunction
+        - Infertility
+        - Investigational or experimental use; AND
+
+- Compound is NOT commercially available; AND
+- Compound is NOT being used for the purpose of convenience; AND
+- Compound is NOT any of the following:
+  
+        - Compounded implantable hormone replacement pellets or granules (such as estrogen-based implantable pellets);
+        - Bioidentical hormones;
+        - Topical compound request containing baclofen, gabapentin, and ketamine. 
+
+^^**Renewal Criteria**^^
+
+- Documentation has been provided showing the member’s clinical response to treatment and ongoing safety monitoring.
 
 
 
