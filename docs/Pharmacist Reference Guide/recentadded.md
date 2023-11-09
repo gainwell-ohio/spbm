@@ -5,6 +5,7 @@
 
 11/8/23
 - [Daily Dose units Processing](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/ddu/?h=daily)
+- [Cancel PA Power Point 11/7/23](https://mygainwell-my.sharepoint.com/:p:/g/personal/christopher_nguyen_gainwelltechnologies_com/EV3bLLM0ZuBPl4HzV1LRtNEBRRHvknW1ls5gI5v22OJeZw?e=LzevQu_){:target="_blank" rel="noopener"}
 
 11/6/23
 
