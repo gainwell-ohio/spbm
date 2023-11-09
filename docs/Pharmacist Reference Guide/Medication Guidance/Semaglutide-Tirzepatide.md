@@ -63,6 +63,8 @@ Refer to **DENIAL LANGUAGE DOCUMENT** for most recent updates (10/4/2023)
 
 [Decision Pathaway Semaglutide (Ozempic, Rybelsus, Wegovy) 9/15/23](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Decision%20Pathways/Semaglutide/)
 
+(**Always select GCNSeqNo 084300 for Ozempic 0.25-0.5mg/dose pens.**) - 11/8/23 email from Emily R
+
   -	Weight loss diagnosis = Admin deny (consider EPSDT for <21 yo)
   -	All other dx not Type 2 DM = Admin deny (consider EPSDT for <21 yo)
   -	Requests for Type 2 DM – (consider EPSDT for <21 yo)
