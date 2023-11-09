@@ -1,5 +1,11 @@
 # Recently Added/Updated
 
+11/9/23
+- [Compounds DLP](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/compound/?h=compound)
+
+11/8/23
+- [Daily Dose units Processing](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/ddu/?h=daily)
+
 11/6/23
 
 - [Weekly Email 11/05/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVQOOIEMRSZNoPwyja4M100BMFCNxrQlaxd8q_9vBmnvOA?e=wc27Fq){:target="_blank" rel="noopener"}
