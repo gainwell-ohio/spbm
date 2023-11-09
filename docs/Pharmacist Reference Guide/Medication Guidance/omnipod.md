@@ -4,7 +4,26 @@
 
 [Weekly Email 11/05/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EVQOOIEMRSZNoPwyja4M100BMFCNxrQlaxd8q_9vBmnvOA?e=wc27Fq){:target="_blank" rel="noopener"}
 
-•	**Omnipod kits should be approved for 1/30**, and then the ^^pods should be approved for a year^^.
+•	**Omnipod kits should be approved for ~~1/30~~**, and then the ^^pods should be approved for a year^^.
+
+## Daily Dose Units 11/8/23
+
+Team –
+
+Moving forward, when reviewing a PA, please round up the calculated daily dose unit to the nearest whole number. After rounding up, remove the calculated “Quantity Dispensed” and hit the = sign to get the new calculated Quantity Dispensed.
+
+Daily Dose Unit Examples:
+
+- 0.001 = round up to 1
+- 0.05 = round up to 1
+- 0.2 = round up to 1
+- 5.6 = round up to 6
+- 13.25 = round up to 14
+
+Thank you,
+
+Cassandra Roach, PharmD, RPh
+
 
 
 ## 8/21/23
