@@ -9,7 +9,7 @@
 ### The ONLY Acceptable PA Cancellation Reasons are:
 
 - EXACT duplicates
-    - Same drug, same strengt, same instructions and same requested dates
+    - Same drug, same strength, same instructions and same requested dates
  - No Active Medicaid Eligibility on file
  - Carve Out Medications
  
@@ -21,8 +21,8 @@
 | PA Senario | Resolution |
 | Brand Preferred over Generic | We decision PAs based on the actual drug that the provider requests on the PA form <ul><li>If the provider writes for the Non Preferred Generic drug </li><ol><li>Decision based on criteria for the Non Preferred Generic drug. This will most likely (not always) go to Med Review for eventual Denial by RPh. If PA meets criteria and the drug is NOT Auto Med Review, Techs can decision. <ul></ol><li>If the provider writes for the Preferred Brand drug </li><ol><li>Complete the "Not Required" Procedures including changing the PA status to "Not Required" and adding appropriate documentation. </li><ol><li>**We need to be aware as some Brand Names that are preferred over generic have criteria such as Elidel and Butrans. We would not send these back as PA NOT REQUIRED.** |
 | No Signature on PA form | Follow Signature procedure on Evergreen |
-| Incorrect form: ODM-approved Gainwell PA form | Decision PA based on information given following using normal PA processes|
-| Incorrect form: Non ODM-approved Gainwell PA form |Decision PA based on information given following using normal PA processes. For example, we will follow normal decisioning processes for all PA forms received. Even if Caresource, Molina or a PA form from another PBM|
+| Incorrect form: ODM-approved Gainwell PA form | Decision PA based on information given following normal PA processes|
+| Incorrect form: Non ODM-approved Gainwell PA form |Decision PA based on information given following normal PA processes. For example, we will follow normal decisioning processes for all PA forms received. Even if Caresource, Molina or a PA form from another PBM|
 | Provider not active in Vue360RX | Decision using normal PA processes|
 | Prior Authorization Not Required | Select "Not Required" PA status with appropriate notes |
 | Missing DX code on documentation | OK to decision if DX code ANYWHERE on submitted documentation. If no DX code on any of the submitted PA documentation, send to Med Review using appropriate template and notes |
