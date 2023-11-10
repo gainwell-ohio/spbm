@@ -10,21 +10,24 @@ The Tech Templates will be used when working PA's in Vue360rx to organize a form
 ## PA Documentation Reminders
 
 **We are noticing that PA notes can be lacking very important information.** 
+
 - **Your notes should be so clear that the person looking at your notes knows your exact thought process**
   -  More information is better.
   - **Pro Tip: Paste applicable criteria in your notes and go one by one, reporting if that point of the criteria was met or not and how you got that information.**
 
 **When approving a PA or sending to Med Review, make sure to include ALL pertinent information including EACH point on the criteria you are using.**
+
  -  Techs need to list out the criteria including each criteria point and if the member meets or does not meet in all PA notes. 
     -  When documenting applicable drug trails include the drug strength, quality dispensed, and the dates of service for each medication. If trials occurred over continuous span, OK to document like 5/30/2022- 12/30/2023.
     -  You should NEVER just write "criteria met".
         -  If the member met that point of the criteria, include page number you found that information, claim history, ect.
         -  If the member does not meet that criteria point - what led you to that conclusion? Is the information not documented or did you see that the member tried one preferred drug and not 2 preferred drugs?
--  All lines of the Med Review template need to be filled out and if not applicable, an N/A or non needs to be included.
+-  All lines of the Med Review template need to be filled out and if not applicable, an N/A or none needs to be included.
     -  **Techs should never just put "auto med review". Even for Auto Med Review Medications need to have all points of the criteria written down in your notes for the RPH.**
 -  If age restriction or Quality limit is apart of the criteria, those need to be included also.
 
 **Examples:**
+
 - If one point of the criteria states :"TB Test Required" you should add to your notes something like:
   - "TB Test confirmed, pg 3 of chart notes".
 - If 2 trials of preferred medications are required you should add to your notes something like:
