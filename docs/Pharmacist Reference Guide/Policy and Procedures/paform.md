@@ -1,5 +1,3 @@
-# Acceptable PA forms
-
 ---
 search:
   boost: 1
