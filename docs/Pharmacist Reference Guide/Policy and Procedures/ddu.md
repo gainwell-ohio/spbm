@@ -17,3 +17,10 @@ Daily Dose Unit Examples:
 Thank you,
 
 Cassandra Roach, PharmD, RPh
+
+Per discussion with Justin:
+
+==**Exclusions:**== (11/10/2023)
+
+- meds with QLs
+- Guidance for Synagis (based on weight) and Omnipod 
