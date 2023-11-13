@@ -8,7 +8,7 @@
 | \*Methenamine-Hyoscamine-Meth Blue-Sod Phos Tab      | Urogesic-Tab Blue            | 12/31/2021   | 6/6/2079     |
 |  Adalimumab-adbm Auto-injector Kit                   | Cylteso Inj                  | 09/29/2023   | 6/6/2079     |
 | Adalimumab-adbm Prefilled Syringe Kit                | Cyltezo Inj                  | 09/29/2023   | 6/6/2079     |
-| **Amphetamine-Dextroamphetamine 3-Bead Cap ER 24HR***   | **Mydayis Cap**               | **10/20/2023** | **6/6/2079**     |
+| Amphetamine-Dextroamphetamine 3-Bead Cap ER 24HR   | Mydayis Cap               | 10/20/2023 | 6/6/2079     |
 | Aprepitant Capsule 80MG                              | Emend Cap 80MG               | 3/19/2020    | 6/6/2079     |
 | Aprepitant Capsule Therapy Pack                      | Emend Tripac Pak             | 1/6/2017     | 6/6/2079     |
 | Asenapine Maleate SL Tab (Base Equiv)                | Saphris Sub                  | 12/31/2021   | 6/6/2079     |
@@ -72,7 +72,7 @@
 | Oxcarbazepine Susp                                   | Trileptal Susp               | 12/16/2022   | 6/6/2079     |
 | Paclitaxel Protein-Bound Particles For IV Susp       | Abraxane Inj 100 Mg          | 4/15/2022    | 6/6/2079     |
 | Pantoprazole Sodium For Delayed Release Susp Packet  | Protonix Pak                 | 8/21/2020    | 6/6/2079     |
-| **Pazopanib HCl Tab 200 MG (Base Equiv)**            | **Votrient Tab 200MG**       | 10/27/2023   | 6/6/2079     | 
+| Pazopanib HCl Tab 200 MG (Base Equiv)            | Votrient Tab 200MG       | 10/27/2023   | 6/6/2079     | 
 | Pimecrolimus Cream                                   | Elidel Cream                 | 12/31/2021   | 6/6/2079     |
 | Pitavastatin Calcium Tab                             | Livalo Tab                   |**11/10/2023**| 6/6/2079     |
 | Plerixafor Subcutaneous Inj                          | Mozobil Inj                  | 7/21/2023    | 6/6/2079     |
@@ -103,4 +103,4 @@
 | Tretinoin Microsphere Gel 0.08%                      | Retin-A Micro Pump 0.08%     | 9/8/2023     | 6/6/2079     |
 | Vilazodone HCl Tab                                   | Viibryd Tab                  | 6/10/2022    | 6/6/2079     |
 
-[Brand Over Generic List](https://mygainwell-my.sharepoint.com/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/EQN3Lg3oOx9JmNcfa-00qlcBExpPS7UvnxHbhpo60JrWPA?e=LVDR3B){:target="_blank" rel="noopener"}
+[Brand Over Generic List](https://mygainwell-my.sharepoint.com/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/EangItizmiJKpuXTRr9PJOIBeqCsvHoHDzbswRX-GUQtrQ?e=ejDjFS){:target="_blank" rel="noopener"}
