@@ -65,7 +65,7 @@ This is a subcategory of Cardiovascular Agents.
 | Fenofibric Acid DR <sup>QL</sup>                    | Choline Fenofibrate DR Cap (all strengths)          |            102            |            102            |
 | Fluvastatin                                         |                                                     |                           |                           |
 | Juxtapid                                            |                                                     |                           |                           |
-| Livalo                                              |                                                     |                           |                           |
+| Livalo<sup>BVG (==Process by NDC==) Weekly Updates</sup>                                               |                                                     |                           |                           |
 | Nexletol                                            |                                                     |                           |                           |
 | Nexlizet                                            |                                                     |                           |                           |
 | Niacin ER Tab <sup>QL</sup>                         | Niacin ER Tab (all strengths excl 200 MG)           |            204            |            102            |
