@@ -142,7 +142,7 @@ This is a subcategory of Cardiovascular Agents.
 | Camzyos                                                                               |              |          |             |
 | Candesartan                                                                           |              |          |             |
 | Candesartan/HCTZ                                                                      |              |          |             |
-| Carospir                                                                              |              |          |             |
+| Carospir<sup>BVG (==Process by NDC==) Weekly Updates</sup>                                                                               |              |          |             |
 | Carvedilol ER                                                                         |              |          |             |
 | Clonidine ER (generic of Nexiclon XR)                                                 |              |          |             |
 | Corlanor                                                                              |              |          |             |
