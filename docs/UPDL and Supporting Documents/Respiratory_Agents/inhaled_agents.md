@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 3
+  boost: 1
 ---
 
 # Inhaled Agents
