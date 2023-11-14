@@ -10,7 +10,7 @@ How far back can we look for relevant claims in a PA determination?
 - **NOW - we will review a member's profile and look at ==ALL== relevant claims, ^^not just limited to one year^^**
 
 
-# PA Re-authorization Lookback Period 10/31/23
+## PA Re-authorization Lookback Period 10/31/23
 
 Good morning, Team!
 
@@ -24,4 +24,13 @@ We also need to ensure that ==both technicians and pharmacists are looking for t
 Thank you, 
 
 Cassandra Roach, PharmD, RPh
+
+## Trials outside claims history lookback 7/5/2023
+
+If the member was not eligible with us at the time of trial dates listed on the PA (must have specific trial dates to confirm trial duration – cannot just say 2020), or are new to OH MCD, it is acceptable to approve based off of these trials. Please note specific trial dates on your internal notes.
+
+Thank you,
+
+Cassandra Roach, PharmD, RPh
+
 
