@@ -2,7 +2,7 @@
 
 ## PA Cancellation Training
 
-[PA Cancellation Training PowerPoint](https://mygainwell-my.sharepoint.com/:p:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ESGmK-LrE5FHjv02f6zeOKEBC_GLXngRR9rMgZzUPOtk3w?e=tdffOY)
+[PA Cancellation Training PowerPoint](https://mygainwell-my.sharepoint.com/:p:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EfPffVP_N1xOqkZ2xPfur94B391Amz0bMGUA4k3AoDcqZA?e=6A4gmA){:target="_blank" rel="noopener"}
 
 ![](<PA cancellation Cheat Sheet.png>)
 
