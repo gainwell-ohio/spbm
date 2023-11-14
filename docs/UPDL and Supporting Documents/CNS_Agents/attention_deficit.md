@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 3
+  boost: 1
 ---
 
 # Attention Deficit Hyperactivity Disorder Agents
