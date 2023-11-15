@@ -20,7 +20,11 @@ Cassandra Roach, PharmD, RPh
 
 Per discussion with Justin:
 
-==**Exclusions:**== (11/10/2023)
+## ==**Exclusions:**== (11/10/2023)
 
 - meds with QLs
-- Guidance for Synagis (based on weight) and Omnipod 
+- Guidance for Synagis (based on weight) and Omnipod
+
+[Friday 10:56 AM] Collingwood, Justin
+Everyone This seems to be a common question, quantity limits vs rounding up, quantity limits are king, we do not surpass these unless that is the focus of the PA. everything 7026 when it gets turned on, they put those in specifically to control qty. The rounding up, that is only for those that don't have qty limits, more for the continuous issues we have with immunomodulators and IV medications
+ 
