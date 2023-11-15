@@ -288,7 +288,7 @@ search:
 | Kymriah                  |
 | Kyprolis                 |
 | Lapatinib                |
-| Lenalidomide             |
+| Lenalidomide <sup>Brand Preferred</sup>              |
 | Lenvima                  |
 | Leuprolide Acetate       |
 | Leuprolide Depot         |
@@ -358,7 +358,7 @@ search:
 | Purixan                  |
 | Qinlock                  |
 | Retevmo                  |
-| Revlimid                 |
+| Revlimid <sup> BVG (==Process by NDC==) Weekly updates </sup>                |
 | Riabni                   |
 | Rituxan                  |
 | Rituxan Hycela           |
