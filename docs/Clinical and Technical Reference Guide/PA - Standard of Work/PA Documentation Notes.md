@@ -35,8 +35,8 @@ The Tech Templates will be used when working PA's in Vue360rx to organize a form
 
 **PA Claims Lookback Period Update**
 
-- We only need to document enough claims data to fulfill the criteria. We can go as far back as Vue360RX allows to get this information. However, once the criteria is met, nothing else is needed. 
-- For example: 
+- **We only need to document enough claims data to fulfill the criteria. We can go as far back as Vue360RX allows to get this information. However, once the criteria is met, no other claims information is needed.**
+- For example:
   - Criteria is "needs trials of at least 180 days for 3 preferred medications ".
     -  Only have to include enough claims to meet that. If the member has tried 4 preferred medications for 1 years each, we do not have to include all of those.
     -  Example Notes:
