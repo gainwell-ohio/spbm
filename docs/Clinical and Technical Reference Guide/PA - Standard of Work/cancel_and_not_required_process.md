@@ -6,7 +6,6 @@
 
 
 ### The ONLY Acceptable PA Cancellation Reasons are:
--**Reject Fax Templates are at the bottom of the page**
 | | | 
 | :--- | :--- |
 | PA Senario | Resolution |
