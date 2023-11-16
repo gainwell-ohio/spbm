@@ -33,6 +33,17 @@ The Tech Templates will be used when working PA's in Vue360rx to organize a form
 - If 2 trials of preferred medications are required you should add to your notes something like:
   - "2 pref drug trials for 90 days each met. Took Drug A 25 MG, 1 Tab daily #30 (1/1/2022 - 4/1/2022) and Drug B 30MG 1 tab daily #30 (5/1/2022 - 0/1/2022) per Vue360RX claims hx"
 
+**PA Claims Lookback Period Update**
+
+- We only need to document enough claims data to fulfill the criteria. We can go as far back as Vue360RX allows to get this information. However, once the criteria is met, nothing else is needed. 
+- For example: 
+  - Criteria is "needs trials of at least 180 days for 3 preferred medications ".
+    -  Only have to include enough claims to meet that. If the member has tried 4 preferred medications for 1 years each, we do not have to include all of those.
+    -  Example Notes:
+        - *Approved per paid claims data member meets criteria of trialing 3 preferred medications for at least 180 days each. Member trialed the following 3 preferred drugs: DRUG A 30MG 1tab per day 1/1/2020 - 4/1/2020, Drug B 45MG 1tab per day 4/1/2020 - 8/1/2020, Drug C 60MG 1tab per day 8/1/2020 - 12/1/2020.*
+        - *Sent to Med Review per paid claims data member does not meet criteria of trialing 3 preferred medications for at least 180 days each. Member trialed the following 2 preferred drugs: DRUG A 30MG 1tab per day 1/1/2020 - 4/1/2020, Drug B 45MG 1tab per day 4/1/2020 - 8/1/2020.*
+        - *Sent to Med Review per paid claims data member does not meet criteria of trialing 3 preferred medications for at least 180 days each. Member trialed the following 2 preferred drugs: DRUG A 30MG 1tab per day 1/1/2020 - 4/1/2020, Drug B 45MG 1tab per day 4/1/2020 - 8/1/2020. However, trialed Drug D 45MG 1tab per day 1/1/2021 - 4/1/2023. Drug D is not a preferred drug but can be used for the DX.*
+
 
 ## PA Questions Chat Template
 
