@@ -7,14 +7,14 @@
 
 ### The ONLY Acceptable PA Cancellation Reasons are:
 -**Reject Fax Templates are at the bottom of the page**
-| | | |
-| :--- | :--- |:--- |
-| PA Senario | Description | Resolution |
-|**EXACT duplicates** | PA with the same drug, same strength, same instructions and same requested dates | Follow proper cancellation procedure, using the "Duplicate Request" Fax Template |
-|**No Active Medicaid Eligibility on file** | Member has no active Medicaid eligibility in Vue360RX | Follow proper cancellation procedure, using the "Member not Eligible / Found" Fax Template |      
-|**Carve Out Medications** | Certain injectable drugs and biological products are carved out from Managed Care Entity (MCE) coverage | Follow proper cancellation procedure, using the "Carved Out Medications" Fax Template |     
-|**Provider not found in Vue360RX** | Provider cannot be found under the "provider tab" in Vue360RX. <ul><li>**This is different from Provider not active, see that resolution below under "Unacceptable PA Cancellation Reasons"** | Tech will make a call out to the provider and try to confirm provider name and NPI.  <ul><li>**ALL CALLS need to be documented with a Contact ID in Vue360RX** </li><li>If can confirm provider name and NPI: </li><ol><li>Proceed with decisioning PA. Note details from the call and also document the Contact ID the in PA notes.  <ul></ol><li>If unable to confirm provider name and NPI: </li><ol><li>Tech will cancel PA and fax back using the "provider not found" fax back template.|      
-| **Requested Medication not on the PA form** | PA form does not have the requested Medication on the form | Tech will make a call out to the provider and try to confirm medication requested. </li><li>**ALL CALLS need to be documented with a Contact ID in Vue360RX** </li><li>If can confirm medication requested: </li><ol><li>Proceed with decisioning PA. Note details from the call and also document the Contact ID the in PA notes. <ul></ol><li>If unable to confirm confirm medication requested: </li><ol><li>Tech will cancel PA and fax back using the "Missing Requested Medication" fax back template. | 
+| | | 
+| :--- | :--- |
+| PA Senario | Resolution |
+|**EXACT duplicates** <ul><li>PA with the same drug, same strength, same instructions and same requested dates | Follow proper cancellation procedure, using the "Duplicate Request" Fax Template |
+|**No Active Medicaid Eligibility on file** <ul><li>Member has no active Medicaid eligibility in Vue360RX | Follow proper cancellation procedure, using the "Member not Eligible / Found" Fax Template |      
+|**Carve Out Medications** <ul><li>Certain injectable drugs and biological products are carved out from Managed Care Entity (MCE) coverage | Follow proper cancellation procedure, using the "Carved Out Medications" Fax Template |     
+|**Provider not found in Vue360RX** <ul><li>Provider cannot be found under the "provider tab" in Vue360RX. <ul><li>**This is different from Provider not active, see that resolution below under "Unacceptable PA Cancellation Reasons"** | Tech will make a call out to the provider and try to confirm provider name and NPI.  <ul><li>**ALL CALLS need to be documented with a Contact ID in Vue360RX** </li><li>If can confirm provider name and NPI: </li><ol><li>Proceed with decisioning PA. Note details from the call and also document the Contact ID the in PA notes.  <ul></ol><li>If unable to confirm provider name and NPI: </li><ol><li>Tech will cancel PA and fax back using the "provider not found" fax back template.|      
+| **Requested Medication not on the PA form** <ul><li>PA form does not have the requested Medication on the form | Tech will make a call out to the provider and try to confirm medication requested. </li><li>**ALL CALLS need to be documented with a Contact ID in Vue360RX** </li><li>If can confirm medication requested: </li><ol><li>Proceed with decisioning PA. Note details from the call and also document the Contact ID the in PA notes. <ul></ol><li>If unable to confirm medication requested: </li><ol><li>Tech will cancel PA and fax back using the "Missing Requested Medication" fax back template. | 
 
 
 ### Unacceptable PA Cancellation Reasons are: 
