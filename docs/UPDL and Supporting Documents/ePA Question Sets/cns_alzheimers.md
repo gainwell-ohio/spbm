@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # CNS Agents - Alzheimer’s Agents
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EbMASqAdCc9PuoCDTFgXCC4BkM3iLH8gcXUYSKSRHHDkOg?e=aG4Uce){:target="_blank" rel="noopener}

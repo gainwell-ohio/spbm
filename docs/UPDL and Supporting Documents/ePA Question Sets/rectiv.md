@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Rectiv
 
 **anal fissure**

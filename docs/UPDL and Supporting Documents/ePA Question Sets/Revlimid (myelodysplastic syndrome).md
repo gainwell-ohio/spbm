@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Thalidomide Analogue - Revlimid (lenalidomide)
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Ecoqo5aUa7FOiVOdhoizqV4BXu9ZXSf3bau_bQ_rh2koww?e=lfzWZH){:target="_blank" rel="noopener}

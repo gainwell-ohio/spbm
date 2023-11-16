@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Thalomid
 
 **erythema nodosum leprosum**

@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Respiratory Agents - Epinephrine Auto-Injectors
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EUEs1DVWiJJOkUsNvptjd8QB669WV4dsLeAhZA9echNHJA?e=Di9Wih){:target="_blank" rel="noopener}

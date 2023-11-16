@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Dermatologic Agents - Topical Acne Products
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EcL9XdBTkbZIsNtnqHaw-SQBn4-VAy2OJv9J8ejqeRRd_A?e=vjdR81){:target="_blank" rel="noopener}

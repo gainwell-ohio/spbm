@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Ophthalmic Agents - NSAIDs 
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ERHEhJgZcDtMmoXkND_6g3EB8fod56J7t5X3taBd3_EG5A?e=ug1xcX){:target="_blank" rel="noopener}

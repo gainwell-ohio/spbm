@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Endocrine Agents - Androgens 
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EQJOAk-DZSNFt2SaSDn674EBBwgEiNmCkz5vVvNSPjleWQ?e=6rUZ0P){:target="_blank" rel="noopener}

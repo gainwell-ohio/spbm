@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # CV Agents - Angina, Hypertension & Heart Failure
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EfwXoAQKvXFAvoQIhumYl8gBDB5woy1UVH89Sim2vir4Pw?e=2AcXRl){:target="_blank" rel="noopener}

@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Panretin
 
 **sores caused by Kaposi sarcoma**

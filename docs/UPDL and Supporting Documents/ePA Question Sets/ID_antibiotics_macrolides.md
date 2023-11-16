@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Infectious Disease Agents - Antibiotics – Macrolides
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EWOKTsNKUJREr7wLKzHYx8oBjauzUqC6rie3_WMKuCfkkQ?e=78RQfa){:target="_blank" rel="noopener}

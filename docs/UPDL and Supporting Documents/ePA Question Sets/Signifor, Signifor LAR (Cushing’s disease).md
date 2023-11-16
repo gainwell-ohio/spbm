@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Signifor, Signifor LAR
 
 **Cushing's disease**

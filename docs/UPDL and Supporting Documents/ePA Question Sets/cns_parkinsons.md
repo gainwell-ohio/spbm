@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # CNS Agents - Parkinson's Agents 
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EQpw5bleywFAp8ty5TG08IkBz3gdk_3T9Hq0LoVwgMh-kw?e=OpnjW7){:target="_blank" rel="noopener}

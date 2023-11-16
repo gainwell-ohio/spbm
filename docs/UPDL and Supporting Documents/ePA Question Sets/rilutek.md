@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Rilutek
 
 **ALS**

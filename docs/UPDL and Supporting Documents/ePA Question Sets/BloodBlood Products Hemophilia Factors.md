@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia Factor
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EaCpyHHWeEZCvXs-asvG5EIBraGFNbT7eCTG0uEEYzJVaQ?e=Yzr2zv){:target="_blank" rel="noopener}

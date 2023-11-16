@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Ophthalmic Agents - Antibiotic and Antibiotic-Steroid Combination Drops and Ointments
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EVomQs59UhVKmCU_B1TjK30BhFDMO15yjw9aOR9MuuKNlw?e=bUqjUB){:target="_blank" rel="noopener}

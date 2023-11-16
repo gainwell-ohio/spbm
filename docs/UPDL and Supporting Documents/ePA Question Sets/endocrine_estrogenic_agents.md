@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Endocrine Agents - Estrogenic Agents
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ETUQyKX-iHZEomqgR9lojiEBEEphF4XaGjUNhiOD3lzjeQ?e=NWlUdW){:target="_blank" rel="noopener}

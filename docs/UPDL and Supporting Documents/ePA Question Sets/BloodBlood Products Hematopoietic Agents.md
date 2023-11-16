@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EZRvZm2uSsdHq1H_OgWBXJIB-UDk8WJTt3QyVZ1RVqOpoQ?e=y8NvVV){:target="_blank" rel="noopener}

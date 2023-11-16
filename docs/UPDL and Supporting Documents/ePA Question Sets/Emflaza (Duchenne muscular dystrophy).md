@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Emflaza
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EUzlSBkKRwtFko3GuqjuaUMBCFzcjz1AdtZnepAEFE5YZw?e=ogpzYW){:target="_blank" rel="noopener}

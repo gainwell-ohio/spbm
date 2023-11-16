@@ -1,4 +1,9 @@
-# Endocrine Agents - Endometriosis
+---
+search:
+  boost: .9
+---
+
+ # Endocrine Agents - Endometriosis
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EVyQREBNvtNIqbfZW4DxhvUB_f0ETegJHKh1OGjUGozwkg?e=O0hla3){:target="_blank" rel="noopener}
 

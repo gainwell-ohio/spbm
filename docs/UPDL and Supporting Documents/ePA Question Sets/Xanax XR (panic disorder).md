@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Long-acting Benzodiazepine - Xanax XR  
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EXakDKX9EZVBhegh2Fj8TbwBFqO_D7-2EY9HGtNetYUCTg?e=nKzom7){:target="_blank" rel="noopener}

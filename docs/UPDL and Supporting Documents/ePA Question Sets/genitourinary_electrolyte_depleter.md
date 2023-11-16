@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Genitourinary Agents - Electrolyte Depleter Agents
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EeDny_nJu6lBmRNc1pHk9HABMq9h3y2nNI7HQyWyTKgFfw?e=NJOp9o){:target="_blank" rel="noopener}

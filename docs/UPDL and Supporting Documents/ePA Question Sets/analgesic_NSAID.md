@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Analgesic Agents - NSAIDS
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EbxYvMyYk3xNpL9g9Lv5kT8BCs56iOgs4GAC3Dt_6kP-Uw?e=0486T2){:target="_blank" rel="noopener}
