@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Respiratory Agents - Leukotriene Receptor Modifiers & Inhibitors
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EZihVraycZFNpFGE6ri4QpEBCTTngm8bpYCFX8POSJZB7w?e=LFtby4){:target="_blank" rel="noopener}

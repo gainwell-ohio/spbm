@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Topical Agents - Corticosteroids
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EejFCOR9tehIr7B9Da9iI28B6bKrb8YBcq2Tm_FwBMXqBw?e=OfAnqa){:target="_blank" rel="noopener}

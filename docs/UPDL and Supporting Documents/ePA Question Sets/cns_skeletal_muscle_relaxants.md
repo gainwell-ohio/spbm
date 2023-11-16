@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # CNS Agents - Skeletal Muscle Relaxants, Non-Benzodiazepine 
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EZUx_artH41IjR5RCv3Jn_ABLwG_LEIerXD8TsD1wqZ0NA?e=uk5bgu){:target="_blank" rel="noopener}

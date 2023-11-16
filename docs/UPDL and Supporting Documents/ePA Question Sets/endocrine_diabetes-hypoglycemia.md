@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Endocrine Agents - Diabetes – Hypoglycemia Treatments
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EfElofHqkoxDjGZEwNeVu7EB8UAIJjyVeTPi9Kx6RkOKkA?e=VsIOrP){:target="_blank" rel="noopener}

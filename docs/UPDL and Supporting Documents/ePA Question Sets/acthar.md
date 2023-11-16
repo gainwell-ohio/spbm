@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Acthar
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EQj17UR4N21NjTDAYYblUiwBtrvnWt9VOOddwx8pqrh5Zg?e=JcJvYB){:target="_blank" rel="noopener}

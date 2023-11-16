@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Zavesca
 
 **Type 1 Gaucher disease**

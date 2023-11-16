@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Ophthalmic Agents - Glaucoma Agents
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EegcfrYb8j9OnE3NFstXRSIBxVvL2z3-Dg7mVNGuU6PLmQ?e=Ry1Zic){:target="_blank" rel="noopener}

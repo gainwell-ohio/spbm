@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Infectious Disease Agents - Antibiotics - Inhaled
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EcOSxDqAIy1BgMJXKpkRBpgBbr6FLSqwsiEOvmS_ECm2UA?e=vogUHx){:target="_blank" rel="noopener}

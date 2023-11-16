@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Infectious Disease Agents - Antivirals – HIV 
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EfQXBScfWulIhXgPmaEqpHwB8e51967UykrdYfStY3qIkQ?e=doh37f){:target="_blank" rel="noopener}

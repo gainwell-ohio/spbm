@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Endocrine Agents - Diabetes – Non-Insulin
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ERZFf5L5Pm9PuMVZLt1_oRcBmaYvEZk_YbBzDdpDKlP6Aw?e=FTExkT){:target="_blank" rel="noopener}

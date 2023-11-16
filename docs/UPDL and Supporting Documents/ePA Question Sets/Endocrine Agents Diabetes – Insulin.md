@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Endocrine Agents - Diabetes – Insulin  
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Eegn5MZ87JpKh02aVDpgnYgBYg9NnUo379OIV5bgGgjVjA?e=9MxIK5){:target="_blank" rel="noopener}

@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Ophthalmic Agents - Antihistamines & Mast Cell Stabilizers
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Eb5zwsbY_J9BqM2RRxKI88wB0SKD5kQGgm9VKmK-fi1F1Q?e=Y44Iid){:target="_blank" rel="noopener}

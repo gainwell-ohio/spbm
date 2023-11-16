@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Targretin Capsulesgel
 
 **cutaneous T-cell lymphoma**

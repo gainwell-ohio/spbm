@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Cerdelga
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Eb8-KJlPPZxJvxlsBkkcG8wBLj_WsiI_gjGqojofQyMmGQ?e=HpEtDB){:target="_blank" rel="noopener}

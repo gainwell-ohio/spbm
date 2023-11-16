@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Cardiovascular Agents- Pulmonary Arterial Hypertension
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EWb6PfEXN7tCtjDs_XmdU2kB3I2LXfe4NjHfv5xWfmgwSg?e=Uxf32J){:target="_blank" rel="noopener}

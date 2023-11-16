@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # CNS Agents - Sedative-Hypnotics, Non-Barbiturate 
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EXpT-OHNqKtEqk_1x3BrZsIBBxDRou1AcR6n4C1QjQEmnw?e=eZWEvy){:target="_blank" rel="noopener}

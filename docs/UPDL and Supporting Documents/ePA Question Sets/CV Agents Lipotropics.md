@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Cardiovascular Agents - Lipotropics 
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Eft4W6vo0BtPqrXOaTHmP-ABI8eGiD3JR00TQ2D6yga0Pw?e=XQ6VSc){:target="_blank" rel="noopener}

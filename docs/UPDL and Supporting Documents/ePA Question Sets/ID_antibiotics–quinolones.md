@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Infectious Disease Agents - Antibiotics – Quinolones
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EcHMRK4DSwtMoHmGHzqhTCABIif-VQUEa1aWzCgSZr7eew?e=9vJKah){:target="_blank" rel="noopener}

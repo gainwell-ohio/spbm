@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Zyvox
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ES_GTdaj94lLgn1r__MmGXUBtU-FQk7eMx3oLhWEV-bY-A?e=8ch2mL){:target="_blank" rel="noopener}

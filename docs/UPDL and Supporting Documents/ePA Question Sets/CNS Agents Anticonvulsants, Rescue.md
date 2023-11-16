@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Central Nervous System (CNS) Agents - Anticonvulsants Rescue   
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EfnsQj7ay-RFnGbTBytDwmYBz-41PcVR_1835F5GcjasLQ?e=y1kKQ1){:target="_blank" rel="noopener}

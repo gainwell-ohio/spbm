@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Stimate
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Edq6qd7aQMlMolG7W7eT1loB12CcmysVuZaLwcAms36-9g?e=d6bLg2){:target="_blank" rel="noopener}

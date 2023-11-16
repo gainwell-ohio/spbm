@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Korlym
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EetA-dWfYxdHqfYd-IRll80B4-Ro2HWy_yLUNThUfMe0aQ?e=y8vvoh){:target="_blank" rel="noopener}

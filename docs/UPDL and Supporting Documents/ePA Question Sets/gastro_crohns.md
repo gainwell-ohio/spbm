@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Gastrointestinal Agents - Crohn’s Disease
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EY-qzKBb979Lru2HTIPf8CgBRVX2naYkSzE9sJpepGFIkA?e=HetGRJ){:target="_blank" rel="noopener}

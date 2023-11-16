@@ -1,3 +1,8 @@
+---
+search:
+  boost: .9
+---
+
 # Infectious Disease Agents: Antibiotics – Tetracyclines 
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EeRyonnzoAtMi2TVAxfFwOIBi5paRmzoNKjUss_lxr0DHQ?e=bUOrIm){:target="_blank" rel="noopener}
