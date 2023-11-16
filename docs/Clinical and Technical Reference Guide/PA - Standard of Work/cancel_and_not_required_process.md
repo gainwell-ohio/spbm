@@ -4,18 +4,20 @@
 
 [PA Cancellation Training PowerPoint](https://mygainwell-my.sharepoint.com/:p:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EfPffVP_N1xOqkZ2xPfur94B391Amz0bMGUA4k3AoDcqZA?e=6A4gmA){:target="_blank" rel="noopener"}
 
-![](<PA cancellation Cheat Sheet.png>)
 
 ### The ONLY Acceptable PA Cancellation Reasons are:
+-**Reject Fax Templates are at the bottom of the page**
+| | | |
+| :--- | :--- |:--- |
+| PA Senario | Description | Resolution |
+|**EXACT duplicates** | PA with the same drug, same strength, same instructions and same requested dates | Follow proper cancellation procedure, using the "Duplicate Request" Fax Template |
+|**No Active Medicaid Eligibility on file** | Member has no active Medicaid eligibility in Vue360RX | Follow proper cancellation procedure, using the "Member not Eligible / Found" Fax Template |      
+|**Carve Out Medications** | Certain injectable drugs and biological products are carved out from Managed Care Entity (MCE) coverage | Follow proper cancellation procedure, using the "Carved Out Medications" Fax Template |     
+|**Provider not found in Vue360RX** | Provider cannot be found under the "provider tab" in Vue360RX. <ul><li>**This is different from Provider not active, see that resolution below under "Unacceptable PA Cancellation Reasons"** | Tech will make a call out to the provider and try to confirm provider name and NPI.  <ul><li>**ALL CALLS need to be documented with a Contact ID in Vue360RX** </li><li>If can confirm provider name and NPI: </li><ol><li>Proceed with decisioning PA. Note details from the call and also document the Contact ID the in PA notes.  <ul></ol><li>If unable to confirm provider name and NPI: </li><ol><li>Tech will cancel PA and fax back using the "provider not found" fax back template.|      
+| **Requested Medication not on the PA form** | PA form does not have the requested Medication on the form | Tech will make a call out to the provider and try to confirm medication requested. </li><li>**ALL CALLS need to be documented with a Contact ID in Vue360RX** </li><li>If can confirm medication requested: </li><ol><li>Proceed with decisioning PA. Note details from the call and also document the Contact ID the in PA notes. <ul></ol><li>If unable to confirm confirm medication requested: </li><ol><li>Tech will cancel PA and fax back using the "Missing Requested Medication" fax back template. | 
 
-- EXACT duplicates
-    - Same drug, same strength, same instructions and same requested dates
- - No Active Medicaid Eligibility on file
- - Carve Out Medications
- 
 
 ### Unacceptable PA Cancellation Reasons are: 
-
 | | |
 | :--- | :--- |
 | PA Senario | Resolution |
@@ -23,7 +25,7 @@
 | No Signature on PA form | Follow Signature procedure on Evergreen |
 | Incorrect form: ODM-approved Gainwell PA form | Decision PA based on information given following normal PA processes|
 | Incorrect form: Non ODM-approved Gainwell PA form |Decision PA based on information given following normal PA processes. For example, we will follow normal decisioning processes for all PA forms received. Even if Caresource, Molina or a PA form from another PBM|
-| Provider not active in Vue360RX | Decision using normal PA processes|
+| Provider is inactive in Vue360RX | Decision using normal PA processes|
 | Prior Authorization Not Required | Select "Not Required" PA status with appropriate notes |
 | Missing DX code on documentation | OK to decision if DX code ANYWHERE on submitted documentation. If no DX code on any of the submitted PA documentation, send to Med Review using appropriate template and notes |
 | Not a Pharmacy Benefit | Use Admin denial Template and sent to Med Review |
@@ -40,9 +42,10 @@
 | | |
 | :--- | :--- |
 | Member not Eligible / Found | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the member is ineligible or cannot be found. |
+| Provider Not Found | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the provider cannot be found. |
 | Duplicate Request | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but there is already an approved Prior Authorization on file for {Drug name and Strength} until {Term Date}. |
 | Carved Out Medications | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but is ineligible for review through Gainwell Technologies as certain covered injectable drugs and biological products are carved out from Managed Care Entity (MCE) coverage. These drugs are reimbursed as part of the Fee-for-Service (FFS) medical benefit for all FFS and MCE enrollees. Please visit https://medicaid.ohio.gov/stakeholders-and-partners/phm/carved-out-drugs for directions on submitting requests as well as forms for submission. | 
-
+| Missing Requested Medication | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the requested medication is missing from the PA form.|
 
 #### Reject Fax Template Word Document
 
