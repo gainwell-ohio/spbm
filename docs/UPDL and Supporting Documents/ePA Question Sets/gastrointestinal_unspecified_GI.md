@@ -1,6 +1,6 @@
 ---
 search:
-  boost: .9
+  boost: 1
 ---
 
 # Gastrointestinal Agents - Unspecified GI
