@@ -1,3 +1,8 @@
+---
+search:
+  boost: 3
+---
+
 # Narcolepsy
 
 This is a subcategory of Central Nervous System (CNS) Agents.
