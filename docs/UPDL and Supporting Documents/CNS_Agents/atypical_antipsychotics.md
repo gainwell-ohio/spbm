@@ -65,6 +65,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Risperidone <sup>QL</sup>       | Risperidone ODT (all strengths)                                      |            204            |            102            |
 | Saphris <sup>BvG ST ==(Process by NDC)==</sup>       |                                                                      |                           |                           |
 | Paliperidone Tab                |                                                                      |                           |                           |
+| Vraylar <sup>ST [**Vraylar for MDD Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/vraylar/?h=vray)</sup>                                                                                   |                                                            |          |             |
 | Ziprasidone <sup>QL</sup>       | Ziprasidone HCI Cap (all strengths)                                  |            68             |            34             |
 
 ### Non-Preferred
@@ -83,7 +84,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Rexulti                                                                                    |                                                            |          |             |
 | Secuado                                                                                    |                                                            |          |             |
 | Versacloz                                                                                  |                                                            |          |             |
-| Vraylar <sup>[**Vraylar for MDD Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/vraylar/?h=vray)</sup>                                                                                   |                                                            |          |             |
 | Zyprexa Relprevv <sup>QL</sup>                                                             | Olanzapine Pamoate ER Susp IM 210 MG (all formulations)    |    7     |     98      |
 | Zyprexa Relprevv <sup>QL</sup>                                                             | Olanzapine Pamoate ER Susp IM 300 MG (all formulations)    |    6     |     84      |
 | Zyprexa Relprevv <sup>QL</sup>                                                             | Olanzapine Pamoate ER Susp IM 405 MG (all formulations)    |    3     |     84      |
