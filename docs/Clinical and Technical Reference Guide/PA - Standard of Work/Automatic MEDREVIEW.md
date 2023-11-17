@@ -32,9 +32,7 @@ search:
 - Aranesp  
 - Arikayce  
 - Austedo  
-- Benefix  
-- Bethkis  
-- Bosentan  
+- Benefix    
 - Bronchitol  
 - ALL Buprenorphine/Subutex 
 - Carnitor (levocarnitine)  
@@ -54,10 +52,8 @@ search:
 - Eloctate  
 - Emflaza  
 - Emgality  
-- Enbrel    
-- Epidiolex  
-- Epogen  
-- Epoprostenol  
+- Enbrel      
+- Epogen   
 - Esperoct  
 - Evrysdi  
 - Exondys 51  
@@ -82,8 +78,7 @@ search:
 - Kalydeco
 - Kerendia
 - Kevzara
-- Kineret
-- Kitabis  
+- Kineret  
 - Koate  
 - Kogenate FS  
 - Korlym  
@@ -131,8 +126,7 @@ search:
 - Releuko  
 - Relistor  
 - Repatha  
-- Retacrit  
-- Revlimid  
+- Retacrit    
 - Ribavirin  
 - Rilutek  
 - Rinvoq  
@@ -156,26 +150,18 @@ search:
 - Symdeko  
 - Symproic  
 - Symtuza  
-- Synagis  
-- Tadalafil  
+- Synagis    
 - Taltz
 - Targretin  
 - Tekturna, Tekturna/HCT  
 - Tezspire  
 - Thalomid  
-- Tobi Podhaler  
-- Tobramycin (inhaled)  
-- Tracleer (tablet and suspension)  
 - Tremfya  
-- Treprostinil  
 - Trikafta  
 - Triumeq PD  
-- Tymlos  
-- Tyvaso  
-- Udenyca  
-- Uptravi  
-- V-Go  
-- Ventavis  
+- Tymlos   
+- Udenyca   
+- V-Go   
 - Verquvo  
 - Viltepso  
 - Vosevi  
