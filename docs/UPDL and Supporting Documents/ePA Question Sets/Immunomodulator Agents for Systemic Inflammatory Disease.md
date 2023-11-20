@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Ec458Le0AM5Gk6ORoP5aSRIBs-QSmKksE4fPAeeOkeqKVg?e=Vdgu2G){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+ 
 |||
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Criteria 1 | Preferred with PA- Adbry, Enbrel, Humira, Kineret, Otezla, Xeljanz IR                                                                                                                |
