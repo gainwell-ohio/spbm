@@ -8,7 +8,7 @@ search:
 
 [Peer to Peer Pharmacist Training 10/20/23](https://mygainwell-my.sharepoint.com.mcas.ms/personal/justin_collingwood_gainwelltechnologies_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjustin%5Fcollingwood%5Fgainwelltechnologies%5Fcom%2FDocuments%2FRecordings%2FP2P%20Training%2D20231020%5F140158%2DMeeting%20Recording%2Emp4&referrer=Teams%2ETEAMS%2DELECTRON&referrerScenario=RecapOpenInStreamButton%2Eview%2Eview&ga=1){:target="_blank" rel="noopener"}
 
-[Peer to Peer Pharmacist Guide](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/ESAmIxU2DitGrt88p3v8lbsBcs7BeYQGO1qmYyotQHRSHg?e=IMs3OK){:target="_blank" rel="noopener"}
+[Peer to Peer Pharmacist Guide 11/20/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EddEc3oT_eRHq6Uy-0IwrEsBlY8E7PLpIW5l19CzV-6slQ?e=ZDqeju){:target="_blank" rel="noopener"}
 
 [Peer to Peer Powerpoint](https://mygainwell-my.sharepoint.com/:p:/g/personal/christopher_nguyen_gainwelltechnologies_com/ESZ4zrSAY11HhMSkiCNJ71ABmN7ouBU3dbNWfB_TvSLLSg?e=l5panH){:target="_blank" rel="noopener"}
 
@@ -25,6 +25,8 @@ search:
 |	PA # : |
 |	Member ID: |
 |	Drug Name: |
+| CNTT: |
+| Denial Rationale: |
 |	Callback Dates and Times: |
 
 
