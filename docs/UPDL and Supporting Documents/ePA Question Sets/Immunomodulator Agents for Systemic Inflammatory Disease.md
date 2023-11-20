@@ -15,6 +15,7 @@ search:
 | Criteria 2 | Preferred with ST- Taltz                                                                                                                                                             |
 | Criteria 3 | Non-Preferred- Actemra, Amjevita, Cibinqo, Cimzia, Cosentyx, Ilumya, Kevzara, Olumiant, Orencia, Rinvoq, Siliq, Simponi, Skyrizi, Sotyktu, Stelara, Tremfya, Xeljanz Sol, Xeljanz XR |
 | Criteria 4 | Dupixent PA                                                                                                                                                                          |
+{ data-search-exclude }
 
 <table>
 <thead>
