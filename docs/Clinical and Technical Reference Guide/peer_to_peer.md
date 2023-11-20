@@ -5,8 +5,6 @@ search:
 
 # Peer to Peer Tech Guide
 
-[Peer to Peer Process Step-by-Step Guide](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EdOCvW0ZJv5LiGY6xSOnUYkB3XIrXQ3ISJ_e_pd4Pz4yiA?e=pB6VTy){:target="_blank" rel="noopener"}
-
 ^^Technician Guide^^
 
 ==Caller states they would like to perform a peer to peer.==
@@ -15,13 +13,17 @@ search:
 2.	Pull up the denied PA and verify the PA the caller requesting the Peer to Peer on. (Proceed to #3)
 3.	Using the Peer-to-Peer template (below), place the request in the Peer-to-Peer chat. (Proceed to #4)
 
-    **Peer to Peer template**
-  	
-    - Contact name and job title:
-    - Contact phone number:
-    - PA number:
-    - Member ID:
-    - Drug Name:
+| Peer to Peer |
+| -------------- |
+| Contact name and job title: |
+|	Contact phone #: |
+|	PA # : |
+|	Member ID: |
+|	Drug Name: |
+| CNTT: |
+| Denial Rationale: |
+|	Callback Dates and Times: **Now** |
+
 
 5. The Pharmacist will emoji the request in chat. This indicates that the Pharmacist has acknowledged the request and is pulling up the information for the PA (Proceed to #5)
 6.	Pharmacist will state in the Peer to Peer chat that they are ready for the warm transfer of the call. (Proceed to #6)
@@ -33,14 +35,16 @@ In the event ==the caller indicates they would like a scheduled call back== with
 2.	Pull up the denied PA and verify the PA they are requesting the Peer to Peer on. (Proceed to #3)
 3.	Using the Callback template, place the request in the Peer to Peer chat. (Proceed to #4)
 
-    **Callback Template**
-  	
-    - Contact name and job title:
-    - Contact phone number:
-    - PA number:
-    - Member ID:
-    - Drug Name:
-    - Dates and Times for callback:
+| Scheduling a Peer to Peer |
+| -------------- |
+| Contact name and job title: |
+|	Contact phone #: |
+|	PA # : |
+|	Member ID: |
+|	Drug Name: |
+| CNTT: |
+| Denial Rationale: |
+|	Callback Dates and Times: |
 
 5.	Advise the caller they will receive a call back during the requested time. (End of process)
 
@@ -49,3 +53,4 @@ In the event ==the caller indicates they would like a scheduled call back== with
 | Version | Author | Revision Date |
 | :--- | :--- | :--- |
 | 1.0 | Cassandra Roach, PharmD, RPh | 10/11/2023 |
+| 2.0 | Justin Collingwood, PharmD, rph | 11/20/2023 |
