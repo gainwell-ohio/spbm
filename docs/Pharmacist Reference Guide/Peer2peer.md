@@ -78,6 +78,139 @@ Send an encrypted email to the Medical Director (Dr. James Wood)  at james.wood@
 
 Once the Medical Director has performed the outreach, please document the date/time this was performed as well as the decision/any pertinent information under the “Medical Director” tab.
 
+# Peer to Peer Process Step-by-Step Guide
+
+The Pharmacist Peer to Peer team is in operation from 8am to 8pm Monday through Friday, mimicking the clinical help desk. Any calls after hours or on weekends may need to be scheduled during regular business hours, and can not guarantee anyone will be available to take the call immediately.
+
+Pharmacist Guide
+
+Request received in Peer-to-Peer chat from Technician taking the call.
+
+1.	Technician will post the following template in the peer to peer chat for pharmacists:
+
+Scheduling a Peer to Peer: 
+- Contact name and job title:
+- Contact phone #:
+- PA #:
+- Member ID:
+- Drug Name:
+- CNTT:
+- Denial Rationale:
+- Callback Dates and Times:
+
+2.	Pharmacist assigned/scheduled to Peer-to-Peer chat will emoji the chat question (Proceed to #2). 
+
+a.	In the instance another peer to peer is placed in chat while the Pharmacist is working the original peer to peer, it is the responsibility of the additional Pharmacists assigned to this chat to immediately triage the request.
+
+3.	Pharmacist scheduled in Peer-to-Peer chat will pull up the denied PA and quickly review BOTH the internal notes AND the denial letter (in the PA docs section). This process should occur in a timely fashion (120 seconds or less) as to not keep the caller on hold. (Proceed to #3)
+
+4.	Pharmacist assigned to Peer to Peer chat will advise the Technician in the Peer to Peer chat to warm transfer the call. (Proceed to #4)
+
+5.	Pharmacist will gather additional information from the caller to make a determination 
+-	fax number for caller
+-	Additional information to render a decision
+(Proceed to #5)
+
+6.	Once all the information is gathered, a determination will be given to the caller. (Proceed to #6)
+
+7.	If additional information allows for the PA to be overturned (Proceed to #7) 
+
+-OR- 
+
+If additional information is still not sufficient, and the PA is upheld (Proceed to #8)
+
+8.	Overturning the original denial: 
+
+a.	A new PA will need to be loaded and approved with a received date and time of the interaction with the caller. 
+
+DETAILED internal notes for the PA must include:
+-	Original PA number that was denied
+-	Additional information provided by caller to allow for approval.
+-	Criteria reviewed to make the determination.
+-	Contact information for the caller (Caller name, title, callback phone number and fax number)
+-	Any additional pertinent information to support overturning the case
+-	Contact ID for the call (provided in Peer to Peer template from technician)
+
+b.	Peer to Peer information MUST be placed on tracker.
+(End of Process)
+
+9.	Upholding the original denial:
+
+a.	An internal note will be placed on the originally denied PA. Internal notes for the PA must include: 
+-	Additional information provided by caller.
+-	Contact information for the caller (Caller name, title, callback phone number and fax number).
+-	Reason why the decision is upheld.
+-	Documentation of outbound call (date, time, name/title of contact) regarding determination.
+-	Contact ID for the call (provided in Peer to Peer template from technician)
+
+b.	Peer to Peer information must be placed on tracker. (End of process – unless caller requests to speak to the Medical Director OR if the caller would like a call back)
+
+10.	If the caller requests to speak to the Medical Director, please advise that the Medical Director will call during the dates/times of availability given by the caller. Gather dates of availability for the caller for the next 3 business days. (Proceed to #10)
+
+11.	Gather the following information from the caller:
+-	Date and times available for callback (availability for next 3 business days)
+-	Name and title of the contact
+-	Callback number for the contact 
+
+(Proceed to #11)
+
+12.	Review the case, and if not able to approve with any additional information provided, then continue to 13 to send to medical director, if able to approve please do so and contact the prescriber by phone call and enter the PA and edit overrides allowing for successful claims.
+
+13.	Send an encrypted email to the Medical Director (James Wood) james.wood@gainwelltechnologies.com  and CC: Justin Collingwood, Brian Moore and Sherri Cohmer. 
+
+a.	Title of email: MEDICAL DIRECTOR REQUIRED – P2P Reconsideration Discussion Requested on [Date the caller initiated the request MM/DD/YEAR]
+
+b.	In the body of the email:
+
+i.	Attach the Peer to Peer template from #10
+
+ii.	Member Name, ID and DOB
+
+iii.	PA number in question (including drug name, strength, and frequency)
+
+iv.	Attach the original PA fax request. 
+
+v.	Internal notes for the initial denial (screenshot is okay)
+
+vi.	Internal notes for the upheld decision (if applicable)
+
+vii.	Attach the Denial letter from the original PA request. 
+
+viii.	Criteria used to make the determination (including preferred medication alternatives). 
+- Recommended to provide screenshots of the preferred medications (if applicable) as well as all criteria for specific drug category. 
+
+ix.	Any additional pertinent information for the case.
+
+c.	Flag the email as High Importance.
+
+d.	Request a Read Receipt. 
+
+e.	Complete all fields on Peer-to-Peer tracker under “Medical Director” tab.
+
+14.	Once the Medical Director has performed the outreach, please document the date/time this was performed as well as the decision/any pertinent information under the “Medical Director” tab.
+(End of Process)
+
+15.	If the caller indicates that they would like to perform a Peer-to-Peer with the Pharmacist but would like a scheduled callback and/or the call comes in after the hours of 8am-8pm, the technician will fill out the following information and post to Peer to Peer chat. (Proceed to #13)
+
+16.	The Pharmacist scheduled in chat at the time the request is posted will emoji the request. This indicates that the Pharmacist will be performing the callback at the scheduled time. (Proceed to #14)
+
+17.	The pharmacist scheduled in chat will place in shared calendar, where it will be denoted they can perform it. If not, they will post in P2P pharmacist chat to find someone who can complete it on the date immediately. A pharmacist who is able to complete it will denote in the calendar and complete.
+
+18.	During the requested time, the Pharmacist will provide an outbound call to the contact to perform the Peer to Peer. 
+
+a.	A contact ID will need to be generated for tracking purposes. Please ensure the contact ID is placed in the internal notes section of the Peer to Peer.  (Proceed to #4) 
+
+19.	If there is no answer to the number called, the pharmacist will attempt 2 more times spaced at least 10 minutes apart but no more than 1 hour apart. This will be a maximum of 3 total calls in the maximum time of 3 hours. Each attempt will be documented on tracker and in PA notes in Vue, and failure for prescriber to answer calls will result in a live peer to peer or appeal.
+
+20.	Any request for excluded benefits that come through the Peer to Peer chat should have the technician inform the prescriber of the situation then the pharmacist that a situation is either billed through medical or not payable though SPBM. In these cases the nature of verbal information collection will not be enough to achieve an approval. The prescriber or prescriber’s representative will be informed of the situation whatever it may be from the pharmacist, and they will offer grievance and appeals options listed below and end the conversation quickly and professionally.
+
+Gainwell Technologies Grievance and Appeals Prior authorization appeals 
+OH_MCD_PBM_GA@gainwelltechnologies.com 
+Fax: 1-833-616-4658 Monday – Friday 8 am – 5 pm (ET)
+
+
+
+
 ## Denial Letter and Appeals information
 
 [Denial Letter Template](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/EQJcnSBOextNrB1p59rxm4kBUt5-iDUybhyCDy-Q-fqDHg?e=h4CuNQ){:target="_blank" rel="noopener"}
