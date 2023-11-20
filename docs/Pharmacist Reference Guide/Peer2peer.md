@@ -89,6 +89,7 @@ Request received in Peer-to-Peer chat from Technician taking the call.
 1.	Technician will post the following template in the peer to peer chat for pharmacists:
 
 Scheduling a Peer to Peer: 
+
 - Contact name and job title:
 - Contact phone #:
 - PA #:
@@ -106,7 +107,8 @@ a.	In the instance another peer to peer is placed in chat while the Pharmacist i
 
 4.	Pharmacist assigned to Peer to Peer chat will advise the Technician in the Peer to Peer chat to warm transfer the call. (Proceed to #4)
 
-5.	Pharmacist will gather additional information from the caller to make a determination 
+5.	Pharmacist will gather additional information from the caller to make a determination
+   
 -	fax number for caller
 -	Additional information to render a decision
 (Proceed to #5)
@@ -124,6 +126,7 @@ If additional information is still not sufficient, and the PA is upheld (Proceed
 a.	A new PA will need to be loaded and approved with a received date and time of the interaction with the caller. 
 
 DETAILED internal notes for the PA must include:
+
 -	Original PA number that was denied
 -	Additional information provided by caller to allow for approval.
 -	Criteria reviewed to make the determination.
@@ -137,6 +140,7 @@ b.	Peer to Peer information MUST be placed on tracker.
 9.	Upholding the original denial:
 
 a.	An internal note will be placed on the originally denied PA. Internal notes for the PA must include: 
+
 -	Additional information provided by caller.
 -	Contact information for the caller (Caller name, title, callback phone number and fax number).
 -	Reason why the decision is upheld.
@@ -148,6 +152,7 @@ b.	Peer to Peer information must be placed on tracker. (End of process – unles
 10.	If the caller requests to speak to the Medical Director, please advise that the Medical Director will call during the dates/times of availability given by the caller. Gather dates of availability for the caller for the next 3 business days. (Proceed to #10)
 
 11.	Gather the following information from the caller:
+    
 -	Date and times available for callback (availability for next 3 business days)
 -	Name and title of the contact
 -	Callback number for the contact 
@@ -177,6 +182,7 @@ vi.	Internal notes for the upheld decision (if applicable)
 vii.	Attach the Denial letter from the original PA request. 
 
 viii.	Criteria used to make the determination (including preferred medication alternatives). 
+
 - Recommended to provide screenshots of the preferred medications (if applicable) as well as all criteria for specific drug category. 
 
 ix.	Any additional pertinent information for the case.
