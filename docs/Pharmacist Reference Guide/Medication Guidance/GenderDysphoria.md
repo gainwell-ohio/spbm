@@ -46,6 +46,14 @@ ongoing safety monitoring
 
 ![Alt text](gender_dysphoria_1.png)
 
+
+
+WPATH and the other Endocrine Guidelines recommend in order for adolescents to get GnRH: 
+ 
+![alt test](pedswpath.PNG)
+
+
+
 ## Preferred vs Nonpreferred Evaluation 8/26/23
 
 [Weekly Email 8/26/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EYnhUkLLPZVNt_4Yjl3mhZcBWApd5ZTU7TyrmNfHNgsyIQ?e=k57DKt){:target="_blank" rel="noopener"}
