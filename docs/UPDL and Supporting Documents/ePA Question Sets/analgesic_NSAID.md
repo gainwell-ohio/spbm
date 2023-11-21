@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EbxYvMyYk3xNpL9g9Lv5kT8BCs56iOgs4GAC3Dt_6kP-Uw?e=0486T2){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |||
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Criteria 1 | NP - Diclofenac/Misoprostol, Diclofenac Gel 3%, Diclofenac Patch 1.3%, Diclotrex, Elyxyb, Fenoprofen 400mg, Ibuprofen/Famotidine, Ketorolac Tromethamine Nasal Spray, Ketoprofen, Licart Patch, Meloxicam Cap, Naproxen CR, Naproxen DR, Naproxen ER, Naproxen EC, Naproxen/Esomeprazole, Qmiiz ODT, Relafen DS, Zorvolex |

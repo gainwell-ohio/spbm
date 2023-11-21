@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EfnsQj7ay-RFnGbTBytDwmYBz-41PcVR_1835F5GcjasLQ?e=y1kKQ1){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |            |                                   |
 | ---------- | --------------------------------- |
 | Criteria 1 | Nayzilam (P, AR), Valtoco (P, AR) |

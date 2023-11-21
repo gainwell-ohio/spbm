@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EaCpyHHWeEZCvXs-asvG5EIBraGFNbT7eCTG0uEEYzJVaQ?e=Yzr2zv){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |||
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Criteria 1 | Non-Preferred Agents- Altuviiio, Jivi, Nuwiq, Obizur, Rebinyn, Sevenfact, Vonvendi                                                                                                                                                                                                                                  |

@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EZUx_artH41IjR5RCv3Jn_ABLwG_LEIerXD8TsD1wqZ0NA?e=uk5bgu){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |||
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Criteria 1 | NP Criteria- Chlorzoxazone 375, Chlorzoxazone 750mg, Cyclobenzaprine 7.5mg, Cyclobenzaprine ER, Lyvispah, Metaxalone, Orphenadrine, Tizanidine Cap |

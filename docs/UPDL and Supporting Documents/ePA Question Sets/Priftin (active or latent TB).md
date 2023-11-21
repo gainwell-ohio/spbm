@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EUySebTzCgxFr1MCeEqyCdUBrRkgitHZkQjmjLDpNa7wDw?e=XGgPEs){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 **active or latent TB**
 
 <table>

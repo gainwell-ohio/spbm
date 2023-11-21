@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EQJOAk-DZSNFt2SaSDn674EBBwgEiNmCkz5vVvNSPjleWQ?e=6rUZ0P){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |||
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Criteria 1 | NP Agents – Jatenzo (AR), Methyltestosterone (AR), Natesto (AR), Testopel (AR), Testosterone Cypionate (AR), Testosterone Gel 1.62%, 2% (AR), Testosterone Sol 30mg/ACT (AR), Tlando (AR), Xyosted (AR) |

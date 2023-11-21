@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EfWn6aIsBylHsa3otKiVyncBMXnf26t5IO2jopTMi1OI-A?e=zeyWfC){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |||
 | ---------- | -------------------------------------------- |
 | Criteria 1 | Preferred Agents – Fasenra (PA), Xolair (PA) |

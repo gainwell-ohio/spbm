@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ESo6oFMsephDnL0_K4hOwkABYWoAaP8vxEkda8a1-4F1jg?e=EbdGjU){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |||
 | :--- | :--- |
 |Criteria 1 |	NP- Neupro  NP for both Parkinson’s and RLS|

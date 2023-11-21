@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:f:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Eo_FfDB4rmpCs7foJlG_7tgByql46mMFl-Cj4IMrRz978g?e=l4YaK5){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |            |                                  |
 | ---------- | -------------------------------- |
 | Criteria 1 | NP Criteria- Yosprala, Zontivity |

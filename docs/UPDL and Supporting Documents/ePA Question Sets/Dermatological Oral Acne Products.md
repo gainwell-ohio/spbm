@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Edpg-Td84zhNpCtyvy5SThUBG_ON7ynRnKWfnEa2EXXqNw?e=s8rq1V){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |||
 | ---------- | ---------------------------------------------------------------------------------- |
 | Criteria 1 | P agents with PA (Accutane, Amnesteem, Claravis, Isotretinoin, Myorisan, Zenatane) |

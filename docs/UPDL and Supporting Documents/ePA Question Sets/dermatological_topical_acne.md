@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EcL9XdBTkbZIsNtnqHaw-SQBn4-VAy2OJv9J8ejqeRRd_A?e=vjdR81){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |||
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Criteria 1 | NP- Amzeeq, Azelaic Acid Gel, Benzoyl Peroxide Foam, Clindacin Kit, Clindamycin Foam, Clindamycin Swabs, Dapsone Gel, Epsolay, Finacea Foam, Onexton Gel, Ovace Plus, Sodium Sulfacetamide/Sulfur Gel, Sodium Sulfacetamide Pads, Winlevi |
