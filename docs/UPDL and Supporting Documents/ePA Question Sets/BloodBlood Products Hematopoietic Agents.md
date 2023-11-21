@@ -14,7 +14,7 @@ search:
 | Criteria 1 | Preferred Agents- Epogen (PA), Mircera (PA), Retacrit (PA) |
 | Criteria 2 | Non-Preferred Agents- Procrit                              |
 | Criteria 3 | Non-Preferred Agents- Aranesp                              |
-
+{ data-search-exclude }
    
 
 <table>
