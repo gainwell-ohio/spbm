@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EfElofHqkoxDjGZEwNeVu7EB8UAIJjyVeTPi9Kx6RkOKkA?e=VsIOrP){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |            |                                                        |
 | ---------- | ------------------------------------------------------ |
 | Criteria 1 | Glucagon Emerg Kit [Labeler 00548 & 63323]- (NP, QL)   |

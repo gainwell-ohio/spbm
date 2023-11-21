@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EQ7f1pz6Ad9BgKsWAd76Xk4B7VlBnb1YClARWUtjqIyb2Q?e=DKs7Cm){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 \*\*Emgality is also in 1a- CNS Agents: Anti-Migraine Agents,
 Prophylaxis
 

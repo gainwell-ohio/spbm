@@ -9,6 +9,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EcnAcCBVoy1Iku2Q5SiU_-MBZDfnPFFwCHe-0IIUg53qTA?e=SFpiem){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 <table>
 <thead>
 <tr class="header">

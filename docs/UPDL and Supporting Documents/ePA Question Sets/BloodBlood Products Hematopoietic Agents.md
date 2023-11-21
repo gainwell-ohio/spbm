@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EZRvZm2uSsdHq1H_OgWBXJIB-UDk8WJTt3QyVZ1RVqOpoQ?e=y8NvVV){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |||
 | ---------- | ---------------------------------------------------------- |
 | Criteria 1 | Preferred Agents- Epogen (PA), Mircera (PA), Retacrit (PA) |

@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Eb8-KJlPPZxJvxlsBkkcG8wBLj_WsiI_gjGqojofQyMmGQ?e=HpEtDB){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 **Type 1 Gaucher disease**
 
 <table>

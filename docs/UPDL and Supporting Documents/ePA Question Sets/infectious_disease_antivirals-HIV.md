@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EfQXBScfWulIhXgPmaEqpHwB8e51967UykrdYfStY3qIkQ?e=doh37f){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |||
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Criteria 1 | NP - Abacavir Susp, Abacavir/Lamivudine/Zidovudine, Aptivus, Didanosine, Edurant, Fosamprenavir, Fuzeon, Lamivudine Tab, Lamivudine/Zidovudine, Nevirapine IR, Nevirapine ER Tab, Norvir Powder, Norvir Sol, Stavudine, Stribild, Tybost, Viracept |

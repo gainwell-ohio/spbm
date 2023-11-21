@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EUEv_SmQxlNGjmQGIFzV86UBvXcTqNXFz_QK5kDadiw05A?e=X5Sd7h){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 <table>
 <tbody>
 <tr class="odd">

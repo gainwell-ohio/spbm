@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/Ecw-MjK0UThFvd3S4EG7QgwBSsT14KakXAR-TWZ4Qu-Asg?e=wcJz3F){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 **spinal muscular atrophy**
 
 <table>

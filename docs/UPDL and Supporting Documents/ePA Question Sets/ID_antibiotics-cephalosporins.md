@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EazFAkg70Q5Jr7XEPlffVegBmlpXf4SIUAUh76XeTN9FTA?e=mR46GY){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |||
 | ---------- | ----------------------------------------------- |
 | Criteria 1 | NP- Cephalexin 750mg, Cefpodoxime, Cefixime Cap |

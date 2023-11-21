@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/ESsLCjnRyK1CpW82mdhBIYYBuDqngIVzUUBT9yzWgNt4jA?e=zGr9YZ){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |||
 | ---------- | --------------------------------------- |
 | Criteria 1 | Austedo (P, PA, ST)                     |

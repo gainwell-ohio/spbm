@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EcOSxDqAIy1BgMJXKpkRBpgBbr6FLSqwsiEOvmS_ECm2UA?e=vogUHx){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |||
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Criteria 1 | Non-Preferred: Arikayce (NP), Bethkis (NP, QL), Cayston (NP), Kitabis Pak (NP, QL), Tobi Podhaler (NP, QL) |

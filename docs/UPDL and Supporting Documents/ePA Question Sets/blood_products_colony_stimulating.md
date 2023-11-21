@@ -7,6 +7,8 @@ search:
 
 [Criteria Document](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EXHUWD4f8wJMqRKQs62HFlIBbT-tGDCFQ6zplb45vatEtw?e=crzYrA){:target="_blank" rel="noopener}
 
+## Criteria { data-search-exclude }
+
 |||
 | ---------- | ------------------------------------------------------------------------------------------------------------------- |
 | Criteria 1 | Preferred Agents- Neupogen (PA), Nivestym (PA), Nyvepria (PA), Ziextenzo (PA)                                       |
