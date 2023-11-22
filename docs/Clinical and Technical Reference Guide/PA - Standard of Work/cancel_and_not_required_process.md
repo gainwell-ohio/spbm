@@ -5,7 +5,7 @@
 [PA Cancellation Training PowerPoint](https://mygainwell-my.sharepoint.com/:p:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EfPffVP_N1xOqkZ2xPfur94B391Amz0bMGUA4k3AoDcqZA?e=6A4gmA){:target="_blank" rel="noopener"}
 
 
-### The ONLY Acceptable PA Cancellation Reasons are:
+### Acceptable PA Cancellation Reasons are:
 | | | 
 | :--- | :--- |
 | PA Senario | Resolution |
@@ -28,7 +28,17 @@
 | Prior Authorization Not Required | Select "Not Required" PA status with appropriate notes |
 | Missing DX code on documentation | OK to decision if DX code ANYWHERE on submitted documentation. If no DX code on any of the submitted PA documentation, send to Med Review using appropriate template and notes |
 | Not a Pharmacy Benefit | Use Admin denial Template and sent to Med Review |
-| Wrong Medicaid ID | Follow the below steps <ul><li>If the incorrect Member ID is on the PA form but you can find the correct Member ID in the clinical documentation </li><ol><li>Notate where correct Member ID was found and decision PA using normal procedures. <ul></ol><li>If the incorrect Member ID is on the PA form and you CANNOT find the correct Member ID in the clinical documentation </li><ol><li>If the member name, DOB and provider claims match - OK to notate and decision PA using normal procedures. </li><ol></ol><li>If the member name, DOB and provider claims DO NOT MATCH - CANCEL using below Reject Fax Template "Member not Eligible/ Found" | 
+
+
+### PAs that could be cancelled if following the procedures below before cancelling:
+| | |
+| :--- | :--- |
+| PA Senario | Resolution |
+|Wrong Medicaid ID | Follow the below steps <ul><li>If the incorrect Member ID is on the PA form but you can find the correct Member ID in the clinical documentation </li><ol><li>Notate where correct Member ID was found and decision PA using normal procedures. <ul></ol><li>If the incorrect Member ID is on the PA form and you CANNOT find the correct Member ID in the clinical documentation </li><ol><li>If the member name, DOB and provider claims match - OK to notate and decision PA using normal procedures. </li><ol></ol><li>If the member name, DOB and provider claims DO NOT MATCH - CANCEL using below Reject Fax Template "Member not Found" |
+| Member not Found in Vue360RX | Follow the below steps <ul><li>If you can match the Name, Date of Birth and there are claims from that provider on the member's profile  </li><ol><li>Decision the PA using normal PA proceeses. <ul></ol><li>If you cannot match the member to a member in Vue360RX- CANCEL using below Reject Fax Template "Member not Found". |
+| PA linked to wrong member profile  | Follow the below steps <ul><li>If you can match the Name, Date of Birth and there are claims from that provider on the member's profile  </li><ol><li>Create a new PA and attach the PA document under the correct member and put the PA in "pending" status. Add a note on the new PA that you cancelled the previous auth (include auth #) and created this new auth. </li><ol></ol><li>Cancel the PA that was linked to the incorrect member, Add a note on the cancelled PA that the member was incorrect, and you created a new PA under the correct member (include new auth#).  <ul></ol><li>If you cannot match the member to a member in Vue360RX- CANCEL using below Reject Fax Template "Member not Found". |
+|No PA documents attached | **Check to see if PA was a verbal PA completed by a Tech in the call center**  <ul><li>How to tell if something is a Verbal PA?    </li><ol><li>Method on the PA is "Call" or "Other" or The "Verbal PA" Template is included in the notes   </li><ol></ol><li>There is a contact note reporting a Verbal PA was done on the date of service under the operations tile in Vue360RX. Search under the Member ID and NPI.    </li></ol></ol><li>**If YES a Verbal PA**      </li><ol><li>PA Tech informs Lead or supervisor that we received a verbal PA without documents attached. Lead or supervisor Teams messages Technician who created verbal PA to get PA document and Note. PA Tech attaches document </li></ol><li>**If NOT a Verbal PA**   </li><ol><li>Search member profile for another PA with the missing PA form attached. </li><ol><li>**If the PA is pending or in med review** - Cancel PA without documents, noteate and no Fax back needed </li><ol></ol><li>**If the PA was decisioned that same day** - follow duplicate procedure, including cancelling, notating PA and faxing back. Notify leader about duplicate and leader submit MITS ticket. </li><ol></ol><li>**If the PA was decisioned on a different day** - Note this on the PA and cancel due to no PA documents. Follow fax back procedure and use the "Resubmit PA" fax back template. Notify leader about duplicate and leader submits MITS ticket. </li><ol></ol><li>**If you cannot find the PA document on an existing PA on the member profile** - Note this on the PA and cancel due to no PA documents. Follow the fax back using "Resubmit PA" fax back template. Notify leader about duplicate and leader submits MITS ticket.|  
+
 
 ## Reject Fax Documentation
 
@@ -40,11 +50,13 @@
 
 | | |
 | :--- | :--- |
-| Member not Eligible / Found | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the member is ineligible or cannot be found. |
+| Member not Eligible | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the member is ineligible or cannot be found. |
+| Member not Found | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} Was received but cannot be processes as the member cannot be found. |
 | Provider Not Found | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the provider cannot be found. |
 | Duplicate Request | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but there is already an approved Prior Authorization on file for {Drug name and Strength} until {Term Date}. |
 | Carved Out Medications | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but is ineligible for review through Gainwell Technologies as certain covered injectable drugs and biological products are carved out from Managed Care Entity (MCE) coverage. These drugs are reimbursed as part of the Fee-for-Service (FFS) medical benefit for all FFS and MCE enrollees. Please visit https://medicaid.ohio.gov/stakeholders-and-partners/phm/carved-out-drugs for directions on submitting requests as well as forms for submission. | 
 | Missing Requested Medication | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the requested medication is missing from the PA form.|
+| Resubmit PA | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed. Please resubmit Prior Authorization. |
 
 #### Reject Fax Template Word Document
 
