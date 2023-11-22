@@ -8,7 +8,7 @@
 ### Acceptable PA Cancellation Reasons are:
 | | | 
 | :--- | :--- |
-| PA Senario | Resolution |
+| PA Scenario | Resolution |
 |**EXACT duplicates** <ul><li>PA with the same drug, same strength, same instructions and same requested dates | Follow proper cancellation procedure, using the "Duplicate Request" Fax Template |
 |**No Active Medicaid Eligibility on file** <ul><li>Member has no active Medicaid eligibility in Vue360RX | Follow proper cancellation procedure, using the "Member not Eligible / Found" Fax Template |      
 |**Carve Out Medications** <ul><li>Certain injectable drugs and biological products are carved out from Managed Care Entity (MCE) coverage | Follow proper cancellation procedure, using the "Carved Out Medications" Fax Template |     
@@ -19,7 +19,7 @@
 ### Unacceptable PA Cancellation Reasons are: 
 | | |
 | :--- | :--- |
-| PA Senario | Resolution |
+| PA Scenario | Resolution |
 | Brand Preferred over Generic | We decision PAs based on the actual drug that the provider requests on the PA form <ul><li>If the provider writes for the Non Preferred Generic drug </li><ol><li>Decision based on criteria for the Non Preferred Generic drug. This will most likely (not always) go to Med Review for eventual Denial by RPh. If PA meets criteria and the drug is NOT Auto Med Review, Techs can decision. <ul></ol><li>If the provider writes for the Preferred Brand drug </li><ol><li>Complete the "Not Required" Procedures including changing the PA status to "Not Required" and adding appropriate documentation. </li><ol><li>**We need to be aware as some Brand Names that are preferred over generic have criteria such as Elidel and Butrans. We would not send these back as PA NOT REQUIRED.** |
 | No Signature on PA form | Follow Signature procedure on Evergreen |
 | Incorrect form: ODM-approved Gainwell PA form | Decision PA based on information given following normal PA processes|
@@ -33,7 +33,7 @@
 ### PAs that could be cancelled if following the procedures below before cancelling:
 | | |
 | :--- | :--- |
-| PA Senario | Resolution |
+| PA Scenario | Resolution |
 |Wrong Medicaid ID | Follow the below steps <ul><li>If the incorrect Member ID is on the PA form but you can find the correct Member ID in the clinical documentation </li><ol><li>Notate where correct Member ID was found and decision PA using normal procedures. <ul></ol><li>If the incorrect Member ID is on the PA form and you CANNOT find the correct Member ID in the clinical documentation </li><ol><li>If the member name, DOB and provider claims match - OK to notate and decision PA using normal procedures. </li><ol></ol><li>If the member name, DOB and provider claims DO NOT MATCH - CANCEL using below Reject Fax Template "Member not Found" |
 | Member not Found in Vue360RX | Follow the below steps <ul><li>If you can match the Name, Date of Birth and there are claims from that provider on the member's profile  </li><ol><li>Decision the PA using normal PA proceeses. <ul></ol><li>If you cannot match the member to a member in Vue360RX- CANCEL using below Reject Fax Template "Member not Found". |
 | PA linked to wrong member profile  | Follow the below steps <ul><li>If you can match the Name, Date of Birth and there are claims from that provider on the member's profile  </li><ol><li>Create a new PA and attach the PA document under the correct member and put the PA in "pending" status. Add a note on the new PA that you cancelled the previous auth (include auth #) and created this new auth. </li><ol></ol><li>Cancel the PA that was linked to the incorrect member, Add a note on the cancelled PA that the member was incorrect, and you created a new PA under the correct member (include new auth#).  <ul></ol><li>If you cannot match the member to a member in Vue360RX- CANCEL using below Reject Fax Template "Member not Found". |
