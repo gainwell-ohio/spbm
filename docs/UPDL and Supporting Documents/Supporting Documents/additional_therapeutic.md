@@ -46,6 +46,8 @@ Clinical Criteria:
 - Must be prescribed by or in consultation with an infectious disease specialist, tuberculosis clinic, CDC or state health department
 - Must provide documentation of molecular susceptibility testing prior to initiation for an active infection
 
+  [**Charles Bark, MD](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/drbark/?h=bark)
+
 ## Benzothiazole for ALS
 
 Drug Name:
