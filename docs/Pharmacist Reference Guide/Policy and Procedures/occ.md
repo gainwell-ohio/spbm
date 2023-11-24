@@ -21,7 +21,7 @@
 
 | OCC 4: A pharmacy would use other coverage code 4 (OCC 4) if they have billed the primary insurance and the primary insurance pays the claim (does not reject) but pays $0.00.  | Process |
 | ----------- | ----- |
-| This typically happens because the member has a deductible to meet before the primary insurance will pay the claim. Primary covers medications | Approve automatically (Exception non-covered services: Obesity, ED) |
+| This typically happens because the member has a deductible to meet before the primary insurance will pay the claim. Primary covers medications | **Approve automatically (Exception non-covered services: Obesity, ED)** |
 
 
 
