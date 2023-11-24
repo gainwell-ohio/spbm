@@ -38,6 +38,6 @@ Chris N Summary:
 | ***BRAND*** requested  | ***If Non=Preferred criteria is met, Approve by NDC*** and add to the Approval Letter text: <li>The plan covers the brand name medication [xxxx]. Please have the pharmacy process the brand name medication [xxx] using a DAW 9 when processing the prescription</li> | ***If criteria is ^^not^^ met, PA should be denied***<li>with the appropriate Non-Preferred Denial Language</li><li>Add Appropriate OAC Rule</li> |
 | ***GENERIC*** requested<li> Must meet UPDL non-preferred category</li><li>Provider must also document medical necessity for why the brand product cannot be used for approval.</li> | ***If Non-Preferred criteria is met, Approve by NDC*** ** and add to the Approval Letter text: <li>The plan covers the brand name medication [xxxx]. Please have the pharmacy process the brand name medication [xxx] using a DAW 9 when processing the prescription</li> </br> ***If Non-preferred criteria is ^^not^^ met, PA should be denied*** <li>Deny with Appropriate Denial Language based on medication requested.</li><li>"And documentation must be provided why the preferred Brand product (XXX) cannot be used or may cause harm."</li><li>Add Appropriate OAC Rule</li> |
 
-**Since both Brand name and generic are both considered non-preferred adn tep category 8, we will default to the preferred option which is the Brand name. 
+**Since both Brand name and generic are both considered non-preferred and step category 8, Brand name will be the default preferred option (lowest cost alternative). 
 
 
