@@ -12,7 +12,7 @@
 
 | OCC 3: A pharmacy would use other coverage code 3 (OCC 3) if they have billed the primary insurance and the primary insurance rejects the claim.  | [Drug Lookup Tool Link](https://spbm.medicaid.ohio.gov/PreferredDrugSearch/NDCSearch){:target="_blank" rel="noopener"} |
 | ----------- | ----- |
-| In this instance, Ohio Medicaid will only coverage the claim if it is an Ohio Medicaid covered drug AND the primary plan rejects with one of the following rejects: A5, MR, 65-69 (eligibility rejects), 70 | PA should be reviewed:
+| In this instance, Ohio Medicaid will only coverage the claim if it is an Ohio Medicaid covered drug AND the primary plan rejects with one of the following rejects: ==A5, MR, 65-69 (eligibility rejects), 70== | PA should be reviewed:
 | Dual eligible: Medicare + Medicaid: Review Website: ***Covered for Dual Eligible=YES*** | **Review PA** |
 | Dual eligible: Medicare + Medicaid: Review Website: ***Covered for Dual Eligible=NO*** | **ADMIN DENY** |
 
