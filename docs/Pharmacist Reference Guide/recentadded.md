@@ -1,5 +1,8 @@
 # Recently Added/Updated
 
+11/24/23
+- [Rph uptraining 11/24/23](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/uptrain/?h=uptra)
+
 11/9/23
 - [Compounds DLP](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/compound/?h=compound)
 - [Backdate Process Updates](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/backdate/?h=back)
