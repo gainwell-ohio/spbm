@@ -2,6 +2,7 @@
 
 11/24/23
 - [Rph uptraining 11/24/23](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/uptrain/?h=uptra)
+- [OCC guide](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/occ/?h=occ)
 
 11/9/23
 - [Compounds DLP](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/compound/?h=compound)
