@@ -21,7 +21,8 @@ search:
 | Brand Name is Preferred | Generic is Non-Preferred or not on the UPDL (will be treated as Non-Preferred) | 
 |----- | ------|
 | ***BRAND*** requested  | PA NOT REQUIRED |
-| ***GENERIC*** requested <li> Must meet UPDL non-preferred criteria</li><li>Provider must also document medical necessity for why the brand product cannot be used for approval.</li> | ***If criteria is met, Approve GCNSeqNo***</br>***If criteria is ^^not^^ met, PA should be denied***. <li>Deny with appropriate NP denial language</li><li>"And documentation must be provided why the preferred Brand product (XXX) cannot be used or may cause harm."</li><li>The plan covers the brand name medication [xxxx] without a prior authorization. Please have the pharmacy process the brand name medication [xxx] using a DAW 9 when processing the prescription.</li>
+| ***GENERIC*** requested <li> Must meet UPDL non-preferred criteria</li><li>Provider must also document medical necessity for why the brand product cannot be used for approval.</li> | ***If criteria is met, Approve GCNSeqNo***</br>***If criteria is ^^not^^ met, PA should be denied***. <li>Deny with appropriate NP denial language</li><li>"And documentation must be provided why the preferred Brand product (XXX) cannot be used or may cause harm."</li><li>The plan covers the brand name medication [xxxx] without a prior authorization. Please have the pharmacy process the brand name medication [xxx] using a DAW 9 when processing the prescription.</li><li>Add Appropriate OAC Rule</li> |
+
 
 | Brand Name is Preferred ^^with Step Therapy Criteria^^ | Generic is Non-Preferred or not on the UPDL (will be treated as Non-Preferred) |
 |----- | ------|
