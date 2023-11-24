@@ -14,7 +14,7 @@
 | ----------- | ----- |
 | In this instance, Ohio Medicaid will only coverage the claim if it is an Ohio Medicaid covered drug AND the primary plan rejects with one of the following rejects: ==A5, MR, 65-69 (eligibility rejects), 70== | PA should be reviewed:
 | Dual eligible: Medicare + Medicaid: Review Website: ***Covered for Dual Eligible=YES*** | **Review PA** |
-| Dual eligible: Medicare + Medicaid: Review Website: ***Covered for Dual Eligible=NO*** | **ADMIN DENY** |
+| Dual eligible: Medicare + Medicaid: Review Website: ***Covered for Dual Eligible=NO*** ** | **ADMIN DENY** |
 
 **Drugs that are covered or are eligible to be covered by Medicare Part D, when prescribed for an individual who is eligible for Medicare.
 
