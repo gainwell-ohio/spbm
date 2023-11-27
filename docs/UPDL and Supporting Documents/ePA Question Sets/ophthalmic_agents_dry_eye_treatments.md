@@ -1,6 +1,6 @@
 ---
 search:
-  boost: .9
+  exclude: true
 ---
 
 # Ophthalmic Agents - Dry Eye Treatment
