@@ -82,7 +82,7 @@ Once the Medical Director has performed the outreach, please document the date/t
 
 The Pharmacist Peer to Peer team is in operation from 8am to 8pm Monday through Friday, mimicking the clinical help desk. Any calls after hours or on weekends may need to be scheduled during regular business hours, and can not guarantee anyone will be available to take the call immediately.
 
-Pharmacist Guide
+^^Pharmacist Guide^^
 
 Request received in Peer-to-Peer chat from Technician taking the call.
 
@@ -123,7 +123,7 @@ If additional information is still not sufficient, and the PA is upheld (Proceed
 
 8.	Overturning the original denial: 
 
-a.	A new PA will need to be loaded and approved with a received date and time of the interaction with the caller. 
+a.	A ^^new^^ PA will need to be loaded and approved with a received date and time of the ^^interaction with the caller^^. 
 
 DETAILED internal notes for the PA must include:
 
@@ -159,7 +159,7 @@ b.	Peer to Peer information must be placed on tracker. (End of process – unles
 
 (Proceed to #11)
 
-12.	Review the case, and if not able to approve with any additional information provided, then continue to 13 to send to medical director, if able to approve please do so and contact the prescriber by phone call and enter the PA and edit overrides allowing for successful claims.
+12.	Review the case, and if not able to approve with any additional information provided, then continue to 13 to send to medical director, ==if able to approve please do so== and contact the prescriber by phone call and enter the PA and edit overrides allowing for successful claims.
 
 13.	Send an encrypted email to the Medical Director (James Wood) james.wood@gainwelltechnologies.com  and CC: Justin Collingwood, Brian Moore and Sherri Cohmer. 
 
