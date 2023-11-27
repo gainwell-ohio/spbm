@@ -17,7 +17,7 @@
 | Dual eligible: Medicare + Medicaid: Review Website: ***Covered for Dual Eligible=NO*** ** | **ADMIN DENY** |
 
 **Drugs that are covered or are eligible to be covered by Medicare Part D, when prescribed for an individual who is eligible for Medicare. </br>
-**NOTE:** If the rejection code is NOT one of the above codes, it will reject as NCPDP Reject code: 6E – M/I Other Payer Reject Code and the pharmacy would need to reach out to the primary payer for resolution.
+**NOTE:** If the rejection code is NOT one of the above codes, it will reject as ==NCPDP Reject code: 6E – M/I Other Payer Reject Code and the pharmacy would need to reach out to the primary payer for resolution==.
 
 
 
