@@ -16,7 +16,9 @@
 | Dual eligible: Medicare + Medicaid: Review Website: ***Covered for Dual Eligible=YES*** | **Review PA** |
 | Dual eligible: Medicare + Medicaid: Review Website: ***Covered for Dual Eligible=NO*** ** | **ADMIN DENY** |
 
-**Drugs that are covered or are eligible to be covered by Medicare Part D, when prescribed for an individual who is eligible for Medicare.
+**Drugs that are covered or are eligible to be covered by Medicare Part D, when prescribed for an individual who is eligible for Medicare. </br>
+**NOTE:** If the rejection code is NOT one of the above codes, it will reject as NCPDP Reject code: 6E – M/I Other Payer Reject Code and the pharmacy would need to reach out to the primary payer for resolution.
+
 
 
 | OCC 4: A pharmacy would use other coverage code 4 (OCC 4) if they have billed the primary insurance and the primary insurance pays the claim (does not reject) but pays $0.00.  | Process |
