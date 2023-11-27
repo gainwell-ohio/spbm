@@ -1,5 +1,10 @@
 # Recently Added/Updated
 
+11/27/23
+
+- [Brand Zonegran](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/zonegran/?h=zone)
+- [Flovent and Ciprodex update](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/Drug%20Shortage/Drug%20Shortage/?h=short)
+
 11/24/23
 
 - [Rph uptraining 11/24/23](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/uptrain/?h=uptra)
