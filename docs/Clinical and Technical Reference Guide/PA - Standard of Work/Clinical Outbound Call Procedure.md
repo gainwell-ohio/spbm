@@ -1,11 +1,14 @@
 # Clinical Technician Outbound Call Procedure
+
 **Currently, Clinical Technicians will only making outbonds calls in the following situations:**
+
    - Provider not found in Vue360RX
    - Requested Medication not included on PA form
        - both outlined in the "Cancel and Not Required PA Process" section of Evergreen
    - When clarifying a PA per direction from leader 
 
 ## Steps to make an outbound call
+
 - **Call phone number on PA form**
   - If phone number disconnected or incorrect, use number in Vue360RX
 - **Introduce yourself as a Pharmacy Technician from Gainwell Technologies**
@@ -22,7 +25,8 @@
           - If unable to contact the correct office
               - Follow cancel / fax back procedure using the “provider not found” template and document your Contact ID in your PA notes.  
        
-## How to document an outbound call 
+## How to document an outbound call in Vue360RX: 
+
 All calls need to be documented in Vue360RX
 - Navigate to the "Operations Tab" -> "Add Call" -> Enter the Provider NPI, Call Source, Contact Type and Contact Code -> click on "Next" 
 - Use the "Call Documentation Template", found in Evergreen
