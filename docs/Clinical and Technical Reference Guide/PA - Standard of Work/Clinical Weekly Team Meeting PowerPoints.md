@@ -13,6 +13,8 @@
 
 [Weekly Team Meeting Presentation Week Ending 10/21/23](https://mygainwell.sharepoint.com/:p:/r/teams/OHSupervisorsandSr.Techs/Shared%20Documents/General/Weekly%20Team%20Meeting%20Powerpoints/Previous%20Weekly%20Powerpoints/Shared%20Team%20Meeting%20Week%20Ending%2010.21.pptx?d=w11965c14453e4c49a86507fbfd725713&csf=1&web=1&e=hHywbP){:target="_blank" rel="noopener"}
 
+[Weekly Team Meeting Presentation Week Ending 10/14/23](https://mygainwell.sharepoint.com/:p:/t/SPBMPAOperations/EaHLc8sVLpBLhs3NntWPaI8BGmXAnhL2kxo7VMiu1XfcNQ?e=0gFpAI){:target="_blank" rel="noopener"}
+
 
 
 
