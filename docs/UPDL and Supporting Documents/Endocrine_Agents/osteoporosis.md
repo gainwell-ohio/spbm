@@ -43,7 +43,7 @@ This is a subcategory of Endocrine Agents.
 
 ## Criteria
 
-### Teriparatide (Forteo<sup>TM</sup>)
+### Teriparatide (Forteo<sup>TM</sup>)- BVG (==Process by NDC==)
 
 Teriparatide (Forteo<sup>TM</sup>) Criteria
 
