@@ -24,7 +24,6 @@
 | Budesonide Rectal Foam                               | Uceris                       | 4/28/2023    | 6/6/2079     |
 | Budesonide-Formoterol Fumarate Dihyd Aerosol         | Symbicort                    | 1/17/2020    | 6/6/2079     |
 | Buprenorphine TD Patch Weekly                        | Butrans                      | 4/16/2021    | 6/6/2079     |
-| Ciprofloxacin-Dexamethasone Otic Susp                | Ciprodex Sus                 | 9/4/2020     | 6/6/2079     |
 | Clindamycin Phosphate-Benzoyl Peroxide Gel 1.2-3.75% | Onexton Gel 1.2-3.75         | 10/6/2023    | 6/6/2079 |
 | Colchicine Cap 0.6 MG                                | Mitigare                     | 12/30/2022   | 6/6/2079     |
 | Cyclosporine (Ophth) Emulsion                        | Restasis Emu                 | 2/18/2022    | 6/6/2079     |
@@ -43,8 +42,6 @@
 | Fesoterodine Fumarate Tab                            | Toviaz Tab                   | 7/8/2022     | 6/6/2079     |
 | Fluocinolone Acetonide Oil                           | Derma-Smooth Oil             | 12/31/2021   | 6/6/2079     |
 | Fluticasone Furoate-Vilanterol Aero Powd BA          | Breo Ellipta Inh             | 6/3/2022     | 6/6/2079     |
-|Fluticasone Propionate Aer Pow BA                     |Flovent Disk Aer              |**11/10/2023**| 6/6/2079     |
-| Fluticasone Propionate HFA Inhal Aero                | Flovent HFA Aer              | 6/3/2022     | 6/6/2079     |
 | Fluticasone-Salmeterol Aer Powder BA 100-50 MCG/DOSE | Advair Disku Aer 100/50      | 1/7/2022     | 6/6/2079     |
 | Fluticasone-Salmeterol Aer Powder BA 250-50 MCG/DOSE | Advair Disku Aer 250/50      | 1/7/2022     | 6/6/2079     |
 | Fluticasone-Salmeterol Aer Powder BA 500-50 MCG/DOSE | Advair Disku Aer 500/50      | 1/7/2022     | 6/6/2079     |
