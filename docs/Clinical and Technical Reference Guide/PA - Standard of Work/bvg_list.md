@@ -5,11 +5,11 @@
 
 | **Description**                                      | **Brand Name**               | **Eff Date** | **Exp Date** |
 | ---------------------------------------------------- | ---------------------------- | ------------ | ------------ |
-| \*Betaine Powder For Oral Solution\*\*\*             | Cystadane Powder             | 2/18/2022    | 6/6/2079     |
-| \*Methenamine-Hyoscamine-Meth Blue-Sod Phos Tab      | Urogesic-Tab Blue            | 12/31/2021   | 6/6/2079     |
+| Betaine Powder For Oral Solution                     | Cystadane Powder             | 2/18/2022    | 6/6/2079     |
+| Methenamine-Hyoscamine-Meth Blue-Sod Phos Tab        | Urogesic-Tab Blue            | 12/31/2021   | 6/6/2079     |
 | Adalimumab-adbm Auto-injector Kit                    | Cyltezo Inj                  | 09/29/2023   | 6/6/2079     |
 | Adalimumab-adbm Prefilled Syringe Kit                |Cyltezo Inj                   | 09/29/2023   | 6/6/2079     |
-| **Amphetamine-Dextroamphetamine 3-Bead Cap ER 24HR***   | **Mydayis Cap**           | **10/20/2023** | **6/6/2079** |
+| Amphetamine-Dextroamphetamine 3-Bead Cap ER 24HR     | Mydayis Cap                  | 10/20/2023   | 6/6/2079     |
 | Aprepitant Capsule 80MG                              | Emend Cap 80MG               | 3/19/2020    | 6/6/2079     |
 | Aprepitant Capsule Therapy Pack                      | Emend Tripac Pak             | 1/6/2017     | 6/6/2079     |
 | Asenapine Maleate SL Tab (Base Equiv)                | Saphris Sub                  | 12/31/2021   | 6/6/2079     |
@@ -75,7 +75,7 @@
 | Pantoprazole Sodium For Delayed Release Susp Packet  | Protonix Pak                 | 8/21/2020    | 6/6/2079     |
 | Pazopanib HCl Tab 200 MG (Base Equiv)                | Votrient Tab 200MG           | 10/27/2023   | 6/6/2079     |
 | Pimecrolimus Cream                                   | Elidel Cream                 | 12/31/2021   | 6/6/2079     |
-| Pitavastatin Calcium Tab                             | Livalo Tab                   | **11/10/2023**| 6/6/2079     |
+| Pitavastatin Calcium Tab                             | Livalo Tab                   | 11/10/2023| 6/6/2079     |
 | Plerixafor Subcutaneous Inj                          | Mozobil Inj                  | 7/21/2023    | 6/6/2079     |
 | Potassium Phosphate Monobasic Tab 500 MG             | K-Phos Tab                   | 5/13/2022    | 6/6/2079     |
 | Pyridostigmine Bromide Syrup                         | Mestinon Syp                 | 3/22/2019    | 6/6/2079     |
@@ -88,12 +88,13 @@
 | Sodium Phenylbutyrate Tab                            | Buphenyl Tab                 | 9/29/2017    | 6/6/2079     |
 | Sorafenib Tosylate Tab                               | Nexavar Tab                  | 6/17/2022    | 6/6/2079     |
 | Spinosad Susp                                        | Natroba Susp                 | 1/1/2013     | 6/6/2079     |
-| Spironolactone Susp                                  | Carospir Susp 25mg/5mL       | **11/10/2023**| 6/6/2079     |
+| Spironolactone Susp                                  | Carospir Susp 25mg/5mL       | 11/10/2023   | 6/6/2079     |
 | Sumatriptan Nasal Spray                              | Imitrex, Tosymra Nasal Spray | 12/16/2022   | 6/6/2079     |
 | Sunitinib Malate Cap                                 | Sutent Cap                   | 8/27/2021    | 6/6/2079     |
 | Tafluprost Preservative Free (PF)                    | ZIOPTAN                      | 12/2/2022    | 6/6/2079     |
 | Tasimelteon Caps                                     | Hetlioz                      | 1/13/2022    | 6/6/2079     |
 | Teriflunomide Tab                                    | Aubagio                      | 3/17/2023    | 6/6/2079     |
+| Teriparatide (Recombinant) Soln Pen-inj	             | Forteo Inj	                  | **12/1/2023**  | 6/6/2079     |
 | Tiopronin Tab                                        | Thiola Tab                   | 5/28/2021    | 6/6/2079     |
 | Tiotropium Bromide Monohydrate Inhal Cap             | Spiriva Cap HandiHaler       | 8/25/2023    | 6/6/2079     |
 | Tolvaptan Tab                                        | Samsca Tab                   | 5/29/2019    | 6/6/2079     |
