@@ -23,7 +23,7 @@ This is a subcategory of Endocrine Agents.
 | :------------------- | :--------------------------------------------- | :------: | :---------: |
 | Alendronate Tab      |                                                |          |             |
 | Calcitonin-Salmon    |                                                |          |             |
-| Forteo <sup>PA QL</sup> | Teriparatide Subcutaneous Inj 600 MCG / 2.4 ML |   62.4   |     730     |
+| Forteo <sup>PA QL BVG (==Process by NDC==)- Weekly Updates </sup> | Teriparatide Subcutaneous Inj 600 MCG / 2.4 ML |   62.4   |     730     |
 | Ibandronate          |                                                |          |             |
 
 ### Non-Preferred
