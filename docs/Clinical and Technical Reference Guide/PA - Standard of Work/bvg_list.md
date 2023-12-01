@@ -90,7 +90,6 @@
 | Sunitinib Malate Cap                                 | Sutent Cap                   | 8/27/2021    | 6/6/2079     |
 | Tafluprost Preservative Free (PF)                    | ZIOPTAN                      | 12/2/2022    | 6/6/2079     |
 | Tasimelteon Caps                                     | Hetlioz                      | 1/13/2022    | 6/6/2079     |
-| TERIPARATIDE 600 MCG/2.4ML PEN                       | FORTEO 600 MCG/2.4 ML PEN INJ |12/01/2023   | 06/06/2079   |
 | Teriflunomide Tab                                    | Aubagio                      | 3/17/2023    | 6/6/2079     |
 | Teriparatide (Recombinant) Soln Pen-inj	             | Forteo Inj	                  | **12/1/2023**  | 6/6/2079     |
 | Tiopronin Tab                                        | Thiola Tab                   | 5/28/2021    | 6/6/2079     |
