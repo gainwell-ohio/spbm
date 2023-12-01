@@ -38,7 +38,8 @@ This is a subcategory of Respiratory Agents.
 | Combivent Respimat                                                                     |                                                               |          |             |
 | Cromolyn Neb Sol                                                                       |                                                               |          |             |
 | Dulera                                                                                 |                                                               |          |             |
-| Flovent <sup>BvG QL ==(Process by NDC)==</sup>                                                              |                                                               |          |             |
+| Flovent                                                               |                                                               |          |             |
+| Fluticasone Propionate Aer Pow(Diskus)/HFA | | | |
 | Incruse Ellipta                                                                        |                                                               |          |             |
 | Ipratropium                                                                            | Ipratropium Bromide Inhalation Soln 0.02%                     |   1020   |     102     |
 | Ipratropium / Albuterol Nebulizer Sol <sup>QL</sup>                                    | Ipratropium / Albuterol Nebulizing Soln 0.5-2.5 (3) MG / 3 ML |   1836   |     102     |
