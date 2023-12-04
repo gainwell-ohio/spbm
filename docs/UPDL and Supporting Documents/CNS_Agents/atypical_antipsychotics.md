@@ -9,7 +9,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ## Decision Trees
 
-- [CNS - Atypical Antipsychotics - Non-Preferred- Aripiprazole Sol, Asenapine, Caplyta, Clozapine ODT Rapdis, Lurasidone, Olanzapine ODT, Paliperidone, Rexulti, Secuado, Versacloz, Vraylar](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMzYwVjA5NVhMMEtCQlFRR05CNUs0QldLWiQlQCN0PWcu){ :target="_blank" rel="noopener"}
+- [CNS - Atypical Antipsychotics - Non-Preferred- Aripiprazole Sol, Asenapine, Caplyta, Clozapine ODT Rapdis, Lurasidone, Olanzapine ODT, Paliperidone, Rexulti, Secuado, Versacloz](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMzYwVjA5NVhMMEtCQlFRR05CNUs0QldLWiQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
 - [CNS - Atypical Antipsychotics - Abilify Mycite](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMTE5Q01HTVBJNzFVQlRWVlZPRUFBMEE5NyQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
