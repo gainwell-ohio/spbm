@@ -1,4 +1,4 @@
-# Medication Dose and Frequency Changes When Decisioning PAs
+# Dose and Frequency Changes When Decisioning PAs
 
 ## Dose Change Scenarios 
 - Techs can approve dose change except for Auto Med review drugs
