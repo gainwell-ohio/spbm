@@ -8,7 +8,9 @@
 Example: 10MG changed to 20MG
 
 1) Approve new PA for same duration as previous PA​
+   
 2) Keep both PAs on file​
+   
 3) Add the following in your PA note on the approved PA: 
     - Approving per dose change
     - What the dose change is (10MG to 20MG in this example) 
