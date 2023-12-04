@@ -9,4 +9,7 @@
 - ePAs should never be decisioned as "Not Required"
     - Provider receives automatic response and no ePA question set if the requested drug does not require a PA
 - ePAs may not have a document attached, unless the provider uploads extra cliunical documentation or the PA form. This is not required.
+- ePAs will not have a DX code associated with it unless the provider includes it any submitted additional clinical documentation.
+  - DX code is NOT required for ePAs as the provider attests that they are treating the member for a FDA approved diagnosis for the medication.
+  - In your notes under "DX", please indicate this when working with ePAs. 
   
