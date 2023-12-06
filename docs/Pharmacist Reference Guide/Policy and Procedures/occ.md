@@ -2,6 +2,8 @@
 
 [OCC Coverage Codes PowerPoint](https://mygainwell-my.sharepoint.com/:p:/g/personal/christopher_nguyen_gainwelltechnologies_com/EdaI6ab4kOxLqHKFMn-0_CUBjv_5TkcFrQq_5BW4hRlvDw?e=bEjCFX){:target="_blank" rel="noopener"}
 
+**OCC 0: A pharmacy would use Other Coverage Code 0 (OCC 0) if the member ONLY has Ohio Medicaid**
+
 | OCC 1:  A pharmacy would use Other Coverage Code (OCC 1) when the primary coverage on file for the patient is no longer active. Code used when ODM has TPL on file, but the pharmacy has made a good faith effort to verify it and has determined it is INACTIVE. | Process |
 | ----------- | ----- |
 | Should see a rejection for PA Required | **PA should be reviewed per normal process**  |
