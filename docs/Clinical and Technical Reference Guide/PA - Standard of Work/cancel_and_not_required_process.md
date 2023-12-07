@@ -51,7 +51,7 @@
 | | |
 | :--- | :--- |
 | Member not Eligible | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the member is ineligible or cannot be found. |
-| Member not Found | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} Was received but cannot be processes as the member cannot be found. |
+| Member not Found | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the member cannot be found. |
 | Provider Not Found | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the provider cannot be found. |
 | Duplicate Request | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but there is already an approved Prior Authorization on file for {Drug name and Strength} until {Term Date}. |
 | Carved Out Medications | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but is ineligible for review through Gainwell Technologies as certain covered injectable drugs and biological products are carved out from Managed Care Entity (MCE) coverage. These drugs are reimbursed as part of the Fee-for-Service (FFS) medical benefit for all FFS and MCE enrollees. Please visit https://medicaid.ohio.gov/stakeholders-and-partners/phm/carved-out-drugs for directions on submitting requests as well as forms for submission. | 
