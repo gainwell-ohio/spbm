@@ -1,60 +1,46 @@
-Non Comp Email Procedure
+# Non Comp Email Procedure
+- USE THE EMAIL: OHSPBM Non-Comp: OHSPBMNon-Comp@mygainwell.onmicrosoft.com
+- **DO NOT USE THE EMAIL: OHSPBMCompliance@GAINWELLTECHNOLOGIES.COM. This email is used for different purposes**
+- The non-comp email box is used to report any coaching opportunities when an employee should have taken a different course of action per our procedures.  
+- **These will be used as coaching opportunities**
 
-The non-compliance email box is used to report any non-compliances with the purpose of reporting issues that are made outside of the instances that would be seen by our Quality Assurance team to allow coaching opportunities. Occurrences will be reviewed and filtered to the appropriate supervisor for coaching purposes/opportunities.
+## Important Notes
 
-Important changes to make Immediately when sending email to non- compliance email box:
+- Encrypt anything containing PHI, even if between internal Gainwell accounts
+- Do NOT put any PHI in subject line of any emails (even if encrypted)  
+- Email must follow template, below
+- Reasons to email the "Non Comp" email:**
+      - When a PA was decisioned incorrectly
+      - When PA quantity/DDU entered incorrectly causing delay in therapy
+      - When claims are rejecting causing delay in therapy
 
-Encrypt anything containing PHI, even if between internal Gainwell accounts
-Do NOT put any PHI in subject line of any emails (even if encrypted) this includes auth ids, mbr id, mbr names, etc. Please keep subject line generic with no details other than general issue (short name of employee, non-comp, short description)
-Please email OHSPBM Non-Comp: OHSPBMNon-Comp@mygainwell.onmicrosoft.com
+## Non Comp Email Template
 
-DO NOT USE:
+- The subject line should include:
+  - Short name of the person who make the error
+  - Non-Comp
+  - Short description of the error
 
-OH SPBM COMPLIANCE < OHSPBMCompliance@GAINWELLTECHNOLOGIES.COM
-
-This email address is for our Ohio SPBM compliance officer only
-When do you email the Non Comp reporting email inbox?
-
-      • When a PA was decisioned incorrectly
-
-      • When PA quantity/DDU entered incorrectly causing delay in therapy
-
-      • When claims are rejecting causing delay in therapy
-
-How to report
-
-To make the issues more easily searchable, the subject line should include:
-
-      •Short name of the person who make the error
-
-      •Non-Comp
-
-      •Short description of the error
-
-In the body of the email please include the following:
-
-      • Auth ID, EO, Or Call
-
-      • Mbr Id
-
-      • Short Name
-
-      • Reason for Non-Comp
-
-      • Screenshot of error
-
-Please see the below for the Non Comp Reporting Procedure:
+- In the body of the email please include the following:
+  - PA Auth ID, EO ID, Or Contact ID
+  - Mbr ID
+  - Short Name of employee who completed the incorrect action
+  - Reason for sending to Non-Comp (what was the error)
+  - Was the error corrected and how? 
+  - Screenshot of error
+  
+## Non Comp Email Example 
 
 **Encrypt Email**
 To: OHSPBM Non-Comp OHSPBMNon-Comp@mygainwell.onmicrosoft.com
 
-Subject: Non- Comp, short name, short Description Example: Non- Comp, Kjackson5, Incorrectly decisioned PA
+Subject: Non- Comp, Kjackson5, Incorrectly decisioned PA
 
-In the Body of Email : ( Please include Template below )
+In the Body of Email : 
 
   Template:  
-  Auth ID : 
-  Member ID :
-  Short name:
-  Reason for Non-Comp:
-  Screenshot of error:
+  - Auth ID : 
+  - Member ID :
+  - Short name:
+  - Reason for Non-Comp:
+  - Screenshot of error:
