@@ -36,11 +36,10 @@ To: OHSPBM Non-Comp OHSPBMNon-Comp@mygainwell.onmicrosoft.com
 
 Subject: Non- Comp, Kjackson5, Incorrectly decisioned PA
 
-In the Body of Email : 
-
-  Template:  
-  - Auth ID : 
-  - Member ID :
-  - Short name:
-  - Reason for Non-Comp:
-  - Screenshot of error:
+- In the body of the email:
+  - Auth# 000123456
+  - Mbr ID# 123456789
+  - Employee: kjackson
+  - Reason: Kjackson approved an auto med review drug
+  - Was the error corrected: Yes, escalated to supervisor who will discuss next steps with RPh supes
+  - Screenshot of error: picture 
