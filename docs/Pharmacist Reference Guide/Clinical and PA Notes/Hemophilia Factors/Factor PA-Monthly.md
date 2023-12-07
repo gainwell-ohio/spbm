@@ -5,8 +5,6 @@ search:
 
 # Processing Factor PAs
 
-There is an identified issue with approving things by Hicl, that the medication does not show up.  Please either at this time approve by GCNSeqNo whenever possible. If Hicl anything is the only route option, the name of the drug requested must be put in the approval notes for the people who receive the letter will know that this is the medication that is being approved or denied. 
- 
 At this time as well, if we receive a Factor PA, please enter the PA’s for the totally quantity needed per month at maintenance and we will use edit overrides to allow the prn doses when required. 
 
 When using HICL- please put the name of the medication in the Letter TEXT 
