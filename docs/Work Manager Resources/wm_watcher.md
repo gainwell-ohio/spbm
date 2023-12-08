@@ -10,18 +10,20 @@
 
 ## WM Watcher Responsibilities
 
-1) Review WM queue, ensure only status are pending, med review and in process
+1) Review WM queue via "Case Enqiry"
    
    - Address all "none" cases by direct outreach to tech, ask to book out and give coaching on correct way to open case
-   - For Techs with repeat none tasks, get with your supervisor to email their supervisor for coaching
-   - For RPh outreach, post in "The Watch chat" and an RPh watcher will outeach
-   - Address all cases by direct outreach to tech for cases that show in "approved", "denied", "closed", "cancel", "not required". 
-   - This either means that someone did not fully book out the case or they completed work in Vue360
+      - For Techs with repeat none tasks, get with your supervisor to email their supervisor for coaching
+   - For RPh or Tech outreach M-F, post in "The WM Watching chat"
+   - On the weekends, reach out directly to any technician
+   - **Any PA with less than 7 hours left until TAT needs to be worked as a priority**
    - **Techs should not be closing or denying cases so make sure the supervisor is outreached  if this happens**
 
 
 2) Review the allocation screen
-   - address any tech that has work allocated to them but they are not here by posting in the "Supes and Sr tech chat" and tagging the Tech supervisor and their Sr techs
+   
+   - address any tech that has work allocated to them but they are not here by posting in the "WM Watching chat" and tagging the Tech supervisor and their Sr techs
+   - Direct outreach to techs on the weekends
    - **NOTE** schedules get loaded 15 min before shift so make sure they are not inactive because their shift has not started 
 
 
@@ -35,5 +37,5 @@
 
 1) Supervisors and if they allocate the Watcher duties to their Sr Techs, need to be updating schedules for their teams in WM for Techs who have planned / unplanned absences
    
-3) PTO can be updated at the beginning of each week for that week (Monday)
+2) PTO can be updated at the beginning of each week for that week (Monday)
     - PRO TIP- set yourself a reminder on your calendar every Monday and add approved PTO to that reminder as you approve it for that particular week
