@@ -69,6 +69,6 @@
 | :--- | :--- |
 | Member not Found | A Prior Authorization request was received but cannot be processed as the member cannot be found.  |
 | Provider Not Found | A The Prior Authorization request was received but cannot be processed as the provider cannot be found. |
-| Provider and Member Not Found | A The Prior Authorization request was received but cannot be processed as the provider and Member cannot be found.  |
+| Provider and Member Not Found | A Prior Authorization request was received but cannot be processed as the provider and Member cannot be found.  |
 | No PA Form | A Prior Authorization request was received but cannot be processed due to a PA form not being attached. Please resubmit Prior Authorization with approproate form. You can find our forms on our website: https://spbm.medicaid.ohio.gov/SPContent/DocumentLibrary/Forms. |
 | Appeal Received | We have received your appeal request and will review it in accordance with the timelines detailed on your Prior Authorization rejection. | 
