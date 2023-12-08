@@ -1,6 +1,7 @@
 # When to select drug by HICL, GCNseqNo and NDC
 
 ## General Notes
+
 - When working on prior authorizations, select the GCNseqNO if moving from fax view to pending or from pending to medreview. 
 - **If you are to be the final decider [approve/cancel/ (deny - RPh only)], follow the HICL-GCN-NDC guidance when selecting the drug name**
 
@@ -8,15 +9,18 @@
 ### From most general to strict, it goes HICL-GCN-NDC
 
 **HICLseqNO:**
+
 - Use when there is going to be multiple strengths or vials used in a period
 - This allows the freedom to use these vials and relies on quantity in the PA to control the amount dispensed.
 
 **GCNseqNO:**
+
 - What most of our approvals or denials should be.
 - Allows all NDCS within a certain drug strength to pay
    - Allows all brands to pay 
 
 **NDC:**
+
 - Use when a specific NDC is needed to be approved or denied
 - Brand vs Generic Drugs (perferred Brands)
 - DAW 1 when a certain NDC is requested
