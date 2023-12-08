@@ -55,7 +55,7 @@
 
 | | |
 | :--- | :--- |
-| Member not Eligible | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the member is ineligible or cannot be found. |
+| Member not Eligible | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the member is ineligible or cannot be found.  |
 | Member not Found | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the member cannot be found. |
 | Provider Not Found | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the provider cannot be found. |
 | Duplicate Request | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but there is already an approved Prior Authorization on file for {Drug name and Strength} until {Term Date}. |
@@ -67,7 +67,8 @@
 ### Reject Fax Templates when rejecting out of Fax View 
 | | |
 | :--- | :--- |
-| Member not Found | A Prior Authorization request was received but cannot be processed as the member cannot be found. |
+| Member not Found | A Prior Authorization request was received but cannot be processed as the member cannot be found.  |
 | Provider Not Found | A The Prior Authorization request was received but cannot be processed as the provider cannot be found. |
+| Provider and Member Not Found | A The Prior Authorization request was received but cannot be processed as the provider and Member cannot be found.  |
 | No PA Form | A Prior Authorization request was received but cannot be processed due to a PA form not being attached. Please resubmit Prior Authorization with approproate form. You can find our forms on our website: https://spbm.medicaid.ohio.gov/SPContent/DocumentLibrary/Forms. |
-| Appeal Received | We have received your appeal request and will review it in accordance with the timelines detailed on your Prior Authorization rejection. If you have any questions, please call us at 833-491-0344 | 
+| Appeal Received | We have received your appeal request and will review it in accordance with the timelines detailed on your Prior Authorization rejection. | 
