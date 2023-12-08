@@ -40,13 +40,18 @@
 |**Provider not found in Vue360RX** <ul><li>Provider cannot be found under the "provider tab" in Vue360RX. <ul><li>**This is different from Provider not active, see that resolution below under "Unacceptable PA Cancellation Reasons"** | Tech will make an outbound call to the provider and try to confirm provider name and NPI.  <ul><li>**ALL CALLS need to be documented with a Contact ID in Vue360RX** </li><li>If can confirm provider name and NPI: </li><ol><li>Proceed with decisioning PA. Note details from the call and also document the Contact ID the in PA notes.  <ul></ol><li>If unable to confirm provider name and NPI: </li><ol><li>Tech will cancel PA and fax back using the "provider not found" fax back template.|      
 | **Requested Medication not on the PA form** <ul><li>PA form does not have the requested Medication on the form | Tech will make an outbound call to the provider and try to confirm medication requested. </li><li>**ALL CALLS need to be documented with a Contact ID in Vue360RX** </li><li>If can confirm medication requested: </li><ol><li>Proceed with decisioning PA. Note details from the call and also document the Contact ID the in PA notes. <ul></ol><li>If unable to confirm medication requested: </li><ol><li>Tech will cancel PA and fax back using the "Missing Requested Medication" fax back template. | 
 
-## Reject Fax Documentation
+## Reject Fax Back Process
 
 ### Faxing a Reject Fax Process Document
 
 [Faxing a Reject Fax to Cancel a PA in the PA Queue](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EX7GOhXVxAdKoPqAMDygcTQBFGHSQ-ZLB6oUkZXQ21kiyQ?e=EXHrgd){:target="_blank" rel="noopener"}
 
-### Reject Fax Templates
+### Reject Fax Back Word Document
+
+[Reject Fax Template](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/g/personal/jessica_cain_gainwelltechnologies_com/EbwJe79pnD5GqMnKP4RYX6kBChL7cN0m9Nlv7hZCz6MuuA?e=L8uI5U){:target="_blank" rel="noopener"}
+
+## Reject Fax Templates
+### Reject Fax Templates when cancelling out of Pending
 
 | | |
 | :--- | :--- |
@@ -56,9 +61,13 @@
 | Duplicate Request | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but there is already an approved Prior Authorization on file for {Drug name and Strength} until {Term Date}. |
 | Carved Out Medications | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but is ineligible for review through Gainwell Technologies as certain covered injectable drugs and biological products are carved out from Managed Care Entity (MCE) coverage. These drugs are reimbursed as part of the Fee-for-Service (FFS) medical benefit for all FFS and MCE enrollees. Please visit https://medicaid.ohio.gov/stakeholders-and-partners/phm/carved-out-drugs for directions on submitting requests as well as forms for submission. | 
 | Missing Requested Medication | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the requested medication is missing from the PA form.|
-| Resubmit PA | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed due to a PA document not being attached. Please resubmit Prior Authorization. |
+| Resubmit PA | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed due to a PA form not being attached. Please resubmit Prior Authorization. |
 
-#### Reject Fax Template Word Document
 
-[Reject Fax Template](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/g/personal/jessica_cain_gainwelltechnologies_com/EbwJe79pnD5GqMnKP4RYX6kBChL7cN0m9Nlv7hZCz6MuuA?e=L8uI5U){:target="_blank" rel="noopener"}
-
+### Reject Fax Templates when rejecting out of Fax View 
+| | |
+| :--- | :--- |
+| Member not Found | A Prior Authorization request was received but cannot be processed as the member cannot be found. |
+| Provider Not Found | A The Prior Authorization request was received but cannot be processed as the provider cannot be found. |
+| No PA Form | A Prior Authorization request was received but cannot be processed due to a PA form not being attached. Please resubmit Prior Authorization with approproate form. You can find our forms on our website: https://spbm.medicaid.ohio.gov/SPContent/DocumentLibrary/Forms. |
+| Appeal Received | We have received your appeal request and will review it in accordance with the timelines detailed on your Prior Authorization rejection. If you have any questions, please call us at 833-491-0344 | 
