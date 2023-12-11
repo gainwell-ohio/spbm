@@ -14,7 +14,7 @@ Example: 10MG changed to 20MG
     - What the dose change is (10MG to 20MG in this example) 
     - Previous PA auth# 
 
-### Different Frequency Requested
+### Different Frequency and Same Strength Requested
 Example: 10MG once daily changed to 10MG twice daily received on 12/4/2023 
 
 - Change original PA end date to the previous day, 12/3/2023 in this example​
