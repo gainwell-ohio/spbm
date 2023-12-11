@@ -4,45 +4,55 @@ search:
 ---
 
 # PA Documentation Notes
+Your notes should be so clear that the person looking at your notes knows your exact thought process
 
-The Tech Templates will be used when working PA's in Vue360rx to organize a format so all info needed will be on every case worked by any tech. 
+## The Criteria and correct PA templates need to be included in your notes
+- **Notes should include each point of the Criteria**
+    - If that point of the Criteria is met, include page number you found that information, claims history, ect.
+    - If that point of the Criteria is not met, what led you to that conclusion?
+       - **Example Documentation**
+          - If one point of the Criteria states :"TB Test Required":
+              - *"TB Test confirmed, pg 3 of chart notes"*.
+- You should NEVER just write "criteria met" or "Auto Med Review".
+- If age restriction or Quality limit is apart of the Criteria, those need to be included
 
-## PA Documentation Reminders
+## When documenting applicable drug trials include:
+| | | 
+| :--- | :--- |
+| **Drug Strength** | | 
+|  **Quantity Dispensed** | | 
+|  **The Dates of Service** | If trials occurred over continuous span, OK to document like 5/30/2022- 12/30/2023.| 
+| ***If Documenting Trials from the PA Form*** | Include if the Trials are verified by Vue360RX Claims and if not, why | 
+    
+## How to document Vue360RX Claims and any Drug Trials included on the PA Form:
+- **If Approving the PA**
+    - Only have to include enough claims history / trials to fulfill the Criteria.
+      - Example Documentation
+          - *Approved per paid claims and trials on PA form member meets criteria of trialing 3 preferred medications for at least 180 days each. Member trialed the following 3 preferred drugs: DRUG A 30MG 1tab per day 1/1/2020 - 4/1/2020, Drug B 45MG 1tab per day 4/1/2020 - 8/1/2020, Drug C 60MG 1tab per day 8/1/2020 - 12/1/2020.*
+- **If Sending PA to Med Review**
+    - Document all claims of Preferred and Non-Preferred drugs in that Class
+    - Document all drug trials listed on the PA form, regardless if Preferred or Non-Preferred
+      - Example Documentation
+         - *Sent to Med Review per member does not meet the criteria of trialing 3 preferred medications for at least 90 days each. Per claims history, member trialed the following 2 preferred drugs: DRUG A 30MG 1tab per day 1/1/2020 - 4/1/2020, Drug B 45MG 1tab per day 4/1/2020 - 8/1/2020. Per PA form, member trialed 1 more preferred drug: DRUG C 50MG 8/1/2020 - 12/1/2020, howver, not included in Vue360RX claims history* 
 
-**We are noticing that PA notes can be lacking very important information.** 
 
-- Your notes should be so clear that the person looking at your notes knows your exact thought process
-  -  More information is better.
-  - Pro Tip: Paste applicable criteria in your notes and go one by one, reporting if that point of the criteria was met or not and how you got that information.
+### Additional Notes when Documenting Drug Trials listed on the PA Form 
+- All Drug Trials listed on the PA form need to be Verified with the Claims History in Vue360RX to be used to meet the criteria, with the following **EXCEPTIONS:**
 
-**When approving a PA or sending to Med Review, make sure to include ALL pertinent information including each point on the criteria you are using.**
+#### When PA Trials listed on the PA form DO NOT need to be Verified with Claims History in Vue360RX
 
- -  Techs need to list out the criteria including each criteria point and if the member meets or does not meet in all PA notes. 
-    -  When documenting applicable drug trails include the drug strength, quality dispensed, and the dates of service for each medication. If trials occurred over continuous span, OK to document like 5/30/2022- 12/30/2023.
-    -  You should NEVER just write "criteria met".
-        -  If the member met that point of the criteria, include page number you found that information, claim history, ect.
-        -  If the member does not meet that criteria point - what led you to that conclusion? Is the information not documented or did you see that the member tried one preferred drug and not 2 preferred drugs?
--  All lines of the Med Review template need to be filled out and if not applicable, an N/A or none needs to be included.
-    -  **Techs should never just put "auto med review". Even for Auto Med Review Medications need to have all points of the criteria written down in your notes for the RPH.**
--  If age restriction or Quality limit is apart of the criteria, those need to be included also.
+| | | |
+| :--- | :--- | :--- |
+| **Exception Reason** | **Claims History Verfied in Vue360RX?** | **Can we use for Criteria?**  |
+| Trials occured outside of member eligibility period | No claims history available | Yes, can use for the criteria |
+| Trials occurred before 1/1/2019 | No claims history available | Yes, can use for criteria |
+| Trials are OTC drugs | No claims history available | Yes, can use for criteria |
+| Trials are indicated to be "samples" by the provider | No claims history available | No, cannot use for criteria. Include these trials any Med Review notes |
 
-**PA Claims Lookback Period Update**
-
-- We only need to document enough claims data to fulfill the criteria. We can go as far back as Vue360RX allows to get this information. However, once the criteria is met, no other claims information is needed.
-
-## Example Notes
-- If one point of the criteria states :"TB Test Required" you should add to your notes something like:
-  - *"TB Test confirmed, pg 3 of chart notes"*.
-- Criteria is "needs trials of at least 180 days for 3 preferred medications"
-    -  Only have to include enough claims to meet that. If the member has tried 4 preferred medications for 1 years each, we do not have to include all of those.
-    -  Examples 
-        - *Approved per paid claims data member meets criteria of trialing 3 preferred medications for at least 180 days each. Member trialed the following 3 preferred drugs: DRUG A 30MG 1tab per day 1/1/2020 - 4/1/2020, Drug B 45MG 1tab per day 4/1/2020 - 8/1/2020, Drug C 60MG 1tab per day 8/1/2020 - 12/1/2020.*
-        - *Sent to Med Review per paid claims data member does not meet criteria of trialing 3 preferred medications for at least 180 days each. Member trialed the following 2 preferred drugs: DRUG A 30MG 1tab per day 1/1/2020 - 4/1/2020, Drug B 45MG 1tab per day 4/1/2020 - 8/1/2020.*
-        - *Sent to Med Review per paid claims data member does not meet criteria of trialing 3 preferred medications for at least 180 days each. Member trialed the following 2 preferred drugs: DRUG A 30MG 1tab per day 1/1/2020 - 4/1/2020, Drug B 45MG 1tab per day 4/1/2020 - 8/1/2020. However, trialed Drug D 45MG 1tab per day 1/1/2021 - 4/1/2023. Drug D is not a preferred drug but can be used for the DX.*
-
+# PA Templates
+-  All lines of the template need to be filled out and if not applicable, an N/A or none needs to be included.
 
 ## PA Questions Chat Template
-
 **To be used when asking questions in the PA Questions chat**
 
 - Member Name:
