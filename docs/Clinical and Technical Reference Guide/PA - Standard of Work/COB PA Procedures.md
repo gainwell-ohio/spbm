@@ -1,4 +1,4 @@
-# COB Procedures when Decisioning Prior Authorizations
+# COB PA Procedures
 
 ### Used when there is a Primary Insurance Provider on a member's profile
 
