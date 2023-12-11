@@ -8,13 +8,13 @@ Your notes should be so clear that the person looking at your notes knows your e
 
 ## The Criteria and correct PA templates need to be included in your notes
 - **Notes should include each point of the Criteria**
-    - If that point of the Criteria is met, include page number you found that information, claims history, ect.
+    - If that point of the Criteria is met, include page number you found that information, claims history, etc.
     - If that point of the Criteria is not met, what led you to that conclusion?
        - **Example Documentation**
           - If one point of the Criteria states :"TB Test Required":
               - *"TB Test confirmed, pg 3 of chart notes"*.
 - You should NEVER just write "criteria met" or "Auto Med Review".
-- If age restriction or Quality limit is apart of the Criteria, those need to be included
+- Include any age restriction or Quality limit tht are apart of the Criteria
 
 ## When documenting applicable drug trials include:
 | | | 
