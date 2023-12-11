@@ -23,7 +23,7 @@
 | Serevent Diskus (salmeterol)  | Arformoterol Nebulizer Soln | 
 | Striverdi Respimat (olodaterol) | Formoterol Fumarate Nebulizer Soln| 
 
- ### Corticosteroid Inhalers (ICS) or Steroids::
+### Corticosteroid Inhalers (ICS) or Steroids::
 
 | | | 
 | :--- | :--- |
