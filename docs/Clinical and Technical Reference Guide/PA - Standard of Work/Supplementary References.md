@@ -1,5 +1,4 @@
-# Additional Clinical Information
-
+# Supplementary References
 
 ## Additional Information for Respiratory Agents: Inhaled Agents
 
