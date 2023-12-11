@@ -39,7 +39,7 @@
 | **Preferred** | **Non-Preferred** | 
 | Cromolyn Nebulizer Soln  |  | 
 
-### Combination Inhalers LABA/ICS:
+### Combination Inhalers (LABA/ICS):
 
 | | | 
 | :--- | :--- |
@@ -49,4 +49,38 @@
 | Dulera (mometasone-formoterol) | Budesonide-formoterol | 
 | Symbicort (BvG) (budesonide-formoterol) | Fluticasone-salmeterol  | 
 | | Wilexa Inhub (fluticasone-salmeterol)  | 
+
+
+### Long-acting beta agonists (LABA/LAMA):
+
+| | | 
+| :--- | :--- |
+| **Preferred** | **Non-Preferred** | 
+| Anoro Ellipta (umeclidinium-vilanterol)  | Bevespi Aerosphere (glycopyrrolate-formoterol) | 
+| Stiolto (tiotropium-olodaterol)| Duaklir Pressair (aclidinium-formoterol)| 
+
+
+### Long-acting beta agonists (SABA/LAMA):
+
+| | | 
+| :--- | :--- |
+| **Preferred** | **Non-Preferred** | 
+| Combivent Respimat (ipratropium-albuterol) | | 
+| Ipratropium/Albuterol Nebulizer Soln| | 
+
+
+### Long-acting beta agonists (LABA/LAMA/ICS):
+
+| | | 
+| :--- | :--- |
+| **Preferred** | **Non-Preferred** | 
+|  | Breztri Aerosphere (budesonide-glycopyrrolate-formoterol) | 
+| | Trelegy (fluticasone-umeclidinium-vilanterol) | 
+
+
+
+
+
+
+
 
