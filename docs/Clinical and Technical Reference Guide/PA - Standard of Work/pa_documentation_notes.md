@@ -4,6 +4,7 @@ search:
 ---
 
 # PA Documentation Notes
+
 Your notes should be so clear that the person looking at your notes knows your exact thought process
 
 ## The Criteria and correct PA templates need to be included in your notes
