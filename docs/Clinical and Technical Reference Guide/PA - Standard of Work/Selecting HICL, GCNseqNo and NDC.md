@@ -1,4 +1,4 @@
-# When to select drug by HICL, GCNseqNo and NDC
+# HICL, GCNseqNo and NDC
 
 ## General Notes
 
