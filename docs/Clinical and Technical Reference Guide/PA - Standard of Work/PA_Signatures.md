@@ -1,4 +1,4 @@
-## PA Signatures
+# PA Signatures
 NEVER cancel a PA for a missing signature
 
 ### Accept "signature" if the PA has atleast ONE of the following three elements:
