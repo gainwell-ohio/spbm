@@ -7,6 +7,8 @@ search:
 
 ^^Technician Guide^^
 
+**The Pharmacist Peer to Peer team is in operation from 8am to 8pm Monday through Friday, mimicking the clinical help desk.** Any calls after hours or on weekends may need to be scheduled during regular business hours, and can not guarantee anyone will be available to take the call immediately.
+
 ==Caller states they would like to perform a peer to peer.==
 
 1.	Gather all caller information for HIPPA purposes and create the Contact ID in Vue360Rx. (Proceed to #2)
@@ -21,7 +23,7 @@ search:
 |	Member ID: |
 |	Drug Name: |
 | CNTT: |
-| Denial Rationale: |
+| Denial Rationale: (if a P2P or an appeals was conducted- provide both the original denial and P2P/Appeals denial) |
 |	Callback Dates and Times: **Now** |
 
 
@@ -43,7 +45,7 @@ In the event ==the caller indicates they would like a scheduled call back== with
 |	Member ID: |
 |	Drug Name: |
 | CNTT: |
-| Denial Rationale: |
+| Denial Rationale: (if a P2P or an appeals was conducted- provide both the original denial and P2P/Appeals denial) |
 |	Callback Dates and Times: |
 
 5.	Advise the caller they will receive a call back during the requested time. (End of process)
