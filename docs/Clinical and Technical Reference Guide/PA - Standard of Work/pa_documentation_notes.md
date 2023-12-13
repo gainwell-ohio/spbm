@@ -15,7 +15,7 @@ Your notes should be so clear that the person looking at your notes knows your e
           - If one point of the Criteria states :"TB Test Required":
               - *"TB Test confirmed, pg 3 of chart notes"*.
 - You should NEVER just write "criteria met" or "Auto Med Review".
-- Include any age restriction or Quality limit tht are apart of the Criteria
+- Include any Age Restriction or Quantity limit that are apart of the Criteria
 
 ## When documenting applicable drug trials include:
 | | | 
