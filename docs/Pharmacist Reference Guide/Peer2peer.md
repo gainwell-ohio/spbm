@@ -28,7 +28,7 @@ search:
 |	Member ID: |
 |	Drug Name: |
 | CNTT: |
-| Denial Rationale: |
+| Denial Rationale: (if a P2P or an appeals was conducted- provide both the original denial and P2P/Appeals denial) |
 |	Callback Dates and Times: |
 
 
@@ -96,7 +96,7 @@ Scheduling a Peer to Peer:
 - Member ID:
 - Drug Name:
 - CNTT:
-- Denial Rationale:
+- Denial Rationale: 
 - Callback Dates and Times:
 
 2.	Pharmacist assigned/scheduled to Peer-to-Peer chat will emoji the chat question (Proceed to #2). 
