@@ -5,7 +5,6 @@ search:
 
 # PA Documentation Notes
 
-Your notes should be so clear that the person looking at your notes knows your exact thought process
 
 ## The Criteria and correct PA templates need to be included in your notes
 - **Notes should include each point of the Criteria**
@@ -15,17 +14,18 @@ Your notes should be so clear that the person looking at your notes knows your e
           - If one point of the Criteria states :"TB Test Required":
               - *"TB Test confirmed, pg 3 of chart notes"*.
 - You should NEVER just write "criteria met" or "Auto Med Review".
-- Include any Age Restriction or Quantity limit that are apart of the Criteria
+- Include any Age Restrictions or Quantity Limits that are included in the Criteria
+- Your notes should be so clear that the person looking at your notes knows your exact thought process
 
-## When documenting applicable drug trials include:
+## When documenting applicable Drug Trials include:
 | | | 
 | :--- | :--- |
 | **Drug Strength** | | 
 |  **Quantity Dispensed** | | 
-|  **The Dates of Service** | If trials occurred over continuous span, OK to document like 5/30/2022- 12/30/2023.| 
-| ***If Documenting Trials from the PA Form*** | Include if the Trials are verified by Vue360RX Claims and if not, why | 
+|  **The Dates of Service** | If trials occurred over continuous span, OK to document date span. Example : 5/30/2022- 12/30/2023.| 
+| ***If Documenting Trials from the PA Form*** | Include if the Trials are verified by Vue360RX Claims and if not, your reasoning. See chart below.  | 
     
-## How to document Vue360RX Claims and any Drug Trials included on the PA Form:
+## How to document Drug Trials 
 - **If Approving the PA**
     - Only have to include enough claims history / trials to fulfill the Criteria.
       - Example Documentation
@@ -38,13 +38,13 @@ Your notes should be so clear that the person looking at your notes knows your e
 
 
 ### Additional Notes when Documenting Drug Trials listed on the PA Form 
-- All Drug Trials listed on the PA form need to be Verified with the Claims History in Vue360RX to be used to meet the criteria, with the following **EXCEPTIONS:**
+- All Drug Trials listed on the PA form need to be verified with the Claims History in Vue360RX in order to be used to meet the criteria, with the following exceptions. 
 
-#### When PA Trials listed on the PA form DO NOT need to be Verified with Claims History in Vue360RX
+#### Drug Trials listed on the PA form DO NOT need to be verified with Vue360RX Claims History if any of the below situations exist:
 
 | | | |
 | :--- | :--- | :--- |
-| **Exception Reason** | **Claims History Verfied in Vue360RX?** | **Can we use for Criteria?**  |
+| **Exception Reason** | **Does Claims History need to be verfied in Vue360RX?** | **Can be used for Criteria?**  |
 | Trials occured outside of member eligibility period | No claims history available | Yes, can use for the criteria |
 | Trials occurred before 1/1/2019 | No claims history available | Yes, can use for criteria |
 | Trials are OTC drugs | No claims history available | Yes, can use for criteria |
