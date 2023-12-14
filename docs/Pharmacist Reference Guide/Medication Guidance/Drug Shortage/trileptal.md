@@ -8,14 +8,23 @@ Regards,
 
 Kevin Findley
 
-I believe this will be similar to Vyvanse shortages, please be aware if we get any PAs for the generic suspension
+## Rph Guidance
+
+I believe this will be similar to Vyvanse shortages, please be aware if we get any PAs for the generic suspension.
+
+Similar to Vyvanse/Ciprodex/Flovent as in if we see one come across our PA lap, I would expect to see an extremely high approval rate and not deny for brand, mental procedure more than technical procedure.
+
+If the techs are handling I would hope we don’t see any, but I can hope in one hand.
+
+I am sure it will come up in Medreview or in Tech chat, and given the medication, shortage situation, and UPDL class, do anything to get them what they need.
+
 
 Thanks,
 
 Justin
 
 
-9/20/23 (Vyvanse shortage guidance process)
+## 9/20/23 (Vyvanse shortage guidance process)
 
 Good afternoon!
 
