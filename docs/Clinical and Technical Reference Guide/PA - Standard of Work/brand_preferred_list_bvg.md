@@ -86,12 +86,12 @@
 | Sorafenib Tosylate Tab                               | Nexavar Tab                  | 6/17/2022    | 6/6/2079     |
 | Spinosad Susp                                        | Natroba Susp                 | 1/1/2013     | 6/6/2079     |
 | Spironolactone Susp                                  | Carospir Susp 25mg/5mL       | 11/10/2023   | 6/6/2079     |
-| **Sumatriptan Nasal Spray 10 MG/ACT**                | Tosymra Nasal Spray          | 12/15/2023   | 6/6/2079     |
+| **Sumatriptan Nasal Spray 10 MG/ACT**                | Tosymra Sol 10mg             | **12/15/2023**| 6/6/2079     |
 | Sunitinib Malate Cap                                 | Sutent Cap                   | 8/27/2021    | 6/6/2079     |
 | Tafluprost Preservative Free (PF)                    | ZIOPTAN                      | 12/2/2022    | 6/6/2079     |
 | Tasimelteon Caps                                     | Hetlioz                      | 1/13/2022    | 6/6/2079     |
 | Teriflunomide Tab                                    | Aubagio                      | 3/17/2023    | 6/6/2079     |
-| Teriparatide (Recombinant) Soln Pen-inj	             | Forteo Inj	                  | 12/1/2023  | 6/6/2079     |
+| Teriparatide (Recombinant) Soln Pen-inj	             | Forteo Inj	                  | 12/1/2023    | 6/6/2079     |
 | Tiopronin Tab                                        | Thiola Tab                   | 5/28/2021    | 6/6/2079     |
 | Tiotropium Bromide Monohydrate Inhal Cap             | Spiriva Cap HandiHaler       | 8/25/2023    | 6/6/2079     |
 | Tolvaptan Tab                                        | Samsca Tab                   | 5/29/2019    | 6/6/2079     |
