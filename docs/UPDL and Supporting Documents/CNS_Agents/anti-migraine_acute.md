@@ -18,6 +18,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Nurtec ODT <sup>QL ST</sup>           | Rimegepant ODT (all strengths)                         | Determined pursuant to PA | Determined pursuant to PA |
 | Rizatriptan <sup>QL</sup>             | Rizatriptan Benzoate (all strengths & formulations     |    9     |     30      |
 | Sumatriptan Inj <sup>QL</sup>         | Sumatriptan Succinate Subcutaneous Inj (all strengths) |    4     |     30      |
+| Sumatriptan Nasal Spray | Sumatriptan Succinate Nasal Spray (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
 | Sumatriptan Tab <sup>QL</sup>         | Sumatriptan Succinate Tab (all strengths)              |    9     |     30      |
 | Tosymra <sup>BvG QL ==(Process by NDC)==</sup>             | Sumatriptan Succinate Nasal Spray (all strengths)      |    8     |     30      |
 
@@ -34,7 +35,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Onzetra Xsail <sup>QL</sup>           | Sumatriptan Succinate Nasal Powder (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 | Reyvow                                |                                                    |                           |                           |
 | Sumatriptan / Naproxen                |                                                    |                           |                           |
-|<span title = "Brands Preferred: Imitrex Nasal Spray, Tosymra">Sumatriptan Nasal Spray</span> <sup>QL, Brand Preferred</sup>| Sumatriptan Succinate Nasal Spray (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
 | Trudhesa                              |                                                    |                           |                           |
 | Ubrelvy                               |                                                    |                           |                           |
 | Zolmitriptan                          |                                                    |                           |                           |
