@@ -85,7 +85,7 @@
 | Sorafenib Tosylate Tab                               | Nexavar Tab                  | 6/17/2022    | 6/6/2079     |
 | Spinosad Susp                                        | Natroba Susp                 | 1/1/2013     | 6/6/2079     |
 | Spironolactone Susp                                  | Carospir Susp 25mg/5mL       | 11/10/2023   | 6/6/2079     |
-| **Sumatriptan Nasal Spray 10 MG/ACT**                | Tosymra Sol 10mg             | 12/15/2023   | 6/6/2079     |
+| Sumatriptan Nasal Spray 10 MG/ACT                | **Tosymra Sol 10mg**             | 12/15/2023   | 6/6/2079     |
 | Sunitinib Malate Cap                                 | Sutent Cap                   | 8/27/2021    | 6/6/2079     |
 | Tafluprost Preservative Free (PF)                    | ZIOPTAN                      | 12/2/2022    | 6/6/2079     |
 | Tasimelteon Caps                                     | Hetlioz                      | 1/13/2022    | 6/6/2079     |
@@ -101,4 +101,4 @@
 | Tretinoin Microsphere Gel 0.08%                      | Retin-A Micro Pump 0.08%     | 9/8/2023     | 6/6/2079     |
 | Vilazodone HCl Tab                                   | Viibryd Tab                  | 6/10/2022    | 6/6/2079     |
 
-[Brand Over Generic List](https://mygainwell-my.sharepoint.com/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/EebXzQRfarxHmfFiWaT6g-8Bd0BYra4MChdG9CnIv4r4XQ?e=DjFtd9){:target="_blank" rel="noopener"}
+[Brand Over Generic List](https://mygainwell-my.sharepoint.com/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/Eab9lpYH2z9Anceoa8-iJwoBlEmuUPHEcuKiWiRAlYRReQ?e=zlpjtI){:target="_blank" rel="noopener"}
