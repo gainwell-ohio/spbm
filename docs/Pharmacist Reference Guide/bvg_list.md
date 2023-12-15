@@ -78,19 +78,19 @@
 | Rufinamide Tab                                       | Banzel Tab                   | 6/11/2021    | 6/6/2079     |
 | Saxagliptin HCl Tab (Base Equiv)                     | Onglyza Tab                  | 8/11/2023    | 6/6/2079     |
 | Saxagliptin-Metformin HCl Tab ER 24HR                | Kombiglyze XR                | 8/18/2023    | 6/6/2079     |
-| Sod Sulfate-Pot Sulf-Mg Sulf Oral Sol 17.5-3.13-1.6 GM/177ML | Suprep Bowel Sol Prep Kit | 10/1/2023  | 6/6/2079    |
+| Sod Sulfate-Pot Sulf-Mg Sulf Oral Sol 17.5-3.13-1.6 GM/177ML | Suprep Bowel Sol Prep Kit | 10/1/2023  | 6/6/2079  |
 | Sodium Oxybate Oral Solution                         | Xyrem Sol                    | 12/30/2022   | 6/6/2079     |
 | Sodium Phenylbutyrate Oral Powder 3 GM/Teaspoonful   | Buphenyl Pow                 | 9/11/2020    | 6/6/2079     |
 | Sodium Phenylbutyrate Tab                            | Buphenyl Tab                 | 9/29/2017    | 6/6/2079     |
 | Sorafenib Tosylate Tab                               | Nexavar Tab                  | 6/17/2022    | 6/6/2079     |
 | Spinosad Susp                                        | Natroba Susp                 | 1/1/2013     | 6/6/2079     |
-| Spironolactone Susp                                  | Carospir Susp 25mg/5mL        | 11/10/2023   | 6/6/2079     |
-| Sumatriptan Nasal Spray                              | Imitrex, Tosymra Nasal Spray | 12/16/2022   | 6/6/2079     |
+| Spironolactone Susp                                  | Carospir Susp 25mg/5mL       | 11/10/2023   | 6/6/2079     |
+| **Sumatriptan Nasal Spray 10 MG/ACT**                | Tosymra Sol 10mg             | 12/15/2023   | 6/6/2079     |
 | Sunitinib Malate Cap                                 | Sutent Cap                   | 8/27/2021    | 6/6/2079     |
 | Tafluprost Preservative Free (PF)                    | ZIOPTAN                      | 12/2/2022    | 6/6/2079     |
 | Tasimelteon Caps                                     | Hetlioz                      | 1/13/2022    | 6/6/2079     |
 | Teriflunomide Tab                                    | Aubagio                      | 3/17/2023    | 6/6/2079     |
-| Teriparatide (Recombinant) Soln Pen-inj	             | Forteo Inj	                  | **12/1/2023** | 6/6/2079     |
+| Teriparatide (Recombinant) Soln Pen-inj	             | Forteo Inj	                  | 12/1/2023    | 6/6/2079     |
 | Tiopronin Tab                                        | Thiola Tab                   | 5/28/2021    | 6/6/2079     |
 | Tiotropium Bromide Monohydrate Inhal Cap             | Spiriva Cap HandiHaler       | 8/25/2023    | 6/6/2079     |
 | Tolvaptan Tab                                        | Samsca Tab                   | 5/29/2019    | 6/6/2079     |
