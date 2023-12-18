@@ -1,7 +1,11 @@
 # Duplicate PAs and Subsequent Authorizations
 
 ## Duplicate PAs and Subsequent Authorization Notes
-- Techs can review auto Med Review cases
+- Techs can review Auto Med Review cases
+
+
+![Alt text](<Flowchart Picture.png>)
+
 
 | Procedure | Definition | Process |
 |:---:|:---|:---|
