@@ -1,9 +1,11 @@
 # Dose and Frequency Changes
 
-## Dose Change Scenarios 
+## Dose and Frequency Change Notes
 - Use when a new PA is submitted for a dose or frequency change when there is an approved PA on file for the requested medication  
-- Techs can approve dose change except for Auto Med review drugs
-- Review the steps for the two scenarios below 
+- Techs can approve all dose / frequency changes **including** Auto Med Review drugs
+  - Pay attention to any Quantity Limits exceeded by the change
+  
+## Review the steps for the two scenarios below: 
 
 ### Different Strength Requested
 Example: 10MG changed to 20MG
