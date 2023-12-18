@@ -37,11 +37,11 @@ This is a subcategory of Endocrine Agents.
 
 ## Criteria
 
-### Clinical PA
+### Step Therapy 
 
-Clinical PA Criteria
+Step Therapy Criteria
 
-- Must have had an inadequate clinical response of at least ^^90 days^^ with at least ^^one preferred^^ oral contraceptive
+- Must have had an inadequate clinical response of at least ^^84^^ days with at least ^^one preferred^^ NSAID and ^^one preferred oral contraceptive^^  
 
 ### Non-Preferred
 
