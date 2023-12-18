@@ -3,6 +3,8 @@
 - Please note: These presentations were accurate when they were published. However, as processes change, some previous presentations might have outdated information.
 - **Always use Evergreen for the most updated information**
 
+[Weekly Team Meeting Presentation Week Ending 12/23/23](https://mygainwell-my.sharepoint.com/:p:/g/personal/emily_reinhart_gainwelltechnologies_com/Eb_oUHpB7TRBiyrPlIRZJzAB06PYtqrODvA8WjiUMx0lbw?e=1oBReu){:target="_blank" rel="noopener"}
+
 [Weekly Team Meeting Presentation Week Ending 12/16/23](https://mygainwell-my.sharepoint.com/:p:/g/personal/emily_reinhart_gainwelltechnologies_com/EZtG4uF6AppBntCxmJEGuzIBFJ_oSuHGguxkiS8tZPwB5A?e=1tm2R3){:target="_blank" rel="noopener"}
 
 [Weekly Team Meeting Presentation Week Ending 12/9/23](https://mygainwell-my.sharepoint.com/:p:/g/personal/emily_reinhart_gainwelltechnologies_com/EYaYXC0WsZxFmo7tSbklm7MBGZK2prqH_SkTttjkIcik4w?e=8szbBx){:target="_blank" rel="noopener"}
