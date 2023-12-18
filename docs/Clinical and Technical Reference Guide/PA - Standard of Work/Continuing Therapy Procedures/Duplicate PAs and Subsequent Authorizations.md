@@ -4,6 +4,8 @@
 - Techs can review Auto Med Review cases
 - Legacy PAs can be used when determining if a PA is a Subsequent Authorization / Continuation of Therapy.  
 
+[Continuing Therapy Flowchart PDF](https://mygainwell-my.sharepoint.com/:b:/g/personal/emily_reinhart_gainwelltechnologies_com/EbiMWH5vvNhGpMXsSYtnSqIB8pUpg4LD9eePwKV7vGqm-w?e=dDgv1V){:target="_blank" rel="noopener"}
+
 
 ![Alt text](<Flowchart Picture.png>)
 
