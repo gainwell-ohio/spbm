@@ -1,5 +1,8 @@
 # Duplicate PAs and Subsequent Authorizations
 
+## Duplicate PAs and Subsequent Authorization Notes
+- Techs can review auto Med Review cases
+
 | Procedure | Definition | Process |
 |:---:|:---|:---|
 | Duplicate PA | PA submitted on **same date** as an approved PA on file for the **same drug, dose, frequency** | Cancel PA and use the Cancel / Fax Back procedure, detailed in "Cancel and Not Required" tab   |
