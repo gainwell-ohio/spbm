@@ -1,4 +1,4 @@
-# Carved Out Medications: PA Process
+# Carved Out Medications
 
 ## When a PA is received for one of the below medications:
 
