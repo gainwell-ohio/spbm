@@ -46,6 +46,10 @@
 
 [Faxing a Reject Fax to Cancel a PA in the PA Queue](https://mygainwell-my.sharepoint.com/:w:/g/personal/kaelyn_dobbins_gainwelltechnologies_com/EX7GOhXVxAdKoPqAMDygcTQBFGHSQ-ZLB6oUkZXQ21kiyQ?e=EXHrgd){:target="_blank" rel="noopener"}
 
+### Process Manger Instructions
+[Process Manger Instructions](https://mygainwell-my.sharepoint.com/:w:/g/personal/brittaney_thompson_gainwelltechnologies_com/EU-zUmj1lpJElD3X5HwxHp0BMTMPgNhladZYV6n9ITpYpQ?e=EOe344)
+{:target="_blank" rel="noopener"}
+
 ### Reject Fax Back Word Document
 
 [Reject Fax Template](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/g/personal/jessica_cain_gainwelltechnologies_com/EbwJe79pnD5GqMnKP4RYX6kBChL7cN0m9Nlv7hZCz6MuuA?e=L8uI5U){:target="_blank" rel="noopener"}
