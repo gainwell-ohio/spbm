@@ -11,7 +11,7 @@ search:
 
 [Technician Insurance Pass Tracker](https://mygainwell-my.sharepoint.com/:x:/r/personal/justin_collingwood_gainwelltechnologies_com/Documents/Documents/TechPrimaryInsPass.xlsx?d=w90fe98291f8b442b83a0be3fb411f616&csf=1&web=1&e=TOwuAM){:target="_blank" rel="noopener"}
 
-[Medical Necessity Policy](https://mygainwell.sharepoint.com/:b:/r/sites/OHMCD/SPBM%20Workspace/Clinical/Policies/Medical%20Necessity/Archive/Medical%20Necessity_OH%20SPBM_Policy_V3.0.pdf?csf=1&web=1&e=TjL8ta){:target="_blank" rel="noopener"}
+[Medical Necessity Policy](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/OH%20SPBM%20Medical%20Necessity%20Policy.pdf){:target="_blank" rel="noopener"}
 
 [Denial Language](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7Bcd777f63-7f18-4713-8d6a-b043bee631f5%7D&action=view&wdAccPdf=0&wdparaid=1BA206B6){:target="_blank" rel="noopener"}
 
