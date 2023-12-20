@@ -82,7 +82,7 @@ search:
 - MME value if applicable:  ------- 
 - Notes (pg # of note):  ------- 
 - UPDL Criteria notes, if applicable: ------- 
-- Pathway Notes, including name of Tree / Pathway, if applicable: ------- 
+- Pathway Notes, including name of Pathway, if applicable: ------- 
 - Reason for sending to RPH:  ------- 
 
 ## Brand Request sent to MEDREVIEW
@@ -95,7 +95,7 @@ search:
 - Reason generics can't be used:  ------- 
 - Notes: -------
 - UPDL Criteria notes, if applicable: ------- 
-- Pathway Notes, including name of Tree / Pathway, if applicable: ------- 
+- Pathway Notes, including name of Pathway, if applicable: ------- 
 
 ## Approval Notes for PA
 
@@ -107,7 +107,7 @@ search:
 - Qty/day supply: ------- 
 - Approval duration: ------- 
 - Claims of trials (drug name(s), dates paid, qty & d/s): -------
-- Reason for Approval (cite UPDL criteria or Pathway Notes, including name of Tree / Pathway): ------- 
+- Reason for Approval (cite UPDL criteria or Pathway Notes, including name of Pathway): ------- 
 
 ## Verbal PA
  
@@ -127,7 +127,7 @@ search:
 - Diagnosis (+ ICD 10 code): -------- 
 - Notes:  -------
 - UPDL Criteria notes, if applicable: ------- 
-- Pathway Notes, including name of Tree / Pathway, if applicable: ------- 
+- Pathway Notes, including name of Pathway, if applicable: ------- 
 
 ## Cancelled PA Template
 
