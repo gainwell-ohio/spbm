@@ -11,5 +11,6 @@
 - ePAs may not have a document attached, unless the provider uploads extra cliunical documentation or the PA form. This is not required.
 - ePAs will not have a DX code associated with it unless the provider includes it any submitted additional clinical documentation.
     -  DX code is NOT required for ePAs as the provider attests that they are treating the member for a FDA approved diagnosis for the medication.
-    -  In your notes under "DX", please indicate this when working with ePAs. 
+    -  In your notes under "DX", please indicate this when working with ePAs.
+- When placing approvals on the ePAs and ensure that the approval duration, daily dose units and quantity dispensed are updated from what is sent over on the ePA. We are seeing that the quantities coming over are not the actual quantities being asked for
   
