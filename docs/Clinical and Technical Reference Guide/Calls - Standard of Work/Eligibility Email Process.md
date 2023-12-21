@@ -42,10 +42,11 @@ Provide description of issue and what needs to be corrected (Ex: coverage gap, m
   - We have the wrong DOB in Vue360RX
   - We have the wrong date of death in Vue360RX
   - edits 7011 or Medicare eligibility edits- 7220 and 7387 
-    - For edit 7011, we should try to have the pharmacy bill the primary coverage first using OCC 2 and then OCC 3 if the primary insurance rejects the claim.  If the pharmacy is unable or unwilling to bill using the COB process, please have the agent complete the following steps: 
-    - The agent should reach out to the primary insurance on the claim to confirm coverage. 
-    - If the coverage has termed, an edit override is appropriate.   
-    - The agent should also document (in the EO notes and contact note) who they spoke to at the primary insurance to confirm the coverage termination. Also please include that an eligibility email has been sent   
-    - After providing the EO (so that the member can receive their medication), the agent should follow the above eligibility process so that we can remove the COB Pharmacy span. 
+    - For edit 7011, we should try to have the pharmacy bill the primary coverage first using OCC 2 and then OCC 3 if the primary insurance rejects the claim.  ^^If the pharmacy is unable or unwilling to bill using the COB process, please have the agent complete the following steps:^^ 
+      - The agent should reach out to the primary insurance on the claim to confirm coverage. 
+      - If the coverage has termed, an edit override is appropriate.   
+      - The agent should also document (in the EO notes and contact note) who they spoke to at the primary insurance to confirm the coverage termination. Also please include that an eligibility email has been sent   
+      - After providing the EO (so that the member can receive their medication), the agent should follow the above eligibility process so that we can remove the COB Pharmacy span.
+      - If Walgreens/Walmart advises that they cannot bill using OCC 1 or OCC 3, please reach out to the primary insurance and confirm coverage. If the primary insurance confirms that the member is no longer active with the plan, an EQ for 7011 is allowed.
 
 
