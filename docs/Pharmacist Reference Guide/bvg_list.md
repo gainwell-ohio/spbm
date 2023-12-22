@@ -24,7 +24,7 @@
 | Budesonide Rectal Foam                               | Uceris                       | 4/28/2023    | 6/6/2079     |
 | Budesonide-Formoterol Fumarate Dihyd Aerosol         | Symbicort                    | 1/17/2020    | 6/6/2079     |
 | Buprenorphine TD Patch Weekly                        | Butrans                      | 4/16/2021    | 6/6/2079     |
-| Clindamycin Phosphate-Benzoyl Peroxide Gel 1.2-3.75% | Onexton Gel 1.2-3.75         | 10/6/2023    | 6/6/2079 |
+| Clindamycin Phosphate-Benzoyl Peroxide Gel 1.2-3.75% | Onexton Gel 1.2-3.75         | 10/6/2023    | 6/6/2079     |
 | Colchicine Cap 0.6 MG                                | Mitigare                     | 12/30/2022   | 6/6/2079     |
 | Cyclosporine (Ophth) Emulsion                        | Restasis Emu                 | 2/18/2022    | 6/6/2079     |
 | Dabigatran Etexilate Mesylate                        | Pradaxa Cap                  | 7/8/2022     | 6/6/2079     |
@@ -49,8 +49,6 @@
 | Gefitinib Tab                                        | Iressa                       | 5/12/2023    | 6/6/2079     |
 | Glatiramer Acetate Soln Prefilled Syringe            | Copaxone Prefilled Syring    | 1/5/2018     | 6/6/2079     |
 | Icosapent Ethyl Cap                                  | Vascepa                      | 9/23/2022    | 6/6/2079     |
-| Insulin Degludec Inj                                 | Tresiba                      | 9/23/2022    | 6/6/2079     |
-| Insulin Degludec Soln Pen-Injector                   | Tresiba                      | 9/23/2022    | 6/6/2079     |
 | Insulin Glargine Inj 100 Unit/ML                     | Semglee Sol 100u/ml          | 5/20/2022    | 6/6/2079     |
 | Insulin Glargine Soln Pen-Injector 100 Unit/ML       | Lantus Solos Inj 100/ml      | 5/20/2022    | 6/6/2079     |
 | Isosorbide Dinitrate-Hydralazine HCl Tab             | Bidil Tab                    | 4/22/2022    | 6/6/2079     |
@@ -75,6 +73,7 @@
 | Plerixafor Subcutaneous Inj                          | Mozobil Inj                  | 7/21/2023    | 6/6/2079     |
 | Potassium Phosphate Monobasic Tab 500 MG             | K-Phos Tab                   | 5/13/2022    | 6/6/2079     |
 | Pyridostigmine Bromide Syrup                         | Mestinon Syp                 | 3/22/2019    | 6/6/2079     |
+| Risperidone Microspheres For IM Extended Rel Susp    | Risperdal Inj                | 12/22/2023   | 6/6/2079     |
 | Rufinamide Tab                                       | Banzel Tab                   | 6/11/2021    | 6/6/2079     |
 | Saxagliptin HCl Tab (Base Equiv)                     | Onglyza Tab                  | 8/11/2023    | 6/6/2079     |
 | Saxagliptin-Metformin HCl Tab ER 24HR                | Kombiglyze XR                | 8/18/2023    | 6/6/2079     |
@@ -85,7 +84,7 @@
 | Sorafenib Tosylate Tab                               | Nexavar Tab                  | 6/17/2022    | 6/6/2079     |
 | Spinosad Susp                                        | Natroba Susp                 | 1/1/2013     | 6/6/2079     |
 | Spironolactone Susp                                  | Carospir Susp 25mg/5mL       | 11/10/2023   | 6/6/2079     |
-| Sumatriptan Nasal Spray 10 MG/ACT                | **Tosymra Sol 10mg**             | 12/15/2023   | 6/6/2079     |
+| Sumatriptan Nasal Spray 10 MG/ACT                    | **Tosymra Sol 10mg**         | 12/15/2023   | 6/6/2079     |
 | Sunitinib Malate Cap                                 | Sutent Cap                   | 8/27/2021    | 6/6/2079     |
 | Tafluprost Preservative Free (PF)                    | ZIOPTAN                      | 12/2/2022    | 6/6/2079     |
 | Tasimelteon Caps                                     | Hetlioz                      | 1/13/2022    | 6/6/2079     |
