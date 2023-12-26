@@ -59,7 +59,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Quetiapine IR <sup>QL</sup>     | Quetiapine Fumarate Tab 300 MG & 400 MG                              |            204            |            102            |
 | Quetiapine ER <sup>QL</sup>     | Quetiapine Fumarate ER Tab (all strengths excl 150 MG & 200 MG)      |            204            |            102            |
 | Quetiapine ER <sup>QL</sup>     | Quetiapine Fumarate ER Tab 150 MG & 200 MG                           |            102            |            102            |
-| Risperdal Consta <sup>QL</sup>  | Risperidone Microspheres ER IM Inj (all strengths)                   |             7             |            98             |
+| Risperdal Consta <sup>QL, BVG ==(Process by NDC)== Weekly BVG Updates</sup>  | Risperidone Microspheres ER IM Inj (all strengths)                   |             7             |            98             |
 | Risperidone <sup>QL</sup>       | Risperidone Soln (all strengths)                                     |            816            |            102            |
 | Risperidone <sup>QL</sup>       | Risperidone Tab (all strengths)                                      |            306            |            102            |
 | Risperidone <sup>QL</sup>       | Risperidone ODT (all strengths)                                      |            204            |            102            |
