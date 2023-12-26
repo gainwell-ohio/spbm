@@ -29,13 +29,14 @@ This is a subcategory of Endocrine Agents.
 | Humulin R U-500 <sup>QL</sup>             | Insulin Regular Soln Subcutaneous Inj 500 Unit / ML (all formulations)  |   61.2   |     102     |
 | Insulin Aspart <sup>QL</sup>              | Insulin Aspart Soln Subcutaneous Inj 100 Unit / ML (all formulations)   |   306    |     102     |
 | Insulin Aspart Protamine / Insulin Aspart |                                                                         |          |             |
+| Insulin Degludec <sup>ST</sup> |    |   |  |
 | Insulin Lispro <sup>QL</sup>              | Insulin Lispro Soln Subcutaneous Inj 100 Unit / ML (all formulations)   |   306    |     102     |
 | Lantus <sup>BvG QL ==(Process by NDC)==</sup>                  | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) |   204    |     102     |
 | Levemir                                   |                                                                         |          |             |
 | Novolog 70-30                             |                                                                         |          |             |
 | Novolog U-100 <sup>QL</sup>               |                                                                         |          |             |
 | Toujeo                                    |                                                                         |          |             |
-| Tresiba <sup>BvG ST ==(Process by NDC)==</sup>                 |                                                                         |          |             |
+| Tresiba <sup>ST</sup>                 |                                                                         |          |             |
 
 ### Non-Preferred
 
