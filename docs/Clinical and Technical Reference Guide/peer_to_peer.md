@@ -11,7 +11,7 @@ search:
 
 ==Caller states they would like to perform a peer to peer.==
 
-1.	Gather all caller information for HIPPA purposes and create the Contact ID in Vue360Rx. (Proceed to #2)
+1.	Gather all caller information for HIPAA purposes and create the Contact ID in Vue360Rx. (Proceed to #2)
 2.	Pull up the denied PA and verify the PA the caller requesting the Peer to Peer on. (Proceed to #3)
 3.	Using the Peer-to-Peer template (below), place the request in the Peer-to-Peer chat. (Proceed to #4)
 
@@ -33,7 +33,7 @@ search:
 
 In the event ==the caller indicates they would like a scheduled call back== with the Pharmacist for the peer to peer. 
 
-1.	Gather all caller information for HIPPA purposes and create the Contact ID in Vue360Rx. (Proceed to #2)
+1.	Gather all caller information for HIPAA purposes and create the Contact ID in Vue360Rx. (Proceed to #2)
 2.	Pull up the denied PA and verify the PA they are requesting the Peer to Peer on. (Proceed to #3)
 3.	Using the Callback template, place the request in the Peer to Peer chat. (Proceed to #4)
 
@@ -50,9 +50,8 @@ In the event ==the caller indicates they would like a scheduled call back== with
 
 5.	Advise the caller they will receive a call back during the requested time. (End of process)
 
-### Revision History
-
-| Version | Author | Revision Date |
-| :--- | :--- | :--- |
-| 1.0 | Cassandra Roach, PharmD, RPh | 10/11/2023 |
+| Version | Author | Update Date | 
+| ------------- | ------------- |---------| 
+| 3.0 | Sherri Cohmer, RPh, MBA | 12/30/2023 |
 | 2.0 | Justin Collingwood, PharmD, rph | 11/20/2023 |
+| 1.0 | Cassandra Roach, PharmD, RPh | 10/11/2023 |
