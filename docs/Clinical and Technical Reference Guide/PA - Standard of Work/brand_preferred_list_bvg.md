@@ -89,7 +89,6 @@
 | Sunitinib Malate Cap                                 | Sutent Cap                   | 8/27/2021    | 6/6/2079     |
 | Tafluprost Preservative Free (PF)                    | ZIOPTAN                      | 12/2/2022    | 6/6/2079     |
 | Tasimelteon Caps                                     | Hetlioz                      | 1/13/2022    | 6/6/2079     |
-| Teriflunomide Tab                                    | Aubagio                      | 3/17/2023    | 6/6/2079     |
 | Teriparatide (Recombinant) Soln Pen-inj	             | Forteo Inj	                  | 12/1/2023    | 6/6/2079     |
 | Tiopronin Tab                                        | Thiola Tab                   | 5/28/2021    | 6/6/2079     |
 | Tiotropium Bromide Monohydrate Inhal Cap             | Spiriva Cap HandiHaler       | 8/25/2023    | 6/6/2079     |
