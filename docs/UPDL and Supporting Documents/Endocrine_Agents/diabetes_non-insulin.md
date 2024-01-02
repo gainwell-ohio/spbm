@@ -60,7 +60,8 @@ This is a subcategory of Endocrine Agents.
 | Synjardy                                              |                                                                  |                           |                           |
 | Tradjenta                                             |                                                                  |                           |                           |
 | Trulicity <sup>QL</sup>                               | Dulaglutide Inj (all strengths)                                  |             6             |            84             |
-| Victoza <sup>QL</sup>                                 | Liraglutide Soln Subcutaneous Inj (all strengths & formulations) |           30.6            |            102            |
+| Victoza <sup>QL</sup>                                 | Liraglutide Soln Subcutaneous Inj (all strengths & formulations) |           30.6            | 102 |
+| Xigduo XR                                             |                                                  |          |             |
 
 ### Non-Preferred
 
@@ -92,7 +93,6 @@ This is a subcategory of Endocrine Agents.
 | Symlinpen                                        |                                                  |          |             |
 | Synjardy XR                                      |                                                  |          |             |
 | Trijardy XR                                      |                                                  |          |             |
-| Xigduo XR                                        |                                                  |          |             |
 | Xultophy                                         |                                                  |          |             |
 
 ## Authorizations 
