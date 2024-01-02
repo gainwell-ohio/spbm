@@ -53,8 +53,6 @@ This is a subcategory of Infectious Disease Agents.
 | Prezista <sup>BVG (==Process by NDC==- Weekly Updates)</sup>       |              |          |             |
 | Ritonavir Tab                                 |              |          |             |
 | Rukobia ER <sup>PA</sup>                      |              |          |             |
-| Symfi <sup>BvG ==(Process by NDC)==</sup>                          |              |          |             |
-| Symfi Lo <sup>BvG ==(Process by NDC)==</sup>                       |              |          |             |
 | Symtuza                                       |              |          |             |
 | Temixys                                       |              |          |             |
 | Tenofovir Disoproxil Fumarate 300 MG          |              |          |             |
@@ -73,6 +71,7 @@ This is a subcategory of Infectious Disease Agents.
 | Abacavir Susp                                                                                                                              |              |          |             |
 | Abacavir / Lamivudine / Zidovudine                                                                                                         |              |          |             |
 | Aptivus                                                                                                                                    |              |          |             |
+| Cimduo                                                                                                                                     |              | | |
 | Didanosine                                                                                                                                 |              |          |             |
 | Edurant                                                                                                                                    |              |          |             |
 | <span title = "Brands Preferred: Symfi, Symfi Lo">Efavirenz / Lamivudine / Tenofovir Disoproxil Fumarate</span> <sup>Brand Preferred</sup> |              |          |             |
@@ -89,6 +88,8 @@ This is a subcategory of Infectious Disease Agents.
 | Selzentry <sup>BvG ==(Process by NDC)==</sup>                                                                                                                   |              |          |             |
 | Stavudine                                                                                                                                  |              |          |             |
 | Stribild                                                                                                                                   |              |          |             |
+| Symfi <sup>BvG ==(Process by NDC)==</sup>                          |              |          |             |
+| Symfi Lo <sup>BvG ==(Process by NDC)==</sup>                       |              |          |             |
 | Tybost                                                                                                                                     |              |          |             |
 | Viracept                                                                                                                                   |              |          |             |
 
