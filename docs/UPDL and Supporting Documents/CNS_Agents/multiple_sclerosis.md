@@ -37,7 +37,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Extavia                                                                                  |              |          |             |
 | <span title = "Brand Preferred: Copaxone">Glatiramer</span> <sup>Brand Preferred</sup>   |              |          |             |
 | Glatopa                                                                                  |              |          |             |
-
 | Mavenclad                                                                                |              |          |             |
 | Mayzent                                                                                  |              |          |             |
 | Plegridy                                                                                 |              |          |             |
