@@ -50,6 +50,12 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ## Criteria
 
+### Step Therapy
+
+Step Therapy Criteria
+
+- Must have had an inadequate clinical response of at least ^^30 days^^ with generic Lidocaine patch
+
 ### Non-Preferred
 
 Non-Preferred Criteria
