@@ -24,6 +24,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Dimethyl Fumarate         |              |          |             |
 | Fingolimod                |              |          |             |
 | Gilenya                   |              |          |             |
+| Kesimpta                  |              |          |             |
 | Rebif                     |              |          |             |
 | Teriflunomide             |              |          |             |
  
@@ -35,7 +36,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Extavia                                                                                  |              |          |             |
 | <span title = "Brand Preferred: Copaxone">Glatiramer</span> <sup>Brand Preferred</sup>   |              |          |             |
 | Glatopa                                                                                  |              |          |             |
-| Kesimpta                                                                                 |              |          |             |
+
 | Mavenclad                                                                                |              |          |             |
 | Mayzent                                                                                  |              |          |             |
 | Plegridy                                                                                 |              |          |             |
