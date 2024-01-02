@@ -32,7 +32,6 @@ This is a subcategory of Infectious Disease Agents.
 | Apretude                                      |              |          |             |
 | Atazanavir Sulfate                            |              |          |             |
 | Biktarvy                                      |              |          |             |
-| Cimduo                                        |              |          |             |
 | Complera                                      |              |          |             |
 | Delstrigo                                     |              |          |             |
 | Descovy                                       |              |          |             |
