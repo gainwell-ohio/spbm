@@ -142,7 +142,7 @@ This is a subcategory of Cardiovascular Agents.
 | Camzyos                                                                               |              |          |             |
 | Candesartan                                                                           |              |          |             |
 | Candesartan/HCTZ                                                                      |              |          |             |
-| Carospir<sup>BVG (==Process by NDC==) Weekly Updates</sup>                                                                               |              |          |             |
+| Carospir<sup>BVG (==Process by NDC==) Weekly Updates</sup>                            |              |          |             |
 | Carvedilol ER                                                                         |              |          |             |
 | Clonidine ER (generic of Nexiclon XR)                                                 |              |          |             |
 | Corlanor                                                                              |              |          |             |
@@ -151,6 +151,7 @@ This is a subcategory of Cardiovascular Agents.
 | Edarbyclor                                                                            |              |          |             |
 | Hydralazine/HCTZ                                                                      |              |          |             |
 | Innopran XL                                                                           |              |          |             |
+| Inpefa                                                                                |              |          |             |
 | Isradipine                                                                            |              |          |             |
 | Kapspargo                                                                             |              |          |             |
 | Katerzia                                                                              |              |          |             |
