@@ -22,7 +22,8 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred                          | Generic Name                                        |         Quantity          |        Time (Days)        |
 |:-----------------------------------|:----------------------------------------------------|:-------------------------:|:-------------------------:|
-| Banzel Tab <sup>BvG ==(Process by NDC)==</sup>          |                                                     |                           |                           |
+| Banzel Tab <sup>BvG ==(Process by NDC)==</sup>          |                                                     |                           |  |
+| Briviact                                                                                             |              |          |             |
 | Carbamazepine                      |                                                     |                           |                           |
 | Clobazam                           |                                                     |                           |                           |
 | Clonazepam                         |                                                     |                           |                           |
@@ -61,7 +62,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Non-Preferred                                                                                        | Generic Name | Quantity | Time (Days) |
 |:-----------------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
 | Aptiom                                                                                               |              |          |             |
-| Briviact                                                                                             |              |          |             |
 | Celontin <sup>BVG (==Process by NDC== - Weekly Updates)</sup>                                                                     |              |          |             |
 | Clonazepam ODT                                                                                       |              |          |             |
 | Elepsia XR                                                                                           |              |          |             |
