@@ -17,7 +17,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred                 | Generic Name | Quantity | Time (Days) |
 |:--------------------------|:-------------|:--------:|:-----------:|
-| Aubagio <sup>BvG ==(Process by NDC)==</sup>    |              |          |             |
+| Aubagio                   |              |          |             |
 | Avonex                    |              |          |             |
 | Betaseron                 |              |          |             |
 | Copaxone <sup>BvG ==(Process by NDC)==</sup>   |              |          |             |
