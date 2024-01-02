@@ -47,7 +47,7 @@ Clinical PA Criteria
 
 - Must have had an inadequate clinical response of at least ^^90 days^^ with at least ^^one preferred^^ topical **AND** ^^one preferred^^ oral antibiotic for acne
 - Must be absent of oral tretinoin in the past 56 days
-- Patient must be registered and meet all of the requirements of the iPLEDGE program
+- Prescriber attests that patient is registered and meets all of the requirements of the iPLEDGE program
 
 ### Non-Preferred
 
