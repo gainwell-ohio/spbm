@@ -42,12 +42,18 @@ This is a subcategory of Immunomodulator Agents.
 | Non-Preferred   | Generic Name | Quantity | Time (Days) |
 |:----------------|:-------------|:--------:|:-----------:|
 | Actemra         |              |          |             |
+| Adalimumab-adaz (Generic of Hyrimoz) | |  |             |
+| Adalimumab-fkjp (Generic of Hulio    | |  |             |
 | Amjevita        |              |          |             |
 | Cibinqo         |              |          |             |
 | Cimzia          |              |          |             |
 | Cosentyx        |              |          |             |
+| Cyltezo         |              |          |             |
+| Hadlima         |              |          |             |
+| Idacio          |              |          |             |
 | Ilumya          |              |          |             |
 | Kevzara         |              |          |             |
+| Litfulo         |              |          |             |
 | Olumiant        |              |          |             |
 | Orencia         |              |          |             |
 | Rinvoq          |              |          |             |
@@ -58,6 +64,8 @@ This is a subcategory of Immunomodulator Agents.
 | Stelara         |              |          |             |
 | Tremfya         |              |          |             |
 | Xeljanz Sol, XR |              |          |             |
+| Yuflyma         |              |          |             |
+| Yusimry         |              |          |             |
 
 ## Authorizations ==(PROCESS BY HICL except for Xeljanz (GSN))==
 
