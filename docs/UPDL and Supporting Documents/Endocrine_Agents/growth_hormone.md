@@ -21,6 +21,7 @@ This is a subcategory of Endocrine Agents.
 | :------------------------ | :----------- | :------: | :---------: |
 | Genotropin <sup>PA</sup>  |              |          |             |
 | Norditropin <sup>PA</sup> |              |          |             |
+| Zomacton <sup>PA</sup>    |              |          |             |
 
 ### Non-Preferred
 
@@ -32,7 +33,6 @@ This is a subcategory of Endocrine Agents.
 | Saizen        |              |          |             |
 | Serostim      |              |          |             |
 | Skytrofa      |              |          |             |
-| Zomacton      |              |          |             |
 
 ## Authorizations
 
