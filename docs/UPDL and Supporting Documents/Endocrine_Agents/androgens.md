@@ -17,11 +17,13 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred                                 | Generic Name | Quantity | Time (Days) |
-| :---------------------------------------- | :----------- | :------: | :---------: |
-| Androderm <sup>AR PA</sup>                |              |          |             |
-| Testosterone Gel 1% <sup>AR PA</sup>      |              |          |             |
-| Testosterone Gel 1% Pump <sup>AR PA</sup> |              |          |             |
+| Preferred                                         | Generic Name | Quantity | Time (Days) |
+| :------------------------------------------------ | :----------- | :------: | :---------: |
+| Androderm <sup>AR PA</sup>                        |              |          |             |
+| Depo-Testosterone <sup> AR PA</sup>               |              |          |             |
+| Testosterone Cypionate <sup>AR PA</sup>           |              |          |             |
+| Testosterone Gel 1% Packet <sup>AR PA</sup>       |              |          |             |
+| Testosterone Gel 1.62% Pump <sup>AR PA</sup>      |              |          |             |
 
 ### Non-Preferred
 
@@ -31,10 +33,9 @@ This is a subcategory of Endocrine Agents.
 | Methyltestosterone <sup>AR</sup>           |              |          |             |
 | Natesto <sup>AR</sup>                      |              |          |             |
 | Testopel <sup>AR</sup>                     |              |          |             |
-| Testosterone Cypionate <sup>AR</sup>       |              |          |             |
-| Testosterone Gel 1.62% <sup>AR</sup>       |              |          |             |
+| Testosterone Gel 1% Pump <sup>AR</sup>     |              |          |             |
 | Testosterone Gel 2% <sup>AR</sup>          |              |          |             |
-| Testosterone Sol 30 MG / ACT <sup>AR</sup> |              |          |             |
+| Testosterone Sol 30 MG/ACT <sup>AR</sup>   |              |          |             |
 | Tlando <sup>AR</sup>                       |              |          |             |
 | Xyosted <sup>AR</sup>                      |              |          |             |
 
