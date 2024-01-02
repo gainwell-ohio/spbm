@@ -23,7 +23,7 @@ This is a subcategory of Respiratory Agents.
 | Kalydeco <sup>PA QL</sup> | Ivacaftor Tab 150 MG                                      | Determined pursuant to PA | Determined pursuant to PA |
 | Orkambi <sup>PA QL</sup>  | Lumacaftor / Ivacaftor (all strengths & formulations)     | Determined pursuant to PA | Determined pursuant to PA |
 | Symdeko <sup>PA QL</sup>  | Tezacaftor / Ivacaftor 100-150 MG & Ivacaftor 150 MG TBPK | Determined pursuant to PA | Determined pursuant to PA |
-| Trikafta <sup>PA</sup>    |                                                           |                           |                           |
+| Trikafta Pak <sup>AR</sup>, Tab <sup>PA</sup>    |                                                           |                           |                       |
 
 ### Non-Preferred
 
