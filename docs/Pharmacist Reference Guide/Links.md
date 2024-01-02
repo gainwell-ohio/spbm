@@ -13,10 +13,10 @@ search:
 
 [Medical Necessity Policy](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/OH%20SPBM%20Medical%20Necessity%20Policy.pdf){:target="_blank" rel="noopener"}
 
-[Denial Language](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EcFjSzslWrFNiYRd6JZyVTIBkgwIHT2baCwhA0LjSPTZYw?e=KfH8jC){:target="_blank" rel="noopener"}{:target="_blank" rel="noopener"}
+[Denial Language](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EcFjSzslWrFNiYRd6JZyVTIBkgwIHT2baCwhA0LjSPTZYw?e=KfH8jC){:target="_blank" rel="noopener"}
 
 
-[DL for Medical Necessity](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EUpVVFE-6XRNvktACqIOf2YBcwc47TN3pWk4CogCUrI4kQ?e=QRpmX2)
+[DL for Medical Necessity](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EUpVVFE-6XRNvktACqIOf2YBcwc47TN3pWk4CogCUrI4kQ?e=QRpmX2){:target="_blank" rel="noopener"}
 
 [Definition of Terms](https://mygainwell-my.sharepoint.com/:x:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Definition%20of%20Terms%209212022.xlsx?d=waae4289a6a67484b93664250c2c284f0&csf=1&web=1&e=8q6A3o){:target="_blank" rel="noopener"}
 
