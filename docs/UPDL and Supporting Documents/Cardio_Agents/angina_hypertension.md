@@ -101,10 +101,6 @@ This is a subcategory of Cardiovascular Agents.
 | Nifedipine ER <sup>QL</sup> (generic Adalat / Procardia) | Nifedipine ER Tab Osmotic (all strengths excl 90 MG)        |   204    |     102     |
 | Nifedipine ER <sup>QL</sup> (generic Adalat)             | Nifedipine SR Tab 90 MG                                     |   102    |     102     |
 | Nifedipine ER <sup>QL</sup> (generic Procardia)          | Nifedipine ER Tab Osmotic Release 90 MG                     |   102    |     102     |
-| Perindopril                                              |                                                             |          |             |
-| Pindolol <sup>QL</sup>                                   | Pindolol Tab 5 MG                                           |   204    |     102     |
-| Pindolol <sup>QL</sup>                                   | Pindolol Tab 10 MG                                          |   612    |     102     |
-| Prazosin                                                 |                                                             |          |             |
 | Propranolol                                              | Propranolol HCI                                             |          |             |
 | Propranolol Soln                                         | Propranolol HCI Oral Soln 20 MG / 5 ML                      |   8160   |     102     |
 | Propranolol Soln                                         | Propranolol HCI Oral Soln 40 MG / 5 ML                      |   4080   |     102     |
