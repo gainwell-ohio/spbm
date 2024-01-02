@@ -70,7 +70,9 @@ Subsequent Authorization Criteria
 - Must provide documentation of patient’s clinical response to treatment (adherence to
 treatment demonstrated by claims history **AND** one or more of the following: FEV1,
 weight gain, sweat chloride, pulmonary exacerbations, etc.) and ongoing safety
-monitoring 
+monitoring
+
+**AR** - Trikafta Pak: a PA is required for patients 6 years and older
 
 ## Links
 
