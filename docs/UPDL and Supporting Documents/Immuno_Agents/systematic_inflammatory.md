@@ -48,7 +48,7 @@ This is a subcategory of Immunomodulator Agents.
 | Cibinqo         |              |          |             |
 | Cimzia          |              |          |             |
 | Cosentyx        |              |          |             |
-| Cyltezo         |              |          |             |
+| Cyltezo <sup>BVG (==Process by NDC==)</sup>        |              |          |             |
 | Hadlima         |              |          |             |
 | Idacio          |              |          |             |
 | Ilumya          |              |          |             |
