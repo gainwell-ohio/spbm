@@ -33,6 +33,7 @@ This is a subcategory of Endocrine Agents.
 | Saizen        |              |          |             |
 | Serostim      |              |          |             |
 | Skytrofa      |              |          |             |
+| Sogroya       |              |          |             |
 
 ## Authorizations
 
