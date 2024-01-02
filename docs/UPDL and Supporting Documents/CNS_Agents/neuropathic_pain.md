@@ -32,6 +32,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Oxcarbazepine                      |                                                               |          |             |
 | Pregabalin <sup>QL</sup>           | Pregabalin Cap (all strengths excl 225 MG & 300 MG)           |   102    |     34      |
 | Pregabalin <sup>QL</sup>           | Pregabalin Cap 225 MG & 300 MG                                |    68    |     34      |
+| Ztlido <sup>ST</sup>               |                                                               |          |             |
 
 ### Non-Preferred
 
@@ -40,7 +41,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Gralise       |              |          |             |
 | Horizant      |              |          |             |
 | Pregabalin ER |              |          |             |
-| Ztlido        |              |          |             |
 
 ## Authorizations
 
