@@ -17,7 +17,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred                 | Generic Name | Quantity | Time (Days) |
 |:--------------------------|:-------------|:--------:|:-----------:|
-| Aubagio                   |              |          |             |
 | Avonex                    |              |          |             |
 | Betaseron                 |              |          |             |
 | Copaxone <sup>BvG ==(Process by NDC)==</sup>   |              |          |             |
@@ -26,6 +25,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Fingolimod                |              |          |             |
 | Gilenya                   |              |          |             |
 | Rebif                     |              |          |             |
+| Teriflunomide             |              |          |             |
  
 ### Non-Preferred
 
