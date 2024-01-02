@@ -125,8 +125,9 @@ Additional Oral and Injectable Combination Drugs Criteria
 
 ### Additional Information
 
-- An inadequate clinical response is defined as the inability to reach A1C goal after at least 120 days of current regimen with documented adherence and appropriate dose escalation.
-- Requests may be authorized for patients with a condition that is difficult to control (i.e., prone to ketoacidosis, hypoglycemia)
+- An inadequate clinical response is defined as the inability to reach A1C goal after at least 120 days of current regimen with use of two or more drugs concomitantly per ADA guidelines, documented adherence, and appropriate dose escalation (must achieve maximum recommended dose or document that maximum recommended dose is not tolerated or is clinically inappropriate).
+  - Must include a patient specific A1C goal if less than 7%
+  - Must include corrent A1C (within last 6 months)
 - For non-preferred drugs that have preferred drugs in the same drug class: must provide documentation that there was at least ^^one^^ inadequate clinical response with a drug in same drug class
 
 ### Subsequent Authorization
@@ -134,6 +135,10 @@ Additional Oral and Injectable Combination Drugs Criteria
 Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
+  - Must document A1C goal per ADA guidelines and A1C trends including current value (within last 6 months).
+  - Must include a patient specific A1C goal if less than 7%
+  - Must include current A1C (within last 6 months)
+- Must meet all initial clinical criteria for subsequent authorizations.
 
 ## Links
 
