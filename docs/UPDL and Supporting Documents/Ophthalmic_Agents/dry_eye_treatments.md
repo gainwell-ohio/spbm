@@ -22,6 +22,7 @@ This is a subcategory of Ophthalmic Agents.
 |:-----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
 | Cequa                                                                                    |              |          |             |
 | Eysuvis                                                                                  |              |          |             |
+| Miebo                                                                                    |              |          |             |
 | Restasis Multi-Dose                                                                      |              |          |             |
 | Tyrvaya                                                                                  |              |          |             |
 
