@@ -35,6 +35,7 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 | Humate-P <sup>PA</sup>     |              |          |             |
 | Idelvion <sup>PA</sup>     |              |          |             |
 | Ixinity <sup>PA</sup>      |              |          |             |
+| Jivi <sup>PA</sup>         |              |          |             |
 | Koate <sup>PA</sup>        |              |          |             |
 | Kogenate FS <sup>PA</sup>  |              |          |             |
 | Kovaltry <sup>PA</sup>     |              |          |             |
@@ -52,7 +53,6 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 | Non-Preferred           | Generic Name | Quantity | Time (Days) |
 |:------------------------|:-------------|:--------:|:-----------:|
 | Altuviiio               |              |          |             |
-| Jivi                    |              |          |             |
 | Nuwiq                   |              |          |             |
 | Obizur                  |              |          |             |
 | Rebinyn                 |              |          |             |

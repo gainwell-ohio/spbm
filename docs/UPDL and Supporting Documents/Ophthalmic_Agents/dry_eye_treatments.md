@@ -14,6 +14,7 @@ This is a subcategory of Ophthalmic Agents.
 | Preferred                        | Generic Name | Quantity | Time (Days) |
 |:---------------------------------|:-------------|:--------:|:-----------:|
 | Restasis Trays <sup>BvG ST ==(Process by NDC)==</sup> |              |          |             |
+| Xiidra <sup>ST</sup>             |              |          |             |
 
 ### Non-Preferred
 
@@ -21,9 +22,9 @@ This is a subcategory of Ophthalmic Agents.
 |:-----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
 | Cequa                                                                                    |              |          |             |
 | Eysuvis                                                                                  |              |          |             |
+| Miebo                                                                                    |              |          |             |
 | Restasis Multi-Dose                                                                      |              |          |             |
 | Tyrvaya                                                                                  |              |          |             |
-| Xiidra |              |          |             |
 
 ## Authorizations
 

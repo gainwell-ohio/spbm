@@ -27,6 +27,7 @@ Bowel Preparations is a subcategory of Gastrointestinal Agents.
 | Moviprep                                  |              |          |             |
 | PEG3350-SOD SUL-NACL-KCL-ASB-C 7.5-2.691G |              |          |             |
 | Plenvu                                    |              |          |             |
+| Suflave                                   |              |          |             |
 | SOD SULF-POTASS SULF-MAG SULF Soln        |              |          |             |
 | Sutab                                     |              |          |             |
 

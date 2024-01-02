@@ -42,12 +42,18 @@ This is a subcategory of Immunomodulator Agents.
 | Non-Preferred   | Generic Name | Quantity | Time (Days) |
 |:----------------|:-------------|:--------:|:-----------:|
 | Actemra         |              |          |             |
+| Adalimumab-adaz (Generic of Hyrimoz) | |  |             |
+| Adalimumab-fkjp (Generic of Hulio    | |  |             |
 | Amjevita        |              |          |             |
 | Cibinqo         |              |          |             |
 | Cimzia          |              |          |             |
 | Cosentyx        |              |          |             |
+| Cyltezo         |              |          |             |
+| Hadlima         |              |          |             |
+| Idacio          |              |          |             |
 | Ilumya          |              |          |             |
 | Kevzara         |              |          |             |
+| Litfulo         |              |          |             |
 | Olumiant        |              |          |             |
 | Orencia         |              |          |             |
 | Rinvoq          |              |          |             |
@@ -58,12 +64,17 @@ This is a subcategory of Immunomodulator Agents.
 | Stelara         |              |          |             |
 | Tremfya         |              |          |             |
 | Xeljanz Sol, XR |              |          |             |
+| Yuflyma         |              |          |             |
+| Yusimry         |              |          |             |
 
 ## Authorizations ==(PROCESS BY HICL except for Xeljanz (GSN))==
 
 **Length of Authorizations**: Initial: 90 days; Subsequent: 365 days
 
-**All Authorizations**: Must be prescribed in accordance with FDA approved labeling
+**All Authorizations**: 
+
+- Must be prescribed in accordance with FDA approved labeling
+- First line treatment can vary based upon the severity of disease for certain diagnoses. Documentation of the patient's disease state and the criteria used to classify the severity is required.
 
 ## Criteria
 
@@ -107,12 +118,24 @@ Additional Atopic Dermatitis Criteria
 
 -   Must have at least 10% body surface area (BSA) involvement with two of the following: topical corticosteroids or topical calcineurin inhibitors [e.g., Elidel] unless atopic dermatitis is severe and involves >25% BSA
 
+### Crohn's Disease
+
+Additional Crohn's Disease Criteria
+
+- Must provide documentation of Crohn's Disease Activity Index (CDAI) score of 220 or higher to be considered moderate to severe disease
+
+### Hidradentis Suppurativa
+
+Additional Hidradentis Suppurativa Criteria
+
+- Must provide documentation of Hurley Stage III to be classified as a severe disease
 
 ### Plaque Psoriasis
 
 Additional Plaque Psoriasis Criteria
 
 -   For patients currently receiving phototherapy, initial authorization for preferred drugs requires an inadequate clinical response to at least **90 days** of phototherapy
+-   To classify as severe disease patient must present at least two of the following: Psoriasis Area and Severity Index (PASI) score ≥ 11, BSA ≥ 10%, and Static Physician's Global Assessment (sPGA) ≥ 3  
 
 ### Ulcerative Colitis
 

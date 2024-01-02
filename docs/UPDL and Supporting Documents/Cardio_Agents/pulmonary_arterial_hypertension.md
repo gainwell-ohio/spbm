@@ -35,6 +35,7 @@ This is a subcategory of Cardiovascular Agents.
 | Adempas                                                                                  |              |          |             |
 | <span title = "Brand Preferred: Tracleer Tab">Bosentan</span> <sup>Brand Preferred</sup> |              |          |             |
 | Epoprostenol                                                                             |              |          |             |
+| Liqrev                                                                                   |              |          |             |
 | Opsumit                                                                                  |              |          |             |
 | Orenitram                                                                                |              |          |             |
 | Tracleer Susp                                                                            |              |          |             |

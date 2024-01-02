@@ -81,7 +81,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 Step Therapy Criteria
 
-- Must have had an inadequate clinical response of at least ^^30 days^^ with atomoxetine **OR** at least ^^two preferred^^ stimulants
+- Must have had an inadequate clinical response of at least ^^30 days^^ with atomoxetine **OR** at least ^^two preferred^^ ADHD agents.
 
 ### Non-Preferred
 
@@ -108,8 +108,8 @@ Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-**AR** - Adderall, Dexedrine, & Zenzedi IR: a PA is required for patients younger than 3 years </br>
-**AR** - Adderall XR, Atomoxetine, Cotempla XR-ODT, Daytrana, Dexedrine ER, Dexmethylphenidate, Azstarys, Methylphenidate IR & ER, Quillichew ER, and Xelstrym: a PA is required for patients younger than 6 years </br>
+**AR** - Amphetamine/Dextroamphetamine, Dextroamphetamine IR, & Zenzedi: a PA is required for patients younger than 3 years
+**AR** - Amphetamine/Dextroamphetamine XR, Atomoxetine, Cotempla XR-ODT, Methylphenidate Patches, Dextroamphetamine ER, Dexmethylphenidate, Methylphenidate IR & ER, & Xelstrym: a PA is required for patients younger than 6 years 
 **AR** - Dextroamphetamine Solution & Dyanavel XR: a PA is required for patients 12 years and older </br>
 **AR** - Methylphenidate Solution/Suspension: a PA is required for patients younger than 6 years and 12 years and older
 

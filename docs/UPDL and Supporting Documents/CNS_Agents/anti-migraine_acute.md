@@ -37,6 +37,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Sumatriptan / Naproxen                |                                                    |                           |                           |
 | Trudhesa                              |                                                    |                           |                           |
 | Ubrelvy                               |                                                    |                           |                           |
+| Zavzpret                              |                                                    |                           |                           |
 | Zolmitriptan                          |                                                    |                           |                           |
 
 ## Authorizations

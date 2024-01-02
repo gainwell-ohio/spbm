@@ -24,6 +24,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Dimethyl Fumarate         |              |          |             |
 | Fingolimod                |              |          |             |
 | Gilenya                   |              |          |             |
+| Kesimpta                  |              |          |             |
 | Rebif                     |              |          |             |
 | Teriflunomide             |              |          |             |
  
@@ -31,11 +32,12 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Non-Preferred                                                                            | Generic Name | Quantity | Time (Days) |
 |:-----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Aubagio                                                                                  |              |          |             |
 | Bafiertam                                                                                |              |          |             |
 | Extavia                                                                                  |              |          |             |
 | <span title = "Brand Preferred: Copaxone">Glatiramer</span> <sup>Brand Preferred</sup>   |              |          |             |
 | Glatopa                                                                                  |              |          |             |
-| Kesimpta                                                                                 |              |          |             |
+
 | Mavenclad                                                                                |              |          |             |
 | Mayzent                                                                                  |              |          |             |
 | Plegridy                                                                                 |              |          |             |

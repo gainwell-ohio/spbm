@@ -32,6 +32,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Preferred                       | Generic Name                                                         |         Quantity          |        Time (Days)        |
 |:--------------------------------|:---------------------------------------------------------------------|:-------------------------:|:-------------------------:|
 | Abilify Maintena <sup>QL</sup>  | Aripiprazole ER Susp IM Inj (all strengths & formulations)           |             3             |            84             |
+| Abilify Asimtufii               |                                                                      |                           |                           |
 | Aripiprazole <sup>QL</sup>      | Aripiprazole Tab (all strengths)                                     |            102            |            102            |
 | Aristada <sup>QL</sup>          | Aripiprazole Lauroxil ER Susp IM 441 MG / 1.6 ML (all formulations)  |            4.8            |            84             |
 | Aristada <sup>QL</sup>          | Aripiprazole Lauroxil ER Susp IM 662 MG / 2.4 ML (all formulations)  |            7.2            |            84             |
@@ -83,6 +84,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Olanzapine ODT                                                                             |                                                            |          |             |
 | Rexulti                                                                                    |                                                            |          |             |
 | Secuado                                                                                    |                                                            |          |             |
+| Uzedy                                                                                      |                                                            |          |             |
 | Versacloz                                                                                  |                                                            |          |             |
 | Zyprexa Relprevv <sup>QL</sup>                                                             | Olanzapine Pamoate ER Susp IM 210 MG (all formulations)    |    7     |     98      |
 | Zyprexa Relprevv <sup>QL</sup>                                                             | Olanzapine Pamoate ER Susp IM 300 MG (all formulations)    |    6     |     84      |

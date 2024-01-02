@@ -49,7 +49,7 @@ This is a subcategory of Endocrine Agents.
 
 Step Therapy Approval Criteria
 
-- Must have had an inadequate clinical response of at least ^^84 days^^ with at least ^^one preferred^^ NSAID and ^^one preferred^^ oral contraceptive 
+- Must have had an inadequate clinical response of at least ^^84 days^^ with at least ^^one preferred^^ NSAID and ^^one^^ oral contraceptive 
 
 ### Non-Preferred
 

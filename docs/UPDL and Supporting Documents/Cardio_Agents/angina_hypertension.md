@@ -142,7 +142,7 @@ This is a subcategory of Cardiovascular Agents.
 | Camzyos                                                                               |              |          |             |
 | Candesartan                                                                           |              |          |             |
 | Candesartan/HCTZ                                                                      |              |          |             |
-| Carospir<sup>BVG (==Process by NDC==) Weekly Updates</sup>                                                                               |              |          |             |
+| Carospir<sup>BVG (==Process by NDC==) Weekly Updates</sup>                            |              |          |             |
 | Carvedilol ER                                                                         |              |          |             |
 | Clonidine ER (generic of Nexiclon XR)                                                 |              |          |             |
 | Corlanor                                                                              |              |          |             |
@@ -151,6 +151,7 @@ This is a subcategory of Cardiovascular Agents.
 | Edarbyclor                                                                            |              |          |             |
 | Hydralazine/HCTZ                                                                      |              |          |             |
 | Innopran XL                                                                           |              |          |             |
+| Inpefa                                                                                |              |          |             |
 | Isradipine                                                                            |              |          |             |
 | Kapspargo                                                                             |              |          |             |
 | Katerzia                                                                              |              |          |             |
@@ -212,6 +213,12 @@ Additional Mavacamten (Camzyos) Criteria
 
 - Must be prescribed by or in consultation with a cardiologist
 - Must provide documentation of NYHA Class II-III symptoms and left ventricular ejection fraction ≥55%
+
+### Sotagliflozin (Inpefa) Criteria
+
+Additional Sotagliflozin (Inpefa) Criteria
+
+- Must provide documentation of an inadequate clinical response to at least ^^two^^ SGLT2 Inhibitors (refer to Endocrine Agents: Diabetes - Non-Insulin class for complete list)
 
 ### Vericiguat (Verquvo)
 
