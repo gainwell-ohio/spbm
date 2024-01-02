@@ -29,6 +29,7 @@ This is a subcategory of Infectious Disease Agents.
 |:----------------------------------------------|:-------------|:--------:|:-----------:|
 | Abacavir Sulfate                              |              |          |             |
 | Abacavir / Lamivudine                         |              |          |             |
+| Apretude                                      |              |          |             |
 | Atazanavir Sulfate                            |              |          |             |
 | Biktarvy                                      |              |          |             |
 | Cimduo                                        |              |          |             |
