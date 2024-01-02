@@ -51,7 +51,7 @@ This is a subcategory of Genitourinary Agents.
 
 Tadalafil (Cialis) Criteria
 
-- Must have had an inadequate clinical response of at least **30 days** with at least **one** alpha-1 adrenergic blocker and at least **90 days** of finasteride
+- Must have had an inadequate clinical response of at least **30 days** with at least **one** alpha-1 adrenergic blocker. If prostate volume of > 30cc on imaging, a prostate specific antigen (PSA) > 1.5ng/dL, or palpable prostate enlargement on digital rectal exam (DRE), then a trial of at least ^^90 days^^ of finasteride is required.
 
 ### Non-Preferred
 
