@@ -20,6 +20,7 @@ This is a subcategory of Topical Agents.
 | Natroba <sup>BvG ==(Process by NDC)==</sup>          |              |          |             |
 | Permethrin                      |              |          |             |
 | Piperonyl Butoxide / Pyrethrins |              |          |             |
+| Vanalice                        |              |          |             |
 
 ### Non-Preferred
 
