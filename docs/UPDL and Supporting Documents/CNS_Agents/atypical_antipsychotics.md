@@ -84,6 +84,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Olanzapine ODT                                                                             |                                                            |          |             |
 | Rexulti                                                                                    |                                                            |          |             |
 | Secuado                                                                                    |                                                            |          |             |
+| Uzedy                                                                                      |                                                            |          |             |
 | Versacloz                                                                                  |                                                            |          |             |
 | Zyprexa Relprevv <sup>QL</sup>                                                             | Olanzapine Pamoate ER Susp IM 210 MG (all formulations)    |    7     |     98      |
 | Zyprexa Relprevv <sup>QL</sup>                                                             | Olanzapine Pamoate ER Susp IM 300 MG (all formulations)    |    6     |     84      |
