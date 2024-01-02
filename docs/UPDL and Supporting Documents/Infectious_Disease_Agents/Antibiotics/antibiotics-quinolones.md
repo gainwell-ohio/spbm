@@ -22,6 +22,7 @@ This is a subcategory of Infectious Disease Agents.
 | Ciprofloxacin                    |              |          |             |
 | Ciprofloxacin Susp <sup>AR</sup> |              |          |             |
 | Levofloxacin                     |              |          |             |
+| Moxifloxacin     |              |          |             |
 
 ### Non-Preferred
 
@@ -29,7 +30,6 @@ This is a subcategory of Infectious Disease Agents.
 | :--------------- | :----------- | :------: | :---------: |
 | Baxdela          |              |          |             |
 | Ciprofloxacin ER |              |          |             |
-| Moxifloxacin     |              |          |             |
 | Ofloxacin        |              |          |             |
 
 ## Authorizations
