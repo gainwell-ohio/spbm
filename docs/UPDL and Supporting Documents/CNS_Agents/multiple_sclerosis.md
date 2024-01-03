@@ -32,7 +32,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Non-Preferred                                                                            | Generic Name | Quantity | Time (Days) |
 |:-----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
-| Aubagio                                                                                  |              |          |             |
 | Bafiertam                                                                                |              |          |             |
 | Extavia                                                                                  |              |          |             |
 | <span title = "Brand Preferred: Copaxone">Glatiramer</span> <sup>Brand Preferred</sup>   |              |          |             |
@@ -42,7 +41,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Plegridy                                                                                 |              |          |             |
 | Ponvory                                                                                  |              |          |             |
 | Tascenso ODT                                                                             |              |          |             |
-| <span title = "Brand Preferred: Aubagio">Teriflunomide</span> <sup>Brand Preferred</sup> |              |          |             |
 | Vumerity                                                                                 |              |          |             |
 | Zeposia                                                                                  |              |          |             |
 
