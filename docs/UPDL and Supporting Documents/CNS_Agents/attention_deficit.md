@@ -37,7 +37,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Dextroamphetamine ER Cap <sup>AR QL</sup>                                                                                                                       | Dextroamphetamine Sulfate ER Cap 15 MG                        |   136    |     34      |
 | Dextroamphetamine IR Tab <sup>AR QL</sup>                                                                                                                       | Dextroamphetamine Sulfate Tab (all strengths)                 |   102    |     34      |
 | Dextroamphetamine Sol <sup>AR</sup>                                                                                                                             |                                                               |          |             |
-| Dyanavel XR <sup>AR</sup>                                                                                                                                       |                                                               |          |             |
+| Dyanavel XR Susp <sup>AR</sup> |                                                               |          |             |
 | Guanfacine ER <sup>QL</sup>                                                                                                                                     | Guanfacine HCI ER Tab (all strengths)                         |    34    |     34      |
 | Methylphenidate ER Cap <sup>AR QL</sup> (generic of Metadate CD, Ritalin LA)                                                                                    |                                                               |          |             |
 | Methylphenidate ER Tab <sup>AR QL</sup> (generic of Concerta, Methylin ER, Ritalin SR)                                                                          |                                                               |          |             |
@@ -49,7 +49,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Quillichew ER <sup>AR</sup>                                                                                                                                     |                                                               |          |             |
 | Quillivant XR <sup>AR</sup>                                                                                                                                     |                                                               |          |             |
 | Ritalin LA <sup>AR QL</sup>                                                                                                                                     |                                                               |          |             |
-| Vyvanse Cap <sup>QL, [BVG Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/vyvanse/?h=vyvan)</sup> | Lisdexamfetamine Dimesylate Cap (all strengths)               |    34    |     34      |
+| Vyvanse Cap <sup>QL, BVG</sup> | Lisdexamfetamine Dimesylate Cap (all strengths)               |    34    |     34      |
 
 ### Non-Preferred
 
@@ -62,6 +62,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Azstarys** <sup>AR</sup>                                                |                                                              |                           |                           |
 | Cotempla XR ODT <sup>AR</sup>                                           |                                                              |                           |                           |
 | Daytrana <sup>AR BvG ==(Process by NDC)==</sup>                         |                                                              |                           |                           |
+| Dyanavel XR Tab |                                                               |          |             |
 | Evekeo ODT                                                              |                                                              |                           |                           |
 | Jornay PM <sup>AR</sup>                                                 |                                                              |                           |                           |
 | Methamphetamine                                                         |                                                              |                           |                           |
