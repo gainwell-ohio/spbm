@@ -29,12 +29,11 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Non-Preferred                                | Generic Name                               |         Quantity          |        Time (Days)        |
 |:---------------------------------------------|:-------------------------------------------|:-------------------------:|:-------------------------:|
-| Baclofen Solution                            |                                            |                           |                           |
+| Baclofen Solution<sup>Brand Fleqsuvy Preferred</sup>                            |                                            |                           |                           |
 | Carisoprodol                                 |                                            |                           |                           |
 | Chlorzoxazone 375, 750 MG <sup>QL</sup>      | Chlorzoxazone Tab 375 MG & 750 MG          | Determined pursuant to PA | Determined pursuant to PA |
 | Cyclobenzaprine 7.5 MG <sup>QL</sup>         | Cyclobenzaprine HCI Tab 7.5 MG             | Determined pursuant to PA | Determined pursuant to PA |
-| Cyclobenzaprine ER <sup>QL</sup>             | Cyclobenzaprine HCI ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Fleqsuvy <sup>BvG ==(Process by NDC)==</sup> |                                            |                           |                           |
+| Cyclobenzaprine ER <sup>QL</sup>             | Cyclobenzaprine HCI ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |                          |
 | Lyvispah                                     |                                            |                           |                           |
 | Metaxalone                                   |                                            |                           |                           |
 | Orphenadrine                                 |                                            |                           |                           |
