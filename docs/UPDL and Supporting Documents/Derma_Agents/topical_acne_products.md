@@ -46,7 +46,6 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Adapalene Cream, Sol 0.1% <sup>AR</sup>                           |              |          |             |
 | Adapalene Gel 0.3% <sup>AR</sup>                                  |              |          |             |
 | Adapalene/Benzoyl Peroxide <sup>AR</sup>                          |              |          |             |
-| Aklief <sup>AR</sup>                                              |              |          |             |
 | Altreno <sup>AR</sup>                                             |              |          |             |
 | Amzeeq                                                            |              |          |             |
 | Arazlo <sup>AR</sup>                                              |              |          |             |
@@ -62,6 +61,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Onexton Gel <sup> BVG (==Process by NDC==)- Weekly Updates </sup> |              |          |             |
 | Ovace Plus                                                        |              |          |             |
 | Plixda <sup>AR</sup>                                              |              |          |             |
+| Reti-A Micro Pump 0.08% <sup>BVG</sup>                            |              |          |             |
 | Sodium Sulfacetamide / Sulfur Gel                                 |              |          |             |
 | Sodium Sulfaetamide Pads                                          |              |          |             |
 | Tazarotene Cream 0.1% <sup>AR</sup>                               |              |          |             |
