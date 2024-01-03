@@ -13,7 +13,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 | Preferred                                                       | Generic Name                                           |         Quantity          |        Time (Days)        |
 |:----------------------------------------------------------------|:-------------------------------------------------------|:-------------------------:|:-------------------------:|
-| Imitrex Nasal Spray <sup>QL (removed off BVG- 12/15/2023)</sup> | Sumatriptan Succinate Nasal Spray (all strengths)      |             8             |            30             |
+| Imitrex Nasal Spray <sup>QL</sup> | Sumatriptan Succinate Nasal Spray (all strengths)      |             8             |            30             |
 | Naratriptan <sup>QL</sup>                                       | Naratriptan HCI Tab (all strengths)                    |             9             |            30             |
 | Nurtec ODT <sup>QL ST</sup>                                     | Rimegepant ODT (all strengths)                         | Determined pursuant to PA | Determined pursuant to PA |
 | Rizatriptan <sup>QL</sup>                                       | Rizatriptan Benzoate (all strengths & formulations     |             9             |            30             |
