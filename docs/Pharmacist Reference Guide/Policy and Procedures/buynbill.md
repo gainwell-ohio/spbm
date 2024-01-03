@@ -12,11 +12,13 @@ You get a PA that may be medically administered.
 
 ***Yes*** – Go to 2.
 
+***Cannot be determined*** - Not sure? Call to verify, if no definitive answer proceed to 2^^
+
 ***No*** – Deny with this language=
 
 If available, please provide the pharmacy name and NPI that is dispensing the medication or the NPI of the provider acquiring the product in a buy and bill situation. Per Rule 5160-26-13 | Managed health care programs: claim billing for pharmaceuticals., Claims for pharmaceuticals that are dispensed by pharmacy providers are billed through ODM's SPBM and for all other provider types, claims for pharmaceuticals are billed through an MCO, or in accordance with rule 5160-59-03 of the Administrative Code for individuals enrolled in the OhioRISE plan, as applicable.
 
-*** ^^Not sure? Call to verify, if no definitive answer proceed to 2^^
+
 
  
 
