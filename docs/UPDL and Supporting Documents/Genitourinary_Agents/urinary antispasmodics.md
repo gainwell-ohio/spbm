@@ -19,16 +19,16 @@ This is a subcategory of Genitourinary Agents.
 
 ### Preferred
 
-| Preferred                   | Generic Name                                         | Quantity | Time (Days) |
-|:----------------------------|:-----------------------------------------------------|:--------:|:-----------:|
-| Gelnique                    |                                                      |          |             |
-| Myrbetriq Tab               |                                                      |          |             |
-| Oxybutynin <sup>QL</sup>    | Oxybutynin Chloride Tab 5 MG                         |   408    |     102     |
-| Oxybutynin ER <sup>QL</sup> | Oxybutynin Chloride ER Tab (all strengths excl 5 MG) |   204    |     102     |
-| Oxybutynin ER <sup>QL</sup> | Oxybutynin Chloride ER Tab 5 MG                      |   102    |     102     |
-| Oxytrol                     |                                                      |          |             |
-| Solifenacin <sup>QL</sup>   | Solifenacin Succinate Tab (all strengths)            |   102    |     102     |
-| Toviaz <sup>BvG ==(Process by NDC)==</sup>       |                                                      |          |             |
+| Preferred                                  | Generic Name                                         | Quantity | Time (Days) |
+|:-------------------------------------------|:-----------------------------------------------------|:--------:|:-----------:|
+| Gelnique                                   |                                                      |          |             |
+| Myrbetriq Tab                              |                                                      |          |             |
+| Oxybutynin <sup>QL</sup>                   | Oxybutynin Chloride Tab 5 MG                         |   408    |     102     |
+| Oxybutynin ER <sup>QL</sup>                | Oxybutynin Chloride ER Tab (all strengths excl 5 MG) |   204    |     102     |
+| Oxybutynin ER <sup>QL</sup>                | Oxybutynin Chloride ER Tab 5 MG                      |   102    |     102     |
+| Oxytrol                                    |                                                      |          |             |
+| Solifenacin <sup>QL</sup>                  | Solifenacin Succinate Tab (all strengths)            |   102    |     102     |
+| Toviaz <sup>BvG ==(Process by NDC)==</sup> |                                                      |          |             |
 
 ### Non-Preferred
 

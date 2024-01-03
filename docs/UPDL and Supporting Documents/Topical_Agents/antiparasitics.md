@@ -15,20 +15,20 @@ This is a subcategory of Topical Agents.
 
 ### Preferred
 
-| Preferred                       | Generic Name | Quantity | Time (Days) |
-|:--------------------------------|:-------------|:--------:|:-----------:|
-| Natroba <sup>BvG ==(Process by NDC)==</sup>          |              |          |             |
-| Permethrin                      |              |          |             |
-| Piperonyl Butoxide / Pyrethrins |              |          |             |
-| Vanalice                        |              |          |             |
+| Preferred                                   | Generic Name | Quantity | Time (Days) |
+|:--------------------------------------------|:-------------|:--------:|:-----------:|
+| Natroba <sup>BvG ==(Process by NDC)==</sup> |              |          |             |
+| Permethrin                                  |              |          |             |
+| Piperonyl Butoxide / Pyrethrins             |              |          |             |
+| Vanalice                                    |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                                                                           | Generic Name | Quantity | Time (Days) |
-|:----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
-| Eurax                                                                                   |              |          |             |
-| Ivermectin Lot**                                                                          |              |          |             |
-| Malathion                                                                               |              |          |             |
+| Non-Preferred                                                                       | Generic Name | Quantity | Time (Days) |
+|:------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Eurax                                                                               |              |          |             |
+| Ivermectin Lot**                                                                    |              |          |             |
+| Malathion                                                                           |              |          |             |
 | <span title = "Brand Preferred: Natroba">Spinosad</span> <sup>Brand Preferred</sup> |              |          |             |
 
 ## Authorizations 

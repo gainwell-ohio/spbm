@@ -12,7 +12,7 @@ This is a subcategory of Respiratory Agents.
 ### Preferred
 
 | Preferred                               | Generic Name                           | Quantity | Time (Days) |
-| :-------------------------------------- | :------------------------------------- | :------: | :---------: |
+|:----------------------------------------|:---------------------------------------|:--------:|:-----------:|
 | Cetirizine Syr <sup>QL</sup>            |                                        |          |             |
 | Cetirizine Tab <sup>QL</sup>            | Cetirizine HCI Tabs (all strengths)    |   102    |     102     |
 | Cetirizine / Pseudoephedrine            |                                        |          |             |
@@ -24,7 +24,7 @@ This is a subcategory of Respiratory Agents.
 ### Non-Preferred
 
 | Non-Preferred                     | Generic Name | Quantity | Time (Days) |
-| :-------------------------------- | :----------- | :------: | :---------: |
+|:----------------------------------|:-------------|:--------:|:-----------:|
 | Cetirizine Chewable <sup>AR</sup> |              |          |             |
 | Clarinex-D                        |              |          |             |
 | Desloratadine                     |              |          |             |

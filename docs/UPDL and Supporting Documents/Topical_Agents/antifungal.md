@@ -18,7 +18,7 @@ This is a subcategory of Topical Agents.
 ### Preferred
 
 | Preferred                    | Generic Name | Quantity | Time (Days) |
-| :--------------------------- | :----------- | :------: | :---------: |
+|:-----------------------------|:-------------|:--------:|:-----------:|
 | Alevazol                     |              |          |             |
 | Ciclopirox                   |              |          |             |
 | Clotrimazole                 |              |          |             |
@@ -34,7 +34,7 @@ This is a subcategory of Topical Agents.
 ### Non-Preferred
 
 | Non-Preferred                                   | Generic Name | Quantity | Time (Days) |
-| :---------------------------------------------- | :----------- | :------: | :---------: |
+|:------------------------------------------------|:-------------|:--------:|:-----------:|
 | Butenafine                                      |              |          |             |
 | Ciclopirox Kit                                  |              |          |             |
 | Ertaczo                                         |              |          |             |

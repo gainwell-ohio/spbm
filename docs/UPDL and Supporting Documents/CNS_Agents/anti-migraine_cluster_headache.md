@@ -16,7 +16,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 ### Preferred
 
 | Preferred                                    | Generic Name                                              |         Quantity          |        Time (Days)        |
-| :------------------------------------------- | :-------------------------------------------------------- | :-----------------------: | :-----------------------: |
+|:---------------------------------------------|:----------------------------------------------------------|:-------------------------:|:-------------------------:|
 | Verapamil <sup>QL</sup>                      | Verapamil HCI Tab (all strengths)                         |            408            |            102            |
 | Verapamil CR (generic Calan) <sup>QL</sup>   | Verapamil HCI CR Tab (all strengths)                      |            204            |            102            |
 | Verapamil ER (generic Verelan) <sup>QL</sup> | Verapamil HCI SR Cap (all strengths excl 200 MG & 240 MG) |            102            |            102            |
@@ -26,7 +26,7 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 ### Non-Preferred
 
 | Non-Preferred          | Generic Name                                                 |         Quantity          |        Time (Days)        |
-| :--------------------- | :----------------------------------------------------------- | :-----------------------: | :-----------------------: |
+|:-----------------------|:-------------------------------------------------------------|:-------------------------:|:-------------------------:|
 | Emgality <sup>QL</sup> | Galcanezumab Subcutaneous Inj (all strengths & formulations) | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Authorizations

@@ -10,12 +10,19 @@ This is a subcategory of Respiratory Agents.
 ## Decision Trees
 
 - [Respiratory Agents - Inhaled - Non-Preferred ACH/ICS/LABA - Breztri Aerosphere, Trelegy Ellipta](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUM3VUxBODQ1TlJXOEQxVUowNkowQTg3VSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+
 - [Respiratory Agents - Inhaled - Non-Preferred ACH/LABA - Bevespi Aerosphere, Duaklir Pressair](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQVRUMzlYS1gzWFZNNk9VSzEyNU1GVFAwMyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+
 - [Repiratory Agents - Inhaled - Albuterol Nebulizer Sol](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQzkxUFZVMUNBNzNHOTJNUVdSRklYVFcyTCQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+
 - [Respiratory Agents - Inhaled - Non-Preferred Anticholinergics - Lonhala Magnair, Tudorza, Yupelri, Preferred: Atrovent HFA, Combivent Respimat, Incruse Ellipta, Ipratropium, Ipratropium/Albuterol Nebulizer Sol, Spiriva](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNTNHVEFTQks1UjJPWDdHQzZYVEVTOERJNiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
 - [Respiratory Agents - Inhaled - Non-Preferred Glucocorticoids - Aerospan HFA, Alvesco, Armonair Digihaler, Armonair Respiclick, Arnuity Ellipta, Asmanex HFA, Qvar (QL), Fluticasone HFA](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQVZETk1DMDMyNzZNRU1CVDdPVDJYRk9FVyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
 - [Respiratory Agents - Inhaled - Non-Preferred ICS with LABAs - Airduo Digihaler, Airduo Respiclick, Breo Ellipta, Budesonide/Formoterol, Fluticasone/Salmeterol, Wixela Inhub](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUOVRNR0JDODNNTDlXME9KNkQ4QUw3UVVFSiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
+
 - [Respiratory Agents - Inhaled - Non-Preferred LABAs - Lonhala Magnair, Tudorza, Yupelri](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQzhJTlFIQ01JS1pGSk42WU9KTTdWUFMyQSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+
 - [Respiratory Agents - Inhaled - Non-Preferred SABAs - Albuterol HFA, Levalbuterol Nebulizer Sol, Proair Digihaler, Proair Respiclick, Xopenex HFA](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM0lNNlczTEg1TVM3Slc5VTdFNVhYQTROTSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener"}
 
 ## Formulary
@@ -24,9 +31,9 @@ This is a subcategory of Respiratory Agents.
 
 | Preferred                                                                              | Generic Name                                                  | Quantity | Time (Days) |
 |:---------------------------------------------------------------------------------------|:--------------------------------------------------------------|:--------:|:-----------:|
-| Advair Diskus <sup>BvG ==(Process by NDC)==</sup>                                                           |                                                               |          |             |
-| Advair HFA <sup>BvG ==(Process by NDC)==</sup>                                                              |                                                               |          |             |
-| Albuterol HFA                                                                          |                                                               |          |             |           
+| Advair Diskus <sup>BvG ==(Process by NDC)==</sup>                                      |                                                               |          |             |
+| Advair HFA <sup>BvG ==(Process by NDC)==</sup>                                         |                                                               |          |             |
+| Albuterol HFA                                                                          |                                                               |          |             |
 | Albuterol Nebulizer Sol 0.021% (0.63 MG / 3 mL), 0.042% (1.25 MG / 3 ML) <sup>AR</sup> |                                                               |          |             |
 | Albuterol Nebulizer Sol 0.083% (2.5 MG / 3 ML), 0.5% (5 MG / ML) Conc                  |                                                               |          |             |
 | Albuterol Nebulizer Sol 0.083% (2.5 mg / 3mL), 0.5%                                    |                                                               |          |             |
@@ -38,20 +45,20 @@ This is a subcategory of Respiratory Agents.
 | Combivent Respimat                                                                     |                                                               |          |             |
 | Cromolyn Neb Sol                                                                       |                                                               |          |             |
 | Dulera                                                                                 |                                                               |          |             |
-| Flovent                                                               |                                                               |          |             |
-| Fluticasone Propionate Aer Pow(Diskus)/HFA | | | |
+| Flovent                                                                                |                                                               |          |             |
+| Fluticasone Propionate Aer Pow(Diskus)/HFA                                             |                                                               |          |             |
 | Incruse Ellipta                                                                        |                                                               |          |             |
 | Ipratropium                                                                            | Ipratropium Bromide Inhalation Soln 0.02%                     |   1020   |     102     |
 | Ipratropium / Albuterol Nebulizer Sol <sup>QL</sup>                                    | Ipratropium / Albuterol Nebulizing Soln 0.5-2.5 (3) MG / 3 ML |   1836   |     102     |
 | ProAir HFA                                                                             |                                                               |          |             |
-| Proventil HFA                                                                          |                                                               |          |             |        
+| Proventil HFA                                                                          |                                                               |          |             |
 | Pulmicort Flexhaler <sup>QL</sup>                                                      | Budesonide Inhalation Aerosol Powder 90 MCG / ACT             |    9     |     102     |
 | Pulmicort Flexhaler <sup>QL</sup>                                                      | Budesonide Inhalation Aerosol Powder 180 MCG / ACT            |    5     |     102     |
 | Serevent Diskus                                                                        |                                                               |          |             |
-| Spiriva <sup>QL, **HandiHaler is BVG (==Process by NDC== -Weekly Updates)</sup>                                                                  | Tiotropium Bromide Monohydrate Inhalation Cap (all strengths) |   102    |     102     |
+| Spiriva <sup>QL, **HandiHaler is BVG (==Process by NDC== -Weekly Updates)</sup>        | Tiotropium Bromide Monohydrate Inhalation Cap (all strengths) |   102    |     102     |
 | Stiolto                                                                                |                                                               |          |             |
 | Striverdi Respimat                                                                     |                                                               |          |             |
-| Symbicort <sup>BvG QL ==(Process by NDC)==</sup>                                                            | Budesonide / Formoterol Fumarate Aerosol (all strengths)      |  69.36   |     102     |
+| Symbicort <sup>BvG QL ==(Process by NDC)==</sup>                                       | Budesonide / Formoterol Fumarate Aerosol (all strengths)      |  69.36   |     102     |
 | Ventolin HFA                                                                           |                                                               |          |             |
 
 ### Non-Preferred
@@ -65,10 +72,10 @@ This is a subcategory of Respiratory Agents.
 | Alvesco                                                                                                              |                                               |                           |                           |
 | Armonair Digihaler                                                                                                   |                                               |                           |                           |
 | Armonair Respiclick                                                                                                  |                                               |                           |                           |
-| Arnuity                                                                                                       |                                               |                           |                           |
+| Arnuity                                                                                                              |                                               |                           |                           |
 | Asmanex HFA                                                                                                          |                                               |                           |                           |
 | Bevespi Aerosphere                                                                                                   |                                               |                           |                           |
-| Breo Ellipta <sup>BvG ==(Process by NDC)==</sup>                                                                                          |                                               |                           |                           |
+| Breo Ellipta <sup>BvG ==(Process by NDC)==</sup>                                                                     |                                               |                           |                           |
 | Breztri Aerosphere                                                                                                   |                                               |                           |                           |
 | <span title = "Brand Preferred: Symbicort">Budesonide/Formoterol</span> <sup>QL, Brand Preferred</sup>               | Budesonide-Formoterol Aerosol (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 | Duaklir Pressair                                                                                                     |                                               |                           |                           |
@@ -80,7 +87,7 @@ This is a subcategory of Respiratory Agents.
 | Proair Respiclick                                                                                                    |                                               |                           |                           |
 | Qvar <sup>QL</sup>                                                                                                   | Qvar Aerosol (all strengths)                  | Determined pursuant to PA | Determined pursuant to PA |
 | Trelegy Ellipta                                                                                                      |                                               |                           |                           |
-| Tiotropium Inhaled Caps<sup>Brand Preferred</sup>                                                                                              |                                               |                           |                           |
+| Tiotropium Inhaled Caps<sup>Brand Preferred</sup>                                                                    |                                               |                           |                           |
 | Tudorza                                                                                                              |                                               |                           |                           |
 | Wixela Inhub                                                                                                         |                                               |                           |                           |
 | Xopenex HFA                                                                                                          |                                               |                           |                           |

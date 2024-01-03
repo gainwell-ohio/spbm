@@ -11,50 +11,50 @@ This is a subcategory of Topical Agents.
 
 ### Preferred
 
-| Preferred                               | Generic Name | Quantity | Time (Days) |
-|:----------------------------------------|:-------------|:--------:|:-----------:|
-| Amcinonide                              |              |          |             |
-| Betamethasone Dip / Calcipotriene Oint  |              |          |             |
-| Betamethasone Valerate                  |              |          |             |
-| Clobetasol Propionate                   |              |          |             |
-| Derma-Smoothe/FS <sup>BvG ==(Process by NDC)==</sup>         |              |          |             |
-| Desonide Cream, Oint                    |              |          |             |
-| Diflorasone Diacetate                   |              |          |             |
-| Fluocinolone Acetonide 0.01% Cream, Sol |              |          |             |
-| Fluocinolone Acetonide 0.05%            |              |          |             |
-| Flurandrenolide                         |              |          |             |
-| Fluticasone Propionate Cream, Oint      |              |          |             |
-| Hydrocortisone                          |              |          |             |
-| Mometasone Furoate                      |              |          |             |
-| Prednicarbate                           |              |          |             |
-| Triamcinolone Cream, Lotion, Oint       |              |          |             |
+| Preferred                                            | Generic Name | Quantity | Time (Days) |
+|:-----------------------------------------------------|:-------------|:--------:|:-----------:|
+| Amcinonide                                           |              |          |             |
+| Betamethasone Dip / Calcipotriene Oint               |              |          |             |
+| Betamethasone Valerate                               |              |          |             |
+| Clobetasol Propionate                                |              |          |             |
+| Derma-Smoothe/FS <sup>BvG ==(Process by NDC)==</sup> |              |          |             |
+| Desonide Cream, Oint                                 |              |          |             |
+| Diflorasone Diacetate                                |              |          |             |
+| Fluocinolone Acetonide 0.01% Cream, Sol              |              |          |             |
+| Fluocinolone Acetonide 0.05%                         |              |          |             |
+| Flurandrenolide                                      |              |          |             |
+| Fluticasone Propionate Cream, Oint                   |              |          |             |
+| Hydrocortisone                                       |              |          |             |
+| Mometasone Furoate                                   |              |          |             |
+| Prednicarbate                                        |              |          |             |
+| Triamcinolone Cream, Lotion, Oint                    |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                                                                                                            | Generic Name | Quantity | Time (Days) |
-|:-------------------------------------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
-| Alclometasone                                                                                                            |              |          |             |
-| Apexicon E                                                                                                               |              |          |             |
-| Betamethasone Dipropionate                                                                                               |              |          |             |
-| Betamethasone Dipropionate / Calcipotriene Susp                                                                          |              |          |             |
-| Betamethasone Valerate Aerosol Foam                                                                                      |              |          |             |
-| Bryhali                                                                                                                  |              |          |             |
-| Clocortolone Pivalate                                                                                                    |              |          |             |
-| Cordran Tape                                                                                                             |              |          |             |
-| Desonate Gel                                                                                                             |              |          |             |
-| Desonide Lotion                                                                                                          |              |          |             |
-| Desoximetasone                                                                                                           |              |          |             |
-| <span title = "Brand Preferred: Derma-Smoothe/FS">Fluocinolone Acetonide 0.01% Oil</span> <sup>Brand Preferred</sup>     |              |          |             |
-| Fluocinonide Acetonide 0.025%, 0.1%                                                                                      |              |          |             |
-| Fluticasone Propionate Lotion                                                                                            |              |          |             |
-| Halcinonide Cream                                                                                                        |              |          |             |
-| Halobetasol Propionate                                                                                                   |              |          |             |
-| Hydrocortisone Butyrate                                                                                                  |              |          |             |
-| Hydrocortisone Valerate                                                                                                  |              |          |             |
-| Halog                                                                                                                    |              |          |             |
-| Impeklo                                                                                                                  |              |          |             |
-| Pandel                                                                                                                   |              |          |             |
-| Triamcinolone Spray                                                                                                      |              |          |             |
+| Non-Preferred                                                                                                        | Generic Name | Quantity | Time (Days) |
+|:---------------------------------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Alclometasone                                                                                                        |              |          |             |
+| Apexicon E                                                                                                           |              |          |             |
+| Betamethasone Dipropionate                                                                                           |              |          |             |
+| Betamethasone Dipropionate / Calcipotriene Susp                                                                      |              |          |             |
+| Betamethasone Valerate Aerosol Foam                                                                                  |              |          |             |
+| Bryhali                                                                                                              |              |          |             |
+| Clocortolone Pivalate                                                                                                |              |          |             |
+| Cordran Tape                                                                                                         |              |          |             |
+| Desonate Gel                                                                                                         |              |          |             |
+| Desonide Lotion                                                                                                      |              |          |             |
+| Desoximetasone                                                                                                       |              |          |             |
+| <span title = "Brand Preferred: Derma-Smoothe/FS">Fluocinolone Acetonide 0.01% Oil</span> <sup>Brand Preferred</sup> |              |          |             |
+| Fluocinonide Acetonide 0.025%, 0.1%                                                                                  |              |          |             |
+| Fluticasone Propionate Lotion                                                                                        |              |          |             |
+| Halcinonide Cream                                                                                                    |              |          |             |
+| Halobetasol Propionate                                                                                               |              |          |             |
+| Hydrocortisone Butyrate                                                                                              |              |          |             |
+| Hydrocortisone Valerate                                                                                              |              |          |             |
+| Halog                                                                                                                |              |          |             |
+| Impeklo                                                                                                              |              |          |             |
+| Pandel                                                                                                               |              |          |             |
+| Triamcinolone Spray                                                                                                  |              |          |             |
 
 ## Authorizations
 

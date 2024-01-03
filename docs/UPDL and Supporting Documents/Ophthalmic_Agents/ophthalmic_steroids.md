@@ -15,22 +15,22 @@ This is a subcategory of Ophthalmic Agents.
 
 ### Preferred
 
-| Preferred                      | Generic Name | Quantity | Time (Days) |
-|:-------------------------------|:-------------|:--------:|:-----------:|
-| Alrex <sup>BvG ==(Process by NDC)==</sup>           |              |          |             |
-| Dexamethasone Sodium Phosphate |              |          |             |
-| Difluprednate                  |              |          |             |
-| Durezol                        |              |          |             |
-| Flarex                         |              |          |             |
-| Fluorometholone                |              |          |             |
-| Fml Forte                      |              |          |             |
-| Fml S.O.P.                     |              |          |             |
-| Lotemax <sup>BvG ==(Process by NDC)==</sup>         |              |          |             |
-| Maxidex                        |              |          |             |
-| Pred Forte                     |              |          |             |
-| Pred Mild                      |              |          |             |
-| Prednisolone Acetate           |              |          |             |
-| Prednisolone Sodium Phosphate  |              |          |             |
+| Preferred                                   | Generic Name | Quantity | Time (Days) |
+|:--------------------------------------------|:-------------|:--------:|:-----------:|
+| Alrex <sup>BvG ==(Process by NDC)==</sup>   |              |          |             |
+| Dexamethasone Sodium Phosphate              |              |          |             |
+| Difluprednate                               |              |          |             |
+| Durezol                                     |              |          |             |
+| Flarex                                      |              |          |             |
+| Fluorometholone                             |              |          |             |
+| Fml Forte                                   |              |          |             |
+| Fml S.O.P.                                  |              |          |             |
+| Lotemax <sup>BvG ==(Process by NDC)==</sup> |              |          |             |
+| Maxidex                                     |              |          |             |
+| Pred Forte                                  |              |          |             |
+| Pred Mild                                   |              |          |             |
+| Prednisolone Acetate                        |              |          |             |
+| Prednisolone Sodium Phosphate               |              |          |             |
 
 ### Non-Preferred
 

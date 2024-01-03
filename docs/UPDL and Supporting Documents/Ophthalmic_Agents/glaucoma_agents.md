@@ -17,26 +17,26 @@ This is a subcategory of Ophthalmic Agents.
 
 ### Preferred
 
-| Preferred                       | Generic Name | Quantity | Time (Days) |
-|:--------------------------------|:-------------|:--------:|:-----------:|
-| Alphagan P 0.1% <sup>BVG (==Process by NDC== - Weekly Updates)</sup>     |              |          |             |
-| Alphagan P 0.15% <sup>BvG ==(Process by NDC)==</sup> |              |          |             |
-| Azopt <sup>BvG ST ==(Process by NDC)==</sup>         |              |          |             |
-| Betaxolol                       |              |          |             |
-| Betaxolol                       |              |          |             |
-| Brimonidine 0.2%                |              |          |             |
-| Carteolol                       |              |          |             |
-| Combigan <sup>BvG ST ==(Process by NDC)==</sup>      |              |          |             |
-| Dorzolamide                     |              |          |             |
-| Dorzolamide/Timolol             |              |          |             |
-| Latanaprost                     |              |          |             |
-| Levobunolol                     |              |          |             |
-| Metipranolol                    |              |          |             |
-| Rhopressa                       |              |          |             |
-| Rocklatan                       |              |          |             |
-| Simbrinza                       |              |          |             |
-| Timolol 0.5% Gel, Soln          |              |          |             |
-| Travatan Z <sup>BvG ST ==(Process by NDC)==</sup>    |              |          |             |
+| Preferred                                                            | Generic Name | Quantity | Time (Days) |
+|:---------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Alphagan P 0.1% <sup>BVG (==Process by NDC== - Weekly Updates)</sup> |              |          |             |
+| Alphagan P 0.15% <sup>BvG ==(Process by NDC)==</sup>                 |              |          |             |
+| Azopt <sup>BvG ST ==(Process by NDC)==</sup>                         |              |          |             |
+| Betaxolol                                                            |              |          |             |
+| Betaxolol                                                            |              |          |             |
+| Brimonidine 0.2%                                                     |              |          |             |
+| Carteolol                                                            |              |          |             |
+| Combigan <sup>BvG ST ==(Process by NDC)==</sup>                      |              |          |             |
+| Dorzolamide                                                          |              |          |             |
+| Dorzolamide/Timolol                                                  |              |          |             |
+| Latanaprost                                                          |              |          |             |
+| Levobunolol                                                          |              |          |             |
+| Metipranolol                                                         |              |          |             |
+| Rhopressa                                                            |              |          |             |
+| Rocklatan                                                            |              |          |             |
+| Simbrinza                                                            |              |          |             |
+| Timolol 0.5% Gel, Soln                                               |              |          |             |
+| Travatan Z <sup>BvG ST ==(Process by NDC)==</sup>                    |              |          |             |
 
 ### Non-Preferred
 
@@ -46,15 +46,15 @@ This is a subcategory of Ophthalmic Agents.
 | Betoptic S                                                                                            |              |          |             |
 | Bimatoprost                                                                                           |              |          |             |
 | <span title = "Brand Preferred: Alphagan P 0.15%">Brimonidine 0.15%</span> <sup>Brand Preferred</sup> |              |          |             |
-| <span title = "Brand Preferred: Azopt">Brinzolamide</span> <sup>Brand Preferred</sup>                                  |              |          |             |
+| <span title = "Brand Preferred: Azopt">Brinzolamide</span> <sup>Brand Preferred</sup>                 |              |          |             |
 | Iopidine                                                                                              |              |          |             |
 | Istalol                                                                                               |              |          |             |
 | Lumigan                                                                                               |              |          |             |
 | Timolol Maleate Droperette                                                                            |              |          |             |
-| <span title = "Brand Preferred: Travatan Z">Travoprost</span> <sup>Brand Preferred</sup>                               |              |          |             |
+| <span title = "Brand Preferred: Travatan Z">Travoprost</span> <sup>Brand Preferred</sup>              |              |          |             |
 | Vyzulta                                                                                               |              |          |             |
 | Xelpros                                                                                               |              |          |             |
-| Zioptan <sup>BvG ==(Process by NDC)==</sup>                                                                                |              |          |             |
+| Zioptan <sup>BvG ==(Process by NDC)==</sup>                                                           |              |          |             |
 
 ## Authorizations
 

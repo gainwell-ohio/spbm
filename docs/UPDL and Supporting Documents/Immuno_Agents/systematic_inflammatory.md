@@ -21,7 +21,6 @@ This is a subcategory of Immunomodulator Agents.
 
 - [Immunomodulator - Systemic Inflammatory Disease- Preferred (Step Therapy) - Taltz](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMFFaNE9JWjU1MTBOS001MFc2OUw5VVBKQSQlQCN0PWcu){ :target="_blank" rel="noopener"}
 
-
 ## Formulary
 
 ### Preferred
@@ -39,33 +38,33 @@ This is a subcategory of Immunomodulator Agents.
 
 ### Non-Preferred
 
-| Non-Preferred   | Generic Name | Quantity | Time (Days) |
-|:----------------|:-------------|:--------:|:-----------:|
-| Actemra         |              |          |             |
-| Adalimumab-adaz (Generic of Hyrimoz) | |  |             |
-| Adalimumab-fkjp (Generic of Hulio    | |  |             |
-| Amjevita        |              |          |             |
-| Cibinqo         |              |          |             |
-| Cimzia          |              |          |             |
-| Cosentyx        |              |          |             |
-| Cyltezo <sup>BVG (==Process by NDC==)</sup>        |              |          |             |
-| Hadlima         |              |          |             |
-| Idacio          |              |          |             |
-| Ilumya          |              |          |             |
-| Kevzara         |              |          |             |
-| Litfulo         |              |          |             |
-| Olumiant        |              |          |             |
-| Orencia         |              |          |             |
-| Rinvoq          |              |          |             |
-| Siliq           |              |          |             |
-| Simponi         |              |          |             |
-| Skyrizi         |              |          |             |
-| Sotyktu         |              |          |             |
-| Stelara         |              |          |             |
-| Tremfya         |              |          |             |
-| Xeljanz Sol, XR |              |          |             |
-| Yuflyma         |              |          |             |
-| Yusimry         |              |          |             |
+| Non-Preferred                               | Generic Name | Quantity | Time (Days) |
+|:--------------------------------------------|:-------------|:--------:|:-----------:|
+| Actemra                                     |              |          |             |
+| Adalimumab-adaz (Generic of Hyrimoz)        |              |          |             |
+| Adalimumab-fkjp (Generic of Hulio           |              |          |             |
+| Amjevita                                    |              |          |             |
+| Cibinqo                                     |              |          |             |
+| Cimzia                                      |              |          |             |
+| Cosentyx                                    |              |          |             |
+| Cyltezo <sup>BVG (==Process by NDC==)</sup> |              |          |             |
+| Hadlima                                     |              |          |             |
+| Idacio                                      |              |          |             |
+| Ilumya                                      |              |          |             |
+| Kevzara                                     |              |          |             |
+| Litfulo                                     |              |          |             |
+| Olumiant                                    |              |          |             |
+| Orencia                                     |              |          |             |
+| Rinvoq                                      |              |          |             |
+| Siliq                                       |              |          |             |
+| Simponi                                     |              |          |             |
+| Skyrizi                                     |              |          |             |
+| Sotyktu                                     |              |          |             |
+| Stelara                                     |              |          |             |
+| Tremfya                                     |              |          |             |
+| Xeljanz Sol, XR                             |              |          |             |
+| Yuflyma                                     |              |          |             |
+| Yusimry                                     |              |          |             |
 
 ## Authorizations ==(PROCESS BY HICL except for Xeljanz (GSN))==
 

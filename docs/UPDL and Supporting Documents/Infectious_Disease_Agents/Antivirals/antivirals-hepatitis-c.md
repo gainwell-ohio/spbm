@@ -16,7 +16,7 @@ This is a subcategory of Infectious Disease Agents.
 ### Preferred
 
 | Preferred                              | Generic Name | Quantity | Time (Days) |
-| :------------------------------------- | :----------- | :------: | :---------: |
+|:---------------------------------------|:-------------|:--------:|:-----------:|
 | Mavyret <sup>PA</sup>                  |              |          |             |
 | Pegasys <sup>PA</sup>                  |              |          |             |
 | Ribavirin <sup>PA</sup>                |              |          |             |
@@ -25,7 +25,7 @@ This is a subcategory of Infectious Disease Agents.
 ### Non-Preferred
 
 | Non-Preferred           | Generic Name | Quantity | Time (Days) |
-| :---------------------- | :----------- | :------: | :---------: |
+|:------------------------|:-------------|:--------:|:-----------:|
 | Harvoni                 |              |          |             |
 | Ledipasvir / Sofosbuvir |              |          |             |
 | Sovaldi                 |              |          |             |

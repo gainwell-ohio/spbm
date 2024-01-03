@@ -15,18 +15,18 @@ This is a subcategory of Ophthalmic Agents.
 
 ### Preferred
 
-| Preferred              | Generic Name | Quantity | Time (Days) |
-| :--------------------- | :----------- | :------: | :---------: |
-| Azelastine             |              |          |             |
+| Preferred                                   | Generic Name | Quantity | Time (Days) |
+|:--------------------------------------------|:-------------|:--------:|:-----------:|
+| Azelastine                                  |              |          |             |
 | Bepreve <sup>BvG ==(Process by NDC)==</sup> |              |          |             |
-| Cromolyn               |              |          |             |
-| Ketotifen              |              |          |             |
-| Olopatadine            |              |          |             |
+| Cromolyn                                    |              |          |             |
+| Ketotifen                                   |              |          |             |
+| Olopatadine                                 |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
+|:--------------|:-------------|:--------:|:-----------:|
 | Alocril       |              |          |             |
 | Alomide       |              |          |             |
 | Epinastine    |              |          |             |

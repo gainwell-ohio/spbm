@@ -18,7 +18,7 @@ This is a subcategory of Cardiovascular Agents.
 ### Preferred
 
 | Preferred                        | Generic Name                                              | Quantity | Time (Days) |
-| :------------------------------- | :-------------------------------------------------------- | :------: | :---------: |
+|:---------------------------------|:----------------------------------------------------------|:--------:|:-----------:|
 | Amiodarone 200mg <sup>QL</sup>   | Amiodarone HCI Tab 200 MG                                 |   816    |     102     |
 | Disopyramide <sup>QL</sup>       | Disopyramide Phosphate Cap (all strengths)                |   816    |     102     |
 | Dofetilide                       |                                                           |          |             |
@@ -34,7 +34,7 @@ This is a subcategory of Cardiovascular Agents.
 ### Non-Preferred
 
 | Non-Preferred                            | Generic Name                                   |         Quantity          |        Time (Days)        |
-| :--------------------------------------- | :--------------------------------------------- | :-----------------------: | :-----------------------: |
+|:-----------------------------------------|:-----------------------------------------------|:-------------------------:|:-------------------------:|
 | Amiodarone 100mg and 400mg <sup>QL</sup> | Amiodarone HCI Tab (all strengths excl 200 MG) | Determined pursuant to PA | Determined pursuant to PA |
 | Multaq                                   |                                                |                           |                           |
 

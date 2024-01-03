@@ -11,20 +11,20 @@ This is a subcategory of Ophthalmic Agents.
 
 ### Preferred
 
-| Preferred                        | Generic Name | Quantity | Time (Days) |
-|:---------------------------------|:-------------|:--------:|:-----------:|
+| Preferred                                             | Generic Name | Quantity | Time (Days) |
+|:------------------------------------------------------|:-------------|:--------:|:-----------:|
 | Restasis Trays <sup>BvG ST ==(Process by NDC)==</sup> |              |          |             |
-| Xiidra <sup>ST</sup>             |              |          |             |
+| Xiidra <sup>ST</sup>                                  |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                                                                            | Generic Name | Quantity | Time (Days) |
-|:-----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
-| Cequa                                                                                    |              |          |             |
-| Eysuvis                                                                                  |              |          |             |
-| Miebo                                                                                    |              |          |             |
-| Restasis Multi-Dose                                                                      |              |          |             |
-| Tyrvaya                                                                                  |              |          |             |
+| Non-Preferred       | Generic Name | Quantity | Time (Days) |
+|:--------------------|:-------------|:--------:|:-----------:|
+| Cequa               |              |          |             |
+| Eysuvis             |              |          |             |
+| Miebo               |              |          |             |
+| Restasis Multi-Dose |              |          |             |
+| Tyrvaya             |              |          |             |
 
 ## Authorizations
 

@@ -15,18 +15,18 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                 | Generic Name | Quantity | Time (Days) |
-|:--------------------------|:-------------|:--------:|:-----------:|
-| Avonex                    |              |          |             |
-| Betaseron                 |              |          |             |
-| Copaxone <sup>BvG ==(Process by NDC)==</sup>   |              |          |             |
-| Dalfampridine             |              |          |             |
-| Dimethyl Fumarate         |              |          |             |
-| Fingolimod                |              |          |             |
-| Gilenya                   |              |          |             |
-| Kesimpta                  |              |          |             |
-| Rebif                     |              |          |             |
-| Teriflunomide             |              |          |             |
+| Preferred                                    | Generic Name | Quantity | Time (Days) |
+|:---------------------------------------------|:-------------|:--------:|:-----------:|
+| Avonex                                       |              |          |             |
+| Betaseron                                    |              |          |             |
+| Copaxone <sup>BvG ==(Process by NDC)==</sup> |              |          |             |
+| Dalfampridine                                |              |          |             |
+| Dimethyl Fumarate                            |              |          |             |
+| Fingolimod                                   |              |          |             |
+| Gilenya                                      |              |          |             |
+| Kesimpta                                     |              |          |             |
+| Rebif                                        |              |          |             |
+| Teriflunomide                                |              |          |             |
  
 ### Non-Preferred
 

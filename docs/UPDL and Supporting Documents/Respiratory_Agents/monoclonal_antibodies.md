@@ -20,7 +20,7 @@ This is a subcategory of Respiratory Agents.
 ### Preferred
 
 | Preferred              | Generic Name | Quantity | Time (Days) |
-| :--------------------- | :----------- | :------: | :---------: |
+|:-----------------------|:-------------|:--------:|:-----------:|
 | Fasenra <sup>PA</sup>  |              |          |             |
 | Dupixent <sup>PA</sup> |              |          |             |
 | Xolair <sup>PA</sup>   |              |          |             |
@@ -28,7 +28,7 @@ This is a subcategory of Respiratory Agents.
 ### Non-Preferred
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
+|:--------------|:-------------|:--------:|:-----------:|
 | Nucala        |              |          |             |
 | Tezspire      |              |          |             |
 

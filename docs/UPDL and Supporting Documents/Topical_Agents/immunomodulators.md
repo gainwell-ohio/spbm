@@ -17,21 +17,21 @@ This is a subcategory of Topical Agents.
 
 ### Preferred
 
-| Preferred                   | Generic Name | Quantity | Time (Days) |
-|:----------------------------|:-------------|:--------:|:-----------:|
+| Preferred                                        | Generic Name | Quantity | Time (Days) |
+|:-------------------------------------------------|:-------------|:--------:|:-----------:|
 | Elidel <sup>AR BvG ST ==(Process by NDC)==</sup> |              |          |             |
-| Tacrolimus <sup>AR ST</sup> |              |          |             |
+| Tacrolimus <sup>AR ST</sup>                      |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred              | Generic Name | Quantity | Time (Days) |
-|:---------------------------|:-------------|:--------:|:-----------:|
-| Eucrisa                    |              |          |             |
-| Hyftor                     |              |          |             |
-| Opzelura                   |              |          |             |
+| Non-Preferred                                                                              | Generic Name | Quantity | Time (Days) |
+|:-------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Eucrisa                                                                                    |              |          |             |
+| Hyftor                                                                                     |              |          |             |
+| Opzelura                                                                                   |              |          |             |
 | <span title = "Brand Preferred: Elidel">Pimecrolimus</span> <sup>AR, Brand Preferred</sup> |              |          |             |
-| Vtama                      |              |          |             |
-| Zoryve                     |              |          |             |
+| Vtama                                                                                      |              |          |             |
+| Zoryve                                                                                     |              |          |             |
 
 ## Authorizations
 
