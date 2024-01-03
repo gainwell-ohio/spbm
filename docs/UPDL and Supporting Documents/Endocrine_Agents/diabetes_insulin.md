@@ -50,12 +50,12 @@ This is a subcategory of Endocrine Agents.
 | Humalog U-200 <sup>QL</sup> | Insulin Lispro Soln Subcutaneous Inj 200 Unit / ML (all formulations)   | Determined pursuant to PA | Determined purusant to PA |
 | Humulin N U-100             |                                                                         |                           |                           |
 | Humulin R U-100             |                                                                         |                           |                           |
-| Semglee <sup>BVG QL</sup>   |                                                                         |                           |                           |
 | Lyumjev                     |                                                                         |                           |                           |
 | Novolin 70-30               |                                                                         |                           |                           |
 | Novolin N U-100             |                                                                         |                           |                           |
 | Novolin R U-100             |                                                                         |                           |                           |
 | Rezvoglar                   |                                                                         |                           |                           |
+| Semglee <sup>BVG QL</sup>   |                                                                         |                           |                           |
 
 ## Authorizations
 
