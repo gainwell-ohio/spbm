@@ -19,43 +19,43 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred                                 | Generic Name                                                            | Quantity | Time (Days) |
-|:------------------------------------------|:------------------------------------------------------------------------|:--------:|:-----------:|
-| Apidra                                    |                                                                         |          |             |
-| Humalog 50-50                             |                                                                         |          |             |
-| Humalog 75-25                             |                                                                         |          |             |
-| Humalog U-100 Kwikpen Vial <sup>QL</sup>  | Insulin Lispro Soln Subcutaneous Inj 100 Unit / ML (all formulations)   |   306    |     102     |
-| Humulin 70-30                             |                                                                         |          |             |
-| Humulin R U-500 <sup>QL</sup>             | Insulin Regular Soln Subcutaneous Inj 500 Unit / ML (all formulations)  |   61.2   |     102     |
-| Insulin Aspart <sup>QL</sup>              | Insulin Aspart Soln Subcutaneous Inj 100 Unit / ML (all formulations)   |   306    |     102     |
-| Insulin Aspart Protamine / Insulin Aspart |                                                                         |          |             |
-| Insulin Degludec <sup>ST</sup> |    |   |  |
-| Insulin Lispro <sup>QL</sup>              | Insulin Lispro Soln Subcutaneous Inj 100 Unit / ML (all formulations)   |   306    |     102     |
-| Lantus <sup>BvG QL ==(Process by NDC)==</sup>                  | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) |   204    |     102     |
-| Levemir                                   |                                                                         |          |             |
-| Novolog 70-30                             |                                                                         |          |             |
-| Novolog U-100 <sup>QL</sup>               |                                                                         |          |             |
-| Toujeo                                    |                                                                         |          |             |
-| Tresiba <sup>ST</sup>                 |                                                                         |          |             |
+| Preferred                                     | Generic Name                                                            | Quantity | Time (Days) |
+|:----------------------------------------------|:------------------------------------------------------------------------|:--------:|:-----------:|
+| Apidra                                        |                                                                         |          |             |
+| Humalog 50-50                                 |                                                                         |          |             |
+| Humalog 75-25                                 |                                                                         |          |             |
+| Humalog U-100 Kwikpen Vial <sup>QL</sup>      | Insulin Lispro Soln Subcutaneous Inj 100 Unit / ML (all formulations)   |   306    |     102     |
+| Humulin 70-30                                 |                                                                         |          |             |
+| Humulin R U-500 <sup>QL</sup>                 | Insulin Regular Soln Subcutaneous Inj 500 Unit / ML (all formulations)  |   61.2   |     102     |
+| Insulin Aspart <sup>QL</sup>                  | Insulin Aspart Soln Subcutaneous Inj 100 Unit / ML (all formulations)   |   306    |     102     |
+| Insulin Aspart Protamine / Insulin Aspart     |                                                                         |          |             |
+| Insulin Degludec <sup>ST</sup>                |                                                                         |          |             |
+| Insulin Lispro <sup>QL</sup>                  | Insulin Lispro Soln Subcutaneous Inj 100 Unit / ML (all formulations)   |   306    |     102     |
+| Lantus <sup>BvG QL ==(Process by NDC)==</sup> | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) |   204    |     102     |
+| Levemir                                       |                                                                         |          |             |
+| Novolog 70-30                                 |                                                                         |          |             |
+| Novolog U-100 <sup>QL</sup>                   |                                                                         |          |             |
+| Toujeo                                        |                                                                         |          |             |
+| Tresiba <sup>ST</sup>                         |                                                                         |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                                                                               | Generic Name                                                            |         Quantity          |        Time (Days)        |
-|:--------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|:-------------------------:|:-------------------------:|
-| Admelog <sup>QL</sup>                                                                       | Insulin Lispro Soln Subcutaneous Inj 100 Unit / ML (all formulations)   | Determined pursuant to PA | Determined pursuant to PA |
-| Afrezza                                                                                     |                                                                         |                           |                           |
-| Basaglar <sup>QL</sup>                                                                      | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) | Determined pursuant to PA | Determined pursuant to PA |
-| Fiasp <sup>QL</sup>                                                                         | Insulin Aspart Soln Subcutaneous Inj 100 Unit / ML (all formulations)   | Determined pursuant to PA | Determined pursuant to PA |
-| Humalog U-100 Tempo Pen                                                                     |                                                                         |                           |                           |
-| Humalog U-200 <sup>QL</sup>                                                                 | Insulin Lispro Soln Subcutaneous Inj 200 Unit / ML (all formulations)   | Determined pursuant to PA | Determined purusant to PA |
-| Humulin N U-100                                                                             |                                                                         |                           |                           |
-| Humulin R U-100                                                                             |                                                                         |                           |                           |
-| Semglee <sup>BVG QL</sup> |                                                                         |                           |                           |
-| Lyumjev                                                                                     |                                                                         |                           |                           |
-| Novolin 70-30                                                                               |                                                                         |                           |                           |
-| Novolin N U-100                                                                             |                                                                         |                           |                           |
-| Novolin R U-100                                                                             |                                                                         |                           |                           |
-| Rezvoglar                                                                                   |                                                                         |                           |                           |
+| Non-Preferred               | Generic Name                                                            |         Quantity          |        Time (Days)        |
+|:----------------------------|:------------------------------------------------------------------------|:-------------------------:|:-------------------------:|
+| Admelog <sup>QL</sup>       | Insulin Lispro Soln Subcutaneous Inj 100 Unit / ML (all formulations)   | Determined pursuant to PA | Determined pursuant to PA |
+| Afrezza                     |                                                                         |                           |                           |
+| Basaglar <sup>QL</sup>      | Insulin Glargine Soln Subcutaneous Inj 100 Unit / ML (all formulations) | Determined pursuant to PA | Determined pursuant to PA |
+| Fiasp <sup>QL</sup>         | Insulin Aspart Soln Subcutaneous Inj 100 Unit / ML (all formulations)   | Determined pursuant to PA | Determined pursuant to PA |
+| Humalog U-100 Tempo Pen     |                                                                         |                           |                           |
+| Humalog U-200 <sup>QL</sup> | Insulin Lispro Soln Subcutaneous Inj 200 Unit / ML (all formulations)   | Determined pursuant to PA | Determined purusant to PA |
+| Humulin N U-100             |                                                                         |                           |                           |
+| Humulin R U-100             |                                                                         |                           |                           |
+| Semglee <sup>BVG QL</sup>   |                                                                         |                           |                           |
+| Lyumjev                     |                                                                         |                           |                           |
+| Novolin 70-30               |                                                                         |                           |                           |
+| Novolin N U-100             |                                                                         |                           |                           |
+| Novolin R U-100             |                                                                         |                           |                           |
+| Rezvoglar                   |                                                                         |                           |                           |
 
 ## Authorizations
 
@@ -109,7 +109,10 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=48&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
-[Criteria](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20criteria%20effective%2001.01.2024.pdf#page=55){:target="_blank" rel="noopener"} </br>
-[Preferred Drug List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20effective%2001.01.2024.pdf#page=20){ :target="_blank" rel="noopener"} </br>
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=48&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
+
+[Criteria](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20criteria%20effective%2001.01.2024.pdf#page=55){:target="_blank" rel="noopener"} 
+
+[Preferred Drug List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20effective%2001.01.2024.pdf#page=20){ :target="_blank" rel="noopener"}
+
 [Quantity Limit List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/Quantity%20Limits.pdf){ :target="_blank" rel="noopener"}

@@ -27,18 +27,18 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Galantamine ER Cap <sup>AR QL</sup>      | Galantamine Hydrobromide ER Cap (all strengths)        |   102    |     102     |
 | Memantine Tab <sup>AR</sup>              |                                                        |          |             |
 | Rivastigmine Cap <sup>AR QL</sup>        | Rivastigmine Tartrate Cap (all strengths)              |   204    |     102     |
-| Rivastigmine Patch <sup>AR</sup>     |                                                        |          |             | 
+| Rivastigmine Patch <sup>AR</sup>         |                                                        |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                                                                                          | Generic Name                                         |         Quantity          |        Time (Days)        |
-|:-------------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:-------------------------:|:-------------------------:|
-| Adlarity <sup>AR</sup>                                                                                 |                                                      |                           |                           |
-| Donepezil 23mg Tab <sup>AR QL</sup>                                                                    | Donepezil Hydrochloride Tab 23 MG                    | Determined pursuant to PA | Determined pursuant to PA |
-| Galantamine Sol <sup>AR QL</sup>                                                                       | Galantamine Hydrobromide Oral Soln (all strengths)   | Determined pursuant to PA | Determined pursuant to PA |
-| Memantine ER <sup>AR</sup>                                                                             |                                                      |                           |                           |
-| Memantine Sol <sup>AR</sup>                                                                            |                                                      |                           |                           |
-| Namzaric <sup>AR</sup>                                                                                 | Memantine HCI / Donepezil HCI ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Non-Preferred                       | Generic Name                                         |         Quantity          |        Time (Days)        |
+|:------------------------------------|:-----------------------------------------------------|:-------------------------:|:-------------------------:|
+| Adlarity <sup>AR</sup>              |                                                      |                           |                           |
+| Donepezil 23mg Tab <sup>AR QL</sup> | Donepezil Hydrochloride Tab 23 MG                    | Determined pursuant to PA | Determined pursuant to PA |
+| Galantamine Sol <sup>AR QL</sup>    | Galantamine Hydrobromide Oral Soln (all strengths)   | Determined pursuant to PA | Determined pursuant to PA |
+| Memantine ER <sup>AR</sup>          |                                                      |                           |                           |
+| Memantine Sol <sup>AR</sup>         |                                                      |                           |                           |
+| Namzaric <sup>AR</sup>              | Memantine HCI / Donepezil HCI ER Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
 
 ## Authorizations
 

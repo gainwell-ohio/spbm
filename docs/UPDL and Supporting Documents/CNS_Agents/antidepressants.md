@@ -10,9 +10,13 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 ## Decision Trees
 
 - [CNS - Antidepressants - Auvelity](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBURTEyUkVIMDZCOU1EMUMwNDhCQUxaQzJXTiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+
 - [CNS - Antidepressants - Bupropion XL (generic of Forfivo XL), Duloxetine 40mg, Trazodone 300mg](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUMlg1UkFGRDRRUlJaUTcwRUo0QjdNRzFDUyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+
 - [CNS - Antidepressants - Fluoxetine 60mg, DR, Fluvoxamine ER]{ :target="_blank" rel"noopener" }
+
 - [CNS - Antidepressants - Non-Preferred Products](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUtCNUMzSlBGUkJTQTIyRE1aWUVaNEZUMiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+
 - [CNS - Antidepressants - Viibryd](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQ0xEN1lTMzlPVkhJVzdEQTNIMzFON01NRSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
 
 ## Formulary
@@ -73,12 +77,12 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 | Paroxetine Cap                                     |                                                               |                           |                           |
 | Paroxetine ER Tab                                  |                                                               |                           |                           |
 | Pexeva                                             |                                                               |                           |                           |
-| Phenelzine
-| Sertraline CAPSULES                                |                                                               |Determined pursuant to PA  |Determined pursuant to PA
+| Phenelzine                                         |                                                               |                           |                           |
+| Sertraline CAPSULES                                |                                                               | Determined pursuant to PA | Determined pursuant to PA |
 | Trazodone 300 MG <sup>QL</sup>                     | Trazodone HCI Tab 300 MG                                      |            102            |            102            |
 | Trintellix                                         |                                                               |                           |                           |
 | Venlafaxine ER Tab                                 |                                                               |                           |                           |
-| Viibryd <sup>BvG ==(Process by NDC)==</sup>                             |                                                               |                           |                           |
+| Viibryd <sup>BvG ==(Process by NDC)==</sup>        |                                                               |                           |                           |
 
 ## Authorizations
 
@@ -132,7 +136,10 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=28&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
-[Criteria](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20criteria%20effective%2001.01.2024.pdf#page=33){ :target="_blank" rel="noopener"} </br>
-[Preferred Drug List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20effective%2001.01.2024.pdf#page=15){ :target="_blank" rel="noopener"} </br>
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=28&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"}
+
+[Criteria](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20criteria%20effective%2001.01.2024.pdf#page=33){ :target="_blank" rel="noopener"} 
+
+[Preferred Drug List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20effective%2001.01.2024.pdf#page=15){ :target="_blank" rel="noopener"}
+
 [Quantity Limit List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/Quantity%20Limits.pdf){ :target="_blank" rel="noopener"}

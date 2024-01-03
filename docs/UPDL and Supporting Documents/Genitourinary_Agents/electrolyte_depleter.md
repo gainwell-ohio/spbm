@@ -16,7 +16,7 @@ This is a subcategory of Genitourinary Agents.
 ### Preferred
 
 | Preferred         | Generic Name | Quantity | Time (Days) |
-| :---------------- | :----------- | :------: | :---------: |
+|:------------------|:-------------|:--------:|:-----------:|
 | Calcium Acetate   |              |          |             |
 | Calcium Carbonate |              |          |             |
 | Phoslyra          |              |          |             |
@@ -25,7 +25,7 @@ This is a subcategory of Genitourinary Agents.
 ### Non-Preferred
 
 | Non-Preferred       | Generic Name | Quantity | Time (Days) |
-| :------------------ | :----------- | :------: | :---------: |
+|:--------------------|:-------------|:--------:|:-----------:|
 | Auryxia             |              |          |             |
 | Lanthanum Carbonate |              |          |             |
 | Velphoro            |              |          |             |

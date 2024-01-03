@@ -17,27 +17,27 @@ This is a subcategory of Endocrine Agents.
 
 ### Preferred
 
-| Preferred                                         | Generic Name | Quantity | Time (Days) |
-| :------------------------------------------------ | :----------- | :------: | :---------: |
-| Androderm <sup>AR PA</sup>                        |              |          |             |
-| Depo-Testosterone <sup> AR PA</sup>               |              |          |             |
-| Testosterone Cypionate <sup>AR PA</sup>           |              |          |             |
-| Testosterone Gel 1% Packet <sup>AR PA</sup>       |              |          |             |
-| Testosterone Gel 1.62% Pump <sup>AR PA</sup>      |              |          |             |
+| Preferred                                    | Generic Name | Quantity | Time (Days) |
+|:---------------------------------------------|:-------------|:--------:|:-----------:|
+| Androderm <sup>AR PA</sup>                   |              |          |             |
+| Depo-Testosterone <sup> AR PA</sup>          |              |          |             |
+| Testosterone Cypionate <sup>AR PA</sup>      |              |          |             |
+| Testosterone Gel 1% Packet <sup>AR PA</sup>  |              |          |             |
+| Testosterone Gel 1.62% Pump <sup>AR PA</sup> |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred                              | Generic Name | Quantity | Time (Days) |
-| :----------------------------------------- | :----------- | :------: | :---------: |
-| Jatenzo <sup>AR</sup>                      |              |          |             |
-| Methyltestosterone <sup>AR</sup>           |              |          |             |
-| Natesto <sup>AR</sup>                      |              |          |             |
-| Testopel <sup>AR</sup>                     |              |          |             |
-| Testosterone Gel 1% Pump <sup>AR</sup>     |              |          |             |
-| Testosterone Gel 2% <sup>AR</sup>          |              |          |             |
-| Testosterone Sol 30 MG/ACT <sup>AR</sup>   |              |          |             |
-| Tlando <sup>AR</sup>                       |              |          |             |
-| Xyosted <sup>AR</sup>                      |              |          |             |
+| Non-Preferred                            | Generic Name | Quantity | Time (Days) |
+|:-----------------------------------------|:-------------|:--------:|:-----------:|
+| Jatenzo <sup>AR</sup>                    |              |          |             |
+| Methyltestosterone <sup>AR</sup>         |              |          |             |
+| Natesto <sup>AR</sup>                    |              |          |             |
+| Testopel <sup>AR</sup>                   |              |          |             |
+| Testosterone Gel 1% Pump <sup>AR</sup>   |              |          |             |
+| Testosterone Gel 2% <sup>AR</sup>        |              |          |             |
+| Testosterone Sol 30 MG/ACT <sup>AR</sup> |              |          |             |
+| Tlando <sup>AR</sup>                     |              |          |             |
+| Xyosted <sup>AR</sup>                    |              |          |             |
 
 ## Authorizations
 
@@ -75,7 +75,10 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=46&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
-[Criteria](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20criteria%20effective%2001.01.2024.pdf#page=53){ :target="_blank" rel="noopener"} </br>
-[Preferred Drug List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20effective%2001.01.2024.pdf#page=20){ :target="_blank" rel="noopener"} </br>
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=46&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
+
+[Criteria](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20criteria%20effective%2001.01.2024.pdf#page=53){ :target="_blank" rel="noopener"} 
+
+[Preferred Drug List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20effective%2001.01.2024.pdf#page=20){ :target="_blank" rel="noopener"} 
+
 [Quantity Limit List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/Quantity%20Limits.pdf){ :target="_blank" rel="noopener"}

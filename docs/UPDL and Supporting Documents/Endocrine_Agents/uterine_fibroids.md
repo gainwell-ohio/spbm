@@ -18,7 +18,7 @@ This is a subcategory of Endocrine Agents.
 ### Preferred
 
 | Preferred                                | Generic Name                                                                |         Quantity          |        Time (Days)        |
-| :--------------------------------------- | :-------------------------------------------------------------------------- | :-----------------------: | :-----------------------: |
+|:-----------------------------------------|:----------------------------------------------------------------------------|:-------------------------:|:-------------------------:|
 | Lupron Depot <sup>PA</sup> 3.75, 11.25mg | Leuprolide Acetate for Depot IM Susp 3.75 MG & 11.25 MG                     | Determined pursuant to PA | Determined pursuant to PA |
 | Myfembree <sup>PA QL</sup>               | Relugolix / Estradiol / Norethindrone Acetate Tab (all strengths)           | Determined pursuant to PA | Determined pursuant to PA |
 | Oriahnn <sup>PA QL</sup>                 | Elagolix / Estradiol / Norethindrone Acetate & Elagolix Cap (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
@@ -26,7 +26,7 @@ This is a subcategory of Endocrine Agents.
 ### Non-Preferred
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
+|:--------------|:-------------|:--------:|:-----------:|
 |               |              |          |             |
 
 ## Authorizations
@@ -65,7 +65,10 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=55&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
-[Criteria](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20criteria%20effective%2001.01.2024.pdf#page=65){ :target="_blank" rel="noopener"} </br>
-[Preferred Drug List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20effective%2001.01.2024.pdf#page=22){ :target="_blank" rel="noopener"} </br>
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=55&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
+
+[Criteria](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20criteria%20effective%2001.01.2024.pdf#page=65){ :target="_blank" rel="noopener"} 
+
+[Preferred Drug List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20effective%2001.01.2024.pdf#page=22){ :target="_blank" rel="noopener"}
+
 [Quantity Limit List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/Quantity%20Limits.pdf){ :target="_blank" rel="noopener"}

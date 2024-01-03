@@ -18,14 +18,14 @@ This is a subcategory of Respiratory Agents.
 ### Preferred
 
 | Preferred                 | Generic Name                           | Quantity | Time (Days) |
-| :------------------------ | :------------------------------------- | :------: | :---------: |
+|:--------------------------|:---------------------------------------|:--------:|:-----------:|
 | Montelukast <sup>QL</sup> | Montelukast Sodium Tab (all strengths) |   102    |     102     |
 | Zafirlukast <sup>ST</sup> |                                        |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
+|:--------------|:-------------|:--------:|:-----------:|
 | Zileuton      |              |          |             |
 | Zyflo         |              |          |             |
 

@@ -15,22 +15,22 @@ This is a subcategory of Blood Formation, Coagulation, and Thrombosis Agents.
 
 ### Preferred
 
-| Preferred                                   | Generic Name                               | Quantity | Time (Days) |
-|:--------------------------------------------|:-------------------------------------------|:--------:|:-----------:|
-| Eliquis                                    |                                            |          |             |
+| Preferred                                        | Generic Name                               | Quantity | Time (Days) |
+|:-------------------------------------------------|:-------------------------------------------|:--------:|:-----------:|
+| Eliquis                                          |                                            |          |             |
 | Pradaxa Cap <sup> BvG ==(Process by NDC)==</sup> |                                            |          |             |
-| Pradaxa Pellet Pak <sup>AR</sup>                          |                                            |          |             |
-| Warfarin                                |                                            |          |             |
-| Xarelto Suspension <sup>AR</sup>                          |                                            |          |             |
-| Xarelto Tab <sup>QL </sup>                   | Rivaroxaban Tab (all strengths excl 15 MG) |   102    |     102     |
-| Xarelto Tab <sup>QL </sup>                   | Rivaroxaban Tab 15 MG                      |   204    |     102     |
+| Pradaxa Pellet Pak <sup>AR</sup>                 |                                            |          |             |
+| Warfarin                                         |                                            |          |             |
+| Xarelto Suspension <sup>AR</sup>                 |                                            |          |             |
+| Xarelto Tab <sup>QL </sup>                       | Rivaroxaban Tab (all strengths excl 15 MG) |   102    |     102     |
+| Xarelto Tab <sup>QL </sup>                       | Rivaroxaban Tab 15 MG                      |   204    |     102     |
 
 ### Non-Preferred
 
-| Non-Preferred                                                                         | Generic Name | Quantity | Time (Days) |
-|:--------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
+| Non-Preferred                                                                             | Generic Name | Quantity | Time (Days) |
+|:------------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
 | <span title = "Brand Preferred: Pradaxa">Dabigatran</span> <sup>AR, Brand Preferred</sup> |              |          |             |
-| Savaysa                                                                          |              |          |             |
+| Savaysa                                                                                   |              |          |             |
 
 ## Authorizations
 

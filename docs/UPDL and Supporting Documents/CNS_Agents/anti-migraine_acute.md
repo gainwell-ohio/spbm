@@ -11,34 +11,34 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                             | Generic Name                                           | Quantity | Time (Days) |
-|:--------------------------------------|:-------------------------------------------------------|:--------:|:-----------:|
-| Imitrex Nasal Spray <sup>QL (removed off BVG- 12/15/2023)</sup> | Sumatriptan Succinate Nasal Spray (all strengths)      |    8     |     30      |
-| Naratriptan <sup>QL</sup>             | Naratriptan HCI Tab (all strengths)                    |    9     |     30      |
-| Nurtec ODT <sup>QL ST</sup>           | Rimegepant ODT (all strengths)                         | Determined pursuant to PA | Determined pursuant to PA |
-| Rizatriptan <sup>QL</sup>             | Rizatriptan Benzoate (all strengths & formulations     |    9     |     30      |
-| Sumatriptan Inj <sup>QL</sup>         | Sumatriptan Succinate Subcutaneous Inj (all strengths) |    4     |     30      |
-| Sumatriptan Nasal Spray | Sumatriptan Succinate Nasal Spray (all strengths)  | Determined pursuant to PA | Determined pursuant to PA |
-| Sumatriptan Tab <sup>QL</sup>         | Sumatriptan Succinate Tab (all strengths)              |    9     |     30      |
-| Tosymra <sup>BvG QL ==(Process by NDC)==</sup>             | Sumatriptan Succinate Nasal Spray (all strengths)      |    8     |     30      |
+| Preferred                                                       | Generic Name                                           |         Quantity          |        Time (Days)        |
+|:----------------------------------------------------------------|:-------------------------------------------------------|:-------------------------:|:-------------------------:|
+| Imitrex Nasal Spray <sup>QL (removed off BVG- 12/15/2023)</sup> | Sumatriptan Succinate Nasal Spray (all strengths)      |             8             |            30             |
+| Naratriptan <sup>QL</sup>                                       | Naratriptan HCI Tab (all strengths)                    |             9             |            30             |
+| Nurtec ODT <sup>QL ST</sup>                                     | Rimegepant ODT (all strengths)                         | Determined pursuant to PA | Determined pursuant to PA |
+| Rizatriptan <sup>QL</sup>                                       | Rizatriptan Benzoate (all strengths & formulations     |             9             |            30             |
+| Sumatriptan Inj <sup>QL</sup>                                   | Sumatriptan Succinate Subcutaneous Inj (all strengths) |             4             |            30             |
+| Sumatriptan Nasal Spray                                         | Sumatriptan Succinate Nasal Spray (all strengths)      | Determined pursuant to PA | Determined pursuant to PA |
+| Sumatriptan Tab <sup>QL</sup>                                   | Sumatriptan Succinate Tab (all strengths)              |             9             |            30             |
+| Tosymra <sup>BvG QL ==(Process by NDC)==</sup>                  | Sumatriptan Succinate Nasal Spray (all strengths)      |             8             |            30             |
 
 ### Non-Preferred
 
-| Non-Preferred                         | Generic Name                                       |         Quantity          |        Time (Days)        |
-|:--------------------------------------|:---------------------------------------------------|:-------------------------:|:-------------------------:|
-| Almotriptan                           |                                                    |                           |                           |
-| Dihydroergotamine                     |                                                    |                           |                           |
-| Eletriptan                            |                                                    |                           |                           |
-| Ergomar                               |                                                    |                           |                           |
-| Frovatriptan                          |                                                    |                           |                           |
-| Migergot                              |                                                    |                           |                           |
-| Onzetra Xsail <sup>QL</sup>           | Sumatriptan Succinate Nasal Powder (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
-| Reyvow                                |                                                    |                           |                           |
-| Sumatriptan / Naproxen                |                                                    |                           |                           |
-| Trudhesa                              |                                                    |                           |                           |
-| Ubrelvy                               |                                                    |                           |                           |
-| Zavzpret                              |                                                    |                           |                           |
-| Zolmitriptan                          |                                                    |                           |                           |
+| Non-Preferred               | Generic Name                                       |         Quantity          |        Time (Days)        |
+|:----------------------------|:---------------------------------------------------|:-------------------------:|:-------------------------:|
+| Almotriptan                 |                                                    |                           |                           |
+| Dihydroergotamine           |                                                    |                           |                           |
+| Eletriptan                  |                                                    |                           |                           |
+| Ergomar                     |                                                    |                           |                           |
+| Frovatriptan                |                                                    |                           |                           |
+| Migergot                    |                                                    |                           |                           |
+| Onzetra Xsail <sup>QL</sup> | Sumatriptan Succinate Nasal Powder (all strengths) | Determined pursuant to PA | Determined pursuant to PA |
+| Reyvow                      |                                                    |                           |                           |
+| Sumatriptan / Naproxen      |                                                    |                           |                           |
+| Trudhesa                    |                                                    |                           |                           |
+| Ubrelvy                     |                                                    |                           |                           |
+| Zavzpret                    |                                                    |                           |                           |
+| Zolmitriptan                |                                                    |                           |                           |
 
 ## Authorizations
 

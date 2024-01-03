@@ -12,7 +12,7 @@ This is a subcategory of Infectious Disease Agents.
 ### Preferred
 
 | Preferred                     | Generic Name | Quantity | Time (Days) |
-| :---------------------------- | :----------- | :------: | :---------: |
+|:------------------------------|:-------------|:--------:|:-----------:|
 | Doxycycline 50, 100 MG        |              |          |             |
 | Doxycycline Syr <sup>AR</sup> |              |          |             |
 | Minocycline Cap               |              |          |             |
@@ -22,7 +22,7 @@ This is a subcategory of Infectious Disease Agents.
 ### Non-Preferred
 
 | Non-Preferred                  | Generic Name | Quantity | Time (Days) |
-| :----------------------------- | :----------- | :------: | :---------: |
+|:-------------------------------|:-------------|:--------:|:-----------:|
 | Demeclocycline                 |              |          |             |
 | Doxycycline 20, 40, 75, 150 MG |              |          |             |
 | Doxycycline DR                 |              |          |             |

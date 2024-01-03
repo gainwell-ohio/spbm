@@ -16,14 +16,14 @@ This is a subcategory of Infectious Disease Agents.
 ### Preferred
 
 | Preferred    | Generic Name | Quantity | Time (Days) |
-| :----------- | :----------- | :------: | :---------: |
+|:-------------|:-------------|:--------:|:-----------:|
 | Acyclovir    |              |          |             |
 | Valacyclovir |              |          |             |
 
 ### Non-Preferred
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
+|:--------------|:-------------|:--------:|:-----------:|
 | Famciclovir   |              |          |             |
 | Sitavig       |              |          |             |
 

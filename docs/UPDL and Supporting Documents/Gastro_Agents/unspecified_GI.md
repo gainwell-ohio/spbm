@@ -10,9 +10,13 @@ This is a subcategory of Gastrointestinal Agents.
 ## Decision Trees
 
 - [Gastrointestinal Agents - Unspecified GI - Non-Preferred](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNDhBOE5BRDUyT1Q5SkFFTkxKSUk4N1lIWiQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+
 - [Gastrointestinal Agents - Unspecified GI- Relistor and Symproic](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUM1VRN1lWS0hYMjJCMjZLQkhVRkRRVUhDQSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+
 - [Gastrointestinal Agents - Unspecified GI - Aemcolo](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNUtaRFlZSDlXS0NJNEpRWjUyWFIxVVZTQSQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+
 - [Gastrointestinal Agents - Unspecified GI - Zorbtive, Gattex](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUQUwxQTRKNThJQlVTUU8xSEtFRTlBWTdXUyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
+
 - [Gastrointestinal Agents - Unspecified GI - Step Therapy Agents](https://forms.office.com/Pages/ResponsePage.aspx?id=nPhjxpvvj0G9PUHkbAzgaN9UYz8EqmlIs3_TYn4TbXBUNThUMjlYSldRVkxMTTU3R1dWNFJYOU5CTyQlQCNjPTEkJUAjdD1n){ :target="_blank" rel="noopener" }
 
 ## Formulary
@@ -39,17 +43,17 @@ This is a subcategory of Gastrointestinal Agents.
 
 ### Non-Preferred
 
-| Non-Preferred                                                                           | Generic Name | Quantity | Time (Days) |
-|:----------------------------------------------------------------------------------------|:-------------|:--------:|:-----------:|
-| Aemcolo                                                                                 |              |          |             |
-| Gattex                                                                                  |              |          |             |
-| Ibsrela                                                                                 |              |          |             |
-| Linzess 72 MCG                                                                          |              |          |             |
-| Motegrity                                                                               |              |          |             |
-| Mytesi                                                                                  |              |          |             |
-| Relistor                                                                                |              |          |             |
-| Symproic                                                                                |              |          |             |
-| Zorbtive                                                                                |              |          |             |
+| Non-Preferred  | Generic Name | Quantity | Time (Days) |
+|:---------------|:-------------|:--------:|:-----------:|
+| Aemcolo        |              |          |             |
+| Gattex         |              |          |             |
+| Ibsrela        |              |          |             |
+| Linzess 72 MCG |              |          |             |
+| Motegrity      |              |          |             |
+| Mytesi         |              |          |             |
+| Relistor       |              |          |             |
+| Symproic       |              |          |             |
+| Zorbtive       |              |          |             |
 
 ## Authorizations
 
@@ -106,7 +110,10 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=64&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
-[Criteria](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20criteria%20effective%2001.01.2024.pdf#page=74){ :target="_blank" rel="noopener"} </br>
-[Preferred Drug List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20effective%2001.01.2024.pdf#page=24){ :target="_blank" rel="noopener"} </br>
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=64&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
+
+[Criteria](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20criteria%20effective%2001.01.2024.pdf#page=74){ :target="_blank" rel="noopener"} 
+
+[Preferred Drug List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20effective%2001.01.2024.pdf#page=24){ :target="_blank" rel="noopener"}
+
 [Quantity Limit List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/Quantity%20Limits.pdf){ :target="_blank" rel="noopener"}

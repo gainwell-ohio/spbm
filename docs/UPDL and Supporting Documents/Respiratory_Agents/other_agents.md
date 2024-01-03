@@ -16,14 +16,14 @@ This is a subcategory of Respiratory Agents.
 ### Preferred
 
 | Preferred | Generic Name | Quantity | Time (Days) |
-| :-------- | :----------- | :------: | :---------: |
+|:----------|:-------------|:--------:|:-----------:|
 |           |              |          |             |
 
 ### Non-Preferred
 
-| Non-Preferred              | Generic Name | Quantity | Time (Days) |
-| :------------------------- | :----------- | :------: | :---------: |
-| Roflumilast                |              |          |             |
+| Non-Preferred | Generic Name | Quantity | Time (Days) |
+|:--------------|:-------------|:--------:|:-----------:|
+| Roflumilast   |              |          |             |
 
 ## Authorizations
 

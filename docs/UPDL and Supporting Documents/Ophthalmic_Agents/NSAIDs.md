@@ -16,7 +16,7 @@ This is a subcategory of Ophthalmic Agents.
 ### Preferred
 
 | Preferred    | Generic Name | Quantity | Time (Days) |
-| :----------- | :----------- | :------: | :---------: |
+|:-------------|:-------------|:--------:|:-----------:|
 | Diclofenac   |              |          |             |
 | Flurbiprofen |              |          |             |
 | Ketorolac    |              |          |             |
@@ -24,7 +24,7 @@ This is a subcategory of Ophthalmic Agents.
 ### Non-Preferred
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
+|:--------------|:-------------|:--------:|:-----------:|
 | Acuvail       |              |          |             |
 | Bromfenac     |              |          |             |
 | Bromsite      |              |          |             |

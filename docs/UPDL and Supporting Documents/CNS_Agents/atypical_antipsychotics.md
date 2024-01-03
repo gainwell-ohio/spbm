@@ -29,66 +29,66 @@ This is a subcategory of Central Nervous System (CNS) Agents.
 
 ### Preferred
 
-| Preferred                       | Generic Name                                                         |         Quantity          |        Time (Days)        |
-|:--------------------------------|:---------------------------------------------------------------------|:-------------------------:|:-------------------------:|
-| Abilify Maintena <sup>QL</sup>  | Aripiprazole ER Susp IM Inj (all strengths & formulations)           |             3             |            84             |
-| Abilify Asimtufii               |                                                                      |                           |                           |
-| Aripiprazole <sup>QL</sup>      | Aripiprazole Tab (all strengths)                                     |            102            |            102            |
-| Aristada <sup>QL</sup>          | Aripiprazole Lauroxil ER Susp IM 441 MG / 1.6 ML (all formulations)  |            4.8            |            84             |
-| Aristada <sup>QL</sup>          | Aripiprazole Lauroxil ER Susp IM 662 MG / 2.4 ML (all formulations)  |            7.2            |            84             |
-| Aristada <sup>QL</sup>          | Aripiprazole Lauroxil ER Susp IM 882 MG / 3.2 ML (all formulations)  |            9.6            |            84             |
-| Aristada <sup>QL</sup>          | Aripiprazole Lauroxil ER Susp IM 1064 MG / 3.9 ML (all formulations) |            7.8            |            102            |
-| Aristada Initio                 |                                                                      |                           |                           |
-| Clozapine                       |                                                                      |                           |                           |
-| Fanapt <sup>ST</sup>            |                                                                      |                           |                           |
-| Geodon <sup>QL</sup>            | Ziprasidone HCI Cap (all strengths)                                  |            204            |            102            |
-| Invega Hafyera ER <sup>PA</sup> |                                                                      |                           |                           |
-| Invega Sustenna <sup>QL</sup>   | Paliperidone Palmitate ER Susp 39 MG / 0.25 ML (all formulations)    |           0.75            |            84             |
-| Invega Sustenna <sup>QL</sup>   | Paliperidone Palmitate ER Susp 78 MG / 0.5 ML (all formulations)     |            1.5            |            84             |
-| Invega Sustenna <sup>QL</sup>   | Paliperidone Palmitate ER Susp 117 MG / 0.75 ML (all formulations)   |             9             |            84             |
-| Invega Sustenna <sup>QL</sup>   | Paliperidone Palmitate ER Susp 156 MG / ML (all formulations)        |             6             |            84             |
-| Invega Sustenna <sup>QL</sup>   | Paliperidone Palmitate ER Susp 234 MG / 1.5 ML (all formulations)    |            4.5            |            84             |
-| Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 273 MG / 0.88 ML (all formulations)   |           0.88            |            84             |
-| Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 410 MG / 1.32 ML (all formulations)   |           1.32            |            84             |
-| Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 546 MG / 1.75 ML (all formulations)   |           1.75            |            84             |
-| Invega Trinza <sup>QL</sup>     | Paliperidone Palmitate ER Susp 819 MG / 2.63 ML (all formulations)   |           2.63            |            84             |
-| Lurasidone <sup>QL</sup>        |                                                                      |                           |                           |
-| Olanzapine <sup>QL</sup>        | Olanzapine Tab (all strengths)                                       |            102            |            102            |
-| Perseris                        |                                                                      |                           |                           |
-| Quetiapine IR <sup>QL</sup>     | Quetiapine Fumarate Tab 25 MG & 50 MG & 100 MG                       |            306            |            102            |
-| Quetiapine IR <sup>QL</sup>     | Quetiapine Fumarate Tab 200 MG                                       |            408            |            102            |
-| Quetiapine IR <sup>QL</sup>     | Quetiapine Fumarate Tab 300 MG & 400 MG                              |            204            |            102            |
-| Quetiapine ER <sup>QL</sup>     | Quetiapine Fumarate ER Tab (all strengths excl 150 MG & 200 MG)      |            204            |            102            |
-| Quetiapine ER <sup>QL</sup>     | Quetiapine Fumarate ER Tab 150 MG & 200 MG                           |            102            |            102            |
-| Risperdal Consta <sup>QL, BVG ==(Process by NDC)== Weekly BVG Updates</sup>  | Risperidone Microspheres ER IM Inj (all strengths)                   |             7             |            98             |
-| Risperidone <sup>QL</sup>       | Risperidone Soln (all strengths)                                     |            816            |            102            |
-| Risperidone <sup>QL</sup>       | Risperidone Tab (all strengths)                                      |            306            |            102            |
-| Risperidone <sup>QL</sup>       | Risperidone ODT (all strengths)                                      |            204            |            102            |
-| Saphris <sup>BvG ST ==(Process by NDC)==</sup>       |                                                                      |                           |                           |
-| Paliperidone Tab                |                                                                      |                           |                           |
-| Vraylar <sup>ST [**Vraylar for MDD Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/vraylar/?h=vray)</sup>                                                                                   |                                                            |          |             |
-| Ziprasidone <sup>QL</sup>       | Ziprasidone HCI Cap (all strengths)                                  |            68             |            34             |
+| Preferred                                                                                                                                                               | Generic Name                                                         | Quantity | Time (Days) |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|:--------:|:-----------:|
+| Abilify Maintena <sup>QL</sup>                                                                                                                                          | Aripiprazole ER Susp IM Inj (all strengths & formulations)           |    3     |     84      |
+| Abilify Asimtufii                                                                                                                                                       |                                                                      |          |             |
+| Aripiprazole <sup>QL</sup>                                                                                                                                              | Aripiprazole Tab (all strengths)                                     |   102    |     102     |
+| Aristada <sup>QL</sup>                                                                                                                                                  | Aripiprazole Lauroxil ER Susp IM 441 MG / 1.6 ML (all formulations)  |   4.8    |     84      |
+| Aristada <sup>QL</sup>                                                                                                                                                  | Aripiprazole Lauroxil ER Susp IM 662 MG / 2.4 ML (all formulations)  |   7.2    |     84      |
+| Aristada <sup>QL</sup>                                                                                                                                                  | Aripiprazole Lauroxil ER Susp IM 882 MG / 3.2 ML (all formulations)  |   9.6    |     84      |
+| Aristada <sup>QL</sup>                                                                                                                                                  | Aripiprazole Lauroxil ER Susp IM 1064 MG / 3.9 ML (all formulations) |   7.8    |     102     |
+| Aristada Initio                                                                                                                                                         |                                                                      |          |             |
+| Clozapine                                                                                                                                                               |                                                                      |          |             |
+| Fanapt <sup>ST</sup>                                                                                                                                                    |                                                                      |          |             |
+| Geodon <sup>QL</sup>                                                                                                                                                    | Ziprasidone HCI Cap (all strengths)                                  |   204    |     102     |
+| Invega Hafyera ER <sup>PA</sup>                                                                                                                                         |                                                                      |          |             |
+| Invega Sustenna <sup>QL</sup>                                                                                                                                           | Paliperidone Palmitate ER Susp 39 MG / 0.25 ML (all formulations)    |   0.75   |     84      |
+| Invega Sustenna <sup>QL</sup>                                                                                                                                           | Paliperidone Palmitate ER Susp 78 MG / 0.5 ML (all formulations)     |   1.5    |     84      |
+| Invega Sustenna <sup>QL</sup>                                                                                                                                           | Paliperidone Palmitate ER Susp 117 MG / 0.75 ML (all formulations)   |    9     |     84      |
+| Invega Sustenna <sup>QL</sup>                                                                                                                                           | Paliperidone Palmitate ER Susp 156 MG / ML (all formulations)        |    6     |     84      |
+| Invega Sustenna <sup>QL</sup>                                                                                                                                           | Paliperidone Palmitate ER Susp 234 MG / 1.5 ML (all formulations)    |   4.5    |     84      |
+| Invega Trinza <sup>QL</sup>                                                                                                                                             | Paliperidone Palmitate ER Susp 273 MG / 0.88 ML (all formulations)   |   0.88   |     84      |
+| Invega Trinza <sup>QL</sup>                                                                                                                                             | Paliperidone Palmitate ER Susp 410 MG / 1.32 ML (all formulations)   |   1.32   |     84      |
+| Invega Trinza <sup>QL</sup>                                                                                                                                             | Paliperidone Palmitate ER Susp 546 MG / 1.75 ML (all formulations)   |   1.75   |     84      |
+| Invega Trinza <sup>QL</sup>                                                                                                                                             | Paliperidone Palmitate ER Susp 819 MG / 2.63 ML (all formulations)   |   2.63   |     84      |
+| Lurasidone <sup>QL</sup>                                                                                                                                                |                                                                      |          |             |
+| Olanzapine <sup>QL</sup>                                                                                                                                                | Olanzapine Tab (all strengths)                                       |   102    |     102     |
+| Perseris                                                                                                                                                                |                                                                      |          |             |
+| Quetiapine IR <sup>QL</sup>                                                                                                                                             | Quetiapine Fumarate Tab 25 MG & 50 MG & 100 MG                       |   306    |     102     |
+| Quetiapine IR <sup>QL</sup>                                                                                                                                             | Quetiapine Fumarate Tab 200 MG                                       |   408    |     102     |
+| Quetiapine IR <sup>QL</sup>                                                                                                                                             | Quetiapine Fumarate Tab 300 MG & 400 MG                              |   204    |     102     |
+| Quetiapine ER <sup>QL</sup>                                                                                                                                             | Quetiapine Fumarate ER Tab (all strengths excl 150 MG & 200 MG)      |   204    |     102     |
+| Quetiapine ER <sup>QL</sup>                                                                                                                                             | Quetiapine Fumarate ER Tab 150 MG & 200 MG                           |   102    |     102     |
+| Risperdal Consta <sup>QL, BVG ==(Process by NDC)== Weekly BVG Updates</sup>                                                                                             | Risperidone Microspheres ER IM Inj (all strengths)                   |    7     |     98      |
+| Risperidone <sup>QL</sup>                                                                                                                                               | Risperidone Soln (all strengths)                                     |   816    |     102     |
+| Risperidone <sup>QL</sup>                                                                                                                                               | Risperidone Tab (all strengths)                                      |   306    |     102     |
+| Risperidone <sup>QL</sup>                                                                                                                                               | Risperidone ODT (all strengths)                                      |   204    |     102     |
+| Saphris <sup>BvG ST ==(Process by NDC)==</sup>                                                                                                                          |                                                                      |          |             |
+| Paliperidone Tab                                                                                                                                                        |                                                                      |          |             |
+| Vraylar <sup>ST [**Vraylar for MDD Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/vraylar/?h=vray)</sup> |                                                                      |          |             |
+| Ziprasidone <sup>QL</sup>                                                                                                                                               | Ziprasidone HCI Cap (all strengths)                                  |    68    |     34      |
 
 ### Non-Preferred
 
-| Non-Preferred                                                                              | Generic Name                                               | Quantity | Time (Days) |
-|:-------------------------------------------------------------------------------------------|:-----------------------------------------------------------|:--------:|:-----------:|
-| Abilify Mycite                                                                             | Aripiprazole ER Susp IM Inj (all strengths & formulations) |    3     |     84      |
-| Aripiprazole Sol                                                                           |                                                            |          |             |
-| <span title = "Brand Preferred: Saphris">Asenapine</span> <sup>Brand Preferred</sup>       |                                                            |          |             |
-| Caplyta                                                                                    |                                                            |          |             |
-| Clozapine ODT Rapdis                                                                       |                                                            |          |             |
-| Fluoxetine/Olanzapine                                                                      |                                                            |          |             |
-| Lybalvi                                                                                    |                                                            |          |             |
-| Nuplazid                                                                                   |                                                            |          |             |
-| Olanzapine ODT                                                                             |                                                            |          |             |
-| Rexulti                                                                                    |                                                            |          |             |
-| Secuado                                                                                    |                                                            |          |             |
-| Uzedy                                                                                      |                                                            |          |             |
-| Versacloz                                                                                  |                                                            |          |             |
-| Zyprexa Relprevv <sup>QL</sup>                                                             | Olanzapine Pamoate ER Susp IM 210 MG (all formulations)    |    7     |     98      |
-| Zyprexa Relprevv <sup>QL</sup>                                                             | Olanzapine Pamoate ER Susp IM 300 MG (all formulations)    |    6     |     84      |
-| Zyprexa Relprevv <sup>QL</sup>                                                             | Olanzapine Pamoate ER Susp IM 405 MG (all formulations)    |    3     |     84      |
+| Non-Preferred                                                                        | Generic Name                                               | Quantity | Time (Days) |
+|:-------------------------------------------------------------------------------------|:-----------------------------------------------------------|:--------:|:-----------:|
+| Abilify Mycite                                                                       | Aripiprazole ER Susp IM Inj (all strengths & formulations) |    3     |     84      |
+| Aripiprazole Sol                                                                     |                                                            |          |             |
+| <span title = "Brand Preferred: Saphris">Asenapine</span> <sup>Brand Preferred</sup> |                                                            |          |             |
+| Caplyta                                                                              |                                                            |          |             |
+| Clozapine ODT Rapdis                                                                 |                                                            |          |             |
+| Fluoxetine/Olanzapine                                                                |                                                            |          |             |
+| Lybalvi                                                                              |                                                            |          |             |
+| Nuplazid                                                                             |                                                            |          |             |
+| Olanzapine ODT                                                                       |                                                            |          |             |
+| Rexulti                                                                              |                                                            |          |             |
+| Secuado                                                                              |                                                            |          |             |
+| Uzedy                                                                                |                                                            |          |             |
+| Versacloz                                                                            |                                                            |          |             |
+| Zyprexa Relprevv <sup>QL</sup>                                                       | Olanzapine Pamoate ER Susp IM 210 MG (all formulations)    |    7     |     98      |
+| Zyprexa Relprevv <sup>QL</sup>                                                       | Olanzapine Pamoate ER Susp IM 300 MG (all formulations)    |    6     |     84      |
+| Zyprexa Relprevv <sup>QL</sup>                                                       | Olanzapine Pamoate ER Susp IM 405 MG (all formulations)    |    3     |     84      |
 
 ## Authorizations
 
@@ -175,7 +175,10 @@ Subsequent Authorization Criteria
 
 ## Links
 
-[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=29&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
-[Criteria](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20criteria%20effective%2001.01.2024.pdf#page=37){ :target="_blank" rel="noopener"} </br>
-[Preferred Drug List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20effective%2001.01.2024.pdf#page=16){ :target="_blank" rel="noopener"} </br>
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=29&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"}
+
+[Criteria](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20criteria%20effective%2001.01.2024.pdf#page=37){ :target="_blank" rel="noopener"} 
+
+[Preferred Drug List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20effective%2001.01.2024.pdf#page=16){ :target="_blank" rel="noopener"} 
+
 [Quantity Limit List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/Quantity%20Limits.pdf){ :target="_blank" rel="noopener"}

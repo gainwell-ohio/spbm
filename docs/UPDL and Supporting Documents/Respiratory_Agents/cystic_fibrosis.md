@@ -17,18 +17,18 @@ This is a subcategory of Respiratory Agents.
 
 ### Preferred
 
-| Preferred                 | Generic Name                                              |         Quantity          |        Time (Days)        |
-| :------------------------ | :-------------------------------------------------------- | :-----------------------: | :-----------------------: |
-| Kalydeco <sup>PA QL</sup> | Ivacaftor Packet 50 MG & 75 MG                            | Determined pursuant to PA | Determined pursuant to PA |
-| Kalydeco <sup>PA QL</sup> | Ivacaftor Tab 150 MG                                      | Determined pursuant to PA | Determined pursuant to PA |
-| Orkambi <sup>PA QL</sup>  | Lumacaftor / Ivacaftor (all strengths & formulations)     | Determined pursuant to PA | Determined pursuant to PA |
-| Symdeko <sup>PA QL</sup>  | Tezacaftor / Ivacaftor 100-150 MG & Ivacaftor 150 MG TBPK | Determined pursuant to PA | Determined pursuant to PA |
-| Trikafta Pak <sup>AR</sup>, Tab <sup>PA</sup>    |                                                           |                           |                       |
+| Preferred                                     | Generic Name                                              |         Quantity          |        Time (Days)        |
+|:----------------------------------------------|:----------------------------------------------------------|:-------------------------:|:-------------------------:|
+| Kalydeco <sup>PA QL</sup>                     | Ivacaftor Packet 50 MG & 75 MG                            | Determined pursuant to PA | Determined pursuant to PA |
+| Kalydeco <sup>PA QL</sup>                     | Ivacaftor Tab 150 MG                                      | Determined pursuant to PA | Determined pursuant to PA |
+| Orkambi <sup>PA QL</sup>                      | Lumacaftor / Ivacaftor (all strengths & formulations)     | Determined pursuant to PA | Determined pursuant to PA |
+| Symdeko <sup>PA QL</sup>                      | Tezacaftor / Ivacaftor 100-150 MG & Ivacaftor 150 MG TBPK | Determined pursuant to PA | Determined pursuant to PA |
+| Trikafta Pak <sup>AR</sup>, Tab <sup>PA</sup> |                                                           |                           |                           |
 
 ### Non-Preferred
 
 | Non-Preferred | Generic Name | Quantity | Time (Days) |
-| :------------ | :----------- | :------: | :---------: |
+|:--------------|:-------------|:--------:|:-----------:|
 | Bronchitol    |              |          |             |
 
 ## Authorizations

@@ -11,14 +11,14 @@ Bowel Preparations is a subcategory of Gastrointestinal Agents.
 
 ### Preferred
 
-| Preferred                                 | Generic Name | Quantity | Time (Days) |
-|:------------------------------------------|:-------------|:--------:|:-----------:|
-| Clenpiq                                   |              |          |             |
-| Gavilyte-C                                |              |          |             |
-| Gavilyte-G                                |              |          |             |
-| Golytely                                  |              |          |             |
-| PEG-3350 and Electrolytes 236-22.7G, 420G |              |          |             |
-| Suprep <sup> BVG (==Process by NDC==)</sup>                   |              |          |             |
+| Preferred                                   | Generic Name | Quantity | Time (Days) |
+|:--------------------------------------------|:-------------|:--------:|:-----------:|
+| Clenpiq                                     |              |          |             |
+| Gavilyte-C                                  |              |          |             |
+| Gavilyte-G                                  |              |          |             |
+| Golytely                                    |              |          |             |
+| PEG-3350 and Electrolytes 236-22.7G, 420G   |              |          |             |
+| Suprep <sup> BVG (==Process by NDC==)</sup> |              |          |             |
 
 ### Non-Preferred
 
@@ -54,7 +54,10 @@ Subsequent Authorization Criteria
 
 - Must provide documentation of patient's clinical response to treatment and ongoing safety monitoring
 
-[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=57&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
-[Criteria](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20criteria%20effective%2001.01.2024.pdf#page=67){ :target="_blank" rel="noopener"} </br>
-[Preferred Drug List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20effective%2001.01.2024.pdf#page=23){ :target="_blank" rel="noopener"} </br>
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=57&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"}
+
+[Criteria](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20criteria%20effective%2001.01.2024.pdf#page=67){ :target="_blank" rel="noopener"}
+
+[Preferred Drug List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/UPDL%20effective%2001.01.2024.pdf#page=23){ :target="_blank" rel="noopener"}
+
 [Quantity Limit List](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/Quantity%20Limits.pdf){ :target="_blank" rel="noopener"}

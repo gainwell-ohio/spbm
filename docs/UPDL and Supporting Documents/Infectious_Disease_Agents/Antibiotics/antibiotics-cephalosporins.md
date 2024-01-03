@@ -20,7 +20,7 @@ This is a subcategory of Infectious Disease Agents.
 ### Preferred
 
 | Preferred                    | Generic Name | Quantity | Time (Days) |
-| :--------------------------- | :----------- | :------: | :---------: |
+|:-----------------------------|:-------------|:--------:|:-----------:|
 | Cefadroxil                   |              |          |             |
 | Cephalexin 250, 500 MG       |              |          |             |
 | Cefaclor IR                  |              |          |             |
@@ -34,7 +34,7 @@ This is a subcategory of Infectious Disease Agents.
 ### Non-Preferred
 
 | Non-Preferred                     | Generic Name | Quantity | Time (Days) |
-| :-------------------------------- | :----------- | :------: | :---------: |
+|:----------------------------------|:-------------|:--------:|:-----------:|
 | Cephalexin 750 MG                 |              |          |             |
 | Cefpodoxime                       |              |          |             |
 | Cefixime Cap                      |              |          |             |
