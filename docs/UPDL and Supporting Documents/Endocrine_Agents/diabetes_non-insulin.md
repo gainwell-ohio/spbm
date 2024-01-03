@@ -70,6 +70,7 @@ This is a subcategory of Endocrine Agents.
 | Adlyxin                                                            |                                                  |          |             |
 | Alogliptin                                                         |                                                  |          |             |
 | Alogliptin / Metformin                                             |                                                  |          |             |
+| Alogliptin / Pioglitazone                                           |                                                  |          |             |
 | Bydureon Bcise                                                     |                                                  |          |             |
 | Glimepiride / Pioglitazone                                         |                                                  |          |             |
 | Glucophage                                                         |                                                  |          |             |
@@ -83,7 +84,6 @@ This is a subcategory of Endocrine Agents.
 | Mounjaro ==(Process by HICL)==                                     |                                                  |          |             |
 | Onglyza <sup>BVG (==Process by NDC== - Weekly Updates)</sup>       |                                                  |          |             |
 | Ozempic                                                            |                                                  |          |             |
-| Pioglitazone / Alogliptin                                          |                                                  |          |             |
 | Qtern                                                              |                                                  |          |             |
 | Rybelsus                                                           |                                                  |          |             |
 | Segluromet                                                         |                                                  |          |             |
