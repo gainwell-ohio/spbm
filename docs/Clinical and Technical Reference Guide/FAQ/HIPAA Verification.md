@@ -39,7 +39,7 @@ LOGGED IN THE CALL LOG DOCUMENTATION\**
 **For Member Inquiries with Managed Care Coverage \*pharmacy**
 
 - You must use the Operations Tile- SPBM Network Tab – add the provider NPI and search to ensure that the Provider is contracted with Gainwell Technologies.
-- Once you have verified the Provider NPI\# - you must obtain the patient’s name from the provider and then 1 additional piece of PII from the list above to complete HIPAA verification.
+- Once you have verified the Provider NPI\# - you must obtain the patient’s name from the provider and then 2 additional pieces of PII from the list above to complete HIPAA verification.
 
 ![](docs/images/HIPAA%20Verification%20w.%20Auth%20Rep%20and%20FFS/media/image3.png)
 
