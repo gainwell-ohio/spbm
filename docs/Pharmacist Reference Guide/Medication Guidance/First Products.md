@@ -1,7 +1,4 @@
 ---
-search:
-  boost: 1
----
 
 # First Products 11/11/22
 
@@ -33,5 +30,4 @@ This is the process for all FIRST products including: First-Omeprazole; First-La
 
 6. Click SUBMIT.
  
-Rachel will be adding this language to the Denial Language template (she will send an updated file to the group). 
 
