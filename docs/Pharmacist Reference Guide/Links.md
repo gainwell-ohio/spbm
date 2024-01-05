@@ -13,7 +13,7 @@ search:
 
 [Medical Necessity Policy](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/OH%20SPBM%20Medical%20Necessity%20Policy.pdf){:target="_blank" rel="noopener"}
 
-[Denial Language](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EcFjSzslWrFNiYRd6JZyVTIBkgwIHT2baCwhA0LjSPTZYw?e=KfH8jC){:target="_blank" rel="noopener"}
+[Denial Language](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/g/personal/rachel_carpenter_gainwelltechnologies_com/EYV8NHNAHRRFgOmWKBhbUbQBfNlTswhNbNnP5l9EO7t4Nw?email=christopher.nguyen%40gainwelltechnologies.com&e=8n0g2b&CID=449C8CFB-8BC0-40BF-92BD-AFC9A7C44400&wdLOR=c94BC8B08-4D9B-41CE-9D12-19D167390422){:target="_blank" rel="noopener"}
 
 
 [DL for Medical Necessity](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EUpVVFE-6XRNvktACqIOf2YBcwc47TN3pWk4CogCUrI4kQ?e=QRpmX2){:target="_blank" rel="noopener"}
