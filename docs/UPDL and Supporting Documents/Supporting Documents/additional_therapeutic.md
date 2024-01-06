@@ -115,7 +115,7 @@ Clinical Criteria:
 
 [Omnipod Quantity Guidance](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Medication%20Guidance/omnipod/?h=omnip)
 
-[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=106&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7B73347C85-1D40-4514-80E9-9628185B51B4%7D&file=Denial%20Language%20Updated%2001012024.docx&action=embedview&mobiledirect=true&wdStartOn=108){:target="_blank" rel="noopener"} </br>
 
 ## Diarylquinoline Antimycobacterial
 
@@ -351,7 +351,7 @@ Clinical Criteria:
 
 [Synagis Training](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Clinical%20and%20PA%20Notes/Synagis/Synagis%20Training/?h=syna)
 
-[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=80&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} </br>
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7B73347C85-1D40-4514-80E9-9628185B51B4%7D&file=Denial%20Language%20Updated%2001012024.docx&action=embedview&mobiledirect=true&wdStartOn=82){:target="_blank" rel="noopener"} </br>
 
 ## Nasal Synthetic Vasopressin Analogue
 
@@ -380,7 +380,7 @@ Clinical Criteria:
  - For MRSA infections, must have medically valid reason why vancomycin cannot be used
  - Authorizations will be for 28 days
 
-[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7BCD777F63-7F18-4713-8D6A-B043BEE631F5%7D&file=Denial%20Language%20Updated%2009112023.docx&action=embedview&mobileredirect=true&wdStartOn=88&cid=f4472ece-6d4f-4694-b0c5-c150a2f53fea){:target="_blank" rel="noopener"} 
+[Denial Language (Rph Use Only: Technicians CANNOT deny Prior Authorizations)](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/r/personal/rachel_carpenter_gainwelltechnologies_com/_layouts/15/Doc.aspx?sourcedoc=%7B73347C85-1D40-4514-80E9-9628185B51B4%7D&file=Denial%20Language%20Updated%2001012024.docx&action=embedview&mobiledirect=true&wdStartOn=90){:target="_blank" rel="noopener"} 
 
 **Sivextro® (tedizolid)**
 
