@@ -30,8 +30,6 @@ search:
 |-----------------------|---------------|------------------------|
 | LifeScan, Inc.        | 53885-0044-01 | OneTouch Verio Flex    |
 | LifeScan, Inc.        | 53885-0046-01 | OneTouch Ultra 2       |
-| LifeScan, Inc.        | 53885-0657-01 | OneTouch Verio         |
-| LifeScan, Inc.        | 53885-0927-01 | OneTouch Verio Reflect |
 | Trividia Health, Inc. | 56151-1470-02 | TrueMetrix             |
 | Trividia Health, Inc. | 56151-1470-02 | TrueMetrix Air         |
 | Trividia Health, Inc. | 56151-1491-02 | Relion TrueMetrix Air  |
