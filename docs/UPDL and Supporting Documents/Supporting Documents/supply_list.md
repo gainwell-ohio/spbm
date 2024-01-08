@@ -64,9 +64,7 @@ search:
 
 | Manufacturer         | NDC/HRI       | Product Description      |
 |----------------------|---------------|--------------------------|
-| Insulet Corporation  | 08508-1120-05 | Omnipod 5 Pack Pods      |
 | Insulet Corporation  | 08508-2000-05 | Omnipod Dash 5 Pack Pods |
-| Insulet Corporation  | 08508-2000-32 | Omnipod Dash Intro Kit   |
 | Insulet Corporation  | 08508-3000-01 | Omnipod 5 G6 Intro Kit   |
 | Insulet Corporation  | 08508-3000-21 | Omnipod 5 G6 5 Pack Pods |
 | MannKind Corporation | 08560-9400-01 | V-GO 40                  |
