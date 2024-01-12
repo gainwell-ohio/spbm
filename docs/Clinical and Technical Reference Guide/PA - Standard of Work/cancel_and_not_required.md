@@ -55,7 +55,7 @@
 [Reject Fax Template](https://mygainwell-my.sharepoint.com.mcas.ms/:w:/g/personal/jessica_cain_gainwelltechnologies_com/EbwJe79pnD5GqMnKP4RYX6kBChL7cN0m9Nlv7hZCz6MuuA?e=L8uI5U){:target="_blank" rel="noopener"}
 
 ## Reject Fax Templates
-### Reject Fax Templates when cancelling out of Pending
+### Reject Fax Templates when cancelling out of Pending and Fax View
 
 | | |
 | :--- | :--- |
