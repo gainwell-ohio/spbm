@@ -63,16 +63,8 @@
 | Member not Found | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the member cannot be found. |
 | Provider Not Found | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the provider cannot be found. |
 | Duplicate Request | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but there is already an approved Prior Authorization on file for {Drug name and Strength} until {Term Date}. |
-| Carved Out Medications | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but is ineligible for review through Gainwell Technologies as certain covered injectable drugs and biological products are carved out from Managed Care Entity (MCE) coverage. These drugs are reimbursed as part of the Fee-for-Service (FFS) medical benefit for all FFS and MCE enrollees. Please visit https://medicaid.ohio.gov/stakeholders-and-partners/phm/carved-out-drugs for directions on submitting requests as well as forms for submission. | 
+| Carved Out Medications | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but is ineligible for review through Gainwell Technologies as certain covered injectable drugs and biological products are carved out from Managed Care Entity (MCE) coverage. These drugs are reimbursed as part of the Fee-for-Service (FFS) medical benefit for all FFS and MCE enrollees. Please visit https://medicaid.ohio.gov/stakeholders-and-partners/phm/carved-out-drugs for directions on submitting requests as well as forms for submission. |
 | Missing Requested Medication | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed as the requested medication is missing from the PA form.|
 | Resubmit PA | The Prior Authorization request for {Member Name, DOB and Medicaid ID#} was received but cannot be processed due to a PA form not being attached. Please resubmit Prior Authorization. |
-
-
-### Reject Fax Templates when rejecting out of Fax View 
-| | |
-| :--- | :--- |
-| Member not Found | A Prior Authorization request was received but cannot be processed as the member cannot be found.  |
-| Provider Not Found | A The Prior Authorization request was received but cannot be processed as the provider cannot be found. |
-| Provider and Member Not Found | A Prior Authorization request was received but cannot be processed as the provider and member cannot be found.  |
-| No PA Form | A Prior Authorization request was received but cannot be processed due to a PA form not being attached. Please resubmit Prior Authorization with appropriate form. You can find our forms on our website: https://spbm.medicaid.ohio.gov/SPContent/DocumentLibrary/Forms. |
-| Appeal Received | We have received your appeal request and will review it in accordance with the timelines detailed on your Prior Authorization rejection. | 
+| Appeal Received | The appeal request for {Member Name, DOB and Medicaid ID#} and will review it in accordance with the timelines detailed on your Prior Authorization rejection. |
+| No PA Form | The Prior Authorization request was received for {Member Name, DOB and Medicaid ID#} but cannot be processed due to a PA form not being attached. Please resubmit Prior Authorization with appropriate form. You can find our forms on our website: https://spbm.medicaid.ohio.gov/SPContent/DocumentLibrary/Forms. |
