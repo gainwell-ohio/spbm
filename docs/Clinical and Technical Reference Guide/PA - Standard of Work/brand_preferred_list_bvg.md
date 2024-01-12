@@ -29,6 +29,8 @@
 | Colchicine Cap 0.6 MG                                | Mitigare                     | 12/30/2022   | 6/6/2079     |
 | Cyclosporine (Ophth) Emulsion                        | Restasis Emu                 | 2/18/2022    | 6/6/2079     |
 | Dabigatran Etexilate Mesylate                        | Pradaxa Cap                  | 7/8/2022     | 6/6/2079     |
+| **Dapagliflozin Propanediol Tab**                    | Farxiga Tab                  | **1/12/2024**| 6/6/2079     |
+| **Dapagliflozin-Metformin HCl Tab ER**               | Xigduo XR Tab                | **1/12/2024**| 6/6/2079     |
 | Darunavir                                            | Prezista                     | 6/9/2023     | 6/6/2079     |
 | Dexlansoprazole Cap Delayed Release                  | Dexilant Cap                 | 1/14/2022    | 6/6/2079     |
 | Diazoxide Susp                                       | Proglycem Sus                | 9/11/2020    | 6/6/2079     |
@@ -50,7 +52,9 @@
 | Gefitinib Tab                                        | Iressa                       | 5/12/2023    | 6/6/2079     |
 | Glatiramer Acetate Soln Prefilled Syringe            | Copaxone Prefilled Syring    | 1/5/2018     | 6/6/2079     |
 | Icosapent Ethyl Cap                                  | Vascepa                      | 9/23/2022    | 6/6/2079     |
-| Insulin Glargine Inj 100 Unit/ML                     | Semglee Sol 100u/ml          | 5/20/2022    | 6/6/2079     |
+| Insulin Glargine Inj 100 Unit/ML                     | Semglee Sol 100u/ml          | 1/12/2024    | 6/6/2079     |
+| **Insulin Glargine Soln Pen-Injector 300 Unit/ML(1 Unit Dial)**| Toujeo Solo Inj 300/mL| **1/12/2024**| 6/6/2079  |
+| **Insulin Glargine Soln Pen-Injector 300 Unit/ML (2 Unit Dial)**| Toujeo Max Inj 300/mL| **1/12/2024**| 6/6/2079 |
 | Insulin Glargine Soln Pen-Injector 100 Unit/ML       | Lantus Solos Inj 100/ml      | 5/20/2022    | 6/6/2079     |
 | Isosorbide Dinitrate-Hydralazine HCl Tab             | Bidil Tab                    | 4/22/2022    | 6/6/2079     |
 | Lanreotide Acetate Extended Release Inj              | Somatuline Inj               | 2/4/2022     | 6/6/2079     |
@@ -85,7 +89,7 @@
 | Sorafenib Tosylate Tab                               | Nexavar Tab                  | 6/17/2022    | 6/6/2079     |
 | Spinosad Susp                                        | Natroba Susp                 | 1/1/2013     | 6/6/2079     |
 | Spironolactone Susp                                  | Carospir Susp 25mg/5mL       | 11/10/2023   | 6/6/2079     |
-| **Sumatriptan Nasal Spray 10 MG/ACT**                | Tosymra Sol 10mg             | **12/15/2023**| 6/6/2079    |
+| Sumatriptan Nasal Spray 10 MG/ACT                    | Tosymra Sol 10mg             | 12/15/2023   | 6/6/2079    |
 | Sunitinib Malate Cap                                 | Sutent Cap                   | 8/27/2021    | 6/6/2079     |
 | Tafluprost Preservative Free (PF)                    | ZIOPTAN                      | 12/2/2022    | 6/6/2079     |
 | Tasimelteon Caps                                     | Hetlioz                      | 1/13/2022    | 6/6/2079     |
