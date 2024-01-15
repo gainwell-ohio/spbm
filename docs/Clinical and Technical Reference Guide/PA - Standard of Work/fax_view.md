@@ -2,7 +2,7 @@
 
 ## Fax View Reference Guide
 
-[Fax View Reference Guide (Updated 1/15/2023) ](https://mygainwell-my.sharepoint.com/:w:/g/personal/emily_reinhart_gainwelltechnologies_com/EdJORTykkOZEjkD9vv1I28EBNh9KdWDbT4Fythw3yLpcnQ?e=6aZkau){:target="_blank" rel="noopener"}
+[Fax View Reference Guide (Updated 1/15/2023) ](https://mygainwell-my.sharepoint.com/:w:/g/personal/emily_reinhart_gainwelltechnologies_com/EdJORTykkOZEjkD9vv1I28EBNh9KdWDbT4Fythw3yLpcnQ?e=I693T4){:target="_blank" rel="noopener"}
 
 ## Fax View Reminders
 - A PA should never be linked to a “Test” or “Generic” NPI / Member ID
