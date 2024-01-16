@@ -16,7 +16,9 @@
   - Legacy PAs can be used when determining if a PA is a Subsequent Authorization / Continuation of Therapy.
   - If a dose or frequency change goes over quantity limits, ensure you are basing your decision off of that criteria also 
 
-[Continuing Therapy Flowchart PDF](https://mygainwell-my.sharepoint.com/:u:/g/personal/emily_reinhart_gainwelltechnologies_com/ES2L9IQE7PhGtjUo7me_NRABPl9A5FU1Q0XGj1oD40Tgyg?e=VqKzHi){:target="_blank" rel="noopener"}
+## Continuing Therapy Flow Chart
+
+[Continuing Therapy Flowchart PDF](https://mygainwell-my.sharepoint.com/:u:/g/personal/emily_reinhart_gainwelltechnologies_com/EeCJ7fhYKlpJrsFqaIN5amcBp6VyW4ZsQwvhdSwrcL9ZFw?e=4qhVZA){:target="_blank" rel="noopener"}
 
 ### Duplicate PAs (same date, same drug, same dose & frequency)
 | Procedure | Definition | Process |
