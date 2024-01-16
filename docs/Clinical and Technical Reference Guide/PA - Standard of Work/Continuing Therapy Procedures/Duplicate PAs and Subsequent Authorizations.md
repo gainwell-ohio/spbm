@@ -3,14 +3,14 @@
 ## Duplicate PAs
 
 - A Duplicate PA is a PA that was recieved on the same date with the same requested drug, same dose & frequency as another PA
-  -**General Notes:**
+  - **General Notes:**
     - If the Loading Dose and Maintenance Dose are on separate PAs , each person should decision them separatly and document the auth of the other PA in your note
     - If a duplicate PA is not allocated to anyone, reach out to your leader so the PA can be allocated to you
     - If there are more than two duplciate PAs in the system, start the chat with everyone those PAs are allocated to
       
-## Subsequent Authorization
+## Subsequent Authorizations
 
-- A Subsequent Authorization (Renewal) is a PA that was receieved when a PA is already on file that has expired or will expire within 30 days  
+- A Subsequent Authorization (Renewal) is a PA that was receieved when a PA is already on file that has expired or will expire within 30 days
 - **General Notes:**
   - Techs can review Auto Med Review cases
   - Legacy PAs can be used when determining if a PA is a Subsequent Authorization / Continuation of Therapy.
