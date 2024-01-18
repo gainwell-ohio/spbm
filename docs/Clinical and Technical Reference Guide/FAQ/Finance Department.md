@@ -36,9 +36,9 @@ For RA’s – agents MUST include the BULK PAYMENT information, not claim speci
 - Reason RA can’t be retrieved from portal:
 - Reason for inquiry (be specific):
 - Contact ID:
+- Email address
+- Fax number
 
-
- 
 **For ERA/835 Requests:**
 
 - NPI:
@@ -51,8 +51,8 @@ For RA’s – agents MUST include the BULK PAYMENT information, not claim speci
 - Amount:
 - Reason for inquiry (be specific):
 - Contact ID:
-
-
+- Email address
+- Fax number
  
 **For General finance/payment inquiries:**
 
@@ -65,8 +65,8 @@ For RA’s – agents MUST include the BULK PAYMENT information, not claim speci
 - Payment Amount:
 - Reason for inquiry (be specific):
 - Contact ID:
-
-
+- Email address
+- Fax number
 
 ## Important Reminders:
 - **Do NOT give this email out**
