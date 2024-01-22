@@ -5,7 +5,7 @@
 - Techs can approve all dose / frequency changes **including** Auto Med Review drugs
   - Pay attention to any Quantity Limits exceeded by the change
 
-[Continuing Therapy Flowchart PDF](https://mygainwell-my.sharepoint.com/:b:/g/personal/emily_reinhart_gainwelltechnologies_com/EWiP5ZNS24NMvTvXpHh_r-MBvzlKu647A0WInMyz4NFFQg?e=rEBnlw){:target="_blank" rel="noopener"}
+[Continuing Therapy Flowchart PDF](https://mygainwell-my.sharepoint.com/:b:/g/personal/emily_reinhart_gainwelltechnologies_com/EWiP5ZNS24NMvTvXpHh_r-MBvzlKu647A0WInMyz4NFFQg?e=E04VAy){:target="_blank" rel="noopener"}
 
 
 
