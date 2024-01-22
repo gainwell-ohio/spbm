@@ -27,6 +27,7 @@
 | Prior Authorization Not Required | Select "Not Required" PA status with appropriate notes |
 | Missing DX code on documentation | OK to decision if DX code ANYWHERE on submitted documentation. If no DX code on any of the submitted PA documentation, send to Med Review using appropriate template and notes |
 | Not a Pharmacy Benefit | Use Admin denial Template and sent to Med Review |
+| No Fax Number on the PA form | <ul><li>Follow OutBound Call procedure to make a call to the prescriber's office to try to get the correct Fax Number. </li><ol><li>If able to get the correct Fax Number, use that Fax Number when reviewing your PA and document in PA notes <ul></ol><li>If unable to reach the prescriber's office </li><ol><li>use the fax number in Vue360RX/PAWS and document |
 
 
 ### PAs that could be cancelled if following the procedures below before cancelling:
