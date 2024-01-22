@@ -18,7 +18,7 @@
 
 ## Continuing Therapy Flow Chart
 
-[Continuing Therapy Flowchart PDF](https://mygainwell-my.sharepoint.com/:u:/g/personal/emily_reinhart_gainwelltechnologies_com/EeCJ7fhYKlpJrsFqaIN5amcBp6VyW4ZsQwvhdSwrcL9ZFw?e=4qhVZA){:target="_blank" rel="noopener"}
+[Continuing Therapy Flowchart PDF](https://mygainwell-my.sharepoint.com/:b:/g/personal/emily_reinhart_gainwelltechnologies_com/EWiP5ZNS24NMvTvXpHh_r-MBvzlKu647A0WInMyz4NFFQg?e=E04VAy){:target="_blank" rel="noopener"}
 
 ### Duplicate PAs (same date, same drug, same dose & frequency)
 | Procedure | Definition | Process |
