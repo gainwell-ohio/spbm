@@ -7,11 +7,6 @@ search:
 
 ## Claims Department
 
-**Phone/Fax**:
-
-- Transfer to "Check" que in MAX agent
-    - If this does not work please try to transfer to **833-491-0339. This is not a public number - do not give it out.**
-
 **Hours**: 
 
 - M-F 8am - 5pm (ET)
