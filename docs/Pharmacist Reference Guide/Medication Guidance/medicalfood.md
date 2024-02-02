@@ -8,7 +8,7 @@ If a FFS member is asking for a DME refer them to the consumer hotline for a lis
 
 -	A further way we can tell what should be billed, but not always the most accurate are the following locations in the NDC Tile (please note not definitive, but may help in decisioning)
 
-photo
+![](dme_medical_food1.png)
 
 DME/Medical food situations that may come across our paths. **We do cover spacers and nebulizer masks, not the nebulizer/tubing itself.**
 
@@ -30,5 +30,5 @@ This is the specific GCN that was mentioned to not approve for medical food
 
 I would strongly consider other formulations that do not have FDA indications or are medical food to **not be EPSDT eligible.**
 
-photo
+![](dme_medical_food2.png)
 
