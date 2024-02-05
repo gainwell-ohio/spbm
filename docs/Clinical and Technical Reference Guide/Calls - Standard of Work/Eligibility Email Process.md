@@ -20,7 +20,7 @@ search:
 
 Always **encrypt** your email 
 
-**To: OHSPBMCallBack@gainwelltechnologies.com**   
+**To: SPBMEligibility@gainwelltechnologies.com**   
 
 **Subject:** brief description of issue (Incorrect DOB, No active coverage, Gap in coverage, Etc.) 
 
