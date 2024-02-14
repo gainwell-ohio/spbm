@@ -40,7 +40,7 @@ LOGGED IN THE CALL LOG DOCUMENTATION\**
 - Provider/Pharmacy NPI
 - Name of Caller
 
-Use the Operations Tile- SPBM Network Tab- Add the Provider NPI and Search to ensure the Provider is contracted with Gainwell Technologies.
+Use the Operations Tile- Provider Tab- Add the Provider NPI and Search to ensure the Provider is contracted with Gainwell Technologies.
 
 If the Provider/Pharmacy is calling in regards to a member, you must obtain the patients name and 2 additional pieces of PII from the list above to complete the HIPAA verification.
 
