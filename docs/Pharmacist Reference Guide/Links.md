@@ -22,7 +22,7 @@ search:
 
 [Definition of Terms](https://mygainwell-my.sharepoint.com/:x:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Definition%20of%20Terms%209212022.xlsx?d=waae4289a6a67484b93664250c2c284f0&csf=1&web=1&e=8q6A3o){:target="_blank" rel="noopener"}
 
-[Clinical Reference Links](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Links.docx?d=wd3bd579a9b654a4da6c4ae55412c76ce&csf=1&web=1&e=ywdTAI){:target="_blank" rel="noopener"}
+[Clinical Reference Links](https://mygainwell-my.sharepoint.com/:w:/g/personal/prachi_patel_gainwelltechnologies_com/EXtyi_PfsnJBs4O61MDWD8UBRSLAWg45dFjqr85fXELh7w?e=1XVTax){:target="_blank" rel="noopener"}
 
 
 <a href="mailto:ohio_mits_servicedesk@gainwelltechnologies.com?cc=cassandra.roach@gainwelltechnologies.com;sherri.cohmer@gainwelltechnologies.com;justin.collingwood@gainwelltechnologies.com;brian.moore@gainwelltechnologies.com;amanda.jennings@gainwelltechnologies.com;david.hartzell@gainwelltechnologies.com;anil.marini@gainwelltechnologies.com;chad.m.rogers@gainwelltechnologies.com;melissa.rutledge@gainwelltechnologies.com;OHSupervisorsandSr.Techs@mygainwell.onmicrosoft.com;OHSPBMPAPharmacist@mygainwell.onmicrosoft.com&body=Application/System Affected:%0D%0A%0D%0AApproximate time the issue started/noticed:%0D%0A%0D%0ANumber of Users Affected:%0D%0A%0D%0AWhat steps were taken when the error occurred:%0D%0A%0D%0AProvide screenshots below: ">Submit a MITS ticket</a>
