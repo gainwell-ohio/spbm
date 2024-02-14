@@ -40,7 +40,7 @@ LOGGED IN THE CALL LOG DOCUMENTATION\**
 - Provider/Pharmacy NPI
 - Name of Caller
 
-Use the Provider Tab- Add the Provider NPI and Search to ensure the Provider is contracted with Gainwell Technologies.
+Use the Provider Tab- Add the Provider NPI and search to ensure the Pharmacy/Prescriber are in VUE360Rx
 
 If the Provider/Pharmacy is calling in regards to a member, you must obtain the patients name and 2 additional pieces of PII from the list above to complete the HIPAA verification.
 
