@@ -21,7 +21,7 @@ Check claims to see the situation that is causing the issues at the pharmacy lev
 
 ##  Medical Necessity Policy
 
-[Medical Necessity Policy](https://mygainwell-my.sharepoint.com/:b:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Medical%20Necessity_OH%20SPBM_Policy_V3.0.pdf?csf=1&web=1&e=11vWKM){:target="_blank" rel="noopener"}
+[Medical Necessity Policy](https://spbm.medicaid.ohio.gov/SPDocumentLibrary/DocumentLibrary/UPDL/OH%20SPBM%20Medical%20Necessity%20Policy.pdf){:target="_blank" rel="noopener"}
 
 #### Off-Label
 
