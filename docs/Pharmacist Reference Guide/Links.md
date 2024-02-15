@@ -110,5 +110,5 @@ Here is the link to the Gainwell policy that includes reimbursement for professi
 [Concur Expense site](http://www.concursolutions.com){:target="_blank" rel="noopener"}
 
 
-
+[Testlink](https://mygainwell-my.sharepoint.com/:w:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Documents/copy-%20test%20Denial%20Language%20Updated%2001012024.docx?d=wddcbfeb4cf894c96b9047c6f4e149cd0&csf=1&web=1&e=VP9I89&nav=eyJoIjoiOTAwOTY0MzE4In0)
 
