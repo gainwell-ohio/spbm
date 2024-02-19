@@ -5,8 +5,6 @@ search:
 
 # Appeals in MedReview Procedure
 
-[GRIEVANCE AND APPEALS CALL CENTER TRAINING 11 5 2022](https://mygainwell-my.sharepoint.com/:p:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/GRIEVANCE%20AND%20APPEALS%20CALL%20CENTER%20TRAINING%2011%205%202022.pptx?d=w0988480b597e41ebbbfebb2d845c4b4c&csf=1&web=1&e=6FHdfk)
-
 Hi.
 Here is the new process when we encounter an appeals in Medreview.  In these situations, we need to transfer the document to Process Manager.   The steps are listed below.
 
