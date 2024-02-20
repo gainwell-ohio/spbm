@@ -14,11 +14,11 @@ Resolution: <ul><li>If the P2P is completed, **Satisfied Request**</li><li>If a 
 
 ## Operations Tile training  9/27/23
 
-[Operations Tile training doc email](https://mygainwell-my.sharepoint.com/:u:/g/personal/christopher_nguyen_gainwelltechnologies_com/EaZVv3837IpJnwJLNyV9uCoB0__0kxs_0YJsPzR0IMF8ZQ?e=zrRtXX){ .md-button .md-button--primary target="_blank" rel="noopener"}
+[Operations Tile training doc email](https://mygainwell-my.sharepoint.com/:u:/g/personal/prachi_patel_gainwelltechnologies_com/EV8FcCX8vB1FoLiHRH6SukkB9NU8cmkc7cQ-mR-KBF7Asw?e=TQzIEs){ .md-button .md-button--primary target="_blank" rel="noopener"}
 
-[Operations Tile and ADD CALL Powerpoint](https://mygainwell-my.sharepoint.com/:p:/g/personal/christopher_nguyen_gainwelltechnologies_com/Ef2b2EZltLFJlkiHuTrlnVQBQtE2VHcEfM7lg5g-KggdGw?e=L4gRkK){:target="_blank" rel="noopener"}
+[Operations Tile and ADD CALL Powerpoint](https://mygainwell-my.sharepoint.com/:p:/g/personal/prachi_patel_gainwelltechnologies_com/Eb1dmNwgqXhMtjpIduYJ6doBoGRMzO1aVNNjH8kb96a98g?e=B1ja4n){:target="_blank" rel="noopener"}
 
-[Contact ID Documentation PDF](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/ETyxzMOhl15Hi_DTX1GdOhYBs85xXox8ZBvKGFCw5FVT0A?e=UClEue){:target="_blank" rel="noopener"}
+[Contact ID Documentation PDF](https://mygainwell-my.sharepoint.com/:b:/g/personal/prachi_patel_gainwelltechnologies_com/EesBISCKLPNDmbSu_Opa-CkBs8F2xMixcIolB0GGSbHbAQ?e=2KwHO4){:target="_blank" rel="noopener"}
 
 Good afternoon Justin,
 
