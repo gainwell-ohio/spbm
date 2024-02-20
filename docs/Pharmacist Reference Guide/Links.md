@@ -86,7 +86,7 @@ search:
 
 ## Clinical Team Requests
 
-[Clinical team requests](https://mygainwell-my.sharepoint.com/:x:/g/personal/christopher_nguyen_gainwelltechnologies_com/EY-suq2MSy1CvR6ZHtkY93wB_I4bi_uhNzcxSYY2N1sMAg?e=PRCaP8){:target="_blank" rel="noopener"}
+[Clinical team requests](https://mygainwell-my.sharepoint.com/:x:/g/personal/prachi_patel_gainwelltechnologies_com/EZnTaX5DAB1Iq_esVPi_COIBhsCwLtiQA-gckqjMmKL7PA?e=2qxTMe){:target="_blank" rel="noopener"}
 
 The clinical team should not be contacted by PA pharmacists or technicians, the correct correspondence is to contact your supervisor, they will compile information and provide to Cassandra. 
 
