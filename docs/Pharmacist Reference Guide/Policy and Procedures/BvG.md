@@ -11,7 +11,7 @@ search:
 
 ## Processing Guidance
 
-[Brand vs Generic Guidance](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/ESGPMVc2WRVBlOQuBjUQ_qkB-8UubTCJ9Uo6XOZmakN7TQ?e=rq5gMY){:target="_blank" rel="noopener"}
+[Brand vs Generic Guidance](https://mygainwell-my.sharepoint.com/:w:/r/personal/prachi_patel_gainwelltechnologies_com/Documents/Documents/Prachi%20Patel/EverGreen/Brand%20versus%20Generic%20guidance%20110092023%20jcrcsa%20final.docx?d=w7dae667a1ccc4289b7122ba3e7452f4f&csf=1&web=1&e=G93Lfr){:target="_blank" rel="noopener"}
 
 Chris N Summary:
 
