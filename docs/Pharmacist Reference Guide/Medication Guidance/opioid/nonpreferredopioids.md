@@ -2,7 +2,7 @@
 
 [Opioid Training Class](https://mygainwell-my.sharepoint.com.mcas.ms/personal/justin_collingwood_gainwelltechnologies_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjustin%5Fcollingwood%5Fgainwelltechnologies%5Fcom%2FDocuments%2FRecordings%2FOpioids%20Class%2D20230821%5F083358%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1){:target="_blank" rel="noopener"}
 
-[Opioid PA Class Documents](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EZVU4gG0ygBGuRnZypF9pkIBTiW4ZyQZypRHXb_KD9N6zw?e=155Dyk){:target="_blank" rel="noopener"}
+[Opioid PA Class Documents](https://mygainwell-my.sharepoint.com/:w:/g/personal/prachi_patel_gainwelltechnologies_com/EeGSgcdziqxMkE7SGPDTv2oB9NO9GaDmP0NNLTFumYuuWQ?e=W4Xx5Q){:target="_blank" rel="noopener"}
 
 
 ## Non-Preferred Opioid vs Cancer/Palliative care/Amputation
