@@ -18,7 +18,7 @@ search:
 
 [Pharmacist Meeting Minutes](https://mygainwell-my.sharepoint.com/:o:/g/personal/selina_lee_gainwelltechnologies_com/ElR0QZwZYJRMp4NbEgNdqG8B5pUGhpwXLi0Hl9ClWlg-vg){:target="_blank" rel="noopener"}
 
-[Definition of Terms](https://mygainwell-my.sharepoint.com/:x:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Definition%20of%20Terms%209212022.xlsx?d=waae4289a6a67484b93664250c2c284f0&csf=1&web=1&e=8q6A3o){:target="_blank" rel="noopener"}
+[Definition of Terms](https://mygainwell-my.sharepoint.com/:x:/g/personal/prachi_patel_gainwelltechnologies_com/EURK1754LMJIkoTlL8a51Z0BNcU8oVnnp8HmLtX2_P8etA?e=2l4K9M){:target="_blank" rel="noopener"}
 
 [Clinical Reference Links](https://mygainwell-my.sharepoint.com/:w:/g/personal/prachi_patel_gainwelltechnologies_com/EXtyi_PfsnJBs4O61MDWD8UBRSLAWg45dFjqr85fXELh7w?e=1XVTax){:target="_blank" rel="noopener"}
 
@@ -33,7 +33,7 @@ search:
 
 [Schedule- Flex, PTO, Switches](https://mygainwell-my.sharepoint.com/:x:/r/personal/jeanine_heedles_gainwelltechnologies_com/Documents/RPh%20Schedule_Evergreen_2023.xlsx?d=w8212132121774472aee59c6ad34af943&csf=1&web=1&e=ovWBGO){:target="_blank" rel="noopener"}
 
-- [Procedure to request Schedule Changes 5/19/23](https://mygainwell-my.sharepoint.com/:u:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/__IMPORTANT%20-%20PLEASE%20READ%20__%20ALL%20PTO%20REQUESTS.msg?csf=1&web=1&e=ib8Rvz){:target="_blank" rel="noopener"}
+- [Procedure to request Schedule Changes 5/19/23](https://mygainwell-my.sharepoint.com/:u:/g/personal/prachi_patel_gainwelltechnologies_com/EaLTluKkMgZNgvyIIZ7nns8BP_J1E6w6XqEv-V1HjJoIBw?e=pm0ZRY){:target="_blank" rel="noopener"}
 - Please notify Jeanine and your supervisor (either Justin or Brian Moore) when requesting scheduling updates: ***Quick Email link:*** <a href="mailto:justin.collingwood@gainwelltechnologies.com; jeanine.heedles@gainwelltechnologies.com?subject=Scheduling Update"> Justin; Jeanine</a> or <a href="mailto:brian.moore@gainwelltechnologies.com; jeanine.heedles@gainwelltechnologies.com?subject=Scheduling Update"> Brian M.; Jeanine</a> or <a href="mailto:sherri.cohmer@gainwelltechnologies.com; jeanine.heedles@gainwelltechnologies.com?subject=Scheduling Update"> Sherri; Jeanine</a>
 - [Rph PTO Policy](https://mygainwell.sharepoint.com.mcas.ms/sites/dept-hr/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fdept%2Dhr%2FShared%20Documents%2FTime%20Off%2FGainwell%20US%20%2D%20Flexible%20Vacation%20Policy%202023%2Epdf&parent=%2Fsites%2Fdept%2Dhr%2FShared%20Documents%2FTime%20Off){:target="_blank" rel="noopener"}
 - [Out of Office Calendar/Email Procedures](https://special-spoon-f542dccd.pages.github.io/Pharmacist%20Reference%20Guide/Policy%20and%20Procedures/ooo/?h=ooo){:target="_blank" rel="noopener"}
