@@ -10,9 +10,9 @@ search:
 
 [Peer to Peer Pharmacist Training 10/20/23](https://mygainwell-my.sharepoint.com.mcas.ms/personal/justin_collingwood_gainwelltechnologies_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjustin%5Fcollingwood%5Fgainwelltechnologies%5Fcom%2FDocuments%2FRecordings%2FP2P%20Training%2D20231020%5F140158%2DMeeting%20Recording%2Emp4&referrer=Teams%2ETEAMS%2DELECTRON&referrerScenario=RecapOpenInStreamButton%2Eview%2Eview&ga=1){:target="_blank" rel="noopener"}
 
-[Peer to Peer Pharmacist Guide 11/20/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EcXC916zvbxHirpD0dYKSuQBqh07YQUMrUQVufLyxNbObQ?e=pR95ZZ){:target="_blank" rel="noopener"}
+[Peer to Peer Pharmacist Guide 11/20/23](https://mygainwell-my.sharepoint.com/:w:/g/personal/prachi_patel_gainwelltechnologies_com/EZNf9cLlVs9Bub7R8rIVRPMB7TgXozA5QgQ_KZiXsOI4aQ?e=GOpNUb){:target="_blank" rel="noopener"}
 
-[Peer to Peer Powerpoint](https://mygainwell-my.sharepoint.com/:p:/g/personal/christopher_nguyen_gainwelltechnologies_com/ESZ4zrSAY11HhMSkiCNJ71ABmN7ouBU3dbNWfB_TvSLLSg?e=l5panH){:target="_blank" rel="noopener"}
+[Peer to Peer Powerpoint](https://mygainwell-my.sharepoint.com/:p:/g/personal/prachi_patel_gainwelltechnologies_com/EXb_zEkfG-RHg5wE-dPNPI4B8ER69HrZ1CZIH1sk2Le0Ww?e=Mx3e28){:target="_blank" rel="noopener"}
 
 [***Peer to Peer Documentation for Pharmacists.xlsx (P2P Tracker)](https://mygainwell-my.sharepoint.com.mcas.ms/:x:/g/personal/cassandra_roach_gainwelltechnologies_com/EcsRkk-q51FPu86Nmtm0PVsBonWTGUBUpbS7z-38froWtw?e=vyeYZ8&CID=29C56ECA-4022-4F7E-9CE2-EE4BEA7B2FC4){:target="_blank" rel="noopener"}
 
@@ -219,7 +219,7 @@ Fax: 1-833-616-4658 Monday – Friday 8 am – 5 pm (ET)
 
 ## Denial Letter and Appeals information
 
-[Denial Letter Template](https://mygainwell-my.sharepoint.com/:b:/g/personal/christopher_nguyen_gainwelltechnologies_com/EQJcnSBOextNrB1p59rxm4kBUt5-iDUybhyCDy-Q-fqDHg?e=h4CuNQ){:target="_blank" rel="noopener"}
+[Denial Letter Template](https://mygainwell-my.sharepoint.com/:b:/g/personal/prachi_patel_gainwelltechnologies_com/EfjfT7xANbhKt3HRa4x_HlIBqNn4ng5HUciaLdtKIzzTZg?e=tgPiBN){:target="_blank" rel="noopener"}
 
 If you disagree with the decision made by the Gainwell Prior Authorization team, the following 
 paragraphs highlight your options.
