@@ -1,9 +1,9 @@
 # Rph Uptraining 
-[Brand vs Generic Guidance](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/ESGPMVc2WRVBlOQuBjUQ_qkB-8UubTCJ9Uo6XOZmakN7TQ?e=rq5gMY){:target="_blank" rel="noopener"}
+[Brand vs Generic Guidance](https://mygainwell-my.sharepoint.com/:w:/g/personal/prachi_patel_gainwelltechnologies_com/EXpmrn3MHIlCtxIro-dFL08BouMWvOnehALSWZdmzCLfKg?e=w1TPnT){:target="_blank" rel="noopener"}
 
-[Denial Language for New Cancel Process 11092023](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EXaGNe5OMRtFvzfX-olWzB4B93i4BrFTnaGox0vaW4dMow?e=9HpzFE){:target="_blank" rel="noopener"}
+[Denial Language for New Cancel Process 11092023](https://mygainwell-my.sharepoint.com/:w:/g/personal/prachi_patel_gainwelltechnologies_com/EUSkpt8GIa1Njsoieh9xYxcB9xRxhsinTEjXDStEOfW7-w?e=1EHxnF){:target="_blank" rel="noopener"}
 
-[OCC Coverage Codes PowerPoint](https://mygainwell-my.sharepoint.com/:p:/g/personal/christopher_nguyen_gainwelltechnologies_com/EdaI6ab4kOxLqHKFMn-0_CUBjv_5TkcFrQq_5BW4hRlvDw?e=bEjCFX){:target="_blank" rel="noopener"}
+[OCC Coverage Codes PowerPoint](https://mygainwell-my.sharepoint.com/:p:/g/personal/prachi_patel_gainwelltechnologies_com/EZ3iPdr_m19MqCMDPTzbLk8BkzYmS8yvEoScVOIpiyh_xA?e=F96VnL){:target="_blank" rel="noopener"}
 
 ## Attestation Link for Uptraining 11/24/2023
 
