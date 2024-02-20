@@ -5,7 +5,7 @@ search:
 
 # Pharmacist Links
 
-[Productivity Tracker](https://mygainwell-my.sharepoint.com.mcas.ms/:x:/r/personal/christopher_nguyen_gainwelltechnologies_com/_layouts/15/guestaccess.aspx?e=KxvSYp&share=EckFdrT0BkRAhBGjD_rxzP0BeNvjg33BlhiZ8UUpkkUv4Q){:target="_blank" rel="noopener"}
+[Productivity Tracker](https://mygainwell-my.sharepoint.com/:x:/r/personal/prachi_patel_gainwelltechnologies_com/Documents/Documents/Prachi%20Patel/EverGreen/Productivity%20Tracker.xlsx?d=we73591c44fab40a298a3cc22e72bf0b5&csf=1&web=1&e=NIx96v){:target="_blank" rel="noopener"}
 
 [Peer to Peer Documentation for Pharmacists.xlsx (P2P Tracker](https://mygainwell-my.sharepoint.com.mcas.ms/:x:/g/personal/cassandra_roach_gainwelltechnologies_com/EcsRkk-q51FPu86Nmtm0PVsBonWTGUBUpbS7z-38froWtw?e=vyeYZ8&CID=29C56ECA-4022-4F7E-9CE2-EE4BEA7B2FC4){:target="_blank" rel="noopener"}
 
