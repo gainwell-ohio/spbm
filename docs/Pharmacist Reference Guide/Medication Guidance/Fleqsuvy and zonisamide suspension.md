@@ -5,7 +5,7 @@ search:
 
 # Fleqsuvy and zonisamide suspension
 
-[Fleqsuvy_Zonisade.NCH PA overrides.MCO.20230410---LIST](https://mygainwell-my.sharepoint.com/:x:/r/personal/christopher_nguyen_gainwelltechnologies_com/Documents/Evergreen/Emails/Fleqsuvy_Zonisade.NCH%20PA%20overrides.MCO.20230410.xlsx?d=wbeb509031f3c468bb1c7e587e42fbb22&csf=1&web=1&e=ay79cG) {:target="_blank" rel="noopener"}
+[Fleqsuvy_Zonisade.NCH PA overrides.MCO.20230410---LIST](https://mygainwell-my.sharepoint.com/:x:/g/personal/prachi_patel_gainwelltechnologies_com/EdGdMSHmlbBOjPRWFM_iMUEBAtFihmq8Dln77lyBAL9Bpw?e=Mc9Z5n) {:target="_blank" rel="noopener"}
 
 ***Effective immediately - - Fleqsuvy and zonisamide suspension  requests*** 
 
