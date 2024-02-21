@@ -47,7 +47,7 @@ search:
 
 - [Timesheet Blank](Timesheet - Blank.xlsx){:target="_blank" rel="noopener"}
 - Submit Time sheet corrections above to: <a href="mailto:Ohio_MMIS_Time_Admin@gainwelltechnologies.com">Ohio MMIS Time Admin </a>
-- [Guidelines for Requesting Time Admin Assistance](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/Ec_-4WA0QbJMvfMtfN4XIBoBYaTubITrZaiwsTH6pawgAA?e=iUWjGz){:target="_blank" rel="noopener"}
+- [Guidelines for Requesting Time Admin Assistance](https://mygainwell-my.sharepoint.com/:w:/g/personal/prachi_patel_gainwelltechnologies_com/EUjfyPPC2BdOjJGVuCOJDPcB6i24vQuNpOLHHPo5cuKQBw?e=yhMaGd){:target="_blank" rel="noopener"}
 
   
 
