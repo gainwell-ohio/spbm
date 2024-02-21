@@ -11,12 +11,12 @@ search:
 
 [Synagis Uptraining Video- 9/27/23](https://mygainwell-my.sharepoint.com.mcas.ms/personal/justin_collingwood_gainwelltechnologies_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjustin%5Fcollingwood%5Fgainwelltechnologies%5Fcom%2FDocuments%2FRecordings%2FSynagis%20Uptraining%2D20230927%5F113424%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&referrer=Teams%2ETEAMS%2DELECTRON&referrerScenario=p2p%5Fns%2Dbim&ga=1){:target="_blank" rel="noopener"}
 
-[Synagis Guidelines](https://mygainwell-my.sharepoint.com/:w:/g/personal/prachi_patel_gainwelltechnologies_com/ERXFjB8LWR5HioNmTx3XM7kBraD-lx5oXHy2Aaof86X9Ew?e=1QzfUJ){:target="_blank" rel="noopener"}
+[Synagis Guidelines](https://mygainwell-my.sharepoint.com/:w:/g/personal/prachi_patel_gainwelltechnologies_com/Eb0LnfC6RRVEp3xUsqrrw4YBNw92MUMbnhLN-LIkH78lmw?e=SYwuKS){:target="_blank" rel="noopener"}
 
 
 ## Entering Synagis PA 10/02/23
 
-[Synagis Processing Guidelines and Epinephrine](https://mygainwell-my.sharepoint.com/:w:/g/personal/christopher_nguyen_gainwelltechnologies_com/EdF1lsQ6LblEtatAwy5lh9ABRGFth4Mix2_5D4m_w78jyQ?e=Z63TiK){:target="_blank" rel="noopener"}
+[Synagis Processing Guidelines and Epinephrine](https://mygainwell-my.sharepoint.com/:w:/g/personal/prachi_patel_gainwelltechnologies_com/ERXFjB8LWR5HioNmTx3XM7kBraD-lx5oXHy2Aaof86X9Ew?e=1QzfUJ){:target="_blank" rel="noopener"}
 
 - **Epinephrine Products:** We do not approve for epinephrine pro-actively, should be reviewed for approval after use of the product.
 
