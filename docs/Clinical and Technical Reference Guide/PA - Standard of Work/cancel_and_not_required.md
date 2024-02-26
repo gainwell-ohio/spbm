@@ -9,7 +9,7 @@
 | | | 
 | :--- | :--- |
 | PA Scenario | Resolution |
-|**Duplicate PA when the original PA is in the "Approved" status** </li><li>PA submitted on the same date as a PA already approved for the same drug, dose & frequency  | </li><li>Note: If PA is in another status, see below for the "Duplicate PA when the original PA is in a status other than "Approved" status" procedure </li><li>Follow proper cancellation procedure, using the "Duplicate Request" Fax Template |
+|**Duplicate PA when the original PA is in the "Approved" status** </li><li>PA submitted on the same date as a PA already approved for the same drug, dose & frequency  | </li><li>Follow proper cancellation procedure, using the "Duplicate Request" Fax Template </li><li> Note: If PA is in another status, see below for the "Duplicate PA when the original PA is in a status other than "Approved" status" procedure </li><li> (https://special-spoon-f542dccd.pages.github.io/Clinical%20and%20Technical%20Reference%20Guide/PA%20-%20Standard%20of%20Work/Continuing%20Therapy%20Procedures/Duplicate%20PAs%20and%20Subsequent%20Authorizations/)  |
 |**No Active Medicaid Eligibility on file** <ul><li>Member has no active Medicaid eligibility in Vue360RX | Follow proper cancellation procedure, using the "Member not Eligible / Found" Fax Template |      
 |**Carve Out Medications** <ul><li>Certain injectable drugs and biological products are carved out from Managed Care Entity (MCE) coverage | Follow proper cancellation procedure, using the "Carved Out Medications" Fax Template |     
 
