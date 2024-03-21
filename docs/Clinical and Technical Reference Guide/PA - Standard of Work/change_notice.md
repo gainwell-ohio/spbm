@@ -7,6 +7,7 @@ search:
 
 | Date | New Process / Change | Why / Process Detail |
 |:---:|:---|:---|
+| 3/21/2024 | Approve all Entresto PAs for 1 year by HICL | ODM has removed PA on Entresto beginning 3/18/24. If we get a PA or call for Entresto: </li><li>Approve x 1 year by HICL with the note “PA removed from Entresto beginning 3/18/24 per ODM direction. Approve x 1 year.”  |
 | 1/15/2024 | Do not use the UPDL in Evergreen | The UPDL should be accesed through the OH SPBM website or the Medicaid website  |
 | 12/4/2023 | CiproDex and Flovent Generics| CiproDex (ciprofloxacin 0.3% and dexamethasone 0.1%) ​and ​Flovent (Fluticasone) ​generics are preferred starting 12/1/2023.  |
 | 11/28/2023 |Vraylar is moving to "preferred" status with step therapy requirements| The 1/1/24 UPDL updates will include this update. Until then, Vraylar should be treated as a "preferred" with step therapy requirements. </li><li>QA should not take off points for this since not actually on UPDL but Techs and RPh should be implementing this directon |
