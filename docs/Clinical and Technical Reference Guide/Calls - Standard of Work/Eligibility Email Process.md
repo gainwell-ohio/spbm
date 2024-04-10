@@ -5,48 +5,46 @@ search:
 
 # Eligibility Email Process
 
--	Agents will complete the Callback procedure and add eligibility template 
-- The Callback Team will be taking the lead on eligibility from now on. 
-- CC your leads (or assigned lead if your Supervisor has assigned you a lead) or GM for Alorica 
+Please ensure that all emails with eligibility concerns are going to this email: SPBMEligibility@gainwelltechnologies.com
 
-**Please ensure when you are sending ANY eligibility concerns to this email box you are:**
+**Eligibility Email Process**
 
-- Encrypting your email 
-- Copying and pasting the Member ID in the body of the email 
-- Putting a screenshot of the member’s profile (including coverage codes for 7772) in the body of the email 
-- Describing the eligibility concern 
+-	Copy and paste the members profile into the body of email.
+-	Send the callback template with the members profile with each email. 
+-	Do not send PHI (Protected Health Information) in the Subject line of these emails 
+- If the Pharmacy used OCC (Other Coverage Code) 3 to process claim and gets rejects 65-69 the Claim ID needs to be in the email notes 
 
-**Template to use when sending email to Eligibility:** 
+## Template to Use when Sending Email
 
-Always **encrypt** your email 
+Contact ID: </br>
+Caller Name: </br>
+Callback Number: </br>
+Date/Time Call Received: (what time did the agent receive the call) </br>
+Member ID: </br>
+Member Name/DOB: </br>
+Provider/Pharmacy/Member: </br>
+Call Back Required? (Yes/No): (this would be if the agent hasn't already called back then I can make the call on their behalf) </br>
+Called Back (Date/Time): (when was the callback made if the agent already called back) </br>
+Callback Details: </br>
+What do you need Eligibility to do( COB removal, DOB (date of birth) update) </br>
 
-**To: SPBMEligibility@gainwelltechnologies.com**   
+## When to Send an Email to Eligibility 
 
-**Subject:** brief description of issue (Incorrect DOB, No active coverage, Gap in coverage, Etc.) 
+-	COB: Only time TPL (THIRD PARTY LIABILITY) (cob pharmacy) can be removed from a member's profile is when the pharmacy bills for OCC 3 and the primary plan rejects with one of the following rejects 65-69.
+-	Member states they should have active coverage (in VUE360RX the coverage has termed)
+-	Shows a gap in coverage but the coverage should be active
+-	Wrong DOB in Vue360RX
+-	Wrong date of death in Vue360RX
+-	Edits 7011 or Medicare eligibility edits- 7220 and 7387
+-	For edit 7011, we should try to have the pharmacy bill the primary coverage first using OCC 2 and then OCC 3 if the primary insurance rejects the claim. If the pharmacy is unable or unwilling to bill using the COB process. Proceed to the COB removal steps below. 
 
-[Insert snip of member profile, please do not attach image]
+## Steps for COB Removal
 
-< Copy and Paste Member ID > 
+-	The agent should reach out to the primary insurance on the claim to confirm coverage. 
+-	If the coverage has been termed, an edit override is appropriate. 
+-	The agent should also document (in the EO notes and contact id note) who they spoke to at the primary insurance to confirm the coverage termination. Also please include that an eligibility email has been sent
+-	After providing the EO (so that the member can receive their medication), the agent should follow the above eligibility process so that we can remove the COB Pharmacy span
+-	If Walgreens/Walmart advises that they cannot bill using OCC 1 or OCC 3, please reach out to the primary insurance and confirm coverage. If the primary insurance confirms that the member is no longer active with the plan, an EO for 7011 is allowed.
 
-Provide description of issue and what needs to be corrected (Ex: coverage gap, member or MCE states should have active coverage, rate code issue, edit 7772 or 7011, etc.) 
-
-**When to send:** 
-
-- COB: Only time TPL (cob pharmacy) can be removed from a member's profile is when the pharmacy bills for OCC 3 and the primary plan rejects with one of the following rejects 65-69.  
-   - If no bin shows in the 7011 rejection: we will remove cob pharmacy 
-- Eligibility question:  
-  - Member states they should have active coverage (doesn’t show MCE but they should have one) 
-  - Shows FFS but is likely incorrect 
-  - Shows a gap in coverage but the coverage should be active 
-  - 7772 rejection (Override and send email using above eligiblity process)
-  - We have the wrong DOB in Vue360RX
-  - We have the wrong date of death in Vue360RX
-  - edits 7011 or Medicare eligibility edits- 7220 and 7387 
-    - For edit 7011, we should try to have the pharmacy bill the primary coverage first using OCC 2 and then OCC 3 if the primary insurance rejects the claim.  ^^If the pharmacy is unable or unwilling to bill using the COB process, please have the agent complete the following steps:^^ 
-      - The agent should reach out to the primary insurance on the claim to confirm coverage. 
-      - If the coverage has termed, an edit override is appropriate.   
-      - The agent should also document (in the EO notes and contact note) who they spoke to at the primary insurance to confirm the coverage termination. Also please include that an eligibility email has been sent   
-      - After providing the EO (so that the member can receive their medication), the agent should follow the above eligibility process so that we can remove the COB Pharmacy span.
-      - If Walgreens/Walmart advises that they cannot bill using OCC 1 or OCC 3, please reach out to the primary insurance and confirm coverage. If the primary insurance confirms that the member is no longer active with the plan, an EQ for 7011 is allowed.
 
 
