@@ -22,51 +22,19 @@ search:
   - all other emails to the Callback Team must use the Callback Template
   
 
-**For RA Requests:**
+**Standard Template**
 
-For RA’s – agents MUST include the BULK PAYMENT information, not claim specific payment information.
-
-- NPI:
-- Provider Name:
-- Caller Name:
+- Caller Name: (Provider/Pharamcy/Member (Title))
 - Callback Number:
-- Check/EFT Number:
-- Payment Date:
-- Payment Amount (MUST BE THE BULK PAYMENT AMOUNT not specific claim amounts):
-- Reason RA can’t be retrieved from portal:
-- Reason for inquiry (be specific):
-- Contact ID:
-- Email address
-- Fax number
+- Member ID:
+- Drug Name:
+- Reject Reason: (Code)
+- NPI & Name/Claim# (for reversals & CSP Overrides)
+- CNTT & PA# (P2P only)
+- Reason for call: (P2P = Denial Rationale, CSP why the new pharamcy)
+- Resolution:
+- Call Back Required? (Yes/No): (this would be if the agent hasn't already called back then I can make the call on their behalf, or for P2P scheduling)
 
-**For ERA/835 Requests:**
-
-- NPI:
-- Trading Partner ID:
-- Provider Name:
-- Caller Name:
-- Callback Number:
-- Check/EFT Number:
-- Payment Date:
-- Amount:
-- Reason for inquiry (be specific):
-- Contact ID:
-- Email address
-- Fax number
- 
-**For General finance/payment inquiries:**
-
-- NPI:
-- Provider Name:
-- Caller Name:
-- Callback Number:
-- Check/EFT Number:
-- Payment Date:
-- Payment Amount:
-- Reason for inquiry (be specific):
-- Contact ID:
-- Email address
-- Fax number
 
 ## Important Reminders:
 - **Do NOT give this email out**

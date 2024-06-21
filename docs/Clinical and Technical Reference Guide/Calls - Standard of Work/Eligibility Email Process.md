@@ -16,17 +16,16 @@ Please ensure that all emails with eligibility concerns are going to this email:
 
 ## Template to Use when Sending Email
 
-Contact ID: </br>
-Caller Name: </br>
+Caller Name: (Provider/Pharamcy/Member (Title)) </br>
 Callback Number: </br>
-Date/Time Call Received: (what time did the agent receive the call) </br>
 Member ID: </br>
-Member Name/DOB: </br>
-Provider/Pharmacy/Member: </br>
-Call Back Required? (Yes/No): (this would be if the agent hasn't already called back then I can make the call on their behalf) </br>
-Called Back (Date/Time): (when was the callback made if the agent already called back) </br>
-Callback Details: </br>
-What do you need Eligibility to do( COB removal, DOB (date of birth) update) </br>
+Drug Name: </br>
+Reject Reason: (Code) </br>
+NPI & Name/Claim# (for reversals & CSP Overrides) </br>
+CNTT & PA# (P2P only) </br>
+Reason for call: (P2P = Denial Rationale, CSP why the new pharamcy) </br>
+Resolution: </br>
+Call Back Required? (Yes/No): (this would be if the agent hasn't already called back then I can make the call on their behalf, or for P2P scheduling) </br>
 
 ## When to Send an Email to Eligibility 
 
