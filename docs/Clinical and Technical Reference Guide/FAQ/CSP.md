@@ -28,24 +28,16 @@ search:
     - An RPh should be in the RPh consult chat M-F 7am-11pm EST and then weekends 9am -6pm EST
 - If surpasses 3 EOs every 180 days for claims denied with edit **7121D: MBR IS LOCKED IN… OR** member wants to change lock in, technician will send an encrypted email to CSP@gainwelltechnologies.com and cc: OHSPBMCallBack@gainwelltechnologies.com 
   - The encrypted email MUST include all of the following information on the template below:
-    - Member Name:
+    - Caller Name (Provider/Pharamcy/Member(Title)):
+    - Callback Number:
     - Member ID:
-    - Member DOB:
-    - Member callback number:
-    - Name and Title of person requesting change:
-    - Was a one-time override placed for the patient?
-      - If yes, for which drugs?
-    - Why the caller is requesting a different lock in and why they cannot stay where they are
-      - Acceptable reasons, please do not give this information to the caller
-        - Pharmacy Closed, Pharmacy no longer willing / able to provide services, Patient Moved, long term stock out.
-        - Pharmacy called requesting a pharmacy be added because of Specialty / LTC / Home Care
-        - New Enrollment Pharmacy selection
-      - Requested Pharmacy Name:
-      - Requested Pharmacy NPI:
-      - Requested Pharmacy Phone number:
-      - **Current** Pharmacy Name, NPI and phone number:
-      - Request Start Date, no guarantee:
-      - New Enrollment Selection:
+    - Drug Name:
+    - Reject Reason: (Code):
+    - NPI & Name/Claim# (for reversals & CSP Overrides)
+    - CNTT & PA# (P2P only)
+    - Reason for call: (P2P = Denial Rationale, CSP why the new pharamcy)
+    - Resolution:
+    - Call Back Required? (Yes/No): (this would be if the agent hasn't already called back then I can make the call oon their behalf, or for P2P scheduling)
 -	Report to the caller that you will make a callback once you hear back from the CSP team
 -	Once you hear back from the CSP team, it is THE REQUESTING TECHNICIAN'S RESPONSIBILITY TO MAKE THAT CALLBACKunless the requesting technician is out of the office, and then the Callback team will make that callback
   - After you make the callback, please reply to the callback team (OHSPBMCallBack@gainwelltechnologies.com) so that the completed callback can be documented properly

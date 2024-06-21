@@ -17,14 +17,16 @@ search:
 
 | Peer to Peer |
 | -------------- |
-| Contact name and job title: |
-|	Contact phone #: |
-|	PA # : |
+| Caller Name: (Provider/Pharamcy/Member(Title)) |
+|	Callback Number: |
 |	Member ID: |
 |	Drug Name: |
-| CNTT: |
-| Denial Rationale: (if a P2P or an appeals was conducted- provide both the original denial and P2P/Appeals denial) |
-|	Callback Dates and Times: **Now** |
+|	Reject Reason: (Code) |
+| NPI & Name/Claim# (for reversals & CSP Overrides) |
+| CNTT & PA# (P2P Only) |
+|	Reason for call: (P2P = Denial Rationale, CSP why the new pharmacy) |
+|	Resolution: |
+| Call Back Required? (Yes/No): (this would be if the agent hasn't already called back then I can make the call on their behalf, or for P2P scheduling) |
 
 
 5. The Pharmacist will emoji the request in chat. This indicates that the Pharmacist has acknowledged the request and is pulling up the information for the PA (Proceed to #5)
@@ -39,14 +41,16 @@ In the event ==the caller indicates they would like a scheduled call back== with
 
 | Scheduling a Peer to Peer |
 | -------------- |
-| Contact name and job title: |
-|	Contact phone #: |
-|	PA # : |
+| Caller Name: (Provider/Pharamcy/Member(Title)) |
+|	Callback Number: |
 |	Member ID: |
 |	Drug Name: |
-| CNTT: |
-| Denial Rationale: (if a P2P or an appeals was conducted- provide both the original denial and P2P/Appeals denial) |
-|	Callback Dates and Times: |
+|	Reject Reason: (Code) |
+| NPI & Name/Claim# (for reversals & CSP Overrides) |
+| CNTT & PA# (P2P Only) |
+|	Reason for call: (P2P = Denial Rationale, CSP why the new pharmacy) |
+|	Resolution: |
+| Call Back Required? (Yes/No): (this would be if the agent hasn't already called back then I can make the call on their behalf, or for P2P scheduling) |
 
 5.	Advise the caller they will receive a call back during the requested time. (End of process)
 

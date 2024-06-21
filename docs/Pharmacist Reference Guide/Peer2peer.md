@@ -18,47 +18,16 @@ search:
 
 ## Templates
 
-### Scheduling a P2P for a Pharmacist callback
-
-| Scheduling a Peer to Peer |
-| -------------- |
-| Contact name and job title: |
-|	Contact phone #: |
-|	PA # : |
-|	Member ID: |
-|	Drug Name: |
-| CNTT: |
-| Denial Rationale: (if a P2P or an appeals was conducted- provide both the original denial and P2P/Appeals denial) |
-|	Callback Dates and Times: |
-
-
-### Overturning the Original denial
- 
-A new PA will need to be loaded and approved with a received date and time of the interaction with the caller. DETAILED internal notes for the PA must include:
-
-| PA: Overturned |
-| ---------|
-|	Caller Name, Title: |
-| Phone # and/or fax #: |
-|	Contact ID: (for the call provided in Peer to Peer template from technician) |
-| Original Denied PA #:  |
-| Additional information provided by caller: |
-| P2P Overturn Rationale: criteria reviewed; Policy/Rule (i.e. Medical Necessity, UPDL) |
-
-
-### Upholding the Original denial:
-
-An internal note will be placed on the originally denied PA. Internal notes for the PA must include: 
-
-| PA: Upheld |
-| ---------|
-|	Caller Name, Title: |
-| Phone # and/or fax #: |
-|	Contact ID: (for the call provided in Peer to Peer template from technician) |
-| Additional information provided by caller: |
-|	P2P Upheld Rationale: criteria reviewed; Policy/Rule (i.e. Medical Necessity, UPDL|
-
-
+- Caller Name: (Provider/Pharamcy/Member (Title))
+- Callback Number:
+- Member ID:
+- Drug Name:
+- Reject Reason: (Code)
+- NPI & Name/Claim# (for reversals & CSP Overrides)
+- CNTT & PA# (P2P only)
+- Reason for call: (P2P = Denial Rationale, CSP why the new pharamcy)
+- Resolution:
+- Call Back Required? (Yes/No): (this would be if the agent hasn't already called back then I can make the call on their behalf, or for P2P scheduling)
 
 ## Scheduling a Peer to Peer with the Medical Director
 
