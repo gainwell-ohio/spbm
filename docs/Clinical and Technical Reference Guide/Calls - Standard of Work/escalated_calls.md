@@ -11,3 +11,9 @@ If you have, then place a request in the chat for a Sr. Tech to handle the call.
 ONLY if the Sr Tech is unable to de-escalate the call should a supervisor be asked to take the call at that point. At that time,  if a supervisor (either Technical or Clinical) is not available should we tell the caller they will receive a call back within 24 hours. A supervisor then should make that call back as soon as possible. 
 
 All threats against Gainwell, ODM, providers, pharmacies, of any type should be immediately reported to your supervisor and manager immediately either by Teams or Email.
+
+Escalated member PA Request
+
+If you have a member on the line that is upset because they need a PA, and they proclaim they have called several times I am adding a new process. In the best interest of the member, I want you tell the member you will make a call to the provider to try and get the PA process started. If you are not able to get the verbal PA, then you must send an email to the callback team to have them follow up with the provider and member. Once the callback team has made contact then they will call the member back. I do not want you to do this each and every time a member calls for a PA though.
+
+Please make sure you add the providers phone number.
