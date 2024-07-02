@@ -16,11 +16,5 @@ search:
 
 ## Important Reminders:
 - **Do NOT give this email out**
-- Make sure to be specific in your Contactnote in Vue360RX AND in the "reason for inquiry" field on the template
-- You should **NOT** advise the caller to contact the claims department
-- The callback team will reject any requests that are not in the above format
-- Techs should not give a turn around time for these issues
-- Always encrypt any emails with PHI
-- The Callback Team is responsible for submitting the issue to the appropriate Team
-
-
+- Make sure to be specific in your Contact Note in Vue360RX AND in the "reason for inquiry" field on the template
+- Techs should not give a turn around time for these issues. 
