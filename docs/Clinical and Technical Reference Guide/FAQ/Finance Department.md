@@ -5,35 +5,13 @@ search:
 
 # Finance Department
 
- Calls that come to the help desk for the following reasons need to be sent to the Callback team **(OHSPBMCallBack@gainwelltechnologies.com) using the appropriate template, below** 
-  
+ Calls that come to the help desk for the following reasons need to be transferred to Fl at 833-973-0006. Do not email, transfer only.
  
 1. Claims Checks 
 2. 835’s 
 3. Remittance Advice (RA’s) 
 4. Claims Payments 
 5. OH SPBM Portal Registration 
-
-
-## Email Templates to use 
-
-- When sending these issues to the Callback team, you **MUST** use the following templates, according to the issue being reported
-- No need to include the Callback Template for **THESE ISSUES only**
-  - all other emails to the Callback Team must use the Callback Template
-  
-
-**Standard Template**
-
-- Caller Name: (Provider/Pharamcy/Member (Title))
-- Callback Number:
-- Member ID:
-- Drug Name:
-- Reject Reason: (Code)
-- NPI & Name/Claim# (for reversals & CSP Overrides)
-- CNTT & PA# (P2P only)
-- Reason for call: (P2P = Denial Rationale, CSP why the new pharamcy)
-- Resolution:
-- Call Back Required? (Yes/No): (this would be if the agent hasn't already called back then I can make the call on their behalf, or for P2P scheduling)
 
 
 ## Important Reminders:
