@@ -15,6 +15,5 @@ search:
 
 
 ## Important Reminders:
-- **Do NOT give this email out**
 - Make sure to be specific in your Contact Note in Vue360RX AND in the "reason for inquiry" field on the template
 - Techs should not give a turn around time for these issues. 
