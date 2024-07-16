@@ -17,27 +17,52 @@ search:
     - A temporary change can be made to the primary provider at the request of the plan, however permanent primary designated pharmacies and prescribers must be submitted by the plan through the MITS application as any temporary change will be overridden by a daily file.
     - Managed Care plans must make these changes and there is no override available that we can put in.
 
-## FFS - CSP Lock-in Members ONLY 
+## FFS - CSP Members ONLY
 
--	Max 3 emergency EOs every 180 days for claims denied with edit 7121D: MBR IS LOCKED IN…
-  - Can see how many EOs via EO history on profile in Vue360RX
-- For non-controlled medications, Technician must post in their designated chat for permission from Sr. tech or chat SME to post EO.
-- For controlled medications, Technician must post in their designated chat and then the Sr. tech or chat SME will post in RPh chat for permission to place EO
-- **EVERY COMPLETED EO for CSP (members that have an active pharmacy lock-in) MUST BE EMAILED TO CSP@gainwelltechnologies.com and cc: OHSPBMCallBack@gainwelltechnologies.com by the technician with the subject line: FFS CSP EO tracking.**
-  - If it is after hours and there is no RPh present in RPh consult chat, Sr. tech or chat SME will call the on call RPh to review EO request
-    - An RPh should be in the RPh consult chat M-F 7am-11pm EST and then weekends 9am -6pm EST
-- If surpasses 3 EOs every 180 days for claims denied with edit **7121D: MBR IS LOCKED IN… OR** member wants to change lock in, technician will send an encrypted email to CSP@gainwelltechnologies.com and cc: OHSPBMCallBack@gainwelltechnologies.com 
-  - The encrypted email MUST include all of the following information on the template below:
-    - Caller Name (Provider/Pharamcy/Member(Title)):
-    - Callback Number:
-    - Member ID:
-    - Drug Name:
-    - Reject Reason: (Code):
-    - NPI & Name/Claim# (for reversals & CSP Overrides)
-    - CNTT & PA# (P2P only)
-    - Reason for call: (P2P = Denial Rationale, CSP why the new pharamcy)
-    - Resolution:
-    - Call Back Required? (Yes/No): (this would be if the agent hasn't already called back then I can make the call oon their behalf, or for P2P scheduling)
--	Report to the caller that you will make a callback once you hear back from the CSP team
--	Once you hear back from the CSP team, it is THE REQUESTING TECHNICIAN'S RESPONSIBILITY TO MAKE THAT CALLBACKunless the requesting technician is out of the office, and then the Callback team will make that callback
-  - After you make the callback, please reply to the callback team (OHSPBMCallBack@gainwelltechnologies.com) so that the completed callback can be documented properly
+**Definitions:**
+
+- Emergent: Essential to the maintenance of life or to the continuation of therapy.
+
+-	Non-emergent: Non acute or chronic medical condition, wellness maintenance and/or prescription refills that require medical intervention, when the member’s condition is stable.
+
+-	CSP Team: Clinical pharmacist and pharmacy technician team members that oversee the CSP Program
+
+**Edit**
+
+- **7121**: RECIPIENT IS LOCKED-IN
+  - Only controlled medications will have a designated pharmacy lock-in.  
+
+**Edit Overrides:**
+
+Maximum of 3 edit overrides every 180 days for claims denied with edit 7121D: RECIPIENT LOCKED-IN.  The edit override will be provided for the days supply indicated on the claim. 
+
+The call center is allowed to edit override for the following reasons: 
+
+-	The member has utilized 90% of more of the latest fill and;
+-	The member is traveling or the member is homeless
+-	The designated pharmacy is closed
+- The designated pharmacy does not have the required medications. 
+
+If the member has indicated that the medication has been lost, stolen or damaged, an edit override can be provided for the refill too soon rejection.  
+
+- **After the call center has provided the edit override for CSP FFS EDIT 7121, an email MUST be sent via ENCRYPTED email to CSP@gainwelltechnologies.com. The CSP team is tracking how many edits a member in the FFS CSP has received in addition to the call center technicians checking in VUE360RX.   and cc: OHSPBMCallBack@gainwelltechnologies.com.**
+  - **The subject line of the email must read: FFS CSP EO tracking**
+  - **The technician must include the completed template used to document the call in the body of the email.**
+
+- If the caller is requesting a different designated pharmacy or has requested more than 3 edit overrides within the 180-day timeframe, please obtain why they cannot stay with current designated pharmacy:
+  - **Acceptable reasons, please do not give this information to the caller.**
+    - Pharmacy Closed, Pharmacy no longer willing / able to provide services, Patient Moved, Long term stock out.
+    - Pharmacy called requesting a pharmacy be added because of Specialty / LTC / Home Care.
+- Report to the caller that you will make a callback once you hear back from the Gainwell CSP team.
+  - **An email MUST immediately be sent ENCRYPTED to the CSP team @ CSP@gainwelltechnologies.com and copy the Call Back team via OHSPBMCallback@gainwelltechnologies.com.**
+  - **The subject line of the email must read: FFS CSP Max EO Request**
+  - **The technician must include the call documentation template in the body of the email.**
+  - The CSP team will reply all and the CallBack team will make the notifications. 
+  - Once the callback is made to both the member and the pharmacy, the call template must be used to document the call.
+
+
+Edit override requests past the 3 overrides within 180 days and request for designated pharmacy changes, the email and response coordination are outlined below:  
+
+  - Emergent: An email will be sent from the call center immediately at the end of call for review and/or approval by the CSP Team.  The CSP Team will review and respond to the call center within two hours of receipt. The Call Center is expected to reach out to the pharmacy and/or member within one hour of receiving the response from the CSP team. 
+  - Non-emergent: An email will be sent from the call center immediately at the end of the call for review and/or approval.  The CSP Team will review and respond to the call center technician within 24 hours of receipt.  The Call Center agent or call back team is expected to reach out to the pharmacy and/or member within four hours of receiving the response from the CSP team.
+  - After hours: If there is an urgent request for an override past the 3 allowed within 180 days, the call center technician will engage a Gainwell pharmacist to review and/or approve the edit override.  If an edit override is provided, the call center technician will send an email to the CSP team for review for guidance and any additional steps.  
