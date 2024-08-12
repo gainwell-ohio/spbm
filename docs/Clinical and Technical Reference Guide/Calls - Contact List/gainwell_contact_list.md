@@ -117,10 +117,6 @@ Dublin, OH 43016-0472
 
 ## Portal Support
 
-**Email**:
+-	If you receive a phone call or an email about troubles with the portal please send an email to the following address with Portal Support in the subject line. 
+-	Ohio_Gainwell_ServiceDesk_Group ohio_mits_servicedesk@gainwelltechnologies.com
 
-- HPO-SPBM-SUPPORT@gainwelltechnologies.com
-
-**Information**:
-
-- Providers can email portal support for any issue they have registering for the portal, 835 assistance, etc.
