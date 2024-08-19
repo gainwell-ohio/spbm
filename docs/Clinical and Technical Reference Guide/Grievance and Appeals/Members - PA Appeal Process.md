@@ -5,7 +5,7 @@ search:
 
 # Members: PA Appeal Process
 
-1. Prescriber submits PA 
+1. Prescriber will initiate the above appeals process or Member can fill out the "standardized appeal form on the website". The member can also complete this verbally, you will simply fill out the form and submit via Process Manager as you would with a provider.
 2. PA denied 
 3. Prescriber will initiate the above appeals process or Member can fill out the "standardized appeal form on the website".   
 4. Members must exhaust Gainwell Technologies’ appeals process prior to filing a state hearing request as described in OAC rule 5160-26-08.4 or 5160-58-08.4. 
