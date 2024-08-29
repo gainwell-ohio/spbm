@@ -46,40 +46,22 @@ If the Provider/Pharmacy is calling in regards to a member, you must obtain the 
 
 ## Authorized Representatives
 
-**We can only speak with the member after verifying HIPAA, as shown above. We cannot speak with anyone else unless they are an authorized representative INCLUDING spouses or parents of children 18 years and older**
+**We can only speak with the member after verifying HIPAA, as shown above. We cannot speak with anyone else unless they are an authorized representative INCLUDING spouses or parents of children 18 years and older. If a parent of a non-verbal adult is calling and they can verify HIPAA and the specific medication they have questions about then you may speak to them about the specific medications.** 
 
-- We cannot accept someone reporting that they are an Authorized Representative (AR), we must check in MITS as a form has to be filled out and sent to Medicaid.
-    - Two exceptions
-        1.  A parent or guardian is calling about someone under the age
-            of 18
-        2.  The member is on the phone and verifies HIPAA. The member
-            can then give verbal permission to speak with someone else
-            who is present.
-            - The member must complete this procedure every time the
-                member would like us to talk to someone else, unless the
-                AR form is completed and sent to the member’s local
-                County Department of Jobs and Family Services
-            - This must be thoroughly documented in your call note
-- To check if someone is an AR, please follow the callback procedure
-    by sending an email to the callback team with the completed callback
-    template
+-	We cannot accept someone reporting that they are an Authorized Representative (AR), we must check in MITS as a form has to be filled out and sent to Medicaid.
+    -	Two exceptions
+    1. A parent or guardian is calling about someone under the age of 18
+    2. The member is on the phone and verifies HIPAA. The member can then give verbal permission to speak with someone else who is present.
+        - The member must complete this procedure every time the member would like us to talk to someone else, unless the AR form is completed and sent to the member’s local County Department of Jobs and Family Services
+        - This must be thoroughly documented in your call note
+- To check if someone is an AR, please follow the callback procedure by sending an email to the callback team with the completed callback template
     - The callback team will look in MITS to see if there is an AR
-        - If there is an AR, the callback team will make the callback
-            and resolve the issue
-        - If there is not an AR, the callback team will make the
-            callback and report that they are unable to speak with
-            anyone but the caller until the AR documentation is done.
-- Please set the expectation for the caller that we must sent this
-    information to our team who can review the Medicaid System and check
-    if there is an AR on file
-- If someone would like to become an authorized rep, they must fill
-    out the following form and submit it to their local County
-    Department of Jobs and Family Services 
-    - **Authorized Representative Form**
-        - [ODM Authorized Representative Form](https://medicaid.ohio.gov/static/Resources/Publications/Forms/ODM06723fillx.pdf)
-        - Caller can also google "ODM Authorized Representative Form"
-            and it will come up
-      - **Information on how to contact the caller’s Local County
-        Department of Jobs and Family Services**
-          - [Ohio County Department of Job and Family Services Contact
-            Information](https://jfs.ohio.gov/county/county_directory.pdf)
+      - If there is an AR, the callback team will make the callback and resolve the issue
+      - If there is not an AR, the callback team will make the callback and report that they are unable to speak with anyone but the caller until the AR documentation is done.
+- Please set the expectation for the caller that we must sent this information to our team who can review the Medicaid System and check if there is an AR on file
+- If someone would like to become an authorized rep, they must fill out the following form and submit it to their local County Department of Jobs and Family Services 
+  - **Authorized Representative Form**
+    - [ODM Authorized Representative Form](https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Resources/Publications/Forms/ODM06723fillx.pdf){ :target="_blank" rel="noopener"}
+    - Caller can also google "ODM Authorized Representative Form" and it will come up
+  - **Information on how to contact the caller’s Local County Department of Jobs and Family Services**
+    - [Ohio County Department of Job and Family Services Contact Information](https://jfs.ohio.gov/county/county_directory.pdf){ :target="_blank" rel="noopener"}
