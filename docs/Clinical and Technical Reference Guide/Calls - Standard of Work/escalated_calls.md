@@ -12,6 +12,8 @@ ONLY if the Sr Tech is unable to de-escalate the call should a supervisor be ask
 
 All threats against Gainwell, ODM, providers, pharmacies, of any type should be immediately reported to your supervisor and manager immediately either by Teams or Email.
 
+If you have a caller on the line that is threatening harm to themselves or to others, then you need to notify a supervisor immediately. The supervisor should take over the call unless that upsets the member further. Once the supervisor has the call, or the member stays with the agent, then another supervisor will call the non-emergency police line where the member lives. The Call Center Manager should be notified immediately as well. When speaking to the police you may NOT disclose PHI, you can give them the members geographical information and details of the call but not speak to any medications the member may be taking.
+
 Escalated member PA Request
 
 If you have a member on the line that is upset because they need a PA, and they proclaim they have called several times I am adding a new process. In the best interest of the member, I want you tell the member you will make a call to the provider to try and get the PA process started. If you are not able to get the verbal PA, then you must send an email to the callback team to have them follow up with the provider and member. Once the callback team has made contact then they will call the member back. I do not want you to do this each and every time a member calls for a PA though.
