@@ -32,7 +32,7 @@ Column 4 is ^^**date of last claim**^^. This section is referring to the date th
 
 **Example: If the last ^^paid^^ claim prior to the new claim was filled on 8/15/2024, this is the date that would be entered into this section.**
 
-**Step 5**: ==*Date New DDU started=
+**Step 5**: ==*Date New DDU started==
 
 Column 5 is ^^**date the new DDU started**^^. This is the day the member **started taking** the new dose prescribed by the provider. This is not always the date the new script was sent in, and it is important to clarify this date with the pharmacy to ensure we are calculating correctly.
 
@@ -40,7 +40,7 @@ Column 5 is ^^**date the new DDU started**^^. This is the day the member **start
 
 **Step 6: ==*New DDU==
 
-Column 6 is ^^**new DDU^^**. This is the **new** daily dose that is being billed for the dosage increase. 
+Column 6 is ^^**new DDU**^^. This is the **new** daily dose that is being billed for the dosage increase. 
 
 **Example: The new script is being billed for 90 tablets for 30 days. The new DDU would be entered as ^^3^^. (DDU=quantity dispensed/day supply)**
 
@@ -49,6 +49,7 @@ Column 6 is ^^**new DDU^^**. This is the **new** daily dose that is being billed
 Column 7 is ^^**soonest fill date**^^. This is the final section of the utilization tool. This date is provided when steps 1-6 are completed accurately. Provide this to the pharmacy as the date utilization will be met and the medication can be filled.
 
 **Example:**
+
 1.	Quantity received - 60
 2.	Utilization % (in decimal) - 0.8
 3.	Day supply received – 30
