@@ -1,6 +1,6 @@
 # Utilization Calculator
 
-## Tool Calculator
+## [Tool Calculator](<Utilization Calculator.xlsx>){ :target=_blank rel="noopener" }
 
 The Utilization Calculator Tool is designed to assist in determining if utilization has been met
 with a recent dosage change. The highlighted and starred sections are what is important to
