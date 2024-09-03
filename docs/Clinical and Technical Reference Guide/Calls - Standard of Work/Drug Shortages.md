@@ -5,6 +5,16 @@ search:
 
 # Drug Shortages
 
+## 9/3/2024 Elidel
+
+|Caller|Patient Age	|Call Center Action|	Additional Notes:|
+| :--- | :--- | :--- | :--- |
+|Pharmacy	|Less than 12 years	|Provide a 90 day edit override for generic pimecrolimus (if patient has a PA for brand Elidel)	 ||
+|Provider	|Less than 12 years	|Provide a 90 day edit override for generic pimecrolimus (if patient has a PA for brand Elidel)	 ||
+|||||	 	 	 
+|Pharmacy|	12 years or older	|“The preferred medication, Elidel, is not available due to manufacturer backorder. There is another preferred medication in the same class, tacrolimus, that is available with prior authorization.  Please inform the prescriber of the brand name Elidel shortage and the available tacrolimus option. Please request the provider to submit a prior authorization request for either: Tacrolimus, if it is acceptable for the patient, or for the generic Elidel (pimecrolimus) that is available. ||	 
+|Provider	|12 years or older|	“The preferred medication, Elidel, is not available due to manufacturer backorder. There is another preferred medication in the same class, tacrolimus, that is available with prior authorization. Please consider the available preferred medication option, tacrolimus. If tacrolimus isn’t appropriate for the patient, I am able to provide a 90-day override for the generic pimecrolimus.|  	We could offer the prescriber to accept a verbal PA request for tacrolimus (which if appropriate for the patient, should be approved), or we can accept a PA request for generic pimecrolimus if the prescriber prefers.  |
+
 **General rule for shortage issues (per Justin Collingwood):**
 
 | | | |
