@@ -76,7 +76,7 @@ remove.
 
 ![](docs/images/Walkthrough%20on%20how%20to%20place%20a%20Edit%20Override/media/image8.png)
 
-Step 10: Once you have populated the correct term date and chosen the
+Step 10: Once you have populated the correct term date ==(enter for the current day only)== and chosen the
 overrides you wish to override you can edit your status to “Approve”
 (for edit overrides that you are placing the status will always be
 approved so that the overrides will be placed. The source and Method
