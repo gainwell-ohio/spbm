@@ -117,6 +117,16 @@ Dublin, OH 43016-0472
 
 ## Portal Support
 
--	If you receive a phone call or an email about troubles with the portal please send an email to the following address with Portal Support in the subject line. 
+-	If you receive a phone call or an email about troubles with the portal, please send an email to the following address with **Portal Support** in the subject line.
 -	Ohio_Gainwell_ServiceDesk_Group ohio_mits_servicedesk@gainwelltechnologies.com
+
+Please do not give this email out to external entities.
+
+In your email p[lease include the following information:
+
+-	Contact Name
+-	Phone Number
+-	NPI if applicable
+-	Description of issue
+
 
